@@ -1,0 +1,40 @@
+{
+  "DataList": [
+    {
+      "MailType": "Attendance",
+      "ExpiredDay": 7,
+      "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+      "Comment": "UI_MAILBOX_ATTENDANCE_REWARD_MESSAGE_NORMAL"
+    },
+    {
+      "MailType": "MassTrade",
+      "ExpiredDay": 7,
+      "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+      "Comment": "UI_MAILBOX_MASS_TRADE_MESSAGE_NORMAL"
+    },
+    {
+      "MailType": "InventoryFull",
+      "ExpiredDay": 7,
+      "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+      "Comment": "UI_MAILBOX_INVENTROY_FULL_MESSAGE_NORMAL"
+    },
+    {
+      "MailType": "ArenaDefenseVictory",
+      "ExpiredDay": 7,
+      "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+      "Comment": "UI_MAILBOX_ARENA_DEFENSE_VICTORY_MESSAGE_NORMAL"
+    },
+    {
+      "MailType": "CouponUsageReward",
+      "ExpiredDay": 7,
+      "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+      "Comment": "UI_MAILBOX_COUPON_REWARD_MESSAGE_NORMAL"
+    },
+    {
+      "MailType": "ArenaSeasonClose",
+      "ExpiredDay": 7,
+      "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+      "Comment": "UI_MAILBOX_ARENA_SEASON_CLOSE_MESSAGE_NORMAL"
+    }
+  ]
+}

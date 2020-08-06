@@ -1,0 +1,67 @@
+{
+  "DataList": [
+    {
+      "ParcelType": "Currency",
+      "ParcelId": 1,
+      "PresetGroupId": 1,
+      "ParcelDevName": "Gold",
+      "ParcelAmount": 10000
+    },
+    {
+      "ParcelType": "Currency",
+      "ParcelId": 3,
+      "PresetGroupId": 1,
+      "ParcelDevName": "GemBonus",
+      "ParcelAmount": 2000
+    },
+    {
+      "ParcelType": "Currency",
+      "ParcelId": 6,
+      "PresetGroupId": 1,
+      "ParcelDevName": "AP",
+      "ParcelAmount": 26
+    },
+    {
+      "ParcelType": "Currency",
+      "ParcelId": 7,
+      "PresetGroupId": 2,
+      "ParcelDevName": "ArenaTicket",
+      "ParcelAmount": 5
+    },
+    {
+      "ParcelType": "Currency",
+      "ParcelId": 8,
+      "PresetGroupId": 2,
+      "ParcelDevName": "RaidTicket",
+      "ParcelAmount": 3
+    },
+    {
+      "ParcelType": "Currency",
+      "ParcelId": 12,
+      "PresetGroupId": 2,
+      "ParcelDevName": "AcademyTicket",
+      "ParcelAmount": 3
+    },
+    {
+      "ParcelType": "Furniture",
+      "ParcelId": 10130518,
+      "PresetGroupId": 3,
+      "ParcelDevName": "댄싱스타 게임기",
+      "ParcelAmount": 1
+    },
+    {
+      "ParcelType": "Item",
+      "ParcelId": 13,
+      "PresetGroupId": 3,
+      "ParcelDevName": "경험치 북( 최상급 )",
+      "ParcelAmount": 100
+    },
+    {
+      "ParcelType": "Equipment",
+      "ParcelId": 109301,
+      "PresetGroupId": 3,
+      "ParcelDevName": "클로버 쵸커",
+      "ParcelAmount": 1
+    }
+  ]
+}

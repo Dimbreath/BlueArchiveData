@@ -1,0 +1,40 @@
+{
+  "DataList": [
+    {
+      "RewardId": 1699135692,
+      "RewardParcelTypeLength": 272,
+      "RewardParcelIdLength": 240,
+      "RewardParcelAmountLength": 204,
+      "RewardParcelProbabilityLength": 168,
+      "IsDisplayedLength": 156,
+      "DropItemModelPrefabPathLength": 4
+    },
+    {
+      "RewardId": 3485155052,
+      "RewardParcelTypeLength": 276,
+      "RewardParcelIdLength": 240,
+      "RewardParcelAmountLength": 204,
+      "RewardParcelProbabilityLength": 168,
+      "IsDisplayedLength": 156,
+      "DropItemModelPrefabPathLength": 4
+    },
+    {
+      "RewardId": 1688928395,
+      "RewardParcelTypeLength": 272,
+      "RewardParcelIdLength": 240,
+      "RewardParcelAmountLength": 204,
+      "RewardParcelProbabilityLength": 168,
+      "IsDisplayedLength": 156,
+      "DropItemModelPrefabPathLength": 4
+    },
+    {
+      "RewardId": 21190413,
+      "RewardParcelTypeLength": 272,
+      "RewardParcelIdLength": 240,
+      "RewardParcelAmountLength": 204,
+      "RewardParcelProbabilityLength": 168,
+      "IsDisplayedLength": 156,
+      "DropItemModelPrefabPathLength": 4
+    }
+  ]
+}

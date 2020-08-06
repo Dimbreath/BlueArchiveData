@@ -1,0 +1,817 @@
+{
+  "DataList": [
+    {
+      "CharacterId": 7310011,
+      "DevName": "Binah_default_VeryEasy",
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "HPUnder",
+      "TriggerArgument": "200000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7310011,
+      "DevName": "Binah_default_VeryEasy",
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "HPUnder",
+      "TriggerArgument": "100000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7310011,
+      "DevName": "Binah_default_VeryEasy",
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7310011,
+      "DevName": "Binah_default_VeryEasy",
+      "ExternalBTNodeType": "SubNode",
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7310011,
+      "DevName": "Binah_default_VeryEasy",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7310011,
+      "DevName": "Binah_default_VeryEasy",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "10"
+    },
+    {
+      "CharacterId": 7310011,
+      "DevName": "Binah_default_VeryEasy",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckActiveGaugeOver",
+      "TriggerArgument": "100",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7310011,
+      "DevName": "Binah_default_VeryEasy",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "HPUnder",
+      "TriggerArgument": "100000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7310011,
+      "DevName": "Binah_default_VeryEasy",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7310011,
+      "DevName": "Binah_default_VeryEasy",
+      "ExternalBTNodeType": "SubNode",
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7310011,
+      "DevName": "Binah_default_VeryEasy",
+      "AIPhase": 1,
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7310011,
+      "DevName": "Binah_default_VeryEasy",
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "30"
+    },
+    {
+      "CharacterId": 7310011,
+      "DevName": "Binah_default_VeryEasy",
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckActiveGaugeOver",
+      "TriggerArgument": "100",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7310011,
+      "DevName": "Binah_default_VeryEasy",
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7310011,
+      "DevName": "Binah_default_VeryEasy",
+      "ExternalBTNodeType": "SubNode",
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7310011,
+      "DevName": "Binah_default_VeryEasy",
+      "AIPhase": 2,
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7310012,
+      "DevName": "Binah_default_Easy",
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "HPUnder",
+      "TriggerArgument": "300000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7310012,
+      "DevName": "Binah_default_Easy",
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "HPUnder",
+      "TriggerArgument": "100000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7310012,
+      "DevName": "Binah_default_Easy",
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7310012,
+      "DevName": "Binah_default_Easy",
+      "ExternalBTNodeType": "SubNode",
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7310012,
+      "DevName": "Binah_default_Easy",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7310012,
+      "DevName": "Binah_default_Easy",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "10"
+    },
+    {
+      "CharacterId": 7310012,
+      "DevName": "Binah_default_Easy",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckActiveGaugeOver",
+      "TriggerArgument": "100",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7310012,
+      "DevName": "Binah_default_Easy",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "HPUnder",
+      "TriggerArgument": "100000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7310012,
+      "DevName": "Binah_default_Easy",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7310012,
+      "DevName": "Binah_default_Easy",
+      "ExternalBTNodeType": "SubNode",
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7310012,
+      "DevName": "Binah_default_Easy",
+      "AIPhase": 1,
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7310012,
+      "DevName": "Binah_default_Easy",
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "30"
+    },
+    {
+      "CharacterId": 7310012,
+      "DevName": "Binah_default_Easy",
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckActiveGaugeOver",
+      "TriggerArgument": "100",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7310012,
+      "DevName": "Binah_default_Easy",
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7310012,
+      "DevName": "Binah_default_Easy",
+      "ExternalBTNodeType": "SubNode",
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7310012,
+      "DevName": "Binah_default_Easy",
+      "AIPhase": 2,
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7310013,
+      "DevName": "Binah_default_Normal",
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "HPUnder",
+      "TriggerArgument": "450000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7310013,
+      "DevName": "Binah_default_Normal",
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "HPUnder",
+      "TriggerArgument": "200000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7310013,
+      "DevName": "Binah_default_Normal",
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7310013,
+      "DevName": "Binah_default_Normal",
+      "ExternalBTNodeType": "SubNode",
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7310013,
+      "DevName": "Binah_default_Normal",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7310013,
+      "DevName": "Binah_default_Normal",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "10"
+    },
+    {
+      "CharacterId": 7310013,
+      "DevName": "Binah_default_Normal",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckActiveGaugeOver",
+      "TriggerArgument": "100",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7310013,
+      "DevName": "Binah_default_Normal",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "HPUnder",
+      "TriggerArgument": "200000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7310013,
+      "DevName": "Binah_default_Normal",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7310013,
+      "DevName": "Binah_default_Normal",
+      "ExternalBTNodeType": "SubNode",
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7310013,
+      "DevName": "Binah_default_Normal",
+      "AIPhase": 1,
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7310013,
+      "DevName": "Binah_default_Normal",
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "30"
+    },
+    {
+      "CharacterId": 7310013,
+      "DevName": "Binah_default_Normal",
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckActiveGaugeOver",
+      "TriggerArgument": "100",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7310013,
+      "DevName": "Binah_default_Normal",
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7310013,
+      "DevName": "Binah_default_Normal",
+      "ExternalBTNodeType": "SubNode",
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7310013,
+      "DevName": "Binah_default_Normal",
+      "AIPhase": 2,
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7310021,
+      "DevName": "Chesed_default_VeryEasy",
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "HPUnder",
+      "TriggerArgument": "63099",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7310021,
+      "DevName": "Chesed_default_VeryEasy",
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckActiveGaugeOver",
+      "TriggerArgument": "100",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7310021,
+      "DevName": "Chesed_default_VeryEasy",
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckActiveGaugeOver",
+      "TriggerArgument": "50",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7310021,
+      "DevName": "Chesed_default_VeryEasy",
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "400",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7310021,
+      "DevName": "Chesed_default_VeryEasy",
+      "ExternalBTTrigger": "CheckSummonCharacterCountUnder",
+      "TriggerArgument": "0",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7310021,
+      "DevName": "Chesed_default_VeryEasy",
+      "ExternalBTTrigger": "CheckSummonCharacterCountUnder",
+      "TriggerArgument": "0",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-50"
+    },
+    {
+      "CharacterId": 7310021,
+      "DevName": "Chesed_default_VeryEasy",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckActiveGaugeOver",
+      "TriggerArgument": "100",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7310021,
+      "DevName": "Chesed_default_VeryEasy",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckActiveGaugeOver",
+      "TriggerArgument": "50",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7310021,
+      "DevName": "Chesed_default_VeryEasy",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "400",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7310021,
+      "DevName": "Chesed_default_VeryEasy",
+      "AIPhase": 1,
+      "ExternalBTTrigger": "CheckSummonCharacterCountUnder",
+      "TriggerArgument": "0",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7310021,
+      "DevName": "Chesed_default_VeryEasy",
+      "AIPhase": 1,
+      "ExternalBTTrigger": "CheckSummonCharacterCountUnder",
+      "TriggerArgument": "0",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-50"
+    },
+    {
+      "CharacterId": 7310022,
+      "DevName": "Chesed_default_Easy",
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "HPUnder",
+      "TriggerArgument": "265899",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7310022,
+      "DevName": "Chesed_default_Easy",
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckActiveGaugeOver",
+      "TriggerArgument": "100",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7310022,
+      "DevName": "Chesed_default_Easy",
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckActiveGaugeOver",
+      "TriggerArgument": "50",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7310022,
+      "DevName": "Chesed_default_Easy",
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "400",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7310022,
+      "DevName": "Chesed_default_Easy",
+      "ExternalBTTrigger": "CheckSummonCharacterCountUnder",
+      "TriggerArgument": "0",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7310022,
+      "DevName": "Chesed_default_Easy",
+      "ExternalBTTrigger": "CheckSummonCharacterCountUnder",
+      "TriggerArgument": "0",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-50"
+    },
+    {
+      "CharacterId": 7310022,
+      "DevName": "Chesed_default_Easy",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckActiveGaugeOver",
+      "TriggerArgument": "100",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7310022,
+      "DevName": "Chesed_default_Easy",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckActiveGaugeOver",
+      "TriggerArgument": "50",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7310022,
+      "DevName": "Chesed_default_Easy",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "400",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7310022,
+      "DevName": "Chesed_default_Easy",
+      "AIPhase": 1,
+      "ExternalBTTrigger": "CheckSummonCharacterCountUnder",
+      "TriggerArgument": "0",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7310022,
+      "DevName": "Chesed_default_Easy",
+      "AIPhase": 1,
+      "ExternalBTTrigger": "CheckSummonCharacterCountUnder",
+      "TriggerArgument": "0",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-50"
+    },
+    {
+      "CharacterId": 7310023,
+      "DevName": "Chesed_default_Normal",
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "HPUnder",
+      "TriggerArgument": "449999",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7310023,
+      "DevName": "Chesed_default_Normal",
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckActiveGaugeOver",
+      "TriggerArgument": "100",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7310023,
+      "DevName": "Chesed_default_Normal",
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckActiveGaugeOver",
+      "TriggerArgument": "50",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7310023,
+      "DevName": "Chesed_default_Normal",
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "400",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7310023,
+      "DevName": "Chesed_default_Normal",
+      "ExternalBTTrigger": "CheckSummonCharacterCountUnder",
+      "TriggerArgument": "0",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7310023,
+      "DevName": "Chesed_default_Normal",
+      "ExternalBTTrigger": "CheckSummonCharacterCountUnder",
+      "TriggerArgument": "0",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-50"
+    },
+    {
+      "CharacterId": 7310023,
+      "DevName": "Chesed_default_Normal",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckActiveGaugeOver",
+      "TriggerArgument": "100",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7310023,
+      "DevName": "Chesed_default_Normal",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckActiveGaugeOver",
+      "TriggerArgument": "50",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7310023,
+      "DevName": "Chesed_default_Normal",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "400",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7310023,
+      "DevName": "Chesed_default_Normal",
+      "AIPhase": 1,
+      "ExternalBTTrigger": "CheckSummonCharacterCountUnder",
+      "TriggerArgument": "0",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7310023,
+      "DevName": "Chesed_default_Normal",
+      "AIPhase": 1,
+      "ExternalBTTrigger": "CheckSummonCharacterCountUnder",
+      "TriggerArgument": "0",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-50"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "DataList": [
+    {
+      "GroupNameLocalizeKey": "group0",
+      "MapNameLocalizeKey": "Arena_Map_Street_01",
+      "ImagePath": "UIs/01_Common/18_PVPArena/Arena_Map_Street_01",
+      "GroundId": 510100001,
+      "OpenRank": 99999
+    },
+    {
+      "UniqueId": 1,
+      "GroupId": 1,
+      "GroupNameLocalizeKey": "group1",
+      "MapNameLocalizeKey": "Arena_Map_Outdoor_01",
+      "StageTopography": "Outdoor",
+      "ImagePath": "UIs/01_Common/18_PVPArena/Arena_Map_Outdoor_01",
+      "GroundId": 520400001,
+      "OpenRank": 12500
+    },
+    {
+      "UniqueId": 2,
+      "GroupId": 2,
+      "GroupNameLocalizeKey": "group2",
+      "MapNameLocalizeKey": "Arena_Map_Indoor_01",
+      "StageTopography": "Indoor",
+      "ImagePath": "UIs/01_Common/18_PVPArena/Arena_Map_Indoor_01",
+      "GroundId": 530100011,
+      "OpenRank": 10000
+    }
+  ]
+}

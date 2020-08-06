@@ -1,0 +1,292 @@
+{
+  "DataList": [
+    {
+      "Id": 3000,
+      "LocalizeEtcId": 2385765972,
+      "DevName": "AP_Buy",
+      "GoodsId": 3000,
+      "DisplayOrder": 10,
+      "CategoryType": "Arena",
+      "RefreshGroup": 1,
+      "Prob": 50
+    },
+    {
+      "Id": 3001,
+      "LocalizeEtcId": 2075834651,
+      "DevName": "AP_Buy",
+      "GoodsId": 3001,
+      "DisplayOrder": 20,
+      "CategoryType": "Arena",
+      "RefreshGroup": 2,
+      "Prob": 50
+    },
+    {
+      "Id": 3002,
+      "LocalizeEtcId": 2017814794,
+      "DevName": "AP_Buy",
+      "GoodsId": 3002,
+      "DisplayOrder": 30,
+      "CategoryType": "Arena",
+      "RefreshGroup": 3,
+      "Prob": 50
+    },
+    {
+      "Id": 3003,
+      "LocalizeEtcId": 4039085262,
+      "DevName": "AP_Buy",
+      "GoodsId": 3003,
+      "DisplayOrder": 40,
+      "CategoryType": "Arena",
+      "RefreshGroup": 4,
+      "Prob": 50
+    },
+    {
+      "Id": 3004,
+      "LocalizeEtcId": 2683341399,
+      "DevName": "Gold_0",
+      "GoodsId": 3004,
+      "DisplayOrder": 50,
+      "CategoryType": "Arena",
+      "RefreshGroup": 5,
+      "Prob": 50
+    },
+    {
+      "Id": 3005,
+      "LocalizeEtcId": 2683341399,
+      "DevName": "Gold_1",
+      "GoodsId": 3005,
+      "DisplayOrder": 60,
+      "CategoryType": "Arena",
+      "RefreshGroup": 6,
+      "Prob": 50
+    },
+    {
+      "Id": 3006,
+      "LocalizeEtcId": 2604451079,
+      "DevName": "SkillBook_Trinity_0",
+      "GoodsId": 3006,
+      "DisplayOrder": 70,
+      "CategoryType": "Arena",
+      "RefreshGroup": 7,
+      "Prob": 50
+    },
+    {
+      "Id": 3007,
+      "LocalizeEtcId": 4093961884,
+      "DevName": "SkillBook_Gehenna_0",
+      "GoodsId": 3007,
+      "DisplayOrder": 70,
+      "CategoryType": "Arena",
+      "RefreshGroup": 7,
+      "Prob": 50
+    },
+    {
+      "Id": 3008,
+      "LocalizeEtcId": 470872805,
+      "DevName": "SkillBook_Abydos_0",
+      "GoodsId": 3008,
+      "DisplayOrder": 70,
+      "CategoryType": "Arena",
+      "RefreshGroup": 7,
+      "Prob": 50
+    },
+    {
+      "Id": 3009,
+      "LocalizeEtcId": 855407954,
+      "DevName": "SkillBook_Millennium_0",
+      "GoodsId": 3009,
+      "DisplayOrder": 70,
+      "CategoryType": "Arena",
+      "RefreshGroup": 7,
+      "Prob": 50
+    },
+    {
+      "Id": 3010,
+      "LocalizeEtcId": 2870922143,
+      "DevName": "SkillBook_Shanhaijing_0",
+      "GoodsId": 3010,
+      "DisplayOrder": 70,
+      "CategoryType": "Arena",
+      "RefreshGroup": 7,
+      "Prob": 50
+    },
+    {
+      "Id": 3011,
+      "LocalizeEtcId": 105924615,
+      "DevName": "SkillBook_Valkyrie_0",
+      "GoodsId": 3011,
+      "DisplayOrder": 70,
+      "CategoryType": "Arena",
+      "RefreshGroup": 7,
+      "Prob": 50
+    },
+    {
+      "Id": 3012,
+      "LocalizeEtcId": 3917092855,
+      "DevName": "SkillBook_Trinity_1",
+      "GoodsId": 3012,
+      "DisplayOrder": 80,
+      "CategoryType": "Arena",
+      "RefreshGroup": 8,
+      "Prob": 75
+    },
+    {
+      "Id": 3013,
+      "LocalizeEtcId": 3352515109,
+      "DevName": "SkillBook_Gehenna_1",
+      "GoodsId": 3013,
+      "DisplayOrder": 80,
+      "CategoryType": "Arena",
+      "RefreshGroup": 8,
+      "Prob": 75
+    },
+    {
+      "Id": 3014,
+      "LocalizeEtcId": 2585937841,
+      "DevName": "SkillBook_Abydos_1",
+      "GoodsId": 3014,
+      "DisplayOrder": 80,
+      "CategoryType": "Arena",
+      "RefreshGroup": 8,
+      "Prob": 75
+    },
+    {
+      "Id": 3015,
+      "LocalizeEtcId": 861842148,
+      "DevName": "SkillBook_Millennium_1",
+      "GoodsId": 3015,
+      "DisplayOrder": 80,
+      "CategoryType": "Arena",
+      "RefreshGroup": 8,
+      "Prob": 75
+    },
+    {
+      "Id": 3016,
+      "LocalizeEtcId": 1250087892,
+      "DevName": "SkillBook_Shanhaijing_1",
+      "GoodsId": 3016,
+      "DisplayOrder": 80,
+      "CategoryType": "Arena",
+      "RefreshGroup": 8,
+      "Prob": 75
+    },
+    {
+      "Id": 3017,
+      "LocalizeEtcId": 1939100695,
+      "DevName": "SkillBook_Valkyrie_1",
+      "GoodsId": 3017,
+      "DisplayOrder": 80,
+      "CategoryType": "Arena",
+      "RefreshGroup": 8,
+      "Prob": 75
+    },
+    {
+      "Id": 3018,
+      "LocalizeEtcId": 834295553,
+      "DevName": "SkillBook_Trinity_2",
+      "GoodsId": 3018,
+      "DisplayOrder": 80,
+      "CategoryType": "Arena",
+      "RefreshGroup": 8,
+      "Prob": 25
+    },
+    {
+      "Id": 3019,
+      "LocalizeEtcId": 880116678,
+      "DevName": "SkillBook_Gehenna_2",
+      "GoodsId": 3019,
+      "DisplayOrder": 80,
+      "CategoryType": "Arena",
+      "RefreshGroup": 8,
+      "Prob": 25
+    },
+    {
+      "Id": 3020,
+      "LocalizeEtcId": 4031220615,
+      "DevName": "SkillBook_Abydos_2",
+      "GoodsId": 3020,
+      "DisplayOrder": 80,
+      "CategoryType": "Arena",
+      "RefreshGroup": 8,
+      "Prob": 25
+    },
+    {
+      "Id": 3021,
+      "LocalizeEtcId": 1875605879,
+      "DevName": "SkillBook_Millennium_2",
+      "GoodsId": 3021,
+      "DisplayOrder": 80,
+      "CategoryType": "Arena",
+      "RefreshGroup": 8,
+      "Prob": 25
+    },
+    {
+      "Id": 3022,
+      "LocalizeEtcId": 2916066151,
+      "DevName": "SkillBook_Shanhaijing_2",
+      "GoodsId": 3022,
+      "DisplayOrder": 80,
+      "CategoryType": "Arena",
+      "RefreshGroup": 8,
+      "Prob": 25
+    },
+    {
+      "Id": 3023,
+      "LocalizeEtcId": 2485316896,
+      "DevName": "SkillBook_Valkyrie_2",
+      "GoodsId": 3023,
+      "DisplayOrder": 80,
+      "CategoryType": "Arena",
+      "RefreshGroup": 8,
+      "Prob": 25
+    },
+    {
+      "Id": 3024
+    },
+    {
+      "Id": 3025
+    },
+    {
+      "Id": 3026
+    },
+    {
+      "Id": 3027
+    },
+    {
+      "Id": 3028
+    },
+    {
+      "Id": 3029
+    },
+    {
+      "Id": 3030
+    },
+    {
+      "Id": 3031
+    },
+    {
+      "Id": 3032
+    },
+    {
+      "Id": 3033
+    },
+    {
+      "Id": 3034
+    },
+    {
+      "Id": 3035
+    },
+    {
+      "Id": 3036
+    },
+    {
+      "Id": 3037
+    },
+    {
+      "Id": 3038
+    },
+    {
+      "Id": 3039
+    }
+  ]
+}

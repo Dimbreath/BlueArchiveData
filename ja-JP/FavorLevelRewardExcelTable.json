@@ -1,0 +1,3604 @@
+{
+  "DataList": [
+    {
+      "CharacterId": 1011000,
+      "FavorLevel": 2,
+      "StatTypeLength": 72,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1011000,
+      "FavorLevel": 3,
+      "StatTypeLength": 72,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1011000,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1011000,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1011000,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1011000,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1011000,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1011000,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1011000,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1012000,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1012000,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1012000,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1012000,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1012000,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1012000,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1012000,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1012000,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1012000,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1023000,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1023000,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1023000,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1023000,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1023000,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1023000,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1023000,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1023000,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1023000,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1031000,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1031000,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1031000,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1031000,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1031000,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1031000,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1031000,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1031000,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1031000,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1032000,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1032000,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1032000,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1032000,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1032000,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1032000,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1032000,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1032000,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1032000,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1032001,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1032001,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1032001,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1032001,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1032001,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1032001,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1032001,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1032001,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1032001,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1033000,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1033000,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1033000,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1033000,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1033000,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1033000,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1033000,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1033000,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1033000,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1033001,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1033001,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1033001,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1033001,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1033001,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1033001,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1033001,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1033001,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1033001,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1033002,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1033002,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1033002,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1033002,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1033002,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1033002,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1033002,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1033002,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1033002,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1041001,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1041001,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1041001,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1041001,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1041001,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1041001,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1041001,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1041001,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1041001,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1041002,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1041002,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1041002,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1041002,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1041002,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1041002,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1041002,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1041002,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1041002,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1041003,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1041003,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1041003,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1041003,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1041003,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1041003,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1041003,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1041003,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1041003,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042000,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042000,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042000,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042000,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042000,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042000,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042000,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042000,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042000,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042001,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042001,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042001,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042001,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042001,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042001,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042001,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042001,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042001,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042002,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042002,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042002,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042002,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042002,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042002,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042002,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042002,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042002,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042004,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042004,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042004,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042004,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042004,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042004,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042004,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042004,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1042004,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1043000,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1043000,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1043000,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1043000,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1043000,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1043000,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1043000,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1043000,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1043000,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051000,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051000,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051000,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051000,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051000,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051000,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051000,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051000,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051000,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051001,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051001,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051001,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051001,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051001,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051001,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051001,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051001,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051001,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051002,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051002,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051002,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051002,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051002,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051002,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051002,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051002,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051002,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051003,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051003,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051003,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051003,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051003,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051003,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051003,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051003,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1051003,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1061001,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1061001,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1061001,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1061001,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1061001,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1061001,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1061001,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1061001,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1061001,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1061002,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1061002,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1061002,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1061002,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1061002,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1061002,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1061002,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1061002,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1061002,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062000,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062000,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062000,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062000,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062000,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062000,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062000,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062000,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062000,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062001,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062001,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062001,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062001,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062001,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062001,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062001,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062001,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062001,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062002,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062002,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062002,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062002,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062002,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062002,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062002,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062002,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062002,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062003,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062003,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062003,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062003,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062003,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062003,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062003,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062003,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062003,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062004,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062004,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062004,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062004,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062004,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062004,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062004,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062004,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1062004,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1063000,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1063000,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1063000,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1063000,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1063000,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1063000,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1063000,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1063000,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1063000,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1091000,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1091000,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1091000,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1091000,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1091000,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1091000,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1091000,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1091000,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 1091000,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2032000,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2032000,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2032000,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2032000,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2032000,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2032000,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2032000,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2032000,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2032000,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2032001,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2032001,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2032001,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2032001,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2032001,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2032001,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2032001,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2032001,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2032001,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2033000,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2033000,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2033000,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2033000,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2033000,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2033000,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2033000,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2033000,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2033000,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2041000,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2041000,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2041000,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2041000,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2041000,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2041000,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2041000,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2041000,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2041000,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2041001,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2041001,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2041001,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2041001,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2041001,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2041001,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2041001,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2041001,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2041001,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2042000,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2042000,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2042000,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2042000,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2042000,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2042000,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2042000,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2042000,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2042000,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2061000,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2061000,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2061000,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2061000,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2061000,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2061000,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2061000,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2061000,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2061000,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2061001,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2061001,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2061001,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2061001,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2061001,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2061001,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2061001,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2061001,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2061001,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2062000,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2062000,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2062000,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2062000,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2062000,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2062000,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2062000,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2062000,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2062000,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2083000,
+      "FavorLevel": 2,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2083000,
+      "FavorLevel": 3,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2083000,
+      "FavorLevel": 4,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2083000,
+      "FavorLevel": 5,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2083000,
+      "FavorLevel": 6,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2083000,
+      "FavorLevel": 7,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2083000,
+      "FavorLevel": 8,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2083000,
+      "FavorLevel": 9,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    },
+    {
+      "CharacterId": 2083000,
+      "FavorLevel": 10,
+      "StatTypeLength": 76,
+      "StatValueLength": 56,
+      "RewardParcelTypeLength": 48,
+      "RewardParcelIdLength": 40,
+      "RewardParcelDevNameLength": 32,
+      "RewardAmountLength": 24
+    }
+  ]
+}

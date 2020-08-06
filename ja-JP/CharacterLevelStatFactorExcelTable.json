@@ -1,0 +1,704 @@
+{
+  "DataList": [
+    {
+      "Level": 1,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 2,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 3,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 4,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 5,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 6,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 7,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 8,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 9,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 10,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 11,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 12,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 13,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 14,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 15,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 16,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 17,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 18,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 19,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 20,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 21,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 22,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 23,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 24,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 25,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 26,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 27,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 28,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 29,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 30,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 31,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 32,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 33,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 34,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 35,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 36,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 37,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 38,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 39,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 40,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 41,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 42,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 43,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 44,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 45,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 46,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 47,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 48,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 49,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 50,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 51,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 52,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 53,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 54,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 55,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 56,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 57,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 58,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 59,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 60,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 61,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 62,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 63,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 64,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 65,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 66,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 67,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 68,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 69,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 70,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 71,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 72,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 73,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 74,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 75,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 76,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 77,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 78,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 79,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 80,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 81,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 82,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 83,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 84,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 85,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 86,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 87,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 88,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 89,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 90,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 91,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 92,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 93,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 94,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 95,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 96,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 97,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 98,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 99,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    },
+    {
+      "Level": 100,
+      "CriticalFactor": 1000,
+      "StabilityFactor": 1000,
+      "DefenceFactor": 1000,
+      "AccuracyFactor": 200
+    }
+  ]
+}

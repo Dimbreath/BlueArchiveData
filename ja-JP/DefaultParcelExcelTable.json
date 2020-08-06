@@ -1,0 +1,40 @@
+{
+  "DataList": [
+    {
+      "ParcelType": "Currency",
+      "ParcelId": 1,
+      "ParcelDevName": "Gold",
+      "ParcelAmount": 10000
+    },
+    {
+      "ParcelType": "Currency",
+      "ParcelId": 3,
+      "ParcelDevName": "GemBonus",
+      "ParcelAmount": 2000
+    },
+    {
+      "ParcelType": "Currency",
+      "ParcelId": 6,
+      "ParcelDevName": "AP",
+      "ParcelAmount": 26
+    },
+    {
+      "ParcelType": "Currency",
+      "ParcelId": 7,
+      "ParcelDevName": "ArenaTicket",
+      "ParcelAmount": 5
+    },
+    {
+      "ParcelType": "Currency",
+      "ParcelId": 8,
+      "ParcelDevName": "RaidTicket",
+      "ParcelAmount": 3
+    },
+    {
+      "ParcelType": "Currency",
+      "ParcelId": 12,
+      "ParcelDevName": "AcademyTicket",
+      "ParcelAmount": 3
+    }
+  ]
+}

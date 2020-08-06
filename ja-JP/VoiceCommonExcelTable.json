@@ -1,0 +1,88 @@
+{
+  "DataList": [
+    {
+      "Rate": 10000,
+      "VoiceHashLength": 16
+    },
+    {
+      "VoiceEvent": "FormationPickUp",
+      "Rate": 10000,
+      "VoiceHashLength": 16
+    },
+    {
+      "VoiceEvent": "CampaignResultDefeat",
+      "Rate": 10000,
+      "VoiceHashLength": 16
+    },
+    {
+      "VoiceEvent": "CampaignResultVictory",
+      "Rate": 10000,
+      "VoiceHashLength": 12
+    },
+    {
+      "VoiceEvent": "CharacterLevelUp",
+      "Rate": 10000,
+      "VoiceHashLength": 16
+    },
+    {
+      "VoiceEvent": "CharacterTranscendence",
+      "Rate": 10000,
+      "VoiceHashLength": 12
+    },
+    {
+      "VoiceEvent": "SkillLevelUp",
+      "Rate": 10000,
+      "VoiceHashLength": 12
+    },
+    {
+      "VoiceEvent": "Formation",
+      "Rate": 10000,
+      "VoiceHashLength": 12
+    },
+    {
+      "VoiceEvent": "CampaignCharacterSpawn",
+      "Rate": 10000,
+      "VoiceHashLength": 12
+    },
+    {
+      "VoiceEvent": "BattleStartTimeline",
+      "Rate": 10000,
+      "VoiceHashLength": 12
+    },
+    {
+      "VoiceEvent": "BattleVictoryTimeline",
+      "Rate": 10000,
+      "VoiceHashLength": 12
+    },
+    {
+      "VoiceEvent": "CharacterFavor",
+      "Rate": 10000,
+      "VoiceHashLength": 12
+    },
+    {
+      "VoiceEvent": "BattleMiss",
+      "Rate": 1000,
+      "VoiceHashLength": 12
+    },
+    {
+      "VoiceEvent": "BattleBlock",
+      "Rate": 1000,
+      "VoiceHashLength": 12
+    },
+    {
+      "VoiceEvent": "BattleCover",
+      "Rate": 3000,
+      "VoiceHashLength": 12
+    },
+    {
+      "VoiceEvent": "BattleMove",
+      "Rate": 2000,
+      "VoiceHashLength": 12
+    },
+    {
+      "VoiceEvent": "BattleMoveToForamtionBeacon",
+      "Rate": 10000,
+      "VoiceHashLength": 12
+    }
+  ]
+}

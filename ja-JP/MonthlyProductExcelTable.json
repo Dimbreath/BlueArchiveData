@@ -1,0 +1,43 @@
+{
+  "DataList": [
+    {
+      "Id": 1,
+      "DevName": "쥬얼 월정액",
+      "MonthlyDays": 28,
+      "ParcelType": "Currency",
+      "ParcelId": 2,
+      "ParcelDevName": "즉시 지급",
+      "ParcelAmount": 100,
+      "DailyParcelType": "Currency",
+      "DailyParcelId": 2,
+      "DailyParcelDevName": "28일간 지급",
+      "DailyParcelAmount": 50
+    },
+    {
+      "Id": 2,
+      "DevName": "경험치북 월정액",
+      "MonthlyDays": 28,
+      "ParcelType": "Item",
+      "ParcelId": 13,
+      "ParcelDevName": "즉시 지급",
+      "ParcelAmount": 10,
+      "DailyParcelType": "Item",
+      "DailyParcelId": 13,
+      "DailyParcelDevName": "28일간 지급",
+      "DailyParcelAmount": 2
+    },
+    {
+      "Id": 3,
+      "DevName": "쥬얼 월정액",
+      "MonthlyDays": 28,
+      "ParcelType": "Currency",
+      "ParcelId": 6,
+      "ParcelDevName": "즉시 지급",
+      "ParcelAmount": 200,
+      "DailyParcelType": "Currency",
+      "DailyParcelId": 1,
+      "DailyParcelDevName": "28일간 지급",
+      "DailyParcelAmount": 10000
+    }
+  ]
+}

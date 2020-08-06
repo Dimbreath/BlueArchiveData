@@ -1,0 +1,277 @@
+{
+  "DataList": [
+    {
+      "ModeId": 1,
+      "RewardParcelTypeLength": 160,
+      "RewardParcelIdLength": 128,
+      "RewardDevNameLength": 32,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 2,
+      "RewardParcelTypeLength": 172,
+      "RewardParcelIdLength": 136,
+      "RewardDevNameLength": 32,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 3,
+      "RewardParcelTypeLength": 172,
+      "RewardParcelIdLength": 136,
+      "RewardDevNameLength": 32,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 4,
+      "RewardParcelTypeLength": 172,
+      "RewardParcelIdLength": 136,
+      "RewardDevNameLength": 32,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 5,
+      "RewardParcelTypeLength": 172,
+      "RewardParcelIdLength": 136,
+      "RewardDevNameLength": 32,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 6,
+      "RewardParcelTypeLength": 172,
+      "RewardParcelIdLength": 136,
+      "RewardDevNameLength": 32,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 7,
+      "RewardParcelTypeLength": 164,
+      "RewardParcelIdLength": 128,
+      "RewardDevNameLength": 32,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 8,
+      "RewardParcelTypeLength": 172,
+      "RewardParcelIdLength": 136,
+      "RewardDevNameLength": 32,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 9,
+      "RewardParcelTypeLength": 164,
+      "RewardParcelIdLength": 128,
+      "RewardDevNameLength": 32,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 10,
+      "RewardParcelTypeLength": 172,
+      "RewardParcelIdLength": 136,
+      "RewardDevNameLength": 32,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 11,
+      "RewardParcelTypeLength": 120,
+      "RewardParcelIdLength": 96,
+      "RewardDevNameLength": 28,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 12,
+      "RewardParcelTypeLength": 172,
+      "RewardParcelIdLength": 136,
+      "RewardDevNameLength": 32,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 13,
+      "RewardParcelTypeLength": 172,
+      "RewardParcelIdLength": 136,
+      "RewardDevNameLength": 32,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 14,
+      "RewardParcelTypeLength": 120,
+      "RewardParcelIdLength": 96,
+      "RewardDevNameLength": 28,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 15,
+      "RewardParcelTypeLength": 120,
+      "RewardParcelIdLength": 96,
+      "RewardDevNameLength": 32,
+      "RewardParcelAmountLength": 16
+    },
+    {
+      "ModeId": 16,
+      "RewardParcelTypeLength": 120,
+      "RewardParcelIdLength": 96,
+      "RewardDevNameLength": 28,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 17,
+      "RewardParcelTypeLength": 120,
+      "RewardParcelIdLength": 96,
+      "RewardDevNameLength": 28,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 18,
+      "RewardParcelTypeLength": 120,
+      "RewardParcelIdLength": 96,
+      "RewardDevNameLength": 28,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 19,
+      "RewardParcelTypeLength": 120,
+      "RewardParcelIdLength": 96,
+      "RewardDevNameLength": 28,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 20,
+      "RewardParcelTypeLength": 164,
+      "RewardParcelIdLength": 128,
+      "RewardDevNameLength": 36,
+      "RewardParcelAmountLength": 16
+    },
+    {
+      "ModeId": 21,
+      "RewardParcelTypeLength": 76,
+      "RewardParcelIdLength": 56,
+      "RewardDevNameLength": 24,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 22,
+      "RewardParcelTypeLength": 76,
+      "RewardParcelIdLength": 56,
+      "RewardDevNameLength": 24,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 101,
+      "RewardParcelTypeLength": 76,
+      "RewardParcelIdLength": 56,
+      "RewardDevNameLength": 24,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 102,
+      "RewardParcelTypeLength": 76,
+      "RewardParcelIdLength": 56,
+      "RewardDevNameLength": 24,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 103,
+      "RewardParcelTypeLength": 76,
+      "RewardParcelIdLength": 56,
+      "RewardDevNameLength": 24,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 201,
+      "RewardParcelTypeLength": 76,
+      "RewardParcelIdLength": 56,
+      "RewardDevNameLength": 24,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 202,
+      "RewardParcelTypeLength": 76,
+      "RewardParcelIdLength": 56,
+      "RewardDevNameLength": 24,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 203,
+      "RewardParcelTypeLength": 76,
+      "RewardParcelIdLength": 56,
+      "RewardDevNameLength": 24,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 301,
+      "RewardParcelTypeLength": 76,
+      "RewardParcelIdLength": 56,
+      "RewardDevNameLength": 24,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 401,
+      "RewardParcelTypeLength": 76,
+      "RewardParcelIdLength": 56,
+      "RewardDevNameLength": 24,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 501,
+      "RewardParcelTypeLength": 76,
+      "RewardParcelIdLength": 56,
+      "RewardDevNameLength": 24,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 601,
+      "RewardParcelTypeLength": 76,
+      "RewardParcelIdLength": 56,
+      "RewardDevNameLength": 24,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 701,
+      "RewardParcelTypeLength": 76,
+      "RewardParcelIdLength": 56,
+      "RewardDevNameLength": 24,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 801,
+      "RewardParcelTypeLength": 76,
+      "RewardParcelIdLength": 56,
+      "RewardDevNameLength": 24,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 901,
+      "RewardParcelTypeLength": 76,
+      "RewardParcelIdLength": 56,
+      "RewardDevNameLength": 24,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 1001,
+      "RewardParcelTypeLength": 76,
+      "RewardParcelIdLength": 56,
+      "RewardDevNameLength": 24,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 1101,
+      "RewardParcelTypeLength": 76,
+      "RewardParcelIdLength": 56,
+      "RewardDevNameLength": 24,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 1201,
+      "RewardParcelTypeLength": 76,
+      "RewardParcelIdLength": 56,
+      "RewardDevNameLength": 24,
+      "RewardParcelAmountLength": 12
+    },
+    {
+      "ModeId": 1301,
+      "RewardParcelTypeLength": 76,
+      "RewardParcelIdLength": 56,
+      "RewardDevNameLength": 24,
+      "RewardParcelAmountLength": 12
+    }
+  ]
+}

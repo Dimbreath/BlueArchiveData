@@ -1,0 +1,258 @@
+{
+  "DataList": [
+    {
+      "LockUILength": 92,
+      "ShortcutPopupPriority": 1,
+      "ShortcutUINameLength": 52,
+      "Scene": "Lobby",
+      "AccountLevel": 1,
+      "OpenDayOfWeek": "All",
+      "CloseDayOfWeek": "All",
+      "CloseHour": 24
+    },
+    {
+      "OpenConditionContentType": "Echelon",
+      "LockUILength": 76,
+      "ShortcutPopupPriority": 2,
+      "ShortcutUINameLength": 52,
+      "Scene": "Lobby",
+      "AccountLevel": 1,
+      "OpenDayOfWeek": "All",
+      "CloseDayOfWeek": "All",
+      "CloseHour": 24
+    },
+    {
+      "OpenConditionContentType": "School_Obsolete",
+      "LockUILength": 68,
+      "ShortcutUINameLength": 44,
+      "Scene": "Lobby",
+      "AccountLevel": 1,
+      "OpenDayOfWeek": "All",
+      "CloseDayOfWeek": "All",
+      "CloseHour": 24
+    },
+    {
+      "OpenConditionContentType": "Character",
+      "LockUILength": 80,
+      "ShortcutPopupPriority": 3,
+      "ShortcutUINameLength": 56,
+      "Scene": "Lobby",
+      "AccountLevel": 1,
+      "OpenDayOfWeek": "All",
+      "CloseDayOfWeek": "All",
+      "CloseHour": 24
+    },
+    {
+      "OpenConditionContentType": "Warehouse_Obsolete",
+      "LockUILength": 72,
+      "ShortcutUINameLength": 48,
+      "Scene": "Lobby",
+      "AccountLevel": 1,
+      "OpenDayOfWeek": "All",
+      "CloseDayOfWeek": "All",
+      "CloseHour": 24
+    },
+    {
+      "OpenConditionContentType": "Shop",
+      "LockUILength": 76,
+      "ShortcutPopupPriority": 4,
+      "ShortcutUINameLength": 52,
+      "Scene": "Lobby",
+      "AccountLevel": 1,
+      "OpenDayOfWeek": "All",
+      "CloseDayOfWeek": "All",
+      "CloseHour": 24
+    },
+    {
+      "OpenConditionContentType": "Gacha",
+      "LockUILength": 76,
+      "ShortcutPopupPriority": 5,
+      "ShortcutUINameLength": 52,
+      "Scene": "Lobby",
+      "AccountLevel": 1,
+      "OpenDayOfWeek": "All",
+      "CloseDayOfWeek": "All",
+      "CloseHour": 24
+    },
+    {
+      "OpenConditionContentType": "LobbyIllust",
+      "LockUILength": 76,
+      "ShortcutPopupPriority": 6,
+      "ShortcutUINameLength": 52,
+      "Scene": "Lobby",
+      "AccountLevel": 1,
+      "OpenDayOfWeek": "All",
+      "CloseDayOfWeek": "All",
+      "CloseHour": 24
+    },
+    {
+      "OpenConditionContentType": "Raid",
+      "LockUILength": 100,
+      "ShortcutPopupPriority": 7,
+      "ShortcutUINameLength": 60,
+      "Scene": "Lobby",
+      "AccountLevel": 1,
+      "CampaignStageId": 1031101,
+      "OpenDayOfWeek": "All",
+      "CloseDayOfWeek": "All",
+      "CloseHour": 24
+    },
+    {
+      "OpenConditionContentType": "Cafe",
+      "LockUILength": 100,
+      "ShortcutPopupPriority": 8,
+      "ShortcutUINameLength": 52,
+      "Scene": "Lobby",
+      "AccountLevel": 1,
+      "OpenDayOfWeek": "All",
+      "CloseDayOfWeek": "All",
+      "CloseHour": 24
+    },
+    {
+      "OpenConditionContentType": "Unit_Growth_Skill",
+      "LockUILength": 108,
+      "ShortcutPopupPriority": 9,
+      "ShortcutUINameLength": 52,
+      "Scene": "Lobby",
+      "AccountLevel": 1,
+      "OpenDayOfWeek": "All",
+      "CloseDayOfWeek": "All",
+      "CloseHour": 24
+    },
+    {
+      "OpenConditionContentType": "Unit_Growth_LevelUp",
+      "LockUILength": 108,
+      "ShortcutPopupPriority": 10,
+      "ShortcutUINameLength": 52,
+      "Scene": "Lobby",
+      "AccountLevel": 1,
+      "OpenDayOfWeek": "All",
+      "CloseDayOfWeek": "All",
+      "CloseHour": 24
+    },
+    {
+      "OpenConditionContentType": "Unit_Growth_Transcendence",
+      "LockUILength": 108,
+      "ShortcutPopupPriority": 11,
+      "ShortcutUINameLength": 52,
+      "Scene": "Lobby",
+      "AccountLevel": 1,
+      "OpenDayOfWeek": "All",
+      "CloseDayOfWeek": "All",
+      "CloseHour": 24
+    },
+    {
+      "OpenConditionContentType": "Equipment_Growth_LevelUp",
+      "LockUILength": 112,
+      "ShortcutPopupPriority": 12,
+      "ShortcutUINameLength": 56,
+      "Scene": "Lobby",
+      "AccountLevel": 1,
+      "OpenDayOfWeek": "All",
+      "CloseDayOfWeek": "All",
+      "CloseHour": 24
+    },
+    {
+      "OpenConditionContentType": "Equipment_Growth_Transcendence",
+      "LockUILength": 108,
+      "ShortcutPopupPriority": 13,
+      "ShortcutUINameLength": 52,
+      "Scene": "Lobby",
+      "AccountLevel": 1,
+      "OpenDayOfWeek": "All",
+      "CloseDayOfWeek": "All",
+      "CloseHour": 24
+    },
+    {
+      "OpenConditionContentType": "WeekDungeon",
+      "LockUILength": 104,
+      "ShortcutPopupPriority": 14,
+      "ShortcutUINameLength": 64,
+      "Scene": "Lobby",
+      "AccountLevel": 1,
+      "CampaignStageId": 1011104,
+      "OpenDayOfWeek": "All",
+      "CloseDayOfWeek": "All",
+      "CloseHour": 24
+    },
+    {
+      "OpenConditionContentType": "Arena",
+      "LockUILength": 100,
+      "ShortcutPopupPriority": 15,
+      "ShortcutUINameLength": 60,
+      "Scene": "Lobby",
+      "AccountLevel": 1,
+      "CampaignStageId": 1041101,
+      "OpenDayOfWeek": "All",
+      "CloseDayOfWeek": "All",
+      "CloseHour": 24
+    },
+    {
+      "OpenConditionContentType": "Academy",
+      "LockUILength": 84,
+      "ShortcutPopupPriority": 16,
+      "ShortcutUINameLength": 60,
+      "Scene": "Lobby",
+      "AccountLevel": 1,
+      "CampaignStageId": 1021101,
+      "OpenDayOfWeek": "All",
+      "CloseDayOfWeek": "All",
+      "CloseHour": 24
+    },
+    {
+      "OpenConditionContentType": "TSA",
+      "LockUILength": 76,
+      "ShortcutPopupPriority": 17,
+      "ShortcutUINameLength": 52,
+      "Scene": "Lobby",
+      "AccountLevel": 1,
+      "OpenDayOfWeek": "All",
+      "CloseDayOfWeek": "All",
+      "CloseHour": 24
+    },
+    {
+      "OpenConditionContentType": "Equip",
+      "LockUILength": 76,
+      "ShortcutPopupPriority": 18,
+      "ShortcutUINameLength": 52,
+      "Scene": "Lobby",
+      "AccountLevel": 1,
+      "OpenDayOfWeek": "All",
+      "CloseDayOfWeek": "All",
+      "CloseHour": 24
+    },
+    {
+      "OpenConditionContentType": "Item",
+      "LockUILength": 76,
+      "ShortcutPopupPriority": 19,
+      "ShortcutUINameLength": 52,
+      "Scene": "Lobby",
+      "AccountLevel": 1,
+      "OpenDayOfWeek": "All",
+      "CloseDayOfWeek": "All",
+      "CloseHour": 24
+    },
+    {
+      "OpenConditionContentType": "Craft",
+      "LockUILength": 80,
+      "ShortcutPopupPriority": 20,
+      "ShortcutUINameLength": 56,
+      "Scene": "Lobby",
+      "AccountLevel": 1,
+      "OpenDayOfWeek": "All",
+      "CloseDayOfWeek": "All",
+      "CloseHour": 24
+    },
+    {
+      "OpenConditionContentType": "Mission",
+      "LockUILength": 80,
+      "ShortcutPopupPriority": 21,
+      "ShortcutUINameLength": 56,
+      "Scene": "Lobby",
+      "AccountLevel": 1,
+      "OpenDayOfWeek": "All",
+      "CloseDayOfWeek": "All",
+      "CloseHour": 24
+    }
+  ]
+}

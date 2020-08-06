@@ -1,0 +1,106 @@
+{
+  "DataList": [
+    {
+      "OrderOfPriority": 96,
+      "EmojiReversal": true
+    },
+    {
+      "UniqueId": 1,
+      "EmojiEvent": "EnterShelter",
+      "OrderOfPriority": 97,
+      "EmojiReversal": true
+    },
+    {
+      "UniqueId": 2,
+      "EmojiEvent": "SignalLeader",
+      "OrderOfPriority": 98,
+      "EmojiDuration": true,
+      "EmojiReversal": true
+    },
+    {
+      "UniqueId": 3,
+      "EmojiEvent": "Nice",
+      "OrderOfPriority": 6,
+      "EmojiDuration": true,
+      "EmojiReversal": true,
+      "EmojiTurnOn": true
+    },
+    {
+      "UniqueId": 4,
+      "EmojiEvent": "Reload",
+      "OrderOfPriority": 5,
+      "EmojiTurnOn": true
+    },
+    {
+      "UniqueId": 5,
+      "EmojiEvent": "Blind",
+      "OrderOfPriority": 4,
+      "EmojiDuration": true,
+      "EmojiReversal": true,
+      "EmojiTurnOn": true
+    },
+    {
+      "UniqueId": 6,
+      "EmojiEvent": "Panic",
+      "OrderOfPriority": 3,
+      "EmojiDuration": true,
+      "EmojiReversal": true,
+      "EmojiTurnOn": true
+    },
+    {
+      "UniqueId": 7,
+      "EmojiEvent": "Silence",
+      "OrderOfPriority": 2,
+      "EmojiDuration": true,
+      "EmojiReversal": true,
+      "EmojiTurnOn": true
+    },
+    {
+      "UniqueId": 8,
+      "EmojiEvent": "NearyDead",
+      "OrderOfPriority": 99,
+      "EmojiReversal": true
+    },
+    {
+      "UniqueId": 9,
+      "EmojiEvent": "Run",
+      "OrderOfPriority": 1,
+      "EmojiTurnOn": true
+    },
+    {
+      "UniqueId": 10,
+      "EmojiEvent": "TerrainAdaptionS",
+      "OrderOfPriority": 50,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 2000
+    },
+    {
+      "UniqueId": 11,
+      "EmojiEvent": "TerrainAdaptionA",
+      "OrderOfPriority": 51,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 2000
+    },
+    {
+      "UniqueId": 12,
+      "EmojiEvent": "TerrainAdaptionB",
+      "OrderOfPriority": 52,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 2000
+    },
+    {
+      "UniqueId": 13,
+      "EmojiEvent": "TerrainAdaptionC",
+      "OrderOfPriority": 53,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 2000
+    },
+    {
+      "UniqueId": 14,
+      "EmojiEvent": "TerrainAdaptionD",
+      "OrderOfPriority": 54,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 2000
+    }
+  ]
+}

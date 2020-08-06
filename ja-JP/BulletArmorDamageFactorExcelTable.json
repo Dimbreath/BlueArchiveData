@@ -1,0 +1,163 @@
+{
+  "DataList": [
+    {
+      "DamageFactorGroupId": "default",
+      "DamageRate": 10000,
+      "DamageAttribute": "Normal"
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "ArmorType": "Mechanics",
+      "DamageRate": 10000,
+      "DamageAttribute": "Normal"
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "ArmorType": "Terror",
+      "DamageRate": 10000,
+      "DamageAttribute": "Normal"
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "ArmorType": "Structure",
+      "DamageRate": 5000
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": "Explosion",
+      "DamageRate": 20000,
+      "DamageAttribute": "Weak"
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": "Explosion",
+      "ArmorType": "Mechanics",
+      "DamageRate": 5000
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": "Explosion",
+      "ArmorType": "Terror",
+      "DamageRate": 10000,
+      "DamageAttribute": "Normal"
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": "Explosion",
+      "ArmorType": "Structure",
+      "DamageRate": 5000
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": "Through",
+      "DamageRate": 10000,
+      "DamageAttribute": "Normal"
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": "Through",
+      "ArmorType": "Mechanics",
+      "DamageRate": 20000,
+      "DamageAttribute": "Weak"
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": "Through",
+      "ArmorType": "Terror",
+      "DamageRate": 5000
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": "Through",
+      "ArmorType": "Structure",
+      "DamageRate": 5000
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": "Mystic",
+      "DamageRate": 5000
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": "Mystic",
+      "ArmorType": "Mechanics",
+      "DamageRate": 10000,
+      "DamageAttribute": "Normal"
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": "Mystic",
+      "ArmorType": "Terror",
+      "DamageRate": 20000,
+      "DamageAttribute": "Weak"
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": "Mystic",
+      "ArmorType": "Structure",
+      "DamageRate": 5000
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": "Siege",
+      "DamageRate": 5000
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": "Siege",
+      "ArmorType": "Mechanics",
+      "DamageRate": 5000
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": "Siege",
+      "ArmorType": "Terror",
+      "DamageRate": 5000
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": "Siege",
+      "ArmorType": "Structure",
+      "DamageRate": 20000,
+      "DamageAttribute": "Weak"
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": "None",
+      "DamageRate": 10000,
+      "DamageAttribute": "Normal"
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": "None",
+      "ArmorType": "Mechanics",
+      "DamageRate": 10000,
+      "DamageAttribute": "Normal"
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": "None",
+      "ArmorType": "Terror",
+      "DamageRate": 10000,
+      "DamageAttribute": "Normal"
+    },
+    {
+      "DamageFactorGroupId": "default",
+      "BulletType": "None",
+      "ArmorType": "Structure",
+      "DamageRate": 10000,
+      "DamageAttribute": "Normal"
+    },
+    {
+      "DamageFactorGroupId": "test",
+      "DamageRate": 10000,
+      "DamageAttribute": "Normal"
+    },
+    {
+      "DamageFactorGroupId": "test",
+      "BulletType": "Explosion",
+      "DamageRate": 150000,
+      "DamageAttribute": "Normal"
+    }
+  ]
+}

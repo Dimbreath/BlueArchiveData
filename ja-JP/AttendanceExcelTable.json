@@ -1,0 +1,14 @@
+{
+  "DataList": [
+    {
+      "Id": 3,
+      "DevName": "AttendanceBook_Normal",
+      "AccountType": "Normal",
+      "Title": "ATTENDANCEBOOK_NORMAL",
+      "BookSize": 10,
+      "StartDate": "2019-05-31",
+      "EndDate": "2020-12-30",
+      "MailType": "Attendance"
+    }
+  ]
+}

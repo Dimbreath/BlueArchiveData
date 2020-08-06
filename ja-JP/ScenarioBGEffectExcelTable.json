@@ -1,0 +1,101 @@
+{
+  "DataList": [
+    {
+      "Name": 1377724294,
+      "Effect": "BG_Dust_L"
+    },
+    {
+      "Name": 3550865647,
+      "Effect": "BG_FocusLine"
+    },
+    {
+      "Name": 1679852157,
+      "Effect": "BG_Love_L"
+    },
+    {
+      "Name": 2728481130,
+      "Effect": "BG_Mist_L"
+    },
+    {
+      "Name": 3676184657,
+      "Effect": "BG_Rain_L"
+    },
+    {
+      "Name": 575794762,
+      "Effect": "BG_SandStorm_L"
+    },
+    {
+      "Name": 1061522909,
+      "Effect": "BG_Shining_L"
+    },
+    {
+      "Name": 2675527592,
+      "Effect": "BG_Snow_L"
+    },
+    {
+      "Name": 3134544579,
+      "Effect": "BG_UnderFire"
+    },
+    {
+      "Name": 4180629607,
+      "Scroll": "Vertical",
+      "ScrollTime": 4000,
+      "ScrollFrom": -288
+    },
+    {
+      "Name": 2688008756,
+      "Scroll": "Vertical",
+      "ScrollTime": 2000,
+      "ScrollFrom": -288
+    },
+    {
+      "Name": 2294765479,
+      "Scroll": "Vertical",
+      "ScrollTime": 2500,
+      "ScrollFrom": -288
+    },
+    {
+      "Name": 2786804546,
+      "Scroll": "Vertical",
+      "ScrollTime": 3000,
+      "ScrollFrom": -288
+    },
+    {
+      "Name": 588464592,
+      "Scroll": "Vertical",
+      "ScrollTime": 2000,
+      "ScrollFrom": 288
+    },
+    {
+      "Name": 3395110614,
+      "Scroll": "Vertical",
+      "ScrollTime": 3000,
+      "ScrollFrom": -288,
+      "ScrollTo": 310
+    },
+    {
+      "Name": 73430338,
+      "Scroll": "Vertical",
+      "ScrollTime": 5000,
+      "ScrollFrom": 1000,
+      "ScrollTo": -1000
+    },
+    {
+      "Name": 2572386699,
+      "Scroll": "Horizontal",
+      "ScrollTime": 2000,
+      "ScrollTo": 396
+    },
+    {
+      "Name": 67432837,
+      "Scroll": "Vertical",
+      "ScrollTime": 2000
+    },
+    {
+      "Name": 4138745450
+    },
+    {
+      "Name": 3507083243
+    }
+  ]
+}

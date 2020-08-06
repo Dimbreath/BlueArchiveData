@@ -1,0 +1,84 @@
+{
+  "DataList": [
+    {
+      "SeasonRewardId": 100,
+      "DevName": "시즌 1단계 보상",
+      "SeasonRewardParcelTypeLength": 112,
+      "SeasonRewardParcelUniqueIdLength": 88,
+      "SeasonRewardParcelUniqueNameLength": 40,
+      "SeasonRewardAmountLength": 16
+    },
+    {
+      "SeasonRewardId": 101,
+      "DevName": "시즌 2단계 보상",
+      "SeasonRewardParcelTypeLength": 84,
+      "SeasonRewardParcelUniqueIdLength": 64,
+      "SeasonRewardParcelUniqueNameLength": 36,
+      "SeasonRewardAmountLength": 16
+    },
+    {
+      "SeasonRewardId": 102,
+      "DevName": "시즌 3단계 보상",
+      "SeasonRewardParcelTypeLength": 112,
+      "SeasonRewardParcelUniqueIdLength": 88,
+      "SeasonRewardParcelUniqueNameLength": 40,
+      "SeasonRewardAmountLength": 16
+    },
+    {
+      "SeasonRewardId": 103,
+      "DevName": "시즌 4단계 보상",
+      "SeasonRewardParcelTypeLength": 84,
+      "SeasonRewardParcelUniqueIdLength": 64,
+      "SeasonRewardParcelUniqueNameLength": 36,
+      "SeasonRewardAmountLength": 16
+    },
+    {
+      "SeasonRewardId": 104,
+      "DevName": "시즌 5단계 보상",
+      "SeasonRewardParcelTypeLength": 112,
+      "SeasonRewardParcelUniqueIdLength": 88,
+      "SeasonRewardParcelUniqueNameLength": 40,
+      "SeasonRewardAmountLength": 16
+    },
+    {
+      "SeasonRewardId": 105,
+      "DevName": "시즌 6단계 보상",
+      "SeasonRewardParcelTypeLength": 84,
+      "SeasonRewardParcelUniqueIdLength": 64,
+      "SeasonRewardParcelUniqueNameLength": 36,
+      "SeasonRewardAmountLength": 16
+    },
+    {
+      "SeasonRewardId": 106,
+      "DevName": "시즌 7단계 보상",
+      "SeasonRewardParcelTypeLength": 112,
+      "SeasonRewardParcelUniqueIdLength": 88,
+      "SeasonRewardParcelUniqueNameLength": 40,
+      "SeasonRewardAmountLength": 16
+    },
+    {
+      "SeasonRewardId": 107,
+      "DevName": "시즌 8단계 보상",
+      "SeasonRewardParcelTypeLength": 84,
+      "SeasonRewardParcelUniqueIdLength": 64,
+      "SeasonRewardParcelUniqueNameLength": 36,
+      "SeasonRewardAmountLength": 16
+    },
+    {
+      "SeasonRewardId": 108,
+      "DevName": "시즌 9단계 보상",
+      "SeasonRewardParcelTypeLength": 112,
+      "SeasonRewardParcelUniqueIdLength": 88,
+      "SeasonRewardParcelUniqueNameLength": 40,
+      "SeasonRewardAmountLength": 16
+    },
+    {
+      "SeasonRewardId": 109,
+      "DevName": "시즌 10단계 보상",
+      "SeasonRewardParcelTypeLength": 84,
+      "SeasonRewardParcelUniqueIdLength": 64,
+      "SeasonRewardParcelUniqueNameLength": 32,
+      "SeasonRewardAmountLength": 16
+    }
+  ]
+}

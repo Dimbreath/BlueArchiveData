@@ -1,0 +1,139 @@
+{
+  "DataList": [
+    {
+      "Id": 1023000,
+      "DevName": "Cherino",
+      "LocalizeEtcId": 3549835491,
+      "CharacterId": 1023000,
+      "PrefabName": "LobbyCherino",
+      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Cherino_01",
+      "BGMId": 62
+    },
+    {
+      "Id": 1032000,
+      "DevName": "Hasumi",
+      "LocalizeEtcId": 3767449149,
+      "CharacterId": 1032000,
+      "PrefabName": "LobbyHasumi",
+      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Hasumi_01",
+      "BGMId": 2
+    },
+    {
+      "Id": 1033000,
+      "DevName": "Hihumi",
+      "LocalizeEtcId": 249771313,
+      "CharacterId": 1033000,
+      "PrefabName": "LobbyHihumi",
+      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Hihumi_01",
+      "BGMId": 68
+    },
+    {
+      "Id": 1033001,
+      "DevName": "Tsurugi",
+      "LocalizeEtcId": 660011507,
+      "CharacterId": 1033001,
+      "PrefabName": "LobbyTsurugi",
+      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Tsurugi_01",
+      "BGMId": 47
+    },
+    {
+      "Id": 1042004,
+      "DevName": "Zunko",
+      "LocalizeEtcId": 1445616124,
+      "CharacterId": 1042004,
+      "PrefabName": "LobbyZunko",
+      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Zunko_01",
+      "BGMId": 36
+    },
+    {
+      "Id": 1043000,
+      "DevName": "Hina",
+      "LocalizeEtcId": 1400694923,
+      "CharacterId": 1043000,
+      "PrefabName": "LobbyHina",
+      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Hina_01",
+      "BGMId": 21
+    },
+    {
+      "Id": 1051000,
+      "DevName": "Shiroko",
+      "LocalizeEtcId": 1663186526,
+      "CharacterId": 1051000,
+      "PrefabName": "LobbyShiroko",
+      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Shiroko_01",
+      "BGMId": 9
+    },
+    {
+      "Id": 1051001,
+      "DevName": "Serika",
+      "LocalizeEtcId": 3430958219,
+      "CharacterId": 1051001,
+      "PrefabName": "LobbySerika",
+      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Serika_01",
+      "BGMId": 46
+    },
+    {
+      "Id": 1051002,
+      "DevName": "Nonomi",
+      "LocalizeEtcId": 3665837584,
+      "CharacterId": 1051002,
+      "PrefabName": "LobbyNonomi",
+      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Nonomi_01",
+      "BGMId": 9
+    },
+    {
+      "Id": 1051003,
+      "DevName": "Hoshino",
+      "LocalizeEtcId": 1579427275,
+      "CharacterId": 1051003,
+      "PrefabName": "LobbyHoshino",
+      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Hoshino_01",
+      "BGMId": 12
+    },
+    {
+      "Id": 1033002,
+      "DevName": "Azusa",
+      "LocalizeEtcId": 1744536273,
+      "CharacterId": 1033002,
+      "PrefabName": "LobbyAzusa",
+      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Azusa_01",
+      "BGMId": 37
+    },
+    {
+      "Id": 1062000,
+      "DevName": "Akane",
+      "LocalizeEtcId": 866040902,
+      "CharacterId": 1062000,
+      "PrefabName": "LobbyAkane",
+      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Akane_01",
+      "BGMId": 9
+    },
+    {
+      "Id": 1062002,
+      "DevName": "Neru",
+      "LocalizeEtcId": 2383637385,
+      "CharacterId": 1062002,
+      "PrefabName": "LobbyNeru",
+      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Neru_01",
+      "BGMId": 53
+    },
+    {
+      "Id": 2033000,
+      "DevName": "Mashiro",
+      "LocalizeEtcId": 1610327048,
+      "CharacterId": 2033000,
+      "PrefabName": "LobbyMashiro",
+      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Mashiro_01",
+      "BGMId": 39
+    },
+    {
+      "Id": 2062000,
+      "DevName": "Karin",
+      "LocalizeEtcId": 2465264375,
+      "CharacterId": 2062000,
+      "PrefabName": "LobbyKarin",
+      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Karin_01",
+      "BGMId": 21
+    }
+  ]
+}

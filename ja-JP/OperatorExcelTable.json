@@ -1,0 +1,904 @@
+{
+  "DataList": [
+    {
+      "UniqueId": 1,
+      "GroupId": "StrategyStart",
+      "OperatorCondition": "StrategyStart",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_00",
+      "TextLocalizeKey": "StrategyStart01_01"
+    },
+    {
+      "UniqueId": 2,
+      "GroupId": "StrategyStart",
+      "OperatorCondition": "StrategyStart",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_02",
+      "TextLocalizeKey": "StrategyStart01_02"
+    },
+    {
+      "UniqueId": 3,
+      "GroupId": "StrategyStart",
+      "OperatorCondition": "StrategyStart",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_05",
+      "TextLocalizeKey": "StrategyStart01_03"
+    },
+    {
+      "UniqueId": 4,
+      "GroupId": "StrategyStart",
+      "OperatorCondition": "StrategyStart",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_12",
+      "TextLocalizeKey": "StrategyStart01_04"
+    },
+    {
+      "UniqueId": 5,
+      "GroupId": "StrategyStart",
+      "OperatorCondition": "StrategyStart",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_31",
+      "TextLocalizeKey": "StrategyStart01_05"
+    },
+    {
+      "UniqueId": 6,
+      "GroupId": "StrategyVictory",
+      "OperatorCondition": "StrategyVictory",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_11",
+      "TextLocalizeKey": "StrategyVictory01_01"
+    },
+    {
+      "UniqueId": 7,
+      "GroupId": "StrategyVictory",
+      "OperatorCondition": "StrategyVictory",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_03",
+      "TextLocalizeKey": "StrategyVictory01_02"
+    },
+    {
+      "UniqueId": 8,
+      "GroupId": "StrategyVictory",
+      "OperatorCondition": "StrategyVictory",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_12",
+      "TextLocalizeKey": "StrategyVictory01_03"
+    },
+    {
+      "UniqueId": 9,
+      "GroupId": "StrategyVictory",
+      "OperatorCondition": "StrategyVictory",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_11",
+      "TextLocalizeKey": "StrategyVictory01_04"
+    },
+    {
+      "UniqueId": 10,
+      "GroupId": "StrategyVictory",
+      "OperatorCondition": "StrategyVictory",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
+      "TextLocalizeKey": "StrategyVictory01_05"
+    },
+    {
+      "UniqueId": 11,
+      "GroupId": "StrategyDefeat",
+      "OperatorCondition": "StrategyDefeat",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_28",
+      "TextLocalizeKey": "StrategyDefeat01_01"
+    },
+    {
+      "UniqueId": 12,
+      "GroupId": "StrategyDefeat",
+      "OperatorCondition": "StrategyDefeat",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
+      "TextLocalizeKey": "StrategyDefeat01_02"
+    },
+    {
+      "UniqueId": 13,
+      "GroupId": "StrategyDefeat",
+      "OperatorCondition": "StrategyDefeat",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_10",
+      "TextLocalizeKey": "StrategyDefeat01_03"
+    },
+    {
+      "UniqueId": 14,
+      "GroupId": "StrategyDefeat",
+      "OperatorCondition": "StrategyDefeat",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_04",
+      "TextLocalizeKey": "StrategyDefeat01_04"
+    },
+    {
+      "UniqueId": 15,
+      "GroupId": "StrategyDefeat",
+      "OperatorCondition": "StrategyDefeat",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_06",
+      "TextLocalizeKey": "StrategyDefeat01_05"
+    },
+    {
+      "UniqueId": 16,
+      "GroupId": "AdventureCombatStart",
+      "OperatorCondition": "AdventureCombatStart",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_22",
+      "TextLocalizeKey": "AdventureCombatStart_01_01"
+    },
+    {
+      "UniqueId": 17,
+      "GroupId": "AdventureCombatStart",
+      "OperatorCondition": "AdventureCombatStart",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
+      "TextLocalizeKey": "AdventureCombatStart_01_02"
+    },
+    {
+      "UniqueId": 18,
+      "GroupId": "AdventureCombatStart",
+      "OperatorCondition": "AdventureCombatStart",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_12",
+      "TextLocalizeKey": "AdventureCombatStart_01_03"
+    },
+    {
+      "UniqueId": 19,
+      "GroupId": "AdventureCombatStart",
+      "OperatorCondition": "AdventureCombatStart",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_01",
+      "TextLocalizeKey": "AdventureCombatStart_01_04"
+    },
+    {
+      "UniqueId": 20,
+      "GroupId": "AdventureCombatStart",
+      "OperatorCondition": "AdventureCombatStart",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_14",
+      "TextLocalizeKey": "AdventureCombatStart_01_05"
+    },
+    {
+      "UniqueId": 21,
+      "GroupId": "AdventureCombatVictory",
+      "OperatorCondition": "AdventureCombatVictory",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_03",
+      "TextLocalizeKey": "AdventureCombatVictory_01_01"
+    },
+    {
+      "UniqueId": 22,
+      "GroupId": "AdventureCombatVictory",
+      "OperatorCondition": "AdventureCombatVictory",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_12",
+      "TextLocalizeKey": "AdventureCombatVictory_01_02"
+    },
+    {
+      "UniqueId": 23,
+      "GroupId": "AdventureCombatVictory",
+      "OperatorCondition": "AdventureCombatVictory",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_32",
+      "TextLocalizeKey": "AdventureCombatVictory_01_03"
+    },
+    {
+      "UniqueId": 24,
+      "GroupId": "AdventureCombatVictory",
+      "OperatorCondition": "AdventureCombatVictory",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_11",
+      "TextLocalizeKey": "AdventureCombatVictory_02_01"
+    },
+    {
+      "UniqueId": 25,
+      "GroupId": "AdventureCombatVictory",
+      "OperatorCondition": "AdventureCombatVictory",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_03",
+      "TextLocalizeKey": "AdventureCombatVictory_02_02"
+    },
+    {
+      "UniqueId": 26,
+      "GroupId": "AdventureCombatDefeat",
+      "OperatorCondition": "AdventureCombatDefeat",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_18",
+      "TextLocalizeKey": "AdventureCombatDefeat_01_01"
+    },
+    {
+      "UniqueId": 27,
+      "GroupId": "AdventureCombatDefeat",
+      "OperatorCondition": "AdventureCombatDefeat",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_15",
+      "TextLocalizeKey": "AdventureCombatDefeat_01_02"
+    },
+    {
+      "UniqueId": 28,
+      "GroupId": "AdventureCombatDefeat",
+      "OperatorCondition": "AdventureCombatDefeat",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_18",
+      "TextLocalizeKey": "AdventureCombatDefeat_01_03"
+    },
+    {
+      "UniqueId": 29,
+      "GroupId": "AdventureCombatDefeat",
+      "OperatorCondition": "AdventureCombatDefeat",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_30",
+      "TextLocalizeKey": "AdventureCombatDefeat_02_01"
+    },
+    {
+      "UniqueId": 30,
+      "GroupId": "AdventureCombatDefeat",
+      "OperatorCondition": "AdventureCombatDefeat",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
+      "TextLocalizeKey": "AdventureCombatDefeat_02_02"
+    },
+    {
+      "UniqueId": 31,
+      "GroupId": "ArenaCombatStart",
+      "OperatorCondition": "ArenaCombatStart",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_01",
+      "TextLocalizeKey": "ArenaCombatStart_01_01"
+    },
+    {
+      "UniqueId": 32,
+      "GroupId": "ArenaCombatStart",
+      "OperatorCondition": "ArenaCombatStart",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_00",
+      "TextLocalizeKey": "ArenaCombatStart_01_02"
+    },
+    {
+      "UniqueId": 33,
+      "GroupId": "ArenaCombatStart",
+      "OperatorCondition": "ArenaCombatStart",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_02",
+      "TextLocalizeKey": "ArenaCombatStart_01_03"
+    },
+    {
+      "UniqueId": 34,
+      "GroupId": "ArenaCombatStart",
+      "OperatorCondition": "ArenaCombatStart",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_03",
+      "TextLocalizeKey": "ArenaCombatStart_01_04"
+    },
+    {
+      "UniqueId": 35,
+      "GroupId": "ArenaCombatStart",
+      "OperatorCondition": "ArenaCombatStart",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_00",
+      "TextLocalizeKey": "ArenaCombatStart_01_05"
+    },
+    {
+      "UniqueId": 36,
+      "GroupId": "ArenaCombatVictory",
+      "OperatorCondition": "ArenaCombatVictory",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_03",
+      "TextLocalizeKey": "ArenaCombatVictory_01_01"
+    },
+    {
+      "UniqueId": 37,
+      "GroupId": "ArenaCombatVictory",
+      "OperatorCondition": "ArenaCombatVictory",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_07",
+      "TextLocalizeKey": "ArenaCombatVictory_01_02"
+    },
+    {
+      "UniqueId": 38,
+      "GroupId": "ArenaCombatVictory",
+      "OperatorCondition": "ArenaCombatVictory",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_00",
+      "TextLocalizeKey": "ArenaCombatVictory_01_03"
+    },
+    {
+      "UniqueId": 39,
+      "GroupId": "ArenaCombatVictory",
+      "OperatorCondition": "ArenaCombatVictory",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_02",
+      "TextLocalizeKey": "ArenaCombatVictory_02_01"
+    },
+    {
+      "UniqueId": 40,
+      "GroupId": "ArenaCombatVictory",
+      "OperatorCondition": "ArenaCombatVictory",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_00",
+      "TextLocalizeKey": "ArenaCombatVictory_02_02"
+    },
+    {
+      "UniqueId": 41,
+      "GroupId": "ArenaCombatVictory",
+      "OperatorCondition": "ArenaCombatVictory",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_03",
+      "TextLocalizeKey": "ArenaCombatVictory_02_03"
+    },
+    {
+      "UniqueId": 42,
+      "GroupId": "ArenaCombatDefeat",
+      "OperatorCondition": "ArenaCombatDefeat",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_03",
+      "TextLocalizeKey": "ArenaCombatDefeat_01_01"
+    },
+    {
+      "UniqueId": 43,
+      "GroupId": "ArenaCombatDefeat",
+      "OperatorCondition": "ArenaCombatDefeat",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_04",
+      "TextLocalizeKey": "ArenaCombatDefeat_01_02"
+    },
+    {
+      "UniqueId": 44,
+      "GroupId": "ArenaCombatDefeat",
+      "OperatorCondition": "ArenaCombatDefeat",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_05",
+      "TextLocalizeKey": "ArenaCombatDefeat_01_03"
+    },
+    {
+      "UniqueId": 45,
+      "GroupId": "ArenaCombatDefeat",
+      "OperatorCondition": "ArenaCombatDefeat",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_08",
+      "TextLocalizeKey": "ArenaCombatDefeat_01_04"
+    },
+    {
+      "UniqueId": 46,
+      "GroupId": "ArenaCombatDefeat",
+      "OperatorCondition": "ArenaCombatDefeat",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Sinon_04",
+      "TextLocalizeKey": "ArenaCombatDefeat_01_05"
+    },
+    {
+      "UniqueId": 47,
+      "GroupId": "WeekDungeonCombatStart_01_01",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 3000,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_16",
+      "TextLocalizeKey": "WeekDungeonCombatStart_01_01"
+    },
+    {
+      "UniqueId": 48,
+      "GroupId": "WeekDungeonCombatStart_01_01",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 3000,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_16",
+      "TextLocalizeKey": "WeekDungeonCombatStart_01_02"
+    },
+    {
+      "UniqueId": 49,
+      "GroupId": "WeekDungeonCombatStart_01_01",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 3000,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_16",
+      "TextLocalizeKey": "WeekDungeonCombatStart_01_03"
+    },
+    {
+      "UniqueId": 50,
+      "GroupId": "WeekDungeonCombatStart_01_02",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 3000,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
+      "TextLocalizeKey": "WeekDungeonCombatStart_01_04"
+    },
+    {
+      "UniqueId": 51,
+      "GroupId": "WeekDungeonCombatStart_01_02",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 3000,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
+      "TextLocalizeKey": "WeekDungeonCombatStart_01_05"
+    },
+    {
+      "UniqueId": 52,
+      "GroupId": "WeekDungeonCombatStart_01_02",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 3000,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
+      "TextLocalizeKey": "WeekDungeonCombatStart_01_06"
+    },
+    {
+      "UniqueId": 53,
+      "GroupId": "WeekDungeonCombatStart_01_03",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 3000,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
+      "TextLocalizeKey": "WeekDungeonCombatStart_01_07"
+    },
+    {
+      "UniqueId": 54,
+      "GroupId": "WeekDungeonCombatStart_01_03",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 3000,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
+      "TextLocalizeKey": "WeekDungeonCombatStart_01_08"
+    },
+    {
+      "UniqueId": 55,
+      "GroupId": "WeekDungeonCombatStart_01_03",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 3000,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
+      "TextLocalizeKey": "WeekDungeonCombatStart_01_09"
+    },
+    {
+      "UniqueId": 56,
+      "GroupId": "WeekDungeonCombatStart_02_01",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 3000,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_05",
+      "TextLocalizeKey": "WeekDungeonCombatStart_02_01"
+    },
+    {
+      "UniqueId": 57,
+      "GroupId": "WeekDungeonCombatStart_02_01",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 3000,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_20",
+      "TextLocalizeKey": "WeekDungeonCombatStart_02_02"
+    },
+    {
+      "UniqueId": 58,
+      "GroupId": "WeekDungeonCombatStart_02_01",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 3000,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_12",
+      "TextLocalizeKey": "WeekDungeonCombatStart_02_03"
+    },
+    {
+      "UniqueId": 59,
+      "GroupId": "WeekDungeonCombatStart_02_02",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 3000,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_05",
+      "TextLocalizeKey": "WeekDungeonCombatStart_02_01"
+    },
+    {
+      "UniqueId": 60,
+      "GroupId": "WeekDungeonCombatStart_02_02",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 3000,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_20",
+      "TextLocalizeKey": "WeekDungeonCombatStart_02_02"
+    },
+    {
+      "UniqueId": 61,
+      "GroupId": "WeekDungeonCombatStart_02_02",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 3000,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_12",
+      "TextLocalizeKey": "WeekDungeonCombatStart_02_03"
+    },
+    {
+      "UniqueId": 62,
+      "GroupId": "WeekDungeonCombatStart_02_03",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 3000,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_05",
+      "TextLocalizeKey": "WeekDungeonCombatStart_02_01"
+    },
+    {
+      "UniqueId": 63,
+      "GroupId": "WeekDungeonCombatStart_02_03",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 3000,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_20",
+      "TextLocalizeKey": "WeekDungeonCombatStart_02_02"
+    },
+    {
+      "UniqueId": 64,
+      "GroupId": "WeekDungeonCombatStart_02_03",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 3000,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_12",
+      "TextLocalizeKey": "WeekDungeonCombatStart_02_03"
+    },
+    {
+      "UniqueId": 65,
+      "GroupId": "WeekDungeonCombatStart_03_01",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 3000,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_15",
+      "TextLocalizeKey": "WeekDungeonCombatStart_03_01"
+    },
+    {
+      "UniqueId": 66,
+      "GroupId": "WeekDungeonCombatStart_03_01",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 3000,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_00",
+      "TextLocalizeKey": "WeekDungeonCombatStart_03_02"
+    },
+    {
+      "UniqueId": 67,
+      "GroupId": "WeekDungeonCombatStart_03_01",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 3000,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_31",
+      "TextLocalizeKey": "WeekDungeonCombatStart_03_03"
+    },
+    {
+      "UniqueId": 68,
+      "GroupId": "WeekDungeonCombatStart_03_02",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 3000,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_15",
+      "TextLocalizeKey": "WeekDungeonCombatStart_03_01"
+    },
+    {
+      "UniqueId": 69,
+      "GroupId": "WeekDungeonCombatStart_03_02",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 3000,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_00",
+      "TextLocalizeKey": "WeekDungeonCombatStart_03_02"
+    },
+    {
+      "UniqueId": 70,
+      "GroupId": "WeekDungeonCombatStart_03_02",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 3000,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_31",
+      "TextLocalizeKey": "WeekDungeonCombatStart_03_03"
+    },
+    {
+      "UniqueId": 71,
+      "GroupId": "WeekDungeonCombatStart_03_03",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 3000,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_15",
+      "TextLocalizeKey": "WeekDungeonCombatStart_03_01"
+    },
+    {
+      "UniqueId": 72,
+      "GroupId": "WeekDungeonCombatStart_03_03",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 3000,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_00",
+      "TextLocalizeKey": "WeekDungeonCombatStart_03_02"
+    },
+    {
+      "UniqueId": 73,
+      "GroupId": "WeekDungeonCombatStart_03_03",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 3000,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_31",
+      "TextLocalizeKey": "WeekDungeonCombatStart_03_03"
+    },
+    {
+      "UniqueId": 74,
+      "GroupId": "WeekDungeonCombatVictory",
+      "OperatorCondition": "WeekDungeonCombatVictory",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_32",
+      "TextLocalizeKey": "WeekDungeonCombatVictory_01_01"
+    },
+    {
+      "UniqueId": 75,
+      "GroupId": "WeekDungeonCombatVictory",
+      "OperatorCondition": "WeekDungeonCombatVictory",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_12",
+      "TextLocalizeKey": "WeekDungeonCombatVictory_01_02"
+    },
+    {
+      "UniqueId": 76,
+      "GroupId": "WeekDungeonCombatVictory",
+      "OperatorCondition": "WeekDungeonCombatVictory",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
+      "TextLocalizeKey": "WeekDungeonCombatVictory_01_03"
+    },
+    {
+      "UniqueId": 77,
+      "GroupId": "WeekDungeonCombatVictory",
+      "OperatorCondition": "WeekDungeonCombatVictory",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_20",
+      "TextLocalizeKey": "WeekDungeonCombatVictory_02_01"
+    },
+    {
+      "UniqueId": 78,
+      "GroupId": "WeekDungeonCombatVictory",
+      "OperatorCondition": "WeekDungeonCombatVictory",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_12",
+      "TextLocalizeKey": "WeekDungeonCombatVictory_03_01"
+    },
+    {
+      "UniqueId": 79,
+      "GroupId": "WeekDungeonCombatDefeat",
+      "OperatorCondition": "WeekDungeonCombatDefeat",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_17",
+      "TextLocalizeKey": "WeekDungeonCombatDefeat_01_01"
+    },
+    {
+      "UniqueId": 80,
+      "GroupId": "WeekDungeonCombatDefeat",
+      "OperatorCondition": "WeekDungeonCombatDefeat",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_18",
+      "TextLocalizeKey": "WeekDungeonCombatDefeat_01_02"
+    },
+    {
+      "UniqueId": 81,
+      "GroupId": "WeekDungeonCombatDefeat",
+      "OperatorCondition": "WeekDungeonCombatDefeat",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_30",
+      "TextLocalizeKey": "WeekDungeonCombatDefeat_01_03"
+    },
+    {
+      "UniqueId": 82,
+      "GroupId": "WeekDungeonCombatDefeat",
+      "OperatorCondition": "WeekDungeonCombatDefeat",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_25",
+      "TextLocalizeKey": "WeekDungeonCombatDefeat_02_01"
+    },
+    {
+      "UniqueId": 83,
+      "GroupId": "WeekDungeonCombatDefeat",
+      "OperatorCondition": "WeekDungeonCombatDefeat",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "Duration": 3000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_15",
+      "TextLocalizeKey": "WeekDungeonCombatDefeat_03_01"
+    },
+    {
+      "UniqueId": 84,
+      "GroupId": "Chesed_Wave01_Count01",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 510,
+      "Duration": 4000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_00",
+      "TextLocalizeKey": "Chesed_Wave01_Count01_01"
+    },
+    {
+      "UniqueId": 85,
+      "GroupId": "Chesed_Wave01_Count01",
+      "OutputSequence": 2,
+      "RandomWeight": 2,
+      "OutputDelay": 511,
+      "Duration": 6000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_00",
+      "TextLocalizeKey": "Chesed_Wave01_Count01_02"
+    },
+    {
+      "UniqueId": 86,
+      "GroupId": "Chesed_Wave01_Count02",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 512,
+      "Duration": 6000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_00",
+      "TextLocalizeKey": "Chesed_Wave01_Count02_01"
+    },
+    {
+      "UniqueId": 87,
+      "GroupId": "Chesed_Wave02_Count01",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 513,
+      "Duration": 4000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_00",
+      "TextLocalizeKey": "Chesed_Wave02_Count01_01"
+    },
+    {
+      "UniqueId": 88,
+      "GroupId": "Chesed_Wave02_Count01",
+      "OutputSequence": 2,
+      "RandomWeight": 2,
+      "OutputDelay": 514,
+      "Duration": 6000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_00",
+      "TextLocalizeKey": "Chesed_Wave02_Count01_02"
+    },
+    {
+      "UniqueId": 89,
+      "GroupId": "Chesed_Wave02_Count02",
+      "OutputSequence": 1,
+      "RandomWeight": 1,
+      "OutputDelay": 515,
+      "Duration": 4000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_00",
+      "TextLocalizeKey": "Chesed_Wave02_Count02_01"
+    },
+    {
+      "UniqueId": 90,
+      "GroupId": "Chesed_Wave02_Count02",
+      "OutputSequence": 2,
+      "RandomWeight": 2,
+      "OutputDelay": 516,
+      "Duration": 4000,
+      "PortraitPath": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_00",
+      "TextLocalizeKey": "Chesed_Wave02_Count02_02"
+    }
+  ]
+}

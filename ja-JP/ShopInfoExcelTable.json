@@ -1,0 +1,36 @@
+{
+  "DataList": [
+    {
+      "ParcelType": "Currency",
+      "ParcelId": 5
+    },
+    {
+      "CategoryType": "SecretStone",
+      "ParcelType": "Item",
+      "ParcelId": 23
+    },
+    {
+      "CategoryType": "Raid",
+      "ParcelType": "Item",
+      "ParcelId": 7
+    },
+    {
+      "CategoryType": "Gold"
+    },
+    {
+      "CategoryType": "Ap"
+    },
+    {
+      "CategoryType": "ArenaTicket"
+    },
+    {
+      "CategoryType": "Arena",
+      "IsRefresh": true,
+      "ParcelType": "Item",
+      "ParcelId": 8,
+      "AutoRefreshCoolTime": 21600000,
+      "RefreshAbleCount": 3,
+      "GoodsIdLength": 32
+    }
+  ]
+}

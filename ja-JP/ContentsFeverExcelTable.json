@@ -1,0 +1,22 @@
+{
+  "DataList": [
+    {
+      "SkillCostFever": 20000
+    },
+    {
+      "ConditionContent": "Raid",
+      "SkillCostFever": 20000
+    },
+    {
+      "ConditionContent": "WeekDungeon",
+      "SkillCostFever": 20000
+    },
+    {
+      "ConditionContent": "Arena",
+      "SkillFeverCheckCondition": "All",
+      "SkillCostFever": 25000,
+      "FeverStartTime": 60000,
+      "FeverDurationTime": 60000
+    }
+  ]
+}

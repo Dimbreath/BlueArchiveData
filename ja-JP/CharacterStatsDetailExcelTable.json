@@ -1,0 +1,60 @@
+{
+  "DataList": [
+    {
+      "Id": 1,
+      "Devname": "공격력",
+      "DevName2": "방어력",
+      "DetailShowStatsLength": 28,
+      "IsStatsPercentLength": 16
+    },
+    {
+      "Id": 2,
+      "Devname": "생명력",
+      "DevName2": "회복력",
+      "DetailShowStatsLength": 28,
+      "IsStatsPercentLength": 16
+    },
+    {
+      "Id": 3,
+      "Devname": "명중력",
+      "DevName2": "회피력",
+      "DetailShowStatsLength": 24,
+      "IsStatsPercentLength": 12
+    },
+    {
+      "Id": 4,
+      "Devname": "치명타",
+      "DevName2": "치명타배율",
+      "DetailShowStatsLength": 24,
+      "IsStatsPercentLength": 12
+    },
+    {
+      "Id": 5,
+      "Devname": "안정성",
+      "DevName2": "사거리",
+      "DetailShowStatsLength": 24,
+      "IsStatsPercentLength": 12
+    },
+    {
+      "Id": 6,
+      "Devname": "군중제어강화",
+      "DevName2": "군중제어저항",
+      "DetailShowStatsLength": 24,
+      "IsStatsPercentLength": 12
+    },
+    {
+      "Id": 7,
+      "Devname": "시가전적응",
+      "DevName2": "야전적응",
+      "DetailShowStatsLength": 24,
+      "IsStatsPercentLength": 12
+    },
+    {
+      "Id": 8,
+      "Devname": "실내전적응",
+      "DevName2": "빈칸",
+      "DetailShowStatsLength": 24,
+      "IsStatsPercentLength": 12
+    }
+  ]
+}

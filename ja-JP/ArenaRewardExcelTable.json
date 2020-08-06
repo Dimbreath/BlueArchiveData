@@ -1,0 +1,427 @@
+{
+  "DataList": [
+    {
+      "ArenaRewardType": "Time",
+      "RankStart": 1,
+      "RankEnd": 1,
+      "RewardParcelTypeLength": 80,
+      "RewardParcelUniqueIdLength": 64,
+      "RewardParcelUniqueNameLength": 40,
+      "RewardParcelAmountLength": 24
+    },
+    {
+      "UniqueId": 1,
+      "ArenaRewardType": "Time",
+      "RankStart": 2,
+      "RankEnd": 2,
+      "RewardParcelTypeLength": 88,
+      "RewardParcelUniqueIdLength": 72,
+      "RewardParcelUniqueNameLength": 48,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 2,
+      "ArenaRewardType": "Time",
+      "RankStart": 3,
+      "RankEnd": 10,
+      "RewardParcelTypeLength": 88,
+      "RewardParcelUniqueIdLength": 72,
+      "RewardParcelUniqueNameLength": 48,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 3,
+      "ArenaRewardType": "Time",
+      "RankStart": 11,
+      "RankEnd": 100,
+      "RewardParcelTypeLength": 88,
+      "RewardParcelUniqueIdLength": 72,
+      "RewardParcelUniqueNameLength": 48,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 4,
+      "ArenaRewardType": "Time",
+      "RankStart": 101,
+      "RankEnd": 200,
+      "RewardParcelTypeLength": 88,
+      "RewardParcelUniqueIdLength": 72,
+      "RewardParcelUniqueNameLength": 48,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 5,
+      "ArenaRewardType": "Time",
+      "RankStart": 201,
+      "RankEnd": 500,
+      "RewardParcelTypeLength": 88,
+      "RewardParcelUniqueIdLength": 72,
+      "RewardParcelUniqueNameLength": 48,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 6,
+      "ArenaRewardType": "Time",
+      "RankStart": 501,
+      "RankEnd": 1000,
+      "RewardParcelTypeLength": 88,
+      "RewardParcelUniqueIdLength": 72,
+      "RewardParcelUniqueNameLength": 48,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 7,
+      "ArenaRewardType": "Time",
+      "RankStart": 1001,
+      "RankEnd": 2000,
+      "RewardParcelTypeLength": 88,
+      "RewardParcelUniqueIdLength": 72,
+      "RewardParcelUniqueNameLength": 48,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 8,
+      "ArenaRewardType": "Time",
+      "RankStart": 2001,
+      "RankEnd": 4000,
+      "RewardParcelTypeLength": 88,
+      "RewardParcelUniqueIdLength": 72,
+      "RewardParcelUniqueNameLength": 48,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 9,
+      "ArenaRewardType": "Time",
+      "RankStart": 4001,
+      "RankEnd": 8000,
+      "RewardParcelTypeLength": 88,
+      "RewardParcelUniqueIdLength": 72,
+      "RewardParcelUniqueNameLength": 48,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 9999,
+      "ArenaRewardType": "Time",
+      "RankStart": 8001,
+      "RankEnd": 15000,
+      "RewardParcelTypeLength": 88,
+      "RewardParcelUniqueIdLength": 72,
+      "RewardParcelUniqueNameLength": 48,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 10000,
+      "ArenaRewardType": "Daily",
+      "RankStart": 1,
+      "RankEnd": 1,
+      "RewardParcelTypeLength": 132,
+      "RewardParcelUniqueIdLength": 104,
+      "RewardParcelUniqueNameLength": 60,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 10001,
+      "ArenaRewardType": "Daily",
+      "RankStart": 2,
+      "RankEnd": 2,
+      "RewardParcelTypeLength": 132,
+      "RewardParcelUniqueIdLength": 104,
+      "RewardParcelUniqueNameLength": 60,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 10002,
+      "ArenaRewardType": "Daily",
+      "RankStart": 3,
+      "RankEnd": 10,
+      "RewardParcelTypeLength": 132,
+      "RewardParcelUniqueIdLength": 104,
+      "RewardParcelUniqueNameLength": 60,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 10003,
+      "ArenaRewardType": "Daily",
+      "RankStart": 11,
+      "RankEnd": 100,
+      "RewardParcelTypeLength": 132,
+      "RewardParcelUniqueIdLength": 104,
+      "RewardParcelUniqueNameLength": 60,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 10004,
+      "ArenaRewardType": "Daily",
+      "RankStart": 101,
+      "RankEnd": 200,
+      "RewardParcelTypeLength": 132,
+      "RewardParcelUniqueIdLength": 104,
+      "RewardParcelUniqueNameLength": 60,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 10005,
+      "ArenaRewardType": "Daily",
+      "RankStart": 201,
+      "RankEnd": 500,
+      "RewardParcelTypeLength": 132,
+      "RewardParcelUniqueIdLength": 104,
+      "RewardParcelUniqueNameLength": 60,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 10006,
+      "ArenaRewardType": "Daily",
+      "RankStart": 501,
+      "RankEnd": 1000,
+      "RewardParcelTypeLength": 132,
+      "RewardParcelUniqueIdLength": 104,
+      "RewardParcelUniqueNameLength": 60,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 10007,
+      "ArenaRewardType": "Daily",
+      "RankStart": 1001,
+      "RankEnd": 2000,
+      "RewardParcelTypeLength": 132,
+      "RewardParcelUniqueIdLength": 104,
+      "RewardParcelUniqueNameLength": 60,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 10008,
+      "ArenaRewardType": "Daily",
+      "RankStart": 2001,
+      "RankEnd": 15000,
+      "RewardParcelTypeLength": 132,
+      "RewardParcelUniqueIdLength": 104,
+      "RewardParcelUniqueNameLength": 60,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 20000,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 1,
+      "RankEnd": 10,
+      "RewardParcelTypeLength": 88,
+      "RewardParcelUniqueIdLength": 72,
+      "RewardParcelUniqueNameLength": 48,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 20001,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 11,
+      "RankEnd": 100,
+      "RewardParcelTypeLength": 88,
+      "RewardParcelUniqueIdLength": 72,
+      "RewardParcelUniqueNameLength": 48,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 20002,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 101,
+      "RankEnd": 200,
+      "RewardParcelTypeLength": 88,
+      "RewardParcelUniqueIdLength": 72,
+      "RewardParcelUniqueNameLength": 48,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 20003,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 201,
+      "RankEnd": 500,
+      "RewardParcelTypeLength": 88,
+      "RewardParcelUniqueIdLength": 72,
+      "RewardParcelUniqueNameLength": 48,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 20004,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 501,
+      "RankEnd": 1000,
+      "RewardParcelTypeLength": 88,
+      "RewardParcelUniqueIdLength": 72,
+      "RewardParcelUniqueNameLength": 48,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 20005,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 1001,
+      "RankEnd": 2000,
+      "RewardParcelTypeLength": 88,
+      "RewardParcelUniqueIdLength": 72,
+      "RewardParcelUniqueNameLength": 48,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 20006,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 2001,
+      "RankEnd": 4000,
+      "RewardParcelTypeLength": 88,
+      "RewardParcelUniqueIdLength": 72,
+      "RewardParcelUniqueNameLength": 48,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 29999,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 4001,
+      "RankEnd": 15000,
+      "RewardParcelTypeLength": 88,
+      "RewardParcelUniqueIdLength": 72,
+      "RewardParcelUniqueNameLength": 48,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 30000,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 1,
+      "RankEnd": 10,
+      "RewardParcelTypeLength": 88,
+      "RewardParcelUniqueIdLength": 72,
+      "RewardParcelUniqueNameLength": 48,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 30001,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 11,
+      "RankEnd": 100,
+      "RewardParcelTypeLength": 88,
+      "RewardParcelUniqueIdLength": 72,
+      "RewardParcelUniqueNameLength": 48,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 30002,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 101,
+      "RankEnd": 200,
+      "RewardParcelTypeLength": 88,
+      "RewardParcelUniqueIdLength": 72,
+      "RewardParcelUniqueNameLength": 48,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 30003,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 201,
+      "RankEnd": 500,
+      "RewardParcelTypeLength": 88,
+      "RewardParcelUniqueIdLength": 72,
+      "RewardParcelUniqueNameLength": 48,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 30004,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 501,
+      "RankEnd": 1000,
+      "RewardParcelTypeLength": 88,
+      "RewardParcelUniqueIdLength": 72,
+      "RewardParcelUniqueNameLength": 48,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 30005,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 1001,
+      "RankEnd": 2000,
+      "RewardParcelTypeLength": 88,
+      "RewardParcelUniqueIdLength": 72,
+      "RewardParcelUniqueNameLength": 48,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 30006,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 2001,
+      "RankEnd": 4000,
+      "RewardParcelTypeLength": 88,
+      "RewardParcelUniqueIdLength": 72,
+      "RewardParcelUniqueNameLength": 48,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 39999,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 4001,
+      "RankEnd": 15000,
+      "RewardParcelTypeLength": 88,
+      "RewardParcelUniqueIdLength": 72,
+      "RewardParcelUniqueNameLength": 48,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 49999,
+      "ArenaRewardType": "AttackVictory",
+      "RankStart": 1,
+      "RankEnd": 15000,
+      "RewardParcelTypeLength": 88,
+      "RewardParcelUniqueIdLength": 72,
+      "RewardParcelUniqueNameLength": 48,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 59999,
+      "ArenaRewardType": "DefenseVictory",
+      "RankStart": 1,
+      "RankEnd": 15000,
+      "RewardParcelTypeLength": 96,
+      "RewardParcelUniqueIdLength": 80,
+      "RewardParcelUniqueNameLength": 52,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 60000,
+      "ArenaRewardType": "RankIcon",
+      "RankStart": 1,
+      "RankEnd": 100,
+      "RankIconPath": "UIs/01_Common/18_PVPArena/Arena_RankIcon_04",
+      "RewardParcelTypeLength": 60,
+      "RewardParcelUniqueIdLength": 48,
+      "RewardParcelUniqueNameLength": 40,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 60001,
+      "ArenaRewardType": "RankIcon",
+      "RankStart": 101,
+      "RankEnd": 5000,
+      "RankIconPath": "UIs/01_Common/18_PVPArena/Arena_RankIcon_03",
+      "RewardParcelTypeLength": 56,
+      "RewardParcelUniqueIdLength": 48,
+      "RewardParcelUniqueNameLength": 40,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 60002,
+      "ArenaRewardType": "RankIcon",
+      "RankStart": 5001,
+      "RankEnd": 10000,
+      "RankIconPath": "UIs/01_Common/18_PVPArena/Arena_RankIcon_02",
+      "RewardParcelTypeLength": 56,
+      "RewardParcelUniqueIdLength": 48,
+      "RewardParcelUniqueNameLength": 40,
+      "RewardParcelAmountLength": 32
+    },
+    {
+      "UniqueId": 60003,
+      "ArenaRewardType": "RankIcon",
+      "RankStart": 10001,
+      "RankEnd": 15001,
+      "RankIconPath": "UIs/01_Common/18_PVPArena/Arena_RankIcon_01",
+      "RewardParcelTypeLength": 56,
+      "RewardParcelUniqueIdLength": 48,
+      "RewardParcelUniqueNameLength": 40,
+      "RewardParcelAmountLength": 32
+    }
+  ]
+}

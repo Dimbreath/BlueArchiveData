@@ -1,0 +1,31 @@
+{
+  "DataList": [
+    {
+      "OpenLength": 4
+    },
+    {
+      "WeekDay": "Monday",
+      "OpenLength": 4
+    },
+    {
+      "WeekDay": "Tuesday",
+      "OpenLength": 4
+    },
+    {
+      "WeekDay": "Wednesday",
+      "OpenLength": 4
+    },
+    {
+      "WeekDay": "Thursday",
+      "OpenLength": 4
+    },
+    {
+      "WeekDay": "Friday",
+      "OpenLength": 4
+    },
+    {
+      "WeekDay": "Saturday",
+      "OpenLength": 4
+    }
+  ]
+}

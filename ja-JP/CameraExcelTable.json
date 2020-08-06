@@ -1,0 +1,83 @@
+{
+  "DataList": [
+    {
+      "UniqueId": 1,
+      "MinDistance": 35.0,
+      "MaxDistance": 42.0,
+      "RotationX": 25.25313,
+      "RotationY": -62.668549,
+      "MoveInstantly": true,
+      "LeftMargin": 0.07,
+      "BottomMargin": 0.05
+    },
+    {
+      "UniqueId": 2,
+      "MinDistance": 35.0,
+      "MaxDistance": 42.0,
+      "RotationX": 33.599998,
+      "RotationY": -52.200001,
+      "MoveInstantly": true,
+      "LeftMargin": 0.1,
+      "BottomMargin": 0.05
+    },
+    {
+      "UniqueId": 3,
+      "MinDistance": 59.299999,
+      "MaxDistance": 59.299999,
+      "RotationX": 25.251369,
+      "RotationY": -62.670261,
+      "MoveInstantly": true,
+      "LeftMargin": 0.2,
+      "BottomMargin": 0.05
+    },
+    {
+      "UniqueId": 4,
+      "MinDistance": 65.5,
+      "MaxDistance": 65.5,
+      "RotationX": 30.603399,
+      "RotationY": -88.223,
+      "LeftMargin": 0.2,
+      "BottomMargin": 0.05
+    },
+    {
+      "UniqueId": 5,
+      "MinDistance": 68.900002,
+      "MaxDistance": 68.900002,
+      "RotationX": 24.62908,
+      "RotationY": -45.21933,
+      "MoveInstantly": true,
+      "LeftMargin": 0.2,
+      "BottomMargin": 0.05
+    },
+    {
+      "UniqueId": 6,
+      "MinDistance": 50.0,
+      "MaxDistance": 50.0,
+      "RotationX": 25.25313,
+      "RotationY": -62.668549,
+      "MoveInstantly": true,
+      "LeftMargin": 0.1,
+      "BottomMargin": 0.05
+    },
+    {
+      "UniqueId": 7,
+      "MinDistance": 55.0,
+      "MaxDistance": 55.0,
+      "RotationX": 30.83,
+      "RotationY": -62.669998,
+      "MoveInstantly": true,
+      "LeftMargin": 0.2,
+      "BottomMargin": 0.05
+    },
+    {
+      "UniqueId": 8,
+      "MinDistance": 37.0,
+      "MaxDistance": 42.0,
+      "RotationX": 25.25313,
+      "RotationY": -62.668549,
+      "MoveInstantly": true,
+      "LeftMargin": 0.07,
+      "BottomMargin": 0.01
+    }
+  ]
+}

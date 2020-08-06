@@ -1,0 +1,25 @@
+{
+  "DataList": [
+    {
+      "Description": "CumulativeTimeReward_First",
+      "StartDate": "2019-04-10",
+      "EndDate": "2019-04-19",
+      "TimeConditionLength": 228,
+      "RewardParcelTypeLength": 196,
+      "RewardIdLength": 140,
+      "RewardDevNameLength": 36,
+      "RewardAmountLength": 4
+    },
+    {
+      "Id": 1,
+      "Description": "CumulativeTimeReward_Second",
+      "StartDate": "2019-04-20",
+      "EndDate": "2020-01-08",
+      "TimeConditionLength": 264,
+      "RewardParcelTypeLength": 232,
+      "RewardIdLength": 176,
+      "RewardDevNameLength": 48,
+      "RewardAmountLength": 16
+    }
+  ]
+}

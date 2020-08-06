@@ -1,0 +1,74 @@
+{
+  "DataList": [
+    {
+      "ID": 1,
+      "DevName": "LoadingImage01",
+      "ImagePathKr": "01_Common/12_Loading/LoadingImage_01_kr",
+      "ImagePathJp": "01_Common/12_Loading/LoadingImage_01_jp",
+      "DisplayWeight": 30
+    },
+    {
+      "ID": 2,
+      "DevName": "LoadingImage02",
+      "ImagePathKr": "01_Common/12_Loading/LoadingImage_02_kr",
+      "ImagePathJp": "01_Common/12_Loading/LoadingImage_02_jp",
+      "DisplayWeight": 20
+    },
+    {
+      "ID": 3,
+      "DevName": "LoadingImage03",
+      "ImagePathKr": "01_Common/12_Loading/LoadingImage_03_kr",
+      "ImagePathJp": "01_Common/12_Loading/LoadingImage_03_jp",
+      "DisplayWeight": 10
+    },
+    {
+      "ID": 4,
+      "DevName": "LoadingImage04",
+      "ImagePathKr": "01_Common/12_Loading/LoadingImage_04_kr",
+      "ImagePathJp": "01_Common/12_Loading/LoadingImage_04_jp",
+      "DisplayWeight": 10
+    },
+    {
+      "ID": 5,
+      "DevName": "LoadingImage05",
+      "ImagePathKr": "01_Common/12_Loading/LoadingImage_05_kr",
+      "ImagePathJp": "01_Common/12_Loading/LoadingImage_05_jp",
+      "DisplayWeight": 10
+    },
+    {
+      "ID": 6,
+      "DevName": "LoadingImage06",
+      "ImagePathKr": "01_Common/12_Loading/LoadingImage_06_kr",
+      "ImagePathJp": "01_Common/12_Loading/LoadingImage_06_jp",
+      "DisplayWeight": 10
+    },
+    {
+      "ID": 7,
+      "DevName": "LoadingImage07",
+      "ImagePathKr": "01_Common/12_Loading/LoadingImage_07_kr",
+      "ImagePathJp": "01_Common/12_Loading/LoadingImage_07_jp",
+      "DisplayWeight": 10
+    },
+    {
+      "ID": 8,
+      "DevName": "LoadingImage08",
+      "ImagePathKr": "01_Common/12_Loading/LoadingImage_08_kr",
+      "ImagePathJp": "01_Common/12_Loading/LoadingImage_08_jp",
+      "DisplayWeight": 10
+    },
+    {
+      "ID": 9,
+      "DevName": "LoadingImage09",
+      "ImagePathKr": "01_Common/12_Loading/LoadingImage_09_kr",
+      "ImagePathJp": "01_Common/12_Loading/LoadingImage_09_jp",
+      "DisplayWeight": 10
+    },
+    {
+      "ID": 10,
+      "DevName": "LoadingImage10",
+      "ImagePathKr": "01_Common/12_Loading/LoadingImage_10_kr",
+      "ImagePathJp": "01_Common/12_Loading/LoadingImage_10_jp",
+      "DisplayWeight": 10
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "DataList": [
+    {
+      "EquipmentId": 101101,
+      "DevDevName": "Hat_Cap_Tier1",
+      "MaxlevelStarLength": 32,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 101201,
+      "DevDevName": "Hat_Wool_Tier1",
+      "MaxlevelStarLength": 28,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 101301,
+      "DevDevName": "Hat_Beret_Tier1",
+      "MaxlevelStarLength": 28,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 102101,
+      "DevDevName": "Gloves_Leather_Tier1",
+      "MaxlevelStarLength": 28,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 102201,
+      "DevDevName": "Gloves_Athletic_Tier1",
+      "MaxlevelStarLength": 28,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 102301,
+      "DevDevName": "Gloves_Mittens_Tier1",
+      "MaxlevelStarLength": 28,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 103101,
+      "DevDevName": "Shoes_Sneakers_Tier1",
+      "MaxlevelStarLength": 28,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 103201,
+      "DevDevName": "Shoes_Enameled_Tier1",
+      "MaxlevelStarLength": 28,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 103301,
+      "DevDevName": "Shoes_Slippers_Tier1",
+      "MaxlevelStarLength": 28,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 104101,
+      "DevDevName": "Bag_Back_Tier1",
+      "MaxlevelStarLength": 28,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 104201,
+      "DevDevName": "Bag_Cross_Tier1",
+      "MaxlevelStarLength": 28,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 104301,
+      "DevDevName": "Bag_School_Tier1",
+      "MaxlevelStarLength": 32,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 105101,
+      "DevDevName": "Badge_Steel_Tier1",
+      "MaxlevelStarLength": 32,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 105201,
+      "DevDevName": "Badge_Stuffed_Tier1",
+      "MaxlevelStarLength": 32,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 105301,
+      "DevDevName": "Badge_String_Tier1",
+      "MaxlevelStarLength": 32,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 106101,
+      "DevDevName": "Hairpin_Ribbon_Tier1",
+      "MaxlevelStarLength": 28,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 106201,
+      "DevDevName": "Hairpin_Cherry_Tier1",
+      "MaxlevelStarLength": 28,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 106301,
+      "DevDevName": "Hairpin_Chouchou_Tier1",
+      "MaxlevelStarLength": 28,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 107101,
+      "DevDevName": "Charm_Oriental_Tier1",
+      "MaxlevelStarLength": 28,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 107201,
+      "DevDevName": "Charm_Cross_Tier1",
+      "MaxlevelStarLength": 32,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 107301,
+      "DevDevName": "Charm_Crystal_Tier1",
+      "MaxlevelStarLength": 32,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 108101,
+      "DevDevName": "Watch_Digital_Tier1",
+      "MaxlevelStarLength": 32,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 108201,
+      "DevDevName": "Watch_Golden_Tier1",
+      "MaxlevelStarLength": 32,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 108301,
+      "DevDevName": "Watch_Smart_Tier1",
+      "MaxlevelStarLength": 32,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 109101,
+      "DevDevName": "Necklace_Locket_Tier1",
+      "MaxlevelStarLength": 28,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 109201,
+      "DevDevName": "Necklace_Pendant_Tier1",
+      "MaxlevelStarLength": 28,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 109301,
+      "DevDevName": "Necklace_Choker_Tier1",
+      "MaxlevelStarLength": 28,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 1,
+      "DevDevName": "Exp_0",
+      "MaxlevelStarLength": 28,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 2,
+      "DevDevName": "Exp_1",
+      "MaxlevelStarLength": 28,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 3,
+      "DevDevName": "Exp_2",
+      "MaxlevelStarLength": 28,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    },
+    {
+      "EquipmentId": 4,
+      "DevDevName": "Exp_3",
+      "MaxlevelStarLength": 28,
+      "RecipeIdLength": 20,
+      "RecipeDevNameLength": 12
+    }
+  ]
+}

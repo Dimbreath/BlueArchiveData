@@ -1,0 +1,67 @@
+{
+  "DataList": [
+    {
+      "DevName": "Student",
+      "TacticEntityType": "Student",
+      "FloaterRandomPosRangeX": 50,
+      "FloaterRandomPosRangeY": 50
+    },
+    {
+      "Id": 1,
+      "DevName": "Minion",
+      "TacticEntityType": "Minion",
+      "FloaterOffsetPosX": -1,
+      "FloaterRandomPosRangeX": 50,
+      "FloaterRandomPosRangeY": 50
+    },
+    {
+      "Id": 2,
+      "DevName": "Elite",
+      "TacticEntityType": "Elite",
+      "FloaterRandomPosRangeX": 50,
+      "FloaterRandomPosRangeY": 50
+    },
+    {
+      "Id": 3,
+      "DevName": "Champion",
+      "TacticEntityType": "Champion",
+      "FloaterRandomPosRangeX": 50,
+      "FloaterRandomPosRangeY": 50
+    },
+    {
+      "Id": 4,
+      "DevName": "Boss",
+      "TacticEntityType": "Boss",
+      "FloaterRandomPosRangeX": 50,
+      "FloaterRandomPosRangeY": 50
+    },
+    {
+      "Id": 5,
+      "DevName": "Obstacle",
+      "TacticEntityType": "Obstacle",
+      "FloaterRandomPosRangeX": 50,
+      "FloaterRandomPosRangeY": 50
+    },
+    {
+      "Id": 6,
+      "DevName": "Servant",
+      "TacticEntityType": "Servant",
+      "FloaterRandomPosRangeX": 50,
+      "FloaterRandomPosRangeY": 50
+    },
+    {
+      "Id": 7,
+      "DevName": "Vehicle",
+      "TacticEntityType": "Vehicle",
+      "FloaterRandomPosRangeX": 50,
+      "FloaterRandomPosRangeY": 50
+    },
+    {
+      "Id": 8,
+      "DevName": "Summoned",
+      "TacticEntityType": "Summoned",
+      "FloaterRandomPosRangeX": 50,
+      "FloaterRandomPosRangeY": 50
+    }
+  ]
+}

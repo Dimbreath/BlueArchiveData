@@ -1,0 +1,121 @@
+{
+  "DataList": [
+    {
+      "Rank": 1,
+      "TeacherRankForCafeRankUp": 4,
+      "CampaignStageIdForCafeRankUp": 1011101,
+      "ComfortMax": 1100,
+      "ActionPointProductionCoefficient": 0.0055,
+      "ActionPointStorageMax": 80,
+      "GoldProductionCoefficient": 0.285,
+      "GoldStorageMax": 3800,
+      "TagCountMax": 2,
+      "CharacterVisitMin": 3,
+      "CharacterVisitMax": 4
+    },
+    {
+      "Rank": 2,
+      "TeacherRankForCafeRankUp": 6,
+      "CampaignStageIdForCafeRankUp": 1011102,
+      "ComfortMax": 1275,
+      "ActionPointProductionCoefficient": 0.0055,
+      "ActionPointStorageMax": 90,
+      "GoldProductionCoefficient": 0.3015,
+      "GoldStorageMax": 4700,
+      "TagCountMax": 2,
+      "CharacterVisitMin": 3,
+      "CharacterVisitMax": 4
+    },
+    {
+      "Rank": 3,
+      "TeacherRankForCafeRankUp": 8,
+      "CampaignStageIdForCafeRankUp": 1011103,
+      "ComfortMax": 1450,
+      "ActionPointProductionCoefficient": 0.0055,
+      "ActionPointStorageMax": 100,
+      "GoldProductionCoefficient": 0.318,
+      "GoldStorageMax": 5600,
+      "TagCountMax": 2,
+      "CharacterVisitMin": 3,
+      "CharacterVisitMax": 4
+    },
+    {
+      "Rank": 4,
+      "TeacherRankForCafeRankUp": 10,
+      "CampaignStageIdForCafeRankUp": 1011104,
+      "ComfortMax": 1625,
+      "ActionPointProductionCoefficient": 0.0055,
+      "ActionPointStorageMax": 110,
+      "GoldProductionCoefficient": 0.3345,
+      "GoldStorageMax": 6600,
+      "TagCountMax": 3,
+      "CharacterVisitMin": 3,
+      "CharacterVisitMax": 5
+    },
+    {
+      "Rank": 5,
+      "TeacherRankForCafeRankUp": 12,
+      "CampaignStageIdForCafeRankUp": 1011105,
+      "ComfortMax": 1800,
+      "ActionPointProductionCoefficient": 0.0055,
+      "ActionPointStorageMax": 120,
+      "GoldProductionCoefficient": 0.351,
+      "GoldStorageMax": 7600,
+      "TagCountMax": 3,
+      "CharacterVisitMin": 3,
+      "CharacterVisitMax": 5
+    },
+    {
+      "Rank": 6,
+      "TeacherRankForCafeRankUp": 14,
+      "CampaignStageIdForCafeRankUp": 1021101,
+      "ComfortMax": 1975,
+      "ActionPointProductionCoefficient": 0.0055,
+      "ActionPointStorageMax": 140,
+      "GoldProductionCoefficient": 0.3675,
+      "GoldStorageMax": 8800,
+      "TagCountMax": 3,
+      "CharacterVisitMin": 3,
+      "CharacterVisitMax": 5
+    },
+    {
+      "Rank": 7,
+      "TeacherRankForCafeRankUp": 16,
+      "CampaignStageIdForCafeRankUp": 1021102,
+      "ComfortMax": 2150,
+      "ActionPointProductionCoefficient": 0.0055,
+      "ActionPointStorageMax": 150,
+      "GoldProductionCoefficient": 0.384,
+      "GoldStorageMax": 10000,
+      "TagCountMax": 4,
+      "CharacterVisitMin": 4,
+      "CharacterVisitMax": 5
+    },
+    {
+      "Rank": 8,
+      "TeacherRankForCafeRankUp": 18,
+      "CampaignStageIdForCafeRankUp": 1021103,
+      "ComfortMax": 2325,
+      "ActionPointProductionCoefficient": 0.0055,
+      "ActionPointStorageMax": 160,
+      "GoldProductionCoefficient": 0.4005,
+      "GoldStorageMax": 11200,
+      "TagCountMax": 4,
+      "CharacterVisitMin": 4,
+      "CharacterVisitMax": 5
+    },
+    {
+      "Rank": 9,
+      "TeacherRankForCafeRankUp": 20,
+      "CampaignStageIdForCafeRankUp": 1021104,
+      "ComfortMax": 2500,
+      "ActionPointProductionCoefficient": 0.0055,
+      "ActionPointStorageMax": 170,
+      "GoldProductionCoefficient": 0.417,
+      "GoldStorageMax": 12600,
+      "TagCountMax": 4,
+      "CharacterVisitMin": 4,
+      "CharacterVisitMax": 5
+    }
+  ]
+}

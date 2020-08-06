@@ -1,0 +1,14 @@
+{
+  "DataList": [
+    {
+      "ID": 1,
+      "DevName": "BUTTON_CLICK",
+      "Path": "Audio/SFX_UI/UI_Button_Touch"
+    },
+    {
+      "ID": 2,
+      "DevName": "BACK_BUTTON_CLICK",
+      "Path": "Audio/SFX_UI/UI_Button_Back"
+    }
+  ]
+}

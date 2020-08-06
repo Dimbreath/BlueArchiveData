@@ -1,0 +1,130 @@
+{
+  "DataList": [
+    {
+      "SeasonId": 1,
+      "SeasonStartData": "2020-02-01 00:00:00",
+      "SeasonEndData": "2020-02-15 00:00:00",
+      "OpenRaidBossGroupLength": 204,
+      "MaxSeasonRewardGauage": 80000,
+      "StackedSeasonRewardGaugeLength": 108,
+      "SeasonRewardIdLength": 16
+    },
+    {
+      "SeasonId": 2,
+      "SeasonStartData": "2020-03-01 00:00:00",
+      "SeasonEndData": "2020-03-15 00:00:00",
+      "OpenRaidBossGroupLength": 204,
+      "MaxSeasonRewardGauage": 80000,
+      "StackedSeasonRewardGaugeLength": 108,
+      "SeasonRewardIdLength": 16
+    },
+    {
+      "SeasonId": 3,
+      "SeasonStartData": "2020-03-19 00:00:00",
+      "SeasonEndData": "2020-03-22 23:00:00",
+      "OpenRaidBossGroupLength": 200,
+      "MaxSeasonRewardGauage": 80000,
+      "StackedSeasonRewardGaugeLength": 108,
+      "SeasonRewardIdLength": 16
+    },
+    {
+      "SeasonId": 4,
+      "SeasonStartData": "2020-03-23 00:00:00",
+      "SeasonEndData": "2020-03-27 00:00:00",
+      "OpenRaidBossGroupLength": 200,
+      "MaxSeasonRewardGauage": 80000,
+      "StackedSeasonRewardGaugeLength": 108,
+      "SeasonRewardIdLength": 16
+    },
+    {
+      "SeasonId": 5,
+      "SeasonStartData": "2020-04-06 00:00:00",
+      "SeasonEndData": "2020-04-09 04:00:00",
+      "OpenRaidBossGroupLength": 200,
+      "MaxSeasonRewardGauage": 80000,
+      "StackedSeasonRewardGaugeLength": 108,
+      "SeasonRewardIdLength": 16
+    },
+    {
+      "SeasonId": 6,
+      "SeasonStartData": "2020-04-10 00:00:00",
+      "SeasonEndData": "2020-04-26 23:00:00",
+      "OpenRaidBossGroupLength": 200,
+      "MaxSeasonRewardGauage": 80000,
+      "StackedSeasonRewardGaugeLength": 108,
+      "SeasonRewardIdLength": 16
+    },
+    {
+      "SeasonId": 7,
+      "SeasonStartData": "2020-04-27 04:00:00",
+      "SeasonEndData": "2020-05-03 23:00:00",
+      "OpenRaidBossGroupLength": 200,
+      "MaxSeasonRewardGauage": 80000,
+      "StackedSeasonRewardGaugeLength": 108,
+      "SeasonRewardIdLength": 16
+    },
+    {
+      "SeasonId": 8,
+      "SeasonStartData": "2020-05-06 04:00:00",
+      "SeasonEndData": "2020-05-17 23:00:00",
+      "OpenRaidBossGroupLength": 200,
+      "MaxSeasonRewardGauage": 80000,
+      "StackedSeasonRewardGaugeLength": 108,
+      "SeasonRewardIdLength": 16
+    },
+    {
+      "SeasonId": 9,
+      "SeasonStartData": "2020-05-18 04:00:00",
+      "SeasonEndData": "2020-05-24 23:00:00",
+      "OpenRaidBossGroupLength": 200,
+      "MaxSeasonRewardGauage": 80000,
+      "StackedSeasonRewardGaugeLength": 108,
+      "SeasonRewardIdLength": 16
+    },
+    {
+      "SeasonId": 10,
+      "SeasonStartData": "2020-05-25 04:00:00",
+      "SeasonEndData": "2020-05-31 23:00:00",
+      "OpenRaidBossGroupLength": 200,
+      "MaxSeasonRewardGauage": 80000,
+      "StackedSeasonRewardGaugeLength": 108,
+      "SeasonRewardIdLength": 16
+    },
+    {
+      "SeasonId": 11,
+      "SeasonStartData": "2020-06-01 04:00:00",
+      "SeasonEndData": "2020-06-30 23:00:00",
+      "OpenRaidBossGroupLength": 200,
+      "MaxSeasonRewardGauage": 80000,
+      "StackedSeasonRewardGaugeLength": 108,
+      "SeasonRewardIdLength": 16
+    },
+    {
+      "SeasonId": 12,
+      "SeasonStartData": "2020-07-01 04:00:00",
+      "SeasonEndData": "2020-07-31 23:00:00",
+      "OpenRaidBossGroupLength": 200,
+      "MaxSeasonRewardGauage": 80000,
+      "StackedSeasonRewardGaugeLength": 108,
+      "SeasonRewardIdLength": 16
+    },
+    {
+      "SeasonId": 13,
+      "SeasonStartData": "2020-08-01 04:00:00",
+      "SeasonEndData": "2020-08-10 23:59:59",
+      "OpenRaidBossGroupLength": 200,
+      "MaxSeasonRewardGauage": 80000,
+      "StackedSeasonRewardGaugeLength": 108,
+      "SeasonRewardIdLength": 16
+    },
+    {
+      "SeasonId": 14,
+      "SeasonStartData": "2020-08-11 15:00:00",
+      "SeasonEndData": "2020-08-16 23:59:59",
+      "OpenRaidBossGroupLength": 200,
+      "MaxSeasonRewardGauage": 80000,
+      "StackedSeasonRewardGaugeLength": 108,
+      "SeasonRewardIdLength": 16
+    }
+  ]
+}

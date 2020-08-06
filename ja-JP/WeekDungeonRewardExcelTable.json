@@ -1,0 +1,180 @@
+{
+  "DataList": [
+    {
+      "StageRewardId": 1,
+      "DevName": "요일던전 추격전 A 01",
+      "DungeonType": "ChaserA",
+      "RewardParcelTypeLength": 536,
+      "RewardParcelIdLength": 376,
+      "RewardParcelAmountLength": 212,
+      "RewardParcelProbabilityLength": 48,
+      "IsDisplayedLength": 20,
+      "DropItemModelPrefabPathLength": 12
+    },
+    {
+      "StageRewardId": 2,
+      "DevName": "요일던전 추격전 A 02",
+      "DungeonType": "ChaserA",
+      "RewardParcelTypeLength": 892,
+      "RewardParcelIdLength": 616,
+      "RewardParcelAmountLength": 340,
+      "RewardParcelProbabilityLength": 64,
+      "IsDisplayedLength": 20,
+      "DropItemModelPrefabPathLength": 12
+    },
+    {
+      "StageRewardId": 3,
+      "DevName": "요일던전 추격전 A 03",
+      "DungeonType": "ChaserA",
+      "RewardParcelTypeLength": 940,
+      "RewardParcelIdLength": 648,
+      "RewardParcelAmountLength": 356,
+      "RewardParcelProbabilityLength": 64,
+      "IsDisplayedLength": 20,
+      "DropItemModelPrefabPathLength": 12
+    },
+    {
+      "StageRewardId": 4,
+      "DevName": "요일던전 추격전 A 04",
+      "DungeonType": "ChaserA",
+      "RewardParcelTypeLength": 940,
+      "RewardParcelIdLength": 648,
+      "RewardParcelAmountLength": 356,
+      "RewardParcelProbabilityLength": 64,
+      "IsDisplayedLength": 20,
+      "DropItemModelPrefabPathLength": 12
+    },
+    {
+      "StageRewardId": 11,
+      "DevName": "요일던전 추격전 B 01",
+      "DungeonType": "ChaserB",
+      "RewardParcelTypeLength": 396,
+      "RewardParcelIdLength": 280,
+      "RewardParcelAmountLength": 164,
+      "RewardParcelProbabilityLength": 48,
+      "IsDisplayedLength": 24,
+      "DropItemModelPrefabPathLength": 16
+    },
+    {
+      "StageRewardId": 12,
+      "DevName": "요일던전 추격전 B 02",
+      "DungeonType": "ChaserB",
+      "RewardParcelTypeLength": 740,
+      "RewardParcelIdLength": 512,
+      "RewardParcelAmountLength": 284,
+      "RewardParcelProbabilityLength": 56,
+      "IsDisplayedLength": 20,
+      "DropItemModelPrefabPathLength": 12
+    },
+    {
+      "StageRewardId": 13,
+      "DevName": "요일던전 추격전 B 03",
+      "DungeonType": "ChaserB",
+      "RewardParcelTypeLength": 692,
+      "RewardParcelIdLength": 480,
+      "RewardParcelAmountLength": 268,
+      "RewardParcelProbabilityLength": 56,
+      "IsDisplayedLength": 20,
+      "DropItemModelPrefabPathLength": 12
+    },
+    {
+      "StageRewardId": 14,
+      "DevName": "요일던전 추격전 B 04",
+      "DungeonType": "ChaserB",
+      "RewardParcelTypeLength": 740,
+      "RewardParcelIdLength": 512,
+      "RewardParcelAmountLength": 284,
+      "RewardParcelProbabilityLength": 56,
+      "IsDisplayedLength": 20,
+      "DropItemModelPrefabPathLength": 12
+    },
+    {
+      "StageRewardId": 21,
+      "DevName": "요일던전 추격전 C 01",
+      "DungeonType": "ChaserC",
+      "RewardParcelTypeLength": 492,
+      "RewardParcelIdLength": 344,
+      "RewardParcelAmountLength": 196,
+      "RewardParcelProbabilityLength": 48,
+      "IsDisplayedLength": 20,
+      "DropItemModelPrefabPathLength": 12
+    },
+    {
+      "StageRewardId": 22,
+      "DevName": "요일던전 추격전 C 02",
+      "DungeonType": "ChaserC",
+      "RewardParcelTypeLength": 940,
+      "RewardParcelIdLength": 648,
+      "RewardParcelAmountLength": 356,
+      "RewardParcelProbabilityLength": 64,
+      "IsDisplayedLength": 20,
+      "DropItemModelPrefabPathLength": 12
+    },
+    {
+      "StageRewardId": 23,
+      "DevName": "요일던전 추격전 C 03",
+      "DungeonType": "ChaserC",
+      "RewardParcelTypeLength": 940,
+      "RewardParcelIdLength": 648,
+      "RewardParcelAmountLength": 356,
+      "RewardParcelProbabilityLength": 64,
+      "IsDisplayedLength": 20,
+      "DropItemModelPrefabPathLength": 12
+    },
+    {
+      "StageRewardId": 24,
+      "DevName": "요일던전 추격전 C 04",
+      "DungeonType": "ChaserC",
+      "RewardParcelTypeLength": 892,
+      "RewardParcelIdLength": 616,
+      "RewardParcelAmountLength": 340,
+      "RewardParcelProbabilityLength": 64,
+      "IsDisplayedLength": 20,
+      "DropItemModelPrefabPathLength": 12
+    },
+    {
+      "StageRewardId": 31,
+      "DevName": "블러드 01",
+      "DungeonType": "Blood",
+      "RewardParcelTypeLength": 136,
+      "RewardParcelIdLength": 104,
+      "RewardParcelAmountLength": 68,
+      "RewardParcelProbabilityLength": 32,
+      "IsDisplayedLength": 20,
+      "DropItemModelPrefabPathLength": 12
+    },
+    {
+      "StageRewardId": 32,
+      "DevName": "블러드 02",
+      "DungeonType": "Blood",
+      "RewardParcelTypeLength": 136,
+      "RewardParcelIdLength": 104,
+      "RewardParcelAmountLength": 68,
+      "RewardParcelProbabilityLength": 32,
+      "IsDisplayedLength": 20,
+      "DropItemModelPrefabPathLength": 12
+    },
+    {
+      "StageRewardId": 33,
+      "DevName": "블러드 03",
+      "DungeonType": "Blood",
+      "RewardParcelTypeLength": 164,
+      "RewardParcelIdLength": 120,
+      "RewardParcelAmountLength": 76,
+      "RewardParcelProbabilityLength": 32,
+      "IsDisplayedLength": 20,
+      "DropItemModelPrefabPathLength": 12
+    },
+    {
+      "StageRewardId": 34,
+      "DevName": "블러드 04",
+      "DungeonType": "Blood",
+      "RewardParcelTypeLength": 164,
+      "RewardParcelIdLength": 120,
+      "RewardParcelAmountLength": 76,
+      "RewardParcelProbabilityLength": 32,
+      "IsDisplayedLength": 20,
+      "DropItemModelPrefabPathLength": 12
+    }
+  ]
+}

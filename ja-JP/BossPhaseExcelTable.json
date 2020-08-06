@@ -1,0 +1,134 @@
+{
+  "DataList": [
+    {
+      "Id": 7310011,
+      "DevName": "Binah_default_VeryEasy",
+      "UseExSkill1": true,
+      "UseExSkill2": true,
+      "NormalAttackSkillUniqueName": "BinahNormalAttackSkill01",
+      "UseExSkillLength": 16
+    },
+    {
+      "Id": 7310011,
+      "DevName": "Binah_default_VeryEasy",
+      "AIPhase": 1,
+      "UseExSkill1": true,
+      "UseExSkill2": true,
+      "NormalAttackSkillUniqueName": "BinahNormalAttackSkill01",
+      "UseExSkillLength": 24
+    },
+    {
+      "Id": 7310011,
+      "DevName": "Binah_default_VeryEasy",
+      "AIPhase": 2,
+      "UseExSkill1": true,
+      "UseExSkill2": true,
+      "NormalAttackSkillUniqueName": "BinahNormalAttackSkill01",
+      "UseExSkillLength": 24
+    },
+    {
+      "Id": 7310012,
+      "DevName": "Binah_default_Easy",
+      "UseExSkill1": true,
+      "UseExSkill2": true,
+      "NormalAttackSkillUniqueName": "BinahNormalAttackSkill01",
+      "UseExSkillLength": 16
+    },
+    {
+      "Id": 7310012,
+      "DevName": "Binah_default_Easy",
+      "AIPhase": 1,
+      "UseExSkill1": true,
+      "UseExSkill2": true,
+      "NormalAttackSkillUniqueName": "BinahNormalAttackSkill01",
+      "UseExSkillLength": 24
+    },
+    {
+      "Id": 7310012,
+      "DevName": "Binah_default_Easy",
+      "AIPhase": 2,
+      "UseExSkill1": true,
+      "UseExSkill2": true,
+      "NormalAttackSkillUniqueName": "BinahNormalAttackSkill01",
+      "UseExSkillLength": 24
+    },
+    {
+      "Id": 7310013,
+      "DevName": "Binah_default_Normal",
+      "UseExSkill1": true,
+      "UseExSkill2": true,
+      "NormalAttackSkillUniqueName": "BinahNormalAttackSkill01",
+      "UseExSkillLength": 12
+    },
+    {
+      "Id": 7310013,
+      "DevName": "Binah_default_Normal",
+      "AIPhase": 1,
+      "UseExSkill1": true,
+      "UseExSkill2": true,
+      "NormalAttackSkillUniqueName": "BinahNormalAttackSkill01",
+      "UseExSkillLength": 24
+    },
+    {
+      "Id": 7310013,
+      "DevName": "Binah_default_Normal",
+      "AIPhase": 2,
+      "UseExSkill1": true,
+      "UseExSkill2": true,
+      "UseExSkill3": true,
+      "NormalAttackSkillUniqueName": "BinahNormalAttackSkill01",
+      "UseExSkillLength": 20
+    },
+    {
+      "Id": 7310021,
+      "DevName": "Chesed_default_VeryEasy",
+      "UseExSkill1": true,
+      "UseExSkill2": true,
+      "UseExSkill3": true,
+      "UseExSkillLength": 16
+    },
+    {
+      "Id": 7310021,
+      "DevName": "Chesed_default_VeryEasy",
+      "AIPhase": 1,
+      "UseExSkill1": true,
+      "UseExSkill2": true,
+      "UseExSkill3": true,
+      "UseExSkillLength": 20
+    },
+    {
+      "Id": 7310022,
+      "DevName": "Chesed_default_Easy",
+      "UseExSkill1": true,
+      "UseExSkill2": true,
+      "UseExSkill3": true,
+      "UseExSkillLength": 16
+    },
+    {
+      "Id": 7310022,
+      "DevName": "Chesed_default_Easy",
+      "AIPhase": 1,
+      "UseExSkill1": true,
+      "UseExSkill2": true,
+      "UseExSkill3": true,
+      "UseExSkillLength": 20
+    },
+    {
+      "Id": 7310023,
+      "DevName": "Chesed_default_Normal",
+      "UseExSkill1": true,
+      "UseExSkill2": true,
+      "UseExSkill3": true,
+      "UseExSkillLength": 16
+    },
+    {
+      "Id": 7310023,
+      "DevName": "Chesed_default_Normal",
+      "AIPhase": 1,
+      "UseExSkill1": true,
+      "UseExSkill2": true,
+      "UseExSkill3": true,
+      "UseExSkillLength": 24
+    }
+  ]
+}

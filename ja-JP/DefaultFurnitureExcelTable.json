@@ -1,0 +1,65 @@
+{
+  "DataList": [
+    {
+      "Id": 1,
+      "Location": "Floor"
+    },
+    {
+      "Id": 2,
+      "Location": "WallRight"
+    },
+    {
+      "Id": 3,
+      "Location": "WallLeft"
+    },
+    {
+      "Id": 4,
+      "Location": "WallRight",
+      "PositionX": 8.5,
+      "PositionY": 2.5
+    },
+    {
+      "Id": 5,
+      "Location": "Floor",
+      "PositionX": 2.5,
+      "PositionY": 0.5,
+      "Rotation": 270.0
+    },
+    {
+      "Id": 6,
+      "Location": "Floor",
+      "PositionX": 7.5,
+      "PositionY": 8.5
+    },
+    {
+      "Id": 7,
+      "Location": "Floor",
+      "PositionX": 7.5,
+      "PositionY": 6.5
+    },
+    {
+      "Id": 8,
+      "Location": "Floor",
+      "PositionX": 9.5,
+      "PositionY": 8.5
+    },
+    {
+      "Id": 9,
+      "Location": "Floor",
+      "PositionX": 4.5,
+      "PositionY": 0.5
+    },
+    {
+      "Id": 10,
+      "Location": "Floor",
+      "PositionX": 7.5,
+      "PositionY": 8.5
+    },
+    {
+      "Id": 11,
+      "Location": "WallLeft",
+      "PositionX": 7.5,
+      "PositionY": 2.5
+    }
+  ]
+}

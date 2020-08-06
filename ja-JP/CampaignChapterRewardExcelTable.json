@@ -1,0 +1,68 @@
+{
+  "DataList": [
+    {
+      "Id": 1,
+      "DevName": "CampaignChapterReward_S01_Ch01_Normal",
+      "ChapterRewardParcelTypeLength": 76,
+      "ChapterRewardIdLength": 56,
+      "ChapterRewardDevNameLength": 28,
+      "ChapterRewardAmountLength": 16
+    },
+    {
+      "Id": 2,
+      "DevName": "CampaignChapterReward_S01_Ch01_Hard",
+      "ChapterRewardParcelTypeLength": 72,
+      "ChapterRewardIdLength": 56,
+      "ChapterRewardDevNameLength": 28,
+      "ChapterRewardAmountLength": 16
+    },
+    {
+      "Id": 3,
+      "DevName": "CampaignChapterReward_S01_Ch02_Normal",
+      "ChapterRewardParcelTypeLength": 76,
+      "ChapterRewardIdLength": 56,
+      "ChapterRewardDevNameLength": 28,
+      "ChapterRewardAmountLength": 16
+    },
+    {
+      "Id": 4,
+      "DevName": "CampaignChapterReward_S01_Ch02_Hard",
+      "ChapterRewardParcelTypeLength": 72,
+      "ChapterRewardIdLength": 56,
+      "ChapterRewardDevNameLength": 28,
+      "ChapterRewardAmountLength": 16
+    },
+    {
+      "Id": 5,
+      "DevName": "CampaignChapterReward_S01_Ch03_Normal",
+      "ChapterRewardParcelTypeLength": 76,
+      "ChapterRewardIdLength": 56,
+      "ChapterRewardDevNameLength": 28,
+      "ChapterRewardAmountLength": 16
+    },
+    {
+      "Id": 6,
+      "DevName": "CampaignChapterReward_S01_Ch03_Hard",
+      "ChapterRewardParcelTypeLength": 72,
+      "ChapterRewardIdLength": 56,
+      "ChapterRewardDevNameLength": 28,
+      "ChapterRewardAmountLength": 16
+    },
+    {
+      "Id": 7,
+      "DevName": "CampaignChapterReward_S01_Ch04_Normal",
+      "ChapterRewardParcelTypeLength": 76,
+      "ChapterRewardIdLength": 56,
+      "ChapterRewardDevNameLength": 28,
+      "ChapterRewardAmountLength": 16
+    },
+    {
+      "Id": 8,
+      "DevName": "CampaignChapterReward_S01_Ch04_Hard",
+      "ChapterRewardParcelTypeLength": 72,
+      "ChapterRewardIdLength": 56,
+      "ChapterRewardDevNameLength": 28,
+      "ChapterRewardAmountLength": 16
+    }
+  ]
+}

@@ -1,0 +1,1552 @@
+{
+  "DataList": [
+    {
+      "CharacterName": 1513292125,
+      "NameKR": "시로코",
+      "NicknameKR": "복면을 쓴 여고생",
+      "NameJP": "シロコ",
+      "NicknameJP": "覆面の女子高生",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_shiroko_robber",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Shiroko_Robber"
+    },
+    {
+      "CharacterName": 3278611304,
+      "NameKR": "세리카",
+      "NicknameKR": "복면을 쓴 여고생",
+      "NameJP": "セリカ",
+      "NicknameJP": "覆面の女子高生",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_serika_robber",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Serika_Robber"
+    },
+    {
+      "CharacterName": 472527041,
+      "NameKR": "호시노",
+      "NicknameKR": "복면을 쓴 여고생",
+      "NameJP": "ホシノ",
+      "NicknameJP": "覆面の女子高生",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_hoshino_robber",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Hoshino_Robber"
+    },
+    {
+      "CharacterName": 2271270368,
+      "NameKR": "노노미",
+      "NicknameKR": "복면을 쓴 여고생",
+      "NameJP": "ノノミ",
+      "NicknameJP": "覆面の女子高生",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_nonomi_robber",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Nonomi_Robber"
+    },
+    {
+      "CharacterName": 3077082557,
+      "NameKR": "히후미",
+      "NicknameKR": "빵봉투를 쓴 여고생",
+      "NameJP": "ヒフミ",
+      "NicknameJP": "紙袋をかぶった女子高生",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_hihumi_robber",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Hihumi_Robber"
+    },
+    {
+      "CharacterName": 2327590532,
+      "NameKR": "세리카",
+      "NicknameKR": "아르바이트생",
+      "NameJP": "セリカ",
+      "NicknameJP": "アルバイト",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_serika_shibaseki",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Serika_Shibaseki"
+    },
+    {
+      "CharacterName": 2490925709,
+      "NameKR": "시민 A",
+      "NicknameKR": "일반인",
+      "NameJP": "市民A",
+      "NicknameJP": "一般人",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_borot1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Borot1"
+    },
+    {
+      "CharacterName": 2177442301,
+      "NameKR": "시민 B",
+      "NicknameKR": "일반인",
+      "NameJP": "市民B",
+      "NicknameJP": "一般人",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_animal1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Animal1"
+    },
+    {
+      "CharacterName": 1944734108,
+      "NameKR": "헬멧단",
+      "NicknameKR": "카타카타 헬멧단",
+      "NameJP": "ヘルメット団",
+      "NicknameJP": "カタカタヘルメット団",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_helmetdan_red1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Helmetdan_Red1"
+    },
+    {
+      "CharacterName": 3885161284,
+      "NameKR": "헬멧단 A",
+      "NicknameKR": "카타카타 헬멧단",
+      "NameJP": "ヘルメット団A",
+      "NicknameJP": "カタカタヘルメット団",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_helmetdan_red1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Helmetdan_Red1"
+    },
+    {
+      "CharacterName": 4044885960,
+      "NameKR": "헬멧단 B",
+      "NicknameKR": "카타카타 헬멧단",
+      "NameJP": "ヘルメット団B",
+      "NicknameJP": "カタカタヘルメット団",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_helmetdan_black1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Helmetdan_Black1"
+    },
+    {
+      "CharacterName": 2627242411,
+      "NameKR": "용역알바 A",
+      "NicknameKR": "아르바이트생",
+      "NameJP": "傭兵バイトA",
+      "NicknameJP": "アルバイト",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_yoheki_normal1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Yoheki_Normal1"
+    },
+    {
+      "CharacterName": 2326635954,
+      "NameKR": "용역알바 B",
+      "NicknameKR": "아르바이트생",
+      "NameJP": "傭兵バイトB",
+      "NicknameJP": "アルバイト",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_yoheki_normal1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Yoheki_Normal1"
+    },
+    {
+      "CharacterName": 3356976025,
+      "NameKR": "용역알바 C",
+      "NicknameKR": "아르바이트생",
+      "NameJP": "傭兵バイトC",
+      "NicknameJP": "アルバイト",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_yoheki_normal1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Yoheki_Normal1"
+    },
+    {
+      "CharacterName": 700307158,
+      "NameKR": "검은 양복",
+      "NicknameKR": "소속 불명",
+      "NameJP": "黒服",
+      "NicknameJP": "所属不明",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_blacksuit",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Blacksuit"
+    },
+    {
+      "CharacterName": 3584842380,
+      "NameKR": "검은 양복",
+      "NicknameKR": "게마트리아",
+      "NameJP": "黒服",
+      "NicknameJP": "ゲマトリア",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_blacksuit",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Blacksuit"
+    },
+    {
+      "CharacterName": 3453029138,
+      "NameKR": "카이저 PMC 이사",
+      "NicknameKR": "카이저 PMC",
+      "NameJP": "カイザーPMC理事",
+      "NicknameJP": "カイザーPMC",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_pmcdirector",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Pmcdirector"
+    },
+    {
+      "CharacterName": 3709772302,
+      "NameKR": "마스터 시바",
+      "NicknameKR": "시바세키 라면",
+      "NameJP": "柴大将",
+      "NicknameJP": "柴関ラーメン",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_shibasekimaster",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Shibasekimaster"
+    },
+    {
+      "CharacterName": 4084684067,
+      "NameKR": "테라마키나",
+      "NicknameKR": "카타카타 헬멧단",
+      "NameJP": "テラマキナ",
+      "NicknameJP": "カタカタヘルメット団",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_terramachina",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Terramachina"
+    },
+    {
+      "CharacterName": 2841048228,
+      "NameKR": "비나",
+      "NicknameKR": "???",
+      "NameJP": "ビナー",
+      "NicknameJP": "？？？",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_binah",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Binah"
+    },
+    {
+      "CharacterName": 3893132848,
+      "NameKR": "선생님",
+      "NameJP": "先生",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 3887329079,
+      "NameKR": "불량배 1",
+      "NicknameKR": "거리의 무법자",
+      "NameJP": "チンピラ１",
+      "NicknameJP": "街のチンピラ",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_helmetdan_red1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Helmetdan_Red1"
+    },
+    {
+      "CharacterName": 1465105232,
+      "NameKR": "불량배 2",
+      "NicknameKR": "거리의 무법자",
+      "NameJP": "チンピラ２",
+      "NicknameJP": "街のチンピラ",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_helmetdan_black1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Helmetdan_Black1"
+    },
+    {
+      "CharacterName": 3511031496,
+      "NameKR": "불량배 1",
+      "NicknameKR": "거리의 무법자",
+      "NameJP": "チンピラ１",
+      "NicknameJP": "街のチンピラ",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_borot1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Borot1"
+    },
+    {
+      "CharacterName": 1796597359,
+      "NameKR": "불량배 2",
+      "NicknameKR": "거리의 무법자",
+      "NameJP": "チンピラ２",
+      "NicknameJP": "街のチンピラ",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_yoheki_normal1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Yoheki_Normal1"
+    },
+    {
+      "CharacterName": 3236251661,
+      "NameKR": "로봇 A",
+      "NameJP": "ロボットA",
+      "Shape": "BlackSilhouette",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_borot1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Borot1"
+    },
+    {
+      "CharacterName": 2400728074,
+      "NameKR": "로봇 B",
+      "NameJP": "ロボットB",
+      "Shape": "BlackSilhouette",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_borot1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Borot1"
+    },
+    {
+      "CharacterName": 4068427293,
+      "NameKR": "로봇",
+      "NameJP": "ロボット",
+      "Shape": "BlackSilhouette",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_borot1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Borot1"
+    },
+    {
+      "CharacterName": 4237707180,
+      "NameKR": "심사위원 로봇",
+      "NameJP": "審査員ロボット",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_borot1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Borot1"
+    },
+    {
+      "CharacterName": 1242378042,
+      "NameKR": "은행직원",
+      "NicknameKR": "카이저론",
+      "NameJP": "銀行員",
+      "NicknameJP": "カイザーローン",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_borot1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Borot1"
+    },
+    {
+      "CharacterName": 1073752515,
+      "NameKR": "은행 심사관",
+      "NameJP": "銀行審査官",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_borot1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Borot1"
+    },
+    {
+      "CharacterName": 4107135131,
+      "NameKR": "경찰",
+      "NameJP": "警察",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_borot1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Borot1"
+    },
+    {
+      "CharacterName": 2299361996,
+      "NameKR": "점원",
+      "NameJP": "店員",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_borot1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Borot1"
+    },
+    {
+      "CharacterName": 584931716,
+      "NameKR": "고객",
+      "NameJP": "客",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_animal1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Animal1"
+    },
+    {
+      "CharacterName": 365674120,
+      "NameKR": "행인",
+      "NameJP": "通行人",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_animal1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Animal1"
+    },
+    {
+      "CharacterName": 1512430725,
+      "NameKR": "암흑은행직원",
+      "NameJP": "闇銀行の行員",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_helmetdan_black1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Helmetdan_Black1"
+    },
+    {
+      "CharacterName": 2742541954,
+      "NameKR": "은행 경비원",
+      "NameJP": "銀行ガード",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_helmetdan_black1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Helmetdan_Black1"
+    },
+    {
+      "CharacterName": 3168610119,
+      "NameKR": "붕어빵 가게주인",
+      "NameJP": "たい焼き屋店主",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 4108167235,
+      "NameKR": "마켓 가드 1",
+      "NameJP": "マーケットガード１",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 3469435371,
+      "NameKR": "마켓 가드 2",
+      "NameJP": "マーケットガード２",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 4137627003,
+      "NameKR": "마켓 가드 3",
+      "NameJP": "マーケットガード３",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 1589749682,
+      "NameKR": "선도부 척탄병",
+      "NicknameKR": "선도부",
+      "NameJP": "擲弾兵",
+      "NicknameJP": "風紀委員会",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 2755732452,
+      "NameKR": "선도부원",
+      "NicknameKR": "선도부",
+      "NameJP": "風紀委員",
+      "NicknameJP": "風紀委員会",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 2746145574,
+      "NameKR": "???",
+      "NameJP": "？？？",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 4200835236,
+      "NameKR": "히후미",
+      "NicknameKR": "보충수업반",
+      "NameJP": "ヒフミ",
+      "NicknameJP": "補習授業部",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_hihumi",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Hihumi"
+    },
+    {
+      "CharacterName": 3486651750,
+      "NameKR": "하나코",
+      "NicknameKR": "트리니티 귀가부",
+      "NameJP": "ハナコ",
+      "NicknameJP": "トリニティ帰宅部",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_hanako",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Hanako"
+    },
+    {
+      "CharacterName": 3100860019,
+      "NameKR": "요시미",
+      "NicknameKR": "트리니티 귀가부",
+      "NameJP": "ヨシミ",
+      "NicknameJP": "トリニティ帰宅部",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_yoshimi",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Yoshimi"
+    },
+    {
+      "CharacterName": 3571276574,
+      "NameKR": "하스미",
+      "NicknameKR": "정의실현부",
+      "NameJP": "ハスミ",
+      "NicknameJP": "正義実現委員会",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_hasumi",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Hasumi"
+    },
+    {
+      "CharacterName": 1962462585,
+      "NameKR": "시미코",
+      "NicknameKR": "도서부",
+      "NameJP": "シミコ",
+      "NicknameJP": "図書委員会",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_shimiko",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Shimiko"
+    },
+    {
+      "CharacterName": 667578093,
+      "NameKR": "세리나",
+      "NicknameKR": "구호기사단",
+      "NameJP": "セリナ",
+      "NicknameJP": "救護騎士団",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_serina",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Serina"
+    },
+    {
+      "CharacterName": 1034441153,
+      "NameKR": "스즈미",
+      "NicknameKR": "트리니티 귀가부",
+      "NameJP": "スズミ",
+      "NicknameJP": "トリニティ帰宅部",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_suzumi",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Suzumi"
+    },
+    {
+      "CharacterName": 1441373779,
+      "NameKR": "에리카",
+      "NicknameKR": "게헨나 귀가부",
+      "NameJP": "エリカ",
+      "NicknameJP": "ゲヘナ帰宅部",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_erika",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Erika"
+    },
+    {
+      "CharacterName": 703456608,
+      "NameKR": "히나",
+      "NicknameKR": "선도부",
+      "NameJP": "ヒナ",
+      "NicknameJP": "風紀委員会",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_hina",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Hina"
+    },
+    {
+      "CharacterName": 2071829941,
+      "NameKR": "아코",
+      "NicknameKR": "선도부",
+      "NameJP": "アコ",
+      "NicknameJP": "風紀委員会",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_ako",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Ako"
+    },
+    {
+      "CharacterName": 2134224785,
+      "NameKR": "아코",
+      "NicknameKR": "선도부",
+      "NameJP": "アコ",
+      "NicknameJP": "風紀委員会",
+      "Shape": "Signal",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_ako",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Ako"
+    },
+    {
+      "CharacterName": 792267831,
+      "NameKR": "이오리",
+      "NicknameKR": "선도부",
+      "NameJP": "イオリ",
+      "NicknameJP": "風紀委員会",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_iori",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Iori"
+    },
+    {
+      "CharacterName": 1867911819,
+      "NameKR": "치나츠",
+      "NicknameKR": "선도부",
+      "NameJP": "チナツ",
+      "NicknameJP": "風紀委員会",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_chinatsu",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Chinatsu"
+    },
+    {
+      "CharacterName": 2605947624,
+      "NameKR": "아카리",
+      "NicknameKR": "미식연구회",
+      "NameJP": "アカリ",
+      "NicknameJP": "美食研究会",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_akari",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Akari"
+    },
+    {
+      "CharacterName": 1596498697,
+      "NameKR": "하루나",
+      "NicknameKR": "미식연구회",
+      "NameJP": "ハルナ",
+      "NicknameJP": "美食研究会",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_haruna",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Haruna"
+    },
+    {
+      "CharacterName": 411960130,
+      "NameKR": "준코",
+      "NicknameKR": "미식연구회",
+      "NameJP": "ジュンコ",
+      "NicknameJP": "美食研究会",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_zunko",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Zunko"
+    },
+    {
+      "CharacterName": 1296162541,
+      "NameKR": "이즈미",
+      "NicknameKR": "미식연구회",
+      "NameJP": "イズミ",
+      "NicknameJP": "美食研究会",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_izumi",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Izumi"
+    },
+    {
+      "CharacterName": 519823036,
+      "NameKR": "아루",
+      "NicknameKR": "흥신소 68",
+      "NameJP": "アル",
+      "NicknameJP": "便利屋68",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_aru",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Aru"
+    },
+    {
+      "CharacterName": 2554261549,
+      "NameKR": "무츠키",
+      "NicknameKR": "흥신소 68",
+      "NameJP": "ムツキ",
+      "NicknameJP": "便利屋68",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_mutsuki",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Mutsuki"
+    },
+    {
+      "CharacterName": 2649124164,
+      "NameKR": "카요코",
+      "NicknameKR": "흥신소 68",
+      "NameJP": "カヨコ",
+      "NicknameJP": "便利屋68",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_kayoko",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Kayoko"
+    },
+    {
+      "CharacterName": 3974539255,
+      "NameKR": "하루카",
+      "NicknameKR": "흥신소 68",
+      "NameJP": "ハルカ",
+      "NicknameJP": "便利屋68",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_haruka",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Haruka"
+    },
+    {
+      "CharacterName": 532452930,
+      "NameKR": "시로코",
+      "NicknameKR": "대책위원회",
+      "NameJP": "シロコ",
+      "NicknameJP": "対策委員会",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_shiroko",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Shiroko"
+    },
+    {
+      "CharacterName": 1089369137,
+      "NameKR": "세리카",
+      "NicknameKR": "대책위원회",
+      "NameJP": "セリカ",
+      "NicknameJP": "対策委員会",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_serika",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Serika"
+    },
+    {
+      "CharacterName": 85542774,
+      "NameKR": "호시노",
+      "NicknameKR": "대책위원회",
+      "NameJP": "ホシノ",
+      "NicknameJP": "対策委員会",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_hoshino",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Hoshino"
+    },
+    {
+      "CharacterName": 3545855058,
+      "NameKR": "노노미",
+      "NicknameKR": "대책위원회",
+      "NameJP": "ノノミ",
+      "NicknameJP": "対策委員会",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_nonomi",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Nonomi"
+    },
+    {
+      "CharacterName": 2615847832,
+      "NameKR": "아야네",
+      "NicknameKR": "대책위원회",
+      "NameJP": "アヤネ",
+      "NicknameJP": "対策委員会",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_ayane",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Ayane"
+    },
+    {
+      "CharacterName": 1788051899,
+      "NameKR": "아야네",
+      "NicknameKR": "대책위원회",
+      "NameJP": "アヤネ",
+      "NicknameJP": "対策委員会",
+      "Shape": "Signal",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_ayane",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Ayane"
+    },
+    {
+      "CharacterName": 2510891413,
+      "NameKR": "코토리",
+      "NicknameKR": "엔지니어부",
+      "NameJP": "コトリ",
+      "NicknameJP": "エンジニア部",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_kotori",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Kotori"
+    },
+    {
+      "CharacterName": 308213562,
+      "NameKR": "코토리",
+      "NicknameKR": "엔지니어부",
+      "NameJP": "コトリ",
+      "NicknameJP": "エンジニア部",
+      "Shape": "Signal",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_kotori",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Kotori"
+    },
+    {
+      "CharacterName": 3178657986,
+      "NameKR": "에이미",
+      "NicknameKR": "밀레니엄 학생회",
+      "NameJP": "エイミ",
+      "NicknameJP": "ミレニアム生徒会",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_eimi",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Eimi"
+    },
+    {
+      "CharacterName": 1491222734,
+      "NameKR": "코타마",
+      "NicknameKR": "베리타스",
+      "NameJP": "コタマ",
+      "NicknameJP": "ヴェリタス",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_kotama",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Kotama"
+    },
+    {
+      "CharacterName": 4079356321,
+      "NameKR": "아스나",
+      "NicknameKR": "C&C",
+      "NameJP": "アスナ",
+      "NicknameJP": "C&C",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_asuna",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Asuna"
+    },
+    {
+      "CharacterName": 1872351598,
+      "NameKR": "아카네",
+      "NicknameKR": "C&C",
+      "NameJP": "アカネ",
+      "NicknameJP": "C&C",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_akane",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Akane"
+    },
+    {
+      "CharacterName": 4220213473,
+      "NameKR": "카린",
+      "NicknameKR": "C&C",
+      "NameJP": "カリン",
+      "NicknameJP": "C&C",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_karin",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Karin"
+    },
+    {
+      "CharacterName": 3431605305,
+      "NameKR": "네루",
+      "NicknameKR": "C&C",
+      "NameJP": "ネル",
+      "NicknameJP": "C&C",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_neru",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Neru"
+    },
+    {
+      "CharacterName": 3660500344,
+      "NameKR": "하레",
+      "NicknameKR": "베리타스",
+      "NameJP": "ハレ",
+      "NicknameJP": "ヴェリタス",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_hare",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Hare"
+    },
+    {
+      "CharacterName": 101055238,
+      "NameKR": "아츠코",
+      "NicknameKR": "아리우스 스쿼드",
+      "NameJP": "アツコ",
+      "NicknameJP": "アリウススクワッド",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_atsuko",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Atsuko"
+    },
+    {
+      "CharacterName": 4099878918,
+      "NameKR": "치세",
+      "NicknameKR": "음양부",
+      "NameJP": "チセ",
+      "NicknameJP": "陰陽部",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_chise",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Chise"
+    },
+    {
+      "CharacterName": 1248515008,
+      "NameKR": "피나",
+      "NicknameKR": "마츠리운영관리부",
+      "NameJP": "フィーナ",
+      "NicknameJP": "お祭り運営委員会",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_pina",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Pina"
+    },
+    {
+      "CharacterName": 2716904779,
+      "NameKR": "와카모",
+      "NicknameKR": "???",
+      "NameJP": "ワカモ",
+      "NicknameJP": "？？？",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_wakamo",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Wakamo"
+    },
+    {
+      "CharacterName": 2202293829,
+      "NameKR": "와카모",
+      "NicknameKR": "???",
+      "NameJP": "ワカモ",
+      "NicknameJP": "？？？",
+      "Shape": "Signal",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_wakamo",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Wakamo"
+    },
+    {
+      "CharacterName": 1000412715,
+      "NameKR": "츠바키",
+      "NicknameKR": "수행부",
+      "NameJP": "ツバキ",
+      "NicknameJP": "修行部",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_tsubaki",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Tsubaki"
+    },
+    {
+      "CharacterName": 2422553686,
+      "NameKR": "체리노",
+      "NicknameKR": "붉은 겨울 학생회",
+      "NameJP": "チェリノ",
+      "NicknameJP": "レッドウィンター生徒会",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_cherino",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Cherino"
+    },
+    {
+      "CharacterName": 1800434827,
+      "NameKR": "아로나",
+      "NameJP": "アロナ",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_arona",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Arona"
+    },
+    {
+      "CharacterName": 2864610996,
+      "NameKR": "아로나",
+      "NameJP": "アロナ",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_arona",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Arona"
+    },
+    {
+      "CharacterName": 3766851474,
+      "NameKR": "아로나",
+      "NameJP": "アロナ",
+      "Shape": "Signal",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_arona",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Arona"
+    },
+    {
+      "CharacterName": 1426519243,
+      "NameKR": "SYSTEM",
+      "NameJP": "SYSTEM",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 1439131314,
+      "NameKR": "츠루기",
+      "NicknameKR": "정의실현부",
+      "NameJP": "ツルギ",
+      "NicknameJP": "正義実現委員会",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_tsurugi",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Tsurugi"
+    },
+    {
+      "CharacterName": 1191856242,
+      "NameKR": "아이리",
+      "NicknameKR": "방과후 디저트부",
+      "NameJP": "アイリ",
+      "NicknameJP": "放課後スイーツ部",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_airi",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Airi"
+    },
+    {
+      "CharacterName": 397246838,
+      "NameKR": "카즈사",
+      "NicknameKR": "방과후 디저트부",
+      "NameJP": "カズサ",
+      "NicknameJP": "放課後スイーツ部",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_kazusa",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Kazusa"
+    },
+    {
+      "CharacterName": 1881716009,
+      "NameKR": "토모에",
+      "NicknameKR": "지식해방전선",
+      "NameJP": "トモエ",
+      "NicknameJP": "知識解放戦線",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_tomoe",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Tomoe"
+    },
+    {
+      "CharacterName": 2171824771,
+      "NameKR": "마이",
+      "NicknameKR": "크로노스 보도부",
+      "NameJP": "マイ",
+      "NicknameJP": "クロノス報道部",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_mai",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Mai"
+    },
+    {
+      "CharacterName": 3880619603,
+      "NameKR": "정체불명의 간부",
+      "NameJP": "正体不明の幹部",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_pmcdirector",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Pmcdirector"
+    },
+    {
+      "CharacterName": 158848695,
+      "NameKR": "후우카",
+      "NicknameKR": "급양부",
+      "NameJP": "フウカ",
+      "NicknameJP": "給食部",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_fuuka",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Fuuka"
+    },
+    {
+      "CharacterName": 912463881,
+      "NameKR": "하나에",
+      "NicknameKR": "구호기사단",
+      "NameJP": "ハナエ",
+      "NicknameJP": "救護騎士団",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_hanae",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Hanae"
+    },
+    {
+      "CharacterName": 1475637469,
+      "NameKR": "히요리",
+      "NicknameKR": "아리우스 스쿼드",
+      "NameJP": "ヒヨリ",
+      "NicknameJP": "アリウススクワッド",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_hiyori",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Hiyori"
+    },
+    {
+      "CharacterName": 2138799070,
+      "NameKR": "마키",
+      "NicknameKR": "베리타스",
+      "NameJP": "マキ",
+      "NicknameJP": "ヴェリタス",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_maki",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Maki"
+    },
+    {
+      "CharacterName": 3428376490,
+      "NameKR": "마시로",
+      "NicknameKR": "정의실현부",
+      "NameJP": "マシロ",
+      "NicknameJP": "正義実現委員会",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_mashiro",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Mashiro"
+    },
+    {
+      "CharacterName": 3506202931,
+      "NameKR": "미야코",
+      "NicknameKR": "RABBIT 소대",
+      "NameJP": "ミヤコ",
+      "NicknameJP": "RABBIT小隊",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_miyako",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Miyako"
+    },
+    {
+      "CharacterName": 1186588973,
+      "NameKR": "사야",
+      "NicknameKR": "연단방",
+      "NameJP": "サヤ",
+      "NicknameJP": "錬丹術研究会",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_saya",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Saya"
+    },
+    {
+      "CharacterName": 2818986153,
+      "NameKR": "슌",
+      "NicknameKR": "매화원",
+      "NameJP": "シュン",
+      "NicknameJP": "梅花園",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_shun",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Shun"
+    },
+    {
+      "CharacterName": 4283125014,
+      "NameKR": "유우카",
+      "NicknameKR": "밀레니엄 세미나",
+      "NameJP": "ユウカ",
+      "NicknameJP": "ミレニアム生徒会",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_yuuka",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Yuuka"
+    },
+    {
+      "CharacterName": 2690570743,
+      "NameKR": "린",
+      "NicknameKR": "총학생회",
+      "NameJP": "リン",
+      "NicknameJP": "連邦生徒会",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_rin",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Rin"
+    },
+    {
+      "CharacterName": 221034629,
+      "NameKR": "린",
+      "NicknameKR": "총학생회",
+      "NameJP": "リン",
+      "NicknameJP": "連邦生徒会",
+      "Shape": "Signal",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_rin",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Rin"
+    },
+    {
+      "CharacterName": 3797093869,
+      "NameKR": "아리스",
+      "NicknameKR": "게임개발부",
+      "NameJP": "アリス",
+      "NicknameJP": "ゲーム開発部",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_aris",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Aris"
+    },
+    {
+      "CharacterName": 1414477782,
+      "NameKR": "아리스",
+      "NicknameKR": "게임개발부",
+      "NameJP": "アリス",
+      "NicknameJP": "ゲーム開発部",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_aris_noweapon",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Aris"
+    },
+    {
+      "CharacterName": 2387413292,
+      "NameKR": "아리스",
+      "NameJP": "アリス",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_aris_noweapon",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Aris"
+    },
+    {
+      "CharacterName": 2331895039,
+      "NameKR": "이부키",
+      "NicknameKR": "판데모니움 소사이어티",
+      "NameJP": "イブキ",
+      "NicknameJP": "パンデモニウムソサエティ",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_ibuki",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Ibuki"
+    },
+    {
+      "CharacterName": 3616768647,
+      "NameKR": "칸나",
+      "NicknameKR": "노스페라투 유니온",
+      "NameJP": "カンナ",
+      "NicknameJP": "ノスフェラトゥユニオン",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_kanna",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Kanna"
+    },
+    {
+      "CharacterName": 3617431173,
+      "NameKR": "키라라",
+      "NicknameKR": "귀가부",
+      "NameJP": "キララ",
+      "NicknameJP": "帰宅部",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_kirara",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Kirara"
+    },
+    {
+      "CharacterName": 816327754,
+      "NameKR": "마리나",
+      "NicknameKR": "붉은 겨울 학생회",
+      "NameJP": "マリナ",
+      "NicknameJP": "レッドウィンター生徒会",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_marina",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Marina"
+    },
+    {
+      "CharacterName": 484846910,
+      "NameKR": "미도리",
+      "NicknameKR": "게임개발부",
+      "NameJP": "ミドリ",
+      "NicknameJP": "ゲーム開発部",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_midori",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Midori"
+    },
+    {
+      "CharacterName": 3212921642,
+      "NameKR": "미모리",
+      "NicknameKR": "수행부",
+      "NameJP": "ミモリ",
+      "NicknameJP": "修行部",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_mimori",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Midori"
+    },
+    {
+      "CharacterName": 3254626457,
+      "NameKR": "미리아",
+      "NicknameKR": "노스페라투 유니온",
+      "NameJP": "ミリア",
+      "NicknameJP": "ノスフェラトゥユニオン",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_miria",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Miria"
+    },
+    {
+      "CharacterName": 2469041162,
+      "NameKR": "모미지",
+      "NicknameKR": "지식해방전선",
+      "NameJP": "モミジ",
+      "NicknameJP": "知識解放戦線",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_momiji",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Momiji"
+    },
+    {
+      "CharacterName": 1185701049,
+      "NameKR": "모모이",
+      "NicknameKR": "게임개발부",
+      "NameJP": "モモイ",
+      "NicknameJP": "ゲーム開発部",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_momoi",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Momoi"
+    },
+    {
+      "CharacterName": 1214451979,
+      "NameKR": "나오",
+      "NicknameKR": "귀가부",
+      "NameJP": "ナオ",
+      "NicknameJP": "帰宅部",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_nao",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Nao"
+    },
+    {
+      "CharacterName": 3527288287,
+      "NameKR": "오리히메",
+      "NicknameKR": "마츠리운영관리부",
+      "NameJP": "オリヒメ",
+      "NicknameJP": "お祭り運営委員会",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_orihime",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Orihime"
+    },
+    {
+      "CharacterName": 3014991087,
+      "NameKR": "레이죠",
+      "NicknameKR": "상회",
+      "NameJP": "レイジョ",
+      "NicknameJP": "商会",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_reizyo",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Reizyo"
+    },
+    {
+      "CharacterName": 1101630714,
+      "NameKR": "로네",
+      "NicknameKR": "노스페라투 유니온",
+      "NameJP": "ロネ",
+      "NicknameJP": "ノスフェラトゥユニオン",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_rone",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Rone"
+    },
+    {
+      "CharacterName": 4256971852,
+      "NameKR": "시논",
+      "NicknameKR": "크로노스 보도부",
+      "NameJP": "シノン",
+      "NicknameJP": "クロノス報道部",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_shinon",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Shinon"
+    },
+    {
+      "CharacterName": 14735977,
+      "NameKR": "유카리",
+      "NicknameKR": "사바스",
+      "NameJP": "ユカリ",
+      "NicknameJP": "サバス",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_yukari",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Yukari"
+    },
+    {
+      "CharacterName": 1711341208,
+      "NameKR": "키리노",
+      "NicknameKR": "발키리",
+      "NameJP": "キリノ",
+      "NicknameJP": "ヴァルキューレ",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_kirino",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Kirino"
+    },
+    {
+      "CharacterName": 53089714,
+      "NameKR": "보스",
+      "NicknameKR": "악의 조직",
+      "NameJP": "ボス",
+      "NicknameJP": "悪の組織",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_borot1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 693601611,
+      "NameKR": "조직원",
+      "NicknameKR": "악의 조직",
+      "NameJP": "組織員",
+      "NicknameJP": "悪の組織",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_helmetdan_red1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 2330548850,
+      "NameKR": "조직원",
+      "NicknameKR": "악의 조직",
+      "NameJP": "組織員",
+      "NicknameJP": "悪の組織",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_helmetdan_black1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 3388435159,
+      "NameKR": "조직원",
+      "NicknameKR": "악의 조직",
+      "NameJP": "組織員",
+      "NicknameJP": "悪の組織",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_helmetdan_black2",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 2408295357,
+      "NameKR": "미완성 테라마키나",
+      "NicknameKR": "악의 조직",
+      "NameJP": "未完のテラマキナ",
+      "NicknameJP": "悪の組織",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_terramachina",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 2402650919,
+      "NameKR": "아즈사",
+      "NicknameKR": "보충수업부",
+      "NameJP": "アズサ",
+      "NicknameJP": "補習授業部",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_azusa",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Azusa"
+    },
+    {
+      "CharacterName": 1994093906,
+      "NameKR": "코하루",
+      "NicknameKR": "보충수업부",
+      "NameJP": "コハル",
+      "NicknameJP": "補習授業部",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_koharu",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Koharu"
+    },
+    {
+      "CharacterName": 492532290,
+      "NameKR": "마리",
+      "NicknameKR": "시스터후드",
+      "NameJP": "マリー",
+      "NicknameJP": "シスターフッド",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_mari",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Mari"
+    },
+    {
+      "CharacterName": 3176393215,
+      "NameKR": "주리",
+      "NicknameKR": "급양부",
+      "NameJP": "ジュリ",
+      "NicknameJP": "給食部",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_juri",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Juri"
+    },
+    {
+      "CharacterName": 3360941682,
+      "NameKR": "모에",
+      "NicknameKR": "RABBIT 소대",
+      "NameJP": "モエ",
+      "NicknameJP": "RABBIT小隊",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_moe",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Moe"
+    },
+    {
+      "CharacterName": 2117232949,
+      "NameKR": "사쿠라코",
+      "NicknameKR": "시스터후드",
+      "NameJP": "サクラコ",
+      "NicknameJP": "シスターフッド",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_sakurako",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 3925286920,
+      "NameKR": "마코토",
+      "NicknameKR": "판데모니움 소사이어티",
+      "NameJP": "マコト",
+      "NicknameJP": "パンデモニウムソサエティ",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_makoto",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 954095842,
+      "NameKR": "사츠키",
+      "NicknameKR": "판데모니움 소사이어티",
+      "NameJP": "サツキ",
+      "NicknameJP": "パンデモニウムソサエティ",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_satsuki",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 1995116401,
+      "NameKR": "히비키",
+      "NicknameKR": "엔지니어부",
+      "NameJP": "ヒビキ",
+      "NicknameJP": "エンジニア部",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_hibiki",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Hibiki"
+    },
+    {
+      "CharacterName": 2877822116,
+      "NameKR": "카이텐져 레드",
+      "NicknameKR": "카이텐져",
+      "NameJP": "カイテンジャーレッド",
+      "NicknameJP": "カイテンジャー",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_kaitenranger_red",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Kaitenranger_Red"
+    },
+    {
+      "CharacterName": 3343954794,
+      "NameKR": "카이텐져 옐로우",
+      "NicknameKR": "카이텐져",
+      "NameJP": "カイテンジャーイエロー",
+      "NicknameJP": "カイテンジャー",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_kaitenranger_yellow",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Kaitenranger_Yellow"
+    },
+    {
+      "CharacterName": 3725427757,
+      "NameKR": "카이텐져 그린",
+      "NicknameKR": "카이텐져",
+      "NameJP": "カイテンジャーグリーン",
+      "NicknameJP": "カイテンジャー",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_kaitenranger_green",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Kaitenranger_Green"
+    },
+    {
+      "CharacterName": 2819996158,
+      "NameKR": "카이텐져 핑크",
+      "NicknameKR": "카이텐져",
+      "NameJP": "カイテンジャーピンク",
+      "NicknameJP": "カイテンジャー",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_kaitenranger_pink",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Kaitenranger_Pink"
+    },
+    {
+      "CharacterName": 3636255757,
+      "NameKR": "카이텐져 블랙",
+      "NicknameKR": "카이텐져",
+      "NameJP": "カイテンジャーブラック",
+      "NicknameJP": "カイテンジャー",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_kaitenranger_black",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Kaitenranger_Black"
+    },
+    {
+      "CharacterName": 3627168694,
+      "NameKR": "날카로운 목소리",
+      "NameJP": "鋭い声",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 3057357473,
+      "NameKR": "의문의 목소리",
+      "NameJP": "謎の声",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 3865035304,
+      "NameKR": "오퍼레이터",
+      "NicknameKR": "밀레니엄 세미나",
+      "NameJP": "オペレーター",
+      "NicknameJP": "ミレニアム生徒会",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 878075955,
+      "NameKR": "???",
+      "NameJP": "？？？",
+      "Shape": "BlackSilhouette",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_suzumi",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 4116787067,
+      "NameKR": "모모카",
+      "NicknameKR": "총학생회",
+      "NameJP": "モモカ",
+      "NicknameJP": "連邦生徒会",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_momoka",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Momoka"
+    },
+    {
+      "CharacterName": 3025942184,
+      "NameKR": "모모카",
+      "NicknameKR": "총학생회",
+      "NameJP": "モモカ",
+      "NicknameJP": "連邦生徒会",
+      "Shape": "Signal",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_momoka",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Momoka"
+    },
+    {
+      "CharacterName": 2946364182,
+      "NameKR": "시민",
+      "NicknameKR": "일반인",
+      "NameJP": "市民",
+      "NicknameJP": "一般人",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_animal1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Animal1"
+    },
+    {
+      "CharacterName": 3353674757,
+      "NameKR": "유즈",
+      "NicknameKR": "게임개발부",
+      "NameJP": "ユズ",
+      "NicknameJP": "ゲーム開発部",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_yuzu",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Yuzu"
+    },
+    {
+      "CharacterName": 1111474507,
+      "NameKR": "우타하",
+      "NicknameKR": "엔지니어부",
+      "NameJP": "ウタハ",
+      "NicknameJP": "エンジニア部",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_utaha",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Utaha"
+    },
+    {
+      "CharacterName": 777233224,
+      "NameKR": "천둥이",
+      "NameJP": "稲妻",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_utahaturret",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 3084493409,
+      "NameKR": "샬레 소속 여학생 1",
+      "NicknameKR": "샬레",
+      "NameJP": "シャーレの女子生徒１",
+      "NicknameJP": "シャーレ",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 609568369,
+      "NameKR": "샬레 소속 여학생 2",
+      "NicknameKR": "샬레",
+      "NameJP": "シャーレの女子生徒２",
+      "NicknameJP": "シャーレ",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 1475439810,
+      "NameKR": "카이저 코퍼레이션 직원 1",
+      "NicknameKR": "카이저 코퍼레이션",
+      "NameJP": "カイザーコーポレーション社員１",
+      "NicknameJP": "カイザーコーポレーション",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 632387434,
+      "NameKR": "카이저 코퍼레이션 직원 2",
+      "NicknameKR": "카이저 코퍼레이션",
+      "NameJP": "カイザーコーポレーション社員２",
+      "NicknameJP": "カイザーコーポレーション",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 2664473169,
+      "NameKR": "카이저 코퍼레이션 직원 3",
+      "NicknameKR": "카이저 코퍼레이션",
+      "NameJP": "カイザーコーポレーション社員３",
+      "NicknameJP": "カイザーコーポレーション",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 3592400769,
+      "NameKR": "정의실현부 부원",
+      "NicknameKR": "정의실현부",
+      "NameJP": "正義実現委員会部員",
+      "NicknameJP": "正義実現委員会",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 3690952013,
+      "NameKR": "매화원 학생들",
+      "NicknameKR": "매화원",
+      "NameJP": "梅花園の生徒たち",
+      "NicknameJP": "梅花園",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 2118211667,
+      "NameKR": "매화원 학생",
+      "NicknameKR": "매화원",
+      "NameJP": "梅花園の生徒",
+      "NicknameJP": "梅花園",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 2801034362,
+      "NameKR": "RABBIT 소대원",
+      "NicknameKR": "RABBIT 소대",
+      "NameJP": "RABBIT小隊員",
+      "NicknameJP": "RABBIT小隊",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 3245535622,
+      "NameKR": "펫 숍 직원",
+      "NameJP": "ペットショップ店員",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_borot1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Borot1"
+    },
+    {
+      "CharacterName": 2701593572,
+      "NameKR": "연단방 부원 A",
+      "NicknameKR": "연단방",
+      "NameJP": "錬丹術研究会員A",
+      "NicknameJP": "錬丹術研究会",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 2263188272,
+      "NameKR": "연단방 부원 B",
+      "NicknameKR": "연단방",
+      "NameJP": "錬丹術研究会員B",
+      "NicknameJP": "錬丹術研究会",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 3744509798,
+      "NameKR": "헬멧단 간부",
+      "NicknameKR": "카타카타 헬멧단",
+      "NameJP": "ヘルメット団幹部",
+      "NicknameJP": "カタカタヘルメット団",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_helmetdan_red1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Helmetdan_Red1"
+    },
+    {
+      "CharacterName": 3749970861,
+      "NameKR": "헬멧단 단원",
+      "NicknameKR": "카타카타 헬멧단",
+      "NameJP": "ヘルメット団員",
+      "NicknameJP": "カタカタヘルメット団",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_helmetdan_black1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Helmetdan_Black1"
+    },
+    {
+      "CharacterName": 1983288124,
+      "NameKR": "가게 주인",
+      "NameJP": "店主",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 3375420232,
+      "NameKR": "네즈스케",
+      "NameJP": "ネズ助",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 4017250225,
+      "NameKR": "노도카",
+      "NicknameKR": "227호 특별반",
+      "NameJP": "ノドカ",
+      "NicknameJP": "227号特別クラス",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_yuzu",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Nodoka"
+    },
+    {
+      "CharacterName": 2476626930,
+      "NameKR": "C&C부원",
+      "NicknameKR": "C&C",
+      "NameJP": "C&C部員",
+      "NicknameJP": "C&C",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 1507166105,
+      "NameKR": "메이드카페 점장",
+      "NameJP": "メイドカフェの店長",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_borot1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Borot1"
+    },
+    {
+      "CharacterName": 3616966825,
+      "NameKR": "메이드 소녀",
+      "NameJP": "メイドの少女",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 2002746242,
+      "NameKR": "취객",
+      "NameJP": "酔っ払い",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 1678481177,
+      "NameKR": "블랙마켓 상인",
+      "NameJP": "ブラックマーケットの商人",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 394755555,
+      "NameKR": "피칭 머신",
+      "NameJP": "ピッチングマシン",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 3567545270,
+      "NameKR": "수수께끼의 파티쉐",
+      "NameJP": "謎のパティシエ",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_borot1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Borot1"
+    },
+    {
+      "CharacterName": 4123416748,
+      "NameKR": "수수께끼의 호객꾼",
+      "NameJP": "謎の客引き",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_yoheki_normal1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Yoheki_Normal1"
+    },
+    {
+      "CharacterName": 569727319,
+      "NameKR": "불량배 1&2",
+      "NameJP": "チンピラ１＆２",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 2334599494,
+      "NameKR": "직원",
+      "NameJP": "スタッフ",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    }
+  ]
+}

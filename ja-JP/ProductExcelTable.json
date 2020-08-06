@@ -1,0 +1,49 @@
+{
+  "DataList": [
+    {
+      "Id": 1,
+      "DevName": "AP_BUY",
+      "NameKr": "AP충전",
+      "NameJp": "AP",
+      "DescriptionKr": "AP",
+      "DescriptionJp": "AP",
+      "CurrencyTypes": "GemBonus",
+      "CurrencyAmount": 10,
+      "State": 1,
+      "ParcelTypeLength": 84,
+      "ParcelIdLength": 64,
+      "ParcelNameLength": 44,
+      "ParcelAmountLength": 24
+    },
+    {
+      "Id": 2,
+      "DevName": "GOLD_BUY",
+      "NameKr": "골드 충전",
+      "NameJp": "GOLD",
+      "DescriptionKr": "GOLD",
+      "DescriptionJp": "GOLD",
+      "CurrencyTypes": "GemBonus",
+      "CurrencyAmount": 10,
+      "State": 1,
+      "ParcelTypeLength": 84,
+      "ParcelIdLength": 64,
+      "ParcelNameLength": 40,
+      "ParcelAmountLength": 24
+    },
+    {
+      "Id": 3,
+      "DevName": "STUDENT_GACHA",
+      "NameKr": "학생 가챠",
+      "NameJp": "STUDENT_GACHA",
+      "DescriptionKr": "STUDENT_GACHA",
+      "DescriptionJp": "STUDENT_GACHA",
+      "CurrencyTypes": "Gold",
+      "CurrencyAmount": 10000,
+      "State": 1,
+      "ParcelTypeLength": 92,
+      "ParcelIdLength": 72,
+      "ParcelNameLength": 40,
+      "ParcelAmountLength": 24
+    }
+  ]
+}

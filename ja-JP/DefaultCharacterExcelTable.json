@@ -1,0 +1,45 @@
+{
+  "DataList": [
+    {
+      "CharacterId": 1061002,
+      "Level": 1,
+      "FavorRank": 1,
+      "ExSkillLevel": 1,
+      "PassiveSkillLevel": 1,
+      "ExtraPassiveSkillLevel": 1,
+      "CommonSkillLevel": 1,
+      "LeaderSkillLevel": 1
+    },
+    {
+      "CharacterId": 1031000,
+      "Level": 1,
+      "FavorRank": 1,
+      "ExSkillLevel": 1,
+      "PassiveSkillLevel": 1,
+      "ExtraPassiveSkillLevel": 1,
+      "CommonSkillLevel": 1,
+      "LeaderSkillLevel": 1
+    },
+    {
+      "CharacterId": 1032000,
+      "FavoriteCharacter": true,
+      "Level": 1,
+      "FavorRank": 1,
+      "ExSkillLevel": 1,
+      "PassiveSkillLevel": 1,
+      "ExtraPassiveSkillLevel": 1,
+      "CommonSkillLevel": 1,
+      "LeaderSkillLevel": 1
+    },
+    {
+      "CharacterId": 2041000,
+      "Level": 1,
+      "FavorRank": 1,
+      "ExSkillLevel": 1,
+      "PassiveSkillLevel": 1,
+      "ExtraPassiveSkillLevel": 1,
+      "CommonSkillLevel": 1,
+      "LeaderSkillLevel": 1
+    }
+  ]
+}

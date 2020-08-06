@@ -1,0 +1,200 @@
+{
+  "DataList": [
+    {
+      "Name": 2130373248,
+      "TransitionOut": "fade",
+      "TransitionOutDuration": 500,
+      "TransitionIn": "fade",
+      "TransitionInDuration": 500
+    },
+    {
+      "Name": 1122508889,
+      "TransitionOut": "fade",
+      "TransitionOutDuration": 1000,
+      "TransitionIn": "fade",
+      "TransitionInDuration": 1000
+    },
+    {
+      "Name": 509674679,
+      "TransitionOut": "fade",
+      "TransitionOutDuration": 1500,
+      "TransitionIn": "fade",
+      "TransitionInDuration": 1500
+    },
+    {
+      "Name": 2482233134,
+      "TransitionOut": "fade",
+      "TransitionOutDuration": 2000,
+      "TransitionIn": "fade",
+      "TransitionInDuration": 2000
+    },
+    {
+      "Name": 1606908815,
+      "TransitionOut": "fade",
+      "TransitionOutDuration": 2500,
+      "TransitionIn": "fade",
+      "TransitionInDuration": 2500
+    },
+    {
+      "Name": 2752031158,
+      "TransitionOut": "fade",
+      "TransitionOutDuration": 3000,
+      "TransitionIn": "fade",
+      "TransitionInDuration": 3000
+    },
+    {
+      "Name": 1238175709,
+      "TransitionOut": "fade",
+      "TransitionOutDuration": 4000,
+      "TransitionIn": "fade",
+      "TransitionInDuration": 4000
+    },
+    {
+      "Name": 3411222921,
+      "TransitionOut": "fade",
+      "TransitionOutDuration": 5000,
+      "TransitionIn": "fade",
+      "TransitionInDuration": 5000
+    },
+    {
+      "Name": 1404424272,
+      "TransitionOut": "swipe_hor",
+      "TransitionOutDuration": 2000,
+      "TransitionOutResource": "Effect/UI/BGFX/UI_FX_HorSwipe_LtoR",
+      "TransitionIn": "swipe_hor",
+      "TransitionInDuration": 2000,
+      "TransitionInResource": "Effect/UI/BGFX/UI_FX_HorSwipe_RtoL"
+    },
+    {
+      "Name": 2847773965,
+      "TransitionOut": "swipe_ver",
+      "TransitionOutDuration": 2000,
+      "TransitionOutResource": "Effect/UI/BGFX/UI_FX_VerSwipe_BtoT",
+      "TransitionIn": "swipe_ver",
+      "TransitionInDuration": 2000,
+      "TransitionInResource": "Effect/UI/BGFX/UI_FX_VerSwipe_TtoB"
+    },
+    {
+      "Name": 319532087,
+      "TransitionOut": "noise",
+      "TransitionOutDuration": 2000,
+      "TransitionOutResource": "Effect/UI/BGFX/UI_FX_NoiseTransition"
+    },
+    {
+      "Name": 4141168548,
+      "TransitionOut": "circle",
+      "TransitionOutDuration": 2000,
+      "TransitionOutResource": "Effect/UI/BGFX/UI_FX_CircleTransition"
+    },
+    {
+      "Name": 1127535352,
+      "TransitionOut": "1",
+      "TransitionOutDuration": 1000,
+      "TransitionOutResource": "Effect/UI/BGFX/UI_FX_HorSwipe_LtoR_In",
+      "TransitionIn": "1",
+      "TransitionInDuration": 1000,
+      "TransitionInResource": "Effect/UI/BGFX/UI_FX_HorSwipe_LtoR_Out"
+    },
+    {
+      "Name": 3957412172,
+      "TransitionOut": "2",
+      "TransitionOutDuration": 1000,
+      "TransitionOutResource": "Effect/UI/BGFX/UI_FX_HorSwipe_RtoL_In",
+      "TransitionIn": "2",
+      "TransitionInDuration": 1000,
+      "TransitionInResource": "Effect/UI/BGFX/UI_FX_HorSwipe_RtoL_Out"
+    },
+    {
+      "Name": 3029168926,
+      "TransitionOut": "3",
+      "TransitionOutDuration": 1000,
+      "TransitionOutResource": "Effect/UI/BGFX/UI_FX_VerSwipe_BtoT_In",
+      "TransitionIn": "3",
+      "TransitionInDuration": 1000,
+      "TransitionInResource": "Effect/UI/BGFX/UI_FX_VerSwipe_BtoT_Out"
+    },
+    {
+      "Name": 4152299906,
+      "TransitionOut": "4",
+      "TransitionOutDuration": 1000,
+      "TransitionOutResource": "Effect/UI/BGFX/UI_FX_VerSwipe_TtoB_In",
+      "TransitionIn": "4",
+      "TransitionInDuration": 1000,
+      "TransitionInResource": "Effect/UI/BGFX/UI_FX_VerSwipe_TtoB_Out"
+    },
+    {
+      "Name": 3344317924,
+      "TransitionOut": "5",
+      "TransitionOutDuration": 1000,
+      "TransitionOutResource": "Effect/UI/BGFX/UI_FX_NoiseTransition_In",
+      "TransitionIn": "5",
+      "TransitionInDuration": 1000,
+      "TransitionInResource": "Effect/UI/BGFX/UI_FX_NoiseTransition_Out"
+    },
+    {
+      "Name": 1914875660,
+      "TransitionOut": "6",
+      "TransitionOutDuration": 1000,
+      "TransitionOutResource": "Effect/UI/BGFX/UI_FX_CircleTransition_In",
+      "TransitionIn": "6",
+      "TransitionInDuration": 1000,
+      "TransitionInResource": "Effect/UI/BGFX/UI_FX_CircleTransition_Out"
+    },
+    {
+      "Name": 3222392982,
+      "TransitionOut": "fade",
+      "TransitionOutDuration": 1,
+      "TransitionIn": "fade",
+      "TransitionInDuration": 3000
+    },
+    {
+      "Name": 3174465279,
+      "TransitionOut": "fade",
+      "TransitionOutDuration": 3000,
+      "TransitionIn": "fade",
+      "TransitionInDuration": 1
+    },
+    {
+      "Name": 2457385855,
+      "TransitionOut": "fade",
+      "TransitionOutDuration": 1,
+      "TransitionIn": "fade",
+      "TransitionInDuration": 2000
+    },
+    {
+      "Name": 2243764445,
+      "TransitionOut": "fade",
+      "TransitionOutDuration": 2000,
+      "TransitionIn": "fade",
+      "TransitionInDuration": 1
+    },
+    {
+      "Name": 2136104277,
+      "TransitionOut": "fade",
+      "TransitionOutDuration": 1,
+      "TransitionIn": "fade",
+      "TransitionInDuration": 1000
+    },
+    {
+      "Name": 348351892,
+      "TransitionOut": "fade",
+      "TransitionOutDuration": 1000,
+      "TransitionIn": "fade",
+      "TransitionInDuration": 1
+    },
+    {
+      "Name": 1974926776,
+      "TransitionOut": "fade",
+      "TransitionOutDuration": 1,
+      "TransitionIn": "fade",
+      "TransitionInDuration": 500
+    },
+    {
+      "Name": 2046503352,
+      "TransitionOut": "fade",
+      "TransitionOutDuration": 500,
+      "TransitionIn": "fade",
+      "TransitionInDuration": 1
+    }
+  ]
+}

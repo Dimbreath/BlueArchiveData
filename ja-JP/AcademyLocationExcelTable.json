@@ -1,0 +1,23 @@
+{
+  "DataList": [
+    {
+      "LocalizeEtcId": 4137144199,
+      "IconImagePath": "UIs/00_Images/BigBtn/Location_Image_00",
+      "OpenTeacherRank": 1
+    },
+    {
+      "Id": 1,
+      "LocalizeEtcId": 1895832836,
+      "PrefabPath": "Academy/Location_SchaleOffice",
+      "IconImagePath": "UIs/00_Images/BigBtn/Location_Image_01",
+      "OpenTeacherRank": 1
+    },
+    {
+      "Id": 7,
+      "LocalizeEtcId": 4231969254,
+      "PrefabPath": "Academy/Location_SchaleResidence",
+      "IconImagePath": "UIs/00_Images/BigBtn/Location_Image_07",
+      "OpenTeacherRank": 4
+    }
+  ]
+}

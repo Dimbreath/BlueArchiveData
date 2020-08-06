@@ -1,0 +1,16 @@
+{
+  "DataList": [
+    {
+      "Id": 100,
+      "GroupNameLocalize": 2633292506,
+      "RequiredFurnitureCount": 7,
+      "ComfortBonus": 1750
+    },
+    {
+      "Id": 101,
+      "GroupNameLocalize": 2130797913,
+      "RequiredFurnitureCount": 7,
+      "ComfortBonus": 1750
+    }
+  ]
+}

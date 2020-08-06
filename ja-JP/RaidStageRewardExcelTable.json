@@ -1,0 +1,64 @@
+{
+  "DataList": [
+    {
+      "StageRewardId": 100,
+      "DevName": "Binah_VeryEasy",
+      "IsClearStageRewardHideInfoLength": 236,
+      "ClearStageRewardProbLength": 200,
+      "ClearStageRewardParcelTypeLength": 180,
+      "ClearStageRewardParcelUniqueIDLength": 144,
+      "ClearStageRewardParcelUniqueNameLength": 52,
+      "ClearStageRewardAmountLength": 16
+    },
+    {
+      "StageRewardId": 101,
+      "DevName": "Binah_Easy",
+      "IsClearStageRewardHideInfoLength": 284,
+      "ClearStageRewardProbLength": 240,
+      "ClearStageRewardParcelTypeLength": 216,
+      "ClearStageRewardParcelUniqueIDLength": 176,
+      "ClearStageRewardParcelUniqueNameLength": 56,
+      "ClearStageRewardAmountLength": 16
+    },
+    {
+      "StageRewardId": 102,
+      "DevName": "Binah_Normal",
+      "IsClearStageRewardHideInfoLength": 284,
+      "ClearStageRewardProbLength": 240,
+      "ClearStageRewardParcelTypeLength": 216,
+      "ClearStageRewardParcelUniqueIDLength": 176,
+      "ClearStageRewardParcelUniqueNameLength": 56,
+      "ClearStageRewardAmountLength": 16
+    },
+    {
+      "StageRewardId": 200,
+      "DevName": "Chesed_VeryEasy",
+      "IsClearStageRewardHideInfoLength": 236,
+      "ClearStageRewardProbLength": 200,
+      "ClearStageRewardParcelTypeLength": 180,
+      "ClearStageRewardParcelUniqueIDLength": 144,
+      "ClearStageRewardParcelUniqueNameLength": 52,
+      "ClearStageRewardAmountLength": 16
+    },
+    {
+      "StageRewardId": 201,
+      "DevName": "Chesed_Easy",
+      "IsClearStageRewardHideInfoLength": 280,
+      "ClearStageRewardProbLength": 240,
+      "ClearStageRewardParcelTypeLength": 216,
+      "ClearStageRewardParcelUniqueIDLength": 176,
+      "ClearStageRewardParcelUniqueNameLength": 56,
+      "ClearStageRewardAmountLength": 16
+    },
+    {
+      "StageRewardId": 202,
+      "DevName": "Chesed_Normal",
+      "IsClearStageRewardHideInfoLength": 284,
+      "ClearStageRewardProbLength": 240,
+      "ClearStageRewardParcelTypeLength": 216,
+      "ClearStageRewardParcelUniqueIDLength": 176,
+      "ClearStageRewardParcelUniqueNameLength": 56,
+      "ClearStageRewardAmountLength": 16
+    }
+  ]
+}

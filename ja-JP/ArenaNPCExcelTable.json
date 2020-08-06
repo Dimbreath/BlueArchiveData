@@ -1,0 +1,113 @@
+{
+  "DataList": [
+    {
+      "Rank": 1,
+      "NPCAccountLevel": 17,
+      "NPCLevel": 25,
+      "NPCLevelDeviation": 3,
+      "NPCStarGrade": 4,
+      "ExceptionCharacterRaritiesLength": 44
+    },
+    {
+      "UniqueId": 1,
+      "Rank": 5,
+      "NPCAccountLevel": 16,
+      "NPCLevel": 25,
+      "NPCLevelDeviation": 3,
+      "NPCStarGrade": 4,
+      "ExceptionCharacterRaritiesLength": 56
+    },
+    {
+      "UniqueId": 2,
+      "Rank": 10,
+      "NPCAccountLevel": 15,
+      "NPCLevel": 25,
+      "NPCLevelDeviation": 3,
+      "NPCStarGrade": 4
+    },
+    {
+      "UniqueId": 3,
+      "Rank": 100,
+      "NPCAccountLevel": 14,
+      "NPCLevel": 22,
+      "NPCLevelDeviation": 3,
+      "NPCStarGrade": 3
+    },
+    {
+      "UniqueId": 4,
+      "Rank": 500,
+      "NPCAccountLevel": 13,
+      "NPCLevel": 22,
+      "NPCLevelDeviation": 3,
+      "NPCStarGrade": 3
+    },
+    {
+      "UniqueId": 5,
+      "Rank": 1000,
+      "NPCAccountLevel": 12,
+      "NPCLevel": 22,
+      "NPCLevelDeviation": 3,
+      "NPCStarGrade": 3
+    },
+    {
+      "UniqueId": 6,
+      "Rank": 2500,
+      "NPCAccountLevel": 11,
+      "NPCLevel": 20,
+      "NPCLevelDeviation": 3,
+      "NPCStarGrade": 3
+    },
+    {
+      "UniqueId": 7,
+      "Rank": 5000,
+      "NPCAccountLevel": 10,
+      "NPCLevel": 20,
+      "NPCLevelDeviation": 3,
+      "NPCStarGrade": 3
+    },
+    {
+      "UniqueId": 8,
+      "Rank": 7500,
+      "NPCAccountLevel": 9,
+      "NPCLevel": 18,
+      "NPCLevelDeviation": 3,
+      "NPCStarGrade": 3
+    },
+    {
+      "UniqueId": 9,
+      "Rank": 10000,
+      "NPCAccountLevel": 8,
+      "NPCLevel": 18,
+      "NPCLevelDeviation": 3,
+      "NPCStarGrade": 2,
+      "ExceptionCharacterRaritiesLength": 56
+    },
+    {
+      "UniqueId": 10,
+      "Rank": 12500,
+      "NPCAccountLevel": 7,
+      "NPCLevel": 16,
+      "NPCLevelDeviation": 3,
+      "NPCStarGrade": 2,
+      "ExceptionCharacterRaritiesLength": 52
+    },
+    {
+      "UniqueId": 11,
+      "Rank": 15000,
+      "NPCAccountLevel": 6,
+      "NPCLevel": 16,
+      "NPCLevelDeviation": 3,
+      "NPCStarGrade": 2,
+      "ExceptionCharacterRaritiesLength": 56
+    },
+    {
+      "UniqueId": 12,
+      "Rank": 20000,
+      "NPCAccountLevel": 5,
+      "NPCLevel": 16,
+      "NPCLevelDeviation": 3,
+      "NPCStarGrade": 2,
+      "ExceptionCharacterRaritiesLength": 52
+    }
+  ]
+}

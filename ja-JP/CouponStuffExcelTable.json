@@ -1,0 +1,88 @@
+{
+  "DataList": [
+    {
+      "StuffId": 1,
+      "ParcelType": "Currency",
+      "ParcelId": 1,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 2,
+      "ParcelType": "Currency",
+      "ParcelId": 2,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 3,
+      "ParcelType": "Currency",
+      "ParcelId": 3,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 4,
+      "ParcelType": "Currency",
+      "ParcelId": 4,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 5,
+      "ParcelType": "Currency",
+      "ParcelId": 5,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 6,
+      "ParcelType": "Currency",
+      "ParcelId": 6,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 7,
+      "ParcelType": "Currency",
+      "ParcelId": 7,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 8,
+      "ParcelType": "Currency",
+      "ParcelId": 8,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 9,
+      "ParcelType": "Currency",
+      "ParcelId": 9,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 10,
+      "ParcelType": "Currency",
+      "ParcelId": 10,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 11,
+      "ParcelType": "Currency",
+      "ParcelId": 11,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    },
+    {
+      "StuffId": 12,
+      "ParcelType": "Currency",
+      "ParcelId": 12,
+      "LimitAmount": 10000,
+      "CouponStuffNameLocalizeKey": "key"
+    }
+  ]
+}

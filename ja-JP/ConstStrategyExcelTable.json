@@ -1,0 +1,15 @@
+{
+  "DataList": [
+    {
+      "HexaMapBoundaryOffset": 0.7,
+      "HexaMapStartCameraOffset": 0.5,
+      "CameraZoomMax": 7.5,
+      "CameraZoomMin": 6.0,
+      "CameraZoomDefault": 6.0,
+      "HealCostType": "GemBonus",
+      "HealCostAmountLength": 20,
+      "CanHealHpRate": 8000,
+      "PlayTimeLimitInSeconds": 86400
+    }
+  ]
+}

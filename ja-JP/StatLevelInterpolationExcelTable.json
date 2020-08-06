@@ -1,0 +1,697 @@
+{
+  "DataList": [
+    {
+      "Level": 2,
+      "Standard": 101,
+      "Premature": 243,
+      "LateBloom": 36,
+      "Obstacle": 101
+    },
+    {
+      "Level": 3,
+      "Standard": 202,
+      "Premature": 412,
+      "LateBloom": 88,
+      "Obstacle": 202
+    },
+    {
+      "Level": 4,
+      "Standard": 303,
+      "Premature": 561,
+      "LateBloom": 148,
+      "Obstacle": 303
+    },
+    {
+      "Level": 5,
+      "Standard": 404,
+      "Premature": 698,
+      "LateBloom": 214,
+      "Obstacle": 404
+    },
+    {
+      "Level": 6,
+      "Standard": 505,
+      "Premature": 827,
+      "LateBloom": 284,
+      "Obstacle": 505
+    },
+    {
+      "Level": 7,
+      "Standard": 606,
+      "Premature": 950,
+      "LateBloom": 359,
+      "Obstacle": 606
+    },
+    {
+      "Level": 8,
+      "Standard": 707,
+      "Premature": 1068,
+      "LateBloom": 437,
+      "Obstacle": 707
+    },
+    {
+      "Level": 9,
+      "Standard": 808,
+      "Premature": 1182,
+      "LateBloom": 519,
+      "Obstacle": 808
+    },
+    {
+      "Level": 10,
+      "Standard": 909,
+      "Premature": 1292,
+      "LateBloom": 603,
+      "Obstacle": 909
+    },
+    {
+      "Level": 11,
+      "Standard": 1010,
+      "Premature": 1400,
+      "LateBloom": 690,
+      "Obstacle": 1010
+    },
+    {
+      "Level": 12,
+      "Standard": 1111,
+      "Premature": 1505,
+      "LateBloom": 779,
+      "Obstacle": 1111
+    },
+    {
+      "Level": 13,
+      "Standard": 1212,
+      "Premature": 1608,
+      "LateBloom": 871,
+      "Obstacle": 1212
+    },
+    {
+      "Level": 14,
+      "Standard": 1313,
+      "Premature": 1709,
+      "LateBloom": 965,
+      "Obstacle": 1313
+    },
+    {
+      "Level": 15,
+      "Standard": 1414,
+      "Premature": 1808,
+      "LateBloom": 1061,
+      "Obstacle": 1414
+    },
+    {
+      "Level": 16,
+      "Standard": 1515,
+      "Premature": 1905,
+      "LateBloom": 1159,
+      "Obstacle": 1515
+    },
+    {
+      "Level": 17,
+      "Standard": 1616,
+      "Premature": 2001,
+      "LateBloom": 1259,
+      "Obstacle": 1616
+    },
+    {
+      "Level": 18,
+      "Standard": 1717,
+      "Premature": 2096,
+      "LateBloom": 1361,
+      "Obstacle": 1717
+    },
+    {
+      "Level": 19,
+      "Standard": 1818,
+      "Premature": 2189,
+      "LateBloom": 1464,
+      "Obstacle": 1818
+    },
+    {
+      "Level": 20,
+      "Standard": 1919,
+      "Premature": 2280,
+      "LateBloom": 1569,
+      "Obstacle": 1919
+    },
+    {
+      "Level": 21,
+      "Standard": 2020,
+      "Premature": 2371,
+      "LateBloom": 1675,
+      "Obstacle": 2020
+    },
+    {
+      "Level": 22,
+      "Standard": 2121,
+      "Premature": 2461,
+      "LateBloom": 1783,
+      "Obstacle": 2121
+    },
+    {
+      "Level": 23,
+      "Standard": 2222,
+      "Premature": 2549,
+      "LateBloom": 1893,
+      "Obstacle": 2222
+    },
+    {
+      "Level": 24,
+      "Standard": 2323,
+      "Premature": 2637,
+      "LateBloom": 2004,
+      "Obstacle": 2323
+    },
+    {
+      "Level": 25,
+      "Standard": 2424,
+      "Premature": 2724,
+      "LateBloom": 2116,
+      "Obstacle": 2424
+    },
+    {
+      "Level": 26,
+      "Standard": 2525,
+      "Premature": 2809,
+      "LateBloom": 2229,
+      "Obstacle": 2525
+    },
+    {
+      "Level": 27,
+      "Standard": 2626,
+      "Premature": 2894,
+      "LateBloom": 2344,
+      "Obstacle": 2626
+    },
+    {
+      "Level": 28,
+      "Standard": 2727,
+      "Premature": 2979,
+      "LateBloom": 2460,
+      "Obstacle": 2727
+    },
+    {
+      "Level": 29,
+      "Standard": 2828,
+      "Premature": 3062,
+      "LateBloom": 2577,
+      "Obstacle": 2828
+    },
+    {
+      "Level": 30,
+      "Standard": 2929,
+      "Premature": 3145,
+      "LateBloom": 2696,
+      "Obstacle": 2929
+    },
+    {
+      "Level": 31,
+      "Standard": 3030,
+      "Premature": 3227,
+      "LateBloom": 2815,
+      "Obstacle": 3030
+    },
+    {
+      "Level": 32,
+      "Standard": 3131,
+      "Premature": 3308,
+      "LateBloom": 2936,
+      "Obstacle": 3131
+    },
+    {
+      "Level": 33,
+      "Standard": 3232,
+      "Premature": 3389,
+      "LateBloom": 3058,
+      "Obstacle": 3232
+    },
+    {
+      "Level": 34,
+      "Standard": 3333,
+      "Premature": 3469,
+      "LateBloom": 3181,
+      "Obstacle": 3333
+    },
+    {
+      "Level": 35,
+      "Standard": 3434,
+      "Premature": 3549,
+      "LateBloom": 3305,
+      "Obstacle": 3434
+    },
+    {
+      "Level": 36,
+      "Standard": 3535,
+      "Premature": 3628,
+      "LateBloom": 3429,
+      "Obstacle": 3535
+    },
+    {
+      "Level": 37,
+      "Standard": 3636,
+      "Premature": 3707,
+      "LateBloom": 3555,
+      "Obstacle": 3636
+    },
+    {
+      "Level": 38,
+      "Standard": 3737,
+      "Premature": 3785,
+      "LateBloom": 3682,
+      "Obstacle": 3737
+    },
+    {
+      "Level": 39,
+      "Standard": 3838,
+      "Premature": 3862,
+      "LateBloom": 3810,
+      "Obstacle": 3838
+    },
+    {
+      "Level": 40,
+      "Standard": 3939,
+      "Premature": 3939,
+      "LateBloom": 3939,
+      "Obstacle": 3939
+    },
+    {
+      "Level": 41,
+      "Standard": 4040,
+      "Premature": 3978,
+      "LateBloom": 4165,
+      "Obstacle": 4040
+    },
+    {
+      "Level": 42,
+      "Standard": 4141,
+      "Premature": 4033,
+      "LateBloom": 4322,
+      "Obstacle": 4141
+    },
+    {
+      "Level": 43,
+      "Standard": 4242,
+      "Premature": 4096,
+      "LateBloom": 4460,
+      "Obstacle": 4242
+    },
+    {
+      "Level": 44,
+      "Standard": 4343,
+      "Premature": 4167,
+      "LateBloom": 4588,
+      "Obstacle": 4343
+    },
+    {
+      "Level": 45,
+      "Standard": 4444,
+      "Premature": 4242,
+      "LateBloom": 4708,
+      "Obstacle": 4444
+    },
+    {
+      "Level": 46,
+      "Standard": 4545,
+      "Premature": 4321,
+      "LateBloom": 4822,
+      "Obstacle": 4545
+    },
+    {
+      "Level": 47,
+      "Standard": 4646,
+      "Premature": 4405,
+      "LateBloom": 4932,
+      "Obstacle": 4646
+    },
+    {
+      "Level": 48,
+      "Standard": 4747,
+      "Premature": 4492,
+      "LateBloom": 5038,
+      "Obstacle": 4747
+    },
+    {
+      "Level": 49,
+      "Standard": 4848,
+      "Premature": 4581,
+      "LateBloom": 5141,
+      "Obstacle": 4848
+    },
+    {
+      "Level": 50,
+      "Standard": 4949,
+      "Premature": 4674,
+      "LateBloom": 5241,
+      "Obstacle": 4949
+    },
+    {
+      "Level": 51,
+      "Standard": 5051,
+      "Premature": 4770,
+      "LateBloom": 5338,
+      "Obstacle": 5051
+    },
+    {
+      "Level": 52,
+      "Standard": 5152,
+      "Premature": 4867,
+      "LateBloom": 5434,
+      "Obstacle": 5152
+    },
+    {
+      "Level": 53,
+      "Standard": 5253,
+      "Premature": 4968,
+      "LateBloom": 5528,
+      "Obstacle": 5253
+    },
+    {
+      "Level": 54,
+      "Standard": 5354,
+      "Premature": 5070,
+      "LateBloom": 5620,
+      "Obstacle": 5354
+    },
+    {
+      "Level": 55,
+      "Standard": 5455,
+      "Premature": 5174,
+      "LateBloom": 5710,
+      "Obstacle": 5455
+    },
+    {
+      "Level": 56,
+      "Standard": 5556,
+      "Premature": 5281,
+      "LateBloom": 5800,
+      "Obstacle": 5556
+    },
+    {
+      "Level": 57,
+      "Standard": 5657,
+      "Premature": 5389,
+      "LateBloom": 5887,
+      "Obstacle": 5657
+    },
+    {
+      "Level": 58,
+      "Standard": 5758,
+      "Premature": 5499,
+      "LateBloom": 5974,
+      "Obstacle": 5758
+    },
+    {
+      "Level": 59,
+      "Standard": 5859,
+      "Premature": 5611,
+      "LateBloom": 6059,
+      "Obstacle": 5859
+    },
+    {
+      "Level": 60,
+      "Standard": 5960,
+      "Premature": 5724,
+      "LateBloom": 6143,
+      "Obstacle": 5960
+    },
+    {
+      "Level": 61,
+      "Standard": 6061,
+      "Premature": 5839,
+      "LateBloom": 6227,
+      "Obstacle": 6061
+    },
+    {
+      "Level": 62,
+      "Standard": 6162,
+      "Premature": 5956,
+      "LateBloom": 6309,
+      "Obstacle": 6162
+    },
+    {
+      "Level": 63,
+      "Standard": 6263,
+      "Premature": 6074,
+      "LateBloom": 6390,
+      "Obstacle": 6263
+    },
+    {
+      "Level": 64,
+      "Standard": 6364,
+      "Premature": 6194,
+      "LateBloom": 6471,
+      "Obstacle": 6364
+    },
+    {
+      "Level": 65,
+      "Standard": 6465,
+      "Premature": 6315,
+      "LateBloom": 6551,
+      "Obstacle": 6465
+    },
+    {
+      "Level": 66,
+      "Standard": 6566,
+      "Premature": 6437,
+      "LateBloom": 6630,
+      "Obstacle": 6566
+    },
+    {
+      "Level": 67,
+      "Standard": 6667,
+      "Premature": 6561,
+      "LateBloom": 6708,
+      "Obstacle": 6667
+    },
+    {
+      "Level": 68,
+      "Standard": 6768,
+      "Premature": 6685,
+      "LateBloom": 6786,
+      "Obstacle": 6768
+    },
+    {
+      "Level": 69,
+      "Standard": 6869,
+      "Premature": 6812,
+      "LateBloom": 6863,
+      "Obstacle": 6869
+    },
+    {
+      "Level": 70,
+      "Standard": 6970,
+      "Premature": 6970,
+      "LateBloom": 6970,
+      "Obstacle": 6970
+    },
+    {
+      "Level": 71,
+      "Standard": 7071,
+      "Premature": 7071,
+      "LateBloom": 7071,
+      "Obstacle": 7071
+    },
+    {
+      "Level": 72,
+      "Standard": 7172,
+      "Premature": 7172,
+      "LateBloom": 7172,
+      "Obstacle": 7172
+    },
+    {
+      "Level": 73,
+      "Standard": 7273,
+      "Premature": 7273,
+      "LateBloom": 7273,
+      "Obstacle": 7273
+    },
+    {
+      "Level": 74,
+      "Standard": 7374,
+      "Premature": 7374,
+      "LateBloom": 7374,
+      "Obstacle": 7374
+    },
+    {
+      "Level": 75,
+      "Standard": 7475,
+      "Premature": 7475,
+      "LateBloom": 7475,
+      "Obstacle": 7475
+    },
+    {
+      "Level": 76,
+      "Standard": 7576,
+      "Premature": 7576,
+      "LateBloom": 7576,
+      "Obstacle": 7576
+    },
+    {
+      "Level": 77,
+      "Standard": 7677,
+      "Premature": 7677,
+      "LateBloom": 7677,
+      "Obstacle": 7677
+    },
+    {
+      "Level": 78,
+      "Standard": 7778,
+      "Premature": 7778,
+      "LateBloom": 7778,
+      "Obstacle": 7778
+    },
+    {
+      "Level": 79,
+      "Standard": 7879,
+      "Premature": 7879,
+      "LateBloom": 7879,
+      "Obstacle": 7879
+    },
+    {
+      "Level": 80,
+      "Standard": 7980,
+      "Premature": 7980,
+      "LateBloom": 7980,
+      "Obstacle": 7980
+    },
+    {
+      "Level": 81,
+      "Standard": 8081,
+      "Premature": 8081,
+      "LateBloom": 8081,
+      "Obstacle": 8081
+    },
+    {
+      "Level": 82,
+      "Standard": 8182,
+      "Premature": 8182,
+      "LateBloom": 8182,
+      "Obstacle": 8182
+    },
+    {
+      "Level": 83,
+      "Standard": 8283,
+      "Premature": 8283,
+      "LateBloom": 8283,
+      "Obstacle": 8283
+    },
+    {
+      "Level": 84,
+      "Standard": 8384,
+      "Premature": 8384,
+      "LateBloom": 8384,
+      "Obstacle": 8384
+    },
+    {
+      "Level": 85,
+      "Standard": 8485,
+      "Premature": 8485,
+      "LateBloom": 8485,
+      "Obstacle": 8485
+    },
+    {
+      "Level": 86,
+      "Standard": 8586,
+      "Premature": 8586,
+      "LateBloom": 8586,
+      "Obstacle": 8586
+    },
+    {
+      "Level": 87,
+      "Standard": 8687,
+      "Premature": 8687,
+      "LateBloom": 8687,
+      "Obstacle": 8687
+    },
+    {
+      "Level": 88,
+      "Standard": 8788,
+      "Premature": 8788,
+      "LateBloom": 8788,
+      "Obstacle": 8788
+    },
+    {
+      "Level": 89,
+      "Standard": 8889,
+      "Premature": 8889,
+      "LateBloom": 8889,
+      "Obstacle": 8889
+    },
+    {
+      "Level": 90,
+      "Standard": 8990,
+      "Premature": 8990,
+      "LateBloom": 8990,
+      "Obstacle": 8990
+    },
+    {
+      "Level": 91,
+      "Standard": 9091,
+      "Premature": 9091,
+      "LateBloom": 9091,
+      "Obstacle": 9091
+    },
+    {
+      "Level": 92,
+      "Standard": 9192,
+      "Premature": 9192,
+      "LateBloom": 9192,
+      "Obstacle": 9192
+    },
+    {
+      "Level": 93,
+      "Standard": 9293,
+      "Premature": 9293,
+      "LateBloom": 9293,
+      "Obstacle": 9293
+    },
+    {
+      "Level": 94,
+      "Standard": 9394,
+      "Premature": 9394,
+      "LateBloom": 9394,
+      "Obstacle": 9394
+    },
+    {
+      "Level": 95,
+      "Standard": 9495,
+      "Premature": 9495,
+      "LateBloom": 9495,
+      "Obstacle": 9495
+    },
+    {
+      "Level": 96,
+      "Standard": 9596,
+      "Premature": 9596,
+      "LateBloom": 9596,
+      "Obstacle": 9596
+    },
+    {
+      "Level": 97,
+      "Standard": 9697,
+      "Premature": 9697,
+      "LateBloom": 9697,
+      "Obstacle": 9697
+    },
+    {
+      "Level": 98,
+      "Standard": 9798,
+      "Premature": 9798,
+      "LateBloom": 9798,
+      "Obstacle": 9798
+    },
+    {
+      "Level": 99,
+      "Standard": 9899,
+      "Premature": 9899,
+      "LateBloom": 9899,
+      "Obstacle": 9899
+    },
+    {
+      "Level": 100,
+      "Standard": 10000,
+      "Premature": 10000,
+      "LateBloom": 10000,
+      "Obstacle": 10000
+    }
+  ]
+}

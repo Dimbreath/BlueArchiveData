@@ -1,0 +1,112 @@
+{
+  "DataList": [
+    {
+      "ID": 1,
+      "DevName": "메인스토리0-1",
+      "CompletionReportEventName": "Prologue_start",
+      "CompulsoryTutorial": true,
+      "UINameLength": 100,
+      "TutorialParentNameLength": 12
+    },
+    {
+      "ID": 2,
+      "DevName": "메인스토리0-2",
+      "CompletionReportEventName": "Prologue_2nd",
+      "CompulsoryTutorial": true,
+      "UINameLength": 84,
+      "TutorialParentNameLength": 16
+    },
+    {
+      "ID": 3,
+      "DevName": "가챠튜토리얼",
+      "CompletionReportEventName": "Tutorial_gacha",
+      "CompulsoryTutorial": true,
+      "UINameLength": 100,
+      "TutorialParentNameLength": 12
+    },
+    {
+      "ID": 4,
+      "DevName": "스테이지01튜토리얼",
+      "CompletionReportEventName": "Tutorial_finish",
+      "CompulsoryTutorial": true,
+      "UINameLength": 264,
+      "TutorialParentNameLength": 16
+    },
+    {
+      "ID": 5,
+      "DevName": "특별 로비 설명",
+      "UINameLength": 60,
+      "TutorialParentNameLength": 12
+    },
+    {
+      "ID": 6,
+      "DevName": "스토리 설명",
+      "UINameLength": 44,
+      "TutorialParentNameLength": 16
+    },
+    {
+      "ID": 7,
+      "DevName": "스케쥴 설명",
+      "UINameLength": 84,
+      "TutorialParentNameLength": 16
+    },
+    {
+      "ID": 8,
+      "DevName": "임무 하드 설명",
+      "UINameLength": 60,
+      "TutorialParentNameLength": 12
+    },
+    {
+      "ID": 9,
+      "DevName": "특별 임무 설명",
+      "UINameLength": 120,
+      "TutorialParentNameLength": 12
+    },
+    {
+      "ID": 10,
+      "DevName": "레이드 설명",
+      "UINameLength": 40,
+      "TutorialParentNameLength": 12
+    },
+    {
+      "ID": 11,
+      "DevName": "전술 대회 설명",
+      "UINameLength": 64,
+      "TutorialParentNameLength": 16
+    },
+    {
+      "ID": 12,
+      "DevName": "학생한계해방설명",
+      "DescriptionTutorial": true,
+      "UINameLength": 44,
+      "TutorialParentNameLength": 16
+    },
+    {
+      "ID": 13,
+      "DevName": "학생스킬설명",
+      "DescriptionTutorial": true,
+      "UINameLength": 44,
+      "TutorialParentNameLength": 16
+    },
+    {
+      "ID": 14,
+      "DevName": "장비설명",
+      "DescriptionTutorial": true,
+      "UINameLength": 44,
+      "TutorialParentNameLength": 16
+    },
+    {
+      "ID": 15,
+      "DevName": "업무설명",
+      "DescriptionTutorial": true,
+      "UINameLength": 44,
+      "TutorialParentNameLength": 16
+    },
+    {
+      "ID": 16,
+      "DevName": "캐릭터인벤토리",
+      "UINameLength": 80,
+      "TutorialParentNameLength": 12
+    }
+  ]
+}

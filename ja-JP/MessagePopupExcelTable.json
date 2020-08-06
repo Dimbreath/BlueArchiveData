@@ -1,0 +1,531 @@
+{
+  "DataList": [
+    {
+      "StringId": 1754579458,
+      "TitleText": 4175511388,
+      "MessageText": 3041082184,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 3006965573,
+      "MessagePopupLayout": "ImageBig",
+      "Image": "UIs/01_Common/09_PopupImage/Popup_Image_Ayane",
+      "TitleText": 4175511388,
+      "MessageText": 3041082184,
+      "ButtonLength": 36,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 2788808484,
+      "MessagePopupLayout": "ImageBig",
+      "OrderType": "TextFirst",
+      "Image": "UIs/01_Common/09_PopupImage/Popup_Image_Ayane",
+      "TitleText": 4175511388,
+      "MessageText": 3041082184,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 2347919218,
+      "MessagePopupLayout": "ImageSmall",
+      "Image": "UIs/01_Common/09_PopupImage/Popup_Image_Ayane",
+      "TitleText": 4175511388,
+      "MessageText": 3041082184,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 3498493957,
+      "MessagePopupLayout": "ImageSmall",
+      "OrderType": "TextFirst",
+      "Image": "UIs/01_Common/09_PopupImage/Popup_Image_Ayane",
+      "TitleText": 4175511388,
+      "MessageText": 3041082184,
+      "ButtonLength": 36,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 979876500,
+      "MessagePopupLayout": "ImageBig",
+      "Image": "UIs/01_Common/09_PopupImage/Popup_Image_Ayane",
+      "TitleText": 4175511388,
+      "MessageText": 3041082184,
+      "ButtonLength": 84,
+      "ButtonTextLength": 68,
+      "ButtonCommandLength": 44,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 3517473940,
+      "TitleText": 1739509789,
+      "MessageText": 1229501968,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 2643617425,
+      "TitleText": 1739509789,
+      "MessageText": 3582405247,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 4163796428,
+      "TitleText": 3736623182,
+      "MessageText": 16114805,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 1042664745,
+      "TitleText": 83076821,
+      "MessageText": 2989905021,
+      "DisplayXButton": true,
+      "ButtonLength": 36,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 242227083,
+      "TitleText": 1739509789,
+      "MessageText": 3192783050,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 723792890,
+      "TitleText": 1739509789,
+      "MessageText": 309096616,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 4111474543,
+      "TitleText": 1739509789,
+      "MessageText": 3701993915,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 3277890639,
+      "TitleText": 1739509789,
+      "MessageText": 1603773826,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 370803796,
+      "TitleText": 1739509789,
+      "MessageText": 3655179412,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 3725087021,
+      "TitleText": 1739509789,
+      "MessageText": 834058835,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 2615910137,
+      "TitleText": 1739509789,
+      "MessageText": 2692795310,
+      "DisplayXButton": true,
+      "ButtonLength": 68,
+      "ButtonTextLength": 52,
+      "ButtonCommandLength": 28,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 1907472597,
+      "MessagePopupLayout": "ImageBig",
+      "Image": "UIs/01_Common/09_PopupImage/Popup_Image_Arona",
+      "TitleText": 1739509789,
+      "MessageText": 1409946738,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 2452841979,
+      "TitleText": 1654412391,
+      "MessageText": 1612115348,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 3382436969,
+      "TitleText": 1739509789,
+      "MessageText": 2169691558,
+      "DisplayXButton": true,
+      "ButtonLength": 36,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 3026957277,
+      "TitleText": 1739509789,
+      "MessageText": 3026957277,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 3727146599,
+      "TitleText": 1739509789,
+      "MessageText": 553442170,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 3761414221,
+      "TitleText": 1739509789,
+      "MessageText": 3041082184,
+      "ButtonLength": 48,
+      "ButtonTextLength": 36,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 754852573,
+      "TitleText": 1739509789,
+      "MessageText": 2345039024,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 1905870343,
+      "TitleText": 1739509789,
+      "MessageText": 747049782,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 213154195,
+      "TitleText": 1739509789,
+      "MessageText": 360430790,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 820301887,
+      "TitleText": 1739509789,
+      "MessageText": 3272954169,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 3584117782,
+      "TitleText": 1739509789,
+      "MessageText": 2067845205,
+      "DisplayXButton": true,
+      "ButtonLength": 108,
+      "ButtonTextLength": 92,
+      "ButtonCommandLength": 68,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 2565776678,
+      "TitleText": 1739509789,
+      "MessageText": 2883324548,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 2316211398,
+      "TitleText": 1739509789,
+      "MessageText": 1118313447,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 3866252865,
+      "TitleText": 1739509789,
+      "MessageText": 1800180293,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 3486170506,
+      "TitleText": 1739509789,
+      "MessageText": 1175249828,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 1602047548,
+      "TitleText": 1739509789,
+      "MessageText": 1743285773,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 854814355,
+      "TitleText": 1739509789,
+      "MessageText": 1076846502,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 326945610,
+      "TitleText": 1739509789,
+      "MessageText": 2948539962,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 2170387587,
+      "TitleText": 1739509789,
+      "MessageText": 3265827627,
+      "DisplayXButton": true,
+      "ButtonLength": 76,
+      "ButtonTextLength": 60,
+      "ButtonCommandLength": 36,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 2710996635,
+      "TitleText": 1739509789,
+      "MessageText": 457662030,
+      "DisplayXButton": true,
+      "ButtonLength": 36,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 1335624333,
+      "TitleText": 1739509789,
+      "MessageText": 2483596438,
+      "DisplayXButton": true,
+      "ButtonLength": 36,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 2342335834,
+      "TitleText": 1739509789,
+      "MessageText": 2964997806,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 2631505368,
+      "TitleText": 1739509789,
+      "MessageText": 965738111,
+      "DisplayXButton": true,
+      "ButtonLength": 36,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 4136037016,
+      "TitleText": 1739509789,
+      "MessageText": 2184044937,
+      "DisplayXButton": true,
+      "ButtonLength": 36,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 3276654140,
+      "TitleText": 1739509789,
+      "MessageText": 2324331053,
+      "DisplayXButton": true,
+      "ButtonLength": 36,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 3369945667,
+      "TitleText": 1739509789,
+      "MessageText": 2003476725,
+      "DisplayXButton": true,
+      "ButtonLength": 36,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 638676971,
+      "TitleText": 1739509789,
+      "MessageText": 42336130,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 389279421,
+      "TitleText": 1739509789,
+      "MessageText": 2564048601,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 741728872,
+      "TitleText": 1739509789,
+      "MessageText": 726856874,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 1294123350,
+      "TitleText": 1739509789,
+      "MessageText": 1361234682,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 2773973056,
+      "TitleText": 1739509789,
+      "MessageText": 3212483741,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 2514413730,
+      "TitleText": 1739509789,
+      "MessageText": 2514413730,
+      "ButtonLength": 48,
+      "ButtonTextLength": 36,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 3648749156,
+      "TitleText": 1739509789,
+      "MessageText": 3648749156,
+      "ButtonLength": 48,
+      "ButtonTextLength": 36,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 570365472,
+      "TitleText": 1739509789,
+      "MessageText": 788106274,
+      "DisplayXButton": true,
+      "ButtonLength": 32,
+      "ButtonTextLength": 20,
+      "ButtonCommandLength": 12,
+      "ButtonParameterLength": 4
+    },
+    {
+      "StringId": 3619033947,
+      "TitleText": 1739509789,
+      "MessageText": 3192471498,
+      "DisplayXButton": true,
+      "ButtonLength": 68,
+      "ButtonTextLength": 52,
+      "ButtonCommandLength": 28,
+      "ButtonParameterLength": 4
+    }
+  ]
+}

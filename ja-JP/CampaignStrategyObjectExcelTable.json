@@ -1,0 +1,367 @@
+{
+  "DataList": [
+    {
+      "Id": 1,
+      "Key": 2471553862,
+      "Name": "시작지점",
+      "PrefabName": "Start",
+      "StrategyObjectType": "Start",
+      "StrategySightRange": 1
+    },
+    {
+      "Id": 2,
+      "Key": 1691234221,
+      "PrefabName": "AirDrop",
+      "StrategyObjectType": "AirDrop",
+      "StrategyRewardParcelType": "GachaGroup",
+      "StrategyRewardID": 10001,
+      "StrategyRewardName": "Campaign_StrategyObject_Test",
+      "StrategyRewardAmount": 1,
+      "HealValue": 500,
+      "Disposable": true
+    },
+    {
+      "Id": 3,
+      "Key": 2015666928,
+      "PrefabName": "AirDrop",
+      "StrategyObjectType": "SupplyBox",
+      "StrategyRewardAmount": 5,
+      "HealValue": 10000,
+      "Disposable": true
+    },
+    {
+      "Id": 4,
+      "Key": 2109474081,
+      "PrefabName": "AirDrop",
+      "StrategyObjectType": "Heal",
+      "Disposable": true
+    },
+    {
+      "Id": 5,
+      "Key": 1920420181,
+      "PrefabName": "AirDrop",
+      "StrategyObjectType": "Move",
+      "Disposable": true
+    },
+    {
+      "Id": 6,
+      "Key": 3417393760,
+      "PrefabName": "AirDrop",
+      "StrategyObjectType": "ConsumableBox",
+      "StrategyRewardParcelType": "GachaGroup",
+      "StrategyRewardID": 10001,
+      "StrategyRewardName": "Campaign_StrategyObject_Test",
+      "StrategyRewardAmount": 1,
+      "Disposable": true
+    },
+    {
+      "Id": 7,
+      "Key": 3769127310,
+      "Name": "100% 회복",
+      "PrefabName": "HealObject_01_Mesh",
+      "StrategyObjectType": "Heal",
+      "HealValue": 10000,
+      "Disposable": true
+    },
+    {
+      "Id": 8,
+      "Key": 26570960,
+      "Name": "50% 회복",
+      "PrefabName": "HealObject_01_Mesh",
+      "StrategyObjectType": "Heal",
+      "HealValue": 5000,
+      "Disposable": true
+    },
+    {
+      "Id": 9,
+      "Key": 725460167,
+      "Name": "스탯버프1",
+      "PrefabName": "AirDrop",
+      "StrategyObjectType": "StatBuff",
+      "Disposable": true
+    },
+    {
+      "Id": 10,
+      "Key": 3748034499,
+      "Name": "스탯버프2",
+      "PrefabName": "AirDrop",
+      "StrategyObjectType": "StatBuff",
+      "Disposable": true
+    },
+    {
+      "Id": 11,
+      "Key": 3417393760,
+      "Name": "파슬상자",
+      "PrefabName": "RewardObject_OneTime_01_Mesh",
+      "StrategyObjectType": "ParcelOneTimePerAccount",
+      "StrategyRewardParcelType": "GachaGroup",
+      "StrategyRewardID": 10001,
+      "StrategyRewardName": "Campaign_StrategyObject_Test",
+      "StrategyRewardAmount": 1,
+      "Disposable": true
+    },
+    {
+      "Id": 12,
+      "Key": 3282518725,
+      "Name": "포탈1",
+      "PrefabName": "MoveObject_TwoWay_01_Mesh",
+      "StrategyObjectType": "Portal",
+      "PortalId": 1
+    },
+    {
+      "Id": 13,
+      "Key": 3972964703,
+      "Name": "포탈2",
+      "PrefabName": "MoveObject_TwoWay_01_Mesh",
+      "StrategyObjectType": "Portal",
+      "PortalId": 2
+    },
+    {
+      "Id": 14,
+      "Key": 493902463,
+      "Name": "포탈3",
+      "PrefabName": "MoveObject_TwoWay_01_Mesh",
+      "StrategyObjectType": "Portal",
+      "PortalId": 3
+    },
+    {
+      "Id": 15,
+      "Key": 17715975,
+      "Name": "포탈입구1",
+      "PrefabName": "MoveObject_OneWay_01_Mesh",
+      "StrategyObjectType": "PortalOneWayEnterance",
+      "PortalId": 1
+    },
+    {
+      "Id": 16,
+      "Key": 1854379270,
+      "Name": "포탈출구1",
+      "PrefabName": "MoveObject_OneWay_Exit_01_Mesh",
+      "StrategyObjectType": "PortalOneWayExit",
+      "PortalId": 1
+    },
+    {
+      "Id": 17,
+      "Key": 586465369,
+      "Name": "포탈입구2",
+      "PrefabName": "MoveObject_OneWay_01_Mesh",
+      "StrategyObjectType": "PortalOneWayEnterance",
+      "PortalId": 2
+    },
+    {
+      "Id": 18,
+      "Key": 4011227370,
+      "Name": "포탈출구2",
+      "PrefabName": "MoveObject_OneWay_Exit_01_Mesh",
+      "StrategyObjectType": "PortalOneWayExit",
+      "PortalId": 2
+    },
+    {
+      "Id": 19,
+      "Key": 1354524129,
+      "Name": "포탈입구3",
+      "PrefabName": "MoveObject_OneWay_01_Mesh",
+      "StrategyObjectType": "PortalOneWayEnterance",
+      "PortalId": 3
+    },
+    {
+      "Id": 20,
+      "Key": 2370744147,
+      "Name": "포탈출구3",
+      "PrefabName": "MoveObject_OneWay_Exit_01_Mesh",
+      "StrategyObjectType": "PortalOneWayExit",
+      "PortalId": 3
+    },
+    {
+      "Id": 21,
+      "Key": 2863957852,
+      "Name": "관측소1",
+      "PrefabName": "SightObject_On_01_Mesh",
+      "StrategyObjectType": "Observatory",
+      "StrategySightRange": 2
+    },
+    {
+      "Id": 22,
+      "Key": 2913200121,
+      "Name": "관측소2",
+      "PrefabName": "SightObject_On_01_Mesh",
+      "StrategyObjectType": "Observatory",
+      "StrategySightRange": 2
+    },
+    {
+      "Id": 23,
+      "Key": 158491636,
+      "Name": "관측소3",
+      "PrefabName": "SightObject_On_01_Mesh",
+      "StrategyObjectType": "Observatory",
+      "StrategySightRange": 2
+    },
+    {
+      "Id": 24,
+      "Key": 266660885,
+      "Name": "지속성이벤트타일표시기",
+      "PrefabName": "Start",
+      "StrategyObjectType": "Beacon"
+    },
+    {
+      "Id": 25,
+      "Key": 2788217598,
+      "Name": "일회성이벤트타일표시기",
+      "PrefabName": "Start",
+      "StrategyObjectType": "BeaconOneTime",
+      "Disposable": true
+    },
+    {
+      "Id": 26,
+      "Key": 409068191,
+      "Name": "타일 생성기",
+      "PrefabName": "TileObject_01_Mesh",
+      "StrategyObjectType": "BeaconOneTime",
+      "Disposable": true
+    },
+    {
+      "Id": 1012101,
+      "Key": 3417393760,
+      "Name": "1-1 (H) 1회성 보상",
+      "PrefabName": "RewardObject_OneTime_01_Mesh",
+      "StrategyObjectType": "ParcelOneTimePerAccount",
+      "StrategyRewardParcelType": "Currency",
+      "StrategyRewardID": 3,
+      "StrategyRewardName": "GEM_BONUS",
+      "StrategyRewardAmount": 50,
+      "Disposable": true
+    },
+    {
+      "Id": 1012102,
+      "Key": 3417393760,
+      "Name": "1-2 (H) 1회성 보상",
+      "PrefabName": "RewardObject_OneTime_01_Mesh",
+      "StrategyObjectType": "ParcelOneTimePerAccount",
+      "StrategyRewardParcelType": "Currency",
+      "StrategyRewardID": 3,
+      "StrategyRewardName": "GEM_BONUS",
+      "StrategyRewardAmount": 50,
+      "Disposable": true
+    },
+    {
+      "Id": 1012103,
+      "Key": 3417393760,
+      "Name": "1-3 (H) 1회성 보상",
+      "PrefabName": "RewardObject_OneTime_01_Mesh",
+      "StrategyObjectType": "ParcelOneTimePerAccount",
+      "StrategyRewardParcelType": "Currency",
+      "StrategyRewardID": 3,
+      "StrategyRewardName": "GEM_BONUS",
+      "StrategyRewardAmount": 50,
+      "Disposable": true
+    },
+    {
+      "Id": 1022101,
+      "Key": 3417393760,
+      "Name": "2-1 (H) 1회성 보상",
+      "PrefabName": "RewardObject_OneTime_01_Mesh",
+      "StrategyObjectType": "ParcelOneTimePerAccount",
+      "StrategyRewardParcelType": "Currency",
+      "StrategyRewardID": 3,
+      "StrategyRewardName": "GEM_BONUS",
+      "StrategyRewardAmount": 50,
+      "Disposable": true
+    },
+    {
+      "Id": 1022102,
+      "Key": 3417393760,
+      "Name": "2-2 (H) 1회성 보상",
+      "PrefabName": "RewardObject_OneTime_01_Mesh",
+      "StrategyObjectType": "ParcelOneTimePerAccount",
+      "StrategyRewardParcelType": "Currency",
+      "StrategyRewardID": 3,
+      "StrategyRewardName": "GEM_BONUS",
+      "StrategyRewardAmount": 50,
+      "Disposable": true
+    },
+    {
+      "Id": 1022103,
+      "Key": 3417393760,
+      "Name": "2-3 (H) 1회성 보상",
+      "PrefabName": "RewardObject_OneTime_01_Mesh",
+      "StrategyObjectType": "ParcelOneTimePerAccount",
+      "StrategyRewardParcelType": "Currency",
+      "StrategyRewardID": 3,
+      "StrategyRewardName": "GEM_BONUS",
+      "StrategyRewardAmount": 50,
+      "Disposable": true
+    },
+    {
+      "Id": 1032101,
+      "Key": 3417393760,
+      "Name": "3-1 (H) 1회성 보상",
+      "PrefabName": "RewardObject_OneTime_01_Mesh",
+      "StrategyObjectType": "ParcelOneTimePerAccount",
+      "StrategyRewardParcelType": "Currency",
+      "StrategyRewardID": 3,
+      "StrategyRewardName": "GEM_BONUS",
+      "StrategyRewardAmount": 50,
+      "Disposable": true
+    },
+    {
+      "Id": 1032102,
+      "Key": 3417393760,
+      "Name": "3-2 (H) 1회성 보상",
+      "PrefabName": "RewardObject_OneTime_01_Mesh",
+      "StrategyObjectType": "ParcelOneTimePerAccount",
+      "StrategyRewardParcelType": "Currency",
+      "StrategyRewardID": 3,
+      "StrategyRewardName": "GEM_BONUS",
+      "StrategyRewardAmount": 50,
+      "Disposable": true
+    },
+    {
+      "Id": 1032103,
+      "Key": 3417393760,
+      "Name": "3-3 (H) 1회성 보상",
+      "PrefabName": "RewardObject_OneTime_01_Mesh",
+      "StrategyObjectType": "ParcelOneTimePerAccount",
+      "StrategyRewardParcelType": "Currency",
+      "StrategyRewardID": 3,
+      "StrategyRewardName": "GEM_BONUS",
+      "StrategyRewardAmount": 50,
+      "Disposable": true
+    },
+    {
+      "Id": 1042101,
+      "Key": 3417393760,
+      "Name": "4-1 (H) 1회성 보상",
+      "PrefabName": "RewardObject_OneTime_01_Mesh",
+      "StrategyObjectType": "ParcelOneTimePerAccount",
+      "StrategyRewardParcelType": "Currency",
+      "StrategyRewardID": 3,
+      "StrategyRewardName": "GEM_BONUS",
+      "StrategyRewardAmount": 50,
+      "Disposable": true
+    },
+    {
+      "Id": 1042102,
+      "Key": 3417393760,
+      "Name": "4-2 (H) 1회성 보상",
+      "PrefabName": "RewardObject_OneTime_01_Mesh",
+      "StrategyObjectType": "ParcelOneTimePerAccount",
+      "StrategyRewardParcelType": "Currency",
+      "StrategyRewardID": 3,
+      "StrategyRewardName": "GEM_BONUS",
+      "StrategyRewardAmount": 50,
+      "Disposable": true
+    },
+    {
+      "Id": 1042103,
+      "Key": 3417393760,
+      "Name": "4-3 (H) 1회성 보상",
+      "PrefabName": "RewardObject_OneTime_01_Mesh",
+      "StrategyObjectType": "ParcelOneTimePerAccount",
+      "StrategyRewardParcelType": "Currency",
+      "StrategyRewardID": 3,
+      "StrategyRewardName": "GEM_BONUS",
+      "StrategyRewardAmount": 50,
+      "Disposable": true
+    }
+  ]
+}

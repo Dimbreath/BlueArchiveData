@@ -1,0 +1,476 @@
+{
+  "DataList": [
+    {
+      "ID": 1,
+      "NameKr": "제조 가챠",
+      "IsRecursive": true,
+      "GroupType": "System_Craft"
+    },
+    {
+      "ID": 2,
+      "NameKr": "CBT 튜토리얼용 가챠 R",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 3,
+      "NameKr": "CBT 튜토리얼용 가챠 SR",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 4,
+      "NameKr": "CBT 튜토리얼용 가챠 SSR",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 5,
+      "NameKr": "CBT 튜토리얼용 단차",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 10,
+      "NameKr": "학생 가챠(모집) 일반 R",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 20,
+      "NameKr": "학생 가챠(모집) 일반 SR",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 30,
+      "NameKr": "학생 가챠(모집) 일반 SSR",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 40,
+      "NameKr": "학생 가챠(모집) 일반 단차",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 50,
+      "NameKr": "학생 가챠(모집) 일반 연차 막타",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 11,
+      "NameKr": "학생 가챠(모집) 픽업1 R",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 21,
+      "NameKr": "학생 가챠(모집) 픽업1 SR",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 31,
+      "NameKr": "학생 가챠(모집) 픽업1 SSR",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 41,
+      "NameKr": "학생 가챠(모집) 픽업1 단차(재귀)",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 51,
+      "NameKr": "학생 가챠(모집) 픽업1 연차 막타 (재귀)",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 12,
+      "NameKr": "학생 가챠(모집) 픽업2 R",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 22,
+      "NameKr": "학생 가챠(모집) 픽업2 SR",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 32,
+      "NameKr": "학생 가챠(모집) 픽업2 SSR",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 42,
+      "NameKr": "학생 가챠(모집) 픽업2 단차 (재귀)",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 52,
+      "NameKr": "학생 가챠(모집) 픽업2 연차 막타 (재귀)",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 13,
+      "NameKr": "학생 가챠(모집) 픽업3 R",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 23,
+      "NameKr": "학생 가챠(모집) 픽업3 SR",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 33,
+      "NameKr": "학생 가챠(모집) 픽업3 SSR",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 43,
+      "NameKr": "학생 가챠(모집) 픽업3 단차 (재귀)",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 53,
+      "NameKr": "학생 가챠(모집) 픽업3 연차 막타 (재귀)",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 14,
+      "NameKr": "학생 가챠(모집) 픽업4 R",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 24,
+      "NameKr": "학생 가챠(모집) 픽업4 SR",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 34,
+      "NameKr": "학생 가챠(모집) 픽업4 SSR",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 44,
+      "NameKr": "학생 가챠(모집) 픽업4 단차 (재귀)",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 54,
+      "NameKr": "학생 가챠(모집) 픽업4 연차 막타 (재귀)",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 200,
+      "NameKr": "Furnitures",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 201,
+      "NameKr": "Decorations",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 202,
+      "NameKr": "Interiors",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 1200,
+      "NameKr": "가구 - 가구",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 1201,
+      "NameKr": "가구 - 데코레이션",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 1202,
+      "NameKr": "가구 - 인테리어",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 1300,
+      "NameKr": "Hyakkiyako",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 1301,
+      "NameKr": "RedWinter",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 1302,
+      "NameKr": "Trinity",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 1303,
+      "NameKr": "Gehenna",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 1304,
+      "NameKr": "Abydos",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 1305,
+      "NameKr": "Millennium",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 1306,
+      "NameKr": "Arius",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 1307,
+      "NameKr": "Shanhaijing",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 1308,
+      "NameKr": "Valkyrie",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 1309,
+      "NameKr": "WildHunt",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 1310,
+      "NameKr": "SRT",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 2200,
+      "NameKr": "가구 - 가구",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 2201,
+      "NameKr": "가구 - 데코레이션",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 2202,
+      "NameKr": "가구 - 인테리어",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 2300,
+      "NameKr": "Hyakkiyako",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 2301,
+      "NameKr": "RedWinter",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 2302,
+      "NameKr": "Trinity",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 2303,
+      "NameKr": "Gehenna",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 2304,
+      "NameKr": "Abydos",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 2305,
+      "NameKr": "Millennium",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 2306,
+      "NameKr": "Arius",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 2307,
+      "NameKr": "Shanhaijing",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 2308,
+      "NameKr": "Valkyrie",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 2309,
+      "NameKr": "WildHunt",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 2310,
+      "NameKr": "SRT",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 3200,
+      "NameKr": "가구 - 가구",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 3201,
+      "NameKr": "가구 - 데코레이션",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 3202,
+      "NameKr": "가구 - 인테리어",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 3300,
+      "NameKr": "Hyakkiyako",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 3301,
+      "NameKr": "RedWinter",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 3302,
+      "NameKr": "Trinity",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 3303,
+      "NameKr": "Gehenna",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 3304,
+      "NameKr": "Abydos",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 3305,
+      "NameKr": "Millennium",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 3306,
+      "NameKr": "Arius",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 3307,
+      "NameKr": "Shanhaijing",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 3308,
+      "NameKr": "Valkyrie",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 3309,
+      "NameKr": "WildHunt",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 3310,
+      "NameKr": "SRT",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 13100,
+      "NameKr": "주회 스킬북 가챠박스 A 01",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 13101,
+      "NameKr": "주회 스킬북 가챠박스 A 02",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 13102,
+      "NameKr": "주회 스킬북 가챠박스 A 03",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 13103,
+      "NameKr": "주회 스킬북 가챠박스 A 04",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 13200,
+      "NameKr": "주회 스킬북 가챠박스 B 01",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 13201,
+      "NameKr": "주회 스킬북 가챠박스 B 02",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 13202,
+      "NameKr": "주회 스킬북 가챠박스 B 03",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 13203,
+      "NameKr": "주회 스킬북 가챠박스 B 04",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 13300,
+      "NameKr": "주회 스킬북 가챠박스 C 01",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 13301,
+      "NameKr": "주회 스킬북 가챠박스 C 02",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 13302,
+      "NameKr": "주회 스킬북 가챠박스 C 03",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 13303,
+      "NameKr": "주회 스킬북 가챠박스 C 04",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 39000,
+      "NameKr": "레이드 보상 - 장비 한계 해방 재료",
+      "GroupType": "System_Raid"
+    },
+    {
+      "ID": 50000,
+      "NameKr": "학원 티켓 수급 상자",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 500000,
+      "NameKr": "스테이지용 통합 가챠 박스 - 일반",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 510000,
+      "NameKr": "스테이지용 최상급 공통재료 가챠 박스",
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 511000,
+      "NameKr": "스테이지용 최상급 한계해방 재료 가챠 박스",
+      "GroupType": "Reward_General"
+    }
+  ]
+}

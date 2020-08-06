@@ -1,0 +1,95 @@
+{
+  "DataList": [
+    {
+      "TerrainAdaptationStat": "S",
+      "ShotFactor": 6000,
+      "BlockFactor": 6000,
+      "AttackPowerFactor": 12000
+    },
+    {
+      "TerrainAdaptationStat": "A",
+      "ShotFactor": 4500,
+      "BlockFactor": 4500,
+      "AttackPowerFactor": 11000
+    },
+    {
+      "TerrainAdaptationStat": "B",
+      "ShotFactor": 3000,
+      "BlockFactor": 3000,
+      "AttackPowerFactor": 10000
+    },
+    {
+      "TerrainAdaptationStat": "C",
+      "ShotFactor": 1500,
+      "BlockFactor": 1500,
+      "AttackPowerFactor": 9000
+    },
+    {
+      "AttackPowerFactor": 8000
+    },
+    {
+      "TerrainAdaptation": "Outdoor",
+      "TerrainAdaptationStat": "S",
+      "ShotFactor": 6000,
+      "BlockFactor": 6000,
+      "AttackPowerFactor": 12000
+    },
+    {
+      "TerrainAdaptation": "Outdoor",
+      "TerrainAdaptationStat": "A",
+      "ShotFactor": 4500,
+      "BlockFactor": 4500,
+      "AttackPowerFactor": 11000
+    },
+    {
+      "TerrainAdaptation": "Outdoor",
+      "TerrainAdaptationStat": "B",
+      "ShotFactor": 3000,
+      "BlockFactor": 3000,
+      "AttackPowerFactor": 10000
+    },
+    {
+      "TerrainAdaptation": "Outdoor",
+      "TerrainAdaptationStat": "C",
+      "ShotFactor": 1500,
+      "BlockFactor": 1500,
+      "AttackPowerFactor": 9000
+    },
+    {
+      "TerrainAdaptation": "Outdoor",
+      "AttackPowerFactor": 8000
+    },
+    {
+      "TerrainAdaptation": "Indoor",
+      "TerrainAdaptationStat": "S",
+      "ShotFactor": 6000,
+      "BlockFactor": 6000,
+      "AttackPowerFactor": 12000
+    },
+    {
+      "TerrainAdaptation": "Indoor",
+      "TerrainAdaptationStat": "A",
+      "ShotFactor": 4500,
+      "BlockFactor": 4500,
+      "AttackPowerFactor": 11000
+    },
+    {
+      "TerrainAdaptation": "Indoor",
+      "TerrainAdaptationStat": "B",
+      "ShotFactor": 3000,
+      "BlockFactor": 3000,
+      "AttackPowerFactor": 10000
+    },
+    {
+      "TerrainAdaptation": "Indoor",
+      "TerrainAdaptationStat": "C",
+      "ShotFactor": 1500,
+      "BlockFactor": 1500,
+      "AttackPowerFactor": 9000
+    },
+    {
+      "TerrainAdaptation": "Indoor",
+      "AttackPowerFactor": 8000
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "DataList": [
+    {
+      "SeasonStartDate": "2020-01-01 00:00:00",
+      "SeasonEndDate": "2020-07-30 17:00:00",
+      "SeasonGroupLimit": 15000
+    },
+    {
+      "UniqueId": 1,
+      "SeasonStartDate": "2020-07-30 17:00:01",
+      "SeasonEndDate": "2020-08-15 23:59:59",
+      "SeasonGroupLimit": 15000
+    },
+    {
+      "UniqueId": 2,
+      "SeasonStartDate": "2020-08-30 00:00:00",
+      "SeasonEndDate": "2030-08-15 23:59:59",
+      "SeasonGroupLimit": 15000
+    }
+  ]
+}

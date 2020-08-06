@@ -1,0 +1,28 @@
+{
+  "DataList": [
+    {
+      "AttackCoolTime": 60000,
+      "BattleDuration": 180000,
+      "TSSStartCoolTime": 180000,
+      "EndAlarm": 120000,
+      "TimeRewardMaxAmount": 30000,
+      "TicketCost": 1,
+      "MaxTicketAmount": 5,
+      "DailyRewardResetTime": "04:00:00",
+      "CharacterSlotHideRankLength": 476,
+      "RelativeOpponentRankStartLength": 440,
+      "RelativeOpponentRankEndLength": 404,
+      "ModifiedStatTypeLength": 396,
+      "StatMulFactorLength": 388,
+      "StatSumFactorLength": 376,
+      "NPCNameLength": 172,
+      "NPCMainCharacterCount": 4,
+      "NPCSupportCharacterCount": 2,
+      "NPCCharacterSkillLevel": 1,
+      "TimeSpanInDaysForBattleHistory": 7,
+      "HiddenCharacterImagePath": "UIs/01_Common/01_Character/NPC_Portrait_Hidden_Arena",
+      "DefenseVictoryRewardMaxCount": 5,
+      "TopRankerCountLimit": 100
+    }
+  ]
+}
