@@ -1,0 +1,586 @@
+[
+  {
+    "$type": "MX.Logic.Data.NormalAttackPhaseData, Assembly-CSharp",
+    "PhaseDataId": 1936707133,
+    "PhaseDataName": "NoSwitchTargetMountWeapon",
+    "OnEnterNormalAttack": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 4,
+        "NextPhase": 2147483647
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 2
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 3,
+        "NextPhase": 2147483647
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 5,
+        "ConditionSecond": 1,
+        "NextPhase": 1
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 5,
+        "NextPhase": 7
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 1,
+        "NextPhase": 3
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 7
+      }
+    ],
+    "AfterAttackEnter": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 4,
+        "NextPhase": 2147483647
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 3,
+        "NextPhase": 2147483647
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 5,
+        "ConditionSecond": 1,
+        "NextPhase": 1
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 5,
+        "NextPhase": 7
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 1,
+        "NextPhase": 3
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 7
+      }
+    ],
+    "AfterReload": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 4,
+        "NextPhase": 8
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 3,
+        "NextPhase": 8
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 3
+      }
+    ],
+    "AfterAttackStart": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 4
+      }
+    ],
+    "AfterAttackIng": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 3,
+        "NextPhase": 6
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 4,
+        "NextPhase": 6
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 5,
+        "NextPhase": 6
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 6,
+        "NextPhase": 5
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 4
+      }
+    ],
+    "AfterAttackBurstDelay": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 4
+      }
+    ],
+    "AfterAttackFinish": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 8
+      }
+    ],
+    "AfterMountWeapon": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 4,
+        "NextPhase": 8
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 3,
+        "NextPhase": 8
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 5,
+        "NextPhase": 1
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 3
+      }
+    ],
+    "AfterUnmountWeapon": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 2147483647
+      }
+    ],
+    "AfterSearchNewTarget": [],
+    "name": "NoSwitchTargetMountWeapon"
+  },
+  {
+    "$type": "MX.Logic.Data.NormalAttackPhaseData, Assembly-CSharp",
+    "PhaseDataId": -301564804,
+    "PhaseDataName": "NoSwitchTargetNoMountWeapon",
+    "OnEnterNormalAttack": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 4,
+        "NextPhase": 2147483647
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 2
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 3,
+        "NextPhase": 2147483647
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 5,
+        "NextPhase": 1
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 3
+      }
+    ],
+    "AfterAttackEnter": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 4,
+        "NextPhase": 2147483647
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 3,
+        "NextPhase": 2147483647
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 5,
+        "NextPhase": 1
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 3
+      }
+    ],
+    "AfterReload": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 4,
+        "NextPhase": 2147483647
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 3,
+        "NextPhase": 2147483647
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 3
+      }
+    ],
+    "AfterAttackStart": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 4
+      }
+    ],
+    "AfterAttackIng": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 3,
+        "NextPhase": 6
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 4,
+        "NextPhase": 6
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 5,
+        "NextPhase": 6
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 6,
+        "NextPhase": 5
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 4
+      }
+    ],
+    "AfterAttackBurstDelay": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 4
+      }
+    ],
+    "AfterAttackFinish": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 2147483647
+      }
+    ],
+    "AfterMountWeapon": [],
+    "AfterUnmountWeapon": [],
+    "AfterSearchNewTarget": [],
+    "name": "NoSwitchTargetNoMountWeapon"
+  },
+  {
+    "$type": "MX.Logic.Data.NormalAttackPhaseData, Assembly-CSharp",
+    "PhaseDataId": -1703298052,
+    "PhaseDataName": "SwitchTargetMountWeapon",
+    "OnEnterNormalAttack": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 4,
+        "NextPhase": 2147483647
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 2
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 3,
+        "NextPhase": 2147483647
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 5,
+        "ConditionSecond": 1,
+        "NextPhase": 1
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 5,
+        "NextPhase": 7
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 1,
+        "NextPhase": 3
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 7
+      }
+    ],
+    "AfterAttackEnter": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 4,
+        "NextPhase": 2147483647
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 3,
+        "NextPhase": 2147483647
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 5,
+        "ConditionSecond": 1,
+        "NextPhase": 1
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 5,
+        "NextPhase": 7
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 1,
+        "NextPhase": 3
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 7
+      }
+    ],
+    "AfterReload": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 4,
+        "NextPhase": 8
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 3,
+        "NextPhase": 2147483646
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 3
+      }
+    ],
+    "AfterAttackStart": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 4
+      }
+    ],
+    "AfterAttackIng": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 4,
+        "NextPhase": 6
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 3,
+        "NextPhase": 2147483646
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 5,
+        "NextPhase": 1
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 6,
+        "NextPhase": 5
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 4
+      }
+    ],
+    "AfterAttackBurstDelay": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 4
+      }
+    ],
+    "AfterAttackFinish": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 8
+      }
+    ],
+    "AfterMountWeapon": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 4,
+        "NextPhase": 8
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 3,
+        "NextPhase": 8
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 5,
+        "NextPhase": 1
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 3
+      }
+    ],
+    "AfterUnmountWeapon": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 2147483647
+      }
+    ],
+    "AfterSearchNewTarget": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 3,
+        "NextPhase": 6
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 3
+      }
+    ],
+    "name": "SwitchTargetMountWeapon"
+  },
+  {
+    "$type": "MX.Logic.Data.NormalAttackPhaseData, Assembly-CSharp",
+    "PhaseDataId": -896767587,
+    "PhaseDataName": "SwitchTargetNoMountWeapon",
+    "OnEnterNormalAttack": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 4,
+        "NextPhase": 2147483647
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 2
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 3,
+        "NextPhase": 2147483647
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 5,
+        "NextPhase": 1
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 3
+      }
+    ],
+    "AfterAttackEnter": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 4,
+        "NextPhase": 2147483647
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 3,
+        "NextPhase": 2147483647
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 5,
+        "NextPhase": 1
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 3
+      }
+    ],
+    "AfterReload": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 4,
+        "NextPhase": 2147483647
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 3,
+        "NextPhase": 2147483647
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 3
+      }
+    ],
+    "AfterAttackStart": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 4
+      }
+    ],
+    "AfterAttackIng": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 4,
+        "NextPhase": 6
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 5,
+        "NextPhase": 1
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 3,
+        "NextPhase": 2147483646
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 6,
+        "NextPhase": 5
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 4
+      }
+    ],
+    "AfterAttackBurstDelay": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 4
+      }
+    ],
+    "AfterAttackFinish": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 2147483647
+      }
+    ],
+    "AfterMountWeapon": [],
+    "AfterUnmountWeapon": [],
+    "AfterSearchNewTarget": [
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 3,
+        "NextPhase": 6
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 5,
+        "NextPhase": 1
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "Condition": 4,
+        "NextPhase": 2147483647
+      },
+      {
+        "$type": "MX.Logic.Data.NormalAttackPhaseControl, Assembly-CSharp",
+        "NextPhase": 4
+      }
+    ],
+    "name": "SwitchTargetNoMountWeapon"
+  }
+]

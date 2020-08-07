@@ -1,0 +1,238 @@
+{
+    "Default": {
+        "Idle": {
+            "Default": "Idle"
+        },
+        "Charmed": {
+            "Default": "MoveIng"
+        },
+        "Feared": {
+            "Default": "MoveIng"
+        },
+        "Dead": {
+            "Default": "VitalDeath"
+        },
+        "Dying": {
+            "Default": "VitalDyingIng"
+        },
+        "Retreat": {
+            "Default": "VitalDyingIng",
+            "Phase01": "VitalReatreat"
+        },
+        "Stunned": {
+            "Default": "VitalPanic"
+        },
+        "Groggy": {
+            "Default": "VitalPanic"
+        },
+        "UseExSkill01": {
+            "Default": "Exs1"
+        },
+        "UseExSkill02": {
+            "Default": "Exs2"
+        },
+        "UseExSkill03": {
+            "Default": "Exs3"
+        },
+        "UsePublicSkill01": {
+            "Default": "PublicSkill1"
+        },
+        "UsePublicSkill02": {
+            "Default": "PublicSkill2"
+        },
+        "UsePublicSkill03": {
+            "Default": "PublicSkill3"
+        },
+        "NormalAttack01": {
+            "Default": "MoveEnd",
+            "Phase01": "Reload",
+            "Phase02": "Reload",
+            "Phase03": "AttackStart",
+            "Phase04": "AttackIng",
+            "Phase05": "AttackDelay",
+            "Phase06": "AttackEnd",
+            "Phase07": "AttackReadyStart",
+            "Phase08": "AttackReadyEnd"
+        },
+        "NormalAttack02": {
+            "Default": "MoveEnd",
+            "Phase01": "Reload",
+            "Phase02": "Reload",
+            "Phase03": "AttackStart",
+            "Phase04": "AttackIng",
+            "Phase05": "AttackDelay",
+            "Phase06": "AttackEnd",
+            "Phase07": "AttackReadyStart",
+            "Phase08": "AttackReadyEnd"
+        },
+        "NormalAttack03": {
+            "Default": "MoveEnd",
+            "Phase01": "Reload",
+            "Phase02": "Reload",
+            "Phase03": "AttackStart",
+            "Phase04": "AttackIng",
+            "Phase05": "AttackDelay",
+            "Phase06": "AttackEnd",
+            "Phase07": "AttackReadyStart",
+            "Phase08": "AttackReadyEnd"
+        },
+        "Move": {
+            "Default": "MoveIng",
+            "Phase01": "MoveJump",
+            "Phase02": "MoveIngStart",
+            "Phase03": "MoveIngEnd",
+            "Phase04": "MoveEndRootMotion",
+            "Phase05": "AttackReadyEnd"
+        },
+        "MoveToFormationBeacon": {
+            "Default": "MoveIng",
+            "Phase01": "Idle",
+            "Phase02": "MoveJump",
+            "Phase03": "MoveIngStart",
+            "Phase04": "MoveIngEnd",
+            "Phase05": "AttackReadyEnd",
+            "Phase06": "AttackReadyStart"
+        },
+        "MoveAttack": {
+            "Default": "MoveIng",
+            "Phase01": "MoveIng",
+            "Phase02": "MoveIng",
+            "Phase03": "MoveIng",
+            "Phase04": "MoveAttack",
+            "Phase05": "MoveIng",
+            "Phase06": "MoveIng",
+            "Phase07": "MoveJump",
+            "Phase08": "MoveEndRootMotion"
+        },
+        "EnterGround": {
+            "Default": "Appear",
+            "Phase01": "MoveIng",
+            "Phase02": "MoveJump"
+        },
+        "TSSInteract": {
+            "Default": "TSSInteractIdle",
+            "Phase01": "TSSInteractAttack"
+        },
+        "GroggyDead": {
+            "Default": "VitalDeathGroggy"
+        }
+    },
+    "Binah_Original": {
+        "Idle": {
+            "Default": "Idle"
+        },
+        "Charmed": {
+            "Default": "MoveIng"
+        },
+        "Feared": {
+            "Default": "MoveIng"
+        },
+        "Dead": {
+            "Default": "VitalDeath"
+        },
+        "Dying": {
+            "Default": "VitalDyingIng"
+        },
+        "Retreat": {
+            "Default": "VitalDyingIng",
+            "Phase01": "VitalReatreat"
+        },
+        "Stunned": {
+            "Default": "VitalPanic"
+        },
+        "Groggy": {
+            "Default": "VitalPanic"
+        },
+        "UseExSkill01": {
+            "Default": "Exs1"
+        },
+        "UseExSkill02": {
+            "Default": "Exs2"
+        },
+        "UseExSkill03": {
+            "Default": "Exs3"
+        },
+        "UsePublicSkill01": {
+            "Default": "PublicSkill1"
+        },
+        "UsePublicSkill02": {
+            "Default": "PublicSkill2"
+        },
+        "UsePublicSkill03": {
+            "Default": "PublicSkill3"
+        },
+        "NormalAttack01": {
+            "Default": "MoveEnd",
+            "Phase01": "Reload",
+            "Phase02": "Reload",
+            "Phase03": "AttackStart",
+            "Phase04": "AttackIng",
+            "Phase05": "AttackDelay",
+            "Phase06": "AttackEnd",
+            "Phase07": "AttackReadyStart",
+            "Phase08": "AttackReadyEnd"
+        },
+        "NormalAttack02": {
+            "Default": "MoveEnd",
+            "Phase01": "Reload",
+            "Phase02": "Reload",
+            "Phase03": "AttackStart",
+            "Phase04": "AttackIng",
+            "Phase05": "AttackDelay",
+            "Phase06": "AttackEnd",
+            "Phase07": "AttackReadyStart",
+            "Phase08": "AttackReadyEnd"
+        },
+        "NormalAttack03": {
+            "Default": "MoveEnd",
+            "Phase01": "Reload",
+            "Phase02": "Reload",
+            "Phase03": "AttackStart",
+            "Phase04": "AttackIng",
+            "Phase05": "AttackDelay",
+            "Phase06": "AttackEnd",
+            "Phase07": "AttackReadyStart",
+            "Phase08": "AttackReadyEnd"
+        },
+        "Move": {
+            "Default": "MoveIng",
+            "Phase01": "MoveJump",
+            "Phase02": "MoveIngStart",
+            "Phase03": "MoveIngEnd",
+            "Phase04": "MoveEndRootMotion",
+            "Phase05": "AttackReadyEnd"
+        },
+        "MoveToFormationBeacon": {
+            "Default": "MoveIng",
+            "Phase01": "Idle",
+            "Phase02": "MoveJump",
+            "Phase03": "MoveIngStart",
+            "Phase04": "MoveIngEnd",
+            "Phase05": "AttackReadyEnd",
+            "Phase06": "AttackReadyStart"
+        },
+        "MoveAttack": {
+            "Default": "MoveIng",
+            "Phase01": "MoveIng",
+            "Phase02": "MoveIng",
+            "Phase03": "MoveIng",
+            "Phase04": "MoveAttack",
+            "Phase05": "MoveIng",
+            "Phase06": "MoveIng",
+            "Phase07": "MoveJump",
+            "Phase08": "MoveEndRootMotion"
+        },
+        "EnterGround": {
+            "Default": "Appear",
+            "Phase01": "MoveIng",
+            "Phase02": "MoveJump"
+        },
+        "TSSInteract": {
+            "Default": "TSSInteractIdle",
+            "Phase01": "TSSInteractAttack"
+        },
+        "GroggyDead": {
+            "Default": "VitalDeathGroggy"
+        }
+    }
+}

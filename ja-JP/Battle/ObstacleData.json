@@ -1,0 +1,5548 @@
+[
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.06,
+      "y": 0.06
+    },
+    "Size": {
+      "x": 1.55,
+      "y": 2.4
+    },
+    "DestroyDuration": 2.36666679,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "ObstacleHeightType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Backstreet_Bigbox",
+    "NameHash": 2527275467,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.586,
+        "y": -1.463
+      },
+      {
+        "x": 0.584,
+        "y": 1.604
+      },
+      {
+        "x": -1.0450002,
+        "y": 1.02499926
+      },
+      {
+        "x": 1.177,
+        "y": 1.01999938
+      },
+      {
+        "x": -0.455,
+        "y": -1.464
+      },
+      {
+        "x": -0.453,
+        "y": 1.606
+      },
+      {
+        "x": -1.05,
+        "y": -0.898
+      },
+      {
+        "x": 1.16699982,
+        "y": -0.89800024
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.5860001,
+        "y": -1.46299994
+      },
+      {
+        "x": 0.583999455,
+        "y": 1.60400021
+      },
+      {
+        "x": -1.045,
+        "y": 1.025
+      },
+      {
+        "x": 1.177,
+        "y": 1.02
+      },
+      {
+        "x": -0.4549998,
+        "y": -1.46399951
+      },
+      {
+        "x": -0.453000546,
+        "y": 1.60599983
+      },
+      {
+        "x": -1.04999936,
+        "y": -0.8980007
+      },
+      {
+        "x": 1.167,
+        "y": -0.898
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": -5.96046448E-08
+    },
+    "Size": {
+      "x": 0.774911642,
+      "y": 0.4837115
+    },
+    "DestroyDuration": 3.33333349,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "ObstacleHeightType": 1,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "UniqueName": "Backstreet_Box01",
+    "NameHash": 2760446568,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.134000033,
+        "y": -0.57
+      },
+      {
+        "x": -0.135,
+        "y": 0.583
+      },
+      {
+        "x": -0.73300004,
+        "y": -0.001000002
+      },
+      {
+        "x": 0.73,
+        "y": 0.0
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.134,
+        "y": -0.57
+      },
+      {
+        "x": -0.135,
+        "y": 0.583
+      },
+      {
+        "x": -0.733,
+        "y": -0.001
+      },
+      {
+        "x": 0.73,
+        "y": 0.0
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": -0.00430238247
+    },
+    "Size": {
+      "x": 1.00000012,
+      "y": 1.00069714
+    },
+    "DestroyDuration": 3.33333349,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Backstreet_Box02",
+    "NameHash": 915064283,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.256000042,
+        "y": -0.831
+      },
+      {
+        "x": -0.286,
+        "y": 0.836
+      },
+      {
+        "x": -0.878,
+        "y": -0.251
+      },
+      {
+        "x": 0.846,
+        "y": 0.248000011
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.256,
+        "y": -0.831
+      },
+      {
+        "x": -0.286,
+        "y": 0.836
+      },
+      {
+        "x": -0.877999961,
+        "y": -0.251
+      },
+      {
+        "x": 0.846,
+        "y": 0.248
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": -0.03,
+      "y": -8.940697E-08
+    },
+    "Size": {
+      "x": 0.85,
+      "y": 1.0
+    },
+    "DestroyDuration": 2.33333349,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Backstreet_Boxcart",
+    "NameHash": 1017309031,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.124000028,
+        "y": -0.791
+      },
+      {
+        "x": -0.144,
+        "y": 0.799
+      },
+      {
+        "x": -0.789,
+        "y": -0.212
+      },
+      {
+        "x": 0.733,
+        "y": 0.197999984
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.124,
+        "y": -0.791
+      },
+      {
+        "x": -0.144,
+        "y": 0.799
+      },
+      {
+        "x": -0.789,
+        "y": -0.212
+      },
+      {
+        "x": 0.733,
+        "y": 0.198
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.000795140862,
+      "y": 0.0
+    },
+    "Size": {
+      "x": 0.370501161,
+      "y": 0.236974478
+    },
+    "DestroyDuration": 1.86666679,
+    "RemainTime": 3.0,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Chesed_Shield",
+    "NameHash": 3289450004,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [],
+    "PlayerPoints": []
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.00149923563,
+      "y": -1.34110451E-07
+    },
+    "Size": {
+      "x": 1.22318041,
+      "y": 0.236974567
+    },
+    "DestroyDuration": 1.4333334,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Chesed_Shield_Sub",
+    "NameHash": 3058291815,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [],
+    "PlayerPoints": [
+      {
+        "x": 0.414,
+        "y": -0.477
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": -1.1920929E-07
+    },
+    "Size": {
+      "x": 2.1438446,
+      "y": 2.143845
+    },
+    "DestroyDuration": 2.16666675,
+    "RemainTime": 3.0,
+    "UniqueName": "City_Bigbox",
+    "NameHash": 441111850,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": -1.0719223,
+        "y": -1.07192266
+      },
+      {
+        "x": -1.0719223,
+        "y": 1.07192242
+      },
+      {
+        "x": 1.0719223,
+        "y": -1.07192266
+      },
+      {
+        "x": 1.0719223,
+        "y": 1.07192242
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": -1.0719223,
+        "y": -1.07192266
+      },
+      {
+        "x": -1.0719223,
+        "y": 1.07192242
+      },
+      {
+        "x": 1.0719223,
+        "y": -1.07192266
+      },
+      {
+        "x": 1.0719223,
+        "y": 1.07192242
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.6,
+      "y": 1.6
+    },
+    "Offset": {
+      "x": -0.03,
+      "y": 0.02
+    },
+    "Size": {
+      "x": 0.77,
+      "y": 0.86
+    },
+    "DestroyDuration": 3.00000024,
+    "RemainTime": 3.0,
+    "ObstacleHeightType": 1,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "City_ClockTower",
+    "NameHash": 1526636798,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [],
+    "PlayerPoints": []
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.6,
+      "y": 1.6
+    },
+    "Offset": {
+      "x": 1.3,
+      "y": 0.0
+    },
+    "Size": {
+      "x": 2.5,
+      "y": 1.0
+    },
+    "DestroyDuration": 0.0333333351,
+    "RemainTime": 3.0,
+    "Indestructible": true,
+    "ObstacleHeightType": 1,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "City_ClockTower_Sub",
+    "NameHash": 3653383081,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [],
+    "PlayerPoints": []
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "RemainTime": 3.0,
+    "UniqueName": "City_Storesign",
+    "NameHash": 2683127442,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "RemainTime": 3.0,
+    "UniqueName": "City_Taco",
+    "NameHash": 935741347,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": -1.63912773E-07
+    },
+    "RemainTime": 3.0,
+    "ArmorType": 3,
+    "UniqueName": "City_Trafficsign",
+    "NameHash": 1550554957,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [],
+    "PlayerPoints": []
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 0.7,
+      "y": 0.7
+    },
+    "Size": {
+      "x": 1.07,
+      "y": 0.42
+    },
+    "DestroyDuration": 2.0,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 1,
+    "UniqueName": "Common_Baricade",
+    "NameHash": 1522850727,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.21,
+        "y": -0.68
+      },
+      {
+        "x": -0.21,
+        "y": 0.68
+      },
+      {
+        "x": -1.03,
+        "y": 0.0
+      },
+      {
+        "x": 1.03,
+        "y": 0.0
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.21,
+        "y": -0.68
+      },
+      {
+        "x": -0.21,
+        "y": 0.68
+      },
+      {
+        "x": -1.03,
+        "y": 0.0
+      },
+      {
+        "x": 1.03,
+        "y": 0.0
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 0.7,
+      "y": 0.7
+    },
+    "Size": {
+      "x": 1.09,
+      "y": 0.42
+    },
+    "DestroyDuration": 2.0,
+    "RemainTime": 3.0,
+    "JumpAble": true,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Common_BaricadeJump",
+    "NameHash": 2198639503,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.22,
+        "y": -0.69
+      },
+      {
+        "x": -0.22,
+        "y": 0.69
+      },
+      {
+        "x": -1.01,
+        "y": 0.0009999871
+      },
+      {
+        "x": 1.01,
+        "y": 0.0
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.22,
+        "y": -0.69
+      },
+      {
+        "x": -0.22,
+        "y": 0.69
+      },
+      {
+        "x": -1.01,
+        "y": 0.001
+      },
+      {
+        "x": 1.01,
+        "y": 0.0
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 0.7,
+      "y": 0.7
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": -0.01
+    },
+    "Size": {
+      "x": 1.09,
+      "y": 0.6
+    },
+    "DestroyDuration": 1.63333344,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Common_BaricadeMetal",
+    "NameHash": 3610965522,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.19,
+        "y": -0.49
+      },
+      {
+        "x": -0.19,
+        "y": 0.49
+      },
+      {
+        "x": -1.01,
+        "y": 0.0
+      },
+      {
+        "x": 1.01,
+        "y": 0.0
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.19,
+        "y": -0.49
+      },
+      {
+        "x": -0.19,
+        "y": 0.49
+      },
+      {
+        "x": -1.01,
+        "y": 0.0
+      },
+      {
+        "x": 1.01,
+        "y": 0.0
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 0.7,
+      "y": 0.7
+    },
+    "Offset": {
+      "x": 2.98023224E-08,
+      "y": -5.96046448E-08
+    },
+    "Size": {
+      "x": 0.6,
+      "y": 0.6
+    },
+    "DestroyDuration": 1.66666675,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Common_Barrel",
+    "NameHash": 2933986372,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.0,
+        "y": -0.78
+      },
+      {
+        "x": 0.0,
+        "y": 0.78
+      },
+      {
+        "x": -0.78,
+        "y": 0.0
+      },
+      {
+        "x": 0.78,
+        "y": 0.0
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.0,
+        "y": -0.78
+      },
+      {
+        "x": 0.0,
+        "y": 0.78
+      },
+      {
+        "x": -0.78,
+        "y": 0.0
+      },
+      {
+        "x": 0.78,
+        "y": 0.0
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 0.7,
+      "y": 0.7
+    },
+    "Offset": {
+      "x": 2.98023224E-08,
+      "y": -0.0044079423
+    },
+    "Size": {
+      "x": 0.9,
+      "y": 0.63
+    },
+    "DestroyDuration": 1.53333342,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Common_BarrelLying",
+    "NameHash": 2790776556,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.09,
+        "y": -0.78
+      },
+      {
+        "x": -0.09,
+        "y": 0.78
+      },
+      {
+        "x": -0.92,
+        "y": 0.0
+      },
+      {
+        "x": 0.92,
+        "y": 0.0
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.09,
+        "y": -0.78
+      },
+      {
+        "x": -0.09,
+        "y": 0.78
+      },
+      {
+        "x": -0.92,
+        "y": 0.0
+      },
+      {
+        "x": 0.92,
+        "y": 0.0
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 0.7,
+      "y": 0.7
+    },
+    "Offset": {
+      "x": -1.22189522E-06,
+      "y": 2.38418579E-07
+    },
+    "Size": {
+      "x": 0.77,
+      "y": 0.62
+    },
+    "DestroyDuration": 1.36666679,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "UniqueName": "Common_BoxWood",
+    "NameHash": 2911066335,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.08,
+        "y": -0.79
+      },
+      {
+        "x": -0.08,
+        "y": 0.79
+      },
+      {
+        "x": -0.91,
+        "y": 0.0
+      },
+      {
+        "x": 0.91,
+        "y": 0.0
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.08,
+        "y": -0.79
+      },
+      {
+        "x": -0.08,
+        "y": 0.79
+      },
+      {
+        "x": -0.91,
+        "y": 0.0
+      },
+      {
+        "x": 0.91,
+        "y": 0.0
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 0.8,
+      "y": 0.8
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": -0.0208375454
+    },
+    "Size": {
+      "x": 1.69,
+      "y": 3.49
+    },
+    "DestroyDuration": 3.00000024,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "ObstacleHeightType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Common_CarBlack",
+    "NameHash": 2511875457,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.46,
+        "y": -2.17
+      },
+      {
+        "x": 0.46,
+        "y": 2.17
+      },
+      {
+        "x": -1.28,
+        "y": 1.39
+      },
+      {
+        "x": 1.28,
+        "y": 1.39
+      },
+      {
+        "x": -0.46,
+        "y": -2.17
+      },
+      {
+        "x": -0.46,
+        "y": 2.17
+      },
+      {
+        "x": -1.28,
+        "y": -1.39
+      },
+      {
+        "x": 1.28,
+        "y": -1.39
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.46,
+        "y": -2.17
+      },
+      {
+        "x": 0.46,
+        "y": 2.17
+      },
+      {
+        "x": -1.28,
+        "y": 1.39
+      },
+      {
+        "x": 1.28,
+        "y": 1.39
+      },
+      {
+        "x": -0.46,
+        "y": -2.17
+      },
+      {
+        "x": -0.46,
+        "y": 2.17
+      },
+      {
+        "x": -1.28,
+        "y": -1.39
+      },
+      {
+        "x": 1.28,
+        "y": -1.39
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 0.8,
+      "y": 0.8
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": -0.0208375454
+    },
+    "Size": {
+      "x": 1.64,
+      "y": 3.41
+    },
+    "DestroyDuration": 3.00000024,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "ObstacleHeightType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Common_CarCyan",
+    "NameHash": 23746232,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.46,
+        "y": -2.17
+      },
+      {
+        "x": 0.46,
+        "y": 2.17
+      },
+      {
+        "x": -1.28000009,
+        "y": 1.39
+      },
+      {
+        "x": 1.28000009,
+        "y": 1.39
+      },
+      {
+        "x": -0.46,
+        "y": -2.17
+      },
+      {
+        "x": -0.46,
+        "y": 2.17
+      },
+      {
+        "x": -1.28000009,
+        "y": -1.39
+      },
+      {
+        "x": 1.28000009,
+        "y": -1.39
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.46,
+        "y": -2.17
+      },
+      {
+        "x": 0.46,
+        "y": 2.17
+      },
+      {
+        "x": -1.28000009,
+        "y": 1.39
+      },
+      {
+        "x": 1.28000009,
+        "y": 1.39
+      },
+      {
+        "x": -0.46,
+        "y": -2.17
+      },
+      {
+        "x": -0.46,
+        "y": 2.17
+      },
+      {
+        "x": -1.28000009,
+        "y": -1.39
+      },
+      {
+        "x": 1.28000009,
+        "y": -1.39
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 0.8,
+      "y": 0.8
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": -0.0208375454
+    },
+    "Size": {
+      "x": 1.68,
+      "y": 3.44
+    },
+    "DestroyDuration": 3.00000024,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "ObstacleHeightType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Common_CarGrey",
+    "NameHash": 2614628564,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.46,
+        "y": -2.17
+      },
+      {
+        "x": 0.46,
+        "y": 2.17
+      },
+      {
+        "x": -1.28000009,
+        "y": 1.39
+      },
+      {
+        "x": 1.28000009,
+        "y": 1.39
+      },
+      {
+        "x": -0.46,
+        "y": -2.17
+      },
+      {
+        "x": -0.46,
+        "y": 2.17
+      },
+      {
+        "x": -1.28000009,
+        "y": -1.39
+      },
+      {
+        "x": 1.28000009,
+        "y": -1.39
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.46,
+        "y": -2.17
+      },
+      {
+        "x": 0.46,
+        "y": 2.17
+      },
+      {
+        "x": -1.28000009,
+        "y": 1.39
+      },
+      {
+        "x": 1.28000009,
+        "y": 1.39
+      },
+      {
+        "x": -0.46,
+        "y": -2.17
+      },
+      {
+        "x": -0.46,
+        "y": 2.17
+      },
+      {
+        "x": -1.28000009,
+        "y": -1.39
+      },
+      {
+        "x": 1.28000009,
+        "y": -1.39
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 0.8,
+      "y": 0.8
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": -0.0208375454
+    },
+    "Size": {
+      "x": 1.7,
+      "y": 3.39
+    },
+    "DestroyDuration": 3.00000024,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Common_CarOrange",
+    "NameHash": 3224751572,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.46,
+        "y": -2.17
+      },
+      {
+        "x": 0.46,
+        "y": 2.17
+      },
+      {
+        "x": -1.28000009,
+        "y": 1.39
+      },
+      {
+        "x": 1.28000009,
+        "y": 1.39
+      },
+      {
+        "x": -0.46,
+        "y": -2.17
+      },
+      {
+        "x": -0.46,
+        "y": 2.17
+      },
+      {
+        "x": -1.28000009,
+        "y": -1.39
+      },
+      {
+        "x": 1.28000009,
+        "y": -1.39
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.46,
+        "y": -2.17
+      },
+      {
+        "x": 0.46,
+        "y": 2.17
+      },
+      {
+        "x": -1.28000009,
+        "y": 1.39
+      },
+      {
+        "x": 1.28000009,
+        "y": 1.39
+      },
+      {
+        "x": -0.46,
+        "y": -2.17
+      },
+      {
+        "x": -0.46,
+        "y": 2.17
+      },
+      {
+        "x": -1.28000009,
+        "y": -1.39
+      },
+      {
+        "x": 1.28000009,
+        "y": -1.39
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 0.8,
+      "y": 0.8
+    },
+    "Offset": {
+      "x": 0.06,
+      "y": -0.03
+    },
+    "Size": {
+      "x": 1.89,
+      "y": 3.97
+    },
+    "DestroyDuration": 4.766667,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "ObstacleHeightType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Common_CarSuv",
+    "NameHash": 4175123197,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.68,
+        "y": -2.65
+      },
+      {
+        "x": 0.68,
+        "y": 2.3
+      },
+      {
+        "x": -1.3,
+        "y": 1.75
+      },
+      {
+        "x": 1.42,
+        "y": 1.56
+      },
+      {
+        "x": -0.56,
+        "y": -2.65
+      },
+      {
+        "x": -0.46,
+        "y": 2.17
+      },
+      {
+        "x": -1.28000009,
+        "y": -1.39
+      },
+      {
+        "x": 1.59,
+        "y": -1.39
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.68,
+        "y": -2.65
+      },
+      {
+        "x": 0.68,
+        "y": 2.3
+      },
+      {
+        "x": -1.3,
+        "y": 1.75
+      },
+      {
+        "x": 1.42,
+        "y": 1.56
+      },
+      {
+        "x": -0.56,
+        "y": -2.65
+      },
+      {
+        "x": -0.46,
+        "y": 2.17
+      },
+      {
+        "x": -1.28000009,
+        "y": -1.39
+      },
+      {
+        "x": 1.59,
+        "y": -1.39
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 0.8,
+      "y": 0.8
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": -0.0208375454
+    },
+    "Size": {
+      "x": 1.7,
+      "y": 3.26
+    },
+    "DestroyDuration": 3.00000024,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "ObstacleHeightType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Common_CarWhite",
+    "NameHash": 1776147339,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.46,
+        "y": -2.17
+      },
+      {
+        "x": 0.46,
+        "y": 2.17
+      },
+      {
+        "x": -1.28000009,
+        "y": 1.39
+      },
+      {
+        "x": 1.28000009,
+        "y": 1.39
+      },
+      {
+        "x": -0.46,
+        "y": -2.17
+      },
+      {
+        "x": -0.46,
+        "y": 2.17
+      },
+      {
+        "x": -1.28000009,
+        "y": -1.39
+      },
+      {
+        "x": 1.28000009,
+        "y": -1.39
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.46,
+        "y": -2.17
+      },
+      {
+        "x": 0.46,
+        "y": 2.17
+      },
+      {
+        "x": -1.28000009,
+        "y": 1.39
+      },
+      {
+        "x": 1.28000009,
+        "y": 1.39
+      },
+      {
+        "x": -0.46,
+        "y": -2.17
+      },
+      {
+        "x": -0.46,
+        "y": 2.17
+      },
+      {
+        "x": -1.28000009,
+        "y": -1.39
+      },
+      {
+        "x": 1.28000009,
+        "y": -1.39
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.00483834743,
+      "y": -2.38418579E-07
+    },
+    "Size": {
+      "x": 0.05,
+      "y": 0.05
+    },
+    "Indestructible": true,
+    "ObstacleHeightType": 2,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 2,
+    "MaterialType": 1,
+    "UniqueName": "Common_emptyHigh",
+    "NameHash": 960407519,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": -0.003,
+        "y": -0.29
+      },
+      {
+        "x": -0.00199994445,
+        "y": 0.29
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": -0.003000021,
+        "y": -0.29
+      },
+      {
+        "x": -0.002,
+        "y": 0.29
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 0.7,
+      "y": 0.7
+    },
+    "Offset": {
+      "x": -0.12,
+      "y": -0.0279659033
+    },
+    "Size": {
+      "x": 0.67,
+      "y": 2.01
+    },
+    "DestroyDuration": 0.6666667,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "UniqueName": "Common_Sandbag",
+    "NameHash": 4079509795,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.49,
+        "y": 0.0
+      },
+      {
+        "x": -1.12,
+        "y": 0.0
+      },
+      {
+        "x": -0.13,
+        "y": -1.61
+      },
+      {
+        "x": -0.13,
+        "y": 1.5
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.49,
+        "y": 0.0
+      },
+      {
+        "x": -1.12,
+        "y": 0.0
+      },
+      {
+        "x": -0.13,
+        "y": -1.61
+      },
+      {
+        "x": -0.13,
+        "y": 1.5
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 3.03983688E-06,
+      "y": 3.695488E-06
+    },
+    "Size": {
+      "x": 0.47,
+      "y": 0.22
+    },
+    "DestroyDuration": 1.23333335,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Common_Standsignboard",
+    "NameHash": 1387271093,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.0,
+        "y": -0.45
+      },
+      {
+        "x": 0.0,
+        "y": 0.45
+      },
+      {
+        "x": -0.64,
+        "y": 0.0
+      },
+      {
+        "x": 0.64,
+        "y": 0.0
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.0,
+        "y": -0.45
+      },
+      {
+        "x": 0.0,
+        "y": 0.45
+      },
+      {
+        "x": -0.64,
+        "y": 0.0
+      },
+      {
+        "x": 0.64,
+        "y": 0.0
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 0.7,
+      "y": 0.7
+    },
+    "Offset": {
+      "x": 0.12,
+      "y": 0.12
+    },
+    "Size": {
+      "x": 0.85,
+      "y": 0.85
+    },
+    "DestroyDuration": 2.36666679,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Common_TireLow",
+    "NameHash": 1758207883,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.1,
+        "y": -0.85
+      },
+      {
+        "x": 0.36,
+        "y": 1.17
+      },
+      {
+        "x": -0.85,
+        "y": 0.06
+      },
+      {
+        "x": 1.17,
+        "y": 0.22
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.1,
+        "y": -0.85
+      },
+      {
+        "x": 0.36,
+        "y": 1.17
+      },
+      {
+        "x": -0.85,
+        "y": 0.06
+      },
+      {
+        "x": 1.17,
+        "y": 0.22
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 0.7,
+      "y": 0.7
+    },
+    "Offset": {
+      "x": 0.01,
+      "y": 0.18
+    },
+    "Size": {
+      "x": 0.7,
+      "y": 1.21
+    },
+    "DestroyDuration": 2.16666675,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Common_TireMiddle",
+    "NameHash": 3825174888,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.0,
+        "y": -0.87
+      },
+      {
+        "x": 0.0,
+        "y": 1.34
+      },
+      {
+        "x": -0.99,
+        "y": -0.07
+      },
+      {
+        "x": 0.84,
+        "y": 0.49
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.0,
+        "y": -0.87
+      },
+      {
+        "x": 0.0,
+        "y": 1.34
+      },
+      {
+        "x": -0.99,
+        "y": -0.07
+      },
+      {
+        "x": 0.84,
+        "y": 0.49
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.1,
+      "y": 1.1
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": -0.1
+    },
+    "Size": {
+      "x": 1.2,
+      "y": 3.26
+    },
+    "DestroyDuration": 2.83333349,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "ObstacleHeightType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Common_VanBlue",
+    "NameHash": 1495275335,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.44,
+        "y": -2.11
+      },
+      {
+        "x": 0.44,
+        "y": 1.92
+      },
+      {
+        "x": -1.0,
+        "y": 1.36
+      },
+      {
+        "x": 0.96,
+        "y": 1.36
+      },
+      {
+        "x": -0.44,
+        "y": -2.11
+      },
+      {
+        "x": -0.44,
+        "y": 1.92
+      },
+      {
+        "x": -1.0,
+        "y": -1.59
+      },
+      {
+        "x": 0.96,
+        "y": -1.59
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.44,
+        "y": -2.11
+      },
+      {
+        "x": 0.44,
+        "y": 1.92
+      },
+      {
+        "x": -1.0,
+        "y": 1.36
+      },
+      {
+        "x": 0.96,
+        "y": 1.36
+      },
+      {
+        "x": -0.44,
+        "y": -2.11
+      },
+      {
+        "x": -0.44,
+        "y": 1.92
+      },
+      {
+        "x": -1.0,
+        "y": -1.59
+      },
+      {
+        "x": 0.96,
+        "y": -1.59
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.1,
+      "y": 1.1
+    },
+    "Offset": {
+      "x": -2.38418579E-07,
+      "y": -0.107132792
+    },
+    "Size": {
+      "x": 1.27,
+      "y": 3.3
+    },
+    "DestroyDuration": 2.83333349,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "ObstacleHeightType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Common_VanRed",
+    "NameHash": 1670331752,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.44,
+        "y": -2.11
+      },
+      {
+        "x": 0.44,
+        "y": 1.92000031
+      },
+      {
+        "x": -1.0,
+        "y": 1.36000025
+      },
+      {
+        "x": 0.960000157,
+        "y": 1.36000025
+      },
+      {
+        "x": -0.44,
+        "y": -2.11
+      },
+      {
+        "x": -0.44,
+        "y": 1.92000031
+      },
+      {
+        "x": -1.0,
+        "y": -1.59000027
+      },
+      {
+        "x": 0.960000157,
+        "y": -1.59000027
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.44,
+        "y": -2.11
+      },
+      {
+        "x": 0.44,
+        "y": 1.92000031
+      },
+      {
+        "x": -1.0,
+        "y": 1.36000025
+      },
+      {
+        "x": 0.960000157,
+        "y": 1.36000025
+      },
+      {
+        "x": -0.44,
+        "y": -2.11
+      },
+      {
+        "x": -0.44,
+        "y": 1.92000031
+      },
+      {
+        "x": -1.0,
+        "y": -1.59000027
+      },
+      {
+        "x": 0.960000157,
+        "y": -1.59000027
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 0.5992172,
+      "y": 0.5992172
+    },
+    "Size": {
+      "x": 1.1479944,
+      "y": 0.4298564
+    },
+    "RemainTime": 3.0,
+    "JumpAble": true,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "UniqueName": "Cube_Low_Kneel_jumpable",
+    "NameHash": 3373584288,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.05,
+        "y": 0.759
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.05,
+        "y": -0.764
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 0.7,
+      "y": 0.7
+    },
+    "Size": {
+      "x": 1.1479944,
+      "y": 0.4298564
+    },
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "UniqueName": "Cube_Low_Kneel_Remove",
+    "NameHash": 1349927558,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.04280122,
+        "y": 0.6497225
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.228,
+        "y": -0.682
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 0.422317356,
+      "y": 0.422317356
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": -1.1920929E-07
+    },
+    "Size": {
+      "x": 2.1438446,
+      "y": 2.143845
+    },
+    "RemainTime": 3.0,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "UniqueName": "Cube_Low_Stand_Remove1",
+    "NameHash": 698699444,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.4,
+        "y": 1.854
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.4,
+        "y": -1.858
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 0.9,
+      "y": 0.9
+    },
+    "Offset": {
+      "x": 2.98023224E-08,
+      "y": -0.17
+    },
+    "Size": {
+      "x": 0.7,
+      "y": 0.43
+    },
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "UniqueName": "Cube_Low_Stand_Remove2",
+    "NameHash": 2232064135,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.0,
+        "y": 0.278
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.0,
+        "y": -0.668
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 0.7614,
+      "y": 0.7614
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": -0.0208375454
+    },
+    "Size": {
+      "x": 1.95928931,
+      "y": 3.633466
+    },
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "ObstacleHeightType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "UniqueName": "Cube_Middle_Stand_Remain",
+    "NameHash": 1236434104,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.708,
+        "y": 2.168
+      },
+      {
+        "x": -1.294,
+        "y": 1.445
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.736,
+        "y": -2.196
+      },
+      {
+        "x": 1.332,
+        "y": 1.54
+      },
+      {
+        "x": -1.33,
+        "y": 1.43
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 0.9,
+      "y": 0.9
+    },
+    "Offset": {
+      "x": 2.98023224E-08,
+      "y": -5.96046448E-08
+    },
+    "Size": {
+      "x": 0.662173033,
+      "y": 0.662173152
+    },
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "ObstacleHeightType": 1,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "UniqueName": "Cube_Middle_Stand_Remove",
+    "NameHash": 3710538405,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.0,
+        "y": 0.6
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.0,
+        "y": -0.6
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Size": {
+      "x": 1.02,
+      "y": 0.58
+    },
+    "RemainTime": 3.0,
+    "ObstacleHeightType": 1,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Cube_PVP_indoor",
+    "NameHash": 1365710771,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.05,
+        "y": 0.759
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.05,
+        "y": -0.764
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.05,
+      "y": 0.83
+    },
+    "Size": {
+      "x": 0.99,
+      "y": 2.49
+    },
+    "RemainTime": 3.0,
+    "Indestructible": true,
+    "ObstacleHeightType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Cube_PVP_indoor_Sub",
+    "NameHash": 1709800589,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [],
+    "PlayerPoints": [
+      {
+        "x": 0.969,
+        "y": 1.649
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": -0.18,
+      "y": 0.0
+    },
+    "Size": {
+      "x": 3.53,
+      "y": 2.56
+    },
+    "DestroyDuration": 0.9666667,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "ObstacleHeightType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Desert_Driller",
+    "NameHash": 618947650,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 1.35,
+        "y": -1.66
+      },
+      {
+        "x": 1.35,
+        "y": 1.65
+      },
+      {
+        "x": -2.28,
+        "y": 1.06
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 1.35,
+        "y": -1.66
+      },
+      {
+        "x": 1.35,
+        "y": 1.65
+      },
+      {
+        "x": -2.28,
+        "y": 1.06
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.6,
+      "y": 1.6
+    },
+    "Size": {
+      "x": 0.58,
+      "y": 0.64
+    },
+    "DestroyDuration": 2.83333349,
+    "RemainTime": 3.0,
+    "ObstacleHeightType": 1,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Desert_IronTower",
+    "NameHash": 2075924933,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [],
+    "PlayerPoints": []
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.6,
+      "y": 1.6
+    },
+    "Offset": {
+      "x": 1.38,
+      "y": 0.06
+    },
+    "Size": {
+      "x": 2.5,
+      "y": 1.0
+    },
+    "DestroyDuration": 2.83333349,
+    "RemainTime": 3.0,
+    "Indestructible": true,
+    "ObstacleHeightType": 1,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Desert_IronTower_Sub",
+    "NameHash": 3388445265,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [],
+    "PlayerPoints": []
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": -0.00276124477,
+      "y": -0.00566405058
+    },
+    "Size": {
+      "x": 0.45,
+      "y": 1.7
+    },
+    "DestroyDuration": 0.6666667,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 1,
+    "UniqueName": "Desert_Madae",
+    "NameHash": 4258941879,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.0,
+        "y": -1.23
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      },
+      {
+        "x": -0.56,
+        "y": -0.59
+      },
+      {
+        "x": 0.51,
+        "y": 0.59
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.0,
+        "y": -1.2
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      },
+      {
+        "x": -0.56,
+        "y": -0.59
+      },
+      {
+        "x": 0.51,
+        "y": 0.59
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 0.7,
+      "y": 0.7
+    },
+    "Offset": {
+      "x": -5.96046448E-08,
+      "y": -0.03
+    },
+    "Size": {
+      "x": 0.79,
+      "y": 0.45
+    },
+    "DestroyDuration": 1.36666679,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Desert_Outdoorfan01Low",
+    "NameHash": 1715176533,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.0,
+        "y": -0.73
+      },
+      {
+        "x": 0.0,
+        "y": 0.78
+      },
+      {
+        "x": -0.87,
+        "y": 0.0
+      },
+      {
+        "x": 0.82,
+        "y": 0.0
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.0,
+        "y": -0.73
+      },
+      {
+        "x": 0.0,
+        "y": 0.78
+      },
+      {
+        "x": -0.87,
+        "y": 0.0
+      },
+      {
+        "x": 0.82,
+        "y": 0.0
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Size": {
+      "x": 0.21,
+      "y": 0.6
+    },
+    "DestroyDuration": 1.30000007,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Desert_Outdoorfan02Low",
+    "NameHash": 1200302714,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.0,
+        "y": -0.6
+      },
+      {
+        "x": 0.0,
+        "y": 0.65
+      },
+      {
+        "x": -0.4,
+        "y": 0.0
+      },
+      {
+        "x": 0.4,
+        "y": 0.0
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.0,
+        "y": -0.6
+      },
+      {
+        "x": 0.0,
+        "y": 0.65
+      },
+      {
+        "x": -0.4,
+        "y": 0.0
+      },
+      {
+        "x": 0.4,
+        "y": 0.0
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 4.172325E-07,
+      "y": 0.05
+    },
+    "Size": {
+      "x": 1.15,
+      "y": 1.06
+    },
+    "DestroyDuration": 1.4000001,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 1,
+    "UniqueName": "Desert_Rock1",
+    "NameHash": 1632059064,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.0,
+        "y": -0.9
+      },
+      {
+        "x": 0.0,
+        "y": 0.91
+      },
+      {
+        "x": -1.04,
+        "y": 0.2
+      },
+      {
+        "x": 0.9,
+        "y": 0.22
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.0,
+        "y": -0.9
+      },
+      {
+        "x": 0.0,
+        "y": 0.91
+      },
+      {
+        "x": -1.04,
+        "y": 0.2
+      },
+      {
+        "x": 0.9,
+        "y": 0.22
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": -7.15255737E-07,
+      "y": 1.37090683E-06
+    },
+    "Size": {
+      "x": 1.03,
+      "y": 1.16
+    },
+    "DestroyDuration": 1.50000012,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 1,
+    "UniqueName": "Desert_Rock2",
+    "NameHash": 1522221857,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.27,
+        "y": -0.91
+      },
+      {
+        "x": -0.25,
+        "y": 0.837
+      },
+      {
+        "x": -0.84,
+        "y": 0.325000018
+      },
+      {
+        "x": 0.84,
+        "y": -0.35
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.27,
+        "y": -0.91
+      },
+      {
+        "x": -0.25,
+        "y": 0.837
+      },
+      {
+        "x": -0.84,
+        "y": 0.325000018
+      },
+      {
+        "x": 0.84,
+        "y": -0.35
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": -7.748604E-07,
+      "y": -9.23872E-07
+    },
+    "Size": {
+      "x": 0.56,
+      "y": 0.6
+    },
+    "DestroyDuration": 0.700000048,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 1,
+    "UniqueName": "Desert_Rock3",
+    "NameHash": 1599388370,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.0,
+        "y": -0.74
+      },
+      {
+        "x": 0.0,
+        "y": 0.74
+      },
+      {
+        "x": -0.63,
+        "y": 0.0009999871
+      },
+      {
+        "x": 0.648,
+        "y": 0.0
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.0,
+        "y": -0.74
+      },
+      {
+        "x": 0.0,
+        "y": 0.74
+      },
+      {
+        "x": -0.63,
+        "y": 0.001
+      },
+      {
+        "x": 0.648,
+        "y": 0.0
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 8.34465E-07,
+      "y": 0.06
+    },
+    "Size": {
+      "x": 1.04,
+      "y": 0.58
+    },
+    "DestroyDuration": 0.8333334,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 1,
+    "UniqueName": "Desert_Rock4",
+    "NameHash": 2186972,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.101,
+        "y": -0.73
+      },
+      {
+        "x": -0.09799999,
+        "y": 0.73
+      },
+      {
+        "x": -0.94,
+        "y": 0.2
+      },
+      {
+        "x": 0.93,
+        "y": 0.05
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.100999989,
+        "y": -0.73
+      },
+      {
+        "x": -0.098,
+        "y": 0.73
+      },
+      {
+        "x": -0.94,
+        "y": 0.2
+      },
+      {
+        "x": 0.93,
+        "y": 0.05
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.00483834743,
+      "y": -2.38418579E-07
+    },
+    "Size": {
+      "x": 3.06,
+      "y": 1.15
+    },
+    "DestroyDuration": 2.0,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "ObstacleHeightType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Desert_Truck",
+    "NameHash": 2740719891,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 1.21,
+        "y": -0.97
+      },
+      {
+        "x": 1.21,
+        "y": 0.975
+      },
+      {
+        "x": -2.04,
+        "y": 0.0
+      },
+      {
+        "x": 2.14,
+        "y": 0.0
+      },
+      {
+        "x": -1.52,
+        "y": -0.97
+      },
+      {
+        "x": -1.52,
+        "y": 0.977
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 1.21,
+        "y": -0.97
+      },
+      {
+        "x": 1.21,
+        "y": 0.975
+      },
+      {
+        "x": -2.04,
+        "y": 0.0
+      },
+      {
+        "x": 2.14,
+        "y": 0.0
+      },
+      {
+        "x": -1.52,
+        "y": -0.97
+      },
+      {
+        "x": -1.52,
+        "y": 0.977
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": -5.96046448E-08,
+      "y": 0.000236272812
+    },
+    "Size": {
+      "x": 0.73,
+      "y": 0.36
+    },
+    "DestroyDuration": 1.76666677,
+    "RemainTime": 3.0,
+    "JumpAble": true,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Factory_BoxMetal01",
+    "NameHash": 2845942073,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.111000031,
+        "y": -0.515
+      },
+      {
+        "x": -0.11,
+        "y": 0.518
+      },
+      {
+        "x": -0.713,
+        "y": 0.0620000064
+      },
+      {
+        "x": 0.698,
+        "y": -0.0709999949
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.111,
+        "y": -0.515
+      },
+      {
+        "x": -0.11,
+        "y": 0.518
+      },
+      {
+        "x": -0.713,
+        "y": 0.062
+      },
+      {
+        "x": 0.698,
+        "y": -0.071
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": -2.98023224E-08
+    },
+    "Size": {
+      "x": 0.7071983,
+      "y": 0.350564927
+    },
+    "DestroyDuration": 1.0,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Factory_BoxMetal02",
+    "NameHash": 4250058468,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.0950000063,
+        "y": -0.520000041
+      },
+      {
+        "x": -0.094,
+        "y": 0.521
+      },
+      {
+        "x": -0.676,
+        "y": -0.0009999945
+      },
+      {
+        "x": 0.674,
+        "y": 0.001
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.095,
+        "y": -0.52
+      },
+      {
+        "x": -0.09399998,
+        "y": 0.521000147
+      },
+      {
+        "x": -0.676,
+        "y": -0.001
+      },
+      {
+        "x": 0.674,
+        "y": 0.00100000191
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": -2.98023224E-08
+    },
+    "Size": {
+      "x": 0.52,
+      "y": 0.52
+    },
+    "DestroyDuration": 2.53333354,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Factory_BoxMetal03",
+    "NameHash": 1333041480,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.0,
+        "y": -0.588
+      },
+      {
+        "x": 0.0,
+        "y": 0.588
+      },
+      {
+        "x": -0.5860001,
+        "y": -0.006
+      },
+      {
+        "x": 0.589,
+        "y": -0.009
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.0,
+        "y": -0.588
+      },
+      {
+        "x": 0.0,
+        "y": 0.588
+      },
+      {
+        "x": -0.586,
+        "y": -0.006000012
+      },
+      {
+        "x": 0.589,
+        "y": -0.009000004
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": -1.1920929E-07
+    },
+    "Size": {
+      "x": 2.06,
+      "y": 2.02
+    },
+    "DestroyDuration": 2.16666675,
+    "RemainTime": 3.0,
+    "ObstacleHeightType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "UniqueName": "Highway_Bigbox",
+    "NameHash": 2663892060,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.75,
+        "y": -1.33
+      },
+      {
+        "x": 0.75,
+        "y": 1.33
+      },
+      {
+        "x": -1.33,
+        "y": -0.75
+      },
+      {
+        "x": 1.33,
+        "y": -0.75
+      },
+      {
+        "x": -0.75,
+        "y": -1.33
+      },
+      {
+        "x": -0.75,
+        "y": 1.33
+      },
+      {
+        "x": -1.33,
+        "y": 0.75
+      },
+      {
+        "x": 1.33,
+        "y": 0.75
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.75,
+        "y": -1.33
+      },
+      {
+        "x": 0.75,
+        "y": 1.33
+      },
+      {
+        "x": -1.33,
+        "y": -0.75
+      },
+      {
+        "x": 1.33,
+        "y": -0.75
+      },
+      {
+        "x": -0.75,
+        "y": -1.33
+      },
+      {
+        "x": -0.75,
+        "y": 1.33
+      },
+      {
+        "x": -1.33,
+        "y": 0.75
+      },
+      {
+        "x": 1.33,
+        "y": 0.75
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 4.76837158E-07,
+      "y": 8.34465E-07
+    },
+    "Size": {
+      "x": 2.03718233,
+      "y": 1.90114737
+    },
+    "DestroyDuration": 3.33333349,
+    "RemainTime": 3.0,
+    "ObstacleHeightType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Highway_Container",
+    "NameHash": 3503234433,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.75,
+        "y": -1.3
+      },
+      {
+        "x": 0.75,
+        "y": 1.3
+      },
+      {
+        "x": -1.33,
+        "y": -0.75
+      },
+      {
+        "x": 1.33,
+        "y": -0.75
+      },
+      {
+        "x": -0.75,
+        "y": -1.3
+      },
+      {
+        "x": -0.75,
+        "y": 1.3
+      },
+      {
+        "x": -1.33,
+        "y": 0.75
+      },
+      {
+        "x": 1.33,
+        "y": 0.75
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.75,
+        "y": -1.3
+      },
+      {
+        "x": 0.75,
+        "y": 1.3
+      },
+      {
+        "x": -1.33,
+        "y": -0.75
+      },
+      {
+        "x": 1.33,
+        "y": -0.75
+      },
+      {
+        "x": -0.75,
+        "y": -1.3
+      },
+      {
+        "x": -0.75,
+        "y": 1.3
+      },
+      {
+        "x": -1.33,
+        "y": 0.75
+      },
+      {
+        "x": 1.33,
+        "y": 0.75
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.0008743927,
+      "y": 0.0007753968
+    },
+    "Size": {
+      "x": 0.08,
+      "y": 0.99
+    },
+    "DestroyDuration": 2.08333349,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "UniqueName": "Highway_Signboard01",
+    "NameHash": 2829162771,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": -0.5,
+        "y": 0.0
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": -0.6,
+        "y": 0.0
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.2,
+      "y": 1.2
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": -0.000363528728
+    },
+    "Size": {
+      "x": 0.08,
+      "y": 0.99
+    },
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Highway_Signboard02",
+    "NameHash": 4207540252,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": -0.418,
+        "y": 0.0
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": -0.6,
+        "y": 0.0
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.2,
+      "y": 1.2
+    },
+    "Offset": {
+      "x": 0.05,
+      "y": -0.00641411543
+    },
+    "Size": {
+      "x": 0.08,
+      "y": 1.06
+    },
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Highway_Signboard03",
+    "NameHash": 1299604785,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": -0.487,
+        "y": 0.0
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": -0.6,
+        "y": 0.0
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Size": {
+      "x": 0.88,
+      "y": 0.19
+    },
+    "PreDuration": 1.9000001,
+    "DestroyDuration": 2.33333349,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Hoshino_Original_Shield",
+    "NameHash": 3233955474,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [],
+    "PlayerPoints": [
+      {
+        "x": 0.246,
+        "y": -0.268
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 1.14,
+      "y": 0.31
+    },
+    "Size": {
+      "x": 3.71,
+      "y": 1.04
+    },
+    "DestroyDuration": 2.5,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Mainstreet_Storesign",
+    "NameHash": 579540694,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [],
+    "PlayerPoints": []
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 1.14,
+      "y": 0.31
+    },
+    "Size": {
+      "x": 3.71,
+      "y": 1.04
+    },
+    "DestroyDuration": 2.0,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Mainstreet_Storesign_Sub",
+    "NameHash": 1838409155,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [],
+    "PlayerPoints": [
+      {
+        "x": 1.4,
+        "y": -0.48
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.07,
+      "y": 0.01
+    },
+    "Size": {
+      "x": 1.24,
+      "y": 1.18
+    },
+    "DestroyDuration": 3.33333349,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "ObstacleHeightType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "UniqueName": "Market_Pocha01",
+    "NameHash": 686490789,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.45,
+        "y": -0.91
+      },
+      {
+        "x": 0.45,
+        "y": 0.91
+      },
+      {
+        "x": -1.03,
+        "y": 0.00699996948
+      },
+      {
+        "x": 1.13,
+        "y": 0.004
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.45,
+        "y": -0.91
+      },
+      {
+        "x": 0.45,
+        "y": 0.91
+      },
+      {
+        "x": -1.03,
+        "y": 0.007
+      },
+      {
+        "x": 1.13,
+        "y": 0.004000008
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.19,
+      "y": -0.02
+    },
+    "Size": {
+      "x": 1.19,
+      "y": 0.82
+    },
+    "DestroyDuration": 3.33333349,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "ObstacleHeightType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "UniqueName": "Market_Pocha02",
+    "NameHash": 1066889172,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.52,
+        "y": -0.82
+      },
+      {
+        "x": 0.52,
+        "y": 0.72
+      },
+      {
+        "x": -0.73,
+        "y": -0.25
+      },
+      {
+        "x": 1.17,
+        "y": -0.25
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.52,
+        "y": -0.82
+      },
+      {
+        "x": 0.52,
+        "y": 0.72
+      },
+      {
+        "x": -0.73,
+        "y": -0.25
+      },
+      {
+        "x": 1.17,
+        "y": -0.25
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.25,
+      "y": 1.06
+    },
+    "Size": {
+      "x": 4.7,
+      "y": 3.22
+    },
+    "DestroyDuration": 2.5,
+    "ObstacleHeightType": 1,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 1,
+    "UniqueName": "Market_Taco",
+    "NameHash": 1951962616,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [],
+    "PlayerPoints": []
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.25,
+      "y": 1.06
+    },
+    "Size": {
+      "x": 4.7,
+      "y": 3.22
+    },
+    "DestroyDuration": 2.0,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "ObstacleHeightType": 1,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 1,
+    "UniqueName": "Market_Taco_Sub",
+    "NameHash": 2554300422,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [],
+    "PlayerPoints": [
+      {
+        "x": 0.9,
+        "y": 3.0
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": -1.49011612E-08
+    },
+    "Size": {
+      "x": 0.719287455,
+      "y": 0.3329065
+    },
+    "DestroyDuration": 2.16666675,
+    "RemainTime": 3.0,
+    "JumpAble": true,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "UniqueName": "Park_BoxWood1",
+    "NameHash": 1490731260,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.109,
+        "y": -0.498
+      },
+      {
+        "x": -0.111,
+        "y": 0.501
+      },
+      {
+        "x": -0.684,
+        "y": 0.002
+      },
+      {
+        "x": 0.686,
+        "y": -0.00200000126
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.109,
+        "y": -0.498
+      },
+      {
+        "x": -0.111,
+        "y": 0.501
+      },
+      {
+        "x": -0.6840001,
+        "y": 0.00199999847
+      },
+      {
+        "x": 0.686,
+        "y": -0.002
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 2.98023224E-08,
+      "y": -1.49011612E-08
+    },
+    "Size": {
+      "x": 0.7374219,
+      "y": 0.364430428
+    },
+    "DestroyDuration": 2.2,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "UniqueName": "Park_BoxWood2",
+    "NameHash": 2751673510,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.128,
+        "y": -0.518
+      },
+      {
+        "x": -0.127,
+        "y": 0.534
+      },
+      {
+        "x": -0.719,
+        "y": 0.0
+      },
+      {
+        "x": 0.721,
+        "y": 0.0
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.128,
+        "y": -0.518
+      },
+      {
+        "x": -0.127,
+        "y": 0.534
+      },
+      {
+        "x": -0.719,
+        "y": 0.0
+      },
+      {
+        "x": 0.721,
+        "y": 0.0
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Size": {
+      "x": 0.85,
+      "y": 0.75
+    },
+    "DestroyDuration": 1.33333337,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "UniqueName": "Park_BoxWood3",
+    "NameHash": 2987748946,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.167,
+        "y": -0.731
+      },
+      {
+        "x": -0.157,
+        "y": 0.723
+      },
+      {
+        "x": -0.752000034,
+        "y": -0.129
+      },
+      {
+        "x": 0.756,
+        "y": 0.121999994
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.167000011,
+        "y": -0.731
+      },
+      {
+        "x": -0.157,
+        "y": 0.723
+      },
+      {
+        "x": -0.752,
+        "y": -0.129
+      },
+      {
+        "x": 0.756,
+        "y": 0.122
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.02,
+      "y": -1.49011612E-08
+    },
+    "Size": {
+      "x": 0.48,
+      "y": 0.65
+    },
+    "DestroyDuration": 2.266667,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Park_MachineCotton",
+    "NameHash": 3166874642,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.015999781,
+        "y": -0.672000051
+      },
+      {
+        "x": 0.01,
+        "y": 0.675
+      },
+      {
+        "x": -0.548,
+        "y": -0.063
+      },
+      {
+        "x": 0.589,
+        "y": 0.075
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.016,
+        "y": -0.672
+      },
+      {
+        "x": 0.010000186,
+        "y": 0.6750001
+      },
+      {
+        "x": -0.548,
+        "y": -0.06300008
+      },
+      {
+        "x": 0.589000046,
+        "y": 0.07499996
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": 1.04308128E-07
+    },
+    "Size": {
+      "x": 0.57,
+      "y": 0.64
+    },
+    "DestroyDuration": 1.66666675,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Park_Trashcan",
+    "NameHash": 3946538171,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": -0.051,
+        "y": -0.646
+      },
+      {
+        "x": 0.052,
+        "y": 0.65
+      },
+      {
+        "x": -0.626,
+        "y": -0.06100017
+      },
+      {
+        "x": 0.62,
+        "y": 0.05
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": -0.0509999953,
+        "y": -0.646000147
+      },
+      {
+        "x": 0.0519997552,
+        "y": 0.650000036
+      },
+      {
+        "x": -0.626,
+        "y": -0.061
+      },
+      {
+        "x": 0.619999945,
+        "y": 0.0499997921
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": -0.000333428383
+    },
+    "Size": {
+      "x": 1.2,
+      "y": 2.01
+    },
+    "DestroyDuration": 2.66666675,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "ObstacleHeightType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "UniqueName": "Park_TruckPopcorn",
+    "NameHash": 2301086345,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.35,
+        "y": -1.34
+      },
+      {
+        "x": 0.35,
+        "y": 1.337
+      },
+      {
+        "x": -0.932,
+        "y": 0.754
+      },
+      {
+        "x": 0.934,
+        "y": 0.752
+      },
+      {
+        "x": -0.343,
+        "y": -1.34
+      },
+      {
+        "x": -0.349000156,
+        "y": 1.337
+      },
+      {
+        "x": -0.935,
+        "y": -0.745
+      },
+      {
+        "x": 0.929999948,
+        "y": -0.7419999
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.350000232,
+        "y": -1.34000015
+      },
+      {
+        "x": 0.349999666,
+        "y": 1.337
+      },
+      {
+        "x": -0.932000041,
+        "y": 0.753999949
+      },
+      {
+        "x": 0.933999956,
+        "y": 0.752
+      },
+      {
+        "x": -0.342999876,
+        "y": -1.34000015
+      },
+      {
+        "x": -0.349,
+        "y": 1.337
+      },
+      {
+        "x": -0.934999943,
+        "y": -0.745
+      },
+      {
+        "x": 0.93,
+        "y": -0.742
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 0.7,
+      "y": 0.7
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": 0.006397292
+    },
+    "Size": {
+      "x": 1.15,
+      "y": 0.4471359
+    },
+    "DestroyDuration": 2.0,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 1,
+    "UniqueName": "Ruins_Baricade",
+    "NameHash": 2295735135,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.147,
+        "y": -0.527
+      },
+      {
+        "x": -0.147,
+        "y": 0.534
+      },
+      {
+        "x": -0.834,
+        "y": 0.0
+      },
+      {
+        "x": 0.901,
+        "y": 0.0
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.147,
+        "y": -0.527
+      },
+      {
+        "x": -0.147,
+        "y": 0.534
+      },
+      {
+        "x": -0.834,
+        "y": 0.0
+      },
+      {
+        "x": 0.901,
+        "y": 0.0
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": -0.04
+    },
+    "Size": {
+      "x": 1.79,
+      "y": 3.61
+    },
+    "DestroyDuration": 2.0,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "ObstacleHeightType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Ruins_CarBlack",
+    "NameHash": 1349745209,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.656,
+        "y": -2.152
+      },
+      {
+        "x": 0.657,
+        "y": 2.03999949
+      },
+      {
+        "x": -1.124,
+        "y": 1.457
+      },
+      {
+        "x": 1.23199975,
+        "y": 1.457
+      },
+      {
+        "x": -0.588,
+        "y": -2.144
+      },
+      {
+        "x": -0.588,
+        "y": 2.03
+      },
+      {
+        "x": -1.125,
+        "y": -1.53799987
+      },
+      {
+        "x": 1.19899976,
+        "y": -1.531
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.656,
+        "y": -2.152
+      },
+      {
+        "x": 0.657,
+        "y": 2.04
+      },
+      {
+        "x": -1.124,
+        "y": 1.457
+      },
+      {
+        "x": 1.232,
+        "y": 1.457
+      },
+      {
+        "x": -0.588,
+        "y": -2.144
+      },
+      {
+        "x": -0.588,
+        "y": 2.03
+      },
+      {
+        "x": -1.125,
+        "y": -1.538
+      },
+      {
+        "x": 1.199,
+        "y": -1.531
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": -0.00491684675,
+      "y": 0.09736848
+    },
+    "Size": {
+      "x": 1.52695215,
+      "y": 1.60318351
+    },
+    "DestroyDuration": 3.33333349,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Ruins_IronPipe",
+    "NameHash": 1860100752,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.515,
+        "y": -1.028
+      },
+      {
+        "x": 0.0559999943,
+        "y": 1.303
+      },
+      {
+        "x": -1.102,
+        "y": -0.45
+      },
+      {
+        "x": 1.093,
+        "y": 0.644
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.515,
+        "y": -1.028
+      },
+      {
+        "x": 0.056,
+        "y": 1.303
+      },
+      {
+        "x": -1.102,
+        "y": -0.45
+      },
+      {
+        "x": 1.093,
+        "y": 0.644
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Size": {
+      "x": 0.8,
+      "y": 0.34
+    },
+    "DestroyDuration": 2.0,
+    "RemainTime": 3.0,
+    "JumpAble": true,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 1,
+    "UniqueName": "Ruins_Stone1",
+    "NameHash": 205963632,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.150999814,
+        "y": -0.499000132
+      },
+      {
+        "x": -0.147999927,
+        "y": 0.496000081
+      },
+      {
+        "x": -0.727,
+        "y": -0.0010000281
+      },
+      {
+        "x": 0.729000032,
+        "y": 0.0009999825
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.151,
+        "y": -0.499
+      },
+      {
+        "x": -0.148,
+        "y": 0.496
+      },
+      {
+        "x": -0.727,
+        "y": -0.001
+      },
+      {
+        "x": 0.729,
+        "y": 0.001
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": -0.03,
+      "y": 0.0
+    },
+    "Size": {
+      "x": 0.83,
+      "y": 0.37
+    },
+    "DestroyDuration": 2.33333349,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 1,
+    "UniqueName": "Ruins_Stone2",
+    "NameHash": 860454670,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.141999826,
+        "y": -0.521000147
+      },
+      {
+        "x": -0.200999945,
+        "y": 0.5090001
+      },
+      {
+        "x": -0.778,
+        "y": 0.00100002065
+      },
+      {
+        "x": 0.715000033,
+        "y": 0.0120000243
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.142,
+        "y": -0.521
+      },
+      {
+        "x": -0.201,
+        "y": 0.509
+      },
+      {
+        "x": -0.778,
+        "y": 0.001
+      },
+      {
+        "x": 0.715,
+        "y": 0.012
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.07062939,
+      "y": -0.0456877351
+    },
+    "Size": {
+      "x": 1.061588,
+      "y": 0.7677193
+    },
+    "DestroyDuration": 2.0,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Ruins_Tires",
+    "NameHash": 3722678188,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.357000023,
+        "y": -0.728
+      },
+      {
+        "x": -0.218,
+        "y": 0.63
+      },
+      {
+        "x": -0.7699999,
+        "y": -0.159999982
+      },
+      {
+        "x": 0.897,
+        "y": 0.07699999
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.357,
+        "y": -0.728
+      },
+      {
+        "x": -0.218,
+        "y": 0.63
+      },
+      {
+        "x": -0.77,
+        "y": -0.16
+      },
+      {
+        "x": 0.897,
+        "y": 0.077
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": -2.98023224E-08
+    },
+    "Size": {
+      "x": 0.74,
+      "y": 0.28
+    },
+    "DestroyDuration": 1.50000012,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "School_Baricade",
+    "NameHash": 3583607172,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.126,
+        "y": -0.481
+      },
+      {
+        "x": -0.126,
+        "y": 0.482
+      },
+      {
+        "x": -0.74,
+        "y": -0.007000004
+      },
+      {
+        "x": 0.751,
+        "y": -0.002
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.126,
+        "y": -0.481
+      },
+      {
+        "x": -0.126,
+        "y": 0.482
+      },
+      {
+        "x": -0.74,
+        "y": -0.007
+      },
+      {
+        "x": 0.751,
+        "y": -0.002000004
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Size": {
+      "x": 0.84,
+      "y": 0.44
+    },
+    "DestroyDuration": 1.50000012,
+    "RemainTime": 3.0,
+    "JumpAble": true,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "School_BaricadeSports",
+    "NameHash": 511389189,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.162,
+        "y": -0.562
+      },
+      {
+        "x": -0.158,
+        "y": 0.563
+      },
+      {
+        "x": -0.758,
+        "y": 0.049
+      },
+      {
+        "x": 0.764,
+        "y": -0.03599999
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.162,
+        "y": -0.562
+      },
+      {
+        "x": -0.158,
+        "y": 0.563
+      },
+      {
+        "x": -0.758,
+        "y": 0.048999995
+      },
+      {
+        "x": 0.764,
+        "y": -0.036
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.01340282,
+      "y": -0.01
+    },
+    "Size": {
+      "x": 0.87,
+      "y": 0.48
+    },
+    "DestroyDuration": 1.66666675,
+    "RemainTime": 3.0,
+    "JumpAble": true,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "UniqueName": "School_Chair",
+    "NameHash": 4235220743,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.2,
+        "y": -0.583
+      },
+      {
+        "x": -0.152,
+        "y": 0.578
+      },
+      {
+        "x": -0.771,
+        "y": -0.001
+      },
+      {
+        "x": 0.783,
+        "y": -0.003
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.199999988,
+        "y": -0.583
+      },
+      {
+        "x": -0.152,
+        "y": 0.578
+      },
+      {
+        "x": -0.771,
+        "y": -0.0009999909
+      },
+      {
+        "x": 0.783,
+        "y": -0.00299999118
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Size": {
+      "x": 0.94,
+      "y": 0.48
+    },
+    "DestroyDuration": 1.2,
+    "RemainTime": 3.0,
+    "JumpAble": true,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "School_ChairSports",
+    "NameHash": 1526575480,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.227,
+        "y": -0.573
+      },
+      {
+        "x": -0.228,
+        "y": 0.581
+      },
+      {
+        "x": -0.797,
+        "y": 0.0
+      },
+      {
+        "x": 0.794,
+        "y": 0.0
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.227,
+        "y": -0.573
+      },
+      {
+        "x": -0.228,
+        "y": 0.581
+      },
+      {
+        "x": -0.797,
+        "y": 0.0
+      },
+      {
+        "x": 0.794,
+        "y": 0.0
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.6,
+      "y": 1.6
+    },
+    "Offset": {
+      "x": 0.000875651836,
+      "y": 0.0
+    },
+    "Size": {
+      "x": 0.46,
+      "y": 0.8
+    },
+    "DestroyDuration": 2.0,
+    "RemainTime": 3.0,
+    "ObstacleHeightType": 1,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "School_Closet",
+    "NameHash": 965900908,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [],
+    "PlayerPoints": []
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.6,
+      "y": 1.6
+    },
+    "Offset": {
+      "x": 0.81,
+      "y": 0.06
+    },
+    "Size": {
+      "x": 2.5,
+      "y": 1.0
+    },
+    "DestroyDuration": 2.0,
+    "RemainTime": 3.0,
+    "Indestructible": true,
+    "ObstacleHeightType": 1,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "School_Closet_Sub",
+    "NameHash": 767723105,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [],
+    "PlayerPoints": []
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 1.1920929E-07,
+      "y": 2.98023224E-08
+    },
+    "Size": {
+      "x": 0.67,
+      "y": 0.44
+    },
+    "DestroyDuration": 1.4666667,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "School_Desk",
+    "NameHash": 2698628198,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.075,
+        "y": -0.564
+      },
+      {
+        "x": -0.07100001,
+        "y": 0.567
+      },
+      {
+        "x": -0.649,
+        "y": 0.047
+      },
+      {
+        "x": 0.656,
+        "y": -0.034
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.07499999,
+        "y": -0.564
+      },
+      {
+        "x": -0.071,
+        "y": 0.567
+      },
+      {
+        "x": -0.649,
+        "y": 0.04699999
+      },
+      {
+        "x": 0.656,
+        "y": -0.03400001
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": -1.1920929E-07,
+      "y": -1.1920929E-07
+    },
+    "Size": {
+      "x": 1.21436191,
+      "y": 1.27711248
+    },
+    "DestroyDuration": 1.66666675,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 1,
+    "UniqueName": "School_Dumbley",
+    "NameHash": 2887366745,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.359,
+        "y": -0.991
+      },
+      {
+        "x": -0.345,
+        "y": 0.976
+      },
+      {
+        "x": -0.931,
+        "y": -0.357
+      },
+      {
+        "x": 0.941,
+        "y": 0.373
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.358999968,
+        "y": -0.991
+      },
+      {
+        "x": -0.345,
+        "y": 0.976
+      },
+      {
+        "x": -0.931,
+        "y": -0.357
+      },
+      {
+        "x": 0.941,
+        "y": 0.373
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": -0.03,
+      "y": 0.0
+    },
+    "Size": {
+      "x": 1.07,
+      "y": 2.33
+    },
+    "DestroyDuration": 1.7,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "ObstacleHeightType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "School_Goalpost",
+    "NameHash": 2813384199,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.258999944,
+        "y": -1.524
+      },
+      {
+        "x": 0.25699994,
+        "y": 1.542
+      },
+      {
+        "x": -0.852,
+        "y": -0.919
+      },
+      {
+        "x": 0.852,
+        "y": -0.907
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.259,
+        "y": -1.524
+      },
+      {
+        "x": 0.257,
+        "y": 1.542
+      },
+      {
+        "x": -0.852,
+        "y": -0.919
+      },
+      {
+        "x": 0.852,
+        "y": -0.907
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.01,
+      "y": -0.03
+    },
+    "Size": {
+      "x": 0.33,
+      "y": 0.37
+    },
+    "DestroyDuration": 1.7,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "UniqueName": "School_Liner",
+    "NameHash": 4057206794,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.013,
+        "y": -0.549
+      },
+      {
+        "x": 0.009000093,
+        "y": 0.5009999
+      },
+      {
+        "x": -0.492,
+        "y": -0.018
+      },
+      {
+        "x": 0.522,
+        "y": 0.0
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.01300019,
+        "y": -0.549
+      },
+      {
+        "x": 0.009,
+        "y": 0.501
+      },
+      {
+        "x": -0.491999984,
+        "y": -0.017999839
+      },
+      {
+        "x": 0.522,
+        "y": 1.1920929E-07
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.00569918752,
+      "y": -0.000256940722
+    },
+    "Size": {
+      "x": 0.51,
+      "y": 0.75
+    },
+    "DestroyDuration": 1.73333347,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "School_Locker",
+    "NameHash": 4014483121,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": -0.00199975073,
+        "y": -0.7199999
+      },
+      {
+        "x": -0.004,
+        "y": 0.713
+      },
+      {
+        "x": -0.5899999,
+        "y": -0.118
+      },
+      {
+        "x": 0.5969999,
+        "y": 0.08900005
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": -0.002,
+        "y": -0.72
+      },
+      {
+        "x": -0.004000038,
+        "y": 0.71299994
+      },
+      {
+        "x": -0.59,
+        "y": -0.118
+      },
+      {
+        "x": 0.597,
+        "y": 0.089
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Size": {
+      "x": 1.1,
+      "y": 1.09
+    },
+    "DestroyDuration": 1.76666677,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "School_LockerLying",
+    "NameHash": 3777631110,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.300999969,
+        "y": -0.882
+      },
+      {
+        "x": 0.302000284,
+        "y": 0.8799998
+      },
+      {
+        "x": -0.761,
+        "y": 0.3
+      },
+      {
+        "x": 0.827,
+        "y": 0.3
+      },
+      {
+        "x": -0.245,
+        "y": -0.882
+      },
+      {
+        "x": -0.245,
+        "y": 0.877
+      },
+      {
+        "x": -0.76,
+        "y": -0.299
+      },
+      {
+        "x": 0.828999758,
+        "y": -0.299
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.301,
+        "y": -0.882
+      },
+      {
+        "x": 0.302,
+        "y": 0.88
+      },
+      {
+        "x": -0.7610003,
+        "y": 0.3000003
+      },
+      {
+        "x": 0.82700026,
+        "y": 0.30000028
+      },
+      {
+        "x": -0.244999766,
+        "y": -0.8819997
+      },
+      {
+        "x": -0.244999766,
+        "y": 0.877000332
+      },
+      {
+        "x": -0.759999752,
+        "y": -0.298999637
+      },
+      {
+        "x": 0.829,
+        "y": -0.298999637
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": -2.98023224E-08,
+      "y": 0.0
+    },
+    "Size": {
+      "x": 0.71,
+      "y": 0.72
+    },
+    "DestroyDuration": 1.66666675,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 1,
+    "UniqueName": "School_Toolbox",
+    "NameHash": 4011999045,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.099,
+        "y": -0.699
+      },
+      {
+        "x": -0.09900001,
+        "y": 0.697
+      },
+      {
+        "x": -0.679,
+        "y": -0.112
+      },
+      {
+        "x": 0.702,
+        "y": 0.09799999
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.09900001,
+        "y": -0.699
+      },
+      {
+        "x": -0.099,
+        "y": 0.697
+      },
+      {
+        "x": -0.679,
+        "y": -0.112
+      },
+      {
+        "x": 0.702,
+        "y": 0.098
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 5.96046448E-08,
+      "y": 0.0075497143
+    },
+    "Size": {
+      "x": 2.13,
+      "y": 0.88
+    },
+    "PreDuration": 1.9000001,
+    "DestroyDuration": 2.33333349,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "UniqueName": "Shimiko_Original_Book",
+    "NameHash": 1280928891,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [],
+    "PlayerPoints": [
+      {
+        "x": 0.197,
+        "y": -0.682
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.000795140862,
+      "y": 0.0
+    },
+    "Size": {
+      "x": 0.370501161,
+      "y": 0.236974478
+    },
+    "DestroyDuration": 1.86666679,
+    "RemainTime": 3.0,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "SweeperFactory_Shield",
+    "NameHash": 3784937182,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [],
+    "PlayerPoints": []
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.00149923563,
+      "y": -1.34110451E-07
+    },
+    "Size": {
+      "x": 1.22318041,
+      "y": 0.236974567
+    },
+    "DestroyDuration": 1.4333334,
+    "RemainTime": 3.0,
+    "Indestructible": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "SweeperFactory_Shield_Sub",
+    "NameHash": 1109131538,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [],
+    "PlayerPoints": []
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Size": {
+      "x": 0.1,
+      "y": 0.1
+    },
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Tank_Cover",
+    "NameHash": 2370545868,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [],
+    "PlayerPoints": [
+      {
+        "x": 0.0,
+        "y": -2.5
+      },
+      {
+        "x": 0.0,
+        "y": -3.5
+      },
+      {
+        "x": -1.031,
+        "y": -2.5
+      },
+      {
+        "x": 1.039,
+        "y": -2.5
+      }
+    ]
+  }
+]
