@@ -4,7 +4,7 @@
       "EventContentId": 10001,
       "CharacterId": 13010,
       "EventContentItemType": [
-        770900977,
+        "EventPoint",
         "EventToken1"
       ],
       "BonusAmount": [
@@ -16,7 +16,7 @@
       "EventContentId": 10001,
       "CharacterId": 16003,
       "EventContentItemType": [
-        770900977,
+        "EventPoint",
         "EventToken2",
         "EventToken3"
       ],
@@ -30,7 +30,7 @@
       "EventContentId": 10002,
       "CharacterId": 13003,
       "EventContentItemType": [
-        770900977,
+        "EventPoint",
         "EventToken1",
         "EventToken2"
       ],

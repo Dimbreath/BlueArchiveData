@@ -6,10 +6,10 @@
       "PrefabPath": "Academy/Location_SchaleOffice",
       "IconImagePath": "UIs/00_Images/BigBtn/Location_Image_01",
       "OpenCondition": [
-        1914531444
+        "None"
       ],
       "OpenConditionCount": [
-        5033339529774067316
+        0
       ],
       "RewardParcelType": "Item",
       "RewardParcelId": 60000,
