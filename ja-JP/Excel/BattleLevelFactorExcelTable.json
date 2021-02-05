@@ -1,206 +1,127 @@
 {
   "DataList": [
     {
-      "LevelDiff": -50,
-      "DamageRate": 2500
-    },
-    {
-      "LevelDiff": -49,
-      "DamageRate": 2653
-    },
-    {
-      "LevelDiff": -48,
-      "DamageRate": 2806
-    },
-    {
-      "LevelDiff": -47,
-      "DamageRate": 2959
-    },
-    {
-      "LevelDiff": -46,
-      "DamageRate": 3112
-    },
-    {
-      "LevelDiff": -45,
-      "DamageRate": 3265
-    },
-    {
-      "LevelDiff": -44,
-      "DamageRate": 3418
-    },
-    {
-      "LevelDiff": -43,
-      "DamageRate": 3571
-    },
-    {
-      "LevelDiff": -42,
-      "DamageRate": 3724
-    },
-    {
-      "LevelDiff": -41,
-      "DamageRate": 3877
-    },
-    {
-      "LevelDiff": -40,
-      "DamageRate": 4030
-    },
-    {
-      "LevelDiff": -39,
-      "DamageRate": 4183
-    },
-    {
-      "LevelDiff": -38,
-      "DamageRate": 4336
-    },
-    {
-      "LevelDiff": -37,
-      "DamageRate": 4489
-    },
-    {
-      "LevelDiff": -36,
-      "DamageRate": 4642
-    },
-    {
-      "LevelDiff": -35,
-      "DamageRate": 4795
-    },
-    {
-      "LevelDiff": -34,
-      "DamageRate": 4948
-    },
-    {
-      "LevelDiff": -33,
-      "DamageRate": 5101
-    },
-    {
-      "LevelDiff": -32,
-      "DamageRate": 5254
-    },
-    {
-      "LevelDiff": -31,
-      "DamageRate": 5407
-    },
-    {
       "LevelDiff": -30,
-      "DamageRate": 5560
+      "DamageRate": 4000
     },
     {
       "LevelDiff": -29,
-      "DamageRate": 5713
+      "DamageRate": 4200
     },
     {
       "LevelDiff": -28,
-      "DamageRate": 5866
+      "DamageRate": 4400
     },
     {
       "LevelDiff": -27,
-      "DamageRate": 6019
+      "DamageRate": 4600
     },
     {
       "LevelDiff": -26,
-      "DamageRate": 6172
+      "DamageRate": 4800
     },
     {
       "LevelDiff": -25,
-      "DamageRate": 6325
+      "DamageRate": 5000
     },
     {
       "LevelDiff": -24,
-      "DamageRate": 6478
+      "DamageRate": 5200
     },
     {
       "LevelDiff": -23,
-      "DamageRate": 6631
+      "DamageRate": 5400
     },
     {
       "LevelDiff": -22,
-      "DamageRate": 6784
+      "DamageRate": 5600
     },
     {
       "LevelDiff": -21,
-      "DamageRate": 6937
+      "DamageRate": 5800
     },
     {
       "LevelDiff": -20,
-      "DamageRate": 7090
+      "DamageRate": 6000
     },
     {
       "LevelDiff": -19,
-      "DamageRate": 7243
+      "DamageRate": 6200
     },
     {
       "LevelDiff": -18,
-      "DamageRate": 7396
+      "DamageRate": 6400
     },
     {
       "LevelDiff": -17,
-      "DamageRate": 7549
+      "DamageRate": 6600
     },
     {
       "LevelDiff": -16,
-      "DamageRate": 7702
+      "DamageRate": 6800
     },
     {
       "LevelDiff": -15,
-      "DamageRate": 7855
+      "DamageRate": 7000
     },
     {
       "LevelDiff": -14,
-      "DamageRate": 8008
+      "DamageRate": 7200
     },
     {
       "LevelDiff": -13,
-      "DamageRate": 8161
+      "DamageRate": 7400
     },
     {
       "LevelDiff": -12,
-      "DamageRate": 8314
+      "DamageRate": 7600
     },
     {
       "LevelDiff": -11,
-      "DamageRate": 8467
+      "DamageRate": 7800
     },
     {
       "LevelDiff": -10,
-      "DamageRate": 8620
+      "DamageRate": 8000
     },
     {
       "LevelDiff": -9,
-      "DamageRate": 8773
+      "DamageRate": 8200
     },
     {
       "LevelDiff": -8,
-      "DamageRate": 8926
+      "DamageRate": 8400
     },
     {
       "LevelDiff": -7,
-      "DamageRate": 9079
+      "DamageRate": 8600
     },
     {
       "LevelDiff": -6,
-      "DamageRate": 9232
+      "DamageRate": 8800
     },
     {
       "LevelDiff": -5,
-      "DamageRate": 9385
+      "DamageRate": 9000
     },
     {
       "LevelDiff": -4,
-      "DamageRate": 9538
+      "DamageRate": 9200
     },
     {
       "LevelDiff": -3,
-      "DamageRate": 9691
+      "DamageRate": 9400
     },
     {
       "LevelDiff": -2,
-      "DamageRate": 9844
+      "DamageRate": 9600
     },
     {
       "LevelDiff": -1,
-      "DamageRate": 9997
+      "DamageRate": 9800
     },
     {
+      "LevelDiff": 0,
       "DamageRate": 10000
     }
   ]

@@ -1,0 +1,88 @@
+{
+  "DataList": [
+    {
+      "EventContentId": 10001,
+      "Name": "Event",
+      "EventContentType": "Stage",
+      "OpenConditionContent": "EventStage_1",
+      "ContentLockType": "EventStage_1",
+      "EventDisplay": true,
+      "EventItemId": 23,
+      "BeforehandExposedTime": "2020-09-16 00:00:01",
+      "EventContentOpenTIme": "2020-09-17 00:00:01",
+      "EventContentCloseTIme": "2020-09-21 17:59:01",
+      "ExtensionTime": "2020-09-23 00:00:01",
+      "MainIconParcelPath": "UIs/01_Common/27_EventContent/Enter_Parcel/Event_Enter_Parcel_Dummy",
+      "SubIconParcelPath": "UIs/01_Common/27_EventContent/Enter_Parcel/Event_Enter_Parcel_Dummy",
+      "BeforehandBgImagePath": "UIs/01_Common/27_EventContent/Beforehand/BeforeHand_Event_Dummy",
+      "BeforehandScenarioGroupId": [
+        1100000
+      ],
+      "MainPortraitCharacterID": 19003,
+      "MainBannerImagePath": "UIs/01_Common/27_EventContent/Enter_Parcel/Event_Banner_Dummy",
+      "MainBgImagePath": "UIs/01_Common/27_EventContent/Main_BgImage/Event_Main_Stage_Bg"
+    },
+    {
+      "EventContentId": 10001,
+      "Name": "EventContent_1",
+      "EventContentType": "Mission",
+      "OpenConditionContent": "EventStage_1",
+      "ContentLockType": "EventStage_1",
+      "EventDisplay": false,
+      "EventItemId": 0,
+      "BeforehandExposedTime": "2020-09-16 00:00:01",
+      "EventContentOpenTIme": "2020-09-17 00:00:01",
+      "EventContentCloseTIme": "2020-09-21 17:59:01",
+      "ExtensionTime": "2020-09-23 00:00:01",
+      "MainIconParcelPath": null,
+      "SubIconParcelPath": null,
+      "BeforehandBgImagePath": null,
+      "BeforehandScenarioGroupId": [],
+      "MainPortraitCharacterID": 0,
+      "MainBannerImagePath": null,
+      "MainBgImagePath": null
+    },
+    {
+      "EventContentId": 10001,
+      "Name": "EventContent_1",
+      "EventContentType": "Shop",
+      "OpenConditionContent": "EventStage_1",
+      "ContentLockType": "EventStage_1",
+      "EventDisplay": false,
+      "EventItemId": 0,
+      "BeforehandExposedTime": "2020-09-16 00:00:01",
+      "EventContentOpenTIme": "2020-09-17 00:00:01",
+      "EventContentCloseTIme": "2020-09-21 17:59:01",
+      "ExtensionTime": "2020-09-23 00:00:01",
+      "MainIconParcelPath": null,
+      "SubIconParcelPath": null,
+      "BeforehandBgImagePath": null,
+      "BeforehandScenarioGroupId": [],
+      "MainPortraitCharacterID": 0,
+      "MainBannerImagePath": null,
+      "MainBgImagePath": null
+    },
+    {
+      "EventContentId": 10002,
+      "Name": "EventContent_2",
+      "EventContentType": "Stage",
+      "OpenConditionContent": "EventStage_2",
+      "ContentLockType": "EventStage_2",
+      "EventDisplay": true,
+      "EventItemId": 23,
+      "BeforehandExposedTime": "2020-09-16 00:00:01",
+      "EventContentOpenTIme": "2020-09-17 00:00:01",
+      "EventContentCloseTIme": "2020-09-21 17:59:01",
+      "ExtensionTime": "2020-09-23 00:00:01",
+      "MainIconParcelPath": "UIs/01_Common/27_EventContent/Enter_Parcel/Event_Enter_Parcel_Dummy",
+      "SubIconParcelPath": "UIs/01_Common/27_EventContent/Enter_Parcel/Event_Enter_Parcel_Dummy",
+      "BeforehandBgImagePath": "UIs/01_Common/27_EventContent/Beforehand/BeforeHand_Event_Dummy",
+      "BeforehandScenarioGroupId": [
+        9998702
+      ],
+      "MainPortraitCharacterID": 10000,
+      "MainBannerImagePath": "UIs/01_Common/27_EventContent/Enter_Parcel/Event_Banner_Dummy",
+      "MainBgImagePath": "UIs/01_Common/27_EventContent/Main_BgImage/Event_Main_Stage_Bg"
+    }
+  ]
+}

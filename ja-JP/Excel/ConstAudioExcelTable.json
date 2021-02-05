@@ -3,7 +3,11 @@
     {
       "DefaultSFXVolume": 0.85,
       "DefaultVoiceVolume": 1.0,
-      "DefaultBGMVolume": 0.9
+      "DefaultBGMVolume": 0.72,
+      "DefaultSnapShotName": "Organize",
+      "BattleSnapShotName": "DefaultMix",
+      "RaidSnapShotName": "Raid",
+      "ExSkillCutInSnapShotName": "ExSkill"
     }
   ]
 }

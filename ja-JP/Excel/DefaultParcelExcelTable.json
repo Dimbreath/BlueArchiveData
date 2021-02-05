@@ -10,13 +10,13 @@
       "ParcelType": "Currency",
       "ParcelId": 3,
       "ParcelDevName": "GemBonus",
-      "ParcelAmount": 2000
+      "ParcelAmount": 600
     },
     {
       "ParcelType": "Currency",
-      "ParcelId": 6,
+      "ParcelId": 5,
       "ParcelDevName": "AP",
-      "ParcelAmount": 26
+      "ParcelAmount": 24
     },
     {
       "ParcelType": "Currency",
@@ -32,9 +32,33 @@
     },
     {
       "ParcelType": "Currency",
-      "ParcelId": 12,
+      "ParcelId": 6,
       "ParcelDevName": "AcademyTicket",
       "ParcelAmount": 3
+    },
+    {
+      "ParcelType": "Currency",
+      "ParcelId": 9,
+      "ParcelDevName": "WeekDungeonChaserATicket",
+      "ParcelAmount": 2
+    },
+    {
+      "ParcelType": "Currency",
+      "ParcelId": 12,
+      "ParcelDevName": "WeekDungeonChaserBTicket",
+      "ParcelAmount": 2
+    },
+    {
+      "ParcelType": "Currency",
+      "ParcelId": 13,
+      "ParcelDevName": "WeekDungeonChaserCTicket",
+      "ParcelAmount": 2
+    },
+    {
+      "ParcelType": "Item",
+      "ParcelId": 2,
+      "ParcelDevName": "CraftSkipItem",
+      "ParcelAmount": 5
     }
   ]
 }

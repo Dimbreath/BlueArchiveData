@@ -3,428 +3,1579 @@
     {
       "EquipmentId": 1,
       "DevName": "하급 장비 강화석",
-      "StatAType": "AttackPower_Base",
-      "StatALength": 48,
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
       "LevelUpInsertLimit": 20,
-      "LevelUpFeedExp": 30,
+      "LevelUpFeedExp": 90,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
       "DefaultMaxLevel": 1,
-      "TranscendenceMax": 5
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
     },
     {
       "EquipmentId": 2,
       "DevName": "일반 장비 강화석",
-      "StatAType": "AttackPower_Base",
-      "StatALength": 48,
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
       "LevelUpInsertLimit": 20,
-      "LevelUpFeedExp": 120,
+      "LevelUpFeedExp": 360,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
       "DefaultMaxLevel": 1,
-      "TranscendenceMax": 5
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
     },
     {
       "EquipmentId": 3,
       "DevName": "상급 장비 강화석",
-      "StatAType": "AttackPower_Base",
-      "StatALength": 48,
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
       "LevelUpInsertLimit": 20,
-      "LevelUpFeedExp": 480,
+      "LevelUpFeedExp": 1440,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
       "DefaultMaxLevel": 1,
-      "TranscendenceMax": 5
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
     },
     {
       "EquipmentId": 4,
       "DevName": "최상급 장비 강화석",
-      "StatAType": "AttackPower_Base",
-      "StatALength": 48,
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
       "LevelUpInsertLimit": 20,
-      "LevelUpFeedExp": 1920,
+      "LevelUpFeedExp": 5760,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
       "DefaultMaxLevel": 1,
-      "TranscendenceMax": 5
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
     },
     {
-      "EquipmentId": 101101,
-      "DevName": "노브랜드 캡모자",
-      "StatAType": "MaxHP_Base",
-      "StatALength": 60,
+      "EquipmentId": 1000,
+      "DevName": "Hat_Tier1 - 공격력 %",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Coefficient"
+      ],
+      "MinStat": [
+        500
+      ],
+      "MaxStat": [
+        800
+      ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
-      "EquipmentCategory": "Hat_Cap",
-      "LevelUpFeedAddExp": 10,
-      "DefaultMaxLevel": 30,
-      "TranscendenceMax": 5
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 10,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
     },
     {
-      "EquipmentId": 101201,
-      "DevName": "왕솜 털모자",
-      "StatAType": "MaxHP_Base",
-      "StatALength": 60,
+      "EquipmentId": 1001,
+      "DevName": "Hat_Tier2 - 공격력 %",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Coefficient"
+      ],
+      "MinStat": [
+        1000
+      ],
+      "MaxStat": [
+        1300
+      ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
-      "EquipmentCategory": "Hat_Wool",
-      "LevelUpFeedAddExp": 10,
-      "DefaultMaxLevel": 30,
-      "TranscendenceMax": 5
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 20,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
     },
     {
-      "EquipmentId": 101301,
-      "DevName": "시스루 베레모",
-      "StatAType": "MaxHP_Base",
-      "StatALength": 60,
+      "EquipmentId": 1002,
+      "DevName": "Hat_Tier3 - 공격력 %",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Coefficient"
+      ],
+      "MinStat": [
+        1500
+      ],
+      "MaxStat": [
+        1800
+      ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
-      "EquipmentCategory": "Hat_Beret",
-      "LevelUpFeedAddExp": 10,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
       "DefaultMaxLevel": 30,
-      "TranscendenceMax": 5
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
     },
     {
-      "EquipmentId": 102101,
-      "DevName": "가죽 털장갑",
-      "StatAType": "DefensePower_Base",
-      "StatALength": 60,
+      "EquipmentId": 1003,
+      "DevName": "Hat_Tier4 - 공격력 % + 회심 피해",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Coefficient",
+        "CriticalDamageRate_Base"
+      ],
+      "MinStat": [
+        2000,
+        400
+      ],
+      "MaxStat": [
+        2500,
+        800
+      ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
-      "EquipmentCategory": "Gloves_Leather",
-      "LevelUpFeedAddExp": 10,
-      "DefaultMaxLevel": 30,
-      "TranscendenceMax": 5
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 40,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
     },
     {
-      "EquipmentId": 102201,
-      "DevName": "운동장갑",
-      "StatAType": "DefensePower_Base",
-      "StatALength": 60,
+      "EquipmentId": 2000,
+      "DevName": "Gloves_Tier1 - 공격력 %",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Coefficient"
+      ],
+      "MinStat": [
+        400
+      ],
+      "MaxStat": [
+        640
+      ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
-      "EquipmentCategory": "Gloves_Athletic",
-      "LevelUpFeedAddExp": 10,
-      "DefaultMaxLevel": 30,
-      "TranscendenceMax": 5
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 10,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
     },
     {
-      "EquipmentId": 102301,
-      "DevName": "수제 벙어리 장갑",
-      "StatAType": "DefensePower_Base",
-      "StatALength": 60,
+      "EquipmentId": 2001,
+      "DevName": "Gloves_Tier2 - 공격력 %",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Coefficient"
+      ],
+      "MinStat": [
+        800
+      ],
+      "MaxStat": [
+        1040
+      ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
-      "EquipmentCategory": "Gloves_Mittens",
-      "LevelUpFeedAddExp": 10,
-      "DefaultMaxLevel": 30,
-      "TranscendenceMax": 5
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 20,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
     },
     {
-      "EquipmentId": 103101,
-      "DevName": "붉은 스니커즈",
-      "StatAType": "OppressionResist_Base",
-      "StatALength": 60,
+      "EquipmentId": 2002,
+      "DevName": "Gloves_Tier3 - 공격력 %",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Coefficient"
+      ],
+      "MinStat": [
+        1200
+      ],
+      "MaxStat": [
+        1440
+      ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
-      "EquipmentCategory": "Shoes_Sneakers",
-      "LevelUpFeedAddExp": 10,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
       "DefaultMaxLevel": 30,
-      "TranscendenceMax": 5
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
     },
     {
-      "EquipmentId": 103201,
-      "DevName": "윙즈 에나멜 구두",
-      "StatAType": "OppressionResist_Base",
-      "StatALength": 60,
+      "EquipmentId": 2003,
+      "DevName": "Gloves_Tier4 - 공격력 % + 회심 피해",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Coefficient",
+        "CriticalPoint_Base"
+      ],
+      "MinStat": [
+        1600,
+        40
+      ],
+      "MaxStat": [
+        2000,
+        70
+      ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
-      "EquipmentCategory": "Shoes_Enameled",
-      "LevelUpFeedAddExp": 10,
-      "DefaultMaxLevel": 30,
-      "TranscendenceMax": 5
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 40,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
     },
     {
-      "EquipmentId": 103301,
-      "DevName": "슬리퍼",
-      "StatAType": "OppressionResist_Base",
-      "StatALength": 60,
+      "EquipmentId": 3000,
+      "DevName": "Shoes_Tier1 - 공격력 %",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Coefficient"
+      ],
+      "MinStat": [
+        250
+      ],
+      "MaxStat": [
+        400
+      ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
-      "EquipmentCategory": "Shoes_Slippers",
-      "LevelUpFeedAddExp": 10,
-      "DefaultMaxLevel": 30,
-      "TranscendenceMax": 5
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 10,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
     },
     {
-      "EquipmentId": 104101,
-      "DevName": "백팩",
-      "StatAType": "HealPower_Base",
-      "StatALength": 60,
+      "EquipmentId": 3001,
+      "DevName": "Shoes_Tier2 - 공격력 %",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Coefficient"
+      ],
+      "MinStat": [
+        500
+      ],
+      "MaxStat": [
+        650
+      ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
-      "EquipmentCategory": "Bag_Back",
-      "LevelUpFeedAddExp": 10,
-      "DefaultMaxLevel": 30,
-      "TranscendenceMax": 5
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 20,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
     },
     {
-      "EquipmentId": 104201,
-      "DevName": "크로스백",
-      "StatAType": "HealPower_Base",
-      "StatALength": 60,
+      "EquipmentId": 3002,
+      "DevName": "Shoes_Tier3 - 공격력 %",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Coefficient"
+      ],
+      "MinStat": [
+        750
+      ],
+      "MaxStat": [
+        900
+      ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
-      "EquipmentCategory": "Bag_Cross",
-      "LevelUpFeedAddExp": 10,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
       "DefaultMaxLevel": 30,
-      "TranscendenceMax": 5
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
     },
     {
-      "EquipmentId": 104301,
-      "DevName": "스쿨백",
-      "StatAType": "HealPower_Base",
-      "StatALength": 60,
+      "EquipmentId": 3003,
+      "DevName": "Shoes_Tier4 - 공격력 % + 회심 피해",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Coefficient",
+        "MaxHP_Coefficient"
+      ],
+      "MinStat": [
+        1000,
+        300
+      ],
+      "MaxStat": [
+        1250,
+        600
+      ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
-      "EquipmentCategory": "Bag_School",
-      "LevelUpFeedAddExp": 10,
-      "DefaultMaxLevel": 30,
-      "TranscendenceMax": 5
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 40,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
     },
     {
-      "EquipmentId": 105101,
-      "DevName": "스틸 배지",
-      "StatAType": "AttackPower_Coefficient",
-      "StatALength": 60,
+      "EquipmentId": 4000,
+      "DevName": "Bag_Tier1 - 방탱 체력",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "MaxHP_Base"
+      ],
+      "MinStat": [
+        375
+      ],
+      "MaxStat": [
+        600
+      ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
-      "EquipmentCategory": "Badge_Steel",
-      "LevelUpFeedAddExp": 10,
-      "DefaultMaxLevel": 30,
-      "TranscendenceMax": 5
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 10,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
     },
     {
-      "EquipmentId": 105201,
-      "DevName": "봉제인형 배지",
-      "StatAType": "AttackPower_Coefficient",
-      "StatALength": 60,
+      "EquipmentId": 4001,
+      "DevName": "Bag_Tier2 - 방탱 체력",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "MaxHP_Base"
+      ],
+      "MinStat": [
+        750
+      ],
+      "MaxStat": [
+        975
+      ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
-      "EquipmentCategory": "Badge_Stuffed",
-      "LevelUpFeedAddExp": 10,
-      "DefaultMaxLevel": 30,
-      "TranscendenceMax": 5
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 20,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
     },
     {
-      "EquipmentId": 105301,
-      "DevName": "스트링 배지",
-      "StatAType": "AttackPower_Coefficient",
-      "StatALength": 60,
+      "EquipmentId": 4002,
+      "DevName": "Bag_Tier3 - 방탱 체력",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "MaxHP_Base"
+      ],
+      "MinStat": [
+        1125
+      ],
+      "MaxStat": [
+        1350
+      ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
-      "EquipmentCategory": "Badge_String",
-      "LevelUpFeedAddExp": 10,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
       "DefaultMaxLevel": 30,
-      "TranscendenceMax": 5
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
     },
     {
-      "EquipmentId": 106101,
-      "DevName": "핑크색 실크 리본",
-      "StatAType": "OppressionPower_Base",
-      "StatALength": 60,
+      "EquipmentId": 4003,
+      "DevName": "Bag_Tier4 - 방탱 체력 + 방어력",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "MaxHP_Base",
+        "DefensePower_Base"
+      ],
+      "MinStat": [
+        1500,
+        500
+      ],
+      "MaxStat": [
+        1875,
+        1000
+      ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
-      "EquipmentCategory": "Hairpin_Ribbon",
-      "LevelUpFeedAddExp": 10,
-      "DefaultMaxLevel": 30,
-      "TranscendenceMax": 5
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 40,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
     },
     {
-      "EquipmentId": 106201,
-      "DevName": "벚꽃 머리핀",
-      "StatAType": "OppressionPower_Base",
-      "StatALength": 60,
+      "EquipmentId": 5000,
+      "DevName": "Badge_Tier1 - 회피탱 체력",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "MaxHP_Base"
+      ],
+      "MinStat": [
+        500
+      ],
+      "MaxStat": [
+        800
+      ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
-      "EquipmentCategory": "Hairpin_Cherry",
-      "LevelUpFeedAddExp": 10,
-      "DefaultMaxLevel": 30,
-      "TranscendenceMax": 5
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 10,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
     },
     {
-      "EquipmentId": 106301,
-      "DevName": "하트무늬 새틴 슈슈",
-      "StatAType": "OppressionPower_Base",
-      "StatALength": 60,
+      "EquipmentId": 5001,
+      "DevName": "Badge_Tier2 - 회피탱 체력",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "MaxHP_Base"
+      ],
+      "MinStat": [
+        1000
+      ],
+      "MaxStat": [
+        1300
+      ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
-      "EquipmentCategory": "Hairpin_Chouchou",
-      "LevelUpFeedAddExp": 10,
-      "DefaultMaxLevel": 30,
-      "TranscendenceMax": 5
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 20,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
     },
     {
-      "EquipmentId": 107101,
-      "DevName": "부적",
-      "StatAType": "AttackPower_Base",
-      "StatALength": 60,
+      "EquipmentId": 5002,
+      "DevName": "Badge_Tier3 - 회피탱 체력",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "MaxHP_Base"
+      ],
+      "MinStat": [
+        1500
+      ],
+      "MaxStat": [
+        1800
+      ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
-      "EquipmentCategory": "Charm_Oriental",
-      "LevelUpFeedAddExp": 10,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
       "DefaultMaxLevel": 30,
-      "TranscendenceMax": 5
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
     },
     {
-      "EquipmentId": 107201,
-      "DevName": "십자가",
-      "StatAType": "AttackPower_Base",
-      "StatALength": 60,
+      "EquipmentId": 5003,
+      "DevName": "Badge_Tier4 - 회피탱 체력 + 회피탱 체력회복량 증가",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "MaxHP_Base",
+        "HealEffectivenessRate_Base"
+      ],
+      "MinStat": [
+        2000,
+        500
+      ],
+      "MaxStat": [
+        2500,
+        1000
+      ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
-      "EquipmentCategory": "Charm_Cross",
-      "LevelUpFeedAddExp": 10,
-      "DefaultMaxLevel": 30,
-      "TranscendenceMax": 5
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 40,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
     },
     {
-      "EquipmentId": 107301,
-      "DevName": "정체불명의 수정",
-      "StatAType": "AttackPower_Base",
-      "StatALength": 60,
+      "EquipmentId": 6000,
+      "DevName": "Hairpin_Tier1 - 안탱커",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "MaxHP_Base"
+      ],
+      "MinStat": [
+        250
+      ],
+      "MaxStat": [
+        400
+      ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
-      "EquipmentCategory": "Charm_Crystal",
-      "LevelUpFeedAddExp": 10,
-      "DefaultMaxLevel": 30,
-      "TranscendenceMax": 5
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 10,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
     },
     {
-      "EquipmentId": 108101,
-      "DevName": "검은 디지털 시계",
-      "StatAType": "CriticalPoint_Base",
-      "StatALength": 60,
+      "EquipmentId": 6001,
+      "DevName": "Hairpin_Tier2 - 안탱커",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "MaxHP_Base"
+      ],
+      "MinStat": [
+        500
+      ],
+      "MaxStat": [
+        650
+      ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
-      "EquipmentCategory": "Watch_Digital",
-      "LevelUpFeedAddExp": 10,
-      "DefaultMaxLevel": 30,
-      "TranscendenceMax": 5
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 20,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
     },
     {
-      "EquipmentId": 108201,
-      "DevName": "금장 손목 시계",
-      "StatAType": "CriticalPoint_Base",
-      "StatALength": 60,
+      "EquipmentId": 6002,
+      "DevName": "Hairpin_Tier3 - 안탱커",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "MaxHP_Base"
+      ],
+      "MinStat": [
+        750
+      ],
+      "MaxStat": [
+        900
+      ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
-      "EquipmentCategory": "Watch_Golden",
-      "LevelUpFeedAddExp": 10,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
       "DefaultMaxLevel": 30,
-      "TranscendenceMax": 5
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
     },
     {
-      "EquipmentId": 108301,
-      "DevName": "최신식 스마트워치",
-      "StatAType": "CriticalPoint_Base",
-      "StatALength": 60,
+      "EquipmentId": 6003,
+      "DevName": "Hairpin_Tier4 - 안탱커 + CC저항",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "MaxHP_Base",
+        "OppressionResist_Coefficient"
+      ],
+      "MinStat": [
+        1000,
+        500
+      ],
+      "MaxStat": [
+        1250,
+        1000
+      ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
-      "EquipmentCategory": "Watch_Smart",
-      "LevelUpFeedAddExp": 10,
-      "DefaultMaxLevel": 30,
-      "TranscendenceMax": 5
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 40,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
     },
     {
-      "EquipmentId": 109101,
-      "DevName": "로켓",
-      "StatAType": "CriticalDamageRate_Base",
-      "StatALength": 60,
+      "EquipmentId": 7000,
+      "DevName": "Charm_Tier1 - 회심 저항",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "CriticalChanceResistPoint_Base"
+      ],
+      "MinStat": [
+        50
+      ],
+      "MaxStat": [
+        80
+      ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
-      "EquipmentCategory": "Necklace_Locket",
-      "LevelUpFeedAddExp": 10,
-      "DefaultMaxLevel": 30,
-      "TranscendenceMax": 5
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 10,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
     },
     {
-      "EquipmentId": 109201,
-      "DevName": "펜던트",
-      "StatAType": "CriticalDamageRate_Base",
-      "StatALength": 60,
+      "EquipmentId": 7001,
+      "DevName": "Charm_Tier2 - 회심 저항",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "CriticalChanceResistPoint_Base"
+      ],
+      "MinStat": [
+        100
+      ],
+      "MaxStat": [
+        130
+      ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
-      "EquipmentCategory": "Necklace_Pendant",
-      "LevelUpFeedAddExp": 10,
-      "DefaultMaxLevel": 30,
-      "TranscendenceMax": 5
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 20,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
     },
     {
-      "EquipmentId": 109301,
-      "DevName": "클로버 쵸커",
-      "StatAType": "CriticalDamageRate_Base",
-      "StatALength": 60,
+      "EquipmentId": 7002,
+      "DevName": "Charm_Tier3 - 회심 저항",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "CriticalChanceResistPoint_Base"
+      ],
+      "MinStat": [
+        150
+      ],
+      "MaxStat": [
+        180
+      ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
       "LevelUpFeedCostCurrency": "Gold",
       "LevelUpFeedCostAmount": 50,
-      "EquipmentCategory": "Necklace_Choker",
-      "LevelUpFeedAddExp": 10,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
       "DefaultMaxLevel": 30,
-      "TranscendenceMax": 5
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 7003,
+      "DevName": "Charm_Tier4 - 회심 저항 + 회심 피해 저함",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "CriticalChanceResistPoint_Base",
+        "CriticalDamageResistRate_Base"
+      ],
+      "MinStat": [
+        200,
+        500
+      ],
+      "MaxStat": [
+        250,
+        1000
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 40,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 8000,
+      "DevName": "Watch_Tier1 - 회심",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "CriticalPoint_Base"
+      ],
+      "MinStat": [
+        50
+      ],
+      "MaxStat": [
+        80
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 10,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 8001,
+      "DevName": "Watch_Tier2 - 회심",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "CriticalPoint_Base"
+      ],
+      "MinStat": [
+        100
+      ],
+      "MaxStat": [
+        130
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 20,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 8002,
+      "DevName": "Watch_Tier3 - 회심",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "CriticalPoint_Base"
+      ],
+      "MinStat": [
+        150
+      ],
+      "MaxStat": [
+        180
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 30,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 8003,
+      "DevName": "Watch_Tier4 - 회심 + 회심 피해",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "CriticalPoint_Base",
+        "CriticalDamageRate_Base"
+      ],
+      "MinStat": [
+        200,
+        500
+      ],
+      "MaxStat": [
+        250,
+        1000
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 40,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 9000,
+      "DevName": "Necklace_Tier1 - 회복력 + CC 강화",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "HealPower_Coefficient",
+        "OppressionPower_Coefficient"
+      ],
+      "MinStat": [
+        500,
+        500
+      ],
+      "MaxStat": [
+        800,
+        800
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 10,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 9001,
+      "DevName": "Necklace_Tier2 - 회복력 + CC 강화",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "HealPower_Coefficient",
+        "OppressionPower_Coefficient"
+      ],
+      "MinStat": [
+        1000,
+        1000
+      ],
+      "MaxStat": [
+        1300,
+        1300
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 20,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 9002,
+      "DevName": "Necklace_Tier3 - 회복력 + CC 강화",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "HealPower_Coefficient",
+        "OppressionPower_Coefficient"
+      ],
+      "MinStat": [
+        1500,
+        1500
+      ],
+      "MaxStat": [
+        1800,
+        1800
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 30,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 9003,
+      "DevName": "Necklace_Tier4 - 회복력 + CC 강화",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "HealPower_Coefficient",
+        "OppressionPower_Coefficient"
+      ],
+      "MinStat": [
+        2000,
+        2000
+      ],
+      "MaxStat": [
+        2500,
+        2500
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 40,
+      "TranscendenceMax": 1,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 101001,
+      "DevName": "Hat_Tier2 - 공격력 %_Piece",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 101002,
+      "DevName": "Hat_Tier3 - 공격력 %_Piece",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 101003,
+      "DevName": "Hat_Tier4 - 공격력 % + 회심 피해_Piece",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 102001,
+      "DevName": "Gloves_Tier2 - 공격력 %_Piece",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 102002,
+      "DevName": "Gloves_Tier3 - 공격력 %_Piece",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 102003,
+      "DevName": "Gloves_Tier4 - 공격력 % + 회심 피해_Piece",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 103001,
+      "DevName": "Shoes_Tier2 - 공격력 %_Piece",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 103002,
+      "DevName": "Shoes_Tier3 - 공격력 %_Piece",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 103003,
+      "DevName": "Shoes_Tier4 - 공격력 % + 회심 피해_Piece",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 104001,
+      "DevName": "Bag_Tier2 - 방탱 체력_Piece",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 104002,
+      "DevName": "Bag_Tier3 - 방탱 체력_Piece",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 104003,
+      "DevName": "Bag_Tier4 - 방탱 체력 + 방어력_Piece",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 105001,
+      "DevName": "Badge_Tier2 - 회피탱 체력_Piece",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 105002,
+      "DevName": "Badge_Tier3 - 회피탱 체력_Piece",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 105003,
+      "DevName": "Badge_Tier4 - 회피탱 체력 + 회피탱 체력회복량 증가_Piece",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 106001,
+      "DevName": "Hairpin_Tier2 - 안탱커_Piece",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 106002,
+      "DevName": "Hairpin_Tier3 - 안탱커_Piece",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 106003,
+      "DevName": "Hairpin_Tier4 - 안탱커 + CC저항_Piece",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 107001,
+      "DevName": "Charm_Tier2 - 회심 저항_Piece",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 107002,
+      "DevName": "Charm_Tier3 - 회심 저항_Piece",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 107003,
+      "DevName": "Charm_Tier4 - 회심 저항 + 회심 피해 저함_Piece",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 108001,
+      "DevName": "Watch_Tier2 - 회심_Piece",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 108002,
+      "DevName": "Watch_Tier3 - 회심_Piece",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 108003,
+      "DevName": "Watch_Tier4 - 회심 + 회심 피해_Piece",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 109001,
+      "DevName": "Necklace_Tier2 - 회복력 + CC 강화_Piece",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 109002,
+      "DevName": "Necklace_Tier3 - 회복력 + CC 강화_Piece",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
+    },
+    {
+      "EquipmentId": 109003,
+      "DevName": "Necklace_Tier4 - 회복력 + CC 강화_Piece",
+      "StatLevelUpType": "Standard",
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "MinStat": [
+        1
+      ],
+      "MaxStat": [
+        1
+      ],
+      "LevelUpInsertLimit": 20,
+      "LevelUpFeedExp": 10,
+      "LevelUpFeedCostCurrency": "Gold",
+      "LevelUpFeedCostAmount": 50,
+      "EquipmentCategory": "Unable",
+      "LevelUpFeedAddExp": 0,
+      "DefaultMaxLevel": 1,
+      "TranscendenceMax": 5,
+      "DamageFactorGroupId": null
     }
   ]
 }

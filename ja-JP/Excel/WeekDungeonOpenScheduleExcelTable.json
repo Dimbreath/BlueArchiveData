@@ -1,31 +1,74 @@
 {
   "DataList": [
     {
-      "OpenLength": 4
+      "WeekDay": "Sunday",
+      "Open": [
+        "ChaserA",
+        "ChaserB",
+        "ChaserC",
+        "FindGift",
+        "Blood"
+      ]
     },
     {
       "WeekDay": "Monday",
-      "OpenLength": 4
+      "Open": [
+        "ChaserA",
+        "ChaserB",
+        "ChaserC",
+        "FindGift",
+        "Blood"
+      ]
     },
     {
       "WeekDay": "Tuesday",
-      "OpenLength": 4
+      "Open": [
+        "ChaserA",
+        "ChaserB",
+        "ChaserC",
+        "FindGift",
+        "Blood"
+      ]
     },
     {
       "WeekDay": "Wednesday",
-      "OpenLength": 4
+      "Open": [
+        "ChaserA",
+        "ChaserB",
+        "ChaserC",
+        "FindGift",
+        "Blood"
+      ]
     },
     {
       "WeekDay": "Thursday",
-      "OpenLength": 4
+      "Open": [
+        "ChaserA",
+        "ChaserB",
+        "ChaserC",
+        "FindGift",
+        "Blood"
+      ]
     },
     {
       "WeekDay": "Friday",
-      "OpenLength": 4
+      "Open": [
+        "ChaserA",
+        "ChaserB",
+        "ChaserC",
+        "FindGift",
+        "Blood"
+      ]
     },
     {
       "WeekDay": "Saturday",
-      "OpenLength": 4
+      "Open": [
+        "ChaserA",
+        "ChaserB",
+        "ChaserC",
+        "FindGift",
+        "Blood"
+      ]
     }
   ]
 }

@@ -2,7 +2,9 @@
   "DataList": [
     {
       "Name": "PublicSkill01",
-      "VoiceHashLength": 4
+      "VoiceHash": [
+        4233706491
+      ]
     }
   ]
 }

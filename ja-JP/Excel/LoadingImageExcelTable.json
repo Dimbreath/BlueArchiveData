@@ -2,72 +2,135 @@
   "DataList": [
     {
       "ID": 1,
-      "DevName": "LoadingImage01",
-      "ImagePathKr": "01_Common/12_Loading/LoadingImage_01_kr",
-      "ImagePathJp": "01_Common/12_Loading/LoadingImage_01_jp",
-      "DisplayWeight": 30
+      "DevName": "LoadingImage02",
+      "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_02_kr",
+      "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_02_jp",
+      "DisplayWeight": 10
     },
     {
       "ID": 2,
-      "DevName": "LoadingImage02",
-      "ImagePathKr": "01_Common/12_Loading/LoadingImage_02_kr",
-      "ImagePathJp": "01_Common/12_Loading/LoadingImage_02_jp",
-      "DisplayWeight": 20
+      "DevName": "LoadingImage03",
+      "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_03_kr",
+      "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_03_jp",
+      "DisplayWeight": 10
     },
     {
       "ID": 3,
-      "DevName": "LoadingImage03",
-      "ImagePathKr": "01_Common/12_Loading/LoadingImage_03_kr",
-      "ImagePathJp": "01_Common/12_Loading/LoadingImage_03_jp",
+      "DevName": "LoadingImage04",
+      "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_04_kr",
+      "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_04_jp",
       "DisplayWeight": 10
     },
     {
       "ID": 4,
-      "DevName": "LoadingImage04",
-      "ImagePathKr": "01_Common/12_Loading/LoadingImage_04_kr",
-      "ImagePathJp": "01_Common/12_Loading/LoadingImage_04_jp",
+      "DevName": "LoadingImage05",
+      "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_05_kr",
+      "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_05_jp",
       "DisplayWeight": 10
     },
     {
       "ID": 5,
-      "DevName": "LoadingImage05",
-      "ImagePathKr": "01_Common/12_Loading/LoadingImage_05_kr",
-      "ImagePathJp": "01_Common/12_Loading/LoadingImage_05_jp",
+      "DevName": "LoadingImage06",
+      "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_06_kr",
+      "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_06_jp",
       "DisplayWeight": 10
     },
     {
       "ID": 6,
-      "DevName": "LoadingImage06",
-      "ImagePathKr": "01_Common/12_Loading/LoadingImage_06_kr",
-      "ImagePathJp": "01_Common/12_Loading/LoadingImage_06_jp",
+      "DevName": "LoadingImage07",
+      "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_07_kr",
+      "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_07_jp",
       "DisplayWeight": 10
     },
     {
       "ID": 7,
-      "DevName": "LoadingImage07",
-      "ImagePathKr": "01_Common/12_Loading/LoadingImage_07_kr",
-      "ImagePathJp": "01_Common/12_Loading/LoadingImage_07_jp",
+      "DevName": "LoadingImage09",
+      "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_09_kr",
+      "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_09_jp",
       "DisplayWeight": 10
     },
     {
       "ID": 8,
-      "DevName": "LoadingImage08",
-      "ImagePathKr": "01_Common/12_Loading/LoadingImage_08_kr",
-      "ImagePathJp": "01_Common/12_Loading/LoadingImage_08_jp",
+      "DevName": "LoadingImage10",
+      "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_10_kr",
+      "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_10_jp",
       "DisplayWeight": 10
     },
     {
       "ID": 9,
-      "DevName": "LoadingImage09",
-      "ImagePathKr": "01_Common/12_Loading/LoadingImage_09_kr",
-      "ImagePathJp": "01_Common/12_Loading/LoadingImage_09_jp",
+      "DevName": "LoadingImage11",
+      "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_11_kr",
+      "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_11_jp",
       "DisplayWeight": 10
     },
     {
       "ID": 10,
-      "DevName": "LoadingImage10",
-      "ImagePathKr": "01_Common/12_Loading/LoadingImage_10_kr",
-      "ImagePathJp": "01_Common/12_Loading/LoadingImage_10_jp",
+      "DevName": "LoadingImage12",
+      "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_12_kr",
+      "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_12_jp",
+      "DisplayWeight": 10
+    },
+    {
+      "ID": 11,
+      "DevName": "LoadingImage13",
+      "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_13_kr",
+      "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_13_jp",
+      "DisplayWeight": 10
+    },
+    {
+      "ID": 12,
+      "DevName": "LoadingImage14",
+      "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_14_kr",
+      "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_14_jp",
+      "DisplayWeight": 10
+    },
+    {
+      "ID": 13,
+      "DevName": "LoadingImage15",
+      "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_15_kr",
+      "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_15_jp",
+      "DisplayWeight": 10
+    },
+    {
+      "ID": 14,
+      "DevName": "LoadingImage16",
+      "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_16_kr",
+      "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_16_jp",
+      "DisplayWeight": 10
+    },
+    {
+      "ID": 15,
+      "DevName": "LoadingImage17",
+      "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_17_kr",
+      "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_17_jp",
+      "DisplayWeight": 10
+    },
+    {
+      "ID": 16,
+      "DevName": "LoadingImage18",
+      "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_18_kr",
+      "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_18_jp",
+      "DisplayWeight": 10
+    },
+    {
+      "ID": 17,
+      "DevName": "LoadingImage19",
+      "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_19_kr",
+      "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_19_jp",
+      "DisplayWeight": 10
+    },
+    {
+      "ID": 18,
+      "DevName": "LoadingImage20",
+      "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_20_kr",
+      "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_20_jp",
+      "DisplayWeight": 10
+    },
+    {
+      "ID": 19,
+      "DevName": "LoadingImage21",
+      "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_21_kr",
+      "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_21_jp",
       "DisplayWeight": 10
     }
   ]

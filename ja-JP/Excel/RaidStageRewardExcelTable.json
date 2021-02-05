@@ -1,64 +1,144 @@
 {
   "DataList": [
     {
-      "StageRewardId": 100,
-      "DevName": "Binah_VeryEasy",
-      "IsClearStageRewardHideInfoLength": 236,
-      "ClearStageRewardProbLength": 200,
-      "ClearStageRewardParcelTypeLength": 180,
-      "ClearStageRewardParcelUniqueIDLength": 144,
-      "ClearStageRewardParcelUniqueNameLength": 52,
-      "ClearStageRewardAmountLength": 16
-    },
-    {
-      "StageRewardId": 101,
-      "DevName": "Binah_Easy",
-      "IsClearStageRewardHideInfoLength": 284,
-      "ClearStageRewardProbLength": 240,
-      "ClearStageRewardParcelTypeLength": 216,
-      "ClearStageRewardParcelUniqueIDLength": 176,
-      "ClearStageRewardParcelUniqueNameLength": 56,
-      "ClearStageRewardAmountLength": 16
-    },
-    {
-      "StageRewardId": 102,
+      "GroupId": 100,
       "DevName": "Binah_Normal",
-      "IsClearStageRewardHideInfoLength": 284,
-      "ClearStageRewardProbLength": 240,
-      "ClearStageRewardParcelTypeLength": 216,
-      "ClearStageRewardParcelUniqueIDLength": 176,
-      "ClearStageRewardParcelUniqueNameLength": 56,
-      "ClearStageRewardAmountLength": 16
+      "IsClearStageRewardHideInfo": false,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "레이드 코인",
+      "ClearStageRewardAmount": 20
     },
     {
-      "StageRewardId": 200,
-      "DevName": "Chesed_VeryEasy",
-      "IsClearStageRewardHideInfoLength": 236,
-      "ClearStageRewardProbLength": 200,
-      "ClearStageRewardParcelTypeLength": 180,
-      "ClearStageRewardParcelUniqueIDLength": 144,
-      "ClearStageRewardParcelUniqueNameLength": 52,
-      "ClearStageRewardAmountLength": 16
+      "GroupId": 101,
+      "DevName": "Binah_Hard",
+      "IsClearStageRewardHideInfo": false,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "레이드 코인",
+      "ClearStageRewardAmount": 25
     },
     {
-      "StageRewardId": 201,
-      "DevName": "Chesed_Easy",
-      "IsClearStageRewardHideInfoLength": 280,
-      "ClearStageRewardProbLength": 240,
-      "ClearStageRewardParcelTypeLength": 216,
-      "ClearStageRewardParcelUniqueIDLength": 176,
-      "ClearStageRewardParcelUniqueNameLength": 56,
-      "ClearStageRewardAmountLength": 16
+      "GroupId": 102,
+      "DevName": "Binah_VeryHard",
+      "IsClearStageRewardHideInfo": false,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "레이드 코인",
+      "ClearStageRewardAmount": 30
     },
     {
-      "StageRewardId": 202,
+      "GroupId": 103,
+      "DevName": "Binah_HardCore",
+      "IsClearStageRewardHideInfo": false,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "레이드 코인",
+      "ClearStageRewardAmount": 40
+    },
+    {
+      "GroupId": 200,
       "DevName": "Chesed_Normal",
-      "IsClearStageRewardHideInfoLength": 284,
-      "ClearStageRewardProbLength": 240,
-      "ClearStageRewardParcelTypeLength": 216,
-      "ClearStageRewardParcelUniqueIDLength": 176,
-      "ClearStageRewardParcelUniqueNameLength": 56,
-      "ClearStageRewardAmountLength": 16
+      "IsClearStageRewardHideInfo": false,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "레이드 코인",
+      "ClearStageRewardAmount": 20
+    },
+    {
+      "GroupId": 201,
+      "DevName": "Chesed_Hard",
+      "IsClearStageRewardHideInfo": false,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "레이드 코인",
+      "ClearStageRewardAmount": 25
+    },
+    {
+      "GroupId": 202,
+      "DevName": "Chesed_VeryHard",
+      "IsClearStageRewardHideInfo": false,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "레이드 코인",
+      "ClearStageRewardAmount": 30
+    },
+    {
+      "GroupId": 203,
+      "DevName": "Chesed_HardCore",
+      "IsClearStageRewardHideInfo": false,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "레이드 코인",
+      "ClearStageRewardAmount": 40
+    },
+    {
+      "GroupId": 204,
+      "DevName": "Chesed_Extreme",
+      "IsClearStageRewardHideInfo": false,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "레이드 코인",
+      "ClearStageRewardAmount": 50
+    },
+    {
+      "GroupId": 300,
+      "DevName": "ShiroKuro_Normal",
+      "IsClearStageRewardHideInfo": false,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "레이드 코인",
+      "ClearStageRewardAmount": 20
+    },
+    {
+      "GroupId": 301,
+      "DevName": "ShiroKuro_Hard",
+      "IsClearStageRewardHideInfo": false,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "레이드 코인",
+      "ClearStageRewardAmount": 25
+    },
+    {
+      "GroupId": 302,
+      "DevName": "ShiroKuro_VeryHard",
+      "IsClearStageRewardHideInfo": false,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "레이드 코인",
+      "ClearStageRewardAmount": 30
+    },
+    {
+      "GroupId": 303,
+      "DevName": "ShiroKuro_HardCore",
+      "IsClearStageRewardHideInfo": false,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "레이드 코인",
+      "ClearStageRewardAmount": 40
+    },
+    {
+      "GroupId": 304,
+      "DevName": "ShiroKuro_Extreme",
+      "IsClearStageRewardHideInfo": false,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "레이드 코인",
+      "ClearStageRewardAmount": 50
     }
   ]
 }

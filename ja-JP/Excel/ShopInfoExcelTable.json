@@ -1,36 +1,87 @@
 {
   "DataList": [
     {
+      "CategoryType": "General",
+      "IsRefresh": true,
       "ParcelType": "Currency",
-      "ParcelId": 5
+      "ParcelId": 1,
+      "AutoRefreshCoolTime": 86400000,
+      "RefreshAbleCount": 3,
+      "GoodsId": [
+        103,
+        104,
+        105
+      ],
+      "OpenPeriodFrom": null,
+      "OpenPeriodTo": null
     },
     {
       "CategoryType": "SecretStone",
+      "IsRefresh": false,
       "ParcelType": "Item",
-      "ParcelId": 23
+      "ParcelId": 23,
+      "AutoRefreshCoolTime": 0,
+      "RefreshAbleCount": 0,
+      "GoodsId": [],
+      "OpenPeriodFrom": null,
+      "OpenPeriodTo": null
     },
     {
       "CategoryType": "Raid",
+      "IsRefresh": false,
       "ParcelType": "Item",
-      "ParcelId": 7
+      "ParcelId": 7,
+      "AutoRefreshCoolTime": 0,
+      "RefreshAbleCount": 0,
+      "GoodsId": [],
+      "OpenPeriodFrom": null,
+      "OpenPeriodTo": null
     },
     {
-      "CategoryType": "Gold"
+      "CategoryType": "Gold",
+      "IsRefresh": false,
+      "ParcelType": "None",
+      "ParcelId": 0,
+      "AutoRefreshCoolTime": 0,
+      "RefreshAbleCount": 0,
+      "GoodsId": [],
+      "OpenPeriodFrom": null,
+      "OpenPeriodTo": null
     },
     {
-      "CategoryType": "Ap"
+      "CategoryType": "Ap",
+      "IsRefresh": false,
+      "ParcelType": "None",
+      "ParcelId": 0,
+      "AutoRefreshCoolTime": 0,
+      "RefreshAbleCount": 0,
+      "GoodsId": [],
+      "OpenPeriodFrom": null,
+      "OpenPeriodTo": null
     },
     {
-      "CategoryType": "ArenaTicket"
+      "CategoryType": "ArenaTicket",
+      "IsRefresh": false,
+      "ParcelType": "None",
+      "ParcelId": 0,
+      "AutoRefreshCoolTime": 0,
+      "RefreshAbleCount": 0,
+      "GoodsId": [],
+      "OpenPeriodFrom": null,
+      "OpenPeriodTo": null
     },
     {
       "CategoryType": "Arena",
       "IsRefresh": true,
       "ParcelType": "Item",
       "ParcelId": 8,
-      "AutoRefreshCoolTime": 21600000,
+      "AutoRefreshCoolTime": 86400000,
       "RefreshAbleCount": 3,
-      "GoodsIdLength": 32
+      "GoodsId": [
+        106
+      ],
+      "OpenPeriodFrom": null,
+      "OpenPeriodTo": null
     }
   ]
 }

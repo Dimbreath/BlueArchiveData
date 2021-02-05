@@ -1,0 +1,71 @@
+{
+  "DataList": [
+    {
+      "EventContentId": 10001,
+      "CategoryType": "EventContent_0",
+      "LocalizeKey": 2004071496,
+      "CostParcelType": "Currency",
+      "CostParcelId": 3,
+      "IsRefresh": false,
+      "AutoRefreshCoolTime": 0,
+      "RefreshAbleCount": 0,
+      "GoodsId": [],
+      "OpenPeriodFrom": null,
+      "OpenPeriodTo": null
+    },
+    {
+      "EventContentId": 10001,
+      "CategoryType": "EventContent_1",
+      "LocalizeKey": 2004071496,
+      "CostParcelType": "Currency",
+      "CostParcelId": 1,
+      "IsRefresh": false,
+      "AutoRefreshCoolTime": 0,
+      "RefreshAbleCount": 0,
+      "GoodsId": [],
+      "OpenPeriodFrom": null,
+      "OpenPeriodTo": null
+    },
+    {
+      "EventContentId": 10001,
+      "CategoryType": "EventContent_2",
+      "LocalizeKey": 2004071496,
+      "CostParcelType": "Currency",
+      "CostParcelId": 1,
+      "IsRefresh": false,
+      "AutoRefreshCoolTime": 0,
+      "RefreshAbleCount": 0,
+      "GoodsId": [],
+      "OpenPeriodFrom": null,
+      "OpenPeriodTo": null
+    },
+    {
+      "EventContentId": 10001,
+      "CategoryType": "EventContent_3",
+      "LocalizeKey": 2004071496,
+      "CostParcelType": "Currency",
+      "CostParcelId": 1,
+      "IsRefresh": false,
+      "AutoRefreshCoolTime": 0,
+      "RefreshAbleCount": 0,
+      "GoodsId": [],
+      "OpenPeriodFrom": null,
+      "OpenPeriodTo": null
+    },
+    {
+      "EventContentId": 10001,
+      "CategoryType": "EventContent_4",
+      "LocalizeKey": 2004071496,
+      "CostParcelType": "Currency",
+      "CostParcelId": 1,
+      "IsRefresh": true,
+      "AutoRefreshCoolTime": 86400000,
+      "RefreshAbleCount": 3,
+      "GoodsId": [
+        101
+      ],
+      "OpenPeriodFrom": null,
+      "OpenPeriodTo": null
+    }
+  ]
+}

@@ -2,6 +2,7 @@
   "DataList": [
     {
       "StageId": 201200001,
+      "PhaseIndex": 0,
       "BGMId": 101
     },
     {
@@ -16,6 +17,7 @@
     },
     {
       "StageId": 201200002,
+      "PhaseIndex": 0,
       "BGMId": 101
     },
     {
@@ -30,6 +32,7 @@
     },
     {
       "StageId": 201200003,
+      "PhaseIndex": 0,
       "BGMId": 101
     },
     {
@@ -43,7 +46,38 @@
       "BGMId": 103
     },
     {
+      "StageId": 201200004,
+      "PhaseIndex": 0,
+      "BGMId": 101
+    },
+    {
+      "StageId": 201200004,
+      "PhaseIndex": 1,
+      "BGMId": 102
+    },
+    {
+      "StageId": 201200004,
+      "PhaseIndex": 2,
+      "BGMId": 103
+    },
+    {
+      "StageId": 201200005,
+      "PhaseIndex": 0,
+      "BGMId": 101
+    },
+    {
+      "StageId": 201200005,
+      "PhaseIndex": 1,
+      "BGMId": 102
+    },
+    {
+      "StageId": 201200005,
+      "PhaseIndex": 2,
+      "BGMId": 103
+    },
+    {
       "StageId": 202300001,
+      "PhaseIndex": 0,
       "BGMId": 204
     },
     {
@@ -53,6 +87,7 @@
     },
     {
       "StageId": 202300002,
+      "PhaseIndex": 0,
       "BGMId": 204
     },
     {
@@ -62,10 +97,31 @@
     },
     {
       "StageId": 202300003,
+      "PhaseIndex": 0,
       "BGMId": 204
     },
     {
       "StageId": 202300003,
+      "PhaseIndex": 1,
+      "BGMId": 203
+    },
+    {
+      "StageId": 202300004,
+      "PhaseIndex": 0,
+      "BGMId": 204
+    },
+    {
+      "StageId": 202300004,
+      "PhaseIndex": 1,
+      "BGMId": 203
+    },
+    {
+      "StageId": 202300005,
+      "PhaseIndex": 0,
+      "BGMId": 204
+    },
+    {
+      "StageId": 202300005,
       "PhaseIndex": 1,
       "BGMId": 203
     }

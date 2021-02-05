@@ -1,0 +1,49 @@
+{
+  "DataList": [
+    {
+      "EventContentId": 10001,
+      "EventContentItemType": "EventPoint",
+      "ItemUniqueId": 23
+    },
+    {
+      "EventContentId": 10001,
+      "EventContentItemType": "EventToken1",
+      "ItemUniqueId": 1
+    },
+    {
+      "EventContentId": 10001,
+      "EventContentItemType": "EventToken2",
+      "ItemUniqueId": 2
+    },
+    {
+      "EventContentId": 10001,
+      "EventContentItemType": "EventToken3",
+      "ItemUniqueId": 3
+    },
+    {
+      "EventContentId": 10002,
+      "EventContentItemType": "EventPoint",
+      "ItemUniqueId": 23
+    },
+    {
+      "EventContentId": 10002,
+      "EventContentItemType": "EventToken1",
+      "ItemUniqueId": 1
+    },
+    {
+      "EventContentId": 10002,
+      "EventContentItemType": "EventToken2",
+      "ItemUniqueId": 2
+    },
+    {
+      "EventContentId": 10002,
+      "EventContentItemType": "EventToken3",
+      "ItemUniqueId": 3
+    },
+    {
+      "EventContentId": 10002,
+      "EventContentItemType": "EventToken4",
+      "ItemUniqueId": 90
+    }
+  ]
+}

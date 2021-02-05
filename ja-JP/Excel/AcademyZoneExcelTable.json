@@ -3,137 +3,589 @@
     {
       "Id": 1,
       "LocationId": 1,
+      "LocationRankForUnlock": 1,
       "DevName": "업무관 집무실",
       "LocalizeEtcId": 3194776850,
-      "StudentVisitProbLength": 48,
-      "ScheduleGroupIdLength": 36,
-      "TagsLength": 24
+      "StudentVisitProb": [],
+      "RewardGroupId": [],
+      "Tags": [
+        "SchaleOffice"
+      ]
     },
     {
       "Id": 10,
       "LocationId": 1,
+      "LocationRankForUnlock": 1,
       "DevName": "업무관 시청각실",
       "LocalizeEtcId": 1907901108,
-      "StudentVisitProbLength": 112,
-      "ScheduleGroupIdLength": 36,
-      "TagsLength": 20
+      "StudentVisitProb": [
+        10000,
+        7500,
+        7500
+      ],
+      "RewardGroupId": [
+        1001
+      ],
+      "Tags": [
+        "SchaleOffice",
+        "AVRoom",
+        "MovieMania"
+      ]
     },
     {
       "Id": 11,
       "LocationId": 1,
+      "LocationRankForUnlock": 2,
       "DevName": "업무관 체육관",
       "LocalizeEtcId": 358080736,
-      "StudentVisitProbLength": 112,
-      "ScheduleGroupIdLength": 36,
-      "TagsLength": 20
+      "StudentVisitProb": [
+        10000,
+        10000,
+        7500
+      ],
+      "RewardGroupId": [
+        1101
+      ],
+      "Tags": [
+        "SchaleOffice",
+        "Gym",
+        "Healthy"
+      ]
     },
     {
       "Id": 12,
       "LocationId": 1,
+      "LocationRankForUnlock": 3,
       "DevName": "업무관 도서관",
       "LocalizeEtcId": 261901867,
-      "StudentVisitProbLength": 96,
-      "ScheduleGroupIdLength": 36,
-      "TagsLength": 20
+      "StudentVisitProb": [
+        10000
+      ],
+      "RewardGroupId": [
+        1201
+      ],
+      "Tags": [
+        "SchaleOffice",
+        "Library",
+        "Intellectual"
+      ]
     },
     {
       "Id": 13,
       "LocationId": 1,
+      "LocationRankForUnlock": 5,
       "DevName": "업무관 교실",
       "LocalizeEtcId": 774508018,
-      "StudentVisitProbLength": 80,
-      "ScheduleGroupIdLength": 36,
-      "TagsLength": 20
+      "StudentVisitProb": [
+        10000,
+        10000,
+        7500
+      ],
+      "RewardGroupId": [
+        1301
+      ],
+      "Tags": [
+        "SchaleOffice",
+        "ClassRoom",
+        "Officer"
+      ]
     },
     {
       "Id": 14,
       "LocationId": 1,
+      "LocationRankForUnlock": 6,
       "DevName": "업무관 실습실",
       "LocalizeEtcId": 3140661513,
-      "StudentVisitProbLength": 96,
-      "ScheduleGroupIdLength": 36,
-      "TagsLength": 20
+      "StudentVisitProb": [
+        10000,
+        7500
+      ],
+      "RewardGroupId": [
+        1401
+      ],
+      "Tags": [
+        "SchaleOffice",
+        "Laboratory",
+        "Scientific"
+      ]
     },
     {
       "Id": 15,
       "LocationId": 1,
+      "LocationRankForUnlock": 8,
       "DevName": "업무관 사격장",
       "LocalizeEtcId": 1107627875,
-      "StudentVisitProbLength": 128,
-      "ScheduleGroupIdLength": 36,
-      "TagsLength": 20
+      "StudentVisitProb": [
+        10000,
+        10000,
+        7500
+      ],
+      "RewardGroupId": [
+        1501
+      ],
+      "Tags": [
+        "SchaleOffice",
+        "ShootingRange",
+        "Military"
+      ]
     },
     {
       "Id": 16,
       "LocationId": 1,
+      "LocationRankForUnlock": 9,
       "DevName": "업무관 격납고",
       "LocalizeEtcId": 3657567135,
-      "StudentVisitProbLength": 80,
-      "ScheduleGroupIdLength": 36,
-      "TagsLength": 20
+      "StudentVisitProb": [
+        10000,
+        7500,
+        7500
+      ],
+      "RewardGroupId": [
+        1601
+      ],
+      "Tags": [
+        "SchaleOffice",
+        "Hanger",
+        "Machine"
+      ]
     },
     {
       "Id": 20,
       "LocationId": 7,
+      "LocationRankForUnlock": 1,
       "DevName": "생활관 스터디룸",
       "LocalizeEtcId": 1833374923,
-      "StudentVisitProbLength": 80,
-      "ScheduleGroupIdLength": 36,
-      "TagsLength": 20
+      "StudentVisitProb": [
+        10000,
+        10000
+      ],
+      "RewardGroupId": [
+        7001
+      ],
+      "Tags": [
+        "SchaleResidence",
+        "StudyRoom",
+        "Intellectual"
+      ]
     },
     {
       "Id": 21,
       "LocationId": 7,
+      "LocationRankForUnlock": 2,
       "DevName": "생활관 체력단련실",
       "LocalizeEtcId": 3691365347,
-      "StudentVisitProbLength": 144,
-      "ScheduleGroupIdLength": 36,
-      "TagsLength": 20
+      "StudentVisitProb": [
+        10000,
+        10000,
+        7500
+      ],
+      "RewardGroupId": [
+        7101
+      ],
+      "Tags": [
+        "SchaleResidence",
+        "Gym",
+        "Healthy"
+      ]
     },
     {
       "Id": 22,
       "LocationId": 7,
+      "LocationRankForUnlock": 3,
       "DevName": "생활관 휴게실",
       "LocalizeEtcId": 2987442229,
-      "StudentVisitProbLength": 144,
-      "ScheduleGroupIdLength": 36,
-      "TagsLength": 20
+      "StudentVisitProb": [
+        10000,
+        10000,
+        7500
+      ],
+      "RewardGroupId": [
+        7201
+      ],
+      "Tags": [
+        "SchaleResidence",
+        "Lounge",
+        "Sociable"
+      ]
     },
     {
       "Id": 23,
       "LocationId": 7,
+      "LocationRankForUnlock": 5,
       "DevName": "생활관 편의점",
       "LocalizeEtcId": 174166180,
-      "StudentVisitProbLength": 128,
-      "ScheduleGroupIdLength": 36,
-      "TagsLength": 20
+      "StudentVisitProb": [
+        10000
+      ],
+      "RewardGroupId": [
+        7301
+      ],
+      "Tags": [
+        "SchaleResidence",
+        "Convenience",
+        "Gourmet"
+      ]
     },
     {
       "Id": 24,
       "LocationId": 7,
+      "LocationRankForUnlock": 6,
       "DevName": "생활관 오락실",
       "LocalizeEtcId": 3217933897,
-      "StudentVisitProbLength": 144,
-      "ScheduleGroupIdLength": 36,
-      "TagsLength": 20
+      "StudentVisitProb": [
+        10000,
+        10000
+      ],
+      "RewardGroupId": [
+        7401
+      ],
+      "Tags": [
+        "SchaleResidence",
+        "ArcadeCenter",
+        "Gamer"
+      ]
     },
     {
       "Id": 25,
       "LocationId": 7,
+      "LocationRankForUnlock": 8,
       "DevName": "생활관 식당",
       "LocalizeEtcId": 1142275086,
-      "StudentVisitProbLength": 144,
-      "ScheduleGroupIdLength": 36,
-      "TagsLength": 20
+      "StudentVisitProb": [
+        10000,
+        10000,
+        7500
+      ],
+      "RewardGroupId": [
+        7501
+      ],
+      "Tags": [
+        "SchaleResidence",
+        "Restaurant",
+        "Cook"
+      ]
     },
     {
       "Id": 26,
       "LocationId": 7,
+      "LocationRankForUnlock": 9,
       "DevName": "생활관 텃밭",
       "LocalizeEtcId": 2776103305,
-      "StudentVisitProbLength": 128,
-      "ScheduleGroupIdLength": 36,
-      "TagsLength": 20
+      "StudentVisitProb": [
+        10000,
+        10000,
+        7500
+      ],
+      "RewardGroupId": [
+        7601
+      ],
+      "Tags": [
+        "SchaleResidence",
+        "Garden",
+        "Farmer"
+      ]
+    },
+    {
+      "Id": 30,
+      "LocationId": 11,
+      "LocationRankForUnlock": 1,
+      "DevName": "게헨나 제1교사",
+      "LocalizeEtcId": 4294611526,
+      "StudentVisitProb": [
+        10000,
+        7500,
+        7500
+      ],
+      "RewardGroupId": [
+        11001
+      ],
+      "Tags": [
+        "Gehenna",
+        "SchoolBuilding"
+      ]
+    },
+    {
+      "Id": 31,
+      "LocationId": 11,
+      "LocationRankForUnlock": 1,
+      "DevName": "게헨나 동아리 본관",
+      "LocalizeEtcId": 1274324253,
+      "StudentVisitProb": [
+        10000,
+        7500
+      ],
+      "RewardGroupId": [
+        11101
+      ],
+      "Tags": [
+        "Gehenna",
+        "Club",
+        "Officer"
+      ]
+    },
+    {
+      "Id": 32,
+      "LocationId": 11,
+      "LocationRankForUnlock": 2,
+      "DevName": "게헨나 중앙교정",
+      "LocalizeEtcId": 358653965,
+      "StudentVisitProb": [
+        10000,
+        7500
+      ],
+      "RewardGroupId": [
+        11201
+      ],
+      "Tags": [
+        "Gehenna",
+        "Campus",
+        "Sociable"
+      ]
+    },
+    {
+      "Id": 33,
+      "LocationId": 11,
+      "LocationRankForUnlock": 3,
+      "DevName": "게헨나 중앙운동장",
+      "LocalizeEtcId": 2196189972,
+      "StudentVisitProb": [
+        10000,
+        7500,
+        7500
+      ],
+      "RewardGroupId": [
+        11301
+      ],
+      "Tags": [
+        "Gehenna",
+        "SchoolYard"
+      ]
+    },
+    {
+      "Id": 34,
+      "LocationId": 11,
+      "LocationRankForUnlock": 5,
+      "DevName": "게헨나 제2교사",
+      "LocalizeEtcId": 1866984703,
+      "StudentVisitProb": [
+        10000,
+        7500
+      ],
+      "RewardGroupId": [
+        11401
+      ],
+      "Tags": [
+        "Gehenna",
+        "SchoolBuilding"
+      ]
+    },
+    {
+      "Id": 35,
+      "LocationId": 11,
+      "LocationRankForUnlock": 6,
+      "DevName": "게헨나 학생광장",
+      "LocalizeEtcId": 3032755222,
+      "StudentVisitProb": [
+        10000,
+        7500
+      ],
+      "RewardGroupId": [
+        11501
+      ],
+      "Tags": [
+        "Gehenna",
+        "Plaza"
+      ]
+    },
+    {
+      "Id": 36,
+      "LocationId": 11,
+      "LocationRankForUnlock": 8,
+      "DevName": "게헨나 선도부 본부",
+      "LocalizeEtcId": 970571410,
+      "StudentVisitProb": [
+        10000,
+        7500,
+        5000
+      ],
+      "RewardGroupId": [
+        11601
+      ],
+      "Tags": [
+        "Gehenna",
+        "StudentCouncilOffice"
+      ]
+    },
+    {
+      "Id": 37,
+      "LocationId": 11,
+      "LocationRankForUnlock": 9,
+      "DevName": "게헨나 폐교사",
+      "LocalizeEtcId": 1533671597,
+      "StudentVisitProb": [
+        10000,
+        7500
+      ],
+      "RewardGroupId": [
+        11701
+      ],
+      "Tags": [
+        "Gehenna",
+        "ClosedBuilding",
+        "TreasureHunter"
+      ]
+    },
+    {
+      "Id": 40,
+      "LocationId": 12,
+      "LocationRankForUnlock": 1,
+      "DevName": "아비도스 제1본관",
+      "LocalizeEtcId": 1983840990,
+      "StudentVisitProb": [
+        10000,
+        10000,
+        7500
+      ],
+      "RewardGroupId": [
+        12001
+      ],
+      "Tags": [
+        "Abydos",
+        "SchoolBuilding",
+        "Officer"
+      ]
+    },
+    {
+      "Id": 41,
+      "LocationId": 12,
+      "LocationRankForUnlock": 1,
+      "DevName": "아비도스 별관",
+      "LocalizeEtcId": 3073680445,
+      "StudentVisitProb": [
+        10000,
+        8500
+      ],
+      "RewardGroupId": [
+        12101
+      ],
+      "Tags": [
+        "Abydos",
+        "Annex",
+        "Eerie"
+      ]
+    },
+    {
+      "Id": 42,
+      "LocationId": 12,
+      "LocationRankForUnlock": 2,
+      "DevName": "아비도스 운동장",
+      "LocalizeEtcId": 3030528899,
+      "StudentVisitProb": [
+        10000,
+        10000,
+        7500
+      ],
+      "RewardGroupId": [
+        12201
+      ],
+      "Tags": [
+        "Abydos",
+        "SchoolYard",
+        "Healthy"
+      ]
+    },
+    {
+      "Id": 43,
+      "LocationId": 12,
+      "LocationRankForUnlock": 3,
+      "DevName": "아비도스 도서관",
+      "LocalizeEtcId": 4060200853,
+      "StudentVisitProb": [
+        10000,
+        10000
+      ],
+      "RewardGroupId": [
+        12301
+      ],
+      "Tags": [
+        "Abydos",
+        "Library",
+        "Intellectual"
+      ]
+    },
+    {
+      "Id": 44,
+      "LocationId": 12,
+      "LocationRankForUnlock": 5,
+      "DevName": "아비도스 수영장",
+      "LocalizeEtcId": 4149434655,
+      "StudentVisitProb": [
+        10000
+      ],
+      "RewardGroupId": [
+        12401
+      ],
+      "Tags": [
+        "Abydos",
+        "Pool"
+      ]
+    },
+    {
+      "Id": 45,
+      "LocationId": 12,
+      "LocationRankForUnlock": 6,
+      "DevName": "아비도스 체육관",
+      "LocalizeEtcId": 2812564490,
+      "StudentVisitProb": [
+        10000,
+        10000
+      ],
+      "RewardGroupId": [
+        12501
+      ],
+      "Tags": [
+        "Abydos",
+        "Gym",
+        "Healthy"
+      ]
+    },
+    {
+      "Id": 46,
+      "LocationId": 12,
+      "LocationRankForUnlock": 8,
+      "DevName": "아비도스 매점",
+      "LocalizeEtcId": 3019364332,
+      "StudentVisitProb": [
+        10000,
+        9000
+      ],
+      "RewardGroupId": [
+        12601
+      ],
+      "Tags": [
+        "Abydos",
+        "Convenience",
+        "Gourmet"
+      ]
+    },
+    {
+      "Id": 47,
+      "LocationId": 12,
+      "LocationRankForUnlock": 9,
+      "DevName": "아비도스 구교사",
+      "LocalizeEtcId": 2602511445,
+      "StudentVisitProb": [
+        10000,
+        7500
+      ],
+      "RewardGroupId": [
+        12701
+      ],
+      "Tags": [
+        "Abydos",
+        "ClosedBuilding",
+        "TreasureHunter"
+      ]
     }
   ]
 }

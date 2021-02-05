@@ -7,10 +7,16 @@
       "CurrencyType": "Gold",
       "CurrencyName": "골드",
       "Icon": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
+      "Rarity": "N",
+      "AutoChargeMsc": 0,
+      "AutoChargeAmount": 0,
+      "CurrencyOverChargeType": "CanNotCharge",
       "CurrencyAdditionalChargeType": "DisableAutoChargeOverLimit",
-      "ChargeLimit": 999999999,
-      "OverChargeLimit": 999999999,
-      "SpriteName": "Common_Icon_Gold"
+      "ChargeLimit": 99999999999,
+      "OverChargeLimit": 99999999999,
+      "SpriteName": "Common_Icon_Gold",
+      "DailyRefillAmount": 0,
+      "DailyRefillTime": []
     },
     {
       "ID": 2,
@@ -19,10 +25,16 @@
       "CurrencyType": "GemPaid",
       "CurrencyName": "유료 보석",
       "Icon": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gem",
+      "Rarity": "N",
+      "AutoChargeMsc": 0,
+      "AutoChargeAmount": 0,
+      "CurrencyOverChargeType": "CanNotCharge",
       "CurrencyAdditionalChargeType": "DisableAutoChargeOverLimit",
-      "ChargeLimit": 999999999,
-      "OverChargeLimit": 999999999,
-      "SpriteName": "Common_Icon_Diamond"
+      "ChargeLimit": 99999999999,
+      "OverChargeLimit": 99999999999,
+      "SpriteName": "Common_Icon_Diamond",
+      "DailyRefillAmount": 0,
+      "DailyRefillTime": []
     },
     {
       "ID": 3,
@@ -31,46 +43,72 @@
       "CurrencyType": "GemBonus",
       "CurrencyName": "무료 보석",
       "Icon": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gem",
+      "Rarity": "N",
+      "AutoChargeMsc": 0,
+      "AutoChargeAmount": 0,
+      "CurrencyOverChargeType": "CanNotCharge",
       "CurrencyAdditionalChargeType": "DisableAutoChargeOverLimit",
-      "ChargeLimit": 999999999,
-      "OverChargeLimit": 999999999,
-      "SpriteName": "Common_Icon_Diamond"
+      "ChargeLimit": 99999999999,
+      "OverChargeLimit": 99999999999,
+      "SpriteName": "Common_Icon_Diamond",
+      "DailyRefillAmount": 0,
+      "DailyRefillTime": []
     },
     {
       "ID": 4,
-      "DevName": "friend_point",
-      "LocalizeEtcId": 2124112510,
-      "CurrencyType": "FriendPoint",
-      "CurrencyName": "우정 포인트",
-      "CurrencyAdditionalChargeType": "DisableAutoChargeOverLimit",
-      "ChargeLimit": 100,
-      "OverChargeLimit": 100
-    },
-    {
-      "ID": 5,
       "DevName": "gem",
-      "LocalizeEtcId": 1084067292,
+      "LocalizeEtcId": 2124112510,
       "CurrencyType": "Gem",
       "CurrencyName": "보석",
       "Icon": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gem",
+      "Rarity": "N",
+      "AutoChargeMsc": 0,
+      "AutoChargeAmount": 0,
+      "CurrencyOverChargeType": "CanNotCharge",
       "CurrencyAdditionalChargeType": "DisableAutoChargeOverLimit",
-      "ChargeLimit": 999999999,
-      "OverChargeLimit": 999999999,
-      "SpriteName": "Common_Icon_Diamond"
+      "ChargeLimit": 99999999999,
+      "OverChargeLimit": 99999999999,
+      "SpriteName": "Common_Icon_Diamond",
+      "DailyRefillAmount": 0,
+      "DailyRefillTime": []
     },
     {
-      "ID": 6,
+      "ID": 5,
       "DevName": "action_point",
-      "LocalizeEtcId": 3625248016,
+      "LocalizeEtcId": 1084067292,
       "CurrencyType": "ActionPoint",
       "CurrencyName": "액션 포인트",
       "Icon": "UIs/01_Common/03_NonEquipment/Currency_Icon_AP",
+      "Rarity": "N",
       "AutoChargeMsc": 360000,
       "AutoChargeAmount": 1,
       "CurrencyOverChargeType": "ChargeOverLimit",
-      "CurrencyAdditionalChargeType": "DisableAutoChargeOverLimit",
+      "CurrencyAdditionalChargeType": "EnableAutoChargeOverLimit",
+      "ChargeLimit": 0,
       "OverChargeLimit": 999,
-      "SpriteName": "Common_Icon_Stamina"
+      "SpriteName": "Common_Icon_Stamina",
+      "DailyRefillAmount": 0,
+      "DailyRefillTime": []
+    },
+    {
+      "ID": 6,
+      "DevName": "academyTicket",
+      "LocalizeEtcId": 3625248016,
+      "CurrencyType": "AcademyTicket",
+      "CurrencyName": "학원 티켓",
+      "Icon": "UIs/01_Common/03_NonEquipment/Currency_Icon_AcademyTicket",
+      "Rarity": "N",
+      "AutoChargeMsc": 0,
+      "AutoChargeAmount": 0,
+      "CurrencyOverChargeType": "ChargeOverLimit",
+      "CurrencyAdditionalChargeType": "DisableAutoChargeOverLimit",
+      "ChargeLimit": 0,
+      "OverChargeLimit": 10,
+      "SpriteName": "Currency_Icon_AcademyTicket",
+      "DailyRefillAmount": 10,
+      "DailyRefillTime": [
+        400
+      ]
     },
     {
       "ID": 7,
@@ -78,12 +116,19 @@
       "LocalizeEtcId": 792719930,
       "CurrencyType": "ArenaTicket",
       "CurrencyName": "아레나 티켓",
+      "Icon": "UIs/01_Common/03_NonEquipment/Currency_Icon_ArenaTicket",
+      "Rarity": "N",
+      "AutoChargeMsc": 0,
+      "AutoChargeAmount": 0,
+      "CurrencyOverChargeType": "CanNotCharge",
       "CurrencyAdditionalChargeType": "DisableAutoChargeOverLimit",
       "ChargeLimit": 5,
       "OverChargeLimit": 5,
-      "SpriteName": "Common_Icon_ArenaTicket",
+      "SpriteName": "Currency_Icon_ArenaTicket",
       "DailyRefillAmount": 5,
-      "DailyRefillTimeLength": 40
+      "DailyRefillTime": [
+        400
+      ]
     },
     {
       "ID": 8,
@@ -91,21 +136,39 @@
       "LocalizeEtcId": 4109924042,
       "CurrencyType": "RaidTicket",
       "CurrencyName": "레이드 티켓",
+      "Icon": "UIs/01_Common/03_NonEquipment/Currency_Icon_RaidTicket",
+      "Rarity": "N",
+      "AutoChargeMsc": 0,
+      "AutoChargeAmount": 0,
+      "CurrencyOverChargeType": "CanNotCharge",
       "CurrencyAdditionalChargeType": "DisableAutoChargeOverLimit",
       "ChargeLimit": 3,
       "OverChargeLimit": 10,
-      "SpriteName": "Common_Icon_ArenaTicket",
+      "SpriteName": "Currency_Icon_RaidTicket",
       "DailyRefillAmount": 3,
-      "DailyRefillTimeLength": 40
+      "DailyRefillTime": [
+        400
+      ]
     },
     {
       "ID": 9,
-      "DevName": "weekdungeonchaserticket",
+      "DevName": "weekdungeonchaserAticket",
       "LocalizeEtcId": 688612979,
-      "CurrencyType": "WeekDungeonChaserTicket",
-      "CurrencyName": "체이서 티켓",
+      "CurrencyType": "WeekDungeonChaserATicket",
+      "CurrencyName": "체이서 A 티켓",
+      "Icon": "UIs/01_Common/03_NonEquipment/Currency_Icon_ChaserATicket",
+      "Rarity": "N",
+      "AutoChargeMsc": 0,
+      "AutoChargeAmount": 0,
+      "CurrencyOverChargeType": "CanNotCharge",
       "CurrencyAdditionalChargeType": "DisableAutoChargeOverLimit",
-      "SpriteName": "Common_Icon_ArenaTicket"
+      "ChargeLimit": 2,
+      "OverChargeLimit": 5,
+      "SpriteName": "Currency_Icon_ChaserATicket",
+      "DailyRefillAmount": 2,
+      "DailyRefillTime": [
+        400
+      ]
     },
     {
       "ID": 10,
@@ -113,8 +176,17 @@
       "LocalizeEtcId": 2241531918,
       "CurrencyType": "WeekDungeonFindGiftTicket",
       "CurrencyName": "선물찾기 티켓",
+      "Icon": null,
+      "Rarity": "N",
+      "AutoChargeMsc": 0,
+      "AutoChargeAmount": 0,
+      "CurrencyOverChargeType": "CanNotCharge",
       "CurrencyAdditionalChargeType": "DisableAutoChargeOverLimit",
-      "SpriteName": "Common_Icon_ArenaTicket"
+      "ChargeLimit": 0,
+      "OverChargeLimit": 0,
+      "SpriteName": null,
+      "DailyRefillAmount": 0,
+      "DailyRefillTime": []
     },
     {
       "ID": 11,
@@ -122,20 +194,57 @@
       "LocalizeEtcId": 3790911967,
       "CurrencyType": "WeekDungeonBloodTicket",
       "CurrencyName": "블러드 티켓",
+      "Icon": null,
+      "Rarity": "N",
+      "AutoChargeMsc": 0,
+      "AutoChargeAmount": 0,
+      "CurrencyOverChargeType": "CanNotCharge",
       "CurrencyAdditionalChargeType": "DisableAutoChargeOverLimit",
-      "SpriteName": "Common_Icon_ArenaTicket"
+      "ChargeLimit": 0,
+      "OverChargeLimit": 0,
+      "SpriteName": null,
+      "DailyRefillAmount": 0,
+      "DailyRefillTime": []
     },
     {
       "ID": 12,
-      "DevName": "academyTicket",
+      "DevName": "weekdungeonchaserBticket",
       "LocalizeEtcId": 2418907277,
-      "CurrencyType": "AcademyTicket",
-      "CurrencyName": "학원 티켓",
-      "CurrencyOverChargeType": "ChargeOverLimit",
+      "CurrencyType": "WeekDungeonChaserBTicket",
+      "CurrencyName": "체이서 B 티켓",
+      "Icon": "UIs/01_Common/03_NonEquipment/Currency_Icon_ChaserBTicket",
+      "Rarity": "N",
+      "AutoChargeMsc": 0,
+      "AutoChargeAmount": 0,
+      "CurrencyOverChargeType": "CanNotCharge",
       "CurrencyAdditionalChargeType": "DisableAutoChargeOverLimit",
-      "OverChargeLimit": 10,
-      "DailyRefillAmount": 3,
-      "DailyRefillTimeLength": 32
+      "ChargeLimit": 2,
+      "OverChargeLimit": 5,
+      "SpriteName": "Currency_Icon_ChaserBTicket",
+      "DailyRefillAmount": 2,
+      "DailyRefillTime": [
+        400
+      ]
+    },
+    {
+      "ID": 13,
+      "DevName": "weekdungeonchaserCticket",
+      "LocalizeEtcId": 2956594134,
+      "CurrencyType": "WeekDungeonChaserCTicket",
+      "CurrencyName": "체이서 C 티켓",
+      "Icon": "UIs/01_Common/03_NonEquipment/Currency_Icon_ChaserCTicket",
+      "Rarity": "N",
+      "AutoChargeMsc": 0,
+      "AutoChargeAmount": 0,
+      "CurrencyOverChargeType": "CanNotCharge",
+      "CurrencyAdditionalChargeType": "DisableAutoChargeOverLimit",
+      "ChargeLimit": 2,
+      "OverChargeLimit": 5,
+      "SpriteName": "Currency_Icon_ChaserCTicket",
+      "DailyRefillAmount": 2,
+      "DailyRefillTime": [
+        400
+      ]
     }
   ]
 }

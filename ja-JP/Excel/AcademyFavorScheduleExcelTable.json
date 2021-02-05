@@ -1,760 +1,5194 @@
 {
   "DataList": [
     {
-      "Id": 11002,
-      "CharacterId": 1051003,
-      "ScheduleGroupId": 1051003,
+      "Id": 100002,
+      "CharacterId": 10000,
+      "ScheduleGroupId": 10000,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "근로의욕증진 방법",
+      "LocalizeScenarioId": 1330831614,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000002,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 100003,
+      "CharacterId": 10000,
+      "ScheduleGroupId": 10000,
       "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "설득의 기술",
+      "LocalizeScenarioId": 1193817835,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000003,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 100005,
+      "CharacterId": 10000,
+      "ScheduleGroupId": 10000,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "진정한 리더",
+      "LocalizeScenarioId": 2860741943,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000005,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 100006,
+      "CharacterId": 10000,
+      "ScheduleGroupId": 10000,
+      "OrderInGroup": 4,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "외부 경영 고문직 입사 제안",
+      "LocalizeScenarioId": 3045973073,
+      "FavorRank": 6,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000006,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        10000
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyAru"
+      ],
+      "RewardAmount": [
+        80,
+        1
+      ]
+    },
+    {
+      "Id": 100012,
+      "CharacterId": 10001,
+      "ScheduleGroupId": 10001,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "체온 조절",
+      "LocalizeScenarioId": 3676557931,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000102,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 100013,
+      "CharacterId": 10001,
+      "ScheduleGroupId": 10001,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "최신 유행 연구 1",
+      "LocalizeScenarioId": 3548321794,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000103,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 100015,
+      "CharacterId": 10001,
+      "ScheduleGroupId": 10001,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "최신 유행 연구 2",
+      "LocalizeScenarioId": 3558259779,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000105,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 100016,
+      "CharacterId": 10001,
+      "ScheduleGroupId": 10001,
+      "OrderInGroup": 4,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "패션의 완성",
+      "LocalizeScenarioId": 2376132403,
+      "FavorRank": 6,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000106,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        10001
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyEimi"
+      ],
+      "RewardAmount": [
+        80,
+        1
+      ]
+    },
+    {
+      "Id": 100018,
+      "CharacterId": 10001,
+      "ScheduleGroupId": 10001,
+      "OrderInGroup": 5,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "상처",
+      "LocalizeScenarioId": 1697884784,
+      "FavorRank": 8,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000108,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Id": 100022,
+      "CharacterId": 10002,
+      "ScheduleGroupId": 10002,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "금지된 연구",
+      "LocalizeScenarioId": 1481568503,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000202,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 100023,
+      "CharacterId": 10002,
+      "ScheduleGroupId": 10002,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "고고한 길",
+      "LocalizeScenarioId": 3007405341,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000203,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 100025,
+      "CharacterId": 10002,
+      "ScheduleGroupId": 10002,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "분노의 미식가",
+      "LocalizeScenarioId": 2279595776,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000205,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 100026,
+      "CharacterId": 10002,
+      "ScheduleGroupId": 10002,
+      "OrderInGroup": 4,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "진정한 미식",
+      "LocalizeScenarioId": 3581669111,
+      "FavorRank": 6,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000206,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        10002
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyHaruna"
+      ],
+      "RewardAmount": [
+        80,
+        1
+      ]
+    },
+    {
+      "Id": 100032,
+      "CharacterId": 10003,
+      "ScheduleGroupId": 10003,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "신상 굿즈!",
+      "LocalizeScenarioId": 1695258470,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000302,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 100033,
+      "CharacterId": 10003,
+      "ScheduleGroupId": 10003,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "가방의 비밀",
+      "LocalizeScenarioId": 2135676389,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000303,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 100035,
+      "CharacterId": 10003,
+      "ScheduleGroupId": 10003,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "페로로 님 구출 작전",
+      "LocalizeScenarioId": 2419431461,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000305,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 100036,
+      "CharacterId": 10003,
+      "ScheduleGroupId": 10003,
+      "OrderInGroup": 4,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "고민 상담",
+      "LocalizeScenarioId": 915698726,
+      "FavorRank": 6,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000306,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        80
+      ]
+    },
+    {
+      "Id": 100038,
+      "CharacterId": 10003,
+      "ScheduleGroupId": 10003,
+      "OrderInGroup": 5,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "우연한 외출",
+      "LocalizeScenarioId": 718610260,
+      "FavorRank": 8,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000308,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        10003
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyHihumi"
+      ],
+      "RewardAmount": [
+        100,
+        1
+      ]
+    },
+    {
+      "Id": 100039,
+      "CharacterId": 10003,
+      "ScheduleGroupId": 10003,
+      "OrderInGroup": 6,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "게릴라 악수회",
+      "LocalizeScenarioId": 2433419644,
+      "FavorRank": 9,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000309,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        120
+      ]
+    },
+    {
+      "Id": 100042,
+      "CharacterId": 10004,
+      "ScheduleGroupId": 10004,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "심야의 회의",
+      "LocalizeScenarioId": 608406794,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000402,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 100043,
+      "CharacterId": 10004,
+      "ScheduleGroupId": 10004,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "당당한 이유",
+      "LocalizeScenarioId": 1206204887,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000403,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 100045,
+      "CharacterId": 10004,
+      "ScheduleGroupId": 10004,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "타인의 취향",
+      "LocalizeScenarioId": 3916122859,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000405,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 100046,
+      "CharacterId": 10004,
+      "ScheduleGroupId": 10004,
+      "OrderInGroup": 4,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "따뜻한 햇볕의",
+      "LocalizeScenarioId": 1437834886,
+      "FavorRank": 6,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000406,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        80
+      ]
+    },
+    {
+      "Id": 100048,
+      "CharacterId": 10004,
+      "ScheduleGroupId": 10004,
+      "OrderInGroup": 5,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "어쩐지 신비한 밤",
+      "LocalizeScenarioId": 484158690,
+      "FavorRank": 8,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000408,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        10004
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyHina"
+      ],
+      "RewardAmount": [
+        100,
+        1
+      ]
+    },
+    {
+      "Id": 100052,
+      "CharacterId": 10005,
+      "ScheduleGroupId": 10005,
+      "OrderInGroup": 1,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
       "DevName": "잠자는 고래",
-      "LocalizeEtcId": 415884532,
-      "TeacherRank": 1,
+      "LocalizeScenarioId": 1141893095,
       "FavorRank": 2,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100102,
-      "RewardParcelTypeLength": 176,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1000502,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
     },
     {
-      "Id": 11003,
-      "CharacterId": 1051003,
-      "ScheduleGroupId": 1051003,
-      "OrderInGroup": 3,
+      "Id": 100053,
+      "CharacterId": 10005,
+      "ScheduleGroupId": 10005,
+      "OrderInGroup": 2,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
       "DevName": "게으름뱅이의 아침",
-      "LocalizeEtcId": 3603045530,
-      "TeacherRank": 1,
+      "LocalizeScenarioId": 3096054116,
       "FavorRank": 3,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100103,
-      "RewardParcelTypeLength": 176,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1000503,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
     },
     {
-      "Id": 11005,
-      "CharacterId": 1051003,
-      "ScheduleGroupId": 1051003,
-      "OrderInGroup": 5,
+      "Id": 100055,
+      "CharacterId": 10005,
+      "ScheduleGroupId": 10005,
+      "OrderInGroup": 3,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
       "DevName": "희미하지만 빛나는",
-      "LocalizeEtcId": 243037572,
-      "TeacherRank": 1,
+      "LocalizeScenarioId": 3534890387,
       "FavorRank": 5,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100105,
-      "RewardParcelTypeLength": 180,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1000505,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
     },
     {
-      "Id": 11006,
-      "CharacterId": 1051003,
-      "ScheduleGroupId": 1051003,
-      "OrderInGroup": 6,
+      "Id": 100056,
+      "CharacterId": 10005,
+      "ScheduleGroupId": 10005,
+      "OrderInGroup": 4,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
       "DevName": "한밤중의 순찰자",
-      "LocalizeEtcId": 2439669354,
-      "TeacherRank": 1,
+      "LocalizeScenarioId": 3392633652,
       "FavorRank": 6,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100106,
-      "RewardParcelTypeLength": 176,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1000506,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        80
+      ]
     },
     {
-      "Id": 11008,
-      "CharacterId": 1051003,
-      "ScheduleGroupId": 1051003,
-      "OrderInGroup": 8,
+      "Id": 100058,
+      "CharacterId": 10005,
+      "ScheduleGroupId": 10005,
+      "OrderInGroup": 5,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
       "DevName": "행운을 잡는 법",
-      "LocalizeEtcId": 2947539991,
-      "TeacherRank": 1,
-      "FavorRank": 7,
+      "LocalizeScenarioId": 3089484350,
+      "FavorRank": 8,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100108,
-      "RewardParcelTypeLength": 176,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1000508,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        100
+      ]
     },
     {
-      "Id": 11009,
-      "CharacterId": 1051003,
-      "ScheduleGroupId": 1051003,
-      "OrderInGroup": 9,
+      "Id": 100059,
+      "CharacterId": 10005,
+      "ScheduleGroupId": 10005,
+      "OrderInGroup": 6,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
       "DevName": "아쿠아리움!",
-      "LocalizeEtcId": 2260904745,
-      "TeacherRank": 1,
-      "FavorRank": 8,
+      "LocalizeScenarioId": 1287455689,
+      "FavorRank": 9,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100109,
-      "RewardParcelTypeLength": 216,
-      "RewardParcelIdLength": 184,
-      "RewardParcelDevNameLength": 104,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1000509,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        10005
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyHoshino"
+      ],
+      "RewardAmount": [
+        120,
+        1
+      ]
     },
     {
-      "Id": 12002,
-      "CharacterId": 1051001,
-      "ScheduleGroupId": 1051001,
+      "Id": 100062,
+      "CharacterId": 10006,
+      "ScheduleGroupId": 10006,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "그녀의 오해",
+      "LocalizeScenarioId": 3512015253,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000602,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 100063,
+      "CharacterId": 10006,
+      "ScheduleGroupId": 10006,
       "OrderInGroup": 2,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
-      "DevName": "아르바이트 보조",
-      "LocalizeEtcId": 1022257759,
-      "TeacherRank": 1,
-      "FavorRank": 2,
+      "DevName": "교정에서의 휴식",
+      "LocalizeScenarioId": 3619712072,
+      "FavorRank": 3,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100202,
-      "RewardParcelTypeLength": 176,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1000603,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
     },
     {
-      "Id": 12003,
-      "CharacterId": 1051001,
-      "ScheduleGroupId": 1051001,
+      "Id": 100065,
+      "CharacterId": 10006,
+      "ScheduleGroupId": 10006,
       "OrderInGroup": 3,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
-      "DevName": "하드한 밤샘 알바",
-      "LocalizeEtcId": 3302122251,
-      "TeacherRank": 1,
-      "FavorRank": 3,
+      "DevName": "비밀스러운 거래",
+      "LocalizeScenarioId": 3380667060,
+      "FavorRank": 5,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100203,
-      "RewardParcelTypeLength": 176,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1000605,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
     },
     {
-      "Id": 12005,
-      "CharacterId": 1051001,
-      "ScheduleGroupId": 1051001,
+      "Id": 100066,
+      "CharacterId": 10006,
+      "ScheduleGroupId": 10006,
+      "OrderInGroup": 4,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "상냥한 치료",
+      "LocalizeScenarioId": 225526158,
+      "FavorRank": 6,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000606,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        10006
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyIori"
+      ],
+      "RewardAmount": [
+        80,
+        1
+      ]
+    },
+    {
+      "Id": 100068,
+      "CharacterId": 10006,
+      "ScheduleGroupId": 10006,
       "OrderInGroup": 5,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
-      "DevName": "공원 잡초 뽑기",
-      "LocalizeEtcId": 1494798475,
-      "TeacherRank": 1,
-      "FavorRank": 5,
-      "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100205,
-      "RewardParcelTypeLength": 176,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
-    },
-    {
-      "Id": 12006,
-      "CharacterId": 1051001,
-      "ScheduleGroupId": 1051001,
-      "OrderInGroup": 6,
-      "AcademyOperationType": "Lesson",
-      "Location": "샬레",
-      "DevName": "뒤늦은 깨달음",
-      "LocalizeEtcId": 3679975801,
-      "TeacherRank": 1,
-      "FavorRank": 6,
-      "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100206,
-      "RewardParcelTypeLength": 180,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
-    },
-    {
-      "Id": 12008,
-      "CharacterId": 1051001,
-      "ScheduleGroupId": 1051001,
-      "OrderInGroup": 8,
-      "AcademyOperationType": "Lesson",
-      "Location": "샬레",
-      "DevName": "뜻밖의 횡재",
-      "LocalizeEtcId": 1765455477,
-      "TeacherRank": 1,
-      "FavorRank": 7,
-      "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100208,
-      "RewardParcelTypeLength": 180,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
-    },
-    {
-      "Id": 12009,
-      "CharacterId": 1051001,
-      "ScheduleGroupId": 1051001,
-      "OrderInGroup": 9,
-      "AcademyOperationType": "Lesson",
-      "Location": "샬레",
-      "DevName": "아주 잠깐의 휴식",
-      "LocalizeEtcId": 268597447,
-      "TeacherRank": 1,
+      "DevName": "선생의 오해",
+      "LocalizeScenarioId": 3130291039,
       "FavorRank": 8,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100209,
-      "RewardParcelTypeLength": 220,
-      "RewardParcelIdLength": 184,
-      "RewardParcelDevNameLength": 104,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1000608,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        100
+      ]
     },
     {
-      "Id": 13002,
-      "CharacterId": 1051002,
-      "ScheduleGroupId": 1051002,
+      "Id": 100072,
+      "CharacterId": 10007,
+      "ScheduleGroupId": 10007,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "모범 시민",
+      "LocalizeScenarioId": 2951685534,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000702,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 100073,
+      "CharacterId": 10007,
+      "ScheduleGroupId": 10007,
       "OrderInGroup": 2,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
-      "DevName": "우연한 만남이에요",
-      "LocalizeEtcId": 2185895314,
-      "TeacherRank": 1,
-      "FavorRank": 2,
+      "DevName": "수상한 해킹",
+      "LocalizeScenarioId": 3090443160,
+      "FavorRank": 3,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100402,
-      "RewardParcelTypeLength": 180,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1000703,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
     },
     {
-      "Id": 13003,
-      "CharacterId": 1051002,
-      "ScheduleGroupId": 1051002,
+      "Id": 100075,
+      "CharacterId": 10007,
+      "ScheduleGroupId": 10007,
       "OrderInGroup": 3,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
-      "DevName": "청소할 시간이에요",
-      "LocalizeEtcId": 4178006097,
-      "TeacherRank": 1,
-      "FavorRank": 3,
+      "DevName": "천재와 바보는 종이 한 장 차이",
+      "LocalizeScenarioId": 364389697,
+      "FavorRank": 5,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100403,
-      "RewardParcelTypeLength": 180,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1000705,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
     },
     {
-      "Id": 13005,
-      "CharacterId": 1051002,
-      "ScheduleGroupId": 1051002,
+      "Id": 100076,
+      "CharacterId": 10007,
+      "ScheduleGroupId": 10007,
+      "OrderInGroup": 4,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "미화 정비",
+      "LocalizeScenarioId": 350096205,
+      "FavorRank": 6,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000706,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        80
+      ]
+    },
+    {
+      "Id": 100078,
+      "CharacterId": 10007,
+      "ScheduleGroupId": 10007,
       "OrderInGroup": 5,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
-      "DevName": "보답할 시간이에요",
-      "LocalizeEtcId": 3805747206,
-      "TeacherRank": 1,
-      "FavorRank": 5,
-      "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100405,
-      "RewardParcelTypeLength": 180,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
-    },
-    {
-      "Id": 13006,
-      "CharacterId": 1051002,
-      "ScheduleGroupId": 1051002,
-      "OrderInGroup": 6,
-      "AcademyOperationType": "Lesson",
-      "Location": "샬레",
-      "DevName": "게임은 즐거워요",
-      "LocalizeEtcId": 1981228029,
-      "TeacherRank": 1,
-      "FavorRank": 6,
-      "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100406,
-      "RewardParcelTypeLength": 176,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
-    },
-    {
-      "Id": 13008,
-      "CharacterId": 1051002,
-      "ScheduleGroupId": 1051002,
-      "OrderInGroup": 8,
-      "AcademyOperationType": "Lesson",
-      "Location": "샬레",
-      "DevName": "건강해지는 거예요",
-      "LocalizeEtcId": 1553085826,
-      "TeacherRank": 1,
-      "FavorRank": 7,
-      "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100408,
-      "RewardParcelTypeLength": 180,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
-    },
-    {
-      "Id": 13009,
-      "CharacterId": 1051002,
-      "ScheduleGroupId": 1051002,
-      "OrderInGroup": 9,
-      "AcademyOperationType": "Lesson",
-      "Location": "샬레",
-      "DevName": "다과회를 준비하는 거예요",
-      "LocalizeEtcId": 2401933387,
-      "TeacherRank": 1,
+      "DevName": "영원한 추억",
+      "LocalizeScenarioId": 1003290137,
       "FavorRank": 8,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100409,
-      "RewardParcelTypeLength": 180,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1000708,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        10007
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyMaki"
+      ],
+      "RewardAmount": [
+        100,
+        1
+      ]
     },
     {
-      "Id": 14002,
-      "CharacterId": 1051000,
-      "ScheduleGroupId": 1051000,
+      "Id": 100082,
+      "CharacterId": 10008,
+      "ScheduleGroupId": 10008,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "아침, 메이드, 청소!",
+      "LocalizeScenarioId": 2727647181,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000802,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 100083,
+      "CharacterId": 10008,
+      "ScheduleGroupId": 10008,
       "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "네루에게 병문안",
+      "LocalizeScenarioId": 3312820670,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000803,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 100085,
+      "CharacterId": 10008,
+      "ScheduleGroupId": 10008,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "네루의 병문안",
+      "LocalizeScenarioId": 2327048759,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000805,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 100086,
+      "CharacterId": 10008,
+      "ScheduleGroupId": 10008,
+      "OrderInGroup": 4,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "지각대소동",
+      "LocalizeScenarioId": 127779370,
+      "FavorRank": 6,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000806,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        80
+      ]
+    },
+    {
+      "Id": 100088,
+      "CharacterId": 10008,
+      "ScheduleGroupId": 10008,
+      "OrderInGroup": 5,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "빛나는 밤",
+      "LocalizeScenarioId": 2759482117,
+      "FavorRank": 8,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000808,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        10008
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyNeru"
+      ],
+      "RewardAmount": [
+        100,
+        1
+      ]
+    },
+    {
+      "Id": 100092,
+      "CharacterId": 10009,
+      "ScheduleGroupId": 10009,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "음식을 더욱 맛있게 먹는 법",
+      "LocalizeScenarioId": 3792410708,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000902,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 100093,
+      "CharacterId": 10009,
+      "ScheduleGroupId": 10009,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "맛있는 푸딩 이야기",
+      "LocalizeScenarioId": 2981660607,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000903,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 100095,
+      "CharacterId": 10009,
+      "ScheduleGroupId": 10009,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "나도 모르게 한 입!",
+      "LocalizeScenarioId": 2884713095,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1000905,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        10009
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyIzumi"
+      ],
+      "RewardAmount": [
+        60,
+        1
+      ]
+    },
+    {
+      "Id": 100102,
+      "CharacterId": 10010,
+      "ScheduleGroupId": 10010,
+      "OrderInGroup": 1,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
       "DevName": "러닝 머신",
-      "LocalizeEtcId": 956866295,
-      "TeacherRank": 1,
+      "LocalizeScenarioId": 1974828165,
       "FavorRank": 2,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100302,
-      "RewardParcelTypeLength": 176,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1001002,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
     },
     {
-      "Id": 14003,
-      "CharacterId": 1051000,
-      "ScheduleGroupId": 1051000,
-      "OrderInGroup": 3,
+      "Id": 100103,
+      "CharacterId": 10010,
+      "ScheduleGroupId": 10010,
+      "OrderInGroup": 2,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
       "DevName": "거리 두기",
-      "LocalizeEtcId": 3702368002,
-      "TeacherRank": 1,
+      "LocalizeScenarioId": 4290065928,
       "FavorRank": 3,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100303,
-      "RewardParcelTypeLength": 176,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1001003,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
     },
     {
-      "Id": 14005,
-      "CharacterId": 1051000,
-      "ScheduleGroupId": 1051000,
-      "OrderInGroup": 5,
+      "Id": 100105,
+      "CharacterId": 10010,
+      "ScheduleGroupId": 10010,
+      "OrderInGroup": 3,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
       "DevName": "로드 싸이클",
-      "LocalizeEtcId": 3191956061,
-      "TeacherRank": 1,
+      "LocalizeScenarioId": 1760556289,
       "FavorRank": 5,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100305,
-      "RewardParcelTypeLength": 180,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1001005,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
     },
     {
-      "Id": 14006,
-      "CharacterId": 1051000,
-      "ScheduleGroupId": 1051000,
-      "OrderInGroup": 6,
+      "Id": 100106,
+      "CharacterId": 10010,
+      "ScheduleGroupId": 10010,
+      "OrderInGroup": 4,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
       "DevName": "지하철",
-      "LocalizeEtcId": 687689654,
-      "TeacherRank": 1,
+      "LocalizeScenarioId": 157262830,
       "FavorRank": 6,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100306,
-      "RewardParcelTypeLength": 180,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1001006,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        80
+      ]
     },
     {
-      "Id": 14008,
-      "CharacterId": 1051000,
-      "ScheduleGroupId": 1051000,
-      "OrderInGroup": 8,
+      "Id": 100108,
+      "CharacterId": 10010,
+      "ScheduleGroupId": 10010,
+      "OrderInGroup": 5,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
       "DevName": "도시 관찰",
-      "LocalizeEtcId": 570157065,
-      "TeacherRank": 1,
-      "FavorRank": 7,
+      "LocalizeScenarioId": 2507710158,
+      "FavorRank": 8,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100308,
-      "RewardParcelTypeLength": 176,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1001008,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        100
+      ]
     },
     {
-      "Id": 14009,
-      "CharacterId": 1051000,
-      "ScheduleGroupId": 1051000,
-      "OrderInGroup": 9,
+      "Id": 100109,
+      "CharacterId": 10010,
+      "ScheduleGroupId": 10010,
+      "OrderInGroup": 6,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
       "DevName": "개인 면담",
-      "LocalizeEtcId": 2910126396,
-      "TeacherRank": 1,
-      "FavorRank": 8,
+      "LocalizeScenarioId": 2464084323,
+      "FavorRank": 9,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100309,
-      "RewardParcelTypeLength": 220,
-      "RewardParcelIdLength": 184,
-      "RewardParcelDevNameLength": 104,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1001009,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        10010
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyShiroko"
+      ],
+      "RewardAmount": [
+        120,
+        1
+      ]
     },
     {
-      "Id": 15002,
-      "CharacterId": 1062000,
-      "ScheduleGroupId": 1062000,
+      "Id": 100112,
+      "CharacterId": 10011,
+      "ScheduleGroupId": 10011,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "간식 시간",
+      "LocalizeScenarioId": 587639145,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1001102,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 100113,
+      "CharacterId": 10011,
+      "ScheduleGroupId": 10011,
       "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "식사 후에는 깨끗이 양치를",
+      "LocalizeScenarioId": 1235064322,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1001103,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 100115,
+      "CharacterId": 10011,
+      "ScheduleGroupId": 10011,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "나이 들지 않았는 걸!",
+      "LocalizeScenarioId": 1104721180,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1001105,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 100116,
+      "CharacterId": 10011,
+      "ScheduleGroupId": 10011,
+      "OrderInGroup": 4,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "높게 높게",
+      "LocalizeScenarioId": 541355867,
+      "FavorRank": 6,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1001106,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        80
+      ]
+    },
+    {
+      "Id": 100118,
+      "CharacterId": 10011,
+      "ScheduleGroupId": 10011,
+      "OrderInGroup": 5,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "선물 고르기",
+      "LocalizeScenarioId": 3562536085,
+      "FavorRank": 8,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1001108,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Id": 100119,
+      "CharacterId": 10011,
+      "ScheduleGroupId": 10011,
+      "OrderInGroup": 6,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "달콤한 오후의 낮잠",
+      "LocalizeScenarioId": 2538754249,
+      "FavorRank": 9,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1001109,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        10011
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyShun"
+      ],
+      "RewardAmount": [
+        120,
+        1
+      ]
+    },
+    {
+      "Id": 100122,
+      "CharacterId": 10012,
+      "ScheduleGroupId": 10012,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "트레이너 등장!",
+      "LocalizeScenarioId": 2503992938,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1001202,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 100123,
+      "CharacterId": 10012,
+      "ScheduleGroupId": 10012,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "트레이너와 함께",
+      "LocalizeScenarioId": 2757435988,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1001203,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 100125,
+      "CharacterId": 10012,
+      "ScheduleGroupId": 10012,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "트레이너도 함께",
+      "LocalizeScenarioId": 2129718510,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1001205,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        10012
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbySumire"
+      ],
+      "RewardAmount": [
+        60,
+        1
+      ]
+    },
+    {
+      "Id": 100126,
+      "CharacterId": 10012,
+      "ScheduleGroupId": 10012,
+      "OrderInGroup": 4,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "트레이너와 데이트",
+      "LocalizeScenarioId": 789432916,
+      "FavorRank": 6,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1001206,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        80
+      ]
+    },
+    {
+      "Id": 100132,
+      "CharacterId": 10013,
+      "ScheduleGroupId": 10013,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "거리감이 중요해!",
+      "LocalizeScenarioId": 567004708,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1001302,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 100133,
+      "CharacterId": 10013,
+      "ScheduleGroupId": 10013,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "셀카의 세계",
+      "LocalizeScenarioId": 2269971719,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1001303,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 100135,
+      "CharacterId": 10013,
+      "ScheduleGroupId": 10013,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "어른의 데이트",
+      "LocalizeScenarioId": 2150949239,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1001305,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        10013
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyTsurugi"
+      ],
+      "RewardAmount": [
+        60,
+        1
+      ]
+    },
+    {
+      "Id": 130002,
+      "CharacterId": 13000,
+      "ScheduleGroupId": 13000,
+      "OrderInGroup": 1,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
       "DevName": "당신이 저의 주인님입니까? 1",
-      "LocalizeEtcId": 3808621487,
-      "TeacherRank": 1,
+      "LocalizeScenarioId": 96680612,
       "FavorRank": 2,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100602,
-      "RewardParcelTypeLength": 176,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1300002,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
     },
     {
-      "Id": 15003,
-      "CharacterId": 1062000,
-      "ScheduleGroupId": 1062000,
-      "OrderInGroup": 3,
+      "Id": 130003,
+      "CharacterId": 13000,
+      "ScheduleGroupId": 13000,
+      "OrderInGroup": 2,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
       "DevName": "당신이 저의 주인님입니까? 2",
-      "LocalizeEtcId": 1199080559,
-      "TeacherRank": 1,
+      "LocalizeScenarioId": 4136338484,
       "FavorRank": 3,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100603,
-      "RewardParcelTypeLength": 176,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1300003,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
     },
     {
-      "Id": 15005,
-      "CharacterId": 1062000,
-      "ScheduleGroupId": 1062000,
-      "OrderInGroup": 5,
+      "Id": 130005,
+      "CharacterId": 13000,
+      "ScheduleGroupId": 13000,
+      "OrderInGroup": 3,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
       "DevName": "함께 걷는 시간",
-      "LocalizeEtcId": 3298168834,
-      "TeacherRank": 1,
+      "LocalizeScenarioId": 3512349930,
       "FavorRank": 5,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100605,
-      "RewardParcelTypeLength": 176,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1300005,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
     },
     {
-      "Id": 15006,
-      "CharacterId": 1062000,
-      "ScheduleGroupId": 1062000,
-      "OrderInGroup": 6,
+      "Id": 130006,
+      "CharacterId": 13000,
+      "ScheduleGroupId": 13000,
+      "OrderInGroup": 4,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
       "DevName": "잠든 숲 속의 메이드",
-      "LocalizeEtcId": 355985321,
-      "TeacherRank": 1,
+      "LocalizeScenarioId": 1225828462,
       "FavorRank": 6,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100606,
-      "RewardParcelTypeLength": 180,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1300006,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        80
+      ]
     },
     {
-      "Id": 15008,
-      "CharacterId": 1062000,
-      "ScheduleGroupId": 1062000,
-      "OrderInGroup": 8,
+      "Id": 130008,
+      "CharacterId": 13000,
+      "ScheduleGroupId": 13000,
+      "OrderInGroup": 5,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
       "DevName": "좋은 아침입니다 주인님.",
-      "LocalizeEtcId": 867471595,
-      "TeacherRank": 1,
-      "FavorRank": 7,
+      "LocalizeScenarioId": 211557474,
+      "FavorRank": 8,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100608,
-      "RewardParcelTypeLength": 180,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1300008,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        100
+      ]
     },
     {
-      "Id": 15009,
-      "CharacterId": 1062000,
-      "ScheduleGroupId": 1062000,
-      "OrderInGroup": 9,
+      "Id": 130009,
+      "CharacterId": 13000,
+      "ScheduleGroupId": 13000,
+      "OrderInGroup": 6,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
       "DevName": "빛나는 오후를 맞이하며",
-      "LocalizeEtcId": 681305162,
-      "TeacherRank": 1,
-      "FavorRank": 8,
+      "LocalizeScenarioId": 1160899660,
+      "FavorRank": 9,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100609,
-      "RewardParcelTypeLength": 180,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1300009,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        13000
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyAkane"
+      ],
+      "RewardAmount": [
+        120,
+        1
+      ]
     },
     {
-      "Id": 16002,
-      "CharacterId": 2033000,
-      "ScheduleGroupId": 2033000,
+      "Id": 130012,
+      "CharacterId": 13001,
+      "ScheduleGroupId": 13001,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "구름의 냄새",
+      "LocalizeScenarioId": 4046207094,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300102,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 130013,
+      "CharacterId": 13001,
+      "ScheduleGroupId": 13001,
       "OrderInGroup": 2,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
-      "DevName": "검은 제복",
-      "LocalizeEtcId": 2064169837,
-      "TeacherRank": 1,
-      "FavorRank": 2,
+      "DevName": "음양부의 아이돌",
+      "LocalizeScenarioId": 1745027801,
+      "FavorRank": 3,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100702,
-      "RewardParcelTypeLength": 176,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1300103,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
     },
     {
-      "Id": 16003,
-      "CharacterId": 2033000,
-      "ScheduleGroupId": 2033000,
+      "Id": 130015,
+      "CharacterId": 13001,
+      "ScheduleGroupId": 13001,
       "OrderInGroup": 3,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
-      "DevName": "정의란 무엇인가",
-      "LocalizeEtcId": 1677291335,
-      "TeacherRank": 1,
-      "FavorRank": 3,
+      "DevName": "달밤, 특별한, 하이쿠짓기",
+      "LocalizeScenarioId": 1120186993,
+      "FavorRank": 5,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100703,
-      "RewardParcelTypeLength": 176,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1300105,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        13001
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyChise"
+      ],
+      "RewardAmount": [
+        60,
+        1
+      ]
     },
     {
-      "Id": 16005,
-      "CharacterId": 2033000,
-      "ScheduleGroupId": 2033000,
+      "Id": 130032,
+      "CharacterId": 13003,
+      "ScheduleGroupId": 13003,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "엇나간 커뮤니케이션",
+      "LocalizeScenarioId": 3523370044,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300302,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 130033,
+      "CharacterId": 13003,
+      "ScheduleGroupId": 13003,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "깨닫지 못한 사실",
+      "LocalizeScenarioId": 192545007,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300303,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 130035,
+      "CharacterId": 13003,
+      "ScheduleGroupId": 13003,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "황혼의 시간",
+      "LocalizeScenarioId": 1119295837,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300305,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 130036,
+      "CharacterId": 13003,
+      "ScheduleGroupId": 13003,
+      "OrderInGroup": 4,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "스트레스의 원인",
+      "LocalizeScenarioId": 926903321,
+      "FavorRank": 6,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300306,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        80
+      ]
+    },
+    {
+      "Id": 130038,
+      "CharacterId": 13003,
+      "ScheduleGroupId": 13003,
       "OrderInGroup": 5,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
-      "DevName": "저격수의 시련 1",
-      "LocalizeEtcId": 879817516,
-      "TeacherRank": 1,
-      "FavorRank": 5,
+      "DevName": "짧지만 사치스러운",
+      "LocalizeScenarioId": 1985523315,
+      "FavorRank": 8,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100705,
-      "RewardParcelTypeLength": 176,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1300308,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        13003
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyHasumi"
+      ],
+      "RewardAmount": [
+        100,
+        1
+      ]
     },
     {
-      "Id": 16006,
-      "CharacterId": 2033000,
-      "ScheduleGroupId": 2033000,
+      "Id": 130042,
+      "CharacterId": 13004,
+      "ScheduleGroupId": 13004,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "우연한 만남이에요",
+      "LocalizeScenarioId": 2219405563,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300402,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 130043,
+      "CharacterId": 13004,
+      "ScheduleGroupId": 13004,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "청소할 시간이에요",
+      "LocalizeScenarioId": 3468758278,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300403,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 130045,
+      "CharacterId": 13004,
+      "ScheduleGroupId": 13004,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "보답할 시간이에요",
+      "LocalizeScenarioId": 1361707422,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300405,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        13004
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyNonomi"
+      ],
+      "RewardAmount": [
+        60,
+        1
+      ]
+    },
+    {
+      "Id": 130046,
+      "CharacterId": 13004,
+      "ScheduleGroupId": 13004,
+      "OrderInGroup": 4,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "게임은 즐거워요",
+      "LocalizeScenarioId": 273794540,
+      "FavorRank": 6,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300406,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        80
+      ]
+    },
+    {
+      "Id": 130048,
+      "CharacterId": 13004,
+      "ScheduleGroupId": 13004,
+      "OrderInGroup": 5,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "건강해지는 거예요",
+      "LocalizeScenarioId": 1938906934,
+      "FavorRank": 8,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300408,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Id": 130052,
+      "CharacterId": 13005,
+      "ScheduleGroupId": 13005,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "불심검문",
+      "LocalizeScenarioId": 2971539326,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300502,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 130053,
+      "CharacterId": 13005,
+      "ScheduleGroupId": 13005,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "사무실 청소",
+      "LocalizeScenarioId": 3541264622,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300503,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 130055,
+      "CharacterId": 13005,
+      "ScheduleGroupId": 13005,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "락 스피릿",
+      "LocalizeScenarioId": 110591004,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300505,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 130056,
+      "CharacterId": 13005,
+      "ScheduleGroupId": 13005,
+      "OrderInGroup": 4,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "비 오는 날의 골목",
+      "LocalizeScenarioId": 4006123680,
+      "FavorRank": 6,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300506,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        13005
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyKayoko"
+      ],
+      "RewardAmount": [
+        80,
+        1
+      ]
+    },
+    {
+      "Id": 130058,
+      "CharacterId": 13005,
+      "ScheduleGroupId": 13005,
+      "OrderInGroup": 5,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "음반 매장",
+      "LocalizeScenarioId": 3930206688,
+      "FavorRank": 8,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300508,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Id": 130062,
+      "CharacterId": 13006,
+      "ScheduleGroupId": 13006,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "소악마는 노는 걸 좋아해",
+      "LocalizeScenarioId": 3727448249,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300602,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 130063,
+      "CharacterId": 13006,
+      "ScheduleGroupId": 13006,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "소악마의 형언할 수 없는 비밀",
+      "LocalizeScenarioId": 630673951,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300603,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 130065,
+      "CharacterId": 13006,
+      "ScheduleGroupId": 13006,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "소악마의 취미생활",
+      "LocalizeScenarioId": 3654338495,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300605,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 130066,
+      "CharacterId": 13006,
+      "ScheduleGroupId": 13006,
+      "OrderInGroup": 4,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "누군가의 특별한 의뢰",
+      "LocalizeScenarioId": 2198801559,
+      "FavorRank": 6,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300606,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        13006
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyMutsuki"
+      ],
+      "RewardAmount": [
+        80,
+        1
+      ]
+    },
+    {
+      "Id": 130082,
+      "CharacterId": 13008,
+      "ScheduleGroupId": 13008,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "아르바이트 보조",
+      "LocalizeScenarioId": 772933003,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300802,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 130083,
+      "CharacterId": 13008,
+      "ScheduleGroupId": 13008,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "하드한 밤샘 알바",
+      "LocalizeScenarioId": 1065594543,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300803,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 130085,
+      "CharacterId": 13008,
+      "ScheduleGroupId": 13008,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "공원 잡초 뽑기",
+      "LocalizeScenarioId": 2794306484,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300805,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 130086,
+      "CharacterId": 13008,
+      "ScheduleGroupId": 13008,
+      "OrderInGroup": 4,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "뒤늦은 깨달음",
+      "LocalizeScenarioId": 3688572742,
+      "FavorRank": 6,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300806,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        80
+      ]
+    },
+    {
+      "Id": 130088,
+      "CharacterId": 13008,
+      "ScheduleGroupId": 13008,
+      "OrderInGroup": 5,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "뜻밖의 횡재",
+      "LocalizeScenarioId": 2323863848,
+      "FavorRank": 8,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300808,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Id": 130089,
+      "CharacterId": 13008,
+      "ScheduleGroupId": 13008,
       "OrderInGroup": 6,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
-      "DevName": "저격수의 시련 2",
-      "LocalizeEtcId": 2871848751,
-      "TeacherRank": 1,
+      "DevName": "아주 잠깐의 휴식",
+      "LocalizeScenarioId": 1234311581,
+      "FavorRank": 9,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300809,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        13008
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbySerika"
+      ],
+      "RewardAmount": [
+        120,
+        1
+      ]
+    },
+    {
+      "Id": 130092,
+      "CharacterId": 13009,
+      "ScheduleGroupId": 13009,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "오늘도 열심히 꾸벅꾸벅 수행",
+      "LocalizeScenarioId": 3375124759,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300902,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 130093,
+      "CharacterId": 13009,
+      "ScheduleGroupId": 13009,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "츠바키의 수행법 : 도구편 ",
+      "LocalizeScenarioId": 462720006,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300903,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 130095,
+      "CharacterId": 13009,
+      "ScheduleGroupId": 13009,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "츠바키의 수행법 : 실행편",
+      "LocalizeScenarioId": 2496334832,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300905,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 130096,
+      "CharacterId": 13009,
+      "ScheduleGroupId": 13009,
+      "OrderInGroup": 4,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "당신과 함께 수행하기 좋은 곳 ",
+      "LocalizeScenarioId": 1683959468,
       "FavorRank": 6,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100706,
-      "RewardParcelTypeLength": 176,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1300906,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        13009
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyTsubaki"
+      ],
+      "RewardAmount": [
+        80,
+        1
+      ]
     },
     {
-      "Id": 16008,
-      "CharacterId": 2033000,
-      "ScheduleGroupId": 2033000,
-      "OrderInGroup": 8,
+      "Id": 130101,
+      "CharacterId": 13010,
+      "ScheduleGroupId": 13010,
+      "OrderInGroup": 1,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
-      "DevName": "정의의 실현",
-      "LocalizeEtcId": 1666300470,
-      "TeacherRank": 1,
-      "FavorRank": 7,
+      "DevName": "소비는 계획적으로",
+      "LocalizeScenarioId": 1231386408,
+      "FavorRank": 1,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100708,
-      "RewardParcelTypeLength": 180,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1301001,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        13010
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyYuuka"
+      ],
+      "RewardAmount": [
+        20,
+        1
+      ]
     },
     {
-      "Id": 16009,
-      "CharacterId": 2033000,
-      "ScheduleGroupId": 2033000,
-      "OrderInGroup": 9,
+      "Id": 130103,
+      "CharacterId": 13010,
+      "ScheduleGroupId": 13010,
+      "OrderInGroup": 2,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
-      "DevName": "연기와 바보는 높은 곳을 좋아한다",
-      "LocalizeEtcId": 3993837398,
-      "TeacherRank": 1,
+      "DevName": "계산할 수 없는 가치",
+      "LocalizeScenarioId": 1926315910,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1301003,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 130105,
+      "CharacterId": 13010,
+      "ScheduleGroupId": 13010,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "인간 계산기",
+      "LocalizeScenarioId": 3246715250,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1301005,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 130106,
+      "CharacterId": 13010,
+      "ScheduleGroupId": 13010,
+      "OrderInGroup": 4,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "늦잠",
+      "LocalizeScenarioId": 540132105,
+      "FavorRank": 6,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1301006,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        80
+      ]
+    },
+    {
+      "Id": 130108,
+      "CharacterId": 13010,
+      "ScheduleGroupId": 13010,
+      "OrderInGroup": 5,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "포커 페이스",
+      "LocalizeScenarioId": 1211884829,
       "FavorRank": 8,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 100709,
-      "RewardParcelTypeLength": 176,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 1301008,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        100
+      ]
     },
     {
-      "Id": 17002,
-      "CharacterId": 2062000,
-      "ScheduleGroupId": 2062000,
+      "Id": 130072,
+      "CharacterId": 13007,
+      "ScheduleGroupId": 13007,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "성실함의 보상",
+      "LocalizeScenarioId": 1112893421,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300702,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 130073,
+      "CharacterId": 13007,
+      "ScheduleGroupId": 13007,
       "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "가짜 음식",
+      "LocalizeScenarioId": 2643568139,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300703,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 130075,
+      "CharacterId": 13007,
+      "ScheduleGroupId": 13007,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "빈곤한 미식회",
+      "LocalizeScenarioId": 2129465828,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300705,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 130076,
+      "CharacterId": 13007,
+      "ScheduleGroupId": 13007,
+      "OrderInGroup": 4,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "위장 단련",
+      "LocalizeScenarioId": 1991574778,
+      "FavorRank": 6,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300706,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        80
+      ]
+    },
+    {
+      "Id": 130078,
+      "CharacterId": 13007,
+      "ScheduleGroupId": 13007,
+      "OrderInGroup": 5,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "고독하지 않은 미식가",
+      "LocalizeScenarioId": 3866442346,
+      "FavorRank": 8,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300708,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        13007
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyZunko"
+      ],
+      "RewardAmount": [
+        100,
+        1
+      ]
+    },
+    {
+      "Id": 130022,
+      "CharacterId": 13002,
+      "ScheduleGroupId": 13002,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "페이스 메이커",
+      "LocalizeScenarioId": 4201884713,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300202,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 130023,
+      "CharacterId": 13002,
+      "ScheduleGroupId": 13002,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "마늘은 포기할 수 없어",
+      "LocalizeScenarioId": 2932734876,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300203,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 130025,
+      "CharacterId": 13002,
+      "ScheduleGroupId": 13002,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "대식가 출입 금지",
+      "LocalizeScenarioId": 940784146,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300205,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        13002
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyAkari"
+      ],
+      "RewardAmount": [
+        60,
+        1
+      ]
+    },
+    {
+      "Id": 130026,
+      "CharacterId": 13002,
+      "ScheduleGroupId": 13002,
+      "OrderInGroup": 4,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "미식가의 긍지",
+      "LocalizeScenarioId": 929421191,
+      "FavorRank": 6,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1300206,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        80
+      ]
+    },
+    {
+      "Id": 160022,
+      "CharacterId": 16002,
+      "ScheduleGroupId": 16002,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "제 설명을 들어요!",
+      "LocalizeScenarioId": 2227241074,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1600202,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 160023,
+      "CharacterId": 16002,
+      "ScheduleGroupId": 16002,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "그거라면 제대로 찾아오셨습니다!",
+      "LocalizeScenarioId": 1879189076,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1600203,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 160025,
+      "CharacterId": 16002,
+      "ScheduleGroupId": 16002,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "정답은 바로 선생님이에요!",
+      "LocalizeScenarioId": 587880302,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1600205,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 200002,
+      "CharacterId": 20000,
+      "ScheduleGroupId": 20000,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "마이스터라 불러줘.",
+      "LocalizeScenarioId": 4152216310,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2000002,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 200003,
+      "CharacterId": 20000,
+      "ScheduleGroupId": 20000,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "마음으로 타오르는 불꽃",
+      "LocalizeScenarioId": 714863453,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2000003,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 200005,
+      "CharacterId": 20000,
+      "ScheduleGroupId": 20000,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "당신의 마음에 스트라이크",
+      "LocalizeScenarioId": 919844422,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2000005,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 200006,
+      "CharacterId": 20000,
+      "ScheduleGroupId": 20000,
+      "OrderInGroup": 4,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "만약 꿈을 꾼다면, 당신과의 하루를.",
+      "LocalizeScenarioId": 2764647337,
+      "FavorRank": 6,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2000006,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        80
+      ]
+    },
+    {
+      "Id": 200008,
+      "CharacterId": 20000,
+      "ScheduleGroupId": 20000,
+      "OrderInGroup": 5,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "비가 내리면 센티멘탈",
+      "LocalizeScenarioId": 1446176968,
+      "FavorRank": 8,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2000008,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Id": 200009,
+      "CharacterId": 20000,
+      "ScheduleGroupId": 20000,
+      "OrderInGroup": 6,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "이 밤을 당신에게!",
+      "LocalizeScenarioId": 3087974166,
+      "FavorRank": 9,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2000009,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        20000
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyHibiki"
+      ],
+      "RewardAmount": [
+        120,
+        1
+      ]
+    },
+    {
+      "Id": 200012,
+      "CharacterId": 20001,
+      "ScheduleGroupId": 20001,
+      "OrderInGroup": 1,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
       "DevName": "도움이 필요하다면, C&C에!",
-      "LocalizeEtcId": 1891125296,
-      "TeacherRank": 1,
+      "LocalizeScenarioId": 326397231,
       "FavorRank": 2,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 101302,
-      "RewardParcelTypeLength": 180,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 2000102,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
     },
     {
-      "Id": 17003,
-      "CharacterId": 2062000,
-      "ScheduleGroupId": 2062000,
-      "OrderInGroup": 3,
+      "Id": 200013,
+      "CharacterId": 20001,
+      "ScheduleGroupId": 20001,
+      "OrderInGroup": 2,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
       "DevName": "공부는 어려워 1",
-      "LocalizeEtcId": 3034900773,
-      "TeacherRank": 1,
+      "LocalizeScenarioId": 2895507513,
       "FavorRank": 3,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 101303,
-      "RewardParcelTypeLength": 176,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 2000103,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
     },
     {
-      "Id": 17005,
-      "CharacterId": 2062000,
-      "ScheduleGroupId": 2062000,
-      "OrderInGroup": 5,
+      "Id": 200015,
+      "CharacterId": 20001,
+      "ScheduleGroupId": 20001,
+      "OrderInGroup": 3,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
       "DevName": "공부는 어려워 2",
-      "LocalizeEtcId": 1217795815,
-      "TeacherRank": 1,
+      "LocalizeScenarioId": 3585362705,
       "FavorRank": 5,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 101305,
-      "RewardParcelTypeLength": 176,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 2000105,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
     },
     {
-      "Id": 17006,
-      "CharacterId": 2062000,
-      "ScheduleGroupId": 2062000,
-      "OrderInGroup": 6,
+      "Id": 200016,
+      "CharacterId": 20001,
+      "ScheduleGroupId": 20001,
+      "OrderInGroup": 4,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
       "DevName": "나와 선생님의 관계?",
-      "LocalizeEtcId": 2596099464,
-      "TeacherRank": 1,
+      "LocalizeScenarioId": 2935757546,
       "FavorRank": 6,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 101306,
-      "RewardParcelTypeLength": 180,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 2000106,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        80
+      ]
     },
     {
-      "Id": 17008,
-      "CharacterId": 2062000,
-      "ScheduleGroupId": 2062000,
-      "OrderInGroup": 8,
+      "Id": 200018,
+      "CharacterId": 20001,
+      "ScheduleGroupId": 20001,
+      "OrderInGroup": 5,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
       "DevName": "메이드 카페! 1",
-      "LocalizeEtcId": 1902345227,
-      "TeacherRank": 1,
-      "FavorRank": 7,
+      "LocalizeScenarioId": 2617383226,
+      "FavorRank": 8,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 101308,
-      "RewardParcelTypeLength": 180,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 2000108,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        100
+      ]
     },
     {
-      "Id": 17009,
-      "CharacterId": 2062000,
-      "ScheduleGroupId": 2062000,
-      "OrderInGroup": 9,
+      "Id": 200019,
+      "CharacterId": 20001,
+      "ScheduleGroupId": 20001,
+      "OrderInGroup": 6,
       "AcademyOperationType": "Lesson",
       "Location": "샬레",
       "DevName": "메이드 카페! 2",
-      "LocalizeEtcId": 3023068168,
-      "TeacherRank": 1,
+      "LocalizeScenarioId": 4006315302,
+      "FavorRank": 9,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2000109,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        20001
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyKarin"
+      ],
+      "RewardAmount": [
+        120,
+        1
+      ]
+    },
+    {
+      "Id": 200022,
+      "CharacterId": 20002,
+      "ScheduleGroupId": 20002,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "사야의 실험실에 어서오세요!",
+      "LocalizeScenarioId": 1892946756,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2000202,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 200023,
+      "CharacterId": 20002,
+      "ScheduleGroupId": 20002,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "불로불사의 영약",
+      "LocalizeScenarioId": 3516083753,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2000203,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 200025,
+      "CharacterId": 20002,
+      "ScheduleGroupId": 20002,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "다이어트 약",
+      "LocalizeScenarioId": 3136929583,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2000205,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 200026,
+      "CharacterId": 20002,
+      "ScheduleGroupId": 20002,
+      "OrderInGroup": 4,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "치즈 인 더 트랩",
+      "LocalizeScenarioId": 2005157098,
+      "FavorRank": 6,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2000206,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        80
+      ]
+    },
+    {
+      "Id": 200028,
+      "CharacterId": 20002,
+      "ScheduleGroupId": 20002,
+      "OrderInGroup": 5,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "사랑의 묘약",
+      "LocalizeScenarioId": 1919898173,
       "FavorRank": 8,
       "SecretStoneAmount": 1,
-      "ScenarioSriptGroupId": 101309,
-      "RewardParcelTypeLength": 180,
-      "RewardParcelIdLength": 152,
-      "RewardParcelDevNameLength": 96,
-      "RewardAmountLength": 72
+      "ScenarioSriptGroupId": 2000208,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        20002
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbySaya"
+      ],
+      "RewardAmount": [
+        100,
+        1
+      ]
+    },
+    {
+      "Id": 200029,
+      "CharacterId": 20002,
+      "ScheduleGroupId": 20002,
+      "OrderInGroup": 6,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "네즈스케의 행방불명",
+      "LocalizeScenarioId": 501439135,
+      "FavorRank": 9,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2000209,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        120
+      ]
+    },
+    {
+      "Id": 230012,
+      "CharacterId": 23001,
+      "ScheduleGroupId": 23001,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "장보러 가실래요?",
+      "LocalizeScenarioId": 998099366,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2300102,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 230013,
+      "CharacterId": 23001,
+      "ScheduleGroupId": 23001,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "후우카 씨의 오늘의 밥상",
+      "LocalizeScenarioId": 2342057365,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2300103,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 230015,
+      "CharacterId": 23001,
+      "ScheduleGroupId": 23001,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "또 장보러 가요!",
+      "LocalizeScenarioId": 3824807776,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2300105,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 230016,
+      "CharacterId": 23001,
+      "ScheduleGroupId": 23001,
+      "OrderInGroup": 4,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "오늘만큼은 선생님만의 밥상",
+      "LocalizeScenarioId": 1043403340,
+      "FavorRank": 6,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2300106,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        23001
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyFuuka"
+      ],
+      "RewardAmount": [
+        80,
+        1
+      ]
+    },
+    {
+      "Id": 230018,
+      "CharacterId": 23001,
+      "ScheduleGroupId": 23001,
+      "OrderInGroup": 5,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "급양부의 부장님은 힘내고 싶어!",
+      "LocalizeScenarioId": 2861325865,
+      "FavorRank": 8,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2300108,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Id": 230022,
+      "CharacterId": 23002,
+      "ScheduleGroupId": 23002,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "주사를 아프지 않게 놓는 방법",
+      "LocalizeScenarioId": 68609484,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2300202,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 230023,
+      "CharacterId": 23002,
+      "ScheduleGroupId": 23002,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "불면증",
+      "LocalizeScenarioId": 3359142014,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2300203,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 230025,
+      "CharacterId": 23002,
+      "ScheduleGroupId": 23002,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "라디오 체조",
+      "LocalizeScenarioId": 468644606,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2300205,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 230026,
+      "CharacterId": 23002,
+      "ScheduleGroupId": 23002,
+      "OrderInGroup": 4,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "트리니티식 외과 수술법",
+      "LocalizeScenarioId": 1129161301,
+      "FavorRank": 6,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2300206,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        23002
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyHanae"
+      ],
+      "RewardAmount": [
+        80,
+        1
+      ]
+    },
+    {
+      "Id": 230028,
+      "CharacterId": 23002,
+      "ScheduleGroupId": 23002,
+      "OrderInGroup": 5,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "나팔꽃 관찰일기",
+      "LocalizeScenarioId": 2874947170,
+      "FavorRank": 8,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2300208,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Id": 260012,
+      "CharacterId": 26001,
+      "ScheduleGroupId": 26001,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "어른의 비밀",
+      "LocalizeScenarioId": 2135935597,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2600102,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 260013,
+      "CharacterId": 26001,
+      "ScheduleGroupId": 26001,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "메리 씨의 전파",
+      "LocalizeScenarioId": 533037626,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2600103,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 260015,
+      "CharacterId": 26001,
+      "ScheduleGroupId": 26001,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "말할 수 없는 비밀",
+      "LocalizeScenarioId": 3144808590,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2600105,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 230042,
+      "CharacterId": 23004,
+      "ScheduleGroupId": 23004,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "장인 정신",
+      "LocalizeScenarioId": 4062519371,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2300402,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 230043,
+      "CharacterId": 23004,
+      "ScheduleGroupId": 23004,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "장인은 도구를 가리지 않는다",
+      "LocalizeScenarioId": 1586945368,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2300403,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 230045,
+      "CharacterId": 23004,
+      "ScheduleGroupId": 23004,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "완벽한 애니멀로이드",
+      "LocalizeScenarioId": 945629632,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2300405,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 230046,
+      "CharacterId": 23004,
+      "ScheduleGroupId": 23004,
+      "OrderInGroup": 4,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "보이고 싶지 않은 모습",
+      "LocalizeScenarioId": 2115816456,
+      "FavorRank": 6,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2300406,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        23004
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyUtaha"
+      ],
+      "RewardAmount": [
+        80,
+        1
+      ]
+    },
+    {
+      "Id": 230048,
+      "CharacterId": 23004,
+      "ScheduleGroupId": 23004,
+      "OrderInGroup": 5,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "마이스터의 훈장",
+      "LocalizeScenarioId": 1405659911,
+      "FavorRank": 8,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2300408,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Id": 230032,
+      "CharacterId": 23003,
+      "ScheduleGroupId": 23003,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "해커의 이미지",
+      "LocalizeScenarioId": 1512221497,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2300302,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 230033,
+      "CharacterId": 23003,
+      "ScheduleGroupId": 23003,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "에너지 드링크 중독",
+      "LocalizeScenarioId": 775079157,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2300303,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 230035,
+      "CharacterId": 23003,
+      "ScheduleGroupId": 23003,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "넷카페에 어서오세요",
+      "LocalizeScenarioId": 363645391,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2300305,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        23003
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyHare"
+      ],
+      "RewardAmount": [
+        60,
+        1
+      ]
+    },
+    {
+      "Id": 230036,
+      "CharacterId": 23003,
+      "ScheduleGroupId": 23003,
+      "OrderInGroup": 4,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "기계의 배신",
+      "LocalizeScenarioId": 3961304199,
+      "FavorRank": 6,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2300306,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        80
+      ]
+    },
+    {
+      "Id": 260032,
+      "CharacterId": 26003,
+      "ScheduleGroupId": 26003,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "트리니티의 천사",
+      "LocalizeScenarioId": 244804059,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2600302,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 260033,
+      "CharacterId": 26003,
+      "ScheduleGroupId": 26003,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "야근에 내려온 천사",
+      "LocalizeScenarioId": 1246494305,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2600303,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 260035,
+      "CharacterId": 26003,
+      "ScheduleGroupId": 26003,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "언제나 어디서나 세리나",
+      "LocalizeScenarioId": 3235653381,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2600305,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 260052,
+      "CharacterId": 26005,
+      "ScheduleGroupId": 26005,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "양보할 수 없어!",
+      "LocalizeScenarioId": 2128994052,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2600502,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 260053,
+      "CharacterId": 26005,
+      "ScheduleGroupId": 26005,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "마카롱 데스 첼린지",
+      "LocalizeScenarioId": 2140540293,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2600503,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 260055,
+      "CharacterId": 26005,
+      "ScheduleGroupId": 26005,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "스터디 인 카페",
+      "LocalizeScenarioId": 188196592,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2600505,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 160032,
+      "CharacterId": 16003,
+      "ScheduleGroupId": 16003,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "트리니티의 자경단",
+      "LocalizeScenarioId": 3128096708,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1600302,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 160033,
+      "CharacterId": 16003,
+      "ScheduleGroupId": 16003,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "눈이 멀 정도로 빛나게",
+      "LocalizeScenarioId": 1108192908,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1600303,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 160035,
+      "CharacterId": 16003,
+      "ScheduleGroupId": 16003,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "섬광만능주의",
+      "LocalizeScenarioId": 813863657,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1600305,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 260042,
+      "CharacterId": 26004,
+      "ScheduleGroupId": 26004,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "책이 좋은 소녀",
+      "LocalizeScenarioId": 2044734478,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2600402,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 260043,
+      "CharacterId": 26004,
+      "ScheduleGroupId": 26004,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "비밀이 생겼어요",
+      "LocalizeScenarioId": 341307521,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2600403,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 260045,
+      "CharacterId": 26004,
+      "ScheduleGroupId": 26004,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "미지의 보물찾기",
+      "LocalizeScenarioId": 1860734903,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2600405,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 230002,
+      "CharacterId": 23000,
+      "ScheduleGroupId": 23000,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "점심 대신 디저트",
+      "LocalizeScenarioId": 1596075158,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2300002,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 230003,
+      "CharacterId": 23000,
+      "ScheduleGroupId": 23000,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "당분이 필요해요",
+      "LocalizeScenarioId": 2315835548,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2300003,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 230005,
+      "CharacterId": 23000,
+      "ScheduleGroupId": 23000,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "아이리의 고민",
+      "LocalizeScenarioId": 1960740624,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2300005,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 230006,
+      "CharacterId": 23000,
+      "ScheduleGroupId": 23000,
+      "OrderInGroup": 4,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "잠깐의 데이트",
+      "LocalizeScenarioId": 408399339,
+      "FavorRank": 6,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2300006,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        23000
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyAiri"
+      ],
+      "RewardAmount": [
+        80,
+        1
+      ]
+    },
+    {
+      "Id": 230052,
+      "CharacterId": 23005,
+      "ScheduleGroupId": 23005,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "아야네의 취미 생활",
+      "LocalizeScenarioId": 1186793633,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2300502,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 230053,
+      "CharacterId": 23005,
+      "ScheduleGroupId": 23005,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "달려라 아야네",
+      "LocalizeScenarioId": 1069713218,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2300503,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 230055,
+      "CharacterId": 23005,
+      "ScheduleGroupId": 23005,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "학교 수리 잔혹극",
+      "LocalizeScenarioId": 247517590,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2300505,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        23005
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyAyane"
+      ],
+      "RewardAmount": [
+        60,
+        1
+      ]
+    },
+    {
+      "Id": 260002,
+      "CharacterId": 26000,
+      "ScheduleGroupId": 26000,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "누군가는 해야만 하는 일",
+      "LocalizeScenarioId": 1782328244,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2600002,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 260003,
+      "CharacterId": 26000,
+      "ScheduleGroupId": 26000,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "아무 일 없는 하루",
+      "LocalizeScenarioId": 2999062443,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2600003,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 260005,
+      "CharacterId": 26000,
+      "ScheduleGroupId": 26000,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "피로회복 고민상담",
+      "LocalizeScenarioId": 43408834,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2600005,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 160002,
+      "CharacterId": 16000,
+      "ScheduleGroupId": 16000,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "잘못된 연락",
+      "LocalizeScenarioId": 1548146425,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1600002,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 160003,
+      "CharacterId": 16000,
+      "ScheduleGroupId": 16000,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "잘못된 소통",
+      "LocalizeScenarioId": 1671304279,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1600003,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 160005,
+      "CharacterId": 16000,
+      "ScheduleGroupId": 16000,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "잘못된 방식",
+      "LocalizeScenarioId": 633551809,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1600005,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 260022,
+      "CharacterId": 26002,
+      "ScheduleGroupId": 26002,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "가장 중요한 향신료",
+      "LocalizeScenarioId": 3547031295,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2600202,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 260023,
+      "CharacterId": 26002,
+      "ScheduleGroupId": 26002,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "소녀의 요리법",
+      "LocalizeScenarioId": 2010079435,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2600203,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 260025,
+      "CharacterId": 26002,
+      "ScheduleGroupId": 26002,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "소녀는 극복하고 싶어.",
+      "LocalizeScenarioId": 2441506309,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2600205,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 160012,
+      "CharacterId": 16001,
+      "ScheduleGroupId": 16001,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "마이 페이스의 그녀",
+      "LocalizeScenarioId": 294424124,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1600102,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 160013,
+      "CharacterId": 16001,
+      "ScheduleGroupId": 16001,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "우연한 미행 데이트",
+      "LocalizeScenarioId": 2056547858,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1600103,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 160015,
+      "CharacterId": 16001,
+      "ScheduleGroupId": 16001,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "메이드의 깜짝 선물",
+      "LocalizeScenarioId": 658609856,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1600105,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 160042,
+      "CharacterId": 16004,
+      "ScheduleGroupId": 16004,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "임협학생",
+      "LocalizeScenarioId": 998617790,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1600402,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 160043,
+      "CharacterId": 16004,
+      "ScheduleGroupId": 16004,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "중요한 건 내면",
+      "LocalizeScenarioId": 1867792173,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1600403,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 160045,
+      "CharacterId": 16004,
+      "ScheduleGroupId": 16004,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "끝나지 않는 밤",
+      "LocalizeScenarioId": 3908561949,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 1600405,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 200032,
+      "CharacterId": 20003,
+      "ScheduleGroupId": 20003,
+      "OrderInGroup": 1,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "검은 제복",
+      "LocalizeScenarioId": 204930277,
+      "FavorRank": 2,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2000302,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 200033,
+      "CharacterId": 20003,
+      "ScheduleGroupId": 20003,
+      "OrderInGroup": 2,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "정의란 무엇인가",
+      "LocalizeScenarioId": 1919817649,
+      "FavorRank": 3,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2000303,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        40
+      ]
+    },
+    {
+      "Id": 200035,
+      "CharacterId": 20003,
+      "ScheduleGroupId": 20003,
+      "OrderInGroup": 3,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "저격수의 시련 1",
+      "LocalizeScenarioId": 1461678656,
+      "FavorRank": 5,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2000305,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        60
+      ]
+    },
+    {
+      "Id": 200036,
+      "CharacterId": 20003,
+      "ScheduleGroupId": 20003,
+      "OrderInGroup": 4,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "저격수의 시련 2",
+      "LocalizeScenarioId": 3085822654,
+      "FavorRank": 6,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2000306,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        80
+      ]
+    },
+    {
+      "Id": 200038,
+      "CharacterId": 20003,
+      "ScheduleGroupId": 20003,
+      "OrderInGroup": 5,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "정의의 실현",
+      "LocalizeScenarioId": 872429701,
+      "FavorRank": 8,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2000308,
+      "RewardParcelType": [
+        "Currency",
+        "MemoryLobby"
+      ],
+      "RewardParcelId": [
+        3,
+        20003
+      ],
+      "RewardParcelDevName": [
+        "GemBonus",
+        "LobbyMashiro"
+      ],
+      "RewardAmount": [
+        100,
+        1
+      ]
+    },
+    {
+      "Id": 200039,
+      "CharacterId": 20003,
+      "ScheduleGroupId": 20003,
+      "OrderInGroup": 6,
+      "AcademyOperationType": "Lesson",
+      "Location": "샬레",
+      "DevName": "연기와 바보는 높은 곳을 좋아한다",
+      "LocalizeScenarioId": 534884064,
+      "FavorRank": 9,
+      "SecretStoneAmount": 1,
+      "ScenarioSriptGroupId": 2000309,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardParcelDevName": [
+        "GemBonus"
+      ],
+      "RewardAmount": [
+        120
+      ]
     }
   ]
 }

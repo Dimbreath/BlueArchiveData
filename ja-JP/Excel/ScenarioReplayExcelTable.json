@@ -6,10 +6,12 @@
       "ReplayType": "Event",
       "ChapterId": 1,
       "EpisodeId": 1,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [
+        11010
+      ],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 2,
@@ -17,10 +19,12 @@
       "ReplayType": "Event",
       "ChapterId": 1,
       "EpisodeId": 2,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [
+        11020
+      ],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 3,
@@ -28,10 +32,12 @@
       "ReplayType": "Event",
       "ChapterId": 1,
       "EpisodeId": 3,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [
+        11030
+      ],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 4,
@@ -39,10 +45,12 @@
       "ReplayType": "Event",
       "ChapterId": 1,
       "EpisodeId": 4,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [
+        11040
+      ],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 5,
@@ -50,10 +58,12 @@
       "ReplayType": "Event",
       "ChapterId": 1,
       "EpisodeId": 5,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [
+        11050
+      ],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 6,
@@ -61,10 +71,12 @@
       "ReplayType": "Event",
       "ChapterId": 1,
       "EpisodeId": 6,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [
+        11060
+      ],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 7,
@@ -72,10 +84,12 @@
       "ReplayType": "Event",
       "ChapterId": 1,
       "EpisodeId": 7,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [
+        11070
+      ],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 8,
@@ -83,10 +97,12 @@
       "ReplayType": "Event",
       "ChapterId": 1,
       "EpisodeId": 8,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [
+        11080
+      ],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 9,
@@ -94,10 +110,13 @@
       "ReplayType": "Event",
       "ChapterId": 1,
       "EpisodeId": 9,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [
+        11090,
+        11095
+      ],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 10,
@@ -105,10 +124,12 @@
       "ReplayType": "Event",
       "ChapterId": 1,
       "EpisodeId": 10,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [
+        11100
+      ],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 11,
@@ -116,10 +137,12 @@
       "ReplayType": "Event",
       "ChapterId": 1,
       "EpisodeId": 11,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [
+        11110
+      ],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 12,
@@ -127,10 +150,12 @@
       "ReplayType": "Event",
       "ChapterId": 1,
       "EpisodeId": 12,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [
+        11120
+      ],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 13,
@@ -138,10 +163,12 @@
       "ReplayType": "Event",
       "ChapterId": 1,
       "EpisodeId": 13,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [
+        11130
+      ],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 14,
@@ -149,10 +176,12 @@
       "ReplayType": "Event",
       "ChapterId": 1,
       "EpisodeId": 14,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [
+        11140
+      ],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 15,
@@ -160,10 +189,12 @@
       "ReplayType": "Event",
       "ChapterId": 1,
       "EpisodeId": 15,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [
+        11150
+      ],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 16,
@@ -171,10 +202,12 @@
       "ReplayType": "Event",
       "ChapterId": 1,
       "EpisodeId": 16,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [
+        11160
+      ],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 17,
@@ -182,10 +215,12 @@
       "ReplayType": "Event",
       "ChapterId": 1,
       "EpisodeId": 17,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [
+        11170
+      ],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 18,
@@ -193,10 +228,12 @@
       "ReplayType": "Event",
       "ChapterId": 1,
       "EpisodeId": 18,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [
+        11180
+      ],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 19,
@@ -204,10 +241,13 @@
       "ReplayType": "Event",
       "ChapterId": 1,
       "EpisodeId": 19,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [
+        11190,
+        11195
+      ],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 20,
@@ -215,10 +255,12 @@
       "ReplayType": "Event",
       "ChapterId": 1,
       "EpisodeId": 20,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [
+        11200
+      ],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 21,
@@ -226,10 +268,10 @@
       "ReplayType": "Event",
       "ChapterId": 1,
       "EpisodeId": 1,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 22,
@@ -237,10 +279,10 @@
       "ReplayType": "Event",
       "ChapterId": 1,
       "EpisodeId": 1,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 101,
@@ -248,10 +290,12 @@
       "ReplayType": "Favor",
       "ChapterId": 1,
       "EpisodeId": 1,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [
+        1101
+      ],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 102,
@@ -259,10 +303,12 @@
       "ReplayType": "Favor",
       "ChapterId": 1,
       "EpisodeId": 2,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [
+        1102
+      ],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 103,
@@ -270,10 +316,12 @@
       "ReplayType": "Favor",
       "ChapterId": 1,
       "EpisodeId": 3,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [
+        1103
+      ],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 201,
@@ -281,10 +329,12 @@
       "ReplayType": "Favor",
       "ChapterId": 1,
       "EpisodeId": 1,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [
+        1201
+      ],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 202,
@@ -292,10 +342,12 @@
       "ReplayType": "Favor",
       "ChapterId": 1,
       "EpisodeId": 2,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [
+        1202
+      ],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 203,
@@ -303,10 +355,12 @@
       "ReplayType": "Favor",
       "ChapterId": 1,
       "EpisodeId": 3,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [
+        1203
+      ],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 301,
@@ -314,10 +368,12 @@
       "ReplayType": "Favor",
       "ChapterId": 1,
       "EpisodeId": 1,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [
+        1301
+      ],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 401,
@@ -325,10 +381,10 @@
       "ReplayType": "Favor",
       "ChapterId": 1,
       "EpisodeId": 1,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 501,
@@ -336,10 +392,10 @@
       "ReplayType": "Favor",
       "ChapterId": 1,
       "EpisodeId": 1,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 601,
@@ -347,10 +403,10 @@
       "ReplayType": "Favor",
       "ChapterId": 1,
       "EpisodeId": 1,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 701,
@@ -358,10 +414,10 @@
       "ReplayType": "Favor",
       "ChapterId": 1,
       "EpisodeId": 1,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 801,
@@ -369,10 +425,10 @@
       "ReplayType": "Favor",
       "ChapterId": 1,
       "EpisodeId": 1,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 901,
@@ -380,10 +436,10 @@
       "ReplayType": "Favor",
       "ChapterId": 1,
       "EpisodeId": 1,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 1001,
@@ -391,10 +447,10 @@
       "ReplayType": "Favor",
       "ChapterId": 1,
       "EpisodeId": 1,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 1101,
@@ -402,10 +458,10 @@
       "ReplayType": "Favor",
       "ChapterId": 1,
       "EpisodeId": 1,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 1201,
@@ -413,10 +469,10 @@
       "ReplayType": "Favor",
       "ChapterId": 1,
       "EpisodeId": 1,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 1301,
@@ -424,10 +480,10 @@
       "ReplayType": "Favor",
       "ChapterId": 1,
       "EpisodeId": 1,
-      "FrontScenarioGroupIdLength": 68,
+      "FrontScenarioGroupId": [],
       "GroundId": 20000001,
       "BattleDuration": 180000,
-      "BackScenarioGroupIdLength": 56
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 100001,
@@ -435,8 +491,12 @@
       "ReplayType": "Work",
       "ChapterId": 1,
       "EpisodeId": 1,
-      "FrontScenarioGroupIdLength": 52,
-      "BackScenarioGroupIdLength": 40
+      "FrontScenarioGroupId": [
+        1100000
+      ],
+      "GroundId": 0,
+      "BattleDuration": 0,
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 100002,
@@ -444,8 +504,12 @@
       "ReplayType": "Work",
       "ChapterId": 1,
       "EpisodeId": 2,
-      "FrontScenarioGroupIdLength": 52,
-      "BackScenarioGroupIdLength": 40
+      "FrontScenarioGroupId": [
+        1100001
+      ],
+      "GroundId": 0,
+      "BattleDuration": 0,
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 100003,
@@ -453,8 +517,12 @@
       "ReplayType": "Work",
       "ChapterId": 1,
       "EpisodeId": 3,
-      "FrontScenarioGroupIdLength": 52,
-      "BackScenarioGroupIdLength": 40
+      "FrontScenarioGroupId": [
+        1100002
+      ],
+      "GroundId": 0,
+      "BattleDuration": 0,
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 100004,
@@ -462,8 +530,12 @@
       "ReplayType": "Work",
       "ChapterId": 1,
       "EpisodeId": 4,
-      "FrontScenarioGroupIdLength": 52,
-      "BackScenarioGroupIdLength": 40
+      "FrontScenarioGroupId": [
+        1100003
+      ],
+      "GroundId": 0,
+      "BattleDuration": 0,
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 200001,
@@ -471,8 +543,12 @@
       "ReplayType": "Work",
       "ChapterId": 1,
       "EpisodeId": 1,
-      "FrontScenarioGroupIdLength": 52,
-      "BackScenarioGroupIdLength": 40
+      "FrontScenarioGroupId": [
+        1200000
+      ],
+      "GroundId": 0,
+      "BattleDuration": 0,
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 200002,
@@ -480,8 +556,12 @@
       "ReplayType": "Work",
       "ChapterId": 1,
       "EpisodeId": 2,
-      "FrontScenarioGroupIdLength": 52,
-      "BackScenarioGroupIdLength": 40
+      "FrontScenarioGroupId": [
+        1200001
+      ],
+      "GroundId": 0,
+      "BattleDuration": 0,
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 200003,
@@ -489,8 +569,12 @@
       "ReplayType": "Work",
       "ChapterId": 1,
       "EpisodeId": 3,
-      "FrontScenarioGroupIdLength": 52,
-      "BackScenarioGroupIdLength": 40
+      "FrontScenarioGroupId": [
+        1200002
+      ],
+      "GroundId": 0,
+      "BattleDuration": 0,
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 200004,
@@ -498,8 +582,12 @@
       "ReplayType": "Work",
       "ChapterId": 1,
       "EpisodeId": 4,
-      "FrontScenarioGroupIdLength": 52,
-      "BackScenarioGroupIdLength": 40
+      "FrontScenarioGroupId": [
+        1200003
+      ],
+      "GroundId": 0,
+      "BattleDuration": 0,
+      "BackScenarioGroupId": []
     },
     {
       "ModeId": 200005,
@@ -507,8 +595,12 @@
       "ReplayType": "Work",
       "ChapterId": 1,
       "EpisodeId": 5,
-      "FrontScenarioGroupIdLength": 52,
-      "BackScenarioGroupIdLength": 40
+      "FrontScenarioGroupId": [
+        1200004
+      ],
+      "GroundId": 0,
+      "BattleDuration": 0,
+      "BackScenarioGroupId": []
     }
   ]
 }

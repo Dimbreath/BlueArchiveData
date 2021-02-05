@@ -1,0 +1,16 @@
+{
+  "DataList": [
+    {
+      "LocationRankSum": 1,
+      "ScheduleTicktetMax": 3
+    },
+    {
+      "LocationRankSum": 10,
+      "ScheduleTicktetMax": 4
+    },
+    {
+      "LocationRankSum": 25,
+      "ScheduleTicktetMax": 5
+    }
+  ]
+}

@@ -3,110 +3,468 @@
     {
       "ID": 1,
       "DevName": "메인스토리0-1",
-      "CompletionReportEventName": "Prologue_start",
+      "CompletionReportEventName": "tutorial_first",
       "CompulsoryTutorial": true,
-      "UINameLength": 100,
-      "TutorialParentNameLength": 12
+      "DescriptionTutorial": false,
+      "TutorialStageId": 0,
+      "UIName": [
+        "UIScenarioNew",
+        "UIBattle",
+        "UIBattle",
+        "UIBattle"
+      ],
+      "TutorialParentName": [
+        "Tutorial_01",
+        "Tutorial_01",
+        "Tutorial_02",
+        "Tutorial_03"
+      ]
     },
     {
       "ID": 2,
       "DevName": "메인스토리0-2",
-      "CompletionReportEventName": "Prologue_2nd",
+      "CompletionReportEventName": null,
       "CompulsoryTutorial": true,
-      "UINameLength": 84,
-      "TutorialParentNameLength": 16
+      "DescriptionTutorial": false,
+      "TutorialStageId": 0,
+      "UIName": [
+        "UIScenarioNew",
+        "UIBattle",
+        "UIBattle"
+      ],
+      "TutorialParentName": [
+        "Tutorial_01",
+        "Tutorial_04",
+        "Tutorial_05"
+      ]
     },
     {
       "ID": 3,
       "DevName": "가챠튜토리얼",
       "CompletionReportEventName": "Tutorial_gacha",
       "CompulsoryTutorial": true,
-      "UINameLength": 100,
-      "TutorialParentNameLength": 12
+      "DescriptionTutorial": false,
+      "TutorialStageId": 0,
+      "UIName": [
+        "UILobby",
+        "UIGacha",
+        "UIPopup_System",
+        "UIGachaResult"
+      ],
+      "TutorialParentName": [
+        "Tutorial_01",
+        "Tutorial_01",
+        "Tutorial_01",
+        "Tutorial_01"
+      ]
     },
     {
       "ID": 4,
       "DevName": "스테이지01튜토리얼",
-      "CompletionReportEventName": "Tutorial_finish",
+      "CompletionReportEventName": "tutorial_complete",
       "CompulsoryTutorial": true,
-      "UINameLength": 264,
-      "TutorialParentNameLength": 16
+      "DescriptionTutorial": false,
+      "TutorialStageId": 0,
+      "UIName": [
+        "UIStageSelect",
+        "UICampaign",
+        "UIFormation",
+        "UIPopup_Formation_CharEdit",
+        "UIFormation",
+        "UICampaign",
+        "UICampaign",
+        "UICampaign",
+        "UICampaign",
+        "UICampaign",
+        "UICampaign",
+        "UIRewardPopup"
+      ],
+      "TutorialParentName": [
+        "Tutorial_01",
+        "Tutorial_01",
+        "Tutorial_01",
+        "Tutorial_01",
+        "Tutorial_02",
+        "Tutorial_02",
+        "Tutorial_03",
+        "Tutorial_04",
+        "Tutorial_05",
+        "Tutorial_06",
+        "Tutorial_07",
+        "Tutorial_01"
+      ]
     },
     {
       "ID": 5,
-      "DevName": "특별 로비 설명",
-      "UINameLength": 60,
-      "TutorialParentNameLength": 12
+      "DevName": "모모톡 튜토리얼",
+      "CompletionReportEventName": null,
+      "CompulsoryTutorial": false,
+      "DescriptionTutorial": false,
+      "TutorialStageId": 0,
+      "UIName": [
+        "UILobby",
+        "UIAcademyMessanger"
+      ],
+      "TutorialParentName": [
+        "Tutorial_02",
+        "Tutorial_01"
+      ]
     },
     {
       "ID": 6,
-      "DevName": "스토리 설명",
-      "UINameLength": 44,
-      "TutorialParentNameLength": 16
+      "DevName": "캐릭터 성장",
+      "CompletionReportEventName": null,
+      "CompulsoryTutorial": false,
+      "DescriptionTutorial": false,
+      "TutorialStageId": 0,
+      "UIName": [
+        "UICharacterCollection",
+        "UICharacterDetail"
+      ],
+      "TutorialParentName": [
+        "Tutorial_01",
+        "Tutorial_01"
+      ]
     },
     {
       "ID": 7,
-      "DevName": "스케쥴 설명",
-      "UINameLength": 84,
-      "TutorialParentNameLength": 16
+      "DevName": "장비 성장",
+      "CompletionReportEventName": null,
+      "CompulsoryTutorial": false,
+      "DescriptionTutorial": false,
+      "TutorialStageId": 0,
+      "UIName": [
+        "UICharacterCollection",
+        "UICharacterDetail"
+      ],
+      "TutorialParentName": [
+        "Tutorial_02",
+        "Tutorial_02"
+      ]
     },
     {
       "ID": 8,
-      "DevName": "임무 하드 설명",
-      "UINameLength": 60,
-      "TutorialParentNameLength": 12
+      "DevName": "업무 설명",
+      "CompletionReportEventName": null,
+      "CompulsoryTutorial": false,
+      "DescriptionTutorial": true,
+      "TutorialStageId": 0,
+      "UIName": [
+        "UIWork"
+      ],
+      "TutorialParentName": [
+        "Tutorial_01"
+      ]
     },
     {
       "ID": 9,
-      "DevName": "특별 임무 설명",
-      "UINameLength": 120,
-      "TutorialParentNameLength": 12
+      "DevName": "카페 튜토리얼",
+      "CompletionReportEventName": null,
+      "CompulsoryTutorial": false,
+      "DescriptionTutorial": false,
+      "TutorialStageId": 0,
+      "UIName": [
+        "UICafe",
+        "UICafeCurrencyStackPopup"
+      ],
+      "TutorialParentName": [
+        "Tutorial_01",
+        "Tutorial_01"
+      ]
     },
     {
       "ID": 10,
-      "DevName": "레이드 설명",
-      "UINameLength": 40,
-      "TutorialParentNameLength": 12
+      "DevName": "스킬 성장",
+      "CompletionReportEventName": null,
+      "CompulsoryTutorial": false,
+      "DescriptionTutorial": false,
+      "TutorialStageId": 0,
+      "UIName": [
+        "UICharacterCollection",
+        "UICharacterDetail",
+        "UIPopup_Skill_LevelUp"
+      ],
+      "TutorialParentName": [
+        "Tutorial_03",
+        "Tutorial_03",
+        "Tutorial_01"
+      ]
     },
     {
       "ID": 11,
-      "DevName": "전술 대회 설명",
-      "UINameLength": 64,
-      "TutorialParentNameLength": 16
+      "DevName": "임무 하드 설명",
+      "CompletionReportEventName": null,
+      "CompulsoryTutorial": false,
+      "DescriptionTutorial": false,
+      "TutorialStageId": 0,
+      "UIName": [
+        "UIStageSelect",
+        "UICampaign"
+      ],
+      "TutorialParentName": [
+        "Tutorial_02",
+        "Tutorial_08"
+      ]
     },
     {
       "ID": 12,
-      "DevName": "학생한계해방설명",
-      "DescriptionTutorial": true,
-      "UINameLength": 44,
-      "TutorialParentNameLength": 16
+      "DevName": "레이드 설명",
+      "CompletionReportEventName": null,
+      "CompulsoryTutorial": false,
+      "DescriptionTutorial": false,
+      "TutorialStageId": 0,
+      "UIName": [
+        "UIRaidLobby"
+      ],
+      "TutorialParentName": [
+        "Tutorial_01"
+      ]
     },
     {
       "ID": 13,
-      "DevName": "학생스킬설명",
-      "DescriptionTutorial": true,
-      "UINameLength": 44,
-      "TutorialParentNameLength": 16
+      "DevName": "전술 대회 설명",
+      "CompletionReportEventName": null,
+      "CompulsoryTutorial": false,
+      "DescriptionTutorial": false,
+      "TutorialStageId": 0,
+      "UIName": [
+        "UIArena",
+        "UIPopup_ArenaFormation"
+      ],
+      "TutorialParentName": [
+        "Tutorial_01",
+        "Tutorial_01"
+      ]
     },
     {
       "ID": 14,
-      "DevName": "장비설명",
-      "DescriptionTutorial": true,
-      "UINameLength": 44,
-      "TutorialParentNameLength": 16
+      "DevName": "메모리얼 로비",
+      "CompletionReportEventName": null,
+      "CompulsoryTutorial": false,
+      "DescriptionTutorial": false,
+      "TutorialStageId": 0,
+      "UIName": [
+        "UILobby",
+        "UILobbyCharacterSelectPopup",
+        "UILobby"
+      ],
+      "TutorialParentName": [
+        "Tutorial_03",
+        "Tutorial_01",
+        "Tutorial_04"
+      ]
     },
     {
       "ID": 15,
-      "DevName": "업무설명",
-      "DescriptionTutorial": true,
-      "UINameLength": 44,
-      "TutorialParentNameLength": 16
+      "DevName": "배속 튜토리얼",
+      "CompletionReportEventName": null,
+      "CompulsoryTutorial": false,
+      "DescriptionTutorial": false,
+      "TutorialStageId": 0,
+      "UIName": [
+        "UIBattle"
+      ],
+      "TutorialParentName": [
+        "Tutorial_06"
+      ]
     },
     {
       "ID": 16,
-      "DevName": "캐릭터인벤토리",
-      "UINameLength": 80,
-      "TutorialParentNameLength": 12
+      "DevName": "제조 튜토리얼",
+      "CompletionReportEventName": null,
+      "CompulsoryTutorial": false,
+      "DescriptionTutorial": false,
+      "TutorialStageId": 0,
+      "UIName": [
+        "UICraftDurationList",
+        "UICraftDuration"
+      ],
+      "TutorialParentName": [
+        "Tutorial_01",
+        "Tutorial_01"
+      ]
+    },
+    {
+      "ID": 17,
+      "DevName": "스케쥴 튜토리얼",
+      "CompletionReportEventName": null,
+      "CompulsoryTutorial": false,
+      "DescriptionTutorial": false,
+      "TutorialStageId": 0,
+      "UIName": [
+        "UIAcademyLobby",
+        "UIAcademyLocation",
+        "UIAcademyLocationSchedulesPopup"
+      ],
+      "TutorialParentName": [
+        "Tutorial_01",
+        "Tutorial_01",
+        "Tutorial_01"
+      ]
+    },
+    {
+      "ID": 18,
+      "DevName": "조각모음 튜토리얼",
+      "CompletionReportEventName": null,
+      "CompulsoryTutorial": false,
+      "DescriptionTutorial": false,
+      "TutorialStageId": 0,
+      "UIName": [
+        "UILobby",
+        "UICharacterCollection",
+        "UICharacterDetail"
+      ],
+      "TutorialParentName": [
+        "Tutorial_05",
+        "Tutorial_04",
+        "Tutorial_04"
+      ]
+    },
+    {
+      "ID": 19,
+      "DevName": "스토리 튜토리얼",
+      "CompletionReportEventName": null,
+      "CompulsoryTutorial": false,
+      "DescriptionTutorial": false,
+      "TutorialStageId": 0,
+      "UIName": [
+        "UIScenarioMode_ModeSelect"
+      ],
+      "TutorialParentName": [
+        "Tutorial_01"
+      ]
+    },
+    {
+      "ID": 20,
+      "DevName": "특별의뢰 튜토리얼",
+      "CompletionReportEventName": null,
+      "CompulsoryTutorial": false,
+      "DescriptionTutorial": false,
+      "TutorialStageId": 0,
+      "UIName": [
+        "UIWeekDungeonLobby"
+      ],
+      "TutorialParentName": [
+        "Tutorial_01"
+      ]
+    },
+    {
+      "ID": 21,
+      "DevName": "현상수배 튜토리얼",
+      "CompletionReportEventName": null,
+      "CompulsoryTutorial": false,
+      "DescriptionTutorial": false,
+      "TutorialStageId": 0,
+      "UIName": [
+        "UIWeekDungeonLobby",
+        "UIGroupBuffPopup"
+      ],
+      "TutorialParentName": [
+        "Tutorial_02",
+        "Tutorial_01"
+      ]
+    },
+    {
+      "ID": 1011301,
+      "DevName": "튜토리얼 스테이지1",
+      "CompletionReportEventName": null,
+      "CompulsoryTutorial": false,
+      "DescriptionTutorial": false,
+      "TutorialStageId": 1011301,
+      "UIName": [
+        "UIBattle",
+        "UIBattle"
+      ],
+      "TutorialParentName": [
+        "Tutorial_1011301_01",
+        "Tutorial_1011301_02"
+      ]
+    },
+    {
+      "ID": 1011302,
+      "DevName": "튜토리얼 스테이지2",
+      "CompletionReportEventName": null,
+      "CompulsoryTutorial": false,
+      "DescriptionTutorial": false,
+      "TutorialStageId": 1011302,
+      "UIName": [
+        "UIBattle",
+        "UIBattle",
+        "UIBattle",
+        "UIBattle"
+      ],
+      "TutorialParentName": [
+        "Tutorial_1011302_01",
+        "Tutorial_1011302_02",
+        "Tutorial_1011302_03",
+        "Tutorial_1011302_04"
+      ]
+    },
+    {
+      "ID": 1011303,
+      "DevName": "튜토리얼 스테이지3",
+      "CompletionReportEventName": null,
+      "CompulsoryTutorial": false,
+      "DescriptionTutorial": false,
+      "TutorialStageId": 1011303,
+      "UIName": [
+        "UIBattle",
+        "UIBattle",
+        "UIBattle",
+        "UIBattle"
+      ],
+      "TutorialParentName": [
+        "Tutorial_1021303_01",
+        "Tutorial_1021303_02",
+        "Tutorial_1021303_03",
+        "Tutorial_1021303_04"
+      ]
+    },
+    {
+      "ID": 1021304,
+      "DevName": "튜토리얼 스테이지4",
+      "CompletionReportEventName": null,
+      "CompulsoryTutorial": false,
+      "DescriptionTutorial": false,
+      "TutorialStageId": 1021304,
+      "UIName": [
+        "UIBattle",
+        "UIBattle"
+      ],
+      "TutorialParentName": [
+        "Tutorial_1021304_01",
+        "Tutorial_1021304_02"
+      ]
+    },
+    {
+      "ID": 1031305,
+      "DevName": "튜토리얼 스테이지5",
+      "CompletionReportEventName": null,
+      "CompulsoryTutorial": false,
+      "DescriptionTutorial": false,
+      "TutorialStageId": 1031305,
+      "UIName": [
+        "UIBattle"
+      ],
+      "TutorialParentName": [
+        "Tutorial_1031305_01"
+      ]
+    },
+    {
+      "ID": 1031306,
+      "DevName": "튜토리얼 스테이지6",
+      "CompletionReportEventName": null,
+      "CompulsoryTutorial": false,
+      "DescriptionTutorial": false,
+      "TutorialStageId": 1031306,
+      "UIName": [
+        "UIBattle",
+        "UIBattle"
+      ],
+      "TutorialParentName": [
+        "Tutorial_1031306_01",
+        "Tutorial_1031306_02"
+      ]
     }
   ]
 }

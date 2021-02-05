@@ -2,11 +2,16 @@
   "DataList": [
     {
       "EchlonId": 1,
-      "FormationType": "Balance",
-      "LeaderId": 1061002,
-      "FrontIdLength": 56,
-      "BackIdLength": 36,
-      "SupportIdLength": 16
+      "LeaderId": 13010,
+      "MainId": [
+        13010,
+        16003,
+        13003
+      ],
+      "SupportId": [
+        26000
+      ],
+      "TssId": 0
     }
   ]
 }

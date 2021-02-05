@@ -1,0 +1,54 @@
+{
+  "DataList": [
+    {
+      "Rank": 1,
+      "RankExp": 100,
+      "TotalExp": 100
+    },
+    {
+      "Rank": 2,
+      "RankExp": 250,
+      "TotalExp": 350
+    },
+    {
+      "Rank": 3,
+      "RankExp": 450,
+      "TotalExp": 800
+    },
+    {
+      "Rank": 4,
+      "RankExp": 750,
+      "TotalExp": 1550
+    },
+    {
+      "Rank": 5,
+      "RankExp": 1150,
+      "TotalExp": 2700
+    },
+    {
+      "Rank": 6,
+      "RankExp": 1600,
+      "TotalExp": 4300
+    },
+    {
+      "Rank": 7,
+      "RankExp": 2100,
+      "TotalExp": 6400
+    },
+    {
+      "Rank": 8,
+      "RankExp": 2700,
+      "TotalExp": 9100
+    },
+    {
+      "Rank": 9,
+      "RankExp": 3400,
+      "TotalExp": 12500
+    },
+    {
+      "Rank": 10,
+      "RankExp": 0,
+      "TotalExp": 12500
+    }
+  ]
+}

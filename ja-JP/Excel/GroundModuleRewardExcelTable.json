@@ -1,40 +1,220 @@
 {
   "DataList": [
     {
-      "RewardId": 1699135692,
-      "RewardParcelTypeLength": 272,
-      "RewardParcelIdLength": 240,
-      "RewardParcelAmountLength": 204,
-      "RewardParcelProbabilityLength": 168,
-      "IsDisplayedLength": 156,
-      "DropItemModelPrefabPathLength": 4
+      "GroupId": 1699135692,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 560,
+      "RewardParcelProbability": 1000,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": "Effect/Common/FX_Common_DropItem_Yellow"
     },
     {
-      "RewardId": 3485155052,
-      "RewardParcelTypeLength": 276,
-      "RewardParcelIdLength": 240,
-      "RewardParcelAmountLength": 204,
-      "RewardParcelProbabilityLength": 168,
-      "IsDisplayedLength": 156,
-      "DropItemModelPrefabPathLength": 4
+      "GroupId": 1699135692,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 400,
+      "RewardParcelProbability": 5000,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": "Effect/Common/FX_Common_DropItem_Purple"
     },
     {
-      "RewardId": 1688928395,
-      "RewardParcelTypeLength": 272,
-      "RewardParcelIdLength": 240,
-      "RewardParcelAmountLength": 204,
-      "RewardParcelProbabilityLength": 168,
-      "IsDisplayedLength": 156,
-      "DropItemModelPrefabPathLength": 4
+      "GroupId": 1699135692,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 360,
+      "RewardParcelProbability": 4000,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": "Effect/Common/FX_Common_DropItem_Blue"
     },
     {
-      "RewardId": 21190413,
-      "RewardParcelTypeLength": 272,
-      "RewardParcelIdLength": 240,
-      "RewardParcelAmountLength": 204,
-      "RewardParcelProbabilityLength": 168,
-      "IsDisplayedLength": 156,
-      "DropItemModelPrefabPathLength": 4
+      "GroupId": 3485155052,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 1750,
+      "RewardParcelProbability": 1000,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": "Effect/Common/FX_Common_DropItem_Yellow"
+    },
+    {
+      "GroupId": 3485155052,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 1250,
+      "RewardParcelProbability": 5000,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": "Effect/Common/FX_Common_DropItem_Purple"
+    },
+    {
+      "GroupId": 3485155052,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 800,
+      "RewardParcelProbability": 4000,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": "Effect/Common/FX_Common_DropItem_Blue"
+    },
+    {
+      "GroupId": 1688928395,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 3000,
+      "RewardParcelProbability": 1000,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": "Effect/Common/FX_Common_DropItem_Yellow"
+    },
+    {
+      "GroupId": 1688928395,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 2400,
+      "RewardParcelProbability": 5000,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": "Effect/Common/FX_Common_DropItem_Purple"
+    },
+    {
+      "GroupId": 1688928395,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 1500,
+      "RewardParcelProbability": 4000,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": "Effect/Common/FX_Common_DropItem_Blue"
+    },
+    {
+      "GroupId": 21190413,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 5800,
+      "RewardParcelProbability": 1000,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": "Effect/Common/FX_Common_DropItem_Yellow"
+    },
+    {
+      "GroupId": 21190413,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 3800,
+      "RewardParcelProbability": 5000,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": "Effect/Common/FX_Common_DropItem_Purple"
+    },
+    {
+      "GroupId": 21190413,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 2800,
+      "RewardParcelProbability": 4000,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": "Effect/Common/FX_Common_DropItem_Blue"
+    },
+    {
+      "GroupId": 29510467,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 8800,
+      "RewardParcelProbability": 1000,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": "Effect/Common/FX_Common_DropItem_Yellow"
+    },
+    {
+      "GroupId": 29510467,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 6200,
+      "RewardParcelProbability": 5000,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": "Effect/Common/FX_Common_DropItem_Purple"
+    },
+    {
+      "GroupId": 29510467,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 4200,
+      "RewardParcelProbability": 4000,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": "Effect/Common/FX_Common_DropItem_Blue"
+    },
+    {
+      "GroupId": 3610473423,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 12800,
+      "RewardParcelProbability": 1000,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": "Effect/Common/FX_Common_DropItem_Yellow"
+    },
+    {
+      "GroupId": 3610473423,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 9200,
+      "RewardParcelProbability": 5000,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": "Effect/Common/FX_Common_DropItem_Purple"
+    },
+    {
+      "GroupId": 3610473423,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 6300,
+      "RewardParcelProbability": 4000,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": "Effect/Common/FX_Common_DropItem_Blue"
+    },
+    {
+      "GroupId": 1372438453,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 16500,
+      "RewardParcelProbability": 1000,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": "Effect/Common/FX_Common_DropItem_Yellow"
+    },
+    {
+      "GroupId": 1372438453,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 13500,
+      "RewardParcelProbability": 5000,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": "Effect/Common/FX_Common_DropItem_Purple"
+    },
+    {
+      "GroupId": 1372438453,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 8900,
+      "RewardParcelProbability": 4000,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": "Effect/Common/FX_Common_DropItem_Blue"
+    },
+    {
+      "GroupId": 2587047723,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 25500,
+      "RewardParcelProbability": 1000,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": "Effect/Common/FX_Common_DropItem_Yellow"
+    },
+    {
+      "GroupId": 2587047723,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 17200,
+      "RewardParcelProbability": 5000,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": "Effect/Common/FX_Common_DropItem_Purple"
+    },
+    {
+      "GroupId": 2587047723,
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 12800,
+      "RewardParcelProbability": 4000,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": "Effect/Common/FX_Common_DropItem_Blue"
     }
   ]
 }

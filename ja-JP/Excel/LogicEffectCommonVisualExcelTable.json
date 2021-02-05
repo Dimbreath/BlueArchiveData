@@ -4,434 +4,1285 @@
       "StringID": 3659979920,
       "DevName": "공격력 증가",
       "IconSpriteName": "Combat_Icon_Buff_ATK",
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 2901313264,
       "DevName": "방어력 증가",
       "IconSpriteName": "Combat_Icon_Buff_DEF",
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 1879638,
       "DevName": "명중률 증가",
       "IconSpriteName": "Combat_Icon_Buff_HIT",
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 1063124417,
       "DevName": "회피율 증가",
       "IconSpriteName": "Combat_Icon_Buff_Dodge",
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 2918162076,
       "DevName": "치명타 수치 증가",
       "IconSpriteName": "Combat_Icon_Buff_CriticalChance",
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 3729856231,
       "DevName": "치명타 대미지 증가",
       "IconSpriteName": "Combat_Icon_Buff_CriticalDamage",
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 893752000,
       "DevName": "시야 증가",
       "IconSpriteName": "Combat_Icon_Buff_View",
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 2878943974,
       "DevName": "이동속도 증가",
       "IconSpriteName": "Combat_Icon_Buff_MoveSpeed",
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 219420186,
       "DevName": "사거리 증가",
       "IconSpriteName": "Combat_Icon_Buff_Range",
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 2240433966,
       "DevName": "사격 속도 증가",
       "IconSpriteName": "Combat_Icon_Buff_AttackSpeed",
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 2744704006,
       "DevName": "최대 생명력 증가",
       "IconSpriteName": "Combat_Icon_Buff_MAXHP",
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 2730804290,
       "DevName": "탄약 수 증가",
       "IconSpriteName": "Combat_Icon_Buff_AmmoCount",
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 2017606013,
       "DevName": "받는 회복량 증가",
       "IconSpriteName": "Combat_Icon_Buff_HealEffectiveness",
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 1654039521,
       "DevName": "힐 파워 증가",
       "IconSpriteName": "Combat_Icon_Buff_HealPower",
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 1120194450,
       "DevName": "치명타 저항 수치 증가",
       "IconSpriteName": "Combat_Icon_Buff_CriticalChanceResistPoint",
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 2614070894,
       "DevName": "받는 대미지 감소",
       "IconSpriteName": "Combat_Icon_Buff_DamagedRatio",
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 466971287,
       "DevName": "주는 대미지 증가",
       "IconSpriteName": "Combat_Icon_Buff_DamageRatio",
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 1945596997,
       "DevName": "군중제어 강화 증가",
       "IconSpriteName": "Combat_Icon_Buff_OppressionPower",
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 984747699,
       "DevName": "군중제어 저항 증가",
       "IconSpriteName": "Combat_Icon_Buff_OppressionResist",
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
+    },
+    {
+      "StringID": 2226940592,
+      "DevName": "속성 대미지 증가",
+      "IconSpriteName": "Combat_Icon_Buff_BulletTypeDamage",
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
+      "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 641877810,
       "DevName": "일반 공격 속성 전환",
-      "IconSpriteName": "Combat_Icon_Buff_BulletTypeChange",
+      "IconSpriteName": "Combat_Icon_Special_SkillBulletTypeChange",
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
+    },
+    {
+      "StringID": 3236345739,
+      "DevName": "블록 확률 증가",
+      "IconSpriteName": "Combat_Icon_Buff_BlockRate",
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
+      "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
+    },
+    {
+      "StringID": 2464144566,
+      "DevName": "코스트 리젠 속도 증가(아이콘 미표시)",
+      "IconSpriteName": null,
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
+      "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 3975398267,
       "DevName": "공격력 감소",
       "IconSpriteName": "Combat_Icon_Debuff_ATK",
+      "IconDispelColor": [
+        0.247,
+        0.619,
+        0.93
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 2908221647,
       "DevName": "방어력 감소",
       "IconSpriteName": "Combat_Icon_Debuff_DEF",
+      "IconDispelColor": [
+        0.247,
+        0.619,
+        0.93
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 3626979433,
       "DevName": "명중률 감소",
       "IconSpriteName": "Combat_Icon_Debuff_HIT",
+      "IconDispelColor": [
+        0.247,
+        0.619,
+        0.93
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 2329998669,
       "DevName": "회피율 감소",
       "IconSpriteName": "Combat_Icon_Debuff_Dodge",
+      "IconDispelColor": [
+        0.247,
+        0.619,
+        0.93
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 2690784199,
       "DevName": "치명타 수치 감소",
       "IconSpriteName": "Combat_Icon_Debuff_CriticalChance",
+      "IconDispelColor": [
+        0.247,
+        0.619,
+        0.93
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 3368561749,
       "DevName": "치명타 대미지 감소",
       "IconSpriteName": "Combat_Icon_Debuff_CriticalDamage",
+      "IconDispelColor": [
+        0.247,
+        0.619,
+        0.93
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 2795767498,
       "DevName": "시야 감소",
       "IconSpriteName": "Combat_Icon_Debuff_View",
+      "IconDispelColor": [
+        0.247,
+        0.619,
+        0.93
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 2914769656,
       "DevName": "이동속도 감소",
       "IconSpriteName": "Combat_Icon_Debuff_MoveSpeed",
+      "IconDispelColor": [
+        0.247,
+        0.619,
+        0.93
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 2527665448,
       "DevName": "정신력 감소",
       "IconSpriteName": "Combat_Icon_Debuff_Mind",
+      "IconDispelColor": [
+        0.247,
+        0.619,
+        0.93
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 3097404873,
       "DevName": "사거리 감소",
       "IconSpriteName": "Combat_Icon_Debuff_Range",
+      "IconDispelColor": [
+        0.247,
+        0.619,
+        0.93
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 3553727518,
       "DevName": "사격 속도 감소",
       "IconSpriteName": "Combat_Icon_Debuff_AttackSpeed",
+      "IconDispelColor": [
+        0.247,
+        0.619,
+        0.93
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 2504974704,
       "DevName": "최대 생명력 감소",
       "IconSpriteName": "Combat_Icon_Debuff_MAXHP",
+      "IconDispelColor": [
+        0.247,
+        0.619,
+        0.93
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 3632978795,
       "DevName": "탄약 수 감소",
       "IconSpriteName": "Combat_Icon_Debuff_AmmoCount",
+      "IconDispelColor": [
+        0.247,
+        0.619,
+        0.93
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 703601786,
       "DevName": "받는 회복량 감소",
       "IconSpriteName": "Combat_Icon_Debuff_HealEffectiveness",
+      "IconDispelColor": [
+        0.247,
+        0.619,
+        0.93
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 842791874,
       "DevName": "힐 파워 감소",
       "IconSpriteName": "Combat_Icon_Debuff_HealPower",
+      "IconDispelColor": [
+        0.247,
+        0.619,
+        0.93
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 1433939538,
       "DevName": "치명타 저항 수치 감소",
       "IconSpriteName": "Combat_Icon_Debuff_CriticalDamage",
+      "IconDispelColor": [
+        0.247,
+        0.619,
+        0.93
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 500357266,
       "DevName": "받는 대미지 증가",
       "IconSpriteName": "Combat_Icon_Debuff_DamagedRatio",
+      "IconDispelColor": [
+        0.247,
+        0.619,
+        0.93
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 2156571916,
       "DevName": "주는 대미지 감소",
       "IconSpriteName": "Combat_Icon_Debuff_DamageRatio",
+      "IconDispelColor": [
+        0.247,
+        0.619,
+        0.93
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 3612220451,
       "DevName": "군중제어 강화 감소",
       "IconSpriteName": "Combat_Icon_Debuff_OppressionPower",
+      "IconDispelColor": [
+        0.247,
+        0.619,
+        0.93
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 3340931356,
       "DevName": "군중제어 저항 감소",
       "IconSpriteName": "Combat_Icon_Debuff_OppressionResist",
+      "IconDispelColor": [
+        0.247,
+        0.619,
+        0.93
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
+    },
+    {
+      "StringID": 450845847,
+      "DevName": "속성 대미지 감소",
+      "IconSpriteName": "Combat_Icon_Debuff_BulletTypeDamage",
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
+      "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
+    },
+    {
+      "StringID": 2074384028,
+      "DevName": "코스트 리젠 속도 감소(아이콘 미표시)",
+      "IconSpriteName": null,
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
+      "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 2439885638,
       "DevName": "분노",
       "IconSpriteName": "Combat_Icon_Special_Fury",
+      "IconDispelColor": [
+        1.0,
+        0.784,
+        0.196
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
-      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant"
-    },
-    {
-      "StringID": 2860196157,
-      "DevName": "보급 개수 0개일때 (안씀)",
-      "IconSpriteName": "Combat_Icon_Debuff_Empty",
-      "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Immortal_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 3802407019,
       "DevName": "집중 공격(디버프)",
       "IconSpriteName": "Combat_Icon_Debuff_ConcentratedTarget",
-      "ParticleEnterPath": "Effect/Common_Variant/FX_Common_ConcentratedTarget_Apply_Variant"
+      "IconDispelColor": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "ParticleEnterPath": "Effect/Common_Variant/FX_Common_ConcentratedTarget_Apply_Variant",
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": null,
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 2075725760,
       "DevName": "집중 공격(버프)",
       "IconSpriteName": "Combat_Icon_Buff_ConcentratedTarget",
-      "ParticleEnterPath": "Effect/Common_Variant/FX_Common_ConcentratedTarget_Apply_Variant"
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
+      "ParticleEnterPath": "Effect/Common_Variant/FX_Common_ConcentratedTarget_Apply_Variant",
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": null,
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 1082604580,
       "DevName": "불사",
-      "IconSpriteName": "Combat_Icon_Special_Immortal"
+      "IconSpriteName": "Combat_Icon_Special_Immortal",
+      "IconDispelColor": [
+        1.0,
+        0.784,
+        0.196
+      ],
+      "ParticleEnterPath": null,
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": null,
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 1204053160,
       "DevName": "이뮨",
       "IconSpriteName": "Combat_Icon_Special_ImmuneDamage",
+      "IconDispelColor": [
+        1.0,
+        0.784,
+        0.196
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Immune_Start_Variant",
-      "ParticleLoopPath": "Effect/Common_Variant/FX_Common_Effect_Immune_Ing_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": "Effect/Common_Variant/FX_Common_Effect_Immune_Ing_Variant",
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": null,
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 2598604334,
       "DevName": "중독 (도트)",
       "IconSpriteName": "Combat_Icon_Debuff_Poison",
+      "IconDispelColor": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "ParticleEnterPath": null,
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": null,
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": "Effect/Common_Variant/FX_Common_Effect_Poison_Apply_Variant",
+      "ParticleApplySocket": "Head"
+    },
+    {
+      "StringID": 3501082059,
+      "DevName": "출혈 (도트)",
+      "IconSpriteName": "Combat_Icon_Debuff_Bleed",
+      "IconDispelColor": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "ParticleEnterPath": null,
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": null,
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": "Effect/Common_Variant/FX_Common_Effect_Poison_Apply_Variant",
+      "ParticleApplySocket": "Head"
+    },
+    {
+      "StringID": 576268658,
+      "DevName": "화상 (도트)",
+      "IconSpriteName": "Combat_Icon_Debuff_Burn",
+      "IconDispelColor": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "ParticleEnterPath": null,
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": null,
+      "ParticleEndSocket": "None",
       "ParticleApplyPath": "Effect/Common_Variant/FX_Common_Effect_Poison_Apply_Variant",
       "ParticleApplySocket": "Head"
     },
     {
       "StringID": 1747413669,
       "DevName": "도트 피해",
-      "IconSpriteName": "Combat_Icon_Debuff_Dot"
+      "IconSpriteName": "Combat_Icon_Debuff_Dot",
+      "IconDispelColor": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "ParticleEnterPath": null,
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": null,
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 1081101121,
       "DevName": "도트 회복",
       "IconSpriteName": "Combat_Icon_Buff_DotHeal",
-      "ParticleApplyPath": "Effect/Common_Variant/FX_Common_Effect_Heal_Variant"
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
+      "ParticleEnterPath": null,
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": null,
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": "Effect/Common_Variant/FX_Common_Effect_DotHeal_Variant",
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 1176542071,
       "DevName": "기절",
       "IconSpriteName": "Combat_Icon_CC_Stunned",
-      "ParticleLoopPath": "Effect/Common/FX_Common_Effect_Stun"
+      "IconDispelColor": [
+        0.686,
+        0.411,
+        0.964
+      ],
+      "ParticleEnterPath": null,
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": "Effect/Common/FX_Common_Effect_Stun",
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": null,
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 2841571640,
       "DevName": "CC 공용",
-      "IconSpriteName": "Combat_Icon_CC_Inoperative"
+      "IconSpriteName": "Combat_Icon_CC_Inoperative",
+      "IconDispelColor": [
+        0.686,
+        0.411,
+        0.964
+      ],
+      "ParticleEnterPath": null,
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": null,
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 1886856702,
       "DevName": "정신지배",
-      "IconSpriteName": "Combat_Icon_CC_MindControl"
+      "IconSpriteName": "Combat_Icon_CC_MindControl",
+      "IconDispelColor": [
+        0.686,
+        0.411,
+        0.964
+      ],
+      "ParticleEnterPath": null,
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": null,
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 2305213079,
       "DevName": "혼란",
-      "IconSpriteName": "Combat_Icon_CC_Confusion"
+      "IconSpriteName": "Combat_Icon_CC_Confusion",
+      "IconDispelColor": [
+        0.686,
+        0.411,
+        0.964
+      ],
+      "ParticleEnterPath": null,
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": null,
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 2592645500,
       "DevName": "도발",
       "IconSpriteName": "Combat_Icon_CC_Provoke",
+      "IconDispelColor": [
+        0.686,
+        0.411,
+        0.964
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Provoke_Start_Variant",
-      "ParticleLoopPath": "Effect/Common_Variant/FX_Common_Effect_Provoke_Ing_Variant"
+      "ParticleEnterSocket": "Head",
+      "ParticleLoopPath": "Effect/Common_Variant/FX_Common_Effect_Provoke_Ing_Variant",
+      "ParticleLoopSocket": "Head",
+      "ParticleEndPath": null,
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 2849390100,
       "DevName": "침묵",
-      "IconSpriteName": "Combat_Icon_CC_Silence"
+      "IconSpriteName": "Combat_Icon_CC_Silence",
+      "IconDispelColor": [
+        0.686,
+        0.411,
+        0.964
+      ],
+      "ParticleEnterPath": null,
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": null,
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 720513377,
       "DevName": "실명",
-      "IconSpriteName": "Combat_Icon_CC_Blind"
+      "IconSpriteName": "Combat_Icon_CC_Blind",
+      "IconDispelColor": [
+        0.686,
+        0.411,
+        0.964
+      ],
+      "ParticleEnterPath": null,
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": null,
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 4102806804,
       "DevName": "매혹",
       "IconSpriteName": "Combat_Icon_CC_Charmed",
+      "IconDispelColor": [
+        0.686,
+        0.411,
+        0.964
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Charm_Start_Variant",
-      "ParticleLoopPath": "Effect/Common_Variant/FX_Common_Effect_Charm_Ing_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": "Effect/Common_Variant/FX_Common_Effect_Charm_Ing_Variant",
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": null,
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 2018822638,
       "DevName": "공포",
       "IconSpriteName": "Combat_Icon_CC_Fear",
+      "IconDispelColor": [
+        0.686,
+        0.411,
+        0.964
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Panic_Start_Variant",
-      "ParticleLoopPath": "Effect/Common_Variant/FX_Common_Effect_Panic_Ing_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": "Effect/Common_Variant/FX_Common_Effect_Panic_Ing_Variant",
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": null,
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 484744461,
       "DevName": "마비",
-      "IconSpriteName": "Combat_Icon_CC_Paralysis"
+      "IconSpriteName": "Combat_Icon_CC_Paralysis",
+      "IconDispelColor": [
+        0.686,
+        0.411,
+        0.964
+      ],
+      "ParticleEnterPath": null,
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": null,
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 2543710472,
       "DevName": "정화",
       "IconSpriteName": "Combat_Icon_CC_Purify",
+      "IconDispelColor": [
+        0.686,
+        0.411,
+        0.964
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Purify_Start_Variant",
-      "ParticleLoopPath": "Effect/Common_Variant/FX_Common_Effect_Purify_Ing_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": "Effect/Common_Variant/FX_Common_Effect_Purify_Ing_Variant",
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": null,
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 1096377425,
       "DevName": "EMP",
       "IconSpriteName": "Combat_Icon_CC_Emp",
+      "IconDispelColor": [
+        0.686,
+        0.411,
+        0.964
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_EMP_Start_Variant",
-      "ParticleLoopPath": "Effect/Common_Variant/FX_Common_Effect_EMP_Ing_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": "Effect/Common_Variant/FX_Common_Effect_EMP_Ing_Variant",
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": null,
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 3727671672,
       "DevName": "실드(임시 HP)",
       "IconSpriteName": "Combat_Icon_Buff_Shield",
+      "IconDispelColor": [
+        1.0,
+        0.31,
+        0.196
+      ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Shield_Start_Variant",
-      "ParticleLoopPath": "Effect/Common_Variant/FX_Common_Effect_Shield_Ing_Variant"
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": "Effect/Common_Variant/FX_Common_Effect_Shield_Ing_Variant",
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": null,
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 3913311100,
-      "DevName": "코스트 회복"
+      "DevName": "코스트 회복",
+      "IconSpriteName": null,
+      "IconDispelColor": [],
+      "ParticleEnterPath": null,
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": null,
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 1417371326,
       "DevName": "회복",
-      "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Heal_Variant"
+      "IconSpriteName": null,
+      "IconDispelColor": [],
+      "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Heal_Variant",
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": null,
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 2362021517,
       "DevName": "현재 탄약 수 + 효과",
+      "IconSpriteName": null,
+      "IconDispelColor": [],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_ReloadAmmo_Apply_Variant",
-      "ParticleEnterSocket": "Body"
+      "ParticleEnterSocket": "Body",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": null,
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     },
     {
       "StringID": 2835237177,
       "DevName": "폼 전환",
-      "IconSpriteName": "Combat_Icon_Special_FormChange"
+      "IconSpriteName": "Combat_Icon_Special_FormChange",
+      "IconDispelColor": [
+        1.0,
+        0.784,
+        0.196
+      ],
+      "ParticleEnterPath": null,
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": null,
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None"
     }
   ]
 }

@@ -1,0 +1,563 @@
+{
+  "DataList": [
+    {
+      "GroupID": 100001,
+      "PageName": "UIInformationPopup_Formation01",
+      "TutorialParentName": [
+        "Tutorial_03"
+      ],
+      "UIName": []
+    },
+    {
+      "GroupID": 100001,
+      "PageName": "UIInformationPopup_Formation02",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 100001,
+      "PageName": "UIInformationPopup_Formation03",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 100001,
+      "PageName": "UIInformationPopup_Formation04",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 100001,
+      "PageName": "UIInformationPopup_Formation05",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 100001,
+      "PageName": "UIInformationPopup_Formation06",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 101001,
+      "PageName": "UIInformationPopup_Shop01",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 101001,
+      "PageName": "UIInformationPopup_Shop02",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 101001,
+      "PageName": "UIInformationPopup_Shop03",
+      "TutorialParentName": [
+        "Tutorial_03",
+        "Tutorial_02"
+      ],
+      "UIName": [
+        "UIPopup_Formation_CharEdit"
+      ]
+    },
+    {
+      "GroupID": 101001,
+      "PageName": "UIInformationPopup_Shop04",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 102001,
+      "PageName": "UIInformationPopup_MemorialLobby01",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 102001,
+      "PageName": "UIInformationPopup_MemorialLobby02",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 102001,
+      "PageName": "UIInformationPopup_MemorialLobby03",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 102001,
+      "PageName": "UIInformationPopup_MemorialLobby04",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 102001,
+      "PageName": "UIInformationPopup_MemorialLobby05",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 103001,
+      "PageName": "UIInformationPopup_CharacterDetail05",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 103001,
+      "PageName": "UIInformationPopup_CharacterDetail01",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 103001,
+      "PageName": "UIInformationPopup_CharacterDetail02",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 103001,
+      "PageName": "UIInformationPopup_CharacterDetail03",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 103001,
+      "PageName": "UIInformationPopup_CharacterDetail04",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 103001,
+      "PageName": "UIInformationPopup_CharacterDetail06",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 103001,
+      "PageName": "UIInformationPopup_CharacterDetail07",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 103001,
+      "PageName": "UIInformationPopup_CharacterDetail08",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 103001,
+      "PageName": "UIInformationPopup_CharacterDetail09",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 104001,
+      "PageName": "UIInformationPopup_Advantage01",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 104001,
+      "PageName": "UIInformationPopup_Advantage02",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 104001,
+      "PageName": "UIInformationPopup_Advantage03",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 104001,
+      "PageName": "UIInformationPopup_Advantage04",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 104001,
+      "PageName": "UIInformationPopup_Advantage05",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 105001,
+      "PageName": "UIInformationPopup_StudentCollection01",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 105001,
+      "PageName": "UIInformationPopup_StudentCollection02",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 106001,
+      "PageName": "UIInformationPopup_Strategy01",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 106001,
+      "PageName": "UIInformationPopup_Strategy02",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 106001,
+      "PageName": "UIInformationPopup_Strategy03",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 106001,
+      "PageName": "UIInformationPopup_Strategy04",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 106001,
+      "PageName": "UIInformationPopup_Strategy05",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 107001,
+      "PageName": "UIInformationPopup_Raid01",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 107001,
+      "PageName": "UIInformationPopup_Raid02",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 107001,
+      "PageName": "UIInformationPopup_Raid03",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 107001,
+      "PageName": "UIInformationPopup_Raid04",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 107001,
+      "PageName": "UIInformationPopup_Raid05",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 107001,
+      "PageName": "UIInformationPopup_Raid06",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 107001,
+      "PageName": "UIInformationPopup_Raid07",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 107001,
+      "PageName": "UIInformationPopup_Raid08",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 108001,
+      "PageName": "UIInformationPopup_WeekDungeon01",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 109001,
+      "PageName": "UIInformationPopup_CraftDuration01",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 109001,
+      "PageName": "UIInformationPopup_CraftDuration02",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 109001,
+      "PageName": "UIInformationPopup_CraftDuration03",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 109001,
+      "PageName": "UIInformationPopup_CraftDuration04",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 109001,
+      "PageName": "UIInformationPopup_CraftDuration05",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 109001,
+      "PageName": "UIInformationPopup_CraftDuration06",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 109001,
+      "PageName": "UIInformationPopup_CraftDuration07",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 109001,
+      "PageName": "UIInformationPopup_CraftDuration08",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 109001,
+      "PageName": "UIInformationPopup_CraftDuration09",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 110001,
+      "PageName": "UIInformationPopup_AcademyMessanger01",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 110001,
+      "PageName": "UIInformationPopup_AcademyMessanger02",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 110001,
+      "PageName": "UIInformationPopup_AcademyMessanger03",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 111001,
+      "PageName": "UIInformationPopup_Campaign_01",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 111001,
+      "PageName": "UIInformationPopup_Campaign_02",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 111001,
+      "PageName": "UIInformationPopup_Campaign_03",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 111001,
+      "PageName": "UIInformationPopup_Campaign_04",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 112001,
+      "PageName": "UIInformationPopup_Chaser01",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 112001,
+      "PageName": "UIInformationPopup_Chaser02",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 112001,
+      "PageName": "UIInformationPopup_Chaser03",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 113001,
+      "PageName": "UIInformationPopup_Equipment01",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 113001,
+      "PageName": "UIInformationPopup_Equipment02",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 114001,
+      "PageName": "UIInformationPopup_Gacha01",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 114001,
+      "PageName": "UIInformationPopup_Gacha02",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 115001,
+      "PageName": "UIInformationPopup_Clan01",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 115001,
+      "PageName": "UIInformationPopup_Clan02",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 115001,
+      "PageName": "UIInformationPopup_Clan03",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 115011,
+      "PageName": "UIInformationPopup_Clan04",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 115011,
+      "PageName": "UIInformationPopup_Clan05",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 115011,
+      "PageName": "UIInformationPopup_Clan06",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 115011,
+      "PageName": "UIInformationPopup_Clan07",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 115011,
+      "PageName": "UIInformationPopup_Clan08",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 116001,
+      "PageName": "UIInformationPopup_Arena02",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 116001,
+      "PageName": "UIInformationPopup_Arena01",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 116001,
+      "PageName": "UIInformationPopup_Arena03",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 116001,
+      "PageName": "UIInformationPopup_Arena04",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 116001,
+      "PageName": "UIInformationPopup_Arena05",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 116001,
+      "PageName": "UIInformationPopup_Arena06",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 116001,
+      "PageName": "UIInformationPopup_Arena07",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 117001,
+      "PageName": "UIInformationPopup_Cafe01",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 117001,
+      "PageName": "UIInformationPopup_Cafe02",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 117001,
+      "PageName": "UIInformationPopup_Cafe03",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 117001,
+      "PageName": "UIInformationPopup_Cafe04",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 117001,
+      "PageName": "UIInformationPopup_Cafe05",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 118001,
+      "PageName": "UIInformationPopup_Academy01",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 118001,
+      "PageName": "UIInformationPopup_Academy02",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 118001,
+      "PageName": "UIInformationPopup_Academy03",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 118001,
+      "PageName": "UIInformationPopup_Academy04",
+      "TutorialParentName": [],
+      "UIName": []
+    }
+  ]
+}

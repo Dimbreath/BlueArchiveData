@@ -1,113 +1,185 @@
 {
   "DataList": [
     {
+      "UniqueId": 0,
       "Rank": 1,
-      "NPCAccountLevel": 17,
-      "NPCLevel": 25,
+      "NPCAccountLevel": 33,
+      "NPCLevel": 30,
       "NPCLevelDeviation": 3,
-      "NPCStarGrade": 4,
-      "ExceptionCharacterRaritiesLength": 44
+      "NPCStarGrade": 3,
+      "UseTSS": false,
+      "ExceptionCharacterRarities": [
+        "R"
+      ],
+      "ExceptionMainCharacterIds": [],
+      "ExceptionSupportCharacterIds": [],
+      "ExceptionTSSIds": []
     },
     {
       "UniqueId": 1,
       "Rank": 5,
-      "NPCAccountLevel": 16,
-      "NPCLevel": 25,
+      "NPCAccountLevel": 31,
+      "NPCLevel": 28,
       "NPCLevelDeviation": 3,
-      "NPCStarGrade": 4,
-      "ExceptionCharacterRaritiesLength": 56
+      "NPCStarGrade": 3,
+      "UseTSS": false,
+      "ExceptionCharacterRarities": [
+        "R"
+      ],
+      "ExceptionMainCharacterIds": [],
+      "ExceptionSupportCharacterIds": [],
+      "ExceptionTSSIds": []
     },
     {
       "UniqueId": 2,
       "Rank": 10,
-      "NPCAccountLevel": 15,
-      "NPCLevel": 25,
+      "NPCAccountLevel": 31,
+      "NPCLevel": 28,
       "NPCLevelDeviation": 3,
-      "NPCStarGrade": 4
+      "NPCStarGrade": 3,
+      "UseTSS": false,
+      "ExceptionCharacterRarities": [],
+      "ExceptionMainCharacterIds": [],
+      "ExceptionSupportCharacterIds": [],
+      "ExceptionTSSIds": []
     },
     {
       "UniqueId": 3,
       "Rank": 100,
-      "NPCAccountLevel": 14,
-      "NPCLevel": 22,
+      "NPCAccountLevel": 29,
+      "NPCLevel": 26,
       "NPCLevelDeviation": 3,
-      "NPCStarGrade": 3
+      "NPCStarGrade": 3,
+      "UseTSS": false,
+      "ExceptionCharacterRarities": [],
+      "ExceptionMainCharacterIds": [],
+      "ExceptionSupportCharacterIds": [],
+      "ExceptionTSSIds": []
     },
     {
       "UniqueId": 4,
       "Rank": 500,
-      "NPCAccountLevel": 13,
-      "NPCLevel": 22,
+      "NPCAccountLevel": 29,
+      "NPCLevel": 26,
       "NPCLevelDeviation": 3,
-      "NPCStarGrade": 3
+      "NPCStarGrade": 3,
+      "UseTSS": false,
+      "ExceptionCharacterRarities": [],
+      "ExceptionMainCharacterIds": [],
+      "ExceptionSupportCharacterIds": [],
+      "ExceptionTSSIds": []
     },
     {
       "UniqueId": 5,
       "Rank": 1000,
-      "NPCAccountLevel": 12,
-      "NPCLevel": 22,
+      "NPCAccountLevel": 27,
+      "NPCLevel": 24,
       "NPCLevelDeviation": 3,
-      "NPCStarGrade": 3
+      "NPCStarGrade": 3,
+      "UseTSS": false,
+      "ExceptionCharacterRarities": [],
+      "ExceptionMainCharacterIds": [],
+      "ExceptionSupportCharacterIds": [],
+      "ExceptionTSSIds": []
     },
     {
       "UniqueId": 6,
       "Rank": 2500,
-      "NPCAccountLevel": 11,
-      "NPCLevel": 20,
+      "NPCAccountLevel": 27,
+      "NPCLevel": 24,
       "NPCLevelDeviation": 3,
-      "NPCStarGrade": 3
+      "NPCStarGrade": 3,
+      "UseTSS": false,
+      "ExceptionCharacterRarities": [],
+      "ExceptionMainCharacterIds": [],
+      "ExceptionSupportCharacterIds": [],
+      "ExceptionTSSIds": []
     },
     {
       "UniqueId": 7,
       "Rank": 5000,
-      "NPCAccountLevel": 10,
-      "NPCLevel": 20,
+      "NPCAccountLevel": 25,
+      "NPCLevel": 22,
       "NPCLevelDeviation": 3,
-      "NPCStarGrade": 3
+      "NPCStarGrade": 3,
+      "UseTSS": false,
+      "ExceptionCharacterRarities": [],
+      "ExceptionMainCharacterIds": [],
+      "ExceptionSupportCharacterIds": [],
+      "ExceptionTSSIds": []
     },
     {
       "UniqueId": 8,
       "Rank": 7500,
-      "NPCAccountLevel": 9,
-      "NPCLevel": 18,
+      "NPCAccountLevel": 25,
+      "NPCLevel": 22,
       "NPCLevelDeviation": 3,
-      "NPCStarGrade": 3
+      "NPCStarGrade": 3,
+      "UseTSS": false,
+      "ExceptionCharacterRarities": [],
+      "ExceptionMainCharacterIds": [],
+      "ExceptionSupportCharacterIds": [],
+      "ExceptionTSSIds": []
     },
     {
       "UniqueId": 9,
       "Rank": 10000,
-      "NPCAccountLevel": 8,
-      "NPCLevel": 18,
+      "NPCAccountLevel": 23,
+      "NPCLevel": 20,
       "NPCLevelDeviation": 3,
       "NPCStarGrade": 2,
-      "ExceptionCharacterRaritiesLength": 56
+      "UseTSS": false,
+      "ExceptionCharacterRarities": [
+        "SSR"
+      ],
+      "ExceptionMainCharacterIds": [],
+      "ExceptionSupportCharacterIds": [],
+      "ExceptionTSSIds": []
     },
     {
       "UniqueId": 10,
       "Rank": 12500,
-      "NPCAccountLevel": 7,
-      "NPCLevel": 16,
+      "NPCAccountLevel": 23,
+      "NPCLevel": 20,
       "NPCLevelDeviation": 3,
       "NPCStarGrade": 2,
-      "ExceptionCharacterRaritiesLength": 52
+      "UseTSS": false,
+      "ExceptionCharacterRarities": [
+        "SSR"
+      ],
+      "ExceptionMainCharacterIds": [],
+      "ExceptionSupportCharacterIds": [],
+      "ExceptionTSSIds": []
     },
     {
       "UniqueId": 11,
       "Rank": 15000,
-      "NPCAccountLevel": 6,
-      "NPCLevel": 16,
+      "NPCAccountLevel": 23,
+      "NPCLevel": 20,
       "NPCLevelDeviation": 3,
       "NPCStarGrade": 2,
-      "ExceptionCharacterRaritiesLength": 56
+      "UseTSS": false,
+      "ExceptionCharacterRarities": [
+        "SSR"
+      ],
+      "ExceptionMainCharacterIds": [],
+      "ExceptionSupportCharacterIds": [],
+      "ExceptionTSSIds": []
     },
     {
       "UniqueId": 12,
       "Rank": 20000,
-      "NPCAccountLevel": 5,
-      "NPCLevel": 16,
+      "NPCAccountLevel": 23,
+      "NPCLevel": 20,
       "NPCLevelDeviation": 3,
       "NPCStarGrade": 2,
-      "ExceptionCharacterRaritiesLength": 52
+      "UseTSS": false,
+      "ExceptionCharacterRarities": [
+        "SSR"
+      ],
+      "ExceptionMainCharacterIds": [],
+      "ExceptionSupportCharacterIds": [],
+      "ExceptionTSSIds": []
     }
   ]
 }

@@ -2,72 +2,135 @@
   "DataList": [
     {
       "Name": 1377724294,
-      "Effect": "BG_Dust_L"
+      "Effect": "BG_Dust_L",
+      "Scroll": "None",
+      "ScrollTime": 0,
+      "ScrollFrom": 0,
+      "ScrollTo": 0
     },
     {
       "Name": 3550865647,
-      "Effect": "BG_FocusLine"
+      "Effect": "BG_FocusLine",
+      "Scroll": "None",
+      "ScrollTime": 0,
+      "ScrollFrom": 0,
+      "ScrollTo": 0
     },
     {
       "Name": 1679852157,
-      "Effect": "BG_Love_L"
+      "Effect": "BG_Love_L",
+      "Scroll": "None",
+      "ScrollTime": 0,
+      "ScrollFrom": 0,
+      "ScrollTo": 0
+    },
+    {
+      "Name": 3023046476,
+      "Effect": "BG_Love_L_BGOff",
+      "Scroll": "None",
+      "ScrollTime": 0,
+      "ScrollFrom": 0,
+      "ScrollTo": 0
     },
     {
       "Name": 2728481130,
-      "Effect": "BG_Mist_L"
+      "Effect": "BG_Mist_L",
+      "Scroll": "None",
+      "ScrollTime": 0,
+      "ScrollFrom": 0,
+      "ScrollTo": 0
     },
     {
       "Name": 3676184657,
-      "Effect": "BG_Rain_L"
+      "Effect": "BG_Rain_L",
+      "Scroll": "None",
+      "ScrollTime": 0,
+      "ScrollFrom": 0,
+      "ScrollTo": 0
     },
     {
       "Name": 575794762,
-      "Effect": "BG_SandStorm_L"
+      "Effect": "BG_SandStorm_L",
+      "Scroll": "None",
+      "ScrollTime": 0,
+      "ScrollFrom": 0,
+      "ScrollTo": 0
     },
     {
       "Name": 1061522909,
-      "Effect": "BG_Shining_L"
+      "Effect": "BG_Shining_L",
+      "Scroll": "None",
+      "ScrollTime": 0,
+      "ScrollFrom": 0,
+      "ScrollTo": 0
+    },
+    {
+      "Name": 1870781268,
+      "Effect": "BG_Shining_L_BGOff",
+      "Scroll": "None",
+      "ScrollTime": 0,
+      "ScrollFrom": 0,
+      "ScrollTo": 0
     },
     {
       "Name": 2675527592,
-      "Effect": "BG_Snow_L"
+      "Effect": "BG_Snow_L",
+      "Scroll": "None",
+      "ScrollTime": 0,
+      "ScrollFrom": 0,
+      "ScrollTo": 0
     },
     {
       "Name": 3134544579,
-      "Effect": "BG_UnderFire"
+      "Effect": "BG_UnderFire",
+      "Scroll": "None",
+      "ScrollTime": 0,
+      "ScrollFrom": 0,
+      "ScrollTo": 0
     },
     {
       "Name": 4180629607,
+      "Effect": null,
       "Scroll": "Vertical",
       "ScrollTime": 4000,
-      "ScrollFrom": -288
+      "ScrollFrom": -288,
+      "ScrollTo": 0
     },
     {
       "Name": 2688008756,
+      "Effect": null,
       "Scroll": "Vertical",
       "ScrollTime": 2000,
-      "ScrollFrom": -288
+      "ScrollFrom": -288,
+      "ScrollTo": 0
     },
     {
       "Name": 2294765479,
+      "Effect": null,
       "Scroll": "Vertical",
       "ScrollTime": 2500,
-      "ScrollFrom": -288
+      "ScrollFrom": -288,
+      "ScrollTo": 0
     },
     {
       "Name": 2786804546,
+      "Effect": null,
       "Scroll": "Vertical",
       "ScrollTime": 3000,
-      "ScrollFrom": -288
+      "ScrollFrom": -288,
+      "ScrollTo": 0
     },
     {
       "Name": 588464592,
+      "Effect": null,
       "Scroll": "Vertical",
       "ScrollTime": 2000,
-      "ScrollFrom": 288
+      "ScrollFrom": 288,
+      "ScrollTo": 0
     },
     {
       "Name": 3395110614,
+      "Effect": null,
       "Scroll": "Vertical",
       "ScrollTime": 3000,
       "ScrollFrom": -288,
@@ -75,6 +138,7 @@
     },
     {
       "Name": 73430338,
+      "Effect": null,
       "Scroll": "Vertical",
       "ScrollTime": 5000,
       "ScrollFrom": 1000,
@@ -82,20 +146,35 @@
     },
     {
       "Name": 2572386699,
+      "Effect": null,
       "Scroll": "Horizontal",
       "ScrollTime": 2000,
+      "ScrollFrom": 0,
       "ScrollTo": 396
     },
     {
       "Name": 67432837,
+      "Effect": null,
       "Scroll": "Vertical",
-      "ScrollTime": 2000
+      "ScrollTime": 2000,
+      "ScrollFrom": 0,
+      "ScrollTo": 0
     },
     {
-      "Name": 4138745450
+      "Name": 4138745450,
+      "Effect": null,
+      "Scroll": "None",
+      "ScrollTime": 0,
+      "ScrollFrom": 0,
+      "ScrollTo": 0
     },
     {
-      "Name": 3507083243
+      "Name": 3507083243,
+      "Effect": null,
+      "Scroll": "None",
+      "ScrollTime": 0,
+      "ScrollFrom": 0,
+      "ScrollTo": 0
     }
   ]
 }

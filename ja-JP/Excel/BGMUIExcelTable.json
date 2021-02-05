@@ -10,7 +10,7 @@
     },
     {
       "UIPrefab": 3866548710,
-      "BGMId": 10
+      "BGMId": 54
     },
     {
       "UIPrefab": 1816119473,
@@ -61,39 +61,7 @@
       "BGMId": 25
     },
     {
-      "UIPrefab": 396342814,
-      "BGMId": 25
-    },
-    {
-      "UIPrefab": 2709798869,
-      "BGMId": 25
-    },
-    {
-      "UIPrefab": 3765281007,
-      "BGMId": 25
-    },
-    {
-      "UIPrefab": 3100197404,
-      "BGMId": 6
-    },
-    {
-      "UIPrefab": 1130809524,
-      "BGMId": 6
-    },
-    {
-      "UIPrefab": 2909707637,
-      "BGMId": 6
-    },
-    {
-      "UIPrefab": 3496531048,
-      "BGMId": 6
-    },
-    {
       "UIPrefab": 3794942511,
-      "BGMId": 28
-    },
-    {
-      "UIPrefab": 1580413935,
       "BGMId": 28
     },
     {
@@ -126,11 +94,11 @@
     },
     {
       "UIPrefab": 3433830723,
-      "BGMId": 53
+      "BGMId": 61
     },
     {
       "UIPrefab": 1360550359,
-      "BGMId": 53
+      "BGMId": 61
     },
     {
       "UIPrefab": 2651338689,
@@ -145,12 +113,16 @@
       "BGMId": 12
     },
     {
-      "UIPrefab": 3542929259,
-      "BGMId": 28
+      "UIPrefab": 4115793311,
+      "BGMId": 44
     },
     {
-      "UIPrefab": 3061389643,
-      "BGMId": 28
+      "UIPrefab": 1049618303,
+      "BGMId": 44
+    },
+    {
+      "UIPrefab": 302639365,
+      "BGMId": 50
     }
   ]
 }

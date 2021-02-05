@@ -2,551 +2,1101 @@
   "DataList": [
     {
       "StringID": 2527275467,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 2760446568,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 915064283,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 1017309031,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
-      "StringID": 1550554957,
+      "StringID": 121396730,
+      "Name": null,
       "MaxHP1": 700,
-      "MaxHP100": 50000,
-      "BlockRate": 3000
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 3167643971,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 4215491955,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 737628983,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 2677655950,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 3006940082,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 3913060775,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 2242602590,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 965533062,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 4047132274,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 1526636798,
+      "Name": null,
       "MaxHP1": 99999999,
       "MaxHP100": 99999999,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 3653383081,
+      "Name": null,
       "MaxHP1": 99999999,
       "MaxHP100": 99999999,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 3289450004,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 3058291815,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 1522850727,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 2198639503,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 3610965522,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 2933986372,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 2790776556,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 2911066335,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 2511875457,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 23746232,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 2614628564,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 3224751572,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 4175123197,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 1776147339,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 960407519,
+      "Name": null,
       "MaxHP1": 99999999,
       "MaxHP100": 99999999,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 4079509795,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 1387271093,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 1758207883,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 3825174888,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 1495275335,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 1670331752,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
-    },
-    {
-      "StringID": 3373584288,
-      "MaxHP1": 700,
-      "MaxHP100": 15000,
-      "BlockRate": 3000
-    },
-    {
-      "StringID": 1349927558,
-      "MaxHP1": 700,
-      "MaxHP100": 15000,
-      "BlockRate": 3000
-    },
-    {
-      "StringID": 698699444,
-      "MaxHP1": 700,
-      "MaxHP100": 15000,
-      "BlockRate": 3000
-    },
-    {
-      "StringID": 2232064135,
-      "MaxHP1": 700,
-      "MaxHP100": 15000,
-      "BlockRate": 3000
-    },
-    {
-      "StringID": 1236434104,
-      "MaxHP1": 700,
-      "MaxHP100": 15000,
-      "BlockRate": 3000
-    },
-    {
-      "StringID": 3710538405,
-      "MaxHP1": 700,
-      "MaxHP100": 15000,
-      "BlockRate": 3000
-    },
-    {
-      "StringID": 1365710771,
-      "MaxHP1": 99999999,
-      "MaxHP100": 99999999,
-      "BlockRate": 3000
-    },
-    {
-      "StringID": 1709800589,
-      "MaxHP1": 99999999,
-      "MaxHP100": 99999999,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 618947650,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 2075924933,
+      "Name": null,
       "MaxHP1": 99999999,
       "MaxHP100": 99999999,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 3388445265,
+      "Name": null,
       "MaxHP1": 99999999,
       "MaxHP100": 99999999,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 4258941879,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 1715176533,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 1200302714,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 1632059064,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 1522221857,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 1599388370,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 2186972,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 2740719891,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 2845942073,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 4250058468,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 1333041480,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 2663892060,
       "Name": "Highway_Bigbox",
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 3503234433,
       "Name": "Highway_Container",
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 2829162771,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 4207540252,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 1299604785,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 579540694,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 1838409155,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 686490789,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 1066889172,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 1951962616,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 2554300422,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 1490731260,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 2751673510,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 2987748946,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 3166874642,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 3946538171,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 2301086345,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 54987030,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 1701898625,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 2425129779,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 2034134193,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 2295735135,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 1349745209,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 1860100752,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 205963632,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 860454670,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 3722678188,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 3583607172,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 511389189,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 4235220743,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 1526575480,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 965900908,
+      "Name": null,
       "MaxHP1": 99999999,
       "MaxHP100": 99999999,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 767723105,
+      "Name": null,
       "MaxHP1": 99999999,
       "MaxHP100": 99999999,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 2698628198,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 2887366745,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 2813384199,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 4057206794,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 4014483121,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 3777631110,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 4011999045,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
-    },
-    {
-      "StringID": 3784937182,
-      "MaxHP1": 700,
-      "MaxHP100": 15000,
-      "BlockRate": 3000
-    },
-    {
-      "StringID": 1109131538,
-      "MaxHP1": 700,
-      "MaxHP100": 15000,
-      "BlockRate": 3000
-    },
-    {
-      "StringID": 2370545868,
-      "MaxHP1": 99999999,
-      "MaxHP100": 99999999,
-      "BlockRate": 3000
-    },
-    {
-      "StringID": 3233955474,
-      "MaxHP1": 700,
-      "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     },
     {
       "StringID": 1280928891,
+      "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
-      "BlockRate": 3000
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 679039682,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 981646515,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 2692212364,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 968693350,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 1044311609,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 513824547,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 2173788851,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 2670812625,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 1666286998,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 998987557,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 713904602,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 4122692173,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 995174873,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 1428210295,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 1257200070,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 3987679888,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 206050408,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 2722970257,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 3830145926,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 2762613341,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 3931134487,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 3784937182,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 1109131538,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 2370545868,
+      "Name": null,
+      "MaxHP1": 99999999,
+      "MaxHP100": 99999999,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 3197107682,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 159156398,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 2319984441,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 3048130803,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 3232303997,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 3580123535,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
     }
   ]
 }

@@ -1,284 +1,724 @@
 {
   "DataList": [
     {
-      "CharacterId": 1011000,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 10000,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1012000,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 10001,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1023000,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 10002,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1031000,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 10003,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1032000,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 10004,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1032001,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 10005,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1033000,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 10006,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1033001,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 10007,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1033002,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 10008,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1041001,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 10009,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1041002,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 10010,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1041003,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 10011,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1042000,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 10012,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1042001,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 10013,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1042002,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 13000,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1042004,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 13001,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1043000,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 13002,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1051000,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 13003,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1051001,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 13004,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1051002,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 13005,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1051003,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 13006,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1061001,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 13007,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1061002,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 13008,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1062000,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 13009,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1062001,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 13010,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1062002,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 16000,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1062003,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 16001,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1062004,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 16002,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1063000,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 16003,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 1091000,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 16004,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 2032000,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 20000,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 2032001,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 20001,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 2033000,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 20002,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 2041000,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 23000,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 2041001,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 23001,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 2042000,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 23002,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 2061000,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 23003,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 2061001,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 23004,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 2062000,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 23005,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     },
     {
-      "CharacterId": 2083000,
-      "BubbleTypeLength": 72,
-      "BubbleDurationLength": 28,
+      "CharacterId": 26000,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
       "FavorEmoticonRewardParcelType": "FavorExp",
-      "FavorEmoticonRewardAmount": 5
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
+    },
+    {
+      "CharacterId": 26001,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
+    },
+    {
+      "CharacterId": 26002,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
+    },
+    {
+      "CharacterId": 26003,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
+    },
+    {
+      "CharacterId": 26004,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
+    },
+    {
+      "CharacterId": 26005,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
     }
   ]
 }

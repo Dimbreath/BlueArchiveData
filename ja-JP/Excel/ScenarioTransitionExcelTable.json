@@ -4,87 +4,73 @@
       "Name": 2130373248,
       "TransitionOut": "fade",
       "TransitionOutDuration": 500,
+      "TransitionOutResource": null,
       "TransitionIn": "fade",
-      "TransitionInDuration": 500
+      "TransitionInDuration": 500,
+      "TransitionInResource": null
     },
     {
       "Name": 1122508889,
       "TransitionOut": "fade",
       "TransitionOutDuration": 1000,
+      "TransitionOutResource": null,
       "TransitionIn": "fade",
-      "TransitionInDuration": 1000
+      "TransitionInDuration": 1000,
+      "TransitionInResource": null
     },
     {
       "Name": 509674679,
       "TransitionOut": "fade",
       "TransitionOutDuration": 1500,
+      "TransitionOutResource": null,
       "TransitionIn": "fade",
-      "TransitionInDuration": 1500
+      "TransitionInDuration": 1500,
+      "TransitionInResource": null
     },
     {
       "Name": 2482233134,
       "TransitionOut": "fade",
       "TransitionOutDuration": 2000,
+      "TransitionOutResource": null,
       "TransitionIn": "fade",
-      "TransitionInDuration": 2000
+      "TransitionInDuration": 2000,
+      "TransitionInResource": null
     },
     {
       "Name": 1606908815,
       "TransitionOut": "fade",
       "TransitionOutDuration": 2500,
+      "TransitionOutResource": null,
       "TransitionIn": "fade",
-      "TransitionInDuration": 2500
+      "TransitionInDuration": 2500,
+      "TransitionInResource": null
     },
     {
       "Name": 2752031158,
       "TransitionOut": "fade",
       "TransitionOutDuration": 3000,
+      "TransitionOutResource": null,
       "TransitionIn": "fade",
-      "TransitionInDuration": 3000
+      "TransitionInDuration": 3000,
+      "TransitionInResource": null
     },
     {
       "Name": 1238175709,
       "TransitionOut": "fade",
       "TransitionOutDuration": 4000,
+      "TransitionOutResource": null,
       "TransitionIn": "fade",
-      "TransitionInDuration": 4000
+      "TransitionInDuration": 4000,
+      "TransitionInResource": null
     },
     {
       "Name": 3411222921,
       "TransitionOut": "fade",
       "TransitionOutDuration": 5000,
+      "TransitionOutResource": null,
       "TransitionIn": "fade",
-      "TransitionInDuration": 5000
-    },
-    {
-      "Name": 1404424272,
-      "TransitionOut": "swipe_hor",
-      "TransitionOutDuration": 2000,
-      "TransitionOutResource": "Effect/UI/BGFX/UI_FX_HorSwipe_LtoR",
-      "TransitionIn": "swipe_hor",
-      "TransitionInDuration": 2000,
-      "TransitionInResource": "Effect/UI/BGFX/UI_FX_HorSwipe_RtoL"
-    },
-    {
-      "Name": 2847773965,
-      "TransitionOut": "swipe_ver",
-      "TransitionOutDuration": 2000,
-      "TransitionOutResource": "Effect/UI/BGFX/UI_FX_VerSwipe_BtoT",
-      "TransitionIn": "swipe_ver",
-      "TransitionInDuration": 2000,
-      "TransitionInResource": "Effect/UI/BGFX/UI_FX_VerSwipe_TtoB"
-    },
-    {
-      "Name": 319532087,
-      "TransitionOut": "noise",
-      "TransitionOutDuration": 2000,
-      "TransitionOutResource": "Effect/UI/BGFX/UI_FX_NoiseTransition"
-    },
-    {
-      "Name": 4141168548,
-      "TransitionOut": "circle",
-      "TransitionOutDuration": 2000,
-      "TransitionOutResource": "Effect/UI/BGFX/UI_FX_CircleTransition"
+      "TransitionInDuration": 5000,
+      "TransitionInResource": null
     },
     {
       "Name": 1127535352,
@@ -144,57 +130,316 @@
       "Name": 3222392982,
       "TransitionOut": "fade",
       "TransitionOutDuration": 1,
+      "TransitionOutResource": null,
       "TransitionIn": "fade",
-      "TransitionInDuration": 3000
+      "TransitionInDuration": 3000,
+      "TransitionInResource": null
     },
     {
       "Name": 3174465279,
       "TransitionOut": "fade",
       "TransitionOutDuration": 3000,
+      "TransitionOutResource": null,
       "TransitionIn": "fade",
-      "TransitionInDuration": 1
+      "TransitionInDuration": 1,
+      "TransitionInResource": null
     },
     {
       "Name": 2457385855,
       "TransitionOut": "fade",
       "TransitionOutDuration": 1,
+      "TransitionOutResource": null,
       "TransitionIn": "fade",
-      "TransitionInDuration": 2000
+      "TransitionInDuration": 2000,
+      "TransitionInResource": null
     },
     {
       "Name": 2243764445,
       "TransitionOut": "fade",
       "TransitionOutDuration": 2000,
+      "TransitionOutResource": null,
       "TransitionIn": "fade",
-      "TransitionInDuration": 1
+      "TransitionInDuration": 1,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 2127590351,
+      "TransitionOut": "fade",
+      "TransitionOutDuration": 1,
+      "TransitionOutResource": null,
+      "TransitionIn": "fade",
+      "TransitionInDuration": 1500,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 4203358158,
+      "TransitionOut": "fade",
+      "TransitionOutDuration": 1500,
+      "TransitionOutResource": null,
+      "TransitionIn": "fade",
+      "TransitionInDuration": 1,
+      "TransitionInResource": null
     },
     {
       "Name": 2136104277,
       "TransitionOut": "fade",
       "TransitionOutDuration": 1,
+      "TransitionOutResource": null,
       "TransitionIn": "fade",
-      "TransitionInDuration": 1000
+      "TransitionInDuration": 1000,
+      "TransitionInResource": null
     },
     {
       "Name": 348351892,
       "TransitionOut": "fade",
       "TransitionOutDuration": 1000,
+      "TransitionOutResource": null,
       "TransitionIn": "fade",
-      "TransitionInDuration": 1
+      "TransitionInDuration": 1,
+      "TransitionInResource": null
     },
     {
       "Name": 1974926776,
       "TransitionOut": "fade",
       "TransitionOutDuration": 1,
+      "TransitionOutResource": null,
       "TransitionIn": "fade",
-      "TransitionInDuration": 500
+      "TransitionInDuration": 500,
+      "TransitionInResource": null
     },
     {
       "Name": 2046503352,
       "TransitionOut": "fade",
       "TransitionOutDuration": 500,
+      "TransitionOutResource": null,
       "TransitionIn": "fade",
-      "TransitionInDuration": 1
+      "TransitionInDuration": 1,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 2246884625,
+      "TransitionOut": "fade_white",
+      "TransitionOutDuration": 500,
+      "TransitionOutResource": null,
+      "TransitionIn": "fade_white",
+      "TransitionInDuration": 500,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 3182852162,
+      "TransitionOut": "fade_white",
+      "TransitionOutDuration": 1000,
+      "TransitionOutResource": null,
+      "TransitionIn": "fade_white",
+      "TransitionInDuration": 1000,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 1289388507,
+      "TransitionOut": "fade_white",
+      "TransitionOutDuration": 1500,
+      "TransitionOutResource": null,
+      "TransitionIn": "fade_white",
+      "TransitionInDuration": 1500,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 3785883235,
+      "TransitionOut": "fade_white",
+      "TransitionOutDuration": 2000,
+      "TransitionOutResource": null,
+      "TransitionIn": "fade_white",
+      "TransitionInDuration": 2000,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 3181383424,
+      "TransitionOut": "fade_white",
+      "TransitionOutDuration": 2500,
+      "TransitionOutResource": null,
+      "TransitionIn": "fade_white",
+      "TransitionInDuration": 2500,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 1346493585,
+      "TransitionOut": "fade_white",
+      "TransitionOutDuration": 3000,
+      "TransitionOutResource": null,
+      "TransitionIn": "fade_white",
+      "TransitionInDuration": 3000,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 4075662009,
+      "TransitionOut": "fade_white",
+      "TransitionOutDuration": 4000,
+      "TransitionOutResource": null,
+      "TransitionIn": "fade_white",
+      "TransitionInDuration": 4000,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 3539052749,
+      "TransitionOut": "fade_white",
+      "TransitionOutDuration": 5000,
+      "TransitionOutResource": null,
+      "TransitionIn": "fade_white",
+      "TransitionInDuration": 5000,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 2259711251,
+      "TransitionOut": "fade_white",
+      "TransitionOutDuration": 1,
+      "TransitionOutResource": null,
+      "TransitionIn": "fade_white",
+      "TransitionInDuration": 3000,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 3657480713,
+      "TransitionOut": "fade_white",
+      "TransitionOutDuration": 3000,
+      "TransitionOutResource": null,
+      "TransitionIn": "fade_white",
+      "TransitionInDuration": 1,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 2527144513,
+      "TransitionOut": "fade_white",
+      "TransitionOutDuration": 1,
+      "TransitionOutResource": null,
+      "TransitionIn": "fade_white",
+      "TransitionInDuration": 2000,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 704731093,
+      "TransitionOut": "fade_white",
+      "TransitionOutDuration": 2000,
+      "TransitionOutResource": null,
+      "TransitionIn": "fade_white",
+      "TransitionInDuration": 1,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 1626584722,
+      "TransitionOut": "fade_white",
+      "TransitionOutDuration": 1,
+      "TransitionOutResource": null,
+      "TransitionIn": "fade_white",
+      "TransitionInDuration": 1000,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 2878370298,
+      "TransitionOut": "fade_white",
+      "TransitionOutDuration": 1000,
+      "TransitionOutResource": null,
+      "TransitionIn": "fade_white",
+      "TransitionInDuration": 1,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 3977094957,
+      "TransitionOut": "fade_white",
+      "TransitionOutDuration": 1,
+      "TransitionOutResource": null,
+      "TransitionIn": "fade_white",
+      "TransitionInDuration": 500,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 42187309,
+      "TransitionOut": "fade_white",
+      "TransitionOutDuration": 500,
+      "TransitionOutResource": null,
+      "TransitionIn": "fade_white",
+      "TransitionInDuration": 1,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 3854440696,
+      "TransitionOut": "bgoverlap",
+      "TransitionOutDuration": 500,
+      "TransitionOutResource": null,
+      "TransitionIn": "bgoverlap",
+      "TransitionInDuration": 1,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 4004024664,
+      "TransitionOut": "bgoverlap",
+      "TransitionOutDuration": 1000,
+      "TransitionOutResource": null,
+      "TransitionIn": "bgoverlap",
+      "TransitionInDuration": 1,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 1173843909,
+      "TransitionOut": "bgoverlap",
+      "TransitionOutDuration": 1500,
+      "TransitionOutResource": null,
+      "TransitionIn": "bgoverlap",
+      "TransitionInDuration": 1,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 1369285246,
+      "TransitionOut": "bgoverlap",
+      "TransitionOutDuration": 2000,
+      "TransitionOutResource": null,
+      "TransitionIn": "bgoverlap",
+      "TransitionInDuration": 1,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 3054018111,
+      "TransitionOut": "bgoverlap",
+      "TransitionOutDuration": 2500,
+      "TransitionOutResource": null,
+      "TransitionIn": "bgoverlap",
+      "TransitionInDuration": 1,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 1027503790,
+      "TransitionOut": "bgoverlap",
+      "TransitionOutDuration": 3000,
+      "TransitionOutResource": null,
+      "TransitionIn": "bgoverlap",
+      "TransitionInDuration": 1,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 3196842123,
+      "TransitionOut": "bgoverlap",
+      "TransitionOutDuration": 3500,
+      "TransitionOutResource": null,
+      "TransitionIn": "bgoverlap",
+      "TransitionInDuration": 1,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 2091508330,
+      "TransitionOut": "bgoverlap",
+      "TransitionOutDuration": 4000,
+      "TransitionOutResource": null,
+      "TransitionIn": "bgoverlap",
+      "TransitionInDuration": 1,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 3656288287,
+      "TransitionOut": "fade",
+      "TransitionOutDuration": 1,
+      "TransitionOutResource": null,
+      "TransitionIn": "fade",
+      "TransitionInDuration": 1,
+      "TransitionInResource": null
     }
   ]
 }

@@ -2,59 +2,107 @@
   "DataList": [
     {
       "Id": 1,
-      "Devname": "공격력",
-      "DevName2": "방어력",
-      "DetailShowStatsLength": 28,
-      "IsStatsPercentLength": 16
+      "Devname": "MAXHP",
+      "DevName2": "공격력",
+      "DetailShowStats": [
+        "MaxHP",
+        "AttackPower"
+      ],
+      "IsStatsPercent": [
+        false,
+        false
+      ]
     },
     {
       "Id": 2,
-      "Devname": "생명력",
+      "Devname": "방어력",
       "DevName2": "회복력",
-      "DetailShowStatsLength": 28,
-      "IsStatsPercentLength": 16
+      "DetailShowStats": [
+        "DefensePower",
+        "HealPower"
+      ],
+      "IsStatsPercent": [
+        false,
+        false
+      ]
     },
     {
       "Id": 3,
       "Devname": "명중력",
       "DevName2": "회피력",
-      "DetailShowStatsLength": 24,
-      "IsStatsPercentLength": 12
+      "DetailShowStats": [
+        "AccuracyPoint",
+        "DodgePoint"
+      ],
+      "IsStatsPercent": [
+        false,
+        false
+      ]
     },
     {
       "Id": 4,
       "Devname": "치명타",
       "DevName2": "치명타배율",
-      "DetailShowStatsLength": 24,
-      "IsStatsPercentLength": 12
+      "DetailShowStats": [
+        "CriticalPoint",
+        "CriticalDamageRate"
+      ],
+      "IsStatsPercent": [
+        false,
+        true
+      ]
     },
     {
       "Id": 5,
       "Devname": "안정성",
       "DevName2": "사거리",
-      "DetailShowStatsLength": 24,
-      "IsStatsPercentLength": 12
+      "DetailShowStats": [
+        "StabilityPoint",
+        "WeaponRange"
+      ],
+      "IsStatsPercent": [
+        false,
+        false
+      ]
     },
     {
       "Id": 6,
       "Devname": "군중제어강화",
       "DevName2": "군중제어저항",
-      "DetailShowStatsLength": 24,
-      "IsStatsPercentLength": 12
+      "DetailShowStats": [
+        "OppressionPower",
+        "OppressionResist"
+      ],
+      "IsStatsPercent": [
+        false,
+        false
+      ]
     },
     {
       "Id": 7,
-      "Devname": "시가전적응",
+      "Devname": "코스트 리젠",
       "DevName2": "야전적응",
-      "DetailShowStatsLength": 24,
-      "IsStatsPercentLength": 12
+      "DetailShowStats": [
+        "RegenCost",
+        "OutdoorBattleAdaptation"
+      ],
+      "IsStatsPercent": [
+        false,
+        false
+      ]
     },
     {
       "Id": 8,
       "Devname": "실내전적응",
-      "DevName2": "빈칸",
-      "DetailShowStatsLength": 24,
-      "IsStatsPercentLength": 12
+      "DevName2": "시가전적응",
+      "DetailShowStats": [
+        "IndoorBattleAdaptation",
+        "StreetBattleAdaptation"
+      ],
+      "IsStatsPercent": [
+        false,
+        false
+      ]
     }
   ]
 }

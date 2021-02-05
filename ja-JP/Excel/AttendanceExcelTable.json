@@ -1,14 +1,46 @@
 {
   "DataList": [
     {
-      "Id": 3,
-      "DevName": "AttendanceBook_Normal",
+      "Id": 1,
+      "DevName": "오픈 사양 출석보상",
+      "Type": "Basic",
+      "DisplayOrder": 0,
       "AccountType": "Normal",
+      "AccountLevelLimit": 0,
       "Title": "ATTENDANCEBOOK_NORMAL",
+      "InfomationLocalizeCode": null,
+      "CountRule": "Accumulation",
+      "CountReset": "User",
       "BookSize": 10,
-      "StartDate": "2019-05-31",
-      "EndDate": "2020-12-30",
-      "MailType": "Attendance"
+      "StartDate": "2020-11-01",
+      "StartableEndDate": "2025-12-31",
+      "EndDate": "2025-12-31",
+      "ExpiryDate": 0,
+      "MailType": "Attendance",
+      "DialogCategory": "UIAttendance",
+      "TitleImagePath": "Uis/01_Common/33_Attendance/ImageFont_Attend_1",
+      "DecorationImagePath": null
+    },
+    {
+      "Id": 2,
+      "DevName": "이벤트 테스트",
+      "Type": "Event",
+      "DisplayOrder": 1,
+      "AccountType": "Normal",
+      "AccountLevelLimit": 0,
+      "Title": null,
+      "InfomationLocalizeCode": "AttendanceEvent_Info_Text_01",
+      "CountRule": "Accumulation",
+      "CountReset": "User",
+      "BookSize": 7,
+      "StartDate": "2021-02-13",
+      "StartableEndDate": "2021-02-25",
+      "EndDate": "2021-02-25",
+      "ExpiryDate": 0,
+      "MailType": "Event",
+      "DialogCategory": "UIAttendanceEvent01",
+      "TitleImagePath": "Uis/01_Common/33_Attendance/ImageFont_Attend_Event_1000",
+      "DecorationImagePath": "Uis/01_Common/33_Attendance/Image_Attend_Event_1000"
     }
   ]
 }

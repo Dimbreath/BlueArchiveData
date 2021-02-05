@@ -1,0 +1,148 @@
+{
+  "DataList": [
+    {
+      "EventContentId": 10001,
+      "Id": 1000101,
+      "LocalizeEtcId": 337340670,
+      "DevName": "Goods_AP",
+      "CategoryType": "EventContent_0",
+      "IsLegacy": false,
+      "GoodsId": [
+        200
+      ],
+      "GoodsDevName": "GOLD_BUY",
+      "DisplayOrder": 10,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 3,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 10001,
+      "Id": 1000102,
+      "LocalizeEtcId": 337340670,
+      "DevName": "Goods_AP",
+      "CategoryType": "EventContent_1",
+      "IsLegacy": false,
+      "GoodsId": [
+        200
+      ],
+      "GoodsDevName": "GOLD_BUY",
+      "DisplayOrder": 10,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 3,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 10001,
+      "Id": 1000103,
+      "LocalizeEtcId": 337340670,
+      "DevName": "Goods_AP",
+      "CategoryType": "EventContent_2",
+      "IsLegacy": false,
+      "GoodsId": [
+        200
+      ],
+      "GoodsDevName": "GOLD_BUY",
+      "DisplayOrder": 10,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 3,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 10001,
+      "Id": 1000104,
+      "LocalizeEtcId": 337340670,
+      "DevName": "Goods_AP",
+      "CategoryType": "EventContent_3",
+      "IsLegacy": false,
+      "GoodsId": [
+        200
+      ],
+      "GoodsDevName": "GOLD_BUY",
+      "DisplayOrder": 10,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 3,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 10002,
+      "Id": 1000201,
+      "LocalizeEtcId": 337340670,
+      "DevName": "Goods_AP",
+      "CategoryType": "EventContent_0",
+      "IsLegacy": false,
+      "GoodsId": [
+        200
+      ],
+      "GoodsDevName": "GOLD_BUY",
+      "DisplayOrder": 10,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 3,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 10002,
+      "Id": 1000202,
+      "LocalizeEtcId": 337340670,
+      "DevName": "Goods_AP",
+      "CategoryType": "EventContent_1",
+      "IsLegacy": false,
+      "GoodsId": [
+        200
+      ],
+      "GoodsDevName": "GOLD_BUY",
+      "DisplayOrder": 10,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 3,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 10002,
+      "Id": 1000203,
+      "LocalizeEtcId": 337340670,
+      "DevName": "Goods_AP",
+      "CategoryType": "EventContent_2",
+      "IsLegacy": false,
+      "GoodsId": [
+        200
+      ],
+      "GoodsDevName": "GOLD_BUY",
+      "DisplayOrder": 10,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 3,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 10002,
+      "Id": 1000204,
+      "LocalizeEtcId": 337340670,
+      "DevName": "Goods_AP",
+      "CategoryType": "EventContent_3",
+      "IsLegacy": false,
+      "GoodsId": [
+        200
+      ],
+      "GoodsDevName": "GOLD_BUY",
+      "DisplayOrder": 10,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 3,
+      "PurchaseCountResetType": "None"
+    }
+  ]
+}

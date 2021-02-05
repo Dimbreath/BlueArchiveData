@@ -1,104 +1,74 @@
 {
   "DataList": [
     {
-      "OrderOfPriority": 96,
-      "EmojiReversal": true
-    },
-    {
-      "UniqueId": 1,
-      "EmojiEvent": "EnterShelter",
-      "OrderOfPriority": 97,
-      "EmojiReversal": true
-    },
-    {
-      "UniqueId": 2,
-      "EmojiEvent": "SignalLeader",
-      "OrderOfPriority": 98,
-      "EmojiDuration": true,
-      "EmojiReversal": true
-    },
-    {
-      "UniqueId": 3,
+      "UniqueId": 0,
       "EmojiEvent": "Nice",
-      "OrderOfPriority": 6,
-      "EmojiDuration": true,
-      "EmojiReversal": true,
-      "EmojiTurnOn": true
-    },
-    {
-      "UniqueId": 4,
-      "EmojiEvent": "Reload",
-      "OrderOfPriority": 5,
-      "EmojiTurnOn": true
-    },
-    {
-      "UniqueId": 5,
-      "EmojiEvent": "Blind",
-      "OrderOfPriority": 4,
-      "EmojiDuration": true,
-      "EmojiReversal": true,
-      "EmojiTurnOn": true
-    },
-    {
-      "UniqueId": 6,
-      "EmojiEvent": "Panic",
-      "OrderOfPriority": 3,
-      "EmojiDuration": true,
-      "EmojiReversal": true,
-      "EmojiTurnOn": true
-    },
-    {
-      "UniqueId": 7,
-      "EmojiEvent": "Silence",
       "OrderOfPriority": 2,
       "EmojiDuration": true,
       "EmojiReversal": true,
-      "EmojiTurnOn": true
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 0
     },
     {
-      "UniqueId": 8,
-      "EmojiEvent": "NearyDead",
-      "OrderOfPriority": 99,
-      "EmojiReversal": true
+      "UniqueId": 1,
+      "EmojiEvent": "Reload",
+      "OrderOfPriority": 3,
+      "EmojiDuration": false,
+      "EmojiReversal": false,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 0
     },
     {
-      "UniqueId": 9,
+      "UniqueId": 2,
       "EmojiEvent": "Run",
       "OrderOfPriority": 1,
-      "EmojiTurnOn": true
+      "EmojiDuration": false,
+      "EmojiReversal": false,
+      "EmojiTurnOn": true,
+      "ShowEmojiDelay": 0
     },
     {
-      "UniqueId": 10,
+      "UniqueId": 3,
       "EmojiEvent": "TerrainAdaptionS",
       "OrderOfPriority": 50,
+      "EmojiDuration": false,
+      "EmojiReversal": false,
       "EmojiTurnOn": true,
       "ShowEmojiDelay": 2000
     },
     {
-      "UniqueId": 11,
+      "UniqueId": 4,
       "EmojiEvent": "TerrainAdaptionA",
       "OrderOfPriority": 51,
+      "EmojiDuration": false,
+      "EmojiReversal": false,
       "EmojiTurnOn": true,
       "ShowEmojiDelay": 2000
     },
     {
-      "UniqueId": 12,
+      "UniqueId": 5,
       "EmojiEvent": "TerrainAdaptionB",
       "OrderOfPriority": 52,
+      "EmojiDuration": false,
+      "EmojiReversal": false,
       "EmojiTurnOn": true,
       "ShowEmojiDelay": 2000
     },
     {
-      "UniqueId": 13,
+      "UniqueId": 6,
       "EmojiEvent": "TerrainAdaptionC",
       "OrderOfPriority": 53,
+      "EmojiDuration": false,
+      "EmojiReversal": false,
       "EmojiTurnOn": true,
       "ShowEmojiDelay": 2000
     },
     {
-      "UniqueId": 14,
+      "UniqueId": 7,
       "EmojiEvent": "TerrainAdaptionD",
       "OrderOfPriority": 54,
+      "EmojiDuration": false,
+      "EmojiReversal": false,
       "EmojiTurnOn": true,
       "ShowEmojiDelay": 2000
     }

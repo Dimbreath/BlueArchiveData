@@ -2,20 +2,23 @@
   "DataList": [
     {
       "Id": 1,
+      "InfomationLocalizeCode": "GuideMission_Info_Text_Season_1",
       "AccountType": "Normal",
       "Enabled": true,
-      "StartDate": "2020-07-25 00:00:00",
-      "StartableEndDate": "2020-08-17 00:00:00",
-      "EndDate": "2020-08-25 00:00:00",
+      "StartDate": "2020-10-25 00:00:00",
+      "StartableEndDate": "2125-12-24 00:00:00",
+      "EndDate": "2125-12-31 00:00:00",
       "MaximumLoginCount": 7,
-      "ExpiryDate": 11,
-      "SpineCharacterId": 1042000,
+      "ExpiryDate": 36500,
+      "SpineCharacterId": 13004,
       "RequirementParcelImage": "UIs/01_Common/03_NonEquipment/Collectible_Icon_GuideMission01",
-      "RewardImage": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Aru",
+      "RewardImage": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Nonomi",
       "LobbyBannerImage": "UIs/00_Images/Banner/Lobby_Guide_Banner",
+      "BackgroundImage": "UIs/01_Common/29_GuideMission/BG_GuideMission_Dummy",
+      "TitleImage": "UIs/01_Common/29_GuideMission/ImgFont_GuideMission_Title",
       "RequirementParcelType": "Item",
       "RequirementParcelId": 20000000,
-      "RequirementPareclAmount": 100
+      "RequirementParcelAmount": 100
     }
   ]
 }

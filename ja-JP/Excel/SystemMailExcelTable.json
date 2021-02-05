@@ -14,7 +14,7 @@
     },
     {
       "MailType": "InventoryFull",
-      "ExpiredDay": 7,
+      "ExpiredDay": 1,
       "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
       "Comment": "UI_MAILBOX_INVENTROY_FULL_MESSAGE_NORMAL"
     },
@@ -35,6 +35,30 @@
       "ExpiredDay": 7,
       "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
       "Comment": "UI_MAILBOX_ARENA_SEASON_CLOSE_MESSAGE_NORMAL"
+    },
+    {
+      "MailType": "MonthlyProductReward",
+      "ExpiredDay": 1,
+      "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+      "Comment": "UI_MAILBOX_ProductMonthly_Reward_OverLimit"
+    },
+    {
+      "MailType": "ProductReward",
+      "ExpiredDay": 3650,
+      "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+      "Comment": "Text_SendToMailBox_Title"
+    },
+    {
+      "MailType": "ExpiryChangeItem",
+      "ExpiredDay": 7,
+      "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+      "Comment": "UI_MAILBOX_POST_SENDER_SYSTEM"
+    },
+    {
+      "MailType": "ClanAttendance",
+      "ExpiredDay": 7,
+      "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+      "Comment": "UI_MAILBOX_CLAN_ATTENDANCE_REWARD_MESSAGE_NORMAL"
     }
   ]
 }

@@ -97,257 +97,258 @@
     },
     {
       "Level": 20,
-      "Exp": 245,
-      "TotalExp": 2445
+      "Exp": 385,
+      "TotalExp": 2585
     },
     {
       "Level": 21,
-      "Exp": 265,
-      "TotalExp": 2710
+      "Exp": 425,
+      "TotalExp": 3010
     },
     {
       "Level": 22,
-      "Exp": 290,
-      "TotalExp": 3000
+      "Exp": 480,
+      "TotalExp": 3490
     },
     {
       "Level": 23,
-      "Exp": 315,
-      "TotalExp": 3315
-    },
-    {
-      "Level": 24,
-      "Exp": 340,
-      "TotalExp": 3655
-    },
-    {
-      "Level": 25,
-      "Exp": 370,
+      "Exp": 535,
       "TotalExp": 4025
     },
     {
+      "Level": 24,
+      "Exp": 580,
+      "TotalExp": 4605
+    },
+    {
+      "Level": 25,
+      "Exp": 635,
+      "TotalExp": 5240
+    },
+    {
       "Level": 26,
-      "Exp": 570,
-      "TotalExp": 4595
+      "Exp": 785,
+      "TotalExp": 6025
     },
     {
       "Level": 27,
-      "Exp": 610,
-      "TotalExp": 5205
+      "Exp": 845,
+      "TotalExp": 6870
     },
     {
       "Level": 28,
-      "Exp": 650,
-      "TotalExp": 5855
+      "Exp": 895,
+      "TotalExp": 7765
     },
     {
       "Level": 29,
-      "Exp": 695,
-      "TotalExp": 6550
+      "Exp": 925,
+      "TotalExp": 8690
     },
     {
       "Level": 30,
-      "Exp": 740,
-      "TotalExp": 7290
+      "Exp": 975,
+      "TotalExp": 9665
     },
     {
       "Level": 31,
-      "Exp": 810,
-      "TotalExp": 8100
+      "Exp": 1010,
+      "TotalExp": 10675
     },
     {
       "Level": 32,
-      "Exp": 885,
-      "TotalExp": 8985
+      "Exp": 1095,
+      "TotalExp": 11770
     },
     {
       "Level": 33,
-      "Exp": 965,
-      "TotalExp": 9950
+      "Exp": 1165,
+      "TotalExp": 12935
     },
     {
       "Level": 34,
-      "Exp": 1050,
-      "TotalExp": 11000
+      "Exp": 1250,
+      "TotalExp": 14185
     },
     {
       "Level": 35,
-      "Exp": 1135,
-      "TotalExp": 12135
+      "Exp": 1335,
+      "TotalExp": 15520
     },
     {
       "Level": 36,
-      "Exp": 1225,
-      "TotalExp": 13360
+      "Exp": 1425,
+      "TotalExp": 16945
     },
     {
       "Level": 37,
-      "Exp": 1320,
-      "TotalExp": 14680
+      "Exp": 1545,
+      "TotalExp": 18490
     },
     {
       "Level": 38,
-      "Exp": 1420,
-      "TotalExp": 16100
+      "Exp": 1625,
+      "TotalExp": 20115
     },
     {
       "Level": 39,
-      "Exp": 1525,
-      "TotalExp": 17625
+      "Exp": 1685,
+      "TotalExp": 21800
     },
     {
       "Level": 40,
-      "Exp": 1635,
-      "TotalExp": 19260
+      "Exp": 1735,
+      "TotalExp": 23535
     },
     {
       "Level": 41,
       "Exp": 1800,
-      "TotalExp": 21060
+      "TotalExp": 25335
     },
     {
       "Level": 42,
       "Exp": 1975,
-      "TotalExp": 23035
+      "TotalExp": 27310
     },
     {
       "Level": 43,
       "Exp": 2165,
-      "TotalExp": 25200
+      "TotalExp": 29475
     },
     {
       "Level": 44,
       "Exp": 2370,
-      "TotalExp": 27570
+      "TotalExp": 31845
     },
     {
       "Level": 45,
       "Exp": 2585,
-      "TotalExp": 30155
+      "TotalExp": 34430
     },
     {
       "Level": 46,
       "Exp": 2815,
-      "TotalExp": 32970
+      "TotalExp": 37245
     },
     {
       "Level": 47,
       "Exp": 3065,
-      "TotalExp": 36035
+      "TotalExp": 40310
     },
     {
       "Level": 48,
-      "Exp": 3330,
-      "TotalExp": 39365
+      "Exp": 3340,
+      "TotalExp": 43650
     },
     {
       "Level": 49,
-      "Exp": 3615,
-      "TotalExp": 42980
+      "Exp": 3645,
+      "TotalExp": 47295
     },
     {
       "Level": 50,
-      "Exp": 3920,
-      "TotalExp": 46900
+      "Exp": 3985,
+      "TotalExp": 51280
     },
     {
       "Level": 51,
-      "Exp": 4420,
-      "TotalExp": 51320
+      "Exp": 4365,
+      "TotalExp": 55645
     },
     {
       "Level": 52,
-      "Exp": 4975,
-      "TotalExp": 56295
+      "Exp": 4790,
+      "TotalExp": 60435
     },
     {
       "Level": 53,
-      "Exp": 5590,
-      "TotalExp": 61885
+      "Exp": 5265,
+      "TotalExp": 65700
     },
     {
       "Level": 54,
-      "Exp": 6275,
-      "TotalExp": 68160
+      "Exp": 5795,
+      "TotalExp": 71495
     },
     {
       "Level": 55,
-      "Exp": 7035,
-      "TotalExp": 75195
+      "Exp": 6385,
+      "TotalExp": 77880
     },
     {
       "Level": 56,
-      "Exp": 7880,
-      "TotalExp": 83075
+      "Exp": 7040,
+      "TotalExp": 84920
     },
     {
       "Level": 57,
-      "Exp": 8815,
-      "TotalExp": 91890
+      "Exp": 7765,
+      "TotalExp": 92685
     },
     {
       "Level": 58,
-      "Exp": 9855,
-      "TotalExp": 101745
+      "Exp": 8565,
+      "TotalExp": 101250
     },
     {
       "Level": 59,
-      "Exp": 11010,
-      "TotalExp": 112755
+      "Exp": 9445,
+      "TotalExp": 110695
     },
     {
       "Level": 60,
-      "Exp": 12290,
-      "TotalExp": 125045
+      "Exp": 10410,
+      "TotalExp": 121105
     },
     {
       "Level": 61,
-      "Exp": 13975,
-      "TotalExp": 139020
+      "Exp": 11465,
+      "TotalExp": 132570
     },
     {
       "Level": 62,
-      "Exp": 15880,
-      "TotalExp": 154900
+      "Exp": 12615,
+      "TotalExp": 145185
     },
     {
       "Level": 63,
-      "Exp": 18030,
-      "TotalExp": 172930
+      "Exp": 13865,
+      "TotalExp": 159050
     },
     {
       "Level": 64,
-      "Exp": 20460,
-      "TotalExp": 193390
+      "Exp": 15220,
+      "TotalExp": 174270
     },
     {
       "Level": 65,
-      "Exp": 23210,
-      "TotalExp": 216600
+      "Exp": 16685,
+      "TotalExp": 190955
     },
     {
       "Level": 66,
-      "Exp": 26315,
-      "TotalExp": 242915
+      "Exp": 18265,
+      "TotalExp": 209220
     },
     {
       "Level": 67,
-      "Exp": 29825,
-      "TotalExp": 272740
+      "Exp": 19965,
+      "TotalExp": 229185
     },
     {
       "Level": 68,
-      "Exp": 33790,
-      "TotalExp": 306530
+      "Exp": 21790,
+      "TotalExp": 250975
     },
     {
       "Level": 69,
-      "Exp": 40075,
-      "TotalExp": 346605
+      "Exp": 23745,
+      "TotalExp": 274720
     },
     {
       "Level": 70,
-      "TotalExp": 346605
+      "Exp": 0,
+      "TotalExp": 274720
     }
   ]
 }

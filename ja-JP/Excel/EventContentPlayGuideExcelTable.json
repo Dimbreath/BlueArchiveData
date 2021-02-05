@@ -1,0 +1,22 @@
+{
+  "DataList": [
+    {
+      "Id": 0,
+      "EventContentId": 10001,
+      "DevName": "테스트",
+      "DisplayOrder": 0,
+      "GuideTitle": "UI_SCENARIOFORMATION_TITLE",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/PlayGuide_Event_Dummy",
+      "GuideText": "WeekDungeon_GroupBuff_Recommand_Hyakkiyako"
+    },
+    {
+      "Id": 1,
+      "EventContentId": 10001,
+      "DevName": null,
+      "DisplayOrder": 1,
+      "GuideTitle": null,
+      "GuideImagePath": null,
+      "GuideText": null
+    }
+  ]
+}

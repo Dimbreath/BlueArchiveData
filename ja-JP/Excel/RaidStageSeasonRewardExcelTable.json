@@ -3,82 +3,726 @@
     {
       "SeasonRewardId": 100,
       "DevName": "시즌 1단계 보상",
-      "SeasonRewardParcelTypeLength": 112,
-      "SeasonRewardParcelUniqueIdLength": 88,
-      "SeasonRewardParcelUniqueNameLength": 40,
-      "SeasonRewardAmountLength": 16
+      "SeasonRewardParcelType": [
+        "Equipment"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "하급 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        12
+      ]
     },
     {
       "SeasonRewardId": 101,
       "DevName": "시즌 2단계 보상",
-      "SeasonRewardParcelTypeLength": 84,
-      "SeasonRewardParcelUniqueIdLength": 64,
-      "SeasonRewardParcelUniqueNameLength": 36,
-      "SeasonRewardAmountLength": 16
+      "SeasonRewardParcelType": [
+        "Item"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        10
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "하급 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        12
+      ]
     },
     {
       "SeasonRewardId": 102,
       "DevName": "시즌 3단계 보상",
-      "SeasonRewardParcelTypeLength": 112,
-      "SeasonRewardParcelUniqueIdLength": 88,
-      "SeasonRewardParcelUniqueNameLength": 40,
-      "SeasonRewardAmountLength": 16
+      "SeasonRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        130,
+        100
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "님루드 렌즈 조각",
+        "네브라 디스크 조각"
+      ],
+      "SeasonRewardAmount": [
+        6,
+        6
+      ]
     },
     {
       "SeasonRewardId": 103,
       "DevName": "시즌 4단계 보상",
-      "SeasonRewardParcelTypeLength": 84,
-      "SeasonRewardParcelUniqueIdLength": 64,
-      "SeasonRewardParcelUniqueNameLength": 36,
-      "SeasonRewardAmountLength": 16
+      "SeasonRewardParcelType": [
+        "Currency",
+        "Item"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1,
+        7
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "크레딧",
+        "총력전 토큰"
+      ],
+      "SeasonRewardAmount": [
+        200000,
+        50
+      ]
     },
     {
       "SeasonRewardId": 104,
       "DevName": "시즌 5단계 보상",
-      "SeasonRewardParcelTypeLength": 112,
-      "SeasonRewardParcelUniqueIdLength": 88,
-      "SeasonRewardParcelUniqueNameLength": 40,
-      "SeasonRewardAmountLength": 16
+      "SeasonRewardParcelType": [
+        "Equipment"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        2
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "일반 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        8
+      ]
     },
     {
       "SeasonRewardId": 105,
       "DevName": "시즌 6단계 보상",
-      "SeasonRewardParcelTypeLength": 84,
-      "SeasonRewardParcelUniqueIdLength": 64,
-      "SeasonRewardParcelUniqueNameLength": 36,
-      "SeasonRewardAmountLength": 16
+      "SeasonRewardParcelType": [
+        "Item"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        11
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "일반 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        6
+      ]
     },
     {
       "SeasonRewardId": 106,
       "DevName": "시즌 7단계 보상",
-      "SeasonRewardParcelTypeLength": 112,
-      "SeasonRewardParcelUniqueIdLength": 88,
-      "SeasonRewardParcelUniqueNameLength": 40,
-      "SeasonRewardAmountLength": 16
+      "SeasonRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        131,
+        101
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "파손된 님루드 렌즈",
+        "파손된 네브라 디스크"
+      ],
+      "SeasonRewardAmount": [
+        3,
+        3
+      ]
     },
     {
       "SeasonRewardId": 107,
       "DevName": "시즌 8단계 보상",
-      "SeasonRewardParcelTypeLength": 84,
-      "SeasonRewardParcelUniqueIdLength": 64,
-      "SeasonRewardParcelUniqueNameLength": 36,
-      "SeasonRewardAmountLength": 16
+      "SeasonRewardParcelType": [
+        "Currency",
+        "Item"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        3,
+        7
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "청휘석",
+        "총력전 토큰"
+      ],
+      "SeasonRewardAmount": [
+        150,
+        50
+      ]
     },
     {
       "SeasonRewardId": 108,
       "DevName": "시즌 9단계 보상",
-      "SeasonRewardParcelTypeLength": 112,
-      "SeasonRewardParcelUniqueIdLength": 88,
-      "SeasonRewardParcelUniqueNameLength": 40,
-      "SeasonRewardAmountLength": 16
+      "SeasonRewardParcelType": [
+        "Equipment"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        3
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        2
+      ]
     },
     {
       "SeasonRewardId": 109,
       "DevName": "시즌 10단계 보상",
-      "SeasonRewardParcelTypeLength": 84,
-      "SeasonRewardParcelUniqueIdLength": 64,
-      "SeasonRewardParcelUniqueNameLength": 32,
-      "SeasonRewardAmountLength": 16
+      "SeasonRewardParcelType": [
+        "Item"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        12
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        3
+      ]
+    },
+    {
+      "SeasonRewardId": 110,
+      "DevName": "시즌 11단계 보상",
+      "SeasonRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        132,
+        102
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "마모된 님루드 렌즈",
+        "마모된 네브라 디스크"
+      ],
+      "SeasonRewardAmount": [
+        2,
+        2
+      ]
+    },
+    {
+      "SeasonRewardId": 111,
+      "DevName": "시즌 12단계 보상",
+      "SeasonRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        23,
+        7
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "엘리그마",
+        "총력전 토큰"
+      ],
+      "SeasonRewardAmount": [
+        15,
+        50
+      ]
+    },
+    {
+      "SeasonRewardId": 112,
+      "DevName": "시즌 13단계 보상",
+      "SeasonRewardParcelType": [
+        "Equipment"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        4
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "최상급 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        1
+      ]
+    },
+    {
+      "SeasonRewardId": 113,
+      "DevName": "시즌 14단계 보상",
+      "SeasonRewardParcelType": [
+        "Item"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        13
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "최상급 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        1
+      ]
+    },
+    {
+      "SeasonRewardId": 114,
+      "DevName": "시즌 15단계 보상",
+      "SeasonRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        133,
+        103
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "온전한 님루드 렌즈",
+        "온전한 네브라 디스크"
+      ],
+      "SeasonRewardAmount": [
+        1,
+        1
+      ]
+    },
+    {
+      "SeasonRewardId": 115,
+      "DevName": "시즌 16단계 보상",
+      "SeasonRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        10007,
+        7
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "마키의 엘레프",
+        "총력전 토큰"
+      ],
+      "SeasonRewardAmount": [
+        5,
+        50
+      ]
+    },
+    {
+      "SeasonRewardId": 116,
+      "DevName": "시즌 17단계 보상",
+      "SeasonRewardParcelType": [
+        "Equipment",
+        "Equipment"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1,
+        2
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "하급 장비 강화석",
+        "일반 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        24,
+        16
+      ]
+    },
+    {
+      "SeasonRewardId": 117,
+      "DevName": "시즌 18단계 보상",
+      "SeasonRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        10,
+        11
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "하급 활동 보고서",
+        "일반 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        24,
+        12
+      ]
+    },
+    {
+      "SeasonRewardId": 118,
+      "DevName": "시즌 19단계 보상",
+      "SeasonRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        130,
+        100,
+        131,
+        101
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "님루드 렌즈 조각",
+        "네브라 디스크 조각",
+        "파손된 님루드 렌즈",
+        "파손된 네브라 디스크"
+      ],
+      "SeasonRewardAmount": [
+        12,
+        12,
+        6,
+        6
+      ]
+    },
+    {
+      "SeasonRewardId": 119,
+      "DevName": "시즌 20단계 보상",
+      "SeasonRewardParcelType": [
+        "Currency",
+        "Currency",
+        "Item"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1,
+        3,
+        7
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "크레딧",
+        "청휘석",
+        "총력전 토큰"
+      ],
+      "SeasonRewardAmount": [
+        300000,
+        150,
+        100
+      ]
+    },
+    {
+      "SeasonRewardId": 120,
+      "DevName": "시즌 21단계 보상",
+      "SeasonRewardParcelType": [
+        "Equipment",
+        "Equipment"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        3,
+        4
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 장비 강화석",
+        "최상급 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        2,
+        1
+      ]
+    },
+    {
+      "SeasonRewardId": 121,
+      "DevName": "시즌 22단계 보상",
+      "SeasonRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        12,
+        13
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 활동 보고서",
+        "최상급 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        3,
+        1
+      ]
+    },
+    {
+      "SeasonRewardId": 122,
+      "DevName": "시즌 23단계 보상",
+      "SeasonRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        132,
+        102,
+        133,
+        103
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "마모된 님루드 렌즈",
+        "마모된 네브라 디스크",
+        "온전한 님루드 렌즈",
+        "온전한 네브라 디스크"
+      ],
+      "SeasonRewardAmount": [
+        2,
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "SeasonRewardId": 123,
+      "DevName": "시즌 24단계 보상",
+      "SeasonRewardParcelType": [
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        23,
+        10007,
+        7
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "엘리그마",
+        "마키의 엘레프",
+        "총력전 토큰"
+      ],
+      "SeasonRewardAmount": [
+        15,
+        5,
+        100
+      ]
+    },
+    {
+      "SeasonRewardId": 124,
+      "DevName": "시즌 25단계 보상",
+      "SeasonRewardParcelType": [
+        "Equipment",
+        "Equipment"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1,
+        2
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "하급 장비 강화석",
+        "일반 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        24,
+        16
+      ]
+    },
+    {
+      "SeasonRewardId": 125,
+      "DevName": "시즌 26단계 보상",
+      "SeasonRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        10,
+        11
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "하급 활동 보고서",
+        "일반 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        24,
+        12
+      ]
+    },
+    {
+      "SeasonRewardId": 126,
+      "DevName": "시즌 27단계 보상",
+      "SeasonRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        130,
+        100,
+        131,
+        101
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "님루드 렌즈 조각",
+        "네브라 디스크 조각",
+        "파손된 님루드 렌즈",
+        "파손된 네브라 디스크"
+      ],
+      "SeasonRewardAmount": [
+        12,
+        12,
+        6,
+        6
+      ]
+    },
+    {
+      "SeasonRewardId": 127,
+      "DevName": "시즌 28단계 보상",
+      "SeasonRewardParcelType": [
+        "Currency",
+        "Currency",
+        "Item"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1,
+        3,
+        7
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "크레딧",
+        "청휘석",
+        "총력전 토큰"
+      ],
+      "SeasonRewardAmount": [
+        1000000,
+        150,
+        100
+      ]
+    },
+    {
+      "SeasonRewardId": 128,
+      "DevName": "시즌 29단계 보상",
+      "SeasonRewardParcelType": [
+        "Equipment",
+        "Equipment"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        3,
+        4
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 장비 강화석",
+        "최상급 장비 강화석"
+      ],
+      "SeasonRewardAmount": [
+        4,
+        2
+      ]
+    },
+    {
+      "SeasonRewardId": 129,
+      "DevName": "시즌 30단계 보상",
+      "SeasonRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        12,
+        13
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "상급 활동 보고서",
+        "최상급 활동 보고서"
+      ],
+      "SeasonRewardAmount": [
+        6,
+        2
+      ]
+    },
+    {
+      "SeasonRewardId": 130,
+      "DevName": "시즌 31단계 보상",
+      "SeasonRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        132,
+        102,
+        133,
+        103
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "마모된 님루드 렌즈",
+        "마모된 네브라 디스크",
+        "온전한 님루드 렌즈",
+        "온전한 네브라 디스크"
+      ],
+      "SeasonRewardAmount": [
+        4,
+        4,
+        2,
+        2
+      ]
+    },
+    {
+      "SeasonRewardId": 131,
+      "DevName": "시즌 32단계 보상",
+      "SeasonRewardParcelType": [
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        23,
+        10007,
+        7
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "엘리그마",
+        "마키의 엘레프",
+        "총력전 토큰"
+      ],
+      "SeasonRewardAmount": [
+        20,
+        5,
+        100
+      ]
+    },
+    {
+      "SeasonRewardId": 132,
+      "DevName": "시즌 33단계 보상",
+      "SeasonRewardParcelType": [
+        "Currency"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        1
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "크레딧"
+      ],
+      "SeasonRewardAmount": [
+        2000000
+      ]
+    },
+    {
+      "SeasonRewardId": 133,
+      "DevName": "시즌 34단계 보상",
+      "SeasonRewardParcelType": [
+        "Item"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        7
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "총력전 토큰"
+      ],
+      "SeasonRewardAmount": [
+        200
+      ]
+    },
+    {
+      "SeasonRewardId": 134,
+      "DevName": "시즌 35단계 보상",
+      "SeasonRewardParcelType": [
+        "Currency"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        3
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "청휘석"
+      ],
+      "SeasonRewardAmount": [
+        200
+      ]
+    },
+    {
+      "SeasonRewardId": 135,
+      "DevName": "시즌 36단계 보상",
+      "SeasonRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "SeasonRewardParcelUniqueId": [
+        23,
+        10007
+      ],
+      "SeasonRewardParcelUniqueName": [
+        "엘리그마",
+        "마키의 엘레프"
+      ],
+      "SeasonRewardAmount": [
+        20,
+        5
+      ]
     }
   ]
 }

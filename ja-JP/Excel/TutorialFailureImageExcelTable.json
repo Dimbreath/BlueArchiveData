@@ -1,111 +1,137 @@
 {
   "DataList": [
     {
-      "Id": 1,
-      "DevName": "지형 적응 안내",
-      "Type": "None",
-      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Topography"
+      "Id": 10001,
+      "DevName": "4-5 핀포인트 패배 튜토리얼",
+      "Contents": "Campaign",
+      "Type": "1041105",
+      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail"
     },
     {
-      "Id": 2,
-      "DevName": "상성 안내",
-      "Type": "None",
-      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialType"
+      "Id": 10002,
+      "DevName": "10-5 핀포인트 패배 튜토리얼",
+      "Contents": "Campaign",
+      "Type": "1101105",
+      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail"
     },
     {
-      "Id": 3,
-      "DevName": "캐릭터 성장 안내",
-      "Type": "None",
-      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CharacterGrowth"
+      "Id": 10003,
+      "DevName": "11-4 핀포인트 패배 튜토리얼",
+      "Contents": "Campaign",
+      "Type": "1111104",
+      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail"
     },
     {
-      "Id": 4,
-      "DevName": "장비 성장 안내",
-      "Type": "None",
-      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EquipmentGrowth"
+      "Id": 10004,
+      "DevName": "11-5 핀포인트 패배 튜토리얼",
+      "Contents": "Campaign",
+      "Type": "1111105",
+      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail"
     },
     {
-      "Id": 5,
+      "Id": 20101,
       "DevName": "요일 던전 추격전 안내",
       "Contents": "WeekDungeon",
       "Type": "Chaser",
       "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_Chaser"
     },
     {
-      "Id": 6,
+      "Id": 20201,
       "DevName": "요일 던전 선물 찾기 안내",
       "Contents": "WeekDungeon",
       "Type": "FindGift",
       "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_FindGift"
     },
     {
-      "Id": 7,
+      "Id": 20301,
       "DevName": "요일 던전 블러드 안내",
       "Contents": "WeekDungeon",
       "Type": "Blood",
       "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_Blood"
     },
     {
-      "Id": 8,
+      "Id": 30101,
       "DevName": "레이드 비나 안내",
       "Contents": "Raid",
       "Type": "Binah",
       "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah"
     },
     {
-      "Id": 9,
+      "Id": 30201,
       "DevName": "레이드 헤세드 안내 1",
       "Contents": "Raid",
       "Type": "Chesed",
       "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01"
     },
     {
-      "Id": 10,
+      "Id": 30202,
       "DevName": "레이드 헤세드 안내 2",
       "Contents": "Raid",
       "Type": "Chesed",
       "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02"
     },
     {
-      "Id": 11,
+      "Id": 30203,
       "DevName": "레이드 헤세드 안내 3",
       "Contents": "Raid",
       "Type": "Chesed",
       "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03"
     },
     {
-      "Id": 12,
+      "Id": 30301,
+      "DevName": "레이드 시로쿠로 안내 1",
+      "Contents": "Raid",
+      "Type": "ShiroKuro",
+      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01"
+    },
+    {
+      "Id": 30302,
+      "DevName": "레이드 시로쿠로 안내 2",
+      "Contents": "Raid",
+      "Type": "ShiroKuro",
+      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02"
+    },
+    {
+      "Id": 30303,
+      "DevName": "레이드 시로쿠로 안내 3",
+      "Contents": "Raid",
+      "Type": "ShiroKuro",
+      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03"
+    },
+    {
+      "Id": 90001,
+      "DevName": "지형 적응 안내",
+      "Contents": "None",
+      "Type": "None",
+      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Topography"
+    },
+    {
+      "Id": 90002,
+      "DevName": "상성 안내",
+      "Contents": "None",
+      "Type": "None",
+      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialType"
+    },
+    {
+      "Id": 90003,
+      "DevName": "캐릭터 성장 안내",
+      "Contents": "None",
+      "Type": "None",
+      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CharacterGrowth"
+    },
+    {
+      "Id": 90004,
+      "DevName": "장비 성장 안내",
+      "Contents": "None",
+      "Type": "None",
+      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EquipmentGrowth"
+    },
+    {
+      "Id": 90005,
       "DevName": "코스트 충전 안내",
+      "Contents": "None",
       "Type": "None",
       "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CostCharge"
-    },
-    {
-      "Id": 13,
-      "DevName": "3-1 핀포인트 패배 튜토리얼",
-      "Contents": "Campaign",
-      "Type": "1031101",
-      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail"
-    },
-    {
-      "Id": 14,
-      "DevName": "3-2 핀포인트 패배 튜토리얼",
-      "Contents": "Campaign",
-      "Type": "1031102",
-      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail"
-    },
-    {
-      "Id": 15,
-      "DevName": "4-4 핀포인트 패배 튜토리얼",
-      "Contents": "Campaign",
-      "Type": "1041104",
-      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail"
-    },
-    {
-      "Id": 16,
-      "DevName": "4-5 핀포인트 패배 튜토리얼",
-      "Contents": "Campaign",
-      "Type": "1041105",
-      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail"
     }
   ]
 }

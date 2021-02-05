@@ -1,9 +1,13 @@
 {
   "DataList": [
     {
-      "CharacterId": 1061002,
+      "CharacterId": 13010,
+      "FavoriteCharacter": false,
       "Level": 1,
+      "Exp": 0,
+      "FavorExp": 0,
       "FavorRank": 1,
+      "StarGrade": 2,
       "ExSkillLevel": 1,
       "PassiveSkillLevel": 1,
       "ExtraPassiveSkillLevel": 1,
@@ -11,9 +15,13 @@
       "LeaderSkillLevel": 1
     },
     {
-      "CharacterId": 1031000,
+      "CharacterId": 16003,
+      "FavoriteCharacter": false,
       "Level": 1,
+      "Exp": 0,
+      "FavorExp": 0,
       "FavorRank": 1,
+      "StarGrade": 1,
       "ExSkillLevel": 1,
       "PassiveSkillLevel": 1,
       "ExtraPassiveSkillLevel": 1,
@@ -21,10 +29,13 @@
       "LeaderSkillLevel": 1
     },
     {
-      "CharacterId": 1032000,
+      "CharacterId": 13003,
       "FavoriteCharacter": true,
       "Level": 1,
+      "Exp": 0,
+      "FavorExp": 0,
       "FavorRank": 1,
+      "StarGrade": 2,
       "ExSkillLevel": 1,
       "PassiveSkillLevel": 1,
       "ExtraPassiveSkillLevel": 1,
@@ -32,9 +43,13 @@
       "LeaderSkillLevel": 1
     },
     {
-      "CharacterId": 2041000,
+      "CharacterId": 26000,
+      "FavoriteCharacter": false,
       "Level": 1,
+      "Exp": 0,
+      "FavorExp": 0,
       "FavorRank": 1,
+      "StarGrade": 1,
       "ExSkillLevel": 1,
       "PassiveSkillLevel": 1,
       "ExtraPassiveSkillLevel": 1,

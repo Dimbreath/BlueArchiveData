@@ -2,403 +2,503 @@
   "DataList": [
     {
       "MonsterLv": 1,
-      "StandardHpBar": 2000
+      "StandardHpBar": 2000,
+      "RaidBossHpBar": 20000
     },
     {
       "MonsterLv": 2,
-      "StandardHpBar": 2000
+      "StandardHpBar": 2000,
+      "RaidBossHpBar": 20000
     },
     {
       "MonsterLv": 3,
-      "StandardHpBar": 2000
+      "StandardHpBar": 2000,
+      "RaidBossHpBar": 20000
     },
     {
       "MonsterLv": 4,
-      "StandardHpBar": 2000
+      "StandardHpBar": 2000,
+      "RaidBossHpBar": 20000
     },
     {
       "MonsterLv": 5,
-      "StandardHpBar": 2000
+      "StandardHpBar": 2000,
+      "RaidBossHpBar": 20000
     },
     {
       "MonsterLv": 6,
-      "StandardHpBar": 2000
+      "StandardHpBar": 2000,
+      "RaidBossHpBar": 20000
     },
     {
       "MonsterLv": 7,
-      "StandardHpBar": 2000
+      "StandardHpBar": 2000,
+      "RaidBossHpBar": 20000
     },
     {
       "MonsterLv": 8,
-      "StandardHpBar": 2000
+      "StandardHpBar": 2000,
+      "RaidBossHpBar": 20000
     },
     {
       "MonsterLv": 9,
-      "StandardHpBar": 2000
+      "StandardHpBar": 2000,
+      "RaidBossHpBar": 20000
     },
     {
       "MonsterLv": 10,
-      "StandardHpBar": 2000
+      "StandardHpBar": 2000,
+      "RaidBossHpBar": 20000
     },
     {
       "MonsterLv": 11,
-      "StandardHpBar": 3000
+      "StandardHpBar": 3000,
+      "RaidBossHpBar": 30000
     },
     {
       "MonsterLv": 12,
-      "StandardHpBar": 3000
+      "StandardHpBar": 3000,
+      "RaidBossHpBar": 30000
     },
     {
       "MonsterLv": 13,
-      "StandardHpBar": 3000
+      "StandardHpBar": 3000,
+      "RaidBossHpBar": 30000
     },
     {
       "MonsterLv": 14,
-      "StandardHpBar": 3000
+      "StandardHpBar": 3000,
+      "RaidBossHpBar": 30000
     },
     {
       "MonsterLv": 15,
-      "StandardHpBar": 3000
+      "StandardHpBar": 3000,
+      "RaidBossHpBar": 30000
     },
     {
       "MonsterLv": 16,
-      "StandardHpBar": 3000
+      "StandardHpBar": 3000,
+      "RaidBossHpBar": 30000
     },
     {
       "MonsterLv": 17,
-      "StandardHpBar": 3000
+      "StandardHpBar": 3000,
+      "RaidBossHpBar": 30000
     },
     {
       "MonsterLv": 18,
-      "StandardHpBar": 3000
+      "StandardHpBar": 3000,
+      "RaidBossHpBar": 30000
     },
     {
       "MonsterLv": 19,
-      "StandardHpBar": 3000
+      "StandardHpBar": 3000,
+      "RaidBossHpBar": 30000
     },
     {
       "MonsterLv": 20,
-      "StandardHpBar": 3000
+      "StandardHpBar": 3000,
+      "RaidBossHpBar": 30000
     },
     {
       "MonsterLv": 21,
-      "StandardHpBar": 4000
+      "StandardHpBar": 4000,
+      "RaidBossHpBar": 40000
     },
     {
       "MonsterLv": 22,
-      "StandardHpBar": 4000
+      "StandardHpBar": 4000,
+      "RaidBossHpBar": 40000
     },
     {
       "MonsterLv": 23,
-      "StandardHpBar": 4000
+      "StandardHpBar": 4000,
+      "RaidBossHpBar": 40000
     },
     {
       "MonsterLv": 24,
-      "StandardHpBar": 4000
+      "StandardHpBar": 4000,
+      "RaidBossHpBar": 40000
     },
     {
       "MonsterLv": 25,
-      "StandardHpBar": 4000
+      "StandardHpBar": 4000,
+      "RaidBossHpBar": 40000
     },
     {
       "MonsterLv": 26,
-      "StandardHpBar": 4000
+      "StandardHpBar": 4000,
+      "RaidBossHpBar": 40000
     },
     {
       "MonsterLv": 27,
-      "StandardHpBar": 4000
+      "StandardHpBar": 4000,
+      "RaidBossHpBar": 40000
     },
     {
       "MonsterLv": 28,
-      "StandardHpBar": 4000
+      "StandardHpBar": 4000,
+      "RaidBossHpBar": 40000
     },
     {
       "MonsterLv": 29,
-      "StandardHpBar": 4000
+      "StandardHpBar": 4000,
+      "RaidBossHpBar": 40000
     },
     {
       "MonsterLv": 30,
-      "StandardHpBar": 4000
+      "StandardHpBar": 4000,
+      "RaidBossHpBar": 40000
     },
     {
       "MonsterLv": 31,
-      "StandardHpBar": 5000
+      "StandardHpBar": 5000,
+      "RaidBossHpBar": 50000
     },
     {
       "MonsterLv": 32,
-      "StandardHpBar": 5000
+      "StandardHpBar": 5000,
+      "RaidBossHpBar": 50000
     },
     {
       "MonsterLv": 33,
-      "StandardHpBar": 5000
+      "StandardHpBar": 5000,
+      "RaidBossHpBar": 50000
     },
     {
       "MonsterLv": 34,
-      "StandardHpBar": 5000
+      "StandardHpBar": 5000,
+      "RaidBossHpBar": 50000
     },
     {
       "MonsterLv": 35,
-      "StandardHpBar": 5000
+      "StandardHpBar": 5000,
+      "RaidBossHpBar": 50000
     },
     {
       "MonsterLv": 36,
-      "StandardHpBar": 5000
+      "StandardHpBar": 5000,
+      "RaidBossHpBar": 50000
     },
     {
       "MonsterLv": 37,
-      "StandardHpBar": 5000
+      "StandardHpBar": 5000,
+      "RaidBossHpBar": 50000
     },
     {
       "MonsterLv": 38,
-      "StandardHpBar": 5000
+      "StandardHpBar": 5000,
+      "RaidBossHpBar": 50000
     },
     {
       "MonsterLv": 39,
-      "StandardHpBar": 5000
+      "StandardHpBar": 5000,
+      "RaidBossHpBar": 50000
     },
     {
       "MonsterLv": 40,
-      "StandardHpBar": 5000
+      "StandardHpBar": 5000,
+      "RaidBossHpBar": 50000
     },
     {
       "MonsterLv": 41,
-      "StandardHpBar": 6000
+      "StandardHpBar": 6000,
+      "RaidBossHpBar": 60000
     },
     {
       "MonsterLv": 42,
-      "StandardHpBar": 6000
+      "StandardHpBar": 6000,
+      "RaidBossHpBar": 60000
     },
     {
       "MonsterLv": 43,
-      "StandardHpBar": 6000
+      "StandardHpBar": 6000,
+      "RaidBossHpBar": 60000
     },
     {
       "MonsterLv": 44,
-      "StandardHpBar": 6000
+      "StandardHpBar": 6000,
+      "RaidBossHpBar": 60000
     },
     {
       "MonsterLv": 45,
-      "StandardHpBar": 10000
+      "StandardHpBar": 10000,
+      "RaidBossHpBar": 100000
     },
     {
       "MonsterLv": 46,
-      "StandardHpBar": 10000
+      "StandardHpBar": 10000,
+      "RaidBossHpBar": 100000
     },
     {
       "MonsterLv": 47,
-      "StandardHpBar": 10000
+      "StandardHpBar": 10000,
+      "RaidBossHpBar": 100000
     },
     {
       "MonsterLv": 48,
-      "StandardHpBar": 10000
+      "StandardHpBar": 10000,
+      "RaidBossHpBar": 100000
     },
     {
       "MonsterLv": 49,
-      "StandardHpBar": 10000
+      "StandardHpBar": 10000,
+      "RaidBossHpBar": 100000
     },
     {
       "MonsterLv": 50,
-      "StandardHpBar": 10000
+      "StandardHpBar": 10000,
+      "RaidBossHpBar": 100000
     },
     {
       "MonsterLv": 51,
-      "StandardHpBar": 10000
+      "StandardHpBar": 10000,
+      "RaidBossHpBar": 100000
     },
     {
       "MonsterLv": 52,
-      "StandardHpBar": 10000
+      "StandardHpBar": 10000,
+      "RaidBossHpBar": 100000
     },
     {
       "MonsterLv": 53,
-      "StandardHpBar": 10000
+      "StandardHpBar": 10000,
+      "RaidBossHpBar": 100000
     },
     {
       "MonsterLv": 54,
-      "StandardHpBar": 10000
+      "StandardHpBar": 10000,
+      "RaidBossHpBar": 100000
     },
     {
       "MonsterLv": 55,
-      "StandardHpBar": 10000
+      "StandardHpBar": 10000,
+      "RaidBossHpBar": 100000
     },
     {
       "MonsterLv": 56,
-      "StandardHpBar": 10000
+      "StandardHpBar": 10000,
+      "RaidBossHpBar": 100000
     },
     {
       "MonsterLv": 57,
-      "StandardHpBar": 10000
+      "StandardHpBar": 10000,
+      "RaidBossHpBar": 100000
     },
     {
       "MonsterLv": 58,
-      "StandardHpBar": 10000
+      "StandardHpBar": 10000,
+      "RaidBossHpBar": 100000
     },
     {
       "MonsterLv": 59,
-      "StandardHpBar": 10000
+      "StandardHpBar": 10000,
+      "RaidBossHpBar": 100000
     },
     {
       "MonsterLv": 60,
-      "StandardHpBar": 10000
+      "StandardHpBar": 10000,
+      "RaidBossHpBar": 100000
     },
     {
       "MonsterLv": 61,
-      "StandardHpBar": 15000
+      "StandardHpBar": 15000,
+      "RaidBossHpBar": 150000
     },
     {
       "MonsterLv": 62,
-      "StandardHpBar": 15000
+      "StandardHpBar": 15000,
+      "RaidBossHpBar": 150000
     },
     {
       "MonsterLv": 63,
-      "StandardHpBar": 15000
+      "StandardHpBar": 15000,
+      "RaidBossHpBar": 150000
     },
     {
       "MonsterLv": 64,
-      "StandardHpBar": 15000
+      "StandardHpBar": 15000,
+      "RaidBossHpBar": 150000
     },
     {
       "MonsterLv": 65,
-      "StandardHpBar": 15000
+      "StandardHpBar": 15000,
+      "RaidBossHpBar": 150000
     },
     {
       "MonsterLv": 66,
-      "StandardHpBar": 15000
+      "StandardHpBar": 15000,
+      "RaidBossHpBar": 150000
     },
     {
       "MonsterLv": 67,
-      "StandardHpBar": 15000
+      "StandardHpBar": 15000,
+      "RaidBossHpBar": 150000
     },
     {
       "MonsterLv": 68,
-      "StandardHpBar": 15000
+      "StandardHpBar": 15000,
+      "RaidBossHpBar": 150000
     },
     {
       "MonsterLv": 69,
-      "StandardHpBar": 15000
+      "StandardHpBar": 15000,
+      "RaidBossHpBar": 150000
     },
     {
       "MonsterLv": 70,
-      "StandardHpBar": 15000
+      "StandardHpBar": 15000,
+      "RaidBossHpBar": 150000
     },
     {
       "MonsterLv": 71,
-      "StandardHpBar": 15000
+      "StandardHpBar": 15000,
+      "RaidBossHpBar": 150000
     },
     {
       "MonsterLv": 72,
-      "StandardHpBar": 15000
+      "StandardHpBar": 15000,
+      "RaidBossHpBar": 150000
     },
     {
       "MonsterLv": 73,
-      "StandardHpBar": 15000
+      "StandardHpBar": 15000,
+      "RaidBossHpBar": 150000
     },
     {
       "MonsterLv": 74,
-      "StandardHpBar": 15000
+      "StandardHpBar": 15000,
+      "RaidBossHpBar": 150000
     },
     {
       "MonsterLv": 75,
-      "StandardHpBar": 15000
+      "StandardHpBar": 15000,
+      "RaidBossHpBar": 150000
     },
     {
       "MonsterLv": 76,
-      "StandardHpBar": 15000
+      "StandardHpBar": 15000,
+      "RaidBossHpBar": 150000
     },
     {
       "MonsterLv": 77,
-      "StandardHpBar": 15000
+      "StandardHpBar": 15000,
+      "RaidBossHpBar": 150000
     },
     {
       "MonsterLv": 78,
-      "StandardHpBar": 15000
+      "StandardHpBar": 15000,
+      "RaidBossHpBar": 150000
     },
     {
       "MonsterLv": 79,
-      "StandardHpBar": 15000
+      "StandardHpBar": 15000,
+      "RaidBossHpBar": 150000
     },
     {
       "MonsterLv": 80,
-      "StandardHpBar": 15000
+      "StandardHpBar": 15000,
+      "RaidBossHpBar": 150000
     },
     {
       "MonsterLv": 81,
-      "StandardHpBar": 20000
+      "StandardHpBar": 20000,
+      "RaidBossHpBar": 200000
     },
     {
       "MonsterLv": 82,
-      "StandardHpBar": 20000
+      "StandardHpBar": 20000,
+      "RaidBossHpBar": 200000
     },
     {
       "MonsterLv": 83,
-      "StandardHpBar": 20000
+      "StandardHpBar": 20000,
+      "RaidBossHpBar": 200000
     },
     {
       "MonsterLv": 84,
-      "StandardHpBar": 20000
+      "StandardHpBar": 20000,
+      "RaidBossHpBar": 200000
     },
     {
       "MonsterLv": 85,
-      "StandardHpBar": 20000
+      "StandardHpBar": 20000,
+      "RaidBossHpBar": 200000
     },
     {
       "MonsterLv": 86,
-      "StandardHpBar": 20000
+      "StandardHpBar": 20000,
+      "RaidBossHpBar": 200000
     },
     {
       "MonsterLv": 87,
-      "StandardHpBar": 20000
+      "StandardHpBar": 20000,
+      "RaidBossHpBar": 200000
     },
     {
       "MonsterLv": 88,
-      "StandardHpBar": 20000
+      "StandardHpBar": 20000,
+      "RaidBossHpBar": 200000
     },
     {
       "MonsterLv": 89,
-      "StandardHpBar": 20000
+      "StandardHpBar": 20000,
+      "RaidBossHpBar": 200000
     },
     {
       "MonsterLv": 90,
-      "StandardHpBar": 20000
+      "StandardHpBar": 20000,
+      "RaidBossHpBar": 200000
     },
     {
       "MonsterLv": 91,
-      "StandardHpBar": 20000
+      "StandardHpBar": 20000,
+      "RaidBossHpBar": 200000
     },
     {
       "MonsterLv": 92,
-      "StandardHpBar": 20000
+      "StandardHpBar": 20000,
+      "RaidBossHpBar": 200000
     },
     {
       "MonsterLv": 93,
-      "StandardHpBar": 20000
+      "StandardHpBar": 20000,
+      "RaidBossHpBar": 200000
     },
     {
       "MonsterLv": 94,
-      "StandardHpBar": 20000
+      "StandardHpBar": 20000,
+      "RaidBossHpBar": 200000
     },
     {
       "MonsterLv": 95,
-      "StandardHpBar": 20000
+      "StandardHpBar": 20000,
+      "RaidBossHpBar": 200000
     },
     {
       "MonsterLv": 96,
-      "StandardHpBar": 20000
+      "StandardHpBar": 20000,
+      "RaidBossHpBar": 200000
     },
     {
       "MonsterLv": 97,
-      "StandardHpBar": 20000
+      "StandardHpBar": 20000,
+      "RaidBossHpBar": 200000
     },
     {
       "MonsterLv": 98,
-      "StandardHpBar": 20000
+      "StandardHpBar": 20000,
+      "RaidBossHpBar": 200000
     },
     {
       "MonsterLv": 99,
-      "StandardHpBar": 20000
+      "StandardHpBar": 20000,
+      "RaidBossHpBar": 200000
     },
     {
       "MonsterLv": 100,
-      "StandardHpBar": 25000
+      "StandardHpBar": 25000,
+      "RaidBossHpBar": 250000
     }
   ]
 }

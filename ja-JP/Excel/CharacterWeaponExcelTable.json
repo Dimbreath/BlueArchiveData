@@ -5,8 +5,19 @@
       "Rarity": "SSR",
       "LocalizeEtcId": 756693213,
       "DefaultStarGrade": 3,
-      "SecretStoneItemIdLength": 36,
-      "SecretStoneItemAmountLength": 16
+      "Icon": null,
+      "EquipmentItemStatID": 0,
+      "Tags": [],
+      "SecretStoneItemId": [
+        10025,
+        22,
+        20
+      ],
+      "SecretStoneItemAmount": [
+        1,
+        1,
+        10
+      ]
     }
   ]
 }

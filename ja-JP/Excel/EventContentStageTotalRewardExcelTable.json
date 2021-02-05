@@ -1,0 +1,32 @@
+{
+  "DataList": [
+    {
+      "Id": 2000,
+      "EventContentId": 10002,
+      "RequiredEventItemAmount": 1000,
+      "RewardParcelType": [
+        "Item"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardParcelAmount": [
+        10
+      ]
+    },
+    {
+      "Id": 2001,
+      "EventContentId": 10002,
+      "RequiredEventItemAmount": 2000,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelAmount": [
+        1000
+      ]
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "DataList": [
+    {
+      "Id": 10000,
+      "DevName": "Aru_default",
+      "CharacterBodyCenterX": 7.5,
+      "CharacterBodyCenterY": 7.99,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10001,
+      "DevName": "Eimi_default",
+      "CharacterBodyCenterX": 7.9,
+      "CharacterBodyCenterY": 8.85,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10002,
+      "DevName": "Haruna_default",
+      "CharacterBodyCenterX": 7.5,
+      "CharacterBodyCenterY": 6.73,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10003,
+      "DevName": "Hihumi_default",
+      "CharacterBodyCenterX": 7.5,
+      "CharacterBodyCenterY": 6.27,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10004,
+      "DevName": "Hina_default",
+      "CharacterBodyCenterX": 8.7,
+      "CharacterBodyCenterY": 6.94,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10005,
+      "DevName": "Hoshino_default",
+      "CharacterBodyCenterX": 8.5,
+      "CharacterBodyCenterY": 7.14,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10006,
+      "DevName": "Iori_default",
+      "CharacterBodyCenterX": 8.5,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10007,
+      "DevName": "Maki_default",
+      "CharacterBodyCenterX": 8.5,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10008,
+      "DevName": "Neru_default",
+      "CharacterBodyCenterX": 8.7,
+      "CharacterBodyCenterY": 6.94,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10009,
+      "DevName": "Izumi_default",
+      "CharacterBodyCenterX": 8.5,
+      "CharacterBodyCenterY": 7.25,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10010,
+      "DevName": "Shiroko_default",
+      "CharacterBodyCenterX": 8.7,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10011,
+      "DevName": "Shun_default",
+      "CharacterBodyCenterX": 5.5,
+      "CharacterBodyCenterY": 7.18,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10012,
+      "DevName": "Sumire_default",
+      "CharacterBodyCenterX": 8.5,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 10013,
+      "DevName": "Tsurugi_default",
+      "CharacterBodyCenterX": 9.5,
+      "CharacterBodyCenterY": 7.29,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 13000,
+      "DevName": "Akane_default",
+      "CharacterBodyCenterX": 8.7,
+      "CharacterBodyCenterY": 6.75,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 13001,
+      "DevName": "Chise_default",
+      "CharacterBodyCenterX": 8.5,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 16000,
+      "DevName": "Haruka_default",
+      "CharacterBodyCenterX": 9.2,
+      "CharacterBodyCenterY": 7.2,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 13003,
+      "DevName": "Hasumi_default",
+      "CharacterBodyCenterX": 6.2,
+      "CharacterBodyCenterY": 7.05,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 13004,
+      "DevName": "Nonomi_default",
+      "CharacterBodyCenterX": 8.2,
+      "CharacterBodyCenterY": 6.52,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 13005,
+      "DevName": "Kayoko_default",
+      "CharacterBodyCenterX": 7.8,
+      "CharacterBodyCenterY": 7.2,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 13006,
+      "DevName": "Mutsuki_default",
+      "CharacterBodyCenterX": 9.0,
+      "CharacterBodyCenterY": 6.35,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 16004,
+      "DevName": "Pina_default",
+      "CharacterBodyCenterX": 7.9,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 13008,
+      "DevName": "Serika_default",
+      "CharacterBodyCenterX": 8.0,
+      "CharacterBodyCenterY": 7.3,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 13009,
+      "DevName": "Tsubaki_default",
+      "CharacterBodyCenterX": 10.2,
+      "CharacterBodyCenterY": 6.63,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 13010,
+      "DevName": "Yuuka_default",
+      "CharacterBodyCenterX": 8.2,
+      "CharacterBodyCenterY": 7.4,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 13007,
+      "DevName": "Zunko_default",
+      "CharacterBodyCenterX": 9.0,
+      "CharacterBodyCenterY": 6.18,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 13002,
+      "DevName": "Akari_default",
+      "CharacterBodyCenterX": 5.7,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 16001,
+      "DevName": "Asuna_default",
+      "CharacterBodyCenterX": 9.0,
+      "CharacterBodyCenterY": 6.69,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 16002,
+      "DevName": "Kotori_default",
+      "CharacterBodyCenterX": 8.5,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 16003,
+      "DevName": "Suzumi_default",
+      "CharacterBodyCenterX": 7.8,
+      "CharacterBodyCenterY": 7.7,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20000,
+      "DevName": "Hibiki_default",
+      "CharacterBodyCenterX": 8.5,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20001,
+      "DevName": "karin_default",
+      "CharacterBodyCenterX": 8.7,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20002,
+      "DevName": "Saya_default",
+      "CharacterBodyCenterX": 8.5,
+      "CharacterBodyCenterY": 7.4,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 20003,
+      "DevName": "Mashiro_default",
+      "CharacterBodyCenterX": 10.6,
+      "CharacterBodyCenterY": 7.98,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 23000,
+      "DevName": "Airi_default",
+      "CharacterBodyCenterX": 8.0,
+      "CharacterBodyCenterY": 7.15,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 23001,
+      "DevName": "Fuuka_default",
+      "CharacterBodyCenterX": 8.0,
+      "CharacterBodyCenterY": 7.79,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 23002,
+      "DevName": "Hanae_default",
+      "CharacterBodyCenterX": 9.2,
+      "CharacterBodyCenterY": 6.49,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 26001,
+      "DevName": "Kotama_default",
+      "CharacterBodyCenterX": 7.8,
+      "CharacterBodyCenterY": 7.3,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 23004,
+      "DevName": "Utaha_default",
+      "CharacterBodyCenterX": 8.5,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 23005,
+      "DevName": "Ayane_default",
+      "CharacterBodyCenterX": 8.5,
+      "CharacterBodyCenterY": 7.3,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 26000,
+      "DevName": "Chinatsu_default",
+      "CharacterBodyCenterX": 7.8,
+      "CharacterBodyCenterY": 7.93,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 23003,
+      "DevName": "Hare_default",
+      "CharacterBodyCenterX": 8.2,
+      "CharacterBodyCenterY": 7.96,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 26002,
+      "DevName": "Juri_default",
+      "CharacterBodyCenterX": 7.5,
+      "CharacterBodyCenterY": 6.77,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 26003,
+      "DevName": "Serina_default",
+      "CharacterBodyCenterX": 8.5,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 26004,
+      "DevName": "Shimiko_default",
+      "CharacterBodyCenterX": 9.2,
+      "CharacterBodyCenterY": 5.9,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    },
+    {
+      "Id": 26005,
+      "DevName": "Yoshimi_default",
+      "CharacterBodyCenterX": 8.5,
+      "CharacterBodyCenterY": 7.5,
+      "DefaultScale": 1.0,
+      "MinScale": 0.6,
+      "MaxScale": 1.8
+    }
+  ]
+}

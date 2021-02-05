@@ -1,0 +1,20 @@
+{
+  "DataList": [
+    {
+      "TransSupportStats": "MaxHP",
+      "TransSupportStatsFactor": 1000
+    },
+    {
+      "TransSupportStats": "AttackPower",
+      "TransSupportStatsFactor": 1000
+    },
+    {
+      "TransSupportStats": "DefensePower",
+      "TransSupportStatsFactor": 500
+    },
+    {
+      "TransSupportStats": "HealPower",
+      "TransSupportStatsFactor": 500
+    }
+  ]
+}

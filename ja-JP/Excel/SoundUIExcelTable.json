@@ -9,6 +9,11 @@
       "ID": 2,
       "DevName": "BACK_BUTTON_CLICK",
       "Path": "Audio/SFX_UI/UI_Button_Back"
+    },
+    {
+      "ID": 3,
+      "DevName": "BUTTON_MUTE",
+      "Path": "Audio/SFX_Common/Mute"
     }
   ]
 }

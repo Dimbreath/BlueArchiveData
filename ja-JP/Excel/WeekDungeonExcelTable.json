@@ -6,13 +6,29 @@
       "WeekDungeonType": "ChaserA",
       "Difficulty": 1,
       "BattleDuration": 300000,
-      "StageActionPointCostAmount": 10,
+      "PrevStageId": 0,
+      "StageActionPointCostAmount": 0,
+      "ConsumeTicket": true,
       "GroundId": 301000001,
-      "StarGoalLength": 100,
-      "StarGoalAmountLength": 80,
-      "StageRewardId": 1,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        150
+      ],
+      "StageTopography": "Street",
+      "StageRewardId": 30101,
       "PlayTimeLimitInSeconds": 86400,
-      "GroupBuffIDLength": 48
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": [
+        6,
+        8
+      ]
     },
     {
       "StageId": 30102,
@@ -21,13 +37,28 @@
       "Difficulty": 2,
       "BattleDuration": 300000,
       "PrevStageId": 30101,
-      "StageActionPointCostAmount": 20,
+      "StageActionPointCostAmount": 0,
+      "ConsumeTicket": true,
       "GroundId": 301000002,
-      "StarGoalLength": 108,
-      "StarGoalAmountLength": 88,
-      "StageRewardId": 2,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        150
+      ],
+      "StageTopography": "Street",
+      "StageRewardId": 30102,
       "PlayTimeLimitInSeconds": 86400,
-      "GroupBuffIDLength": 56
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": [
+        6,
+        8
+      ]
     },
     {
       "StageId": 30103,
@@ -36,13 +67,28 @@
       "Difficulty": 3,
       "BattleDuration": 300000,
       "PrevStageId": 30102,
-      "StageActionPointCostAmount": 30,
+      "StageActionPointCostAmount": 0,
+      "ConsumeTicket": true,
       "GroundId": 301000003,
-      "StarGoalLength": 108,
-      "StarGoalAmountLength": 88,
-      "StageRewardId": 3,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        150
+      ],
+      "StageTopography": "Street",
+      "StageRewardId": 30103,
       "PlayTimeLimitInSeconds": 86400,
-      "GroupBuffIDLength": 56
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": [
+        6,
+        8
+      ]
     },
     {
       "StageId": 30104,
@@ -51,13 +97,148 @@
       "Difficulty": 4,
       "BattleDuration": 300000,
       "PrevStageId": 30103,
-      "StageActionPointCostAmount": 40,
+      "StageActionPointCostAmount": 0,
+      "ConsumeTicket": true,
       "GroundId": 301000004,
-      "StarGoalLength": 108,
-      "StarGoalAmountLength": 88,
-      "StageRewardId": 4,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        150
+      ],
+      "StageTopography": "Street",
+      "StageRewardId": 30104,
       "PlayTimeLimitInSeconds": 86400,
-      "GroupBuffIDLength": 56
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": [
+        6,
+        8
+      ]
+    },
+    {
+      "StageId": 30105,
+      "DevName": "WeekDungeon_ChaserA_Stage05",
+      "WeekDungeonType": "ChaserA",
+      "Difficulty": 5,
+      "BattleDuration": 300000,
+      "PrevStageId": 30104,
+      "StageActionPointCostAmount": 0,
+      "ConsumeTicket": true,
+      "GroundId": 301000005,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        150
+      ],
+      "StageTopography": "Street",
+      "StageRewardId": 30105,
+      "PlayTimeLimitInSeconds": 86400,
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": [
+        6,
+        8
+      ]
+    },
+    {
+      "StageId": 30106,
+      "DevName": "WeekDungeon_ChaserA_Stage06",
+      "WeekDungeonType": "ChaserA",
+      "Difficulty": 6,
+      "BattleDuration": 300000,
+      "PrevStageId": 30105,
+      "StageActionPointCostAmount": 0,
+      "ConsumeTicket": true,
+      "GroundId": 301000006,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        150
+      ],
+      "StageTopography": "Street",
+      "StageRewardId": 30106,
+      "PlayTimeLimitInSeconds": 86400,
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": [
+        6,
+        8
+      ]
+    },
+    {
+      "StageId": 30107,
+      "DevName": "WeekDungeon_ChaserA_Stage07",
+      "WeekDungeonType": "ChaserA",
+      "Difficulty": 7,
+      "BattleDuration": 300000,
+      "PrevStageId": 30106,
+      "StageActionPointCostAmount": 0,
+      "ConsumeTicket": true,
+      "GroundId": 301000007,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        150
+      ],
+      "StageTopography": "Street",
+      "StageRewardId": 30107,
+      "PlayTimeLimitInSeconds": 86400,
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": [
+        6,
+        8
+      ]
+    },
+    {
+      "StageId": 30108,
+      "DevName": "WeekDungeon_ChaserA_Stage08",
+      "WeekDungeonType": "ChaserA",
+      "Difficulty": 8,
+      "BattleDuration": 300000,
+      "PrevStageId": 30107,
+      "StageActionPointCostAmount": 0,
+      "ConsumeTicket": true,
+      "GroundId": 301000008,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        150
+      ],
+      "StageTopography": "Street",
+      "StageRewardId": 30108,
+      "PlayTimeLimitInSeconds": 86400,
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": [
+        6,
+        8
+      ]
     },
     {
       "StageId": 30201,
@@ -65,14 +246,29 @@
       "WeekDungeonType": "ChaserB",
       "Difficulty": 1,
       "BattleDuration": 300000,
-      "StageActionPointCostAmount": 10,
+      "PrevStageId": 0,
+      "StageActionPointCostAmount": 0,
+      "ConsumeTicket": true,
       "GroundId": 302000001,
-      "StarGoalLength": 96,
-      "StarGoalAmountLength": 76,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        150
+      ],
       "StageTopography": "Outdoor",
-      "StageRewardId": 11,
+      "StageRewardId": 30201,
       "PlayTimeLimitInSeconds": 86400,
-      "GroupBuffIDLength": 48
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": [
+        2,
+        4
+      ]
     },
     {
       "StageId": 30202,
@@ -81,14 +277,28 @@
       "Difficulty": 2,
       "BattleDuration": 300000,
       "PrevStageId": 30201,
-      "StageActionPointCostAmount": 20,
+      "StageActionPointCostAmount": 0,
+      "ConsumeTicket": true,
       "GroundId": 302000002,
-      "StarGoalLength": 108,
-      "StarGoalAmountLength": 88,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        150
+      ],
       "StageTopography": "Outdoor",
-      "StageRewardId": 12,
+      "StageRewardId": 30202,
       "PlayTimeLimitInSeconds": 86400,
-      "GroupBuffIDLength": 56
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": [
+        2,
+        4
+      ]
     },
     {
       "StageId": 30203,
@@ -97,14 +307,28 @@
       "Difficulty": 3,
       "BattleDuration": 300000,
       "PrevStageId": 30202,
-      "StageActionPointCostAmount": 30,
+      "StageActionPointCostAmount": 0,
+      "ConsumeTicket": true,
       "GroundId": 302000003,
-      "StarGoalLength": 108,
-      "StarGoalAmountLength": 88,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        150
+      ],
       "StageTopography": "Outdoor",
-      "StageRewardId": 13,
+      "StageRewardId": 30203,
       "PlayTimeLimitInSeconds": 86400,
-      "GroupBuffIDLength": 56
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": [
+        2,
+        4
+      ]
     },
     {
       "StageId": 30204,
@@ -113,14 +337,148 @@
       "Difficulty": 4,
       "BattleDuration": 300000,
       "PrevStageId": 30203,
-      "StageActionPointCostAmount": 40,
+      "StageActionPointCostAmount": 0,
+      "ConsumeTicket": true,
       "GroundId": 302000004,
-      "StarGoalLength": 108,
-      "StarGoalAmountLength": 88,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        150
+      ],
       "StageTopography": "Outdoor",
-      "StageRewardId": 14,
+      "StageRewardId": 30204,
       "PlayTimeLimitInSeconds": 86400,
-      "GroupBuffIDLength": 56
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": [
+        2,
+        4
+      ]
+    },
+    {
+      "StageId": 30205,
+      "DevName": "WeekDungeon_ChaserB_Stage05",
+      "WeekDungeonType": "ChaserB",
+      "Difficulty": 5,
+      "BattleDuration": 300000,
+      "PrevStageId": 30204,
+      "StageActionPointCostAmount": 0,
+      "ConsumeTicket": true,
+      "GroundId": 302000005,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        2,
+        2,
+        150
+      ],
+      "StageTopography": "Outdoor",
+      "StageRewardId": 30205,
+      "PlayTimeLimitInSeconds": 86400,
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": [
+        2,
+        4
+      ]
+    },
+    {
+      "StageId": 30206,
+      "DevName": "WeekDungeon_ChaserB_Stage06",
+      "WeekDungeonType": "ChaserB",
+      "Difficulty": 6,
+      "BattleDuration": 300000,
+      "PrevStageId": 30205,
+      "StageActionPointCostAmount": 0,
+      "ConsumeTicket": true,
+      "GroundId": 302000006,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        3,
+        3,
+        150
+      ],
+      "StageTopography": "Outdoor",
+      "StageRewardId": 30206,
+      "PlayTimeLimitInSeconds": 86400,
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": [
+        2,
+        4
+      ]
+    },
+    {
+      "StageId": 30207,
+      "DevName": "WeekDungeon_ChaserB_Stage07",
+      "WeekDungeonType": "ChaserB",
+      "Difficulty": 7,
+      "BattleDuration": 300000,
+      "PrevStageId": 30206,
+      "StageActionPointCostAmount": 0,
+      "ConsumeTicket": true,
+      "GroundId": 302000007,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        4,
+        4,
+        150
+      ],
+      "StageTopography": "Outdoor",
+      "StageRewardId": 30207,
+      "PlayTimeLimitInSeconds": 86400,
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": [
+        2,
+        4
+      ]
+    },
+    {
+      "StageId": 30208,
+      "DevName": "WeekDungeon_ChaserB_Stage08",
+      "WeekDungeonType": "ChaserB",
+      "Difficulty": 8,
+      "BattleDuration": 300000,
+      "PrevStageId": 30207,
+      "StageActionPointCostAmount": 0,
+      "ConsumeTicket": true,
+      "GroundId": 302000008,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        5,
+        5,
+        150
+      ],
+      "StageTopography": "Outdoor",
+      "StageRewardId": 30208,
+      "PlayTimeLimitInSeconds": 86400,
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": [
+        2,
+        4
+      ]
     },
     {
       "StageId": 30301,
@@ -128,14 +486,29 @@
       "WeekDungeonType": "ChaserC",
       "Difficulty": 1,
       "BattleDuration": 300000,
-      "StageActionPointCostAmount": 10,
+      "PrevStageId": 0,
+      "StageActionPointCostAmount": 0,
+      "ConsumeTicket": true,
       "GroundId": 303000001,
-      "StarGoalLength": 108,
-      "StarGoalAmountLength": 88,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        150
+      ],
       "StageTopography": "Indoor",
-      "StageRewardId": 21,
+      "StageRewardId": 30301,
       "PlayTimeLimitInSeconds": 86400,
-      "GroupBuffIDLength": 48
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": [
+        1,
+        7
+      ]
     },
     {
       "StageId": 30302,
@@ -144,14 +517,28 @@
       "Difficulty": 2,
       "BattleDuration": 300000,
       "PrevStageId": 30301,
-      "StageActionPointCostAmount": 20,
+      "StageActionPointCostAmount": 0,
+      "ConsumeTicket": true,
       "GroundId": 303000002,
-      "StarGoalLength": 116,
-      "StarGoalAmountLength": 96,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        150
+      ],
       "StageTopography": "Indoor",
-      "StageRewardId": 22,
+      "StageRewardId": 30302,
       "PlayTimeLimitInSeconds": 86400,
-      "GroupBuffIDLength": 56
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": [
+        1,
+        7
+      ]
     },
     {
       "StageId": 30303,
@@ -160,14 +547,28 @@
       "Difficulty": 3,
       "BattleDuration": 300000,
       "PrevStageId": 30302,
-      "StageActionPointCostAmount": 30,
+      "StageActionPointCostAmount": 0,
+      "ConsumeTicket": true,
       "GroundId": 303000003,
-      "StarGoalLength": 116,
-      "StarGoalAmountLength": 96,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        150
+      ],
       "StageTopography": "Indoor",
-      "StageRewardId": 23,
+      "StageRewardId": 30303,
       "PlayTimeLimitInSeconds": 86400,
-      "GroupBuffIDLength": 56
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": [
+        1,
+        7
+      ]
     },
     {
       "StageId": 30304,
@@ -175,70 +576,365 @@
       "WeekDungeonType": "ChaserC",
       "Difficulty": 4,
       "BattleDuration": 300000,
-      "PrevStageId": 30302,
-      "StageActionPointCostAmount": 40,
+      "PrevStageId": 30303,
+      "StageActionPointCostAmount": 0,
+      "ConsumeTicket": true,
       "GroundId": 303000004,
-      "StarGoalLength": 116,
-      "StarGoalAmountLength": 96,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        150
+      ],
       "StageTopography": "Indoor",
-      "StageRewardId": 24,
+      "StageRewardId": 30304,
       "PlayTimeLimitInSeconds": 86400,
-      "GroupBuffIDLength": 56
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": [
+        1,
+        7
+      ]
+    },
+    {
+      "StageId": 30305,
+      "DevName": "WeekDungeon_ChaserC_Stage05",
+      "WeekDungeonType": "ChaserC",
+      "Difficulty": 5,
+      "BattleDuration": 300000,
+      "PrevStageId": 30304,
+      "StageActionPointCostAmount": 0,
+      "ConsumeTicket": true,
+      "GroundId": 303000005,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        150
+      ],
+      "StageTopography": "Indoor",
+      "StageRewardId": 30305,
+      "PlayTimeLimitInSeconds": 86400,
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": [
+        1,
+        7
+      ]
+    },
+    {
+      "StageId": 30306,
+      "DevName": "WeekDungeon_ChaserC_Stage06",
+      "WeekDungeonType": "ChaserC",
+      "Difficulty": 6,
+      "BattleDuration": 300000,
+      "PrevStageId": 30305,
+      "StageActionPointCostAmount": 0,
+      "ConsumeTicket": true,
+      "GroundId": 303000006,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        150
+      ],
+      "StageTopography": "Indoor",
+      "StageRewardId": 30306,
+      "PlayTimeLimitInSeconds": 86400,
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": [
+        1,
+        7
+      ]
+    },
+    {
+      "StageId": 30307,
+      "DevName": "WeekDungeon_ChaserC_Stage07",
+      "WeekDungeonType": "ChaserC",
+      "Difficulty": 7,
+      "BattleDuration": 300000,
+      "PrevStageId": 30306,
+      "StageActionPointCostAmount": 0,
+      "ConsumeTicket": true,
+      "GroundId": 303000007,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        150
+      ],
+      "StageTopography": "Indoor",
+      "StageRewardId": 30307,
+      "PlayTimeLimitInSeconds": 86400,
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": [
+        1,
+        7
+      ]
+    },
+    {
+      "StageId": 30308,
+      "DevName": "WeekDungeon_ChaserC_Stage08",
+      "WeekDungeonType": "ChaserC",
+      "Difficulty": 8,
+      "BattleDuration": 300000,
+      "PrevStageId": 30307,
+      "StageActionPointCostAmount": 0,
+      "ConsumeTicket": true,
+      "GroundId": 303000008,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        150
+      ],
+      "StageTopography": "Indoor",
+      "StageRewardId": 30308,
+      "PlayTimeLimitInSeconds": 86400,
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": [
+        1,
+        7
+      ]
     },
     {
       "StageId": 31101,
       "DevName": "WeekDungeon_FindGift_Stage01",
       "WeekDungeonType": "FindGift",
       "Difficulty": 1,
-      "BattleDuration": 300000,
-      "StageActionPointCostAmount": 10,
+      "BattleDuration": 180000,
+      "PrevStageId": 0,
+      "StageActionPointCostAmount": 5,
+      "ConsumeTicket": false,
       "GroundId": 311000001,
-      "StarGoalLength": 68,
-      "StarGoalAmountLength": 48,
+      "StarGoal": [
+        "GetBoxes",
+        "GetBoxes",
+        "GetBoxes"
+      ],
+      "StarGoalAmount": [
+        1,
+        4,
+        5
+      ],
+      "StageTopography": "Street",
+      "StageRewardId": 0,
       "PlayTimeLimitInSeconds": 86400,
-      "GroupBuffIDLength": 40
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": []
     },
     {
       "StageId": 31102,
       "DevName": "WeekDungeon_FindGift_Stage02",
       "WeekDungeonType": "FindGift",
       "Difficulty": 2,
-      "BattleDuration": 300000,
+      "BattleDuration": 180000,
       "PrevStageId": 31101,
-      "StageActionPointCostAmount": 20,
+      "StageActionPointCostAmount": 10,
+      "ConsumeTicket": false,
       "GroundId": 311000002,
-      "StarGoalLength": 76,
-      "StarGoalAmountLength": 56,
+      "StarGoal": [
+        "GetBoxes",
+        "GetBoxes",
+        "GetBoxes"
+      ],
+      "StarGoalAmount": [
+        1,
+        4,
+        5
+      ],
+      "StageTopography": "Street",
+      "StageRewardId": 0,
       "PlayTimeLimitInSeconds": 86400,
-      "GroupBuffIDLength": 48
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": []
     },
     {
       "StageId": 31103,
       "DevName": "WeekDungeon_FindGift_Stage03",
       "WeekDungeonType": "FindGift",
       "Difficulty": 3,
-      "BattleDuration": 300000,
+      "BattleDuration": 180000,
       "PrevStageId": 31102,
-      "StageActionPointCostAmount": 30,
+      "StageActionPointCostAmount": 15,
+      "ConsumeTicket": false,
       "GroundId": 311000003,
-      "StarGoalLength": 76,
-      "StarGoalAmountLength": 56,
+      "StarGoal": [
+        "GetBoxes",
+        "GetBoxes",
+        "GetBoxes"
+      ],
+      "StarGoalAmount": [
+        1,
+        4,
+        5
+      ],
+      "StageTopography": "Street",
+      "StageRewardId": 0,
       "PlayTimeLimitInSeconds": 86400,
-      "GroupBuffIDLength": 48
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": []
     },
     {
       "StageId": 31104,
       "DevName": "WeekDungeon_FindGift_Stage04",
       "WeekDungeonType": "FindGift",
       "Difficulty": 4,
-      "BattleDuration": 300000,
+      "BattleDuration": 180000,
       "PrevStageId": 31103,
-      "StageActionPointCostAmount": 40,
+      "StageActionPointCostAmount": 20,
+      "ConsumeTicket": false,
       "GroundId": 311000004,
-      "StarGoalLength": 80,
-      "StarGoalAmountLength": 60,
+      "StarGoal": [
+        "GetBoxes",
+        "GetBoxes",
+        "GetBoxes"
+      ],
+      "StarGoalAmount": [
+        1,
+        4,
+        5
+      ],
+      "StageTopography": "Street",
+      "StageRewardId": 0,
       "PlayTimeLimitInSeconds": 86400,
-      "GroupBuffIDLength": 48
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": []
+    },
+    {
+      "StageId": 31105,
+      "DevName": "WeekDungeon_FindGift_Stage05",
+      "WeekDungeonType": "FindGift",
+      "Difficulty": 5,
+      "BattleDuration": 180000,
+      "PrevStageId": 31104,
+      "StageActionPointCostAmount": 25,
+      "ConsumeTicket": false,
+      "GroundId": 311000005,
+      "StarGoal": [
+        "GetBoxes",
+        "GetBoxes",
+        "GetBoxes"
+      ],
+      "StarGoalAmount": [
+        1,
+        4,
+        5
+      ],
+      "StageTopography": "Street",
+      "StageRewardId": 0,
+      "PlayTimeLimitInSeconds": 86400,
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": []
+    },
+    {
+      "StageId": 31106,
+      "DevName": "WeekDungeon_FindGift_Stage06",
+      "WeekDungeonType": "FindGift",
+      "Difficulty": 6,
+      "BattleDuration": 180000,
+      "PrevStageId": 31105,
+      "StageActionPointCostAmount": 30,
+      "ConsumeTicket": false,
+      "GroundId": 311000006,
+      "StarGoal": [
+        "GetBoxes",
+        "GetBoxes",
+        "GetBoxes"
+      ],
+      "StarGoalAmount": [
+        1,
+        4,
+        5
+      ],
+      "StageTopography": "Street",
+      "StageRewardId": 0,
+      "PlayTimeLimitInSeconds": 86400,
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": []
+    },
+    {
+      "StageId": 31107,
+      "DevName": "WeekDungeon_FindGift_Stage07",
+      "WeekDungeonType": "FindGift",
+      "Difficulty": 7,
+      "BattleDuration": 180000,
+      "PrevStageId": 31106,
+      "StageActionPointCostAmount": 35,
+      "ConsumeTicket": false,
+      "GroundId": 311000007,
+      "StarGoal": [
+        "GetBoxes",
+        "GetBoxes",
+        "GetBoxes"
+      ],
+      "StarGoalAmount": [
+        1,
+        4,
+        5
+      ],
+      "StageTopography": "Street",
+      "StageRewardId": 0,
+      "PlayTimeLimitInSeconds": 86400,
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": []
+    },
+    {
+      "StageId": 31108,
+      "DevName": "WeekDungeon_FindGift_Stage08",
+      "WeekDungeonType": "FindGift",
+      "Difficulty": 8,
+      "BattleDuration": 180000,
+      "PrevStageId": 31107,
+      "StageActionPointCostAmount": 40,
+      "ConsumeTicket": false,
+      "GroundId": 311000008,
+      "StarGoal": [
+        "GetBoxes",
+        "GetBoxes",
+        "GetBoxes"
+      ],
+      "StarGoalAmount": [
+        1,
+        4,
+        5
+      ],
+      "StageTopography": "Street",
+      "StageRewardId": 0,
+      "PlayTimeLimitInSeconds": 86400,
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": []
     },
     {
       "StageId": 32101,
@@ -246,14 +942,26 @@
       "WeekDungeonType": "Blood",
       "Difficulty": 1,
       "BattleDuration": 180000,
-      "StageActionPointCostAmount": 10,
+      "PrevStageId": 0,
+      "StageActionPointCostAmount": 5,
+      "ConsumeTicket": false,
       "GroundId": 321000001,
-      "StarGoalLength": 80,
-      "StarGoalAmountLength": 60,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
       "StageTopography": "Indoor",
-      "StageRewardId": 31,
+      "StageRewardId": 32101,
       "PlayTimeLimitInSeconds": 86400,
-      "GroupBuffIDLength": 48
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": []
     },
     {
       "StageId": 32102,
@@ -262,14 +970,25 @@
       "Difficulty": 2,
       "BattleDuration": 180000,
       "PrevStageId": 32101,
-      "StageActionPointCostAmount": 20,
+      "StageActionPointCostAmount": 10,
+      "ConsumeTicket": false,
       "GroundId": 321000002,
-      "StarGoalLength": 92,
-      "StarGoalAmountLength": 72,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
       "StageTopography": "Indoor",
-      "StageRewardId": 32,
+      "StageRewardId": 32102,
       "PlayTimeLimitInSeconds": 86400,
-      "GroupBuffIDLength": 56
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": []
     },
     {
       "StageId": 32103,
@@ -278,14 +997,25 @@
       "Difficulty": 3,
       "BattleDuration": 180000,
       "PrevStageId": 32102,
-      "StageActionPointCostAmount": 30,
+      "StageActionPointCostAmount": 15,
+      "ConsumeTicket": false,
       "GroundId": 321000003,
-      "StarGoalLength": 92,
-      "StarGoalAmountLength": 72,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
       "StageTopography": "Indoor",
-      "StageRewardId": 33,
+      "StageRewardId": 32103,
       "PlayTimeLimitInSeconds": 86400,
-      "GroupBuffIDLength": 56
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": []
     },
     {
       "StageId": 32104,
@@ -294,14 +1024,133 @@
       "Difficulty": 4,
       "BattleDuration": 180000,
       "PrevStageId": 32103,
-      "StageActionPointCostAmount": 40,
+      "StageActionPointCostAmount": 20,
+      "ConsumeTicket": false,
       "GroundId": 321000004,
-      "StarGoalLength": 92,
-      "StarGoalAmountLength": 72,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
       "StageTopography": "Indoor",
-      "StageRewardId": 34,
+      "StageRewardId": 32104,
       "PlayTimeLimitInSeconds": 86400,
-      "GroupBuffIDLength": 56
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": []
+    },
+    {
+      "StageId": 32105,
+      "DevName": "WeekDungeon_Blood_Stage05",
+      "WeekDungeonType": "Blood",
+      "Difficulty": 5,
+      "BattleDuration": 180000,
+      "PrevStageId": 32104,
+      "StageActionPointCostAmount": 25,
+      "ConsumeTicket": false,
+      "GroundId": 321000005,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
+      "StageTopography": "Indoor",
+      "StageRewardId": 32105,
+      "PlayTimeLimitInSeconds": 86400,
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": []
+    },
+    {
+      "StageId": 32106,
+      "DevName": "WeekDungeon_Blood_Stage06",
+      "WeekDungeonType": "Blood",
+      "Difficulty": 6,
+      "BattleDuration": 180000,
+      "PrevStageId": 32105,
+      "StageActionPointCostAmount": 30,
+      "ConsumeTicket": false,
+      "GroundId": 321000006,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
+      "StageTopography": "Indoor",
+      "StageRewardId": 32106,
+      "PlayTimeLimitInSeconds": 86400,
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": []
+    },
+    {
+      "StageId": 32107,
+      "DevName": "WeekDungeon_Blood_Stage07",
+      "WeekDungeonType": "Blood",
+      "Difficulty": 7,
+      "BattleDuration": 180000,
+      "PrevStageId": 32106,
+      "StageActionPointCostAmount": 35,
+      "ConsumeTicket": false,
+      "GroundId": 321000007,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
+      "StageTopography": "Indoor",
+      "StageRewardId": 32107,
+      "PlayTimeLimitInSeconds": 86400,
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": []
+    },
+    {
+      "StageId": 32108,
+      "DevName": "WeekDungeon_Blood_Stage08",
+      "WeekDungeonType": "Blood",
+      "Difficulty": 8,
+      "BattleDuration": 180000,
+      "PrevStageId": 32107,
+      "StageActionPointCostAmount": 40,
+      "ConsumeTicket": false,
+      "GroundId": 321000008,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
+      "StageTopography": "Indoor",
+      "StageRewardId": 32108,
+      "PlayTimeLimitInSeconds": 86400,
+      "BattleRewardExp": 0,
+      "BattleRewardPlayerExp": 0,
+      "GroupBuffID": []
     }
   ]
 }

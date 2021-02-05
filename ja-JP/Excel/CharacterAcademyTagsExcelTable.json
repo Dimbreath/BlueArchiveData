@@ -1,5 +1,340 @@
 {
   "DataList": [
-
+    {
+      "Id": 10000,
+      "FavorTags": [],
+      "ForbiddenTags": [
+        "Gehenna"
+      ]
+    },
+    {
+      "Id": 10001,
+      "FavorTags": [
+        "Scientific"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 10002,
+      "FavorTags": [
+        "Gehenna",
+        "Gourmet"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 10003,
+      "FavorTags": [
+        "Sociable"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 10004,
+      "FavorTags": [
+        "Gehenna",
+        "ShootingRange",
+        "Military"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 10005,
+      "FavorTags": [
+        "Abydos",
+        "TreasureHunter"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 10006,
+      "FavorTags": [
+        "Gehenna"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 10007,
+      "FavorTags": [
+        "Gamer"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 10008,
+      "FavorTags": [
+        "Lounge"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 10009,
+      "FavorTags": [
+        "Gehenna",
+        "Gourmet"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 10010,
+      "FavorTags": [
+        "Abydos",
+        "Healthy"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 10011,
+      "FavorTags": [
+        "Garden",
+        "Lounge"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 10012,
+      "FavorTags": [
+        "Healthy"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 10013,
+      "FavorTags": [
+        "Eerie",
+        "MovieMania"
+      ],
+      "ForbiddenTags": [
+        "Gehenna"
+      ]
+    },
+    {
+      "Id": 13000,
+      "FavorTags": [
+        "Lounge"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 13001,
+      "FavorTags": [
+        "Farmer"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 13002,
+      "FavorTags": [
+        "Gehenna",
+        "Gourmet"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 13003,
+      "FavorTags": [
+        "Officer",
+        "Gourmet"
+      ],
+      "ForbiddenTags": [
+        "Gehenna"
+      ]
+    },
+    {
+      "Id": 13004,
+      "FavorTags": [
+        "Abydos",
+        "Convenience"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 13005,
+      "FavorTags": [
+        "Eerie",
+        "TreasureHunter"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 13006,
+      "FavorTags": [],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 13007,
+      "FavorTags": [
+        "Gehenna",
+        "Gourmet"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 13008,
+      "FavorTags": [
+        "Abydos"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 13009,
+      "FavorTags": [],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 13010,
+      "FavorTags": [
+        "Officer"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 16000,
+      "FavorTags": [],
+      "ForbiddenTags": [
+        "Gehenna"
+      ]
+    },
+    {
+      "Id": 16001,
+      "FavorTags": [
+        "Lounge"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 16002,
+      "FavorTags": [
+        "Machine",
+        "Scientific"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 16003,
+      "FavorTags": [],
+      "ForbiddenTags": [
+        "Gehenna"
+      ]
+    },
+    {
+      "Id": 16004,
+      "FavorTags": [
+        "ShootingRange"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 20000,
+      "FavorTags": [
+        "Scientific"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 20001,
+      "FavorTags": [
+        "Lounge"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 20002,
+      "FavorTags": [
+        "Laboratory"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 20003,
+      "FavorTags": [
+        "ShootingRange"
+      ],
+      "ForbiddenTags": [
+        "Gehenna"
+      ]
+    },
+    {
+      "Id": 23000,
+      "FavorTags": [
+        "Sociable"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 23001,
+      "FavorTags": [
+        "Gehenna",
+        "Cook"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 23002,
+      "FavorTags": [],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 23003,
+      "FavorTags": [
+        "Scientific"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 23004,
+      "FavorTags": [
+        "Scientific"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 23005,
+      "FavorTags": [
+        "Abydos",
+        "Officer"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 26000,
+      "FavorTags": [
+        "Officer"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 26001,
+      "FavorTags": [
+        "Machine",
+        "Scientific"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 26002,
+      "FavorTags": [
+        "Gehenna",
+        "Cook"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 26003,
+      "FavorTags": [],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 26004,
+      "FavorTags": [
+        "Library"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 26005,
+      "FavorTags": [],
+      "ForbiddenTags": []
+    }
   ]
 }

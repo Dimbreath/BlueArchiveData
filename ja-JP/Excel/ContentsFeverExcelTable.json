@@ -1,21 +1,31 @@
 {
   "DataList": [
     {
-      "SkillCostFever": 20000
+      "ConditionContent": "Campaign",
+      "SkillFeverCheckCondition": "Ally",
+      "SkillCostFever": 20000,
+      "FeverStartTime": 0,
+      "FeverDurationTime": 0
     },
     {
       "ConditionContent": "Raid",
-      "SkillCostFever": 20000
+      "SkillFeverCheckCondition": "Ally",
+      "SkillCostFever": 20000,
+      "FeverStartTime": 0,
+      "FeverDurationTime": 0
     },
     {
       "ConditionContent": "WeekDungeon",
-      "SkillCostFever": 20000
+      "SkillFeverCheckCondition": "Ally",
+      "SkillCostFever": 20000,
+      "FeverStartTime": 0,
+      "FeverDurationTime": 0
     },
     {
       "ConditionContent": "Arena",
       "SkillFeverCheckCondition": "All",
       "SkillCostFever": 25000,
-      "FeverStartTime": 60000,
+      "FeverStartTime": 120000,
       "FeverDurationTime": 60000
     }
   ]

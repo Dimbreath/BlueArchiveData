@@ -1,0 +1,32 @@
+{
+  "DataList": [
+    {
+      "StrategyObjectBuffID": 10101,
+      "StrategyObjectTurn": 2,
+      "SkillGroupId": "StrategyObject_Buff_StatChange_Attack01",
+      "LocalizeEtcId": 2786542764,
+      "IconPath": "UIs/01_Common/25_Campaign/StrategyObjectBuff_Attack"
+    },
+    {
+      "StrategyObjectBuffID": 10102,
+      "StrategyObjectTurn": 2,
+      "SkillGroupId": "StrategyObject_Buff_StatChange_Attack01",
+      "LocalizeEtcId": 2786542764,
+      "IconPath": "UIs/01_Common/25_Campaign/StrategyObjectBuff_Attack"
+    },
+    {
+      "StrategyObjectBuffID": 10201,
+      "StrategyObjectTurn": 2,
+      "SkillGroupId": "StrategyObject_Buff_StatChange_Defense01",
+      "LocalizeEtcId": 807660114,
+      "IconPath": "UIs/01_Common/25_Campaign/StrategyObjectBuff_Defense"
+    },
+    {
+      "StrategyObjectBuffID": 10202,
+      "StrategyObjectTurn": 2,
+      "SkillGroupId": "StrategyObject_Buff_StatChange_Defense01",
+      "LocalizeEtcId": 807660114,
+      "IconPath": "UIs/01_Common/25_Campaign/StrategyObjectBuff_Defense"
+    }
+  ]
+}

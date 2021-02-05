@@ -7,7 +7,12 @@
       "CameraZoomMin": 6.0,
       "CameraZoomDefault": 6.0,
       "HealCostType": "GemBonus",
-      "HealCostAmountLength": 20,
+      "HealCostAmount": [
+        9008646621805190823,
+        10,
+        40,
+        100
+      ],
       "CanHealHpRate": 8000,
       "PlayTimeLimitInSeconds": 86400
     }

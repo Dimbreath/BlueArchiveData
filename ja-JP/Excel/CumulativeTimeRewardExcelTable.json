@@ -1,25 +1,96 @@
 {
   "DataList": [
     {
+      "Id": 0,
       "Description": "CumulativeTimeReward_First",
       "StartDate": "2019-04-10",
       "EndDate": "2019-04-19",
-      "TimeConditionLength": 228,
-      "RewardParcelTypeLength": 196,
-      "RewardIdLength": 140,
-      "RewardDevNameLength": 36,
-      "RewardAmountLength": 4
+      "TimeCondition": [
+        900,
+        1800,
+        2700,
+        3600,
+        4500,
+        5400
+      ],
+      "RewardParcelType": [
+        "Currency",
+        "Currency",
+        "Currency",
+        "Currency",
+        "Currency",
+        "Currency"
+      ],
+      "RewardId": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "RewardDevName": [
+        "gold",
+        "gold",
+        "gold",
+        "gold",
+        "gold",
+        "gold"
+      ],
+      "RewardAmount": [
+        1000,
+        1000,
+        1000,
+        1000,
+        1000,
+        1000
+      ]
     },
     {
       "Id": 1,
       "Description": "CumulativeTimeReward_Second",
       "StartDate": "2019-04-20",
       "EndDate": "2020-01-08",
-      "TimeConditionLength": 264,
-      "RewardParcelTypeLength": 232,
-      "RewardIdLength": 176,
-      "RewardDevNameLength": 48,
-      "RewardAmountLength": 16
+      "TimeCondition": [
+        300,
+        900,
+        1500,
+        2100,
+        2700,
+        3600
+      ],
+      "RewardParcelType": [
+        "Currency",
+        "Currency",
+        "Currency",
+        "Currency",
+        "Currency",
+        "Currency"
+      ],
+      "RewardId": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "RewardDevName": [
+        "GEM_BONUS",
+        "GEM_BONUS",
+        "GEM_BONUS",
+        "GEM_BONUS",
+        "GEM_BONUS",
+        "GEM_BONUS"
+      ],
+      "RewardAmount": [
+        120,
+        120,
+        120,
+        120,
+        120,
+        120
+      ]
     }
   ]
 }

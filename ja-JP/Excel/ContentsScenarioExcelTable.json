@@ -1,74 +1,132 @@
 {
   "DataList": [
     {
-      "Id": 2835610345,
-      "OpenConditionContent": "Prologue",
-      "ScenarioGroupIdLength": 4
+      "Id": 3791809063,
+      "LocalizeEtcId": 3821130563,
+      "ScenarioContentType": "Prologue",
+      "ScenarioGroupId": [
+        11000
+      ]
+    },
+    {
+      "Id": 4294189136,
+      "LocalizeEtcId": 600682470,
+      "ScenarioContentType": "Prologue",
+      "ScenarioGroupId": [
+        11001
+      ]
+    },
+    {
+      "Id": 1777967474,
+      "LocalizeEtcId": 2662423598,
+      "ScenarioContentType": "Prologue",
+      "ScenarioGroupId": [
+        11002
+      ]
+    },
+    {
+      "Id": 2058890777,
+      "LocalizeEtcId": 2886227642,
+      "ScenarioContentType": "Prologue",
+      "ScenarioGroupId": [
+        11005
+      ]
+    },
+    {
+      "Id": 4061438793,
+      "LocalizeEtcId": 1131242135,
+      "ScenarioContentType": "Prologue",
+      "ScenarioGroupId": [
+        11008
+      ]
     },
     {
       "Id": 3836164447,
-      "OpenConditionContent": "WeekDungeon",
-      "ScenarioGroupIdLength": 4
-    },
-    {
-      "Id": 32596116,
-      "OpenConditionContent": "WeekDungeon",
-      "ScenarioGroupIdLength": 4
+      "LocalizeEtcId": 3441692335,
+      "ScenarioContentType": "WeekDungeon",
+      "ScenarioGroupId": [
+        100
+      ]
     },
     {
       "Id": 1675684248,
-      "OpenConditionContent": "WeekDungeon",
-      "ScenarioGroupIdLength": 4
+      "LocalizeEtcId": 1570898909,
+      "ScenarioContentType": "WeekDungeon",
+      "ScenarioGroupId": [
+        102
+      ]
     },
     {
       "Id": 4169074235,
-      "OpenConditionContent": "WeekDungeon",
-      "ScenarioGroupIdLength": 4
+      "LocalizeEtcId": 530645358,
+      "ScenarioContentType": "WeekDungeon",
+      "ScenarioGroupId": [
+        103
+      ]
     },
     {
-      "Id": 2454588229,
-      "OpenConditionContent": "WeekDungeon",
-      "ScenarioGroupIdLength": 4
+      "Id": 2274633264,
+      "LocalizeEtcId": 1999578098,
+      "ScenarioContentType": "Chaser",
+      "ScenarioGroupId": [
+        101
+      ]
     },
     {
-      "Id": 2097676519,
-      "OpenConditionContent": "WeekDungeon",
-      "ScenarioGroupIdLength": 4
-    },
-    {
-      "Id": 2977826780,
-      "OpenConditionContent": "WeekDungeon",
-      "ScenarioGroupIdLength": 4
+      "Id": 1097758550,
+      "LocalizeEtcId": 4282835081,
+      "ScenarioContentType": "Craft",
+      "ScenarioGroupId": [
+        500
+      ]
     },
     {
       "Id": 1944015579,
-      "OpenConditionContent": "Raid",
-      "ScenarioGroupIdLength": 4
+      "LocalizeEtcId": 492474699,
+      "ScenarioContentType": "Raid",
+      "ScenarioGroupId": [
+        200
+      ]
     },
     {
       "Id": 2624821838,
-      "OpenConditionContent": "Raid",
-      "ScenarioGroupIdLength": 4
+      "LocalizeEtcId": 50298786,
+      "ScenarioContentType": "Raid",
+      "ScenarioGroupId": [
+        201
+      ]
     },
     {
       "Id": 3187339042,
-      "OpenConditionContent": "Raid",
-      "ScenarioGroupIdLength": 4
+      "LocalizeEtcId": 95384975,
+      "ScenarioContentType": "Raid",
+      "ScenarioGroupId": [
+        202
+      ]
     },
     {
-      "Id": 4129604699,
-      "OpenConditionContent": "Raid",
-      "ScenarioGroupIdLength": 4
-    },
-    {
-      "Id": 871120999,
-      "OpenConditionContent": "Raid",
-      "ScenarioGroupIdLength": 4
+      "Id": 2099732836,
+      "LocalizeEtcId": 2246833932,
+      "ScenarioContentType": "Raid",
+      "ScenarioGroupId": [
+        203
+      ]
     },
     {
       "Id": 685792696,
-      "OpenConditionContent": "Arena",
-      "ScenarioGroupIdLength": 4
+      "LocalizeEtcId": 2949835467,
+      "ScenarioContentType": "Arena",
+      "ScenarioGroupId": [
+        300
+      ]
+    },
+    {
+      "Id": 252185728,
+      "LocalizeEtcId": 1328456963,
+      "ScenarioContentType": "Shop",
+      "ScenarioGroupId": [
+        400
+      ]
     }
   ]
 }

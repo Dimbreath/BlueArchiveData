@@ -1,30 +1,48 @@
 {
   "DataList": [
     {
+      "TerrainAdaptation": "Street",
       "TerrainAdaptationStat": "S",
       "ShotFactor": 6000,
       "BlockFactor": 6000,
+      "AccuracyFactor": 0,
+      "DodgeFactor": 0,
       "AttackPowerFactor": 12000
     },
     {
+      "TerrainAdaptation": "Street",
       "TerrainAdaptationStat": "A",
       "ShotFactor": 4500,
       "BlockFactor": 4500,
+      "AccuracyFactor": 0,
+      "DodgeFactor": 0,
       "AttackPowerFactor": 11000
     },
     {
+      "TerrainAdaptation": "Street",
       "TerrainAdaptationStat": "B",
       "ShotFactor": 3000,
       "BlockFactor": 3000,
+      "AccuracyFactor": 0,
+      "DodgeFactor": 0,
       "AttackPowerFactor": 10000
     },
     {
+      "TerrainAdaptation": "Street",
       "TerrainAdaptationStat": "C",
       "ShotFactor": 1500,
       "BlockFactor": 1500,
+      "AccuracyFactor": 0,
+      "DodgeFactor": 0,
       "AttackPowerFactor": 9000
     },
     {
+      "TerrainAdaptation": "Street",
+      "TerrainAdaptationStat": "D",
+      "ShotFactor": 0,
+      "BlockFactor": 0,
+      "AccuracyFactor": 0,
+      "DodgeFactor": 0,
       "AttackPowerFactor": 8000
     },
     {
@@ -32,6 +50,8 @@
       "TerrainAdaptationStat": "S",
       "ShotFactor": 6000,
       "BlockFactor": 6000,
+      "AccuracyFactor": 0,
+      "DodgeFactor": 0,
       "AttackPowerFactor": 12000
     },
     {
@@ -39,6 +59,8 @@
       "TerrainAdaptationStat": "A",
       "ShotFactor": 4500,
       "BlockFactor": 4500,
+      "AccuracyFactor": 0,
+      "DodgeFactor": 0,
       "AttackPowerFactor": 11000
     },
     {
@@ -46,6 +68,8 @@
       "TerrainAdaptationStat": "B",
       "ShotFactor": 3000,
       "BlockFactor": 3000,
+      "AccuracyFactor": 0,
+      "DodgeFactor": 0,
       "AttackPowerFactor": 10000
     },
     {
@@ -53,10 +77,17 @@
       "TerrainAdaptationStat": "C",
       "ShotFactor": 1500,
       "BlockFactor": 1500,
+      "AccuracyFactor": 0,
+      "DodgeFactor": 0,
       "AttackPowerFactor": 9000
     },
     {
       "TerrainAdaptation": "Outdoor",
+      "TerrainAdaptationStat": "D",
+      "ShotFactor": 0,
+      "BlockFactor": 0,
+      "AccuracyFactor": 0,
+      "DodgeFactor": 0,
       "AttackPowerFactor": 8000
     },
     {
@@ -64,6 +95,8 @@
       "TerrainAdaptationStat": "S",
       "ShotFactor": 6000,
       "BlockFactor": 6000,
+      "AccuracyFactor": 0,
+      "DodgeFactor": 0,
       "AttackPowerFactor": 12000
     },
     {
@@ -71,6 +104,8 @@
       "TerrainAdaptationStat": "A",
       "ShotFactor": 4500,
       "BlockFactor": 4500,
+      "AccuracyFactor": 0,
+      "DodgeFactor": 0,
       "AttackPowerFactor": 11000
     },
     {
@@ -78,6 +113,8 @@
       "TerrainAdaptationStat": "B",
       "ShotFactor": 3000,
       "BlockFactor": 3000,
+      "AccuracyFactor": 0,
+      "DodgeFactor": 0,
       "AttackPowerFactor": 10000
     },
     {
@@ -85,10 +122,17 @@
       "TerrainAdaptationStat": "C",
       "ShotFactor": 1500,
       "BlockFactor": 1500,
+      "AccuracyFactor": 0,
+      "DodgeFactor": 0,
       "AttackPowerFactor": 9000
     },
     {
       "TerrainAdaptation": "Indoor",
+      "TerrainAdaptationStat": "D",
+      "ShotFactor": 0,
+      "BlockFactor": 0,
+      "AccuracyFactor": 0,
+      "DodgeFactor": 0,
       "AttackPowerFactor": 8000
     }
   ]

@@ -3,6 +3,7 @@
     {
       "Name": 1352163882,
       "Face": "00",
+      "Behavior": null,
       "Action": "shake",
       "Shape": "black",
       "Effect": 291307153,
@@ -12,7 +13,9 @@
       "Name": 350601301,
       "Face": "05",
       "Behavior": "ar",
+      "Action": null,
       "Shape": "sig",
+      "Effect": 0,
       "Emotion": 658678236
     }
   ]

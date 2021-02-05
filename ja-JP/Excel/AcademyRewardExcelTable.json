@@ -1,0 +1,5764 @@
+{
+  "DataList": [
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 시청각실",
+      "ScheduleGroupId": 1001,
+      "OrderInGroup": 1,
+      "Id": 10011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 1907901108,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50000,
+        60000
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_0",
+        "게헨나/산해경/트리니티_Skillbook_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1250,
+        5000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 시청각실",
+      "ScheduleGroupId": 1001,
+      "OrderInGroup": 2,
+      "Id": 10012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 1907901108,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50000,
+        60000
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_0",
+        "게헨나/산해경/트리니티_Skillbook_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1667,
+        6666
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 시청각실",
+      "ScheduleGroupId": 1001,
+      "OrderInGroup": 3,
+      "Id": 10013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 1907901108,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50000,
+        60000
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_0",
+        "게헨나/산해경/트리니티_Skillbook_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2083,
+        8333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 시청각실",
+      "ScheduleGroupId": 1001,
+      "OrderInGroup": 4,
+      "Id": 10014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 1907901108,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50000,
+        60000
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_0",
+        "게헨나/산해경/트리니티_Skillbook_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2500,
+        10000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 체육관",
+      "ScheduleGroupId": 1101,
+      "OrderInGroup": 1,
+      "Id": 11011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 358080736,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50000,
+        60000
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_0",
+        "게헨나/산해경/트리니티_Skillbook_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1250,
+        5000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 체육관",
+      "ScheduleGroupId": 1101,
+      "OrderInGroup": 2,
+      "Id": 11012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 358080736,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50000,
+        60000
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_0",
+        "게헨나/산해경/트리니티_Skillbook_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1667,
+        6666
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 체육관",
+      "ScheduleGroupId": 1101,
+      "OrderInGroup": 3,
+      "Id": 11013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 358080736,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50000,
+        60000
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_0",
+        "게헨나/산해경/트리니티_Skillbook_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2083,
+        8333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 체육관",
+      "ScheduleGroupId": 1101,
+      "OrderInGroup": 4,
+      "Id": 11014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 358080736,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50000,
+        60000
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_0",
+        "게헨나/산해경/트리니티_Skillbook_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2500,
+        10000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 도서관",
+      "ScheduleGroupId": 1201,
+      "OrderInGroup": 1,
+      "Id": 12011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 261901867,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50001,
+        60001
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_1",
+        "게헨나/산해경/트리니티_Skillbook_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        4000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 도서관",
+      "ScheduleGroupId": 1201,
+      "OrderInGroup": 2,
+      "Id": 12012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 261901867,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50001,
+        60001
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_1",
+        "게헨나/산해경/트리니티_Skillbook_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1333,
+        5333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 도서관",
+      "ScheduleGroupId": 1201,
+      "OrderInGroup": 3,
+      "Id": 12013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 261901867,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50001,
+        60001
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_1",
+        "게헨나/산해경/트리니티_Skillbook_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1667,
+        6666
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 도서관",
+      "ScheduleGroupId": 1201,
+      "OrderInGroup": 4,
+      "Id": 12014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 261901867,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50001,
+        60001
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_1",
+        "게헨나/산해경/트리니티_Skillbook_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2000,
+        8000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 교실",
+      "ScheduleGroupId": 1301,
+      "OrderInGroup": 1,
+      "Id": 13011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 774508018,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50001,
+        60001
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_1",
+        "게헨나/산해경/트리니티_Skillbook_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        4000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 교실",
+      "ScheduleGroupId": 1301,
+      "OrderInGroup": 2,
+      "Id": 13012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 774508018,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50001,
+        60001
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_1",
+        "게헨나/산해경/트리니티_Skillbook_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1333,
+        5333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 교실",
+      "ScheduleGroupId": 1301,
+      "OrderInGroup": 3,
+      "Id": 13013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 774508018,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50001,
+        60001
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_1",
+        "게헨나/산해경/트리니티_Skillbook_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1667,
+        6666
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 교실",
+      "ScheduleGroupId": 1301,
+      "OrderInGroup": 4,
+      "Id": 13014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 774508018,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50001,
+        60001
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_1",
+        "게헨나/산해경/트리니티_Skillbook_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2000,
+        8000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 실습실",
+      "ScheduleGroupId": 1401,
+      "OrderInGroup": 1,
+      "Id": 14011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 3140661513,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50002,
+        60002
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_2",
+        "게헨나/산해경/트리니티_Skillbook_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        750,
+        3000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 실습실",
+      "ScheduleGroupId": 1401,
+      "OrderInGroup": 2,
+      "Id": 14012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 3140661513,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50002,
+        60002
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_2",
+        "게헨나/산해경/트리니티_Skillbook_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        4000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 실습실",
+      "ScheduleGroupId": 1401,
+      "OrderInGroup": 3,
+      "Id": 14013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 3140661513,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50002,
+        60002
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_2",
+        "게헨나/산해경/트리니티_Skillbook_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1250,
+        5000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 실습실",
+      "ScheduleGroupId": 1401,
+      "OrderInGroup": 4,
+      "Id": 14014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 3140661513,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50002,
+        60002
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_2",
+        "게헨나/산해경/트리니티_Skillbook_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1500,
+        6000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 사격장",
+      "ScheduleGroupId": 1501,
+      "OrderInGroup": 1,
+      "Id": 15011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_1",
+      "LocalizeEtcId": 1107627875,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50002,
+        60002
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_2",
+        "게헨나/산해경/트리니티_Skillbook_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        750,
+        3000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 사격장",
+      "ScheduleGroupId": 1501,
+      "OrderInGroup": 2,
+      "Id": 15012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_1",
+      "LocalizeEtcId": 1107627875,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50002,
+        60002
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_2",
+        "게헨나/산해경/트리니티_Skillbook_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        4000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 사격장",
+      "ScheduleGroupId": 1501,
+      "OrderInGroup": 3,
+      "Id": 15013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_1",
+      "LocalizeEtcId": 1107627875,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50002,
+        60002
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_2",
+        "게헨나/산해경/트리니티_Skillbook_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1250,
+        5000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 사격장",
+      "ScheduleGroupId": 1501,
+      "OrderInGroup": 4,
+      "Id": 15014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_1",
+      "LocalizeEtcId": 1107627875,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50002,
+        60002
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_2",
+        "게헨나/산해경/트리니티_Skillbook_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1500,
+        6000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 격납고",
+      "ScheduleGroupId": 1601,
+      "OrderInGroup": 1,
+      "Id": 16011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 3657567135,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50003,
+        60003
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_3",
+        "게헨나/산해경/트리니티_Skillbook_3"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        500,
+        2000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 격납고",
+      "ScheduleGroupId": 1601,
+      "OrderInGroup": 2,
+      "Id": 16012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 3657567135,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50003,
+        60003
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_3",
+        "게헨나/산해경/트리니티_Skillbook_3"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        667,
+        2666
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 격납고",
+      "ScheduleGroupId": 1601,
+      "OrderInGroup": 3,
+      "Id": 16013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 3657567135,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50003,
+        60003
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_3",
+        "게헨나/산해경/트리니티_Skillbook_3"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        833,
+        3333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ZoneDevName": "업무관 격납고",
+      "ScheduleGroupId": 1601,
+      "OrderInGroup": 4,
+      "Id": 16014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 3657567135,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50003,
+        60003
+      ],
+      "ExtraRewardParcelDevName": [
+        "게헨나/산해경/트리니티_ExSkillbook_3",
+        "게헨나/산해경/트리니티_Skillbook_3"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        4000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 스터디룸",
+      "ScheduleGroupId": 7001,
+      "OrderInGroup": 1,
+      "Id": 70011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1833374923,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50004,
+        60004
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_0",
+        "아비도스/밀레니엄/백귀야행_Skillbook_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1250,
+        5000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 스터디룸",
+      "ScheduleGroupId": 7001,
+      "OrderInGroup": 2,
+      "Id": 70012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1833374923,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50004,
+        60004
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_0",
+        "아비도스/밀레니엄/백귀야행_Skillbook_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1667,
+        6666
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 스터디룸",
+      "ScheduleGroupId": 7001,
+      "OrderInGroup": 3,
+      "Id": 70013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1833374923,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50004,
+        60004
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_0",
+        "아비도스/밀레니엄/백귀야행_Skillbook_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2083,
+        8333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 스터디룸",
+      "ScheduleGroupId": 7001,
+      "OrderInGroup": 4,
+      "Id": 70014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1833374923,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50004,
+        60004
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_0",
+        "아비도스/밀레니엄/백귀야행_Skillbook_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2500,
+        10000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 체력단련실",
+      "ScheduleGroupId": 7101,
+      "OrderInGroup": 1,
+      "Id": 71011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 3691365347,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50004,
+        60004
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_0",
+        "아비도스/밀레니엄/백귀야행_Skillbook_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1250,
+        5000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 체력단련실",
+      "ScheduleGroupId": 7101,
+      "OrderInGroup": 2,
+      "Id": 71012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 3691365347,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50004,
+        60004
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_0",
+        "아비도스/밀레니엄/백귀야행_Skillbook_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1667,
+        6666
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 체력단련실",
+      "ScheduleGroupId": 7101,
+      "OrderInGroup": 3,
+      "Id": 71013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 3691365347,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50004,
+        60004
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_0",
+        "아비도스/밀레니엄/백귀야행_Skillbook_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2083,
+        8333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 체력단련실",
+      "ScheduleGroupId": 7101,
+      "OrderInGroup": 4,
+      "Id": 71014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 3691365347,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50004,
+        60004
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_0",
+        "아비도스/밀레니엄/백귀야행_Skillbook_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2500,
+        10000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 휴게실",
+      "ScheduleGroupId": 7201,
+      "OrderInGroup": 1,
+      "Id": 72011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 2987442229,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50005,
+        60005
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_1",
+        "아비도스/밀레니엄/백귀야행_Skillbook_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        4000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 휴게실",
+      "ScheduleGroupId": 7201,
+      "OrderInGroup": 2,
+      "Id": 72012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 2987442229,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50005,
+        60005
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_1",
+        "아비도스/밀레니엄/백귀야행_Skillbook_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1333,
+        5333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 휴게실",
+      "ScheduleGroupId": 7201,
+      "OrderInGroup": 3,
+      "Id": 72013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 2987442229,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50005,
+        60005
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_1",
+        "아비도스/밀레니엄/백귀야행_Skillbook_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1667,
+        6666
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 휴게실",
+      "ScheduleGroupId": 7201,
+      "OrderInGroup": 4,
+      "Id": 72014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 2987442229,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50005,
+        60005
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_1",
+        "아비도스/밀레니엄/백귀야행_Skillbook_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2000,
+        8000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 편의점",
+      "ScheduleGroupId": 7301,
+      "OrderInGroup": 1,
+      "Id": 73011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 174166180,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50005,
+        60005
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_1",
+        "아비도스/밀레니엄/백귀야행_Skillbook_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        4000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 편의점",
+      "ScheduleGroupId": 7301,
+      "OrderInGroup": 2,
+      "Id": 73012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 174166180,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50005,
+        60005
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_1",
+        "아비도스/밀레니엄/백귀야행_Skillbook_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1333,
+        5333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 편의점",
+      "ScheduleGroupId": 7301,
+      "OrderInGroup": 3,
+      "Id": 73013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 174166180,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50005,
+        60005
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_1",
+        "아비도스/밀레니엄/백귀야행_Skillbook_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1667,
+        6666
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 편의점",
+      "ScheduleGroupId": 7301,
+      "OrderInGroup": 4,
+      "Id": 73014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 174166180,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50005,
+        60005
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_1",
+        "아비도스/밀레니엄/백귀야행_Skillbook_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2000,
+        8000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 오락실",
+      "ScheduleGroupId": 7401,
+      "OrderInGroup": 1,
+      "Id": 74011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 3217933897,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50006,
+        60006
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_2",
+        "아비도스/밀레니엄/백귀야행_Skillbook_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        750,
+        3000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 오락실",
+      "ScheduleGroupId": 7401,
+      "OrderInGroup": 2,
+      "Id": 74012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 3217933897,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50006,
+        60006
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_2",
+        "아비도스/밀레니엄/백귀야행_Skillbook_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        4000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 오락실",
+      "ScheduleGroupId": 7401,
+      "OrderInGroup": 3,
+      "Id": 74013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 3217933897,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50006,
+        60006
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_2",
+        "아비도스/밀레니엄/백귀야행_Skillbook_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1250,
+        5000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 오락실",
+      "ScheduleGroupId": 7401,
+      "OrderInGroup": 4,
+      "Id": 74014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 3217933897,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50006,
+        60006
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_2",
+        "아비도스/밀레니엄/백귀야행_Skillbook_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1500,
+        6000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 식당",
+      "ScheduleGroupId": 7501,
+      "OrderInGroup": 1,
+      "Id": 75011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 1142275086,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50006,
+        60006
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_2",
+        "아비도스/밀레니엄/백귀야행_Skillbook_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        750,
+        3000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 식당",
+      "ScheduleGroupId": 7501,
+      "OrderInGroup": 2,
+      "Id": 75012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 1142275086,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50006,
+        60006
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_2",
+        "아비도스/밀레니엄/백귀야행_Skillbook_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        4000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 식당",
+      "ScheduleGroupId": 7501,
+      "OrderInGroup": 3,
+      "Id": 75013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 1142275086,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50006,
+        60006
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_2",
+        "아비도스/밀레니엄/백귀야행_Skillbook_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1250,
+        5000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 식당",
+      "ScheduleGroupId": 7501,
+      "OrderInGroup": 4,
+      "Id": 75014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 1142275086,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50006,
+        60006
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_2",
+        "아비도스/밀레니엄/백귀야행_Skillbook_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1500,
+        6000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 텃밭",
+      "ScheduleGroupId": 7601,
+      "OrderInGroup": 1,
+      "Id": 76011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 2776103305,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50007,
+        60007
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_3",
+        "아비도스/밀레니엄/백귀야행_Skillbook_3"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        500,
+        2000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 텃밭",
+      "ScheduleGroupId": 7601,
+      "OrderInGroup": 2,
+      "Id": 76012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 2776103305,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50007,
+        60007
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_3",
+        "아비도스/밀레니엄/백귀야행_Skillbook_3"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        667,
+        2666
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 텃밭",
+      "ScheduleGroupId": 7601,
+      "OrderInGroup": 3,
+      "Id": 76013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 2776103305,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50007,
+        60007
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_3",
+        "아비도스/밀레니엄/백귀야행_Skillbook_3"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        833,
+        3333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ZoneDevName": "생활관 텃밭",
+      "ScheduleGroupId": 7601,
+      "OrderInGroup": 4,
+      "Id": 76014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 2776103305,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50007,
+        60007
+      ],
+      "ExtraRewardParcelDevName": [
+        "아비도스/밀레니엄/백귀야행_ExSkillbook_3",
+        "아비도스/밀레니엄/백귀야행_Skillbook_3"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        4000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 제1교사",
+      "ScheduleGroupId": 11001,
+      "OrderInGroup": 1,
+      "Id": 110011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 4294611526,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3030,
+        4030
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_0",
+        "SkillBook_Gehenna_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1250,
+        5000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 제1교사",
+      "ScheduleGroupId": 11001,
+      "OrderInGroup": 2,
+      "Id": 110012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 4294611526,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3030,
+        4030
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_0",
+        "SkillBook_Gehenna_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1667,
+        6666
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 제1교사",
+      "ScheduleGroupId": 11001,
+      "OrderInGroup": 3,
+      "Id": 110013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 4294611526,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3030,
+        4030
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_0",
+        "SkillBook_Gehenna_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2083,
+        8333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 제1교사",
+      "ScheduleGroupId": 11001,
+      "OrderInGroup": 4,
+      "Id": 110014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 4294611526,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3030,
+        4030
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_0",
+        "SkillBook_Gehenna_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2500,
+        10000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 동아리본관",
+      "ScheduleGroupId": 11101,
+      "OrderInGroup": 1,
+      "Id": 111011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 1274324253,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3030,
+        4030
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_0",
+        "SkillBook_Gehenna_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1250,
+        5000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 동아리본관",
+      "ScheduleGroupId": 11101,
+      "OrderInGroup": 2,
+      "Id": 111012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 1274324253,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3030,
+        4030
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_0",
+        "SkillBook_Gehenna_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1667,
+        6666
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 동아리본관",
+      "ScheduleGroupId": 11101,
+      "OrderInGroup": 3,
+      "Id": 111013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 1274324253,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3030,
+        4030
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_0",
+        "SkillBook_Gehenna_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2083,
+        8333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 동아리본관",
+      "ScheduleGroupId": 11101,
+      "OrderInGroup": 4,
+      "Id": 111014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 1274324253,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3030,
+        4030
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_0",
+        "SkillBook_Gehenna_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2500,
+        10000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 중앙교정",
+      "ScheduleGroupId": 11201,
+      "OrderInGroup": 1,
+      "Id": 112011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 358653965,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3031,
+        4031
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_1",
+        "SkillBook_Gehenna_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        4000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 중앙교정",
+      "ScheduleGroupId": 11201,
+      "OrderInGroup": 2,
+      "Id": 112012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 358653965,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3031,
+        4031
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_1",
+        "SkillBook_Gehenna_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1333,
+        5333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 중앙교정",
+      "ScheduleGroupId": 11201,
+      "OrderInGroup": 3,
+      "Id": 112013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 358653965,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3031,
+        4031
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_1",
+        "SkillBook_Gehenna_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1667,
+        6666
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 중앙교정",
+      "ScheduleGroupId": 11201,
+      "OrderInGroup": 4,
+      "Id": 112014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 358653965,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3031,
+        4031
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_1",
+        "SkillBook_Gehenna_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2000,
+        8000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 중앙운동장",
+      "ScheduleGroupId": 11301,
+      "OrderInGroup": 1,
+      "Id": 113011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 2196189972,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3031,
+        4031
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_1",
+        "SkillBook_Gehenna_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        4000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 중앙운동장",
+      "ScheduleGroupId": 11301,
+      "OrderInGroup": 2,
+      "Id": 113012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 2196189972,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3031,
+        4031
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_1",
+        "SkillBook_Gehenna_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1333,
+        5333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 중앙운동장",
+      "ScheduleGroupId": 11301,
+      "OrderInGroup": 3,
+      "Id": 113013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 2196189972,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3031,
+        4031
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_1",
+        "SkillBook_Gehenna_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1667,
+        6666
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 중앙운동장",
+      "ScheduleGroupId": 11301,
+      "OrderInGroup": 4,
+      "Id": 113014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 2196189972,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3031,
+        4031
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_1",
+        "SkillBook_Gehenna_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2000,
+        8000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 제2교사",
+      "ScheduleGroupId": 11401,
+      "OrderInGroup": 1,
+      "Id": 114011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1866984703,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3032,
+        4032
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_2",
+        "SkillBook_Gehenna_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        750,
+        3000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 제2교사",
+      "ScheduleGroupId": 11401,
+      "OrderInGroup": 2,
+      "Id": 114012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1866984703,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3032,
+        4032
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_2",
+        "SkillBook_Gehenna_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        4000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 제2교사",
+      "ScheduleGroupId": 11401,
+      "OrderInGroup": 3,
+      "Id": 114013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1866984703,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3032,
+        4032
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_2",
+        "SkillBook_Gehenna_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1250,
+        5000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 제2교사",
+      "ScheduleGroupId": 11401,
+      "OrderInGroup": 4,
+      "Id": 114014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1866984703,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3032,
+        4032
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_2",
+        "SkillBook_Gehenna_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1500,
+        6000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 학생광장",
+      "ScheduleGroupId": 11501,
+      "OrderInGroup": 1,
+      "Id": 115011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 3032755222,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3032,
+        4032
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_2",
+        "SkillBook_Gehenna_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        750,
+        3000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 학생광장",
+      "ScheduleGroupId": 11501,
+      "OrderInGroup": 2,
+      "Id": 115012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 3032755222,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3032,
+        4032
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_2",
+        "SkillBook_Gehenna_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        4000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 학생광장",
+      "ScheduleGroupId": 11501,
+      "OrderInGroup": 3,
+      "Id": 115013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 3032755222,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3032,
+        4032
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_2",
+        "SkillBook_Gehenna_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1250,
+        5000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 학생광장",
+      "ScheduleGroupId": 11501,
+      "OrderInGroup": 4,
+      "Id": 115014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 3032755222,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3032,
+        4032
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_2",
+        "SkillBook_Gehenna_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1500,
+        6000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 선도부 본부",
+      "ScheduleGroupId": 11601,
+      "OrderInGroup": 1,
+      "Id": 116011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_1",
+      "LocalizeEtcId": 970571410,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3033,
+        4033
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_3",
+        "SkillBook_Gehenna_3"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        500,
+        2000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 선도부 본부",
+      "ScheduleGroupId": 11601,
+      "OrderInGroup": 2,
+      "Id": 116012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_1",
+      "LocalizeEtcId": 970571410,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3033,
+        4033
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_3",
+        "SkillBook_Gehenna_3"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        667,
+        2666
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 선도부 본부",
+      "ScheduleGroupId": 11601,
+      "OrderInGroup": 3,
+      "Id": 116013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_1",
+      "LocalizeEtcId": 970571410,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3033,
+        4033
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_3",
+        "SkillBook_Gehenna_3"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        833,
+        3333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 선도부 본부",
+      "ScheduleGroupId": 11601,
+      "OrderInGroup": 4,
+      "Id": 116014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_1",
+      "LocalizeEtcId": 970571410,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3033,
+        4033
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_3",
+        "SkillBook_Gehenna_3"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        4000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 폐교사",
+      "ScheduleGroupId": 11701,
+      "OrderInGroup": 1,
+      "Id": 117011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 1533671597,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3033,
+        4033
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_3",
+        "SkillBook_Gehenna_3"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        500,
+        2000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 폐교사",
+      "ScheduleGroupId": 11701,
+      "OrderInGroup": 2,
+      "Id": 117012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 1533671597,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3033,
+        4033
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_3",
+        "SkillBook_Gehenna_3"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        667,
+        2666
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 폐교사",
+      "ScheduleGroupId": 11701,
+      "OrderInGroup": 3,
+      "Id": 117013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 1533671597,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3033,
+        4033
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_3",
+        "SkillBook_Gehenna_3"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        833,
+        3333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ZoneDevName": "게헨나 폐교사",
+      "ScheduleGroupId": 11701,
+      "OrderInGroup": 4,
+      "Id": 117014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 1533671597,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3033,
+        4033
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Gehenna_3",
+        "SkillBook_Gehenna_3"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        4000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 제1본관",
+      "ScheduleGroupId": 12001,
+      "OrderInGroup": 1,
+      "Id": 120011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1983840990,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3040,
+        4040
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_0",
+        "SkillBook_Abydos_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1250,
+        2500
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 제1본관",
+      "ScheduleGroupId": 12001,
+      "OrderInGroup": 2,
+      "Id": 120012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1983840990,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3040,
+        4040
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_0",
+        "SkillBook_Abydos_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1667,
+        5000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 제1본관",
+      "ScheduleGroupId": 12001,
+      "OrderInGroup": 3,
+      "Id": 120013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1983840990,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3040,
+        4040
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_0",
+        "SkillBook_Abydos_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2083,
+        7500
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 제1본관",
+      "ScheduleGroupId": 12001,
+      "OrderInGroup": 4,
+      "Id": 120014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1983840990,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3040,
+        4040
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_0",
+        "SkillBook_Abydos_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2500,
+        10000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 별관",
+      "ScheduleGroupId": 12101,
+      "OrderInGroup": 1,
+      "Id": 121011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 3073680445,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3040,
+        4040
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_0",
+        "SkillBook_Abydos_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1250,
+        2500
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 별관",
+      "ScheduleGroupId": 12101,
+      "OrderInGroup": 2,
+      "Id": 121012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 3073680445,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3040,
+        4040
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_0",
+        "SkillBook_Abydos_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1667,
+        5000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 별관",
+      "ScheduleGroupId": 12101,
+      "OrderInGroup": 3,
+      "Id": 121013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 3073680445,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3040,
+        4040
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_0",
+        "SkillBook_Abydos_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2083,
+        7500
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 별관",
+      "ScheduleGroupId": 12101,
+      "OrderInGroup": 4,
+      "Id": 121014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 3073680445,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3040,
+        4040
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_0",
+        "SkillBook_Abydos_0"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2500,
+        10000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 운동장",
+      "ScheduleGroupId": 12201,
+      "OrderInGroup": 1,
+      "Id": 122011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 3030528899,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3041,
+        4041
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_1",
+        "SkillBook_Abydos_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        2000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 운동장",
+      "ScheduleGroupId": 12201,
+      "OrderInGroup": 2,
+      "Id": 122012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 3030528899,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3041,
+        4041
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_1",
+        "SkillBook_Abydos_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1333,
+        4000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 운동장",
+      "ScheduleGroupId": 12201,
+      "OrderInGroup": 3,
+      "Id": 122013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 3030528899,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3041,
+        4041
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_1",
+        "SkillBook_Abydos_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1667,
+        6000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 운동장",
+      "ScheduleGroupId": 12201,
+      "OrderInGroup": 4,
+      "Id": 122014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 3030528899,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3041,
+        4041
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_1",
+        "SkillBook_Abydos_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2000,
+        8000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 도서관",
+      "ScheduleGroupId": 12301,
+      "OrderInGroup": 1,
+      "Id": 123011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 4060200853,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3041,
+        4041
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_1",
+        "SkillBook_Abydos_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        2000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 도서관",
+      "ScheduleGroupId": 12301,
+      "OrderInGroup": 2,
+      "Id": 123012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 4060200853,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3041,
+        4041
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_1",
+        "SkillBook_Abydos_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1333,
+        4000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 도서관",
+      "ScheduleGroupId": 12301,
+      "OrderInGroup": 3,
+      "Id": 123013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 4060200853,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3041,
+        4041
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_1",
+        "SkillBook_Abydos_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1667,
+        6000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 도서관",
+      "ScheduleGroupId": 12301,
+      "OrderInGroup": 4,
+      "Id": 123014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 4060200853,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3041,
+        4041
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_1",
+        "SkillBook_Abydos_1"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2000,
+        8000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 수영장",
+      "ScheduleGroupId": 12401,
+      "OrderInGroup": 1,
+      "Id": 124011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 4149434655,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3042,
+        4042
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_2",
+        "SkillBook_Abydos_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        750,
+        1500
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 수영장",
+      "ScheduleGroupId": 12401,
+      "OrderInGroup": 2,
+      "Id": 124012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 4149434655,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3042,
+        4042
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_2",
+        "SkillBook_Abydos_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        3000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 수영장",
+      "ScheduleGroupId": 12401,
+      "OrderInGroup": 3,
+      "Id": 124013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 4149434655,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3042,
+        4042
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_2",
+        "SkillBook_Abydos_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1250,
+        4500
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 수영장",
+      "ScheduleGroupId": 12401,
+      "OrderInGroup": 4,
+      "Id": 124014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 4149434655,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3042,
+        4042
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_2",
+        "SkillBook_Abydos_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1500,
+        6000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 체육관",
+      "ScheduleGroupId": 12501,
+      "OrderInGroup": 1,
+      "Id": 125011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 2812564490,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3042,
+        4042
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_2",
+        "SkillBook_Abydos_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        750,
+        1500
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 체육관",
+      "ScheduleGroupId": 12501,
+      "OrderInGroup": 2,
+      "Id": 125012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 2812564490,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3042,
+        4042
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_2",
+        "SkillBook_Abydos_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        3000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 체육관",
+      "ScheduleGroupId": 12501,
+      "OrderInGroup": 3,
+      "Id": 125013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 2812564490,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3042,
+        4042
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_2",
+        "SkillBook_Abydos_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1250,
+        4500
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 체육관",
+      "ScheduleGroupId": 12501,
+      "OrderInGroup": 4,
+      "Id": 125014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 2812564490,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3042,
+        4042
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_2",
+        "SkillBook_Abydos_2"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1500,
+        6000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 매점",
+      "ScheduleGroupId": 12601,
+      "OrderInGroup": 1,
+      "Id": 126011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 3019364332,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3043,
+        4043
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_3",
+        "SkillBook_Abydos_3"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        500,
+        1000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 매점",
+      "ScheduleGroupId": 12601,
+      "OrderInGroup": 2,
+      "Id": 126012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 3019364332,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3043,
+        4043
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_3",
+        "SkillBook_Abydos_3"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        667,
+        2000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 매점",
+      "ScheduleGroupId": 12601,
+      "OrderInGroup": 3,
+      "Id": 126013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 3019364332,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3043,
+        4043
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_3",
+        "SkillBook_Abydos_3"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        833,
+        3000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도스 매점",
+      "ScheduleGroupId": 12601,
+      "OrderInGroup": 4,
+      "Id": 126014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 3019364332,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3043,
+        4043
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_3",
+        "SkillBook_Abydos_3"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        4000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도즈 구교사",
+      "ScheduleGroupId": 12701,
+      "OrderInGroup": 1,
+      "Id": 127011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 2602511445,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 200,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3043,
+        4043
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_3",
+        "SkillBook_Abydos_3"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        500,
+        1000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도즈 구교사",
+      "ScheduleGroupId": 12701,
+      "OrderInGroup": 2,
+      "Id": 127012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 2602511445,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 300,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3043,
+        4043
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_3",
+        "SkillBook_Abydos_3"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        667,
+        2000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도즈 구교사",
+      "ScheduleGroupId": 12701,
+      "OrderInGroup": 3,
+      "Id": 127013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 2602511445,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3043,
+        4043
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_3",
+        "SkillBook_Abydos_3"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        833,
+        3000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ZoneDevName": "아비도즈 구교사",
+      "ScheduleGroupId": 12701,
+      "OrderInGroup": 4,
+      "Id": 127014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 2602511445,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 500,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3043,
+        4043
+      ],
+      "ExtraRewardParcelDevName": [
+        "ExSkill_Abydos_3",
+        "SkillBook_Abydos_3"
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        4000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardParcelDevName": [
+        "랭크 경험치"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    }
+  ]
+}

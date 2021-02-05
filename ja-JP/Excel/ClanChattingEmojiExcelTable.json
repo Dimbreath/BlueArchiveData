@@ -1,0 +1,64 @@
+{
+  "DataList": [
+    {
+      "Id": 1,
+      "DevName": "Emoji01",
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy01",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy01"
+    },
+    {
+      "Id": 2,
+      "DevName": "Emoji02",
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy02",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy02"
+    },
+    {
+      "Id": 3,
+      "DevName": "Emoji03",
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy03",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy03"
+    },
+    {
+      "Id": 4,
+      "DevName": "Emoji04",
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy04",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy04"
+    },
+    {
+      "Id": 5,
+      "DevName": "Emoji05",
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy01",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy01"
+    },
+    {
+      "Id": 6,
+      "DevName": "Emoji06",
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy02",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy02"
+    },
+    {
+      "Id": 7,
+      "DevName": "Emoji07",
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy03",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy03"
+    },
+    {
+      "Id": 8,
+      "DevName": "Emoji08",
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy04",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy04"
+    },
+    {
+      "Id": 9,
+      "DevName": "Emoji09",
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy01",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy01"
+    },
+    {
+      "Id": 10,
+      "DevName": "Emoji10",
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy02",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy02"
+    }
+  ]
+}

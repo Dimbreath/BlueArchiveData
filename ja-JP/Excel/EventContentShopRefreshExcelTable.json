@@ -1,0 +1,59 @@
+{
+  "DataList": [
+    {
+      "EventContentId": 10001,
+      "Id": 10001001,
+      "LocalizeEtcId": 337340670,
+      "IsLegacy": false,
+      "GoodsId": 200,
+      "DisplayOrder": 10,
+      "CategoryType": "EventContent_4",
+      "RefreshGroup": 1,
+      "Prob": 50
+    },
+    {
+      "EventContentId": 10001,
+      "Id": 10001002,
+      "LocalizeEtcId": 337340670,
+      "IsLegacy": false,
+      "GoodsId": 201,
+      "DisplayOrder": 20,
+      "CategoryType": "EventContent_4",
+      "RefreshGroup": 2,
+      "Prob": 50
+    },
+    {
+      "EventContentId": 10001,
+      "Id": 10001003,
+      "LocalizeEtcId": 337340670,
+      "IsLegacy": false,
+      "GoodsId": 202,
+      "DisplayOrder": 30,
+      "CategoryType": "EventContent_4",
+      "RefreshGroup": 3,
+      "Prob": 50
+    },
+    {
+      "EventContentId": 10001,
+      "Id": 10001004,
+      "LocalizeEtcId": 337340670,
+      "IsLegacy": false,
+      "GoodsId": 203,
+      "DisplayOrder": 40,
+      "CategoryType": "EventContent_4",
+      "RefreshGroup": 4,
+      "Prob": 50
+    },
+    {
+      "EventContentId": 10001,
+      "Id": 10001005,
+      "LocalizeEtcId": 337340670,
+      "IsLegacy": false,
+      "GoodsId": 204,
+      "DisplayOrder": 50,
+      "CategoryType": "EventContent_4",
+      "RefreshGroup": 3,
+      "Prob": 50
+    }
+  ]
+}

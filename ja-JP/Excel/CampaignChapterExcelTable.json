@@ -6,11 +6,32 @@
       "NormalImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_01_Normal",
       "HardImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_01_Hard",
       "Order": 1,
-      "PreChapterIdLength": 192,
+      "PreChapterId": [],
       "ChapterRewardId": 1,
       "ChapterHardRewardId": 2,
-      "NormalCampaignStageIdLength": 76,
-      "HardCampaignStageIdLength": 40
+      "NormalCampaignStageId": [
+        1011101,
+        1011201,
+        1011202,
+        1011301,
+        1011102,
+        1011203,
+        1011204,
+        1011302,
+        1011103,
+        1011205,
+        1011206,
+        1011303,
+        1011104,
+        1011207,
+        1011208,
+        1011105
+      ],
+      "HardCampaignStageId": [
+        1012101,
+        1012102,
+        1012103
+      ]
     },
     {
       "Id": 102,
@@ -18,11 +39,32 @@
       "NormalImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_02_Normal",
       "HardImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_02_Hard",
       "Order": 2,
-      "PreChapterIdLength": 192,
+      "PreChapterId": [
+        101
+      ],
       "ChapterRewardId": 3,
       "ChapterHardRewardId": 4,
-      "NormalCampaignStageIdLength": 76,
-      "HardCampaignStageIdLength": 40
+      "NormalCampaignStageId": [
+        1021101,
+        1021201,
+        1021202,
+        1021304,
+        1021102,
+        1021203,
+        1021204,
+        1021103,
+        1021205,
+        1021206,
+        1021104,
+        1021207,
+        1021208,
+        1021105
+      ],
+      "HardCampaignStageId": [
+        1022101,
+        1022102,
+        1022103
+      ]
     },
     {
       "Id": 103,
@@ -30,11 +72,33 @@
       "NormalImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_03_Normal",
       "HardImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_03_Hard",
       "Order": 3,
-      "PreChapterIdLength": 192,
+      "PreChapterId": [
+        102
+      ],
       "ChapterRewardId": 5,
       "ChapterHardRewardId": 6,
-      "NormalCampaignStageIdLength": 76,
-      "HardCampaignStageIdLength": 40
+      "NormalCampaignStageId": [
+        1031305,
+        1031101,
+        1031201,
+        1031202,
+        1031102,
+        1031203,
+        1031204,
+        1031103,
+        1031205,
+        1031206,
+        1031306,
+        1031104,
+        1031207,
+        1031208,
+        1031105
+      ],
+      "HardCampaignStageId": [
+        1032101,
+        1032102,
+        1032103
+      ]
     },
     {
       "Id": 104,
@@ -42,11 +106,287 @@
       "NormalImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_04_Normal",
       "HardImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_04_Hard",
       "Order": 4,
-      "PreChapterIdLength": 192,
+      "PreChapterId": [
+        103
+      ],
       "ChapterRewardId": 7,
       "ChapterHardRewardId": 8,
-      "NormalCampaignStageIdLength": 76,
-      "HardCampaignStageIdLength": 40
+      "NormalCampaignStageId": [
+        1041101,
+        1041201,
+        1041202,
+        1041102,
+        1041203,
+        1041204,
+        1041103,
+        1041205,
+        1041206,
+        1041104,
+        1041207,
+        1041208,
+        1041105
+      ],
+      "HardCampaignStageId": [
+        1042101,
+        1042102,
+        1042103
+      ]
+    },
+    {
+      "Id": 105,
+      "Name": "CHAPTER_05",
+      "NormalImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_05_Normal",
+      "HardImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_05_Hard",
+      "Order": 5,
+      "PreChapterId": [
+        104
+      ],
+      "ChapterRewardId": 9,
+      "ChapterHardRewardId": 10,
+      "NormalCampaignStageId": [
+        1051101,
+        1051201,
+        1051202,
+        1051102,
+        1051203,
+        1051204,
+        1051103,
+        1051205,
+        1051206,
+        1051104,
+        1051207,
+        1051208,
+        1051105
+      ],
+      "HardCampaignStageId": [
+        1052101,
+        1052102,
+        1052103
+      ]
+    },
+    {
+      "Id": 106,
+      "Name": "CHAPTER_06",
+      "NormalImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_06_Normal",
+      "HardImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_06_Hard",
+      "Order": 6,
+      "PreChapterId": [
+        105
+      ],
+      "ChapterRewardId": 11,
+      "ChapterHardRewardId": 12,
+      "NormalCampaignStageId": [
+        1061101,
+        1061201,
+        1061202,
+        1061102,
+        1061203,
+        1061204,
+        1061103,
+        1061205,
+        1061206,
+        1061104,
+        1061207,
+        1061208,
+        1061105
+      ],
+      "HardCampaignStageId": [
+        1062101,
+        1062102,
+        1062103
+      ]
+    },
+    {
+      "Id": 107,
+      "Name": "CHAPTER_07",
+      "NormalImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_07_Normal",
+      "HardImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_07_Hard",
+      "Order": 7,
+      "PreChapterId": [
+        106
+      ],
+      "ChapterRewardId": 13,
+      "ChapterHardRewardId": 14,
+      "NormalCampaignStageId": [
+        1071101,
+        1071201,
+        1071202,
+        1071102,
+        1071203,
+        1071204,
+        1071103,
+        1071205,
+        1071206,
+        1071104,
+        1071207,
+        1071208,
+        1071105
+      ],
+      "HardCampaignStageId": [
+        1072101,
+        1072102,
+        1072103
+      ]
+    },
+    {
+      "Id": 108,
+      "Name": "CHAPTER_08",
+      "NormalImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_08_Normal",
+      "HardImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_08_Hard",
+      "Order": 8,
+      "PreChapterId": [
+        107
+      ],
+      "ChapterRewardId": 15,
+      "ChapterHardRewardId": 16,
+      "NormalCampaignStageId": [
+        1081101,
+        1081201,
+        1081202,
+        1081102,
+        1081203,
+        1081204,
+        1081103,
+        1081205,
+        1081206,
+        1081104,
+        1081207,
+        1081208,
+        1081105
+      ],
+      "HardCampaignStageId": [
+        1082101,
+        1082102,
+        1082103
+      ]
+    },
+    {
+      "Id": 109,
+      "Name": "CHAPTER_09",
+      "NormalImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_09_Normal",
+      "HardImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_09_Hard",
+      "Order": 9,
+      "PreChapterId": [
+        108
+      ],
+      "ChapterRewardId": 17,
+      "ChapterHardRewardId": 18,
+      "NormalCampaignStageId": [
+        1091101,
+        1091201,
+        1091202,
+        1091102,
+        1091203,
+        1091204,
+        1091103,
+        1091205,
+        1091206,
+        1091104,
+        1091207,
+        1091208,
+        1091105
+      ],
+      "HardCampaignStageId": [
+        1092101,
+        1092102,
+        1092103
+      ]
+    },
+    {
+      "Id": 110,
+      "Name": "CHAPTER_10",
+      "NormalImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_10_Normal",
+      "HardImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_10_Hard",
+      "Order": 10,
+      "PreChapterId": [
+        109
+      ],
+      "ChapterRewardId": 19,
+      "ChapterHardRewardId": 20,
+      "NormalCampaignStageId": [
+        1101101,
+        1101201,
+        1101202,
+        1101102,
+        1101203,
+        1101204,
+        1101103,
+        1101205,
+        1101206,
+        1101104,
+        1101207,
+        1101208,
+        1101105
+      ],
+      "HardCampaignStageId": [
+        1102101,
+        1102102,
+        1102103
+      ]
+    },
+    {
+      "Id": 111,
+      "Name": "CHAPTER_11",
+      "NormalImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_11_Normal",
+      "HardImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_11_Hard",
+      "Order": 11,
+      "PreChapterId": [
+        110
+      ],
+      "ChapterRewardId": 21,
+      "ChapterHardRewardId": 22,
+      "NormalCampaignStageId": [
+        1111101,
+        1111201,
+        1111202,
+        1111102,
+        1111203,
+        1111204,
+        1111103,
+        1111205,
+        1111206,
+        1111104,
+        1111207,
+        1111208,
+        1111105
+      ],
+      "HardCampaignStageId": [
+        1112101,
+        1112102,
+        1112103
+      ]
+    },
+    {
+      "Id": 112,
+      "Name": "CHAPTER_12",
+      "NormalImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_12_Normal",
+      "HardImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_12_Hard",
+      "Order": 12,
+      "PreChapterId": [
+        111
+      ],
+      "ChapterRewardId": 23,
+      "ChapterHardRewardId": 24,
+      "NormalCampaignStageId": [
+        1121101,
+        1121201,
+        1121202,
+        1121102,
+        1121203,
+        1121204,
+        1121103,
+        1121205,
+        1121206,
+        1121104,
+        1121207,
+        1121208,
+        1121105
+      ],
+      "HardCampaignStageId": [
+        1122101,
+        1122102,
+        1122103
+      ]
     }
   ]
 }

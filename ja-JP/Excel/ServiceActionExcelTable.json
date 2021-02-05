@@ -1,0 +1,14 @@
+{
+  "DataList": [
+    {
+      "ServiceActionType": "ClanCreate",
+      "IsLegacy": false,
+      "GoodsId": 100000
+    },
+    {
+      "ServiceActionType": "HardAdventurePlayCountRecover",
+      "IsLegacy": false,
+      "GoodsId": 10
+    }
+  ]
+}

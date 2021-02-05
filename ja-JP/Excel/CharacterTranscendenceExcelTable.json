@@ -1,1057 +1,7370 @@
 {
   "DataList": [
     {
-      "CharacterId": 1011000,
-      "DevDevName": "Pina_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 264,
-      "MaxFavorLevelLength": 236,
-      "RecipeIdLength": 196,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1012000,
-      "DevDevName": "Tsubaki_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 272,
-      "MaxFavorLevelLength": 244,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1012001,
-      "DevDevName": "Chise_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 236,
-      "MaxFavorLevelLength": 208,
-      "RecipeIdLength": 164,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1013000,
-      "DevDevName": "Wakamo_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 276,
-      "MaxFavorLevelLength": 248,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 80,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1021001,
-      "DevDevName": "Tomoe_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 236,
-      "MaxFavorLevelLength": 208,
-      "RecipeIdLength": 164,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1021000,
-      "DevDevName": "Marina_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 236,
-      "MaxFavorLevelLength": 208,
-      "RecipeIdLength": 164,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1023000,
-      "DevDevName": "Cherino_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 276,
-      "MaxFavorLevelLength": 248,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1031000,
-      "DevDevName": "Suzumi_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 276,
-      "MaxFavorLevelLength": 248,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 80,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1032000,
-      "DevDevName": "Hasumi_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 276,
-      "MaxFavorLevelLength": 248,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 80,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1032001,
-      "DevDevName": "Koharu_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 276,
-      "MaxFavorLevelLength": 248,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 80,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1033000,
-      "DevDevName": "Hihumi_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 276,
-      "MaxFavorLevelLength": 248,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 80,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1033001,
-      "DevDevName": "Tsurugi_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 276,
-      "MaxFavorLevelLength": 248,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1033002,
-      "DevDevName": "Azusa_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 268,
-      "MaxFavorLevelLength": 240,
-      "RecipeIdLength": 196,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1041000,
-      "DevDevName": "Akari_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 268,
-      "MaxFavorLevelLength": 240,
-      "RecipeIdLength": 196,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1041001,
-      "DevDevName": "Erika_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 268,
-      "MaxFavorLevelLength": 240,
-      "RecipeIdLength": 196,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1041002,
-      "DevDevName": "Mutsuki_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 276,
-      "MaxFavorLevelLength": 248,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1041003,
-      "DevDevName": "Kayoko_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 276,
-      "MaxFavorLevelLength": 248,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 80,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1042000,
+      "CharacterId": 10000,
       "DevDevName": "Aru_default",
       "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 256,
-      "MaxFavorLevelLength": 228,
-      "RecipeIdLength": 188,
-      "SkillGroupIdLength": 76,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10000000,
+        10000001,
+        10000002,
+        10000003
+      ],
+      "SkillGroupIdA": [
+        "AruEx01",
+        "AruPassive01",
+        "AruExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "AruPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
       "RecipeDevName2": "2성",
       "RecipeDevName3": "3성",
       "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
     },
     {
-      "CharacterId": 1042001,
-      "DevDevName": "Haruka_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 276,
-      "MaxFavorLevelLength": 248,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 80,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1042002,
-      "DevDevName": "Izumi_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 268,
-      "MaxFavorLevelLength": 240,
-      "RecipeIdLength": 196,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1042003,
-      "DevDevName": "Haruna_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 276,
-      "MaxFavorLevelLength": 248,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 80,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1042004,
-      "DevDevName": "Zunko_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 268,
-      "MaxFavorLevelLength": 240,
-      "RecipeIdLength": 196,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1043000,
-      "DevDevName": "Hina_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 268,
-      "MaxFavorLevelLength": 240,
-      "RecipeIdLength": 196,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1051000,
-      "DevDevName": "Shiroko_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 276,
-      "MaxFavorLevelLength": 248,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1051001,
-      "DevDevName": "Serika_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 276,
-      "MaxFavorLevelLength": 248,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 80,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1051002,
-      "DevDevName": "Nonomi_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 276,
-      "MaxFavorLevelLength": 248,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 80,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1051003,
-      "DevDevName": "Hoshino_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 276,
-      "MaxFavorLevelLength": 248,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1061000,
-      "DevDevName": "Kotori_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 276,
-      "MaxFavorLevelLength": 248,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 80,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1061001,
-      "DevDevName": "Asuna_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 268,
-      "MaxFavorLevelLength": 240,
-      "RecipeIdLength": 196,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1061002,
-      "DevDevName": "Yuuka_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 268,
-      "MaxFavorLevelLength": 240,
-      "RecipeIdLength": 196,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1062000,
-      "DevDevName": "Akane_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 268,
-      "MaxFavorLevelLength": 240,
-      "RecipeIdLength": 196,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1062001,
+      "CharacterId": 10001,
       "DevDevName": "Eimi_default",
       "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 268,
-      "MaxFavorLevelLength": 240,
-      "RecipeIdLength": 196,
-      "SkillGroupIdLength": 76,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10001000,
+        10001001,
+        10001002,
+        10001003
+      ],
+      "SkillGroupIdA": [
+        "EimiEx01",
+        "EimiPassive01",
+        "EimiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "EimiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
       "RecipeDevName2": "2성",
       "RecipeDevName3": "3성",
       "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
     },
     {
-      "CharacterId": 1062002,
-      "DevDevName": "Neru_default",
+      "CharacterId": 10002,
+      "DevDevName": "Haruna_default",
       "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 268,
-      "MaxFavorLevelLength": 240,
-      "RecipeIdLength": 196,
-      "SkillGroupIdLength": 76,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10002000,
+        10002001,
+        10002002,
+        10002003
+      ],
+      "SkillGroupIdA": [
+        "HarunaEx01",
+        "HarunaPassive01",
+        "HarunaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "HarunaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
       "RecipeDevName2": "2성",
       "RecipeDevName3": "3성",
       "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
     },
     {
-      "CharacterId": 1062003,
-      "DevDevName": "Momoi_default",
+      "CharacterId": 10003,
+      "DevDevName": "Hihumi_default",
       "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 268,
-      "MaxFavorLevelLength": 240,
-      "RecipeIdLength": 196,
-      "SkillGroupIdLength": 76,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10003000,
+        10003001,
+        10003002,
+        10003003
+      ],
+      "SkillGroupIdA": [
+        "HihumiEx01",
+        "HihumiPassive01",
+        "HihumiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "HihumiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
       "RecipeDevName2": "2성",
       "RecipeDevName3": "3성",
       "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
     },
     {
-      "CharacterId": 1062004,
-      "DevDevName": "Midori_default",
+      "CharacterId": 10004,
+      "DevDevName": "Hina_default",
       "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 276,
-      "MaxFavorLevelLength": 248,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 80,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10004000,
+        10004001,
+        10004002,
+        10004003
+      ],
+      "SkillGroupIdA": [
+        "HinaEx01",
+        "HinaPassive01",
+        "HinaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "HinaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
       "RecipeDevName2": "2성",
       "RecipeDevName3": "3성",
       "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
     },
     {
-      "CharacterId": 1063000,
-      "DevDevName": "Aris_default",
+      "CharacterId": 10005,
+      "DevDevName": "Hoshino_default",
       "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 268,
-      "MaxFavorLevelLength": 240,
-      "RecipeIdLength": 196,
-      "SkillGroupIdLength": 76,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10005000,
+        10005001,
+        10005002,
+        10005003
+      ],
+      "SkillGroupIdA": [
+        "HoshinoEx01",
+        "HoshinoPassive01",
+        "HoshinoExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "HoshinoPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
       "RecipeDevName2": "2성",
       "RecipeDevName3": "3성",
       "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
     },
     {
-      "CharacterId": 1063001,
-      "DevDevName": "Sumire_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 236,
-      "MaxFavorLevelLength": 208,
-      "RecipeIdLength": 164,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1072000,
-      "DevDevName": "Atsuko_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 276,
-      "MaxFavorLevelLength": 248,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 80,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1081001,
-      "DevDevName": "Reizyo_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 236,
-      "MaxFavorLevelLength": 208,
-      "RecipeIdLength": 164,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1083000,
-      "DevDevName": "Shun_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 244,
-      "MaxFavorLevelLength": 216,
-      "RecipeIdLength": 172,
-      "SkillGroupIdLength": 80,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1091000,
-      "DevDevName": "Kirino_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 276,
-      "MaxFavorLevelLength": 248,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 80,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 2022000,
-      "DevDevName": "Nodoka_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 252,
-      "MaxFavorLevelLength": 224,
-      "RecipeIdLength": 180,
-      "SkillGroupIdLength": 80,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 2031000,
-      "DevDevName": "Hanako_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 276,
-      "MaxFavorLevelLength": 248,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 80,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 2031001,
-      "DevDevName": "Yoshimi_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 276,
-      "MaxFavorLevelLength": 248,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 2031002,
-      "DevDevName": "Shimiko_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 276,
-      "MaxFavorLevelLength": 248,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 2031003,
-      "DevDevName": "Serina_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 276,
-      "MaxFavorLevelLength": 248,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 80,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 2031004,
-      "DevDevName": "Airi_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 268,
-      "MaxFavorLevelLength": 240,
-      "RecipeIdLength": 196,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 2032000,
-      "DevDevName": "Hanae_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 268,
-      "MaxFavorLevelLength": 240,
-      "RecipeIdLength": 196,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 2032001,
-      "DevDevName": "Mari_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 268,
-      "MaxFavorLevelLength": 240,
-      "RecipeIdLength": 196,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 2032002,
-      "DevDevName": "Serina_Nurse",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 276,
-      "MaxFavorLevelLength": 248,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 80,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 2033000,
-      "DevDevName": "Mashiro_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 276,
-      "MaxFavorLevelLength": 248,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 2041000,
-      "DevDevName": "Chinatsu_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 280,
-      "MaxFavorLevelLength": 252,
-      "RecipeIdLength": 212,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 2041001,
-      "DevDevName": "Fuuka_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 268,
-      "MaxFavorLevelLength": 240,
-      "RecipeIdLength": 196,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 2042000,
-      "DevDevName": "Juri_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 268,
-      "MaxFavorLevelLength": 240,
-      "RecipeIdLength": 196,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 2042001,
-      "DevDevName": "Ako_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 232,
-      "MaxFavorLevelLength": 204,
-      "RecipeIdLength": 164,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 2061000,
-      "DevDevName": "Hare_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 268,
-      "MaxFavorLevelLength": 240,
-      "RecipeIdLength": 196,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 2061001,
-      "DevDevName": "Kotama_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 276,
-      "MaxFavorLevelLength": 248,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 80,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 2062000,
-      "DevDevName": "Karin_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 268,
-      "MaxFavorLevelLength": 240,
-      "RecipeIdLength": 196,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 2063000,
-      "DevDevName": "Hibiki_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 252,
-      "MaxFavorLevelLength": 224,
-      "RecipeIdLength": 180,
-      "SkillGroupIdLength": 80,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 2072000,
-      "DevDevName": "Hiyori_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 276,
-      "MaxFavorLevelLength": 248,
-      "RecipeIdLength": 204,
-      "SkillGroupIdLength": 80,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 2083000,
-      "DevDevName": "Saya_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 268,
-      "MaxFavorLevelLength": 240,
-      "RecipeIdLength": 196,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 2083001,
-      "DevDevName": "Saya_Casual",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 240,
-      "MaxFavorLevelLength": 212,
-      "RecipeIdLength": 172,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 3033000,
-      "DevDevName": "TSS_Tank01",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 240,
-      "MaxFavorLevelLength": 212,
-      "RecipeIdLength": 172,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 3033001,
-      "DevDevName": "TSS_Tank02",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 240,
-      "MaxFavorLevelLength": 212,
-      "RecipeIdLength": 172,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 3033002,
-      "DevDevName": "TSS_Tank03",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 240,
-      "MaxFavorLevelLength": 212,
-      "RecipeIdLength": 172,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 3033003,
-      "DevDevName": "TSS_Truck02",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 232,
-      "MaxFavorLevelLength": 204,
-      "RecipeIdLength": 164,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 3063000,
-      "DevDevName": "TSS_Helicopter01",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 248,
-      "MaxFavorLevelLength": 220,
-      "RecipeIdLength": 180,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 3063001,
-      "DevDevName": "TSS_Helicopter02",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 248,
-      "MaxFavorLevelLength": 220,
-      "RecipeIdLength": 180,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 3063002,
-      "DevDevName": "TSS_Helicopter03",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 248,
-      "MaxFavorLevelLength": 220,
-      "RecipeIdLength": 180,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 3043000,
-      "DevDevName": "TSS_Truck01",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 232,
-      "MaxFavorLevelLength": 204,
-      "RecipeIdLength": 164,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 3043001,
-      "DevDevName": "TSS_Truck03",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 232,
-      "MaxFavorLevelLength": 204,
-      "RecipeIdLength": 164,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 100001,
-      "DevDevName": "TestSuzumi_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 232,
-      "MaxFavorLevelLength": 204,
-      "RecipeIdLength": 164,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 100002,
-      "DevDevName": "TestMutsuki_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 232,
-      "MaxFavorLevelLength": 204,
-      "RecipeIdLength": 164,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 100003,
-      "DevDevName": "TestIzumi_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 232,
-      "MaxFavorLevelLength": 204,
-      "RecipeIdLength": 164,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 100004,
-      "DevDevName": "TestKayoko_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 232,
-      "MaxFavorLevelLength": 204,
-      "RecipeIdLength": 164,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 100005,
-      "DevDevName": "TestFuuka_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 232,
-      "MaxFavorLevelLength": 204,
-      "RecipeIdLength": 164,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 100006,
-      "DevDevName": "TestSaya_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 232,
-      "MaxFavorLevelLength": 204,
-      "RecipeIdLength": 164,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 100007,
-      "DevDevName": "Nonomi_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 236,
-      "MaxFavorLevelLength": 208,
-      "RecipeIdLength": 164,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1063002,
-      "DevDevName": "Maki_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 236,
-      "MaxFavorLevelLength": 208,
-      "RecipeIdLength": 164,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 2062001,
-      "DevDevName": "Utaha_default",
-      "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 236,
-      "MaxFavorLevelLength": 208,
-      "RecipeIdLength": 164,
-      "SkillGroupIdLength": 76,
-      "RecipeDevName2": "2성",
-      "RecipeDevName3": "3성",
-      "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
-    },
-    {
-      "CharacterId": 1043001,
+      "CharacterId": 10006,
       "DevDevName": "Iori_default",
       "RecipeDevName1": "1성",
-      "MaxlevelStarLength": 236,
-      "MaxFavorLevelLength": 208,
-      "RecipeIdLength": 164,
-      "SkillGroupIdLength": 76,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10006000,
+        10006001,
+        10006002,
+        10006003
+      ],
+      "SkillGroupIdA": [
+        "IoriEx01",
+        "IoriPassive01",
+        "IoriExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "IoriPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
       "RecipeDevName2": "2성",
       "RecipeDevName3": "3성",
       "RecipeDevName4": "4성",
-      "RecipeDevName5": "5성"
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 10007,
+      "DevDevName": "Maki_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10007000,
+        10007001,
+        10007002,
+        10007003
+      ],
+      "SkillGroupIdA": [
+        "MakiEx01",
+        "MakiPassive01",
+        "MakiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "MakiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 10008,
+      "DevDevName": "Neru_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10008000,
+        10008001,
+        10008002,
+        10008003
+      ],
+      "SkillGroupIdA": [
+        "NeruEx01",
+        "NeruPassive01",
+        "NeruExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "NeruPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 10009,
+      "DevDevName": "Izumi_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10009000,
+        10009001,
+        10009002,
+        10009003
+      ],
+      "SkillGroupIdA": [
+        "IzumiEx01",
+        "IzumiPassive01",
+        "IzumiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "IzumiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 10010,
+      "DevDevName": "Shiroko_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10010000,
+        10010001,
+        10010002,
+        10010003
+      ],
+      "SkillGroupIdA": [
+        "ShirokoEx01",
+        "ShirokoPassive01",
+        "ShirokoExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "ShirokoPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 10011,
+      "DevDevName": "Shun_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10011000,
+        10011001,
+        10011002,
+        10011003
+      ],
+      "SkillGroupIdA": [
+        "ShunEx01",
+        "ShunPassive01",
+        "ShunExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "ShunPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 10012,
+      "DevDevName": "Sumire_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10012000,
+        10012001,
+        10012002,
+        10012003
+      ],
+      "SkillGroupIdA": [
+        "SumireEx01",
+        "SumirePassive01",
+        "SumireExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "SumirePublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 10013,
+      "DevDevName": "Tsurugi_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10013000,
+        10013001,
+        10013002,
+        10013003
+      ],
+      "SkillGroupIdA": [
+        "TsurugiEx01",
+        "TsurugiPassive01",
+        "TsurugiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "TsurugiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 13000,
+      "DevDevName": "Akane_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        13000000,
+        13000001,
+        13000002,
+        13000003
+      ],
+      "SkillGroupIdA": [
+        "AkaneEx01",
+        "AkanePassive01",
+        "AkaneExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "AkanePublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 13001,
+      "DevDevName": "Chise_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        13001000,
+        13001001,
+        13001002,
+        13001003
+      ],
+      "SkillGroupIdA": [
+        "ChiseEx01",
+        "ChisePassive01",
+        "ChiseExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "ChisePublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 13002,
+      "DevDevName": "Akari_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        13002000,
+        13002001,
+        13002002,
+        13002003
+      ],
+      "SkillGroupIdA": [
+        "AkariEx01",
+        "AkariPassive01",
+        "AkariExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "AkariPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 13003,
+      "DevDevName": "Hasumi_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        13003000,
+        13003001,
+        13003002,
+        13003003
+      ],
+      "SkillGroupIdA": [
+        "HasumiEx01",
+        "HasumiPassive01",
+        "HasumiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "HasumiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 13004,
+      "DevDevName": "Nonomi_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        13004000,
+        13004001,
+        13004002,
+        13004003
+      ],
+      "SkillGroupIdA": [
+        "NonomiEx01",
+        "NonomiPassive01",
+        "NonomiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "NonomiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 13005,
+      "DevDevName": "Kayoko_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        13005000,
+        13005001,
+        13005002,
+        13005003
+      ],
+      "SkillGroupIdA": [
+        "KayokoEx01",
+        "KayokoPassive01",
+        "KayokoExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "KayokoPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 13006,
+      "DevDevName": "Mutsuki_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        13006000,
+        13006001,
+        13006002,
+        13006003
+      ],
+      "SkillGroupIdA": [
+        "MutsukiEx01",
+        "MutsukiPassive01",
+        "MutsukiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "MutsukiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 13007,
+      "DevDevName": "Zunko_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        13007000,
+        13007001,
+        13007002,
+        13007003
+      ],
+      "SkillGroupIdA": [
+        "ZunkoEx01",
+        "ZunkoPassive01",
+        "ZunkoExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "ZunkoPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 13008,
+      "DevDevName": "Serika_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        13008000,
+        13008001,
+        13008002,
+        13008003
+      ],
+      "SkillGroupIdA": [
+        "SerikaEx01",
+        "SerikaPassive01",
+        "SerikaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "SerikaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 13009,
+      "DevDevName": "Tsubaki_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        13009000,
+        13009001,
+        13009002,
+        13009003
+      ],
+      "SkillGroupIdA": [
+        "TsubakiEx01",
+        "TsubakiPassive01",
+        "TsubakiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "TsubakiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 13010,
+      "DevDevName": "Yuuka_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        13010000,
+        13010001,
+        13010002,
+        13010003
+      ],
+      "SkillGroupIdA": [
+        "YuukaEx01",
+        "YuukaPassive01",
+        "YuukaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "YuukaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 16000,
+      "DevDevName": "Haruka_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        16000000,
+        16000001,
+        16000002,
+        16000003
+      ],
+      "SkillGroupIdA": [
+        "HarukaEx01",
+        "HarukaPassive01",
+        "HarukaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "HarukaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 16001,
+      "DevDevName": "Asuna_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        16001000,
+        16001001,
+        16001002,
+        16001003
+      ],
+      "SkillGroupIdA": [
+        "AsunaEx01",
+        "AsunaPassive01",
+        "AsunaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "AsunaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 16002,
+      "DevDevName": "Kotori_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        16002000,
+        16002001,
+        16002002,
+        16002003
+      ],
+      "SkillGroupIdA": [
+        "KotoriEx01",
+        "KotoriPassive01",
+        "KotoriExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "KotoriPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 16003,
+      "DevDevName": "Suzumi_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        16003000,
+        16003001,
+        16003002,
+        16003003
+      ],
+      "SkillGroupIdA": [
+        "SuzumiEx01",
+        "SuzumiPassive01",
+        "SuzumiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "SuzumiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 16004,
+      "DevDevName": "Pina_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        16004000,
+        16004001,
+        16004002,
+        16004003
+      ],
+      "SkillGroupIdA": [
+        "PinaEx01",
+        "PinaPassive01",
+        "PinaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "PinaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 19000,
+      "DevDevName": "Aris_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "ArisEx01",
+        "ArisPassive01",
+        "ArisExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "ArisPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 19001,
+      "DevDevName": "Atsuko_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "AtsukoEx01",
+        "AtsukoPassive01",
+        "AtsukoExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "AtsukoPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 19002,
+      "DevDevName": "Azusa_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "AzusaEx01",
+        "AzusaPassive01",
+        "AzusaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "AzusaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 19003,
+      "DevDevName": "Cherino_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "CherinoEx01",
+        "CherinoPassive01",
+        "CherinoExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "CherinoPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 19004,
+      "DevDevName": "Erika_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "ErikaEx01",
+        "ErikaPassive01",
+        "ErikaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "ErikaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 19005,
+      "DevDevName": "Kirino_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "KirinoEx01",
+        "KirinoPassive01",
+        "KirinoExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "KirinoPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 19006,
+      "DevDevName": "Koharu_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "KoharuEx01",
+        "KoharuPassive01",
+        "KoharuExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "KoharuPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 19007,
+      "DevDevName": "Marina_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 19008,
+      "DevDevName": "Midori_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "MidoriEx01",
+        "MidoriPassive01",
+        "MidoriExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "MidoriPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 19009,
+      "DevDevName": "Momoi_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "MomoiEx01",
+        "MomoiPassive01",
+        "MomoiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "MomoiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 19010,
+      "DevDevName": "Reizyo_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 19011,
+      "DevDevName": "Tomoe_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 19012,
+      "DevDevName": "Wakamo_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "WakamoEx01",
+        "WakamoPassive01",
+        "WakamoExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "WakamoPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 19013,
+      "DevDevName": "Yuzu_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "YuzuEx01",
+        "YuzuPassive01",
+        "YuzuExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "YuzuPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 19014,
+      "DevDevName": "Miyako_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 19015,
+      "DevDevName": "Momiji_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 19016,
+      "DevDevName": "Shiroko_RidingSuit",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "ShirokoRidingSuitEx01",
+        "ShirokoRidingSuitPassive01",
+        "ShirokoRidingSuitExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "ShirokoRidingSuitPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 19017,
+      "DevDevName": "Mimori_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "MimoriEx01",
+        "MimoriPassive01",
+        "MimoriExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "MimoriPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 19018,
+      "DevDevName": "Izuna_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "IzunaEx01",
+        "IzunaPassive01",
+        "IzunaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "IzunaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 19019,
+      "DevDevName": "Asusa_Swimsuit",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 20000,
+      "DevDevName": "Hibiki_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        20000000,
+        20000001,
+        20000002,
+        20000003
+      ],
+      "SkillGroupIdA": [
+        "HibikiEx01",
+        "HibikiPassive01",
+        "HibikiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "HibikiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 20001,
+      "DevDevName": "Karin_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        20001000,
+        20001001,
+        20001002,
+        20001003
+      ],
+      "SkillGroupIdA": [
+        "KarinEx01",
+        "KarinPassive01",
+        "KarinExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "KarinPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 20002,
+      "DevDevName": "Saya_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        20002000,
+        20002001,
+        20002002,
+        20002003
+      ],
+      "SkillGroupIdA": [
+        "SayaEx01",
+        "SayaPassive01",
+        "SayaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "SayaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 20003,
+      "DevDevName": "Mashiro_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        20003000,
+        20003001,
+        20003002,
+        20003003
+      ],
+      "SkillGroupIdA": [
+        "MashiroEx01",
+        "MashiroPassive01",
+        "MashiroExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "MashiroPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 23000,
+      "DevDevName": "Airi_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        23000000,
+        23000001,
+        23000002,
+        23000003
+      ],
+      "SkillGroupIdA": [
+        "AiriEx01",
+        "AiriPassive01",
+        "AiriExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "AiriPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 23001,
+      "DevDevName": "Fuuka_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        23001000,
+        23001001,
+        23001002,
+        23001003
+      ],
+      "SkillGroupIdA": [
+        "FuukaEx01",
+        "FuukaPassive01",
+        "FuukaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "FuukaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 23002,
+      "DevDevName": "Hanae_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        23002000,
+        23002001,
+        23002002,
+        23002003
+      ],
+      "SkillGroupIdA": [
+        "HanaeEx01",
+        "HanaePassive01",
+        "HanaeExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "HanaePublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 23003,
+      "DevDevName": "Hare_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        23003000,
+        23003001,
+        23003002,
+        23003003
+      ],
+      "SkillGroupIdA": [
+        "HareEx01",
+        "HarePassive01",
+        "HareExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "HarePublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 23004,
+      "DevDevName": "Utaha_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        23004000,
+        23004001,
+        23004002,
+        23004003
+      ],
+      "SkillGroupIdA": [
+        "UtahaEx01",
+        "UtahaPassive01",
+        "UtahaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "UtahaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 23005,
+      "DevDevName": "Ayane_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        23005000,
+        23005001,
+        23005002,
+        23005003
+      ],
+      "SkillGroupIdA": [
+        "AyaneEx01",
+        "AyanePassive01",
+        "AyaneExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "AyanePublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 26000,
+      "DevDevName": "Chinatsu_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        26000000,
+        26000001,
+        26000002,
+        26000003
+      ],
+      "SkillGroupIdA": [
+        "ChinatsuEx01",
+        "ChinatsuPassive01",
+        "ChinatsuExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "ChinatsuPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 26001,
+      "DevDevName": "Kotama_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        26001000,
+        26001001,
+        26001002,
+        26001003
+      ],
+      "SkillGroupIdA": [
+        "KotamaEx01",
+        "KotamaPassive01",
+        "KotamaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "KotamaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 26002,
+      "DevDevName": "Juri_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        26002000,
+        26002001,
+        26002002,
+        26002003
+      ],
+      "SkillGroupIdA": [
+        "JuriEx01",
+        "JuriPassive01",
+        "JuriExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "JuriPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 26003,
+      "DevDevName": "Serina_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        26003000,
+        26003001,
+        26003002,
+        26003003
+      ],
+      "SkillGroupIdA": [
+        "SerinaEx01",
+        "SerinaPassive01",
+        "SerinaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "SerinaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 26004,
+      "DevDevName": "Shimiko_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        26004000,
+        26004001,
+        26004002,
+        26004003
+      ],
+      "SkillGroupIdA": [
+        "ShimikoEx01",
+        "ShimikoPassive01",
+        "ShimikoExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "ShimikoPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 26005,
+      "DevDevName": "Yoshimi_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        26005000,
+        26005001,
+        26005002,
+        26005003
+      ],
+      "SkillGroupIdA": [
+        "YoshimiEx01",
+        "YoshimiPassive01",
+        "YoshimiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "YoshimiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 29000,
+      "DevDevName": "Shizuko_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 29001,
+      "DevDevName": "Hanako_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "HanakoEx01",
+        "HanakoPassive01",
+        "HanakoExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "HanakoPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 29002,
+      "DevDevName": "Hiyori_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "HiyoriEx01",
+        "HiyoriPassive01",
+        "HiyoriExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "HiyoriPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 29003,
+      "DevDevName": "Mari_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "MariEx01",
+        "MariPassive01",
+        "MariExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "MariPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 29005,
+      "DevDevName": "Nodoka_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "NodokaEx01",
+        "NodokaPassive01",
+        "NodokaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "NodokaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 29006,
+      "DevDevName": "Saya_Casual",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "SayaCasualEx01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 29007,
+      "DevDevName": "Serina_Nurse",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "HihumiGUPEx01",
+        "SerinaNursePassive01",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "SerinaNursePublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 29009,
+      "DevDevName": "Nao_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "NaoEx01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 39000,
+      "DevDevName": "TSS_Tank01_CrusaderChan",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "Tank01ExSkill01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 39001,
+      "DevDevName": "TSS_Tank02_Inquisitor",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "Tank02ExSkill01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 39002,
+      "DevDevName": "TSS_Tank03_Francesca",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "Tank03ExSkill01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 39003,
+      "DevDevName": "TSS_Truck02",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 39004,
+      "DevDevName": "TSS_Truck01",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 39005,
+      "DevDevName": "TSS_Truck03",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 39006,
+      "DevDevName": "TSS_Helicopter01",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "Helicopter01ExSkill01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 39007,
+      "DevDevName": "TSS_Helicopter02",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "Helicopter02ExSkill01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 39008,
+      "DevDevName": "TSS_Helicopter03",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "Helicopter03ExSkill01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 7050002,
+      "DevDevName": "Aru_default_E",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "AruEx01",
+        "AruPassive01",
+        "AruExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "AruPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050003,
+      "DevDevName": "Aru_default_C",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "AruEx01",
+        "AruPassive01",
+        "AruExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "AruPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050012,
+      "DevDevName": "Eimi_default_E",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "EimiEx01",
+        "EimiPassive01",
+        "EimiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "EimiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050022,
+      "DevDevName": "Haruna_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "HarunaEx01",
+        "HarunaPassive01",
+        "HarunaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "HarunaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 7050032,
+      "DevDevName": "Hihumi_default_E",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "HihumiEx01",
+        "HihumiPassive01",
+        "HihumiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "HihumiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050052,
+      "DevDevName": "Hoshino_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "HoshinoEx01",
+        "HoshinoPassive01",
+        "HoshinoExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "HoshinoPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 7050063,
+      "DevDevName": "Iori_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "IoriEx01",
+        "IoriPassive01",
+        "IoriExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "IoriPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050072,
+      "DevDevName": "Maki_default_E",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "MakiEx01",
+        "MakiPassive01",
+        "MakiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "MakiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050092,
+      "DevDevName": "Nonomi_default_E",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "NonomiEx01",
+        "NonomiPassive01",
+        "NonomiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "NonomiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050102,
+      "DevDevName": "Shiroko_default",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "ShirokoEx01",
+        "ShirokoPassive01",
+        "ShirokoExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "ShirokoPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 7050112,
+      "DevDevName": "Shun_default_E",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "ShunEx01",
+        "ShunPassive01",
+        "ShunExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "ShunPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050142,
+      "DevDevName": "Akane_default_E",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "AkaneEx01",
+        "AkanePassive01",
+        "AkaneExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "AkanePublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050143,
+      "DevDevName": "Akane_default_C",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "AkaneEx01",
+        "AkanePassive01",
+        "AkaneExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "AkanePublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050152,
+      "DevDevName": "Chise_default_E",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "ChiseEx01",
+        "ChisePassive01",
+        "ChiseExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "ChisePublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050162,
+      "DevDevName": "Haruka_default_E",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "HarukaEx01",
+        "HarukaPassive01",
+        "HarukaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "HarukaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050163,
+      "DevDevName": "Haruka_default_C",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "HarukaEx01",
+        "HarukaPassive01",
+        "HarukaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "HarukaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050172,
+      "DevDevName": "Hasumi_default_E",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "HasumiEx01",
+        "HasumiPassive01",
+        "HasumiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "HasumiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050182,
+      "DevDevName": "Izumi_default_E",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "IzumiEx01",
+        "IzumiPassive01",
+        "IzumiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "IzumiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050183,
+      "DevDevName": "Izumi_default_C",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "IzumiEx01",
+        "IzumiPassive01",
+        "IzumiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "IzumiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050202,
+      "DevDevName": "Mutsuki_default_E",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "MutsukiEx01",
+        "MutsukiPassive01",
+        "MutsukiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "MutsukiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050203,
+      "DevDevName": "Mutsuki_default_C",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "MutsukiEx01",
+        "MutsukiPassive01",
+        "MutsukiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "MutsukiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050212,
+      "DevDevName": "Pina_default_E",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "PinaEx01",
+        "PinaPassive01",
+        "PinaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "PinaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050213,
+      "DevDevName": "Pina_default_C",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "PinaEx01",
+        "PinaPassive01",
+        "PinaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "PinaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050222,
+      "DevDevName": "Serika_default_E",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "SerikaEx01",
+        "SerikaPassive01",
+        "SerikaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "SerikaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050232,
+      "DevDevName": "Tsubaki_default_E",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "TsubakiEx01",
+        "TsubakiPassive01",
+        "TsubakiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "TsubakiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050242,
+      "DevDevName": "Yuuka_default_E",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "YuukaEx01",
+        "YuukaPassive01",
+        "YuukaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "YuukaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050252,
+      "DevDevName": "Zunko_default_C",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "ZunkoEx01",
+        "ZunkoPassive01",
+        "ZunkoExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "ZunkoPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050253,
+      "DevDevName": "Zunko_default_C",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "ZunkoEx01",
+        "ZunkoPassive01",
+        "ZunkoExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "ZunkoPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050262,
+      "DevDevName": "Akari_default_E",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "AkariEx01",
+        "AkariPassive01",
+        "AkariExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "AkariPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050263,
+      "DevDevName": "Akari_default_C",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "AkariEx01",
+        "AkariPassive01",
+        "AkariExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "AkariPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050272,
+      "DevDevName": "Asuna_default_E",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "AsunaEx01",
+        "AsunaPassive01",
+        "AsunaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "AsunaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050282,
+      "DevDevName": "Kotori_default_E",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "KotoriEx01",
+        "KotoriPassive01",
+        "KotoriExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "KotoriPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050283,
+      "DevDevName": "Kotori_default_C",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "KotoriEx01",
+        "KotoriPassive01",
+        "KotoriExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "KotoriPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050292,
+      "DevDevName": "Suzumi_default_E",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "SuzumiEx01",
+        "SuzumiPassive01",
+        "SuzumiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "SuzumiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7050423,
+      "DevDevName": "Wakamo_default_C",
+      "RecipeDevName1": "1성",
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHP": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "StatBonusRateHeal": [
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051,
+        1240933026135980051
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "WakamoEx01",
+        "WakamoPassive01",
+        "WakamoExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "WakamoPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "RecipeDevName2": "2성",
+      "RecipeDevName3": "3성",
+      "RecipeDevName4": "4성",
+      "RecipeDevName5": "5성",
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
     }
   ]
 }

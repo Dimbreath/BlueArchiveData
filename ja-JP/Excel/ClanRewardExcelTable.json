@@ -1,0 +1,25 @@
+{
+  "DataList": [
+    {
+      "ClanRewardType": "Attendance",
+      "EchelonType": "None",
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 5,
+      "RewardParcelAmount": 10
+    },
+    {
+      "ClanRewardType": "AssistTerm",
+      "EchelonType": "Raid",
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 5000
+    },
+    {
+      "ClanRewardType": "AssistRent",
+      "EchelonType": "Raid",
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 1,
+      "RewardParcelAmount": 5000
+    }
+  ]
+}

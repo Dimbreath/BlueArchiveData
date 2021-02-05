@@ -1,0 +1,22 @@
+{
+  "DataList": [
+    {
+      "SlotId": 0,
+      "EchelonType": "Raid",
+      "SlotNumber": 0,
+      "AssistCharacterMinLevel": 10,
+      "AssistTermRewardPeriodFromSec": 60,
+      "AssistTermRewardMaxTimeFromSec": 86400,
+      "AssistRentRewardMaxCount": 30
+    },
+    {
+      "SlotId": 1,
+      "EchelonType": "Raid",
+      "SlotNumber": 1,
+      "AssistCharacterMinLevel": 10,
+      "AssistTermRewardPeriodFromSec": 60,
+      "AssistTermRewardMaxTimeFromSec": 86400,
+      "AssistRentRewardMaxCount": 30
+    }
+  ]
+}

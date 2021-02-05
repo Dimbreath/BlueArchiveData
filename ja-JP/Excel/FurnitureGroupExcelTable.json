@@ -3,14 +3,53 @@
     {
       "Id": 100,
       "GroupNameLocalize": 2633292506,
-      "RequiredFurnitureCount": 7,
-      "ComfortBonus": 1750
+      "LocalizeEtcId": 790433508,
+      "RequiredFurnitureCount": [
+        2,
+        3,
+        5,
+        7
+      ],
+      "ComfortBonus": [
+        100,
+        200,
+        450,
+        750
+      ]
     },
     {
       "Id": 101,
       "GroupNameLocalize": 2130797913,
-      "RequiredFurnitureCount": 7,
-      "ComfortBonus": 1750
+      "LocalizeEtcId": 2584696533,
+      "RequiredFurnitureCount": [
+        2,
+        3,
+        5,
+        7
+      ],
+      "ComfortBonus": [
+        100,
+        200,
+        450,
+        750
+      ]
+    },
+    {
+      "Id": 102,
+      "GroupNameLocalize": 2700178132,
+      "LocalizeEtcId": 2126031688,
+      "RequiredFurnitureCount": [
+        2,
+        3,
+        5,
+        7
+      ],
+      "ComfortBonus": [
+        100,
+        200,
+        450,
+        750
+      ]
     }
   ]
 }

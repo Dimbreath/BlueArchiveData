@@ -2,1574 +2,5217 @@
   "DataList": [
     {
       "Name": 3772885464,
-      "BGFileName": "BG_CS_Arona2_01",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Arona2_01",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1013039750,
-      "BGFileName": "BG_CS_Arona2_02",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Arona2_02",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1272265278,
-      "BGFileName": "BG_CS_Arona2_03",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Arona2_03",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 160003536,
-      "BGFileName": "BG_CS_Arona2_04",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Arona2_04",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3503274573,
-      "BGFileName": "BG_CS_Arona",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Arona",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2247256498,
-      "BGFileName": "BG_AronaRoom",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_AronaRoom",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2077454658,
-      "BGFileName": "BG_AronaRoom_In",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_AronaRoom_In",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 307607272,
-      "BGFileName": "BG_CS_Arona_01",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Arona_01",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3669424665,
-      "BGFileName": "BG_CS_Arona_02",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Arona_02",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 275835768,
-      "BGFileName": "BG_CS_Arona_03",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Arona_03",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1815410411,
-      "BGFileName": "BG_CS_Arona_04",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Arona_04",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2255260299,
-      "BGFileName": "BG_CS_Arona_05",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Arona_05",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3805615074,
-      "BGFileName": "BG_CS_Arona3_01",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Arona3_01",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1047754314,
-      "BGFileName": "BG_Black",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Black",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1618548366,
-      "BGFileName": "BG_White",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_White",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 96874894,
-      "BGFileName": "BG_BlackMarket",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_BlackMarket",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 264025795,
-      "BGFileName": "BG_BlackMarket_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_BlackMarket_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 414301213,
-      "BGFileName": "BG_CityOffice",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CityOffice",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3358337632,
-      "BGFileName": "BG_CityOffice_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CityOffice_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2698047655,
-      "BGFileName": "BG_CityTown",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CityTown",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3591358043,
-      "BGFileName": "BG_ClassCorridor",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_ClassCorridor",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2314455887,
-      "BGFileName": "BG_ClassCorridor_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_ClassCorridor_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1738686580,
-      "BGFileName": "BG_ClassRoom",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_ClassRoom",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 4185490626,
-      "BGFileName": "BG_ClassRoom_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_ClassRoom_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 719512360,
-      "BGFileName": "BG_CommitteeRoom",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CommitteeRoom",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1965262387,
-      "BGFileName": "BG_CommitteeRoom_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CommitteeRoom_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2283745356,
-      "BGFileName": "BG_CommitteeRoom_Night2",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CommitteeRoom_Night2",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1267045657,
-      "BGFileName": "BG_CommitteeRoom_Night_Blur",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CommitteeRoom_Night_Blur",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1018118408,
-      "BGFileName": "BG_CS_Abydos_01",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Abydos_01",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1888667006,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Abydos_01_Letter",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3485967124,
-      "BGFileName": "BG_CS_Abydos_03",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Abydos_03",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3378941733,
-      "BGFileName": "BG_CS_Abydos_04",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Abydos_04",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 825948289,
-      "BGFileName": "BG_CS_Gehenna_01",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Gehenna_01",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 4158109606,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Gehenna_01_Letter",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 4199749113,
-      "BGFileName": "BG_CS_Gehenna_02",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Gehenna_02",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1067573841,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Gehenna_02_Letter",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2678137801,
-      "BGFileName": "BG_CS_Gehenna_03",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Gehenna_03",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2836508611,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Gehenna_03_Letter",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2914927738,
-      "BGFileName": "BG_CS_Abydos_02",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Abydos_02",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 354036331,
-      "BGFileName": "BG_CS_Trinity_01",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Trinity_01",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 4108017941,
-      "BGFileName": "BG_DesertCamp",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_DesertCamp",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3400777197,
-      "BGFileName": "BG_DesertCamp_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_DesertCamp_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1275642183,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_DesertCamp2",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2045397982,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_DesertCamp2_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3566524307,
-      "BGFileName": "BG_DesertResidence",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_DesertResidence",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 4138684387,
-      "BGFileName": "BG_DesertResidence_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_DesertResidence_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 4234339757,
-      "BGFileName": "BG_Infirmary",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Infirmary",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3341362713,
-      "BGFileName": "BG_Infirmary_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Infirmary_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2125192292,
-      "BGFileName": "BG_View_Kivotos",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_View_Kivotos",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 627114993,
-      "BGFileName": "BG_View_Kivotos2",
-      "BGType": "Image"
-    },
-    {
-      "Name": 1861817904,
-      "BGFileName": "BG_View_Kivotos3",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_View_Kivotos2",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2497355149,
-      "BGFileName": "BG_KohshinjoRoom",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_KohshinjoRoom",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1046815759,
-      "BGFileName": "BG_MainOffice",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_MainOffice",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3289055107,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_MainOffice_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 121502028,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_MainOffice_Night2",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 106177673,
-      "BGFileName": "BG_Market",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Market",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1128701966,
-      "BGFileName": "BG_Market_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Market_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2372474958,
-      "BGFileName": "BG_MilleniumCenter",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_MilleniumCenter",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 4024467885,
-      "BGFileName": "BG_MilleniumCenter_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_MilleniumCenter_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 798559502,
-      "BGFileName": "BG_MilleniumCenter_Night2",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_MilleniumCenter_Night2",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1182291250,
-      "BGFileName": "BG_Park",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Park",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 527011333,
-      "BGFileName": "BG_Park_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Park_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 410001699,
-      "BGFileName": "BG_Playground",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Playground",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3348737871,
-      "BGFileName": "BG_Playground_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Playground_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2105998632,
-      "BGFileName": "BG_CS_PR_00",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_PR_00",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3872724928,
-      "BGFileName": "BG_CS_PR_01",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_PR_01",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 836374489,
-      "BGFileName": "BG_CS_PR_02",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_PR_02",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2513838680,
-      "BGFileName": "BG_CS_PR_03",
-      "BGType": "Image"
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_PR_03",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 950972386,
-      "BGFileName": "BG_CS_PR_04",
-      "BGType": "Image"
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_PR_04",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2442468998,
-      "BGFileName": "BG_CS_PR_05",
-      "BGType": "Image"
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_PR_05",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3557260840,
-      "BGFileName": "BG_CS_PR_06",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_PR_06",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1260625259,
-      "BGFileName": "BG_CS_RAID_01",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_RAID_01",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1900589940,
-      "BGFileName": "BG_CS_RAID_02",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_RAID_02",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2704919017,
-      "BGFileName": "BG_CS_RAID_03",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_RAID_03",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2833158623,
-      "BGFileName": "BG_RamenYa",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_RamenYa",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1011628296,
-      "BGFileName": "BG_Residence",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Residence",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1595568274,
-      "BGFileName": "BG_Residence_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Residence_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3614742901,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Residence_Night2",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3072611628,
-      "BGFileName": "BG_RuinCity",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_RuinCity",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3051145554,
-      "BGFileName": "BG_RuinInside",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_RuinInside",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2593670835,
-      "BGFileName": "BG_SchoolFrontGate",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_SchoolFrontGate",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3640038711,
-      "BGFileName": "BG_SchoolFrontGate_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_SchoolFrontGate_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1193462697,
-      "BGFileName": "BG_SchoolGround",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_SchoolGround",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3804873707,
-      "BGFileName": "BG_SchoolGround_Sunset",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_SchoolGround_Sunset",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1189606028,
-      "BGFileName": "BG_ShoppingMall",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_ShoppingMall",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3449369851,
-      "BGFileName": "BG_StudentRoom",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_StudentRoom",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 4183392339,
-      "BGFileName": "BG_StudentRoom_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_StudentRoom_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1134977829,
-      "BGFileName": "BG_StudentRoom_Night2",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_StudentRoom_Night2",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1704336375,
-      "BGFileName": "BG_View_TrinityFrontGate",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_View_TrinityFrontGate",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 703884473,
-      "BGFileName": "BG_View_TrinityFrontGate_Night",
-      "BGType": "Image"
-    },
-    {
-      "Name": 3410704501,
-      "BGFileName": "BG_ToBeContinued",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_View_TrinityFrontGate_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2792121820,
-      "BGFileName": "BG_UpperOffice",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_UpperOffice",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3575626518,
-      "BGFileName": "BG_UpperOffice_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_UpperOffice_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1996246696,
-      "BGFileName": "BG_Yatai",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Yatai",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 4090035299,
-      "BGFileName": "BG_Yatai_Night",
-      "BGType": "Image"
-    },
-    {
-      "Name": 1171955686,
-      "BGFileName": "BG_Temp_Maki",
-      "BGType": "Image"
-    },
-    {
-      "Name": 910899833,
-      "BGFileName": "BG_Temp_Akane",
-      "BGType": "Image"
-    },
-    {
-      "Name": 1602658210,
-      "BGFileName": "BG_Temp_Mashiro",
-      "BGType": "Image"
-    },
-    {
-      "Name": 1265736755,
-      "BGFileName": "BG_Temp_Shun",
-      "BGType": "Image"
-    },
-    {
-      "Name": 2995188030,
-      "BGFileName": "BG_Temp_Eimi",
-      "BGType": "Image"
-    },
-    {
-      "Name": 3582660535,
-      "BGFileName": "BG_Temp_Miyako",
-      "BGType": "Image"
-    },
-    {
-      "Name": 3342112041,
-      "BGFileName": "BG_Temp_Saya",
-      "BGType": "Image"
-    },
-    {
-      "Name": 689715437,
-      "BGFileName": "BG_Temp_Hibiki",
-      "BGType": "Image"
-    },
-    {
-      "Name": 3457335702,
-      "BGFileName": "BG_Temp_Iori",
-      "BGType": "Image"
-    },
-    {
-      "Name": 3536702230,
-      "BGFileName": "BG_Temp_Karin",
-      "BGType": "Image"
-    },
-    {
-      "Name": 3130037292,
-      "BGFileName": "BG_Temp_Nodoka",
-      "BGType": "Image"
-    },
-    {
-      "Name": 757528943,
-      "BGFileName": "BG_Temp_Kayoko",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Yatai_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2460344605,
-      "BGFileName": "BG_View_Schale",
-      "BGType": "Image"
-    },
-    {
-      "Name": 994355149,
-      "BGFileName": "ScenarioBgSample",
-      "BGType": "Spine",
-      "AnimationName": "Start_Idle",
-      "SpineScale": 90.0,
-      "SpineLocalPosY": -800
-    },
-    {
-      "Name": 2864968403,
-      "BGFileName": "ScenarioBgSample",
-      "BGType": "Spine",
-      "AnimationName": "Idle_01",
-      "SpineScale": 90.0,
-      "SpineLocalPosY": -800
-    },
-    {
-      "Name": 894873885,
-      "BGFileName": "ScenarioBgSample",
-      "BGType": "Spine",
-      "AnimationName": "Talk_01",
-      "SpineScale": 90.0,
-      "SpineLocalPosY": -800
-    },
-    {
-      "Name": 2971734379,
-      "BGFileName": "ScenarioBgSample",
-      "BGType": "Spine",
-      "AnimationName": "Touch_01",
-      "SpineScale": 90.0,
-      "SpineLocalPosY": -800
-    },
-    {
-      "Name": 2929430822,
-      "BGFileName": "ScenarioBgSample1",
-      "BGType": "Spine",
-      "AnimationName": "Start_Idle",
-      "SpineScale": 1.0,
-      "SpineLocalPosY": -800
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_View_Schale",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2662831737,
-      "BGFileName": "SpineBG_LobbyWakamo",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyWakamo",
       "BGType": "Spine",
+      "AnimationRoot": null,
       "AnimationName": "Idle_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 612171255,
-      "BGFileName": "SpineBG_LobbyWakamo",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyWakamo",
       "BGType": "Spine",
       "AnimationRoot": "WakamoLobbySpine",
       "AnimationName": "Talk_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2531440451,
-      "BGFileName": "SpineBG_LobbyWakamo",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyWakamo",
       "BGType": "Spine",
       "AnimationRoot": "WakamoLobbySpine",
       "AnimationName": "Touch_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3634244870,
-      "BGFileName": "SpineBG_LobbyHoshino",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHoshino",
       "BGType": "Spine",
+      "AnimationRoot": null,
       "AnimationName": "Idle_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2570013196,
-      "BGFileName": "SpineBG_LobbyHoshino",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHoshino",
       "BGType": "Spine",
       "AnimationRoot": "HoshinoLobbySpine",
       "AnimationName": "Idle_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2961449130,
-      "BGFileName": "SpineBG_LobbyHoshino",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHoshino",
       "BGType": "Spine",
       "AnimationRoot": "HoshinoLobbySpine",
       "AnimationName": "Talk_01_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3733798940,
-      "BGFileName": "SpineBG_LobbyHoshino",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHoshino",
       "BGType": "Spine",
       "AnimationRoot": "HoshinoLobbySpine",
       "AnimationName": "Talk_02_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2580124296,
-      "BGFileName": "SpineBG_LobbyHoshino",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHoshino",
       "BGType": "Spine",
       "AnimationRoot": "HoshinoLobbySpine",
       "AnimationName": "Talk_03_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1429227235,
-      "BGFileName": "SpineBG_LobbyNonomi",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyNonomi",
       "BGType": "Spine",
+      "AnimationRoot": null,
       "AnimationName": "Idle_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 938966879,
-      "BGFileName": "SpineBG_LobbyNonomi",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyNonomi",
       "BGType": "Spine",
       "AnimationRoot": "NonomiLobbySpine",
       "AnimationName": "Idle_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2282881329,
-      "BGFileName": "SpineBG_LobbyNonomi",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyNonomi",
       "BGType": "Spine",
       "AnimationRoot": "NonomiLobbySpine",
       "AnimationName": "Talk_01_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 147757574,
-      "BGFileName": "SpineBG_LobbyNonomi",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyNonomi",
       "BGType": "Spine",
       "AnimationRoot": "NonomiLobbySpine",
       "AnimationName": "Talk_02_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 563178378,
-      "BGFileName": "SpineBG_LobbyNonomi",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyNonomi",
       "BGType": "Spine",
       "AnimationRoot": "NonomiLobbySpine",
       "AnimationName": "Talk_03_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1747220769,
-      "BGFileName": "SpineBG_LobbyNonomi",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyNonomi",
       "BGType": "Spine",
       "AnimationRoot": "NonomiLobbySpine",
       "AnimationName": "Talk_04_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3852794489,
-      "BGFileName": "SpineBG_LobbyNonomi",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyNonomi",
       "BGType": "Spine",
       "AnimationRoot": "NonomiLobbySpine",
       "AnimationName": "Talk_05_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3059979579,
-      "BGFileName": "SpineBG_LobbyNonomi",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyNonomi",
       "BGType": "Spine",
       "AnimationRoot": "NonomiLobbySpine",
       "AnimationName": "Talk_06_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3970358294,
-      "BGFileName": "SpineBG_LobbySerika",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbySerika",
       "BGType": "Spine",
+      "AnimationRoot": null,
       "AnimationName": "Idle_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3420253232,
-      "BGFileName": "SpineBG_LobbySerika",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbySerika",
       "BGType": "Spine",
       "AnimationRoot": "SerikaLobbySpine",
       "AnimationName": "Idle_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3956696770,
-      "BGFileName": "SpineBG_LobbySerika",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbySerika",
       "BGType": "Spine",
       "AnimationRoot": "SerikaLobbySpine",
       "AnimationName": "Talk_01_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3808428874,
-      "BGFileName": "SpineBG_LobbySerika",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbySerika",
       "BGType": "Spine",
       "AnimationRoot": "SerikaLobbySpine",
       "AnimationName": "Talk_02_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1236019770,
-      "BGFileName": "SpineBG_LobbySerika",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbySerika",
       "BGType": "Spine",
       "AnimationRoot": "SerikaLobbySpine",
       "AnimationName": "Talk_03_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 826198478,
-      "BGFileName": "SpineBG_LobbySerika",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbySerika",
       "BGType": "Spine",
       "AnimationRoot": "SerikaLobbySpine",
       "AnimationName": "Talk_04_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2986020708,
-      "BGFileName": "SpineBG_LobbySerika",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbySerika",
       "BGType": "Spine",
       "AnimationRoot": "SerikaLobbySpine",
       "AnimationName": "Talk_05_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1483044403,
-      "BGFileName": "SpineBG_LobbySerika",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbySerika",
       "BGType": "Spine",
       "AnimationRoot": "SerikaLobbySpine",
       "AnimationName": "Talk_06_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 686196438,
-      "BGFileName": "SpineBG_LobbyShiroko",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyShiroko",
       "BGType": "Spine",
+      "AnimationRoot": null,
       "AnimationName": "Idle_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1864104424,
-      "BGFileName": "SpineBG_LobbyShiroko",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyShiroko",
       "BGType": "Spine",
       "AnimationRoot": "ShirokLobbySpine",
       "AnimationName": "Idle_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 282118254,
-      "BGFileName": "SpineBG_LobbyShiroko",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyShiroko",
       "BGType": "Spine",
       "AnimationRoot": "ShirokLobbySpine",
       "AnimationName": "Talk_01_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2725025785,
-      "BGFileName": "SpineBG_LobbyShiroko",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyShiroko",
       "BGType": "Spine",
       "AnimationRoot": "ShirokLobbySpine",
       "AnimationName": "Talk_02_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3411166074,
-      "BGFileName": "SpineBG_LobbyShiroko",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyShiroko",
       "BGType": "Spine",
       "AnimationRoot": "ShirokLobbySpine",
       "AnimationName": "Talk_03_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2575607664,
-      "BGFileName": "SpineBG_LobbyShiroko",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyShiroko",
       "BGType": "Spine",
       "AnimationRoot": "ShirokLobbySpine",
       "AnimationName": "Talk_04_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2170793270,
-      "BGFileName": "SpineBG_LobbyShiroko",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyShiroko",
       "BGType": "Spine",
       "AnimationRoot": "ShirokLobbySpine",
       "AnimationName": "Talk_05_M",
-      "SpineScale": 1.0
-    },
-    {
-      "Name": 3223350345,
-      "BGFileName": "SpineBG_LobbyHihumi",
-      "BGType": "Spine",
-      "AnimationName": "Idle_01",
-      "SpineScale": 1.0
-    },
-    {
-      "Name": 3821825911,
-      "BGFileName": "SpineBG_LobbyHihumi",
-      "BGType": "Spine",
-      "AnimationRoot": "HihumiLobbySpine",
-      "AnimationName": "Idle_01",
-      "SpineScale": 1.0
-    },
-    {
-      "Name": 3904500699,
-      "BGFileName": "SpineBG_LobbyHihumi",
-      "BGType": "Spine",
-      "AnimationRoot": "HihumiLobbySpine",
-      "AnimationName": "Talk_01_M",
-      "SpineScale": 1.0
-    },
-    {
-      "Name": 3476880929,
-      "BGFileName": "SpineBG_LobbyHihumi",
-      "BGType": "Spine",
-      "AnimationRoot": "HihumiLobbySpine",
-      "AnimationName": "Talk_02_M",
-      "SpineScale": 1.0
-    },
-    {
-      "Name": 468089430,
-      "BGFileName": "SpineBG_LobbyHihumi",
-      "BGType": "Spine",
-      "AnimationRoot": "HihumiLobbySpine",
-      "AnimationName": "Talk_03_M",
-      "SpineScale": 1.0
-    },
-    {
-      "Name": 1203758529,
-      "BGFileName": "SpineBG_LobbyHihumi",
-      "BGType": "Spine",
-      "AnimationRoot": "HihumiLobbySpine",
-      "AnimationName": "Talk_04_M",
-      "SpineScale": 1.0
-    },
-    {
-      "Name": 4192947363,
-      "BGFileName": "SpineBG_LobbyHihumi",
-      "BGType": "Spine",
-      "AnimationRoot": "HihumiLobbySpine",
-      "AnimationName": "Talk_05_M",
-      "SpineScale": 1.0
-    },
-    {
-      "Name": 757008575,
-      "BGFileName": "SpineBG_LobbyHihumi",
-      "BGType": "Spine",
-      "AnimationRoot": "HihumiLobbySpine",
-      "AnimationName": "Talk_06_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3613009437,
-      "BGFileName": "SpineBG_LobbyTsurugi",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyTsurugi",
       "BGType": "Spine",
+      "AnimationRoot": null,
       "AnimationName": "Idle_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3963783247,
-      "BGFileName": "SpineBG_LobbyTsurugi",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyTsurugi",
       "BGType": "Spine",
       "AnimationRoot": "TsurugiLobbySpine",
       "AnimationName": "Idle_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3064801464,
-      "BGFileName": "SpineBG_LobbyTsurugi",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyTsurugi",
       "BGType": "Spine",
       "AnimationRoot": "TsurugiLobbySpine",
       "AnimationName": "Talk_01_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3650452913,
-      "BGFileName": "SpineBG_LobbyTsurugi",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyTsurugi",
       "BGType": "Spine",
       "AnimationRoot": "TsurugiLobbySpine",
       "AnimationName": "Talk_02_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 4291350494,
-      "BGFileName": "SpineBG_LobbyTsurugi",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyTsurugi",
       "BGType": "Spine",
       "AnimationRoot": "TsurugiLobbySpine",
       "AnimationName": "Talk_03_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1504968335,
-      "BGFileName": "SpineBG_LobbyTsurugi",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyTsurugi",
       "BGType": "Spine",
       "AnimationRoot": "TsurugiLobbySpine",
       "AnimationName": "Talk_04_M",
-      "SpineScale": 1.0
-    },
-    {
-      "Name": 2013394754,
-      "BGFileName": "SpineBG_LobbyTsurugi",
-      "BGType": "Spine",
-      "AnimationRoot": "TsurugiLobbySpine",
-      "AnimationName": "Talk_05_M",
-      "SpineScale": 1.0
-    },
-    {
-      "Name": 3169904325,
-      "BGFileName": "SpineBG_LobbyTsurugi",
-      "BGType": "Spine",
-      "AnimationRoot": "TsurugiLobbySpine",
-      "AnimationName": "Talk_06_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1144855161,
-      "BGFileName": "SpineBG_LobbyCherino",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCherino",
       "BGType": "Spine",
+      "AnimationRoot": null,
       "AnimationName": "Idle_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1347163254,
-      "BGFileName": "SpineBG_LobbyCherino",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCherino",
       "BGType": "Spine",
       "AnimationRoot": "CherinoLobbySpine",
       "AnimationName": "Idle_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3645804062,
-      "BGFileName": "SpineBG_LobbyCherino",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCherino",
       "BGType": "Spine",
       "AnimationRoot": "CherinoLobbySpine",
       "AnimationName": "Talk_01_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2351873267,
-      "BGFileName": "SpineBG_LobbyCherino",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCherino",
       "BGType": "Spine",
       "AnimationRoot": "CherinoLobbySpine",
       "AnimationName": "Talk_02_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2133286058,
-      "BGFileName": "SpineBG_LobbyCherino",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCherino",
       "BGType": "Spine",
       "AnimationRoot": "CherinoLobbySpine",
       "AnimationName": "Talk_03_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3772153547,
-      "BGFileName": "SpineBG_LobbyCherino",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCherino",
       "BGType": "Spine",
       "AnimationRoot": "CherinoLobbySpine",
       "AnimationName": "Talk_04_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2799420869,
-      "BGFileName": "SpineBG_LobbyCherino",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCherino",
       "BGType": "Spine",
       "AnimationRoot": "CherinoLobbySpine",
       "AnimationName": "Talk_05_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1199569362,
-      "BGFileName": "SpineBG_LobbyAkane",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyAkane",
       "BGType": "Spine",
+      "AnimationRoot": null,
       "AnimationName": "Idle_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 4013021367,
-      "BGFileName": "SpineBG_LobbyAkane",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyAkane",
       "BGType": "Spine",
       "AnimationRoot": "AkaneLobbySpine",
       "AnimationName": "Idle_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 4066373241,
-      "BGFileName": "SpineBG_LobbyAkane",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyAkane",
       "BGType": "Spine",
       "AnimationRoot": "AkaneLobbySpine",
       "AnimationName": "Talk_01_M",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1006676045,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyAkane",
+      "BGType": "Spine",
+      "AnimationRoot": "AkaneLobbySpine",
+      "AnimationName": "Talk_02_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2562771453,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyAkane",
+      "BGType": "Spine",
+      "AnimationRoot": "AkaneLobbySpine",
+      "AnimationName": "Talk_03_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 87035464,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyAkane",
+      "BGType": "Spine",
+      "AnimationRoot": "AkaneLobbySpine",
+      "AnimationName": "Talk_04_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1838560444,
-      "BGFileName": "SpineBG_LobbyKarin",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyKarin",
       "BGType": "Spine",
+      "AnimationRoot": null,
       "AnimationName": "Idle_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3436449195,
-      "BGFileName": "SpineBG_LobbyKarin",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyKarin",
       "BGType": "Spine",
       "AnimationRoot": "KarinLobbySpine",
       "AnimationName": "Idle_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1820334589,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyKarin",
+      "BGType": "Spine",
+      "AnimationRoot": "KarinLobbySpine",
+      "AnimationName": "Talk_01_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 156967742,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyKarin",
+      "BGType": "Spine",
+      "AnimationRoot": "KarinLobbySpine",
+      "AnimationName": "Talk_02_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 79625153,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyKarin",
+      "BGType": "Spine",
+      "AnimationRoot": "KarinLobbySpine",
+      "AnimationName": "Talk_03_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 325943145,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyKarin",
+      "BGType": "Spine",
+      "AnimationRoot": "KarinLobbySpine",
+      "AnimationName": "Talk_04_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1426055705,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyKarin",
+      "BGType": "Spine",
+      "AnimationRoot": "KarinLobbySpine",
+      "AnimationName": "Talk_05_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 827130468,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyKayoko",
+      "BGType": "Spine",
+      "AnimationRoot": null,
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3978529506,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyKayoko",
+      "BGType": "Spine",
+      "AnimationRoot": "KayokoLobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2727775409,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyKayoko",
+      "BGType": "Spine",
+      "AnimationRoot": "KayokoLobbySpine",
+      "AnimationName": "Talk_01_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2371015915,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyKayoko",
+      "BGType": "Spine",
+      "AnimationRoot": "KayokoLobbySpine",
+      "AnimationName": "Talk_02_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2302757241,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyKayoko",
+      "BGType": "Spine",
+      "AnimationRoot": "KayokoLobbySpine",
+      "AnimationName": "Talk_03_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3200679497,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyKayoko",
+      "BGType": "Spine",
+      "AnimationRoot": "KayokoLobbySpine",
+      "AnimationName": "Talk_04_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 885254882,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyKayoko",
+      "BGType": "Spine",
+      "AnimationRoot": "KayokoLobbySpine",
+      "AnimationName": "Talk_05_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 314341695,
-      "BGFileName": "SpineBG_LobbyMashiro",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyMashiro",
       "BGType": "Spine",
+      "AnimationRoot": null,
       "AnimationName": "Idle_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 450072684,
-      "BGFileName": "SpineBG_LobbyMashiro",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyMashiro",
       "BGType": "Spine",
       "AnimationRoot": "MashiroLobbySpine",
       "AnimationName": "Idle_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3319867195,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyMashiro",
+      "BGType": "Spine",
+      "AnimationRoot": "MashiroLobbySpine",
+      "AnimationName": "Talk_01_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2510714678,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyMashiro",
+      "BGType": "Spine",
+      "AnimationRoot": "MashiroLobbySpine",
+      "AnimationName": "Talk_02_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3834912106,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyMashiro",
+      "BGType": "Spine",
+      "AnimationRoot": "MashiroLobbySpine",
+      "AnimationName": "Talk_03_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3699572703,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyMashiro",
+      "BGType": "Spine",
+      "AnimationRoot": "MashiroLobbySpine",
+      "AnimationName": "Talk_04_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 144830554,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyMashiro",
+      "BGType": "Spine",
+      "AnimationRoot": "MashiroLobbySpine",
+      "AnimationName": "Talk_05_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 59856476,
-      "BGFileName": "SpineBG_LobbyShun",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyShun",
       "BGType": "Spine",
+      "AnimationRoot": null,
       "AnimationName": "Idle_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2181883550,
-      "BGFileName": "SpineBG_LobbyShun",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyShun",
       "BGType": "Spine",
       "AnimationRoot": "ShunLobbySpine",
       "AnimationName": "Idle_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 97216295,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyShun",
+      "BGType": "Spine",
+      "AnimationRoot": "ShunLobbySpine",
+      "AnimationName": "Talk_01_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 923447073,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyShun",
+      "BGType": "Spine",
+      "AnimationRoot": "ShunLobbySpine",
+      "AnimationName": "Talk_02_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3278502678,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyShun",
+      "BGType": "Spine",
+      "AnimationRoot": "ShunLobbySpine",
+      "AnimationName": "Talk_03_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1969442943,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyShun",
+      "BGType": "Spine",
+      "AnimationRoot": "ShunLobbySpine",
+      "AnimationName": "Talk_04_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1836891960,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyShun",
+      "BGType": "Spine",
+      "AnimationRoot": "ShunLobbySpine",
+      "AnimationName": "Talk_05_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 761336000,
-      "BGFileName": "SpineBG_LobbySaya",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbySaya",
       "BGType": "Spine",
+      "AnimationRoot": null,
       "AnimationName": "Idle_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1016475401,
-      "BGFileName": "SpineBG_LobbySaya",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbySaya",
       "BGType": "Spine",
       "AnimationRoot": "SayaLobbySpine",
       "AnimationName": "Idle_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2474717985,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbySaya",
+      "BGType": "Spine",
+      "AnimationRoot": "SayaLobbySpine",
+      "AnimationName": "Talk_01_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3058745690,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbySaya",
+      "BGType": "Spine",
+      "AnimationRoot": "SayaLobbySpine",
+      "AnimationName": "Talk_02_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 133876902,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbySaya",
+      "BGType": "Spine",
+      "AnimationRoot": "SayaLobbySpine",
+      "AnimationName": "Talk_03_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1359943649,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbySaya",
+      "BGType": "Spine",
+      "AnimationRoot": "SayaLobbySpine",
+      "AnimationName": "Talk_04_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3918402048,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbySaya",
+      "BGType": "Spine",
+      "AnimationRoot": "SayaLobbySpine",
+      "AnimationName": "Talk_05_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3760803094,
-      "BGFileName": "SpineBG_LobbyNeru",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyNeru",
       "BGType": "Spine",
+      "AnimationRoot": null,
       "AnimationName": "Idle_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 4160621729,
-      "BGFileName": "SpineBG_LobbyNeru",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyNeru",
       "BGType": "Spine",
       "AnimationRoot": "NeruLobbySpine",
       "AnimationName": "Idle_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2395786717,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyNeru",
+      "BGType": "Spine",
+      "AnimationRoot": "NeruLobbySpine",
+      "AnimationName": "Talk_01_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3797369616,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyNeru",
+      "BGType": "Spine",
+      "AnimationRoot": "NeruLobbySpine",
+      "AnimationName": "Talk_02_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3155475394,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyNeru",
+      "BGType": "Spine",
+      "AnimationRoot": "NeruLobbySpine",
+      "AnimationName": "Talk_03_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2525387820,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyNeru",
+      "BGType": "Spine",
+      "AnimationRoot": "NeruLobbySpine",
+      "AnimationName": "Talk_04_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3760537642,
-      "BGFileName": "SpineBG_LobbyHasumi",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHasumi",
       "BGType": "Spine",
+      "AnimationRoot": null,
       "AnimationName": "Idle_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3963732649,
-      "BGFileName": "SpineBG_LobbyHasumi",
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHasumi",
       "BGType": "Spine",
       "AnimationRoot": "HasumiLobbySpine",
       "AnimationName": "Idle_01",
-      "SpineScale": 1.0
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2588087616,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHasumi",
+      "BGType": "Spine",
+      "AnimationRoot": "HasumiLobbySpine",
+      "AnimationName": "Talk_01_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2087472443,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHasumi",
+      "BGType": "Spine",
+      "AnimationRoot": "HasumiLobbySpine",
+      "AnimationName": "Talk_02_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 4225970951,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHasumi",
+      "BGType": "Spine",
+      "AnimationRoot": "HasumiLobbySpine",
+      "AnimationName": "Talk_03_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1719157183,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHasumi",
+      "BGType": "Spine",
+      "AnimationRoot": "HasumiLobbySpine",
+      "AnimationName": "Talk_04_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2658397194,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHasumi",
+      "BGType": "Spine",
+      "AnimationRoot": "HasumiLobbySpine",
+      "AnimationName": "Talk_05_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1482003992,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyAru",
+      "BGType": "Spine",
+      "AnimationRoot": null,
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 701552358,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyAru",
+      "BGType": "Spine",
+      "AnimationRoot": "Aru_LobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3786468272,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyAru",
+      "BGType": "Spine",
+      "AnimationRoot": "Aru_LobbySpine",
+      "AnimationName": "Talk_01_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 568207811,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyAru",
+      "BGType": "Spine",
+      "AnimationRoot": "Aru_LobbySpine",
+      "AnimationName": "Talk_02_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2794045388,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyAru",
+      "BGType": "Spine",
+      "AnimationRoot": "Aru_LobbySpine",
+      "AnimationName": "Talk_03_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3667090331,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyAru",
+      "BGType": "Spine",
+      "AnimationRoot": "Aru_LobbySpine",
+      "AnimationName": "Talk_04_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3513445552,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyAru",
+      "BGType": "Spine",
+      "AnimationRoot": "Aru_LobbySpine",
+      "AnimationName": "Talk_05_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3905871822,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyAru",
+      "BGType": "Spine",
+      "AnimationRoot": "Aru_LobbySpine",
+      "AnimationName": "Talk_06_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 976670475,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHaruna",
+      "BGType": "Spine",
+      "AnimationRoot": null,
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1110630711,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHaruna",
+      "BGType": "Spine",
+      "AnimationRoot": "HarunaLobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2487277992,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHaruna",
+      "BGType": "Spine",
+      "AnimationRoot": "HarunaLobbySpine",
+      "AnimationName": "Talk_01_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 440080845,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHaruna",
+      "BGType": "Spine",
+      "AnimationRoot": "HarunaLobbySpine",
+      "AnimationName": "Talk_02_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2647477784,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHaruna",
+      "BGType": "Spine",
+      "AnimationRoot": "HarunaLobbySpine",
+      "AnimationName": "Talk_03_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 632696705,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHaruna",
+      "BGType": "Spine",
+      "AnimationRoot": "HarunaLobbySpine",
+      "AnimationName": "Talk_04_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2987170116,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHaruna",
+      "BGType": "Spine",
+      "AnimationRoot": "HarunaLobbySpine",
+      "AnimationName": "Talk_05_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3223350345,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHihumi",
+      "BGType": "Spine",
+      "AnimationRoot": null,
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3821825911,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHihumi",
+      "BGType": "Spine",
+      "AnimationRoot": "HihumiLobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3904500699,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHihumi",
+      "BGType": "Spine",
+      "AnimationRoot": "HihumiLobbySpine",
+      "AnimationName": "Talk_01_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3476880929,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHihumi",
+      "BGType": "Spine",
+      "AnimationRoot": "HihumiLobbySpine",
+      "AnimationName": "Talk_02_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 468089430,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHihumi",
+      "BGType": "Spine",
+      "AnimationRoot": "HihumiLobbySpine",
+      "AnimationName": "Talk_03_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1203758529,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHihumi",
+      "BGType": "Spine",
+      "AnimationRoot": "HihumiLobbySpine",
+      "AnimationName": "Talk_04_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 4192947363,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHihumi",
+      "BGType": "Spine",
+      "AnimationRoot": "HihumiLobbySpine",
+      "AnimationName": "Talk_05_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 757008575,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHihumi",
+      "BGType": "Spine",
+      "AnimationRoot": "HihumiLobbySpine",
+      "AnimationName": "Talk_06_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3482390619,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHina",
+      "BGType": "Spine",
+      "AnimationRoot": null,
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3038790175,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHina",
+      "BGType": "Spine",
+      "AnimationRoot": "HinaLobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 4011762650,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHina",
+      "BGType": "Spine",
+      "AnimationRoot": "HinaLobbySpine",
+      "AnimationName": "Talk_01_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 243978749,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHina",
+      "BGType": "Spine",
+      "AnimationRoot": "HinaLobbySpine",
+      "AnimationName": "Talk_02_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1752727235,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHina",
+      "BGType": "Spine",
+      "AnimationRoot": "HinaLobbySpine",
+      "AnimationName": "Talk_03_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3517753509,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHina",
+      "BGType": "Spine",
+      "AnimationRoot": "HinaLobbySpine",
+      "AnimationName": "Talk_04_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1725209554,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyZunko",
+      "BGType": "Spine",
+      "AnimationRoot": null,
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2204594987,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyZunko",
+      "BGType": "Spine",
+      "AnimationRoot": "ZunkoLobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2429213316,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyZunko",
+      "BGType": "Spine",
+      "AnimationRoot": "ZunkoLobbySpine",
+      "AnimationName": "Talk_01_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1666583546,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyZunko",
+      "BGType": "Spine",
+      "AnimationRoot": "ZunkoLobbySpine",
+      "AnimationName": "Talk_02_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 196443636,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyZunko",
+      "BGType": "Spine",
+      "AnimationRoot": "ZunkoLobbySpine",
+      "AnimationName": "Talk_03_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3416678591,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyZunko",
+      "BGType": "Spine",
+      "AnimationRoot": "ZunkoLobbySpine",
+      "AnimationName": "Talk_04_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2937678729,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbySumire",
+      "BGType": "Spine",
+      "AnimationRoot": null,
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2376214591,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbySumire",
+      "BGType": "Spine",
+      "AnimationRoot": "SumireLobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2654231370,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbySumire",
+      "BGType": "Spine",
+      "AnimationRoot": "SumireLobbySpine",
+      "AnimationName": "Talk_01_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2722352320,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbySumire",
+      "BGType": "Spine",
+      "AnimationRoot": "SumireLobbySpine",
+      "AnimationName": "Talk_02_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 662279049,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbySumire",
+      "BGType": "Spine",
+      "AnimationRoot": "SumireLobbySpine",
+      "AnimationName": "Talk_03_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3280910554,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbySumire",
+      "BGType": "Spine",
+      "AnimationRoot": "SumireLobbySpine",
+      "AnimationName": "Talk_04_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2619702921,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbySumire",
+      "BGType": "Spine",
+      "AnimationRoot": "SumireLobbySpine",
+      "AnimationName": "Talk_05_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2314808398,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyFuuka",
+      "BGType": "Spine",
+      "AnimationRoot": null,
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 239879610,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyFuuka",
+      "BGType": "Spine",
+      "AnimationRoot": "Fuuka_LobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 5946572,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyFuuka",
+      "BGType": "Spine",
+      "AnimationRoot": "Fuuka_LobbySpine",
+      "AnimationName": "Talk_01_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3361144136,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyFuuka",
+      "BGType": "Spine",
+      "AnimationRoot": "Fuuka_LobbySpine",
+      "AnimationName": "Talk_02_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2964740300,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyFuuka",
+      "BGType": "Spine",
+      "AnimationRoot": "Fuuka_LobbySpine",
+      "AnimationName": "Talk_03_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 318631758,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyFuuka",
+      "BGType": "Spine",
+      "AnimationRoot": "Fuuka_LobbySpine",
+      "AnimationName": "Talk_04_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3990169546,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyFuuka",
+      "BGType": "Spine",
+      "AnimationRoot": "Fuuka_LobbySpine",
+      "AnimationName": "Talk_05_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3863372448,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyTsubaki",
+      "BGType": "Spine",
+      "AnimationRoot": null,
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 4013294606,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyTsubaki",
+      "BGType": "Spine",
+      "AnimationRoot": "TsubakiLobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2022367078,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHare",
+      "BGType": "Spine",
+      "AnimationRoot": null,
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2160696717,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHare",
+      "BGType": "Spine",
+      "AnimationRoot": "HareLobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2818903002,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyAyane",
+      "BGType": "Spine",
+      "AnimationRoot": null,
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3980113319,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyAyane",
+      "BGType": "Spine",
+      "AnimationRoot": "AyaneLobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3955506890,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyMutsuki",
+      "BGType": "Spine",
+      "AnimationRoot": null,
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 354497758,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyMutsuki",
+      "BGType": "Spine",
+      "AnimationRoot": "MutsukiLobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3463129666,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyIori",
+      "BGType": "Spine",
+      "AnimationRoot": null,
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2512281073,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyIori",
+      "BGType": "Spine",
+      "AnimationRoot": "Iori_LobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3671581703,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyIori",
+      "BGType": "Spine",
+      "AnimationRoot": "Iori_LobbySpine",
+      "AnimationName": "Talk_01_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 863020480,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyIori",
+      "BGType": "Spine",
+      "AnimationRoot": "Iori_LobbySpine",
+      "AnimationName": "Talk_02_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1416404202,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyIori",
+      "BGType": "Spine",
+      "AnimationRoot": "Iori_LobbySpine",
+      "AnimationName": "Talk_03_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 4151591138,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyIori",
+      "BGType": "Spine",
+      "AnimationRoot": "Iori_LobbySpine",
+      "AnimationName": "Talk_04_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3680720191,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyIori",
+      "BGType": "Spine",
+      "AnimationRoot": "Iori_LobbySpine",
+      "AnimationName": "Talk_05_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2208266681,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyEimi",
+      "BGType": "Spine",
+      "AnimationRoot": null,
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2083160778,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyEimi",
+      "BGType": "Spine",
+      "AnimationRoot": "EimiLobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1197602958,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyEimi",
+      "BGType": "Spine",
+      "AnimationRoot": "EimiLobbySpine",
+      "AnimationName": "Talk_01_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1536540218,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyEimi",
+      "BGType": "Spine",
+      "AnimationRoot": "EimiLobbySpine",
+      "AnimationName": "Talk_02_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 290344197,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyEimi",
+      "BGType": "Spine",
+      "AnimationRoot": "EimiLobbySpine",
+      "AnimationName": "Talk_03_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3466759600,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyEimi",
+      "BGType": "Spine",
+      "AnimationRoot": "EimiLobbySpine",
+      "AnimationName": "Talk_04_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 35948208,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyEimi",
+      "BGType": "Spine",
+      "AnimationRoot": "EimiLobbySpine",
+      "AnimationName": "Talk_05_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1369131993,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHibiki",
+      "BGType": "Spine",
+      "AnimationRoot": null,
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3114363906,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHibiki",
+      "BGType": "Spine",
+      "AnimationRoot": "HibikiLobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1623868442,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHibiki",
+      "BGType": "Spine",
+      "AnimationRoot": "HibikiLobbySpine",
+      "AnimationName": "Talk_01_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 155384423,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHibiki",
+      "BGType": "Spine",
+      "AnimationRoot": "HibikiLobbySpine",
+      "AnimationName": "Talk_02_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 953500149,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHibiki",
+      "BGType": "Spine",
+      "AnimationRoot": "HibikiLobbySpine",
+      "AnimationName": "Talk_03_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2328153673,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHibiki",
+      "BGType": "Spine",
+      "AnimationRoot": "HibikiLobbySpine",
+      "AnimationName": "Talk_04_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3026649338,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyMaki",
+      "BGType": "Spine",
+      "AnimationRoot": null,
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 400291188,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyMaki",
+      "BGType": "Spine",
+      "AnimationRoot": "MakiLobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1735922049,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyMaki",
+      "BGType": "Spine",
+      "AnimationRoot": "MakiLobbySpine",
+      "AnimationName": "Talk_01_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3388933457,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyMaki",
+      "BGType": "Spine",
+      "AnimationRoot": "MakiLobbySpine",
+      "AnimationName": "Talk_02_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2920679744,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyMaki",
+      "BGType": "Spine",
+      "AnimationRoot": "MakiLobbySpine",
+      "AnimationName": "Talk_03_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1923063979,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyMaki",
+      "BGType": "Spine",
+      "AnimationRoot": "MakiLobbySpine",
+      "AnimationName": "Talk_04_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2647824938,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyMaki",
+      "BGType": "Spine",
+      "AnimationRoot": "MakiLobbySpine",
+      "AnimationName": "Talk_05_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2368647380,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyChise",
+      "BGType": "Spine",
+      "AnimationRoot": null,
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2366745263,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyChise",
+      "BGType": "Spine",
+      "AnimationRoot": "ChiseLobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3027090648,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyYuuka",
+      "BGType": "Spine",
+      "AnimationRoot": null,
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2303506415,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyYuuka",
+      "BGType": "Spine",
+      "AnimationRoot": "YuukaLobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 886113368,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyYuuka",
+      "BGType": "Spine",
+      "AnimationRoot": "YuukaLobbySpine",
+      "AnimationName": "Talk_01_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3052386104,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyYuuka",
+      "BGType": "Spine",
+      "AnimationRoot": "YuukaLobbySpine",
+      "AnimationName": "Talk_02_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3878590627,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyYuuka",
+      "BGType": "Spine",
+      "AnimationRoot": "YuukaLobbySpine",
+      "AnimationName": "Talk_03_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 569370683,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyYuuka",
+      "BGType": "Spine",
+      "AnimationRoot": "YuukaLobbySpine",
+      "AnimationName": "Talk_04_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1186205825,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyYuuka",
+      "BGType": "Spine",
+      "AnimationRoot": "YuukaLobbySpine",
+      "AnimationName": "Talk_05_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2289324546,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyYuuka",
+      "BGType": "Spine",
+      "AnimationRoot": "YuukaLobbySpine",
+      "AnimationName": "Talk_06_M",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3256945822,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyAkari",
+      "BGType": "Spine",
+      "AnimationRoot": null,
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3267080893,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyAkari",
+      "BGType": "Spine",
+      "AnimationRoot": "AkariLobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3191529163,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHanae",
+      "BGType": "Spine",
+      "AnimationRoot": null,
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2254278443,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHanae",
+      "BGType": "Spine",
+      "AnimationRoot": "HanaeLobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 434699412,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyUtaha",
+      "BGType": "Spine",
+      "AnimationRoot": null,
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1125676558,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyUtaha",
+      "BGType": "Spine",
+      "AnimationRoot": "UtahaLobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2365639434,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyAiri",
+      "BGType": "Spine",
+      "AnimationRoot": null,
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2165169721,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyAiri",
+      "BGType": "Spine",
+      "AnimationRoot": "AiriLobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1059700084,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyIzumi",
+      "BGType": "Spine",
+      "AnimationRoot": null,
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3186281738,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyIzumi",
+      "BGType": "Spine",
+      "AnimationRoot": "IzumiLobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 1.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1540580758,
-      "BGType": "BlurRT"
+      "ProductionStep": "Release",
+      "BGFileName": null,
+      "BGType": "BlurRT",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 5583903,
-      "BGFileName": "BG_SchoolRooftop",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_SchoolRooftop",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2337138150,
-      "BGFileName": "BG_SchoolRooftop_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_SchoolRooftop_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3318557865,
-      "BGFileName": "BG_FineDining",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_FineDining",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 442481226,
-      "BGFileName": "BG_FineDining_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_FineDining_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3167142369,
-      "BGFileName": "BG_CityDowntown",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CityDowntown",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 561360619,
-      "BGFileName": "BG_CityDowntown_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CityDowntown_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2407788261,
-      "BGFileName": "BG_BuildingFrontGate",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_BuildingFrontGate",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1780944237,
-      "BGFileName": "BG_BuildingFrontGate_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_BuildingFrontGate_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3356452655,
-      "BGFileName": "BG_Wilderness",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Wilderness",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1959201577,
-      "BGFileName": "BG_Wilderness_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Wilderness_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1251112406,
-      "BGFileName": "BG_SubwayHall",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_SubwayHall",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 622029775,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_SubwayHall_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3211930506,
-      "BGFileName": "BG_ConventionHall",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_ConventionHall",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 368540567,
-      "BGFileName": "BG_ConventionHall_Sunset",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_ConventionHall_Sunset",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 4187161603,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_ConventionHall_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1117619696,
-      "BGFileName": "BG_DemolitionCity",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_DemolitionCity",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2998465987,
-      "BGFileName": "BG_DemolitionCity_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_DemolitionCity_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2861477991,
-      "BGFileName": "BG_SchoolCafeteria",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_SchoolCafeteria",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3933755312,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_SchoolCafeteria_Chaos",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1940397506,
-      "BGFileName": "BG_SchoolCafeteria_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_SchoolCafeteria_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1470475487,
-      "BGFileName": "BG_Lab",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Lab",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3451398393,
-      "BGFileName": "BG_Amusement",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Amusement",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2187434457,
-      "BGFileName": "BG_Amusement_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Amusement_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3935328706,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Amusement_Night2",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3617355053,
-      "BGFileName": "BG_BigPlaza",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_BigPlaza",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 4203799520,
-      "BGFileName": "BG_BigPlaza_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_BigPlaza_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1739308014,
-      "BGFileName": "BG_BigPlaza_Sunset",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_BigPlaza_Sunset",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3129606215,
-      "BGFileName": "BG_DessertCafe",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_DessertCafe",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2805370093,
-      "BGFileName": "BG_Arcade",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Arcade",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1194944144,
-      "BGFileName": "BG_GameDevRoom",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_GameDevRoom",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3583388235,
-      "BGFileName": "BG_GameDevRoom_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_GameDevRoom_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2818812306,
-      "BGFileName": "BG_CS_PV_19",
-      "BGType": "Image"
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_PV_19",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 81336012,
-      "BGFileName": "BG_CS_PV_21",
-      "BGType": "Image"
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_PV_21",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3223812644,
-      "BGFileName": "BG_CS_PV_23",
-      "BGType": "Image"
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_PV_23",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2316638347,
-      "BGFileName": "BG_CS_PV_24",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_PV_24",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3811010122,
-      "BGFileName": "BG_CS_PV_27",
-      "BGType": "Image"
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_PV_27",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1935057309,
-      "BGFileName": "BG_CS_PV_29",
-      "BGType": "Image"
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_PV_29",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3438548622,
-      "BGFileName": "BG_CS_PV_37",
-      "BGType": "Image"
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_PV_37",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2964121242,
-      "BGFileName": "BG_CS_PV_39",
-      "BGType": "Image"
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_PV_39",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3691915573,
-      "BGFileName": "BG_CS_PV_44",
-      "BGType": "Image"
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_PV_44",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1883097381,
-      "BGFileName": "BG_CS_PV_45",
-      "BGType": "Image"
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_PV_45",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1594681306,
-      "BGFileName": "BG_View_MainStadium",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_View_MainStadium",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 265192106,
-      "BGFileName": "BG_View_MainStadium_Off",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_View_MainStadium_Off",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1291617204,
-      "BGFileName": "BG_Cathedral",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Cathedral",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3036173266,
-      "BGFileName": "BG_CraftChamber",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CraftChamber",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3469804928,
-      "BGFileName": "BG_CraftChamber_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CraftChamber_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2405039224,
-      "BGFileName": "BG_Hangar",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Hangar",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 726734934,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Hangar2",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2097058445,
-      "BGFileName": "BG_Shop",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Shop",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 4278022432,
-      "BGFileName": "BG_View_Abydos",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_View_Abydos",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1865435797,
-      "BGFileName": "BG_View_Trinity",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_View_Trinity",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 643885377,
-      "BGFileName": "BG_View_Trinity_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_View_Trinity_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2949065454,
-      "BGFileName": "BG_ConvenienceStore",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_ConvenienceStore",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 110137751,
-      "BGFileName": "BG_CS_PR_07",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_PR_07",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 4215118435,
-      "BGFileName": "BG_CS_PR_08",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_PR_08",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3704805935,
-      "BGFileName": "BG_CS_PR_09",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_PR_09",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1004254097,
-      "BGFileName": "BG_CS_PR_10",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_PR_10",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 732327783,
-      "BGFileName": "BG_CS_PR_11",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_PR_11",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2457801742,
-      "BGFileName": "BG_CS_PR_12",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_PR_12",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1927097138,
-      "BGFileName": "BG_CS_PR_13",
-      "BGType": "Image"
-    },
-    {
-      "Name": 2754771706,
-      "BGFileName": "BG_CS_PR_14",
-      "BGType": "Image"
-    },
-    {
-      "Name": 2913937470,
-      "BGFileName": "BG_CS_PR_15",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_PR_13",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 679540555,
-      "BGFileName": "BG_CS_PR_16",
-      "BGType": "Image"
-    },
-    {
-      "Name": 4121164001,
-      "BGFileName": "BG_CS_PR_17",
-      "BGType": "Image"
-    },
-    {
-      "Name": 2422895765,
-      "BGFileName": "BG_CS_PR_18",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_PR_16",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3825956373,
-      "BGFileName": "BG_CS_PR_19",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_PR_19",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 636568065,
-      "BGFileName": "BG_ReceptionRoom",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_ReceptionRoom",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1391744589,
-      "BGFileName": "BG_CS_Millenium_01",
-      "BGType": "Image"
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Millenium_01",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3172979324,
-      "BGFileName": "BG_CS_Millenium_02",
-      "BGType": "Image"
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Millenium_02",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3081744986,
-      "BGFileName": "BG_CS_Millenium_03",
-      "BGType": "Image"
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Millenium_03",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1293782249,
-      "BGFileName": "BG_CS_Millenium_04",
-      "BGType": "Image"
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Millenium_04",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1908891894,
-      "BGFileName": "BG_CS_Millenium_05",
-      "BGType": "Image"
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Millenium_05",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2216255948,
-      "BGFileName": "BG_CS_Millenium_06",
-      "BGType": "Image"
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Millenium_06",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 240835656,
-      "BGFileName": "BG_CS_Millenium_07",
-      "BGType": "Image"
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Millenium_07",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1724834420,
-      "BGFileName": "BG_CS_Millenium_08",
-      "BGType": "Image"
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Millenium_08",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2444036987,
-      "BGFileName": "BG_CS_Millenium_09",
-      "BGType": "Image"
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Millenium_09",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 394798774,
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Millenium_10",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2099045325,
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CS_Millenium_11",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2232593452,
-      "BGFileName": "BG_HQ",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_HQ",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 249582911,
-      "BGFileName": "BG_HQ2",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_HQ2",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3254559687,
-      "BGFileName": "BG_RailWay",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_RailWay",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2799868284,
-      "BGFileName": "BG_RailWay_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_RailWay_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1813560161,
-      "BGFileName": "BG_RailWay_Night2",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_RailWay_Night2",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3976053942,
-      "BGFileName": "BG_Library",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Library",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1365755142,
-      "BGFileName": "BG_Campus",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Campus",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1586253799,
-      "BGFileName": "BG_Campus_Sunset",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Campus_Sunset",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3419107052,
-      "BGFileName": "BG_Campus_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Campus_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1767381662,
-      "BGFileName": "BG_Storage",
-      "BGType": "Image"
-    },
-    {
-      "Name": 1862270885,
-      "BGFileName": "BG_ComputerCenter",
-      "BGType": "Image"
-    },
-    {
-      "Name": 1298715830,
-      "BGFileName": "BG_ComputerCenter_Off",
-      "BGType": "Image"
-    },
-    {
-      "Name": 2501749301,
-      "BGFileName": "BG_ShanStreet",
-      "BGType": "Image"
-    },
-    {
-      "Name": 2012619658,
-      "BGFileName": "BG_ShanStreet_Night",
-      "BGType": "Image"
-    },
-    {
-      "Name": 2553422640,
-      "BGFileName": "BG_ShootingRange",
-      "BGType": "Image"
-    },
-    {
-      "Name": 883786889,
-      "BGFileName": "BG_VillaComplex",
-      "BGType": "Image"
-    },
-    {
-      "Name": 2973969550,
-      "BGFileName": "BG_VillaComplex_Night",
-      "BGType": "Image"
-    },
-    {
-      "Name": 908093196,
-      "BGFileName": "BG_Bank",
-      "BGType": "Image"
-    },
-    {
-      "Name": 405119386,
-      "BGFileName": "BG_Playground_Sunset",
-      "BGType": "Image"
-    },
-    {
-      "Name": 1450199644,
-      "BGFileName": "BG_ShoppingMall_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Storage",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2960434197,
-      "BGFileName": "BG_Storage_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Storage_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1862270885,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_ComputerCenter",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1298715830,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_ComputerCenter_Off",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2501749301,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_ShanStreet",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2012619658,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_ShanStreet_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2553422640,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_ShootingRange",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 883786889,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_VillaComplex",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2973969550,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_VillaComplex_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2982495655,
-      "BGFileName": "BG_VillaComplex_Night2",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_VillaComplex_Night2",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 908093196,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Bank",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 405119386,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Playground_Sunset",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1450199644,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_ShoppingMall_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2320035809,
-      "BGFileName": "BG_ClassCorridor2",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_ClassCorridor2",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2473530234,
-      "BGFileName": "BG_ClassRoom2",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_ClassRoom2",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 98294999,
-      "BGFileName": "BG_ClassStairs",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_ClassStairs",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 3447675333,
-      "BGFileName": "BG_ClassCorridor2_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_ClassCorridor2_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 2637407276,
-      "BGFileName": "BG_ClassRoom2_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_ClassRoom2_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     },
     {
       "Name": 1683471482,
-      "BGFileName": "BG_ClassStairs_Night",
-      "BGType": "Image"
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_ClassStairs_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1332323759,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_RailWayCrossing",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2597716865,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_RailWayCrossing_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 679164371,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Meihuayuan",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 757057552,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_HealthClub",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2678574046,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_HealthClub_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3611603034,
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_RedWinterStreet",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1736150242,
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_RedWinterStreet_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3485209109,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_WinterRoad",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 62245077,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_WinterRoad_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1423302919,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_BigBridge",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1465360899,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_BigBridge_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1276569362,
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CherinoOffice",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3418464175,
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CherinoOffice_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2291964314,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CherinoOffice2",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 814570535,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CherinoOffice2_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 443901266,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_IndoorPlaza",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1817643752,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_IndoorPlaza_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1194530437,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_IndoorPlaza_Night2",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2027340371,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_IndoorPlaza_Night3",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 830434421,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_MilleniumCorridor",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 9236385,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_MilleniumCorridor_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 532309962,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_ShoesCabinet",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2735979274,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Ward",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3493398222,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Ward_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 414441485,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_FamilyRestaurant",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1426693797,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_RiversideRoad",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2992070342,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_RiversideRoad_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1415075745,
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_RedWinterCampus",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3122883816,
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_RedWinterCampus_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2102820287,
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_RedWinterCampus2",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3261999362,
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_RedWinterCampus2_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1524647975,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_FoodCartRamen",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 117830104,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_FoodCartRamen_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 966440220,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_FoodCartRamen2",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1087382358,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_FoodCartRamen2_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1622702258,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_NewYearFestival",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3437769725,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_NewYearFestival_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1047632056,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_GehennaCampus",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 600083512,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_GehennaCampus_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1592269897,
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_HyakkiyakoFestivalRoad",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1035083758,
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_HyakkiyakoFestivalRoad_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 186671398,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_MilleniumCampus",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 478574439,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_MilleniumCampus_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 40551882,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_RuinSchoolCorridor",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2802318428,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_RuinSchoolCorridor_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 450984517,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_TatamiRoom",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3157992831,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_TatamiRoom_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2014709692,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_TrinityCampus",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2784556386,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_TrinityCampus_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2912464911,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_UndergroundPassage",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3579056496,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_UndergroundPassage_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1693520842,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_View_Sky",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 4208600133,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_View_Sky_Sunset",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3052798916,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_View_Sky_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3249951016,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Auditorium",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 822264126,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Auditorium_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 99907958,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Auditorium2",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3324611256,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Auditorium2_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1941606327,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_HyakkiyakoCampus",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 4041211828,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_HyakkiyakoCampus_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 997079982,
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_HyakkiyakoObservatory",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 825763509,
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_HyakkiyakoObservatory_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 482062952,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_GehennaCouncilHall",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3870155026,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_GehennaCouncilHall_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 4238746601,
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Beachside",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3560773531,
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Beachside_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1010860779,
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_Beachside_Sunset",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 4028062863,
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_BeachsideShop",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 184590516,
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_BeachsideShop_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3622654002,
+      "ProductionStep": "Complete",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_BeachsideShop_Sunset",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1480097333,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_CoastRoad",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2304284505,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_ModernCafe",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1684574643,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_DrawingRoom",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3648297618,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_BuildingRooftop",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3824102375,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/BG_BuildingRooftop_Night",
+      "BGType": "Image",
+      "AnimationRoot": null,
+      "AnimationName": null,
+      "SpineScale": 0.0,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
     }
   ]
 }

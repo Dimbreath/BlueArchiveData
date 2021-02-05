@@ -2,82 +2,123 @@
   "DataList": [
     {
       "UniqueId": 1,
-      "MinDistance": 35.0,
+      "MinDistance": 30.0,
       "MaxDistance": 42.0,
       "RotationX": 25.25313,
-      "RotationY": -62.668549,
-      "MoveInstantly": true,
+      "RotationY": -62.66855,
+      "MoveInstantly": false,
       "LeftMargin": 0.07,
-      "BottomMargin": 0.05
+      "BottomMargin": 0.05,
+      "IgnoreEnemies": false,
+      "UseRailPointCompensation": false
     },
     {
       "UniqueId": 2,
-      "MinDistance": 35.0,
+      "MinDistance": 42.0,
       "MaxDistance": 42.0,
-      "RotationX": 33.599998,
-      "RotationY": -52.200001,
-      "MoveInstantly": true,
-      "LeftMargin": 0.1,
-      "BottomMargin": 0.05
+      "RotationX": 25.25313,
+      "RotationY": -62.66855,
+      "MoveInstantly": false,
+      "LeftMargin": 0.07,
+      "BottomMargin": 0.05,
+      "IgnoreEnemies": false,
+      "UseRailPointCompensation": false
     },
     {
       "UniqueId": 3,
-      "MinDistance": 59.299999,
-      "MaxDistance": 59.299999,
-      "RotationX": 25.251369,
-      "RotationY": -62.670261,
+      "MinDistance": 59.3,
+      "MaxDistance": 59.3,
+      "RotationX": 25.25137,
+      "RotationY": -62.67026,
       "MoveInstantly": true,
       "LeftMargin": 0.2,
-      "BottomMargin": 0.05
+      "BottomMargin": 0.05,
+      "IgnoreEnemies": false,
+      "UseRailPointCompensation": true
     },
     {
       "UniqueId": 4,
       "MinDistance": 65.5,
       "MaxDistance": 65.5,
-      "RotationX": 30.603399,
+      "RotationX": 30.6034,
       "RotationY": -88.223,
+      "MoveInstantly": false,
       "LeftMargin": 0.2,
-      "BottomMargin": 0.05
+      "BottomMargin": 0.05,
+      "IgnoreEnemies": false,
+      "UseRailPointCompensation": true
     },
     {
       "UniqueId": 5,
-      "MinDistance": 68.900002,
-      "MaxDistance": 68.900002,
+      "MinDistance": 68.9,
+      "MaxDistance": 68.9,
       "RotationX": 24.62908,
       "RotationY": -45.21933,
       "MoveInstantly": true,
       "LeftMargin": 0.2,
-      "BottomMargin": 0.05
+      "BottomMargin": 0.05,
+      "IgnoreEnemies": false,
+      "UseRailPointCompensation": true
     },
     {
       "UniqueId": 6,
       "MinDistance": 50.0,
       "MaxDistance": 50.0,
       "RotationX": 25.25313,
-      "RotationY": -62.668549,
+      "RotationY": -62.66855,
       "MoveInstantly": true,
       "LeftMargin": 0.1,
-      "BottomMargin": 0.05
+      "BottomMargin": 0.05,
+      "IgnoreEnemies": false,
+      "UseRailPointCompensation": false
     },
     {
       "UniqueId": 7,
-      "MinDistance": 55.0,
-      "MaxDistance": 55.0,
-      "RotationX": 30.83,
-      "RotationY": -62.669998,
+      "MinDistance": 53.0,
+      "MaxDistance": 53.0,
+      "RotationX": 22.82,
+      "RotationY": -49.2,
       "MoveInstantly": true,
-      "LeftMargin": 0.2,
-      "BottomMargin": 0.05
+      "LeftMargin": 0.1,
+      "BottomMargin": 0.05,
+      "IgnoreEnemies": false,
+      "UseRailPointCompensation": false
     },
     {
       "UniqueId": 8,
       "MinDistance": 37.0,
       "MaxDistance": 42.0,
       "RotationX": 25.25313,
-      "RotationY": -62.668549,
+      "RotationY": -62.66855,
       "MoveInstantly": true,
       "LeftMargin": 0.07,
-      "BottomMargin": 0.01
+      "BottomMargin": 0.01,
+      "IgnoreEnemies": false,
+      "UseRailPointCompensation": false
+    },
+    {
+      "UniqueId": 9,
+      "MinDistance": 35.0,
+      "MaxDistance": 42.0,
+      "RotationX": 25.25313,
+      "RotationY": -62.66855,
+      "MoveInstantly": false,
+      "LeftMargin": 0.07,
+      "BottomMargin": 0.05,
+      "IgnoreEnemies": true,
+      "UseRailPointCompensation": false
+    },
+    {
+      "UniqueId": 10,
+      "MinDistance": 30.0,
+      "MaxDistance": 42.0,
+      "RotationX": 25.25313,
+      "RotationY": -62.66855,
+      "MoveInstantly": false,
+      "LeftMargin": 0.2,
+      "BottomMargin": 0.05,
+      "IgnoreEnemies": false,
+      "UseRailPointCompensation": false
     }
   ]
 }

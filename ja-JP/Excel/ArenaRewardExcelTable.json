@@ -1,383 +1,2024 @@
 {
   "DataList": [
     {
+      "UniqueId": 0,
       "ArenaRewardType": "Time",
       "RankStart": 1,
       "RankEnd": 1,
-      "RewardParcelTypeLength": 80,
-      "RewardParcelUniqueIdLength": 64,
-      "RewardParcelUniqueNameLength": 40,
-      "RewardParcelAmountLength": 24
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        1
+      ],
+      "RewardParcelUniqueName": [
+        "Gold"
+      ],
+      "RewardParcelAmount": [
+        120
+      ]
     },
     {
       "UniqueId": 1,
       "ArenaRewardType": "Time",
       "RankStart": 2,
       "RankEnd": 2,
-      "RewardParcelTypeLength": 88,
-      "RewardParcelUniqueIdLength": 72,
-      "RewardParcelUniqueNameLength": 48,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        1
+      ],
+      "RewardParcelUniqueName": [
+        "Gold"
+      ],
+      "RewardParcelAmount": [
+        110
+      ]
     },
     {
       "UniqueId": 2,
       "ArenaRewardType": "Time",
       "RankStart": 3,
       "RankEnd": 10,
-      "RewardParcelTypeLength": 88,
-      "RewardParcelUniqueIdLength": 72,
-      "RewardParcelUniqueNameLength": 48,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        1
+      ],
+      "RewardParcelUniqueName": [
+        "Gold"
+      ],
+      "RewardParcelAmount": [
+        100
+      ]
     },
     {
       "UniqueId": 3,
       "ArenaRewardType": "Time",
       "RankStart": 11,
       "RankEnd": 100,
-      "RewardParcelTypeLength": 88,
-      "RewardParcelUniqueIdLength": 72,
-      "RewardParcelUniqueNameLength": 48,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        1
+      ],
+      "RewardParcelUniqueName": [
+        "Gold"
+      ],
+      "RewardParcelAmount": [
+        90
+      ]
     },
     {
       "UniqueId": 4,
       "ArenaRewardType": "Time",
       "RankStart": 101,
       "RankEnd": 200,
-      "RewardParcelTypeLength": 88,
-      "RewardParcelUniqueIdLength": 72,
-      "RewardParcelUniqueNameLength": 48,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        1
+      ],
+      "RewardParcelUniqueName": [
+        "Gold"
+      ],
+      "RewardParcelAmount": [
+        80
+      ]
     },
     {
       "UniqueId": 5,
       "ArenaRewardType": "Time",
       "RankStart": 201,
       "RankEnd": 500,
-      "RewardParcelTypeLength": 88,
-      "RewardParcelUniqueIdLength": 72,
-      "RewardParcelUniqueNameLength": 48,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        1
+      ],
+      "RewardParcelUniqueName": [
+        "Gold"
+      ],
+      "RewardParcelAmount": [
+        70
+      ]
     },
     {
       "UniqueId": 6,
       "ArenaRewardType": "Time",
       "RankStart": 501,
       "RankEnd": 1000,
-      "RewardParcelTypeLength": 88,
-      "RewardParcelUniqueIdLength": 72,
-      "RewardParcelUniqueNameLength": 48,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        1
+      ],
+      "RewardParcelUniqueName": [
+        "Gold"
+      ],
+      "RewardParcelAmount": [
+        60
+      ]
     },
     {
       "UniqueId": 7,
       "ArenaRewardType": "Time",
       "RankStart": 1001,
       "RankEnd": 2000,
-      "RewardParcelTypeLength": 88,
-      "RewardParcelUniqueIdLength": 72,
-      "RewardParcelUniqueNameLength": 48,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        1
+      ],
+      "RewardParcelUniqueName": [
+        "Gold"
+      ],
+      "RewardParcelAmount": [
+        50
+      ]
     },
     {
       "UniqueId": 8,
       "ArenaRewardType": "Time",
       "RankStart": 2001,
       "RankEnd": 4000,
-      "RewardParcelTypeLength": 88,
-      "RewardParcelUniqueIdLength": 72,
-      "RewardParcelUniqueNameLength": 48,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        1
+      ],
+      "RewardParcelUniqueName": [
+        "Gold"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
     },
     {
       "UniqueId": 9,
       "ArenaRewardType": "Time",
       "RankStart": 4001,
       "RankEnd": 8000,
-      "RewardParcelTypeLength": 88,
-      "RewardParcelUniqueIdLength": 72,
-      "RewardParcelUniqueNameLength": 48,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        1
+      ],
+      "RewardParcelUniqueName": [
+        "Gold"
+      ],
+      "RewardParcelAmount": [
+        35
+      ]
     },
     {
-      "UniqueId": 9999,
+      "UniqueId": 10,
       "ArenaRewardType": "Time",
       "RankStart": 8001,
       "RankEnd": 15000,
-      "RewardParcelTypeLength": 88,
-      "RewardParcelUniqueIdLength": 72,
-      "RewardParcelUniqueNameLength": 48,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        1
+      ],
+      "RewardParcelUniqueName": [
+        "Gold"
+      ],
+      "RewardParcelAmount": [
+        30
+      ]
     },
     {
-      "UniqueId": 10000,
+      "UniqueId": 100,
       "ArenaRewardType": "Daily",
       "RankStart": 1,
       "RankEnd": 1,
-      "RewardParcelTypeLength": 132,
-      "RewardParcelUniqueIdLength": 104,
-      "RewardParcelUniqueNameLength": 60,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency",
+        "Item"
+      ],
+      "RewardParcelUniqueId": [
+        3,
+        8
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus",
+        "AreaCoin"
+      ],
+      "RewardParcelAmount": [
+        45,
+        125
+      ]
     },
     {
-      "UniqueId": 10001,
+      "UniqueId": 101,
       "ArenaRewardType": "Daily",
       "RankStart": 2,
       "RankEnd": 2,
-      "RewardParcelTypeLength": 132,
-      "RewardParcelUniqueIdLength": 104,
-      "RewardParcelUniqueNameLength": 60,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency",
+        "Item"
+      ],
+      "RewardParcelUniqueId": [
+        3,
+        8
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus",
+        "AreaCoin"
+      ],
+      "RewardParcelAmount": [
+        40,
+        120
+      ]
     },
     {
-      "UniqueId": 10002,
+      "UniqueId": 102,
       "ArenaRewardType": "Daily",
       "RankStart": 3,
       "RankEnd": 10,
-      "RewardParcelTypeLength": 132,
-      "RewardParcelUniqueIdLength": 104,
-      "RewardParcelUniqueNameLength": 60,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency",
+        "Item"
+      ],
+      "RewardParcelUniqueId": [
+        3,
+        8
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus",
+        "AreaCoin"
+      ],
+      "RewardParcelAmount": [
+        35,
+        110
+      ]
     },
     {
-      "UniqueId": 10003,
+      "UniqueId": 103,
       "ArenaRewardType": "Daily",
       "RankStart": 11,
       "RankEnd": 100,
-      "RewardParcelTypeLength": 132,
-      "RewardParcelUniqueIdLength": 104,
-      "RewardParcelUniqueNameLength": 60,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency",
+        "Item"
+      ],
+      "RewardParcelUniqueId": [
+        3,
+        8
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus",
+        "AreaCoin"
+      ],
+      "RewardParcelAmount": [
+        30,
+        100
+      ]
     },
     {
-      "UniqueId": 10004,
+      "UniqueId": 104,
       "ArenaRewardType": "Daily",
       "RankStart": 101,
       "RankEnd": 200,
-      "RewardParcelTypeLength": 132,
-      "RewardParcelUniqueIdLength": 104,
-      "RewardParcelUniqueNameLength": 60,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency",
+        "Item"
+      ],
+      "RewardParcelUniqueId": [
+        3,
+        8
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus",
+        "AreaCoin"
+      ],
+      "RewardParcelAmount": [
+        25,
+        90
+      ]
     },
     {
-      "UniqueId": 10005,
+      "UniqueId": 105,
       "ArenaRewardType": "Daily",
       "RankStart": 201,
       "RankEnd": 500,
-      "RewardParcelTypeLength": 132,
-      "RewardParcelUniqueIdLength": 104,
-      "RewardParcelUniqueNameLength": 60,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency",
+        "Item"
+      ],
+      "RewardParcelUniqueId": [
+        3,
+        8
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus",
+        "AreaCoin"
+      ],
+      "RewardParcelAmount": [
+        20,
+        80
+      ]
     },
     {
-      "UniqueId": 10006,
+      "UniqueId": 106,
       "ArenaRewardType": "Daily",
       "RankStart": 501,
       "RankEnd": 1000,
-      "RewardParcelTypeLength": 132,
-      "RewardParcelUniqueIdLength": 104,
-      "RewardParcelUniqueNameLength": 60,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency",
+        "Item"
+      ],
+      "RewardParcelUniqueId": [
+        3,
+        8
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus",
+        "AreaCoin"
+      ],
+      "RewardParcelAmount": [
+        18,
+        70
+      ]
     },
     {
-      "UniqueId": 10007,
+      "UniqueId": 107,
       "ArenaRewardType": "Daily",
       "RankStart": 1001,
       "RankEnd": 2000,
-      "RewardParcelTypeLength": 132,
-      "RewardParcelUniqueIdLength": 104,
-      "RewardParcelUniqueNameLength": 60,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency",
+        "Item"
+      ],
+      "RewardParcelUniqueId": [
+        3,
+        8
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus",
+        "AreaCoin"
+      ],
+      "RewardParcelAmount": [
+        16,
+        60
+      ]
     },
     {
-      "UniqueId": 10008,
+      "UniqueId": 108,
       "ArenaRewardType": "Daily",
       "RankStart": 2001,
-      "RankEnd": 15000,
-      "RewardParcelTypeLength": 132,
-      "RewardParcelUniqueIdLength": 104,
-      "RewardParcelUniqueNameLength": 60,
-      "RewardParcelAmountLength": 32
+      "RankEnd": 4000,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency",
+        "Item"
+      ],
+      "RewardParcelUniqueId": [
+        3,
+        8
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus",
+        "AreaCoin"
+      ],
+      "RewardParcelAmount": [
+        14,
+        50
+      ]
     },
     {
-      "UniqueId": 20000,
+      "UniqueId": 109,
+      "ArenaRewardType": "Daily",
+      "RankStart": 4001,
+      "RankEnd": 8000,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency",
+        "Item"
+      ],
+      "RewardParcelUniqueId": [
+        3,
+        8
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus",
+        "AreaCoin"
+      ],
+      "RewardParcelAmount": [
+        12,
+        40
+      ]
+    },
+    {
+      "UniqueId": 110,
+      "ArenaRewardType": "Daily",
+      "RankStart": 8001,
+      "RankEnd": 15000,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency",
+        "Item"
+      ],
+      "RewardParcelUniqueId": [
+        3,
+        8
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus",
+        "AreaCoin"
+      ],
+      "RewardParcelAmount": [
+        10,
+        30
+      ]
+    },
+    {
+      "UniqueId": 1000,
       "ArenaRewardType": "SeasonRecord",
       "RankStart": 1,
       "RankEnd": 10,
-      "RewardParcelTypeLength": 88,
-      "RewardParcelUniqueIdLength": 72,
-      "RewardParcelUniqueNameLength": 48,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
     },
     {
-      "UniqueId": 20001,
+      "UniqueId": 1001,
       "ArenaRewardType": "SeasonRecord",
       "RankStart": 11,
       "RankEnd": 100,
-      "RewardParcelTypeLength": 88,
-      "RewardParcelUniqueIdLength": 72,
-      "RewardParcelUniqueNameLength": 48,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        3
+      ]
     },
     {
-      "UniqueId": 20002,
+      "UniqueId": 1002,
       "ArenaRewardType": "SeasonRecord",
       "RankStart": 101,
-      "RankEnd": 200,
-      "RewardParcelTypeLength": 88,
-      "RewardParcelUniqueIdLength": 72,
-      "RewardParcelUniqueNameLength": 48,
-      "RewardParcelAmountLength": 32
-    },
-    {
-      "UniqueId": 20003,
-      "ArenaRewardType": "SeasonRecord",
-      "RankStart": 201,
       "RankEnd": 500,
-      "RewardParcelTypeLength": 88,
-      "RewardParcelUniqueIdLength": 72,
-      "RewardParcelUniqueNameLength": 48,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        2
+      ]
     },
     {
-      "UniqueId": 20004,
+      "UniqueId": 1003,
       "ArenaRewardType": "SeasonRecord",
       "RankStart": 501,
       "RankEnd": 1000,
-      "RewardParcelTypeLength": 88,
-      "RewardParcelUniqueIdLength": 72,
-      "RewardParcelUniqueNameLength": 48,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        1
+      ]
     },
     {
-      "UniqueId": 20005,
+      "UniqueId": 1004,
       "ArenaRewardType": "SeasonRecord",
-      "RankStart": 1001,
+      "RankStart": 1100,
+      "RankEnd": 1100,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1005,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 1200,
+      "RankEnd": 1200,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1006,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 1300,
+      "RankEnd": 1300,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1007,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 1400,
+      "RankEnd": 1400,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1008,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 1500,
+      "RankEnd": 1500,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1009,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 1600,
+      "RankEnd": 1600,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1010,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 1700,
+      "RankEnd": 1700,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1011,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 1800,
+      "RankEnd": 1800,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1012,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 1900,
+      "RankEnd": 1900,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1013,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 2000,
       "RankEnd": 2000,
-      "RewardParcelTypeLength": 88,
-      "RewardParcelUniqueIdLength": 72,
-      "RewardParcelUniqueNameLength": 48,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
     },
     {
-      "UniqueId": 20006,
+      "UniqueId": 1014,
       "ArenaRewardType": "SeasonRecord",
-      "RankStart": 2001,
+      "RankStart": 2100,
+      "RankEnd": 2100,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1015,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 2200,
+      "RankEnd": 2200,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1016,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 2300,
+      "RankEnd": 2300,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1017,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 2400,
+      "RankEnd": 2400,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1018,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 2500,
+      "RankEnd": 2500,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1019,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 2600,
+      "RankEnd": 2600,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1020,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 2700,
+      "RankEnd": 2700,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1021,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 2800,
+      "RankEnd": 2800,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1022,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 2900,
+      "RankEnd": 2900,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1023,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 3000,
+      "RankEnd": 3000,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1024,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 3500,
+      "RankEnd": 3500,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1025,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 4000,
       "RankEnd": 4000,
-      "RewardParcelTypeLength": 88,
-      "RewardParcelUniqueIdLength": 72,
-      "RewardParcelUniqueNameLength": 48,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
     },
     {
-      "UniqueId": 29999,
+      "UniqueId": 1026,
       "ArenaRewardType": "SeasonRecord",
-      "RankStart": 4001,
-      "RankEnd": 15000,
-      "RewardParcelTypeLength": 88,
-      "RewardParcelUniqueIdLength": 72,
-      "RewardParcelUniqueNameLength": 48,
-      "RewardParcelAmountLength": 32
+      "RankStart": 4500,
+      "RankEnd": 4500,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
     },
     {
-      "UniqueId": 30000,
+      "UniqueId": 1027,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 5000,
+      "RankEnd": 5000,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1028,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 5500,
+      "RankEnd": 5500,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1029,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 6000,
+      "RankEnd": 6000,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1030,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 6500,
+      "RankEnd": 6500,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1031,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 7000,
+      "RankEnd": 7000,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1032,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 8000,
+      "RankEnd": 8000,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1033,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 9000,
+      "RankEnd": 9000,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1034,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 10000,
+      "RankEnd": 10000,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1035,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 11000,
+      "RankEnd": 11000,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1036,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 12000,
+      "RankEnd": 12000,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1037,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 13000,
+      "RankEnd": 13000,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1038,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 14000,
+      "RankEnd": 14000,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 1039,
+      "ArenaRewardType": "SeasonRecord",
+      "RankStart": 15000,
+      "RankEnd": 15000,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "UniqueId": 2000,
       "ArenaRewardType": "OverallRecord",
       "RankStart": 1,
       "RankEnd": 10,
-      "RewardParcelTypeLength": 88,
-      "RewardParcelUniqueIdLength": 72,
-      "RewardParcelUniqueNameLength": 48,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        50
+      ]
     },
     {
-      "UniqueId": 30001,
+      "UniqueId": 2001,
       "ArenaRewardType": "OverallRecord",
       "RankStart": 11,
       "RankEnd": 100,
-      "RewardParcelTypeLength": 88,
-      "RewardParcelUniqueIdLength": 72,
-      "RewardParcelUniqueNameLength": 48,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        8
+      ]
     },
     {
-      "UniqueId": 30002,
+      "UniqueId": 2002,
       "ArenaRewardType": "OverallRecord",
       "RankStart": 101,
-      "RankEnd": 200,
-      "RewardParcelTypeLength": 88,
-      "RewardParcelUniqueIdLength": 72,
-      "RewardParcelUniqueNameLength": 48,
-      "RewardParcelAmountLength": 32
-    },
-    {
-      "UniqueId": 30003,
-      "ArenaRewardType": "OverallRecord",
-      "RankStart": 201,
       "RankEnd": 500,
-      "RewardParcelTypeLength": 88,
-      "RewardParcelUniqueIdLength": 72,
-      "RewardParcelUniqueNameLength": 48,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        5
+      ]
     },
     {
-      "UniqueId": 30004,
+      "UniqueId": 2003,
       "ArenaRewardType": "OverallRecord",
       "RankStart": 501,
       "RankEnd": 1000,
-      "RewardParcelTypeLength": 88,
-      "RewardParcelUniqueIdLength": 72,
-      "RewardParcelUniqueNameLength": 48,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        2
+      ]
     },
     {
-      "UniqueId": 30005,
+      "UniqueId": 2004,
       "ArenaRewardType": "OverallRecord",
-      "RankStart": 1001,
+      "RankStart": 1100,
+      "RankEnd": 1100,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2005,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 1200,
+      "RankEnd": 1200,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2006,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 1300,
+      "RankEnd": 1300,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2007,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 1400,
+      "RankEnd": 1400,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2008,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 1500,
+      "RankEnd": 1500,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2009,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 1600,
+      "RankEnd": 1600,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2010,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 1700,
+      "RankEnd": 1700,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2011,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 1800,
+      "RankEnd": 1800,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2012,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 1900,
+      "RankEnd": 1900,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2013,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 2000,
       "RankEnd": 2000,
-      "RewardParcelTypeLength": 88,
-      "RewardParcelUniqueIdLength": 72,
-      "RewardParcelUniqueNameLength": 48,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
     },
     {
-      "UniqueId": 30006,
+      "UniqueId": 2014,
       "ArenaRewardType": "OverallRecord",
-      "RankStart": 2001,
+      "RankStart": 2100,
+      "RankEnd": 2100,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2015,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 2200,
+      "RankEnd": 2200,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2016,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 2300,
+      "RankEnd": 2300,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2017,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 2400,
+      "RankEnd": 2400,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2018,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 2500,
+      "RankEnd": 2500,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2019,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 2600,
+      "RankEnd": 2600,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2020,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 2700,
+      "RankEnd": 2700,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2021,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 2800,
+      "RankEnd": 2800,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2022,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 2900,
+      "RankEnd": 2900,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2023,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 3000,
+      "RankEnd": 3000,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2024,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 3500,
+      "RankEnd": 3500,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2025,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 4000,
       "RankEnd": 4000,
-      "RewardParcelTypeLength": 88,
-      "RewardParcelUniqueIdLength": 72,
-      "RewardParcelUniqueNameLength": 48,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
     },
     {
-      "UniqueId": 39999,
+      "UniqueId": 2026,
       "ArenaRewardType": "OverallRecord",
-      "RankStart": 4001,
+      "RankStart": 4500,
+      "RankEnd": 4500,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2027,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 5000,
+      "RankEnd": 5000,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2028,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 5500,
+      "RankEnd": 5500,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2029,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 6000,
+      "RankEnd": 6000,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2030,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 6500,
+      "RankEnd": 6500,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2031,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 7000,
+      "RankEnd": 7000,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2032,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 8000,
+      "RankEnd": 8000,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2033,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 9000,
+      "RankEnd": 9000,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2034,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 10000,
+      "RankEnd": 10000,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2035,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 11000,
+      "RankEnd": 11000,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2036,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 12000,
+      "RankEnd": 12000,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2037,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 13000,
+      "RankEnd": 13000,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2038,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 14000,
+      "RankEnd": 14000,
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "UniqueId": 2039,
+      "ArenaRewardType": "OverallRecord",
+      "RankStart": 15000,
       "RankEnd": 15000,
-      "RewardParcelTypeLength": 88,
-      "RewardParcelUniqueIdLength": 72,
-      "RewardParcelUniqueNameLength": 48,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        3
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
     },
     {
       "UniqueId": 49999,
       "ArenaRewardType": "AttackVictory",
       "RankStart": 1,
       "RankEnd": 15000,
-      "RewardParcelTypeLength": 88,
-      "RewardParcelUniqueIdLength": 72,
-      "RewardParcelUniqueNameLength": 48,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelUniqueId": [
+        1
+      ],
+      "RewardParcelUniqueName": [
+        "Credit"
+      ],
+      "RewardParcelAmount": [
+        1000
+      ]
     },
     {
       "UniqueId": 59999,
       "ArenaRewardType": "DefenseVictory",
       "RankStart": 1,
       "RankEnd": 15000,
-      "RewardParcelTypeLength": 96,
-      "RewardParcelUniqueIdLength": 80,
-      "RewardParcelUniqueNameLength": 52,
-      "RewardParcelAmountLength": 32
+      "RankIconPath": null,
+      "RewardParcelType": [
+        "Item"
+      ],
+      "RewardParcelUniqueId": [
+        8
+      ],
+      "RewardParcelUniqueName": [
+        "ArenaCoin"
+      ],
+      "RewardParcelAmount": [
+        3
+      ]
     },
     {
       "UniqueId": 60000,
@@ -385,10 +2026,10 @@
       "RankStart": 1,
       "RankEnd": 100,
       "RankIconPath": "UIs/01_Common/18_PVPArena/Arena_RankIcon_04",
-      "RewardParcelTypeLength": 60,
-      "RewardParcelUniqueIdLength": 48,
-      "RewardParcelUniqueNameLength": 40,
-      "RewardParcelAmountLength": 32
+      "RewardParcelType": [],
+      "RewardParcelUniqueId": [],
+      "RewardParcelUniqueName": [],
+      "RewardParcelAmount": []
     },
     {
       "UniqueId": 60001,
@@ -396,10 +2037,10 @@
       "RankStart": 101,
       "RankEnd": 5000,
       "RankIconPath": "UIs/01_Common/18_PVPArena/Arena_RankIcon_03",
-      "RewardParcelTypeLength": 56,
-      "RewardParcelUniqueIdLength": 48,
-      "RewardParcelUniqueNameLength": 40,
-      "RewardParcelAmountLength": 32
+      "RewardParcelType": [],
+      "RewardParcelUniqueId": [],
+      "RewardParcelUniqueName": [],
+      "RewardParcelAmount": []
     },
     {
       "UniqueId": 60002,
@@ -407,10 +2048,10 @@
       "RankStart": 5001,
       "RankEnd": 10000,
       "RankIconPath": "UIs/01_Common/18_PVPArena/Arena_RankIcon_02",
-      "RewardParcelTypeLength": 56,
-      "RewardParcelUniqueIdLength": 48,
-      "RewardParcelUniqueNameLength": 40,
-      "RewardParcelAmountLength": 32
+      "RewardParcelType": [],
+      "RewardParcelUniqueId": [],
+      "RewardParcelUniqueName": [],
+      "RewardParcelAmount": []
     },
     {
       "UniqueId": 60003,
@@ -418,10 +2059,10 @@
       "RankStart": 10001,
       "RankEnd": 15001,
       "RankIconPath": "UIs/01_Common/18_PVPArena/Arena_RankIcon_01",
-      "RewardParcelTypeLength": 56,
-      "RewardParcelUniqueIdLength": 48,
-      "RewardParcelUniqueNameLength": 40,
-      "RewardParcelAmountLength": 32
+      "RewardParcelType": [],
+      "RewardParcelUniqueId": [],
+      "RewardParcelUniqueName": [],
+      "RewardParcelAmount": []
     }
   ]
 }

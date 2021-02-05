@@ -1,0 +1,32 @@
+{
+  "DataList": [
+    {
+      "BuffId": 1,
+      "IsBuff": true,
+      "BuffName": null,
+      "BuffExplanation": null,
+      "WeaponType": "SG",
+      "School": "None",
+      "CharacterId": 0,
+      "BuffType": "Buff_AttackPower",
+      "BuffValue": 1000,
+      "Prob": 10,
+      "BuffIcon": null,
+      "BuffSmallIcon": null
+    },
+    {
+      "BuffId": 2,
+      "IsBuff": false,
+      "BuffName": null,
+      "BuffExplanation": null,
+      "WeaponType": "SG",
+      "School": "None",
+      "CharacterId": 0,
+      "BuffType": "Buff_AttackPower",
+      "BuffValue": 1000,
+      "Prob": 10,
+      "BuffIcon": null,
+      "BuffSmallIcon": null
+    }
+  ]
+}

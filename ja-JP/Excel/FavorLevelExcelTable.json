@@ -2,43 +2,603 @@
   "DataList": [
     {
       "Level": 1,
-      "ExpTypeLength": 16
+      "ExpType": [
+        20
+      ]
     },
     {
       "Level": 2,
-      "ExpTypeLength": 16
+      "ExpType": [
+        30
+      ]
     },
     {
       "Level": 3,
-      "ExpTypeLength": 16
+      "ExpType": [
+        30
+      ]
     },
     {
       "Level": 4,
-      "ExpTypeLength": 16
+      "ExpType": [
+        30
+      ]
     },
     {
       "Level": 5,
-      "ExpTypeLength": 16
+      "ExpType": [
+        30
+      ]
     },
     {
       "Level": 6,
-      "ExpTypeLength": 16
+      "ExpType": [
+        40
+      ]
     },
     {
       "Level": 7,
-      "ExpTypeLength": 16
+      "ExpType": [
+        40
+      ]
     },
     {
       "Level": 8,
-      "ExpTypeLength": 16
+      "ExpType": [
+        40
+      ]
     },
     {
       "Level": 9,
-      "ExpTypeLength": 16
+      "ExpType": [
+        40
+      ]
     },
     {
       "Level": 10,
-      "ExpTypeLength": 16
+      "ExpType": [
+        60
+      ]
+    },
+    {
+      "Level": 11,
+      "ExpType": [
+        90
+      ]
+    },
+    {
+      "Level": 12,
+      "ExpType": [
+        105
+      ]
+    },
+    {
+      "Level": 13,
+      "ExpType": [
+        120
+      ]
+    },
+    {
+      "Level": 14,
+      "ExpType": [
+        140
+      ]
+    },
+    {
+      "Level": 15,
+      "ExpType": [
+        160
+      ]
+    },
+    {
+      "Level": 16,
+      "ExpType": [
+        180
+      ]
+    },
+    {
+      "Level": 17,
+      "ExpType": [
+        205
+      ]
+    },
+    {
+      "Level": 18,
+      "ExpType": [
+        230
+      ]
+    },
+    {
+      "Level": 19,
+      "ExpType": [
+        255
+      ]
+    },
+    {
+      "Level": 20,
+      "ExpType": [
+        285
+      ]
+    },
+    {
+      "Level": 21,
+      "ExpType": [
+        315
+      ]
+    },
+    {
+      "Level": 22,
+      "ExpType": [
+        345
+      ]
+    },
+    {
+      "Level": 23,
+      "ExpType": [
+        375
+      ]
+    },
+    {
+      "Level": 24,
+      "ExpType": [
+        410
+      ]
+    },
+    {
+      "Level": 25,
+      "ExpType": [
+        445
+      ]
+    },
+    {
+      "Level": 26,
+      "ExpType": [
+        480
+      ]
+    },
+    {
+      "Level": 27,
+      "ExpType": [
+        520
+      ]
+    },
+    {
+      "Level": 28,
+      "ExpType": [
+        560
+      ]
+    },
+    {
+      "Level": 29,
+      "ExpType": [
+        600
+      ]
+    },
+    {
+      "Level": 30,
+      "ExpType": [
+        645
+      ]
+    },
+    {
+      "Level": 31,
+      "ExpType": [
+        690
+      ]
+    },
+    {
+      "Level": 32,
+      "ExpType": [
+        735
+      ]
+    },
+    {
+      "Level": 33,
+      "ExpType": [
+        780
+      ]
+    },
+    {
+      "Level": 34,
+      "ExpType": [
+        830
+      ]
+    },
+    {
+      "Level": 35,
+      "ExpType": [
+        880
+      ]
+    },
+    {
+      "Level": 36,
+      "ExpType": [
+        930
+      ]
+    },
+    {
+      "Level": 37,
+      "ExpType": [
+        985
+      ]
+    },
+    {
+      "Level": 38,
+      "ExpType": [
+        1040
+      ]
+    },
+    {
+      "Level": 39,
+      "ExpType": [
+        1095
+      ]
+    },
+    {
+      "Level": 40,
+      "ExpType": [
+        1155
+      ]
+    },
+    {
+      "Level": 41,
+      "ExpType": [
+        1215
+      ]
+    },
+    {
+      "Level": 42,
+      "ExpType": [
+        1275
+      ]
+    },
+    {
+      "Level": 43,
+      "ExpType": [
+        1335
+      ]
+    },
+    {
+      "Level": 44,
+      "ExpType": [
+        1400
+      ]
+    },
+    {
+      "Level": 45,
+      "ExpType": [
+        1465
+      ]
+    },
+    {
+      "Level": 46,
+      "ExpType": [
+        1530
+      ]
+    },
+    {
+      "Level": 47,
+      "ExpType": [
+        1600
+      ]
+    },
+    {
+      "Level": 48,
+      "ExpType": [
+        1670
+      ]
+    },
+    {
+      "Level": 49,
+      "ExpType": [
+        1740
+      ]
+    },
+    {
+      "Level": 50,
+      "ExpType": [
+        1815
+      ]
+    },
+    {
+      "Level": 51,
+      "ExpType": [
+        1890
+      ]
+    },
+    {
+      "Level": 52,
+      "ExpType": [
+        1965
+      ]
+    },
+    {
+      "Level": 53,
+      "ExpType": [
+        2040
+      ]
+    },
+    {
+      "Level": 54,
+      "ExpType": [
+        2120
+      ]
+    },
+    {
+      "Level": 55,
+      "ExpType": [
+        2200
+      ]
+    },
+    {
+      "Level": 56,
+      "ExpType": [
+        2280
+      ]
+    },
+    {
+      "Level": 57,
+      "ExpType": [
+        2365
+      ]
+    },
+    {
+      "Level": 58,
+      "ExpType": [
+        2450
+      ]
+    },
+    {
+      "Level": 59,
+      "ExpType": [
+        2535
+      ]
+    },
+    {
+      "Level": 60,
+      "ExpType": [
+        2625
+      ]
+    },
+    {
+      "Level": 61,
+      "ExpType": [
+        2715
+      ]
+    },
+    {
+      "Level": 62,
+      "ExpType": [
+        2805
+      ]
+    },
+    {
+      "Level": 63,
+      "ExpType": [
+        2895
+      ]
+    },
+    {
+      "Level": 64,
+      "ExpType": [
+        2990
+      ]
+    },
+    {
+      "Level": 65,
+      "ExpType": [
+        3085
+      ]
+    },
+    {
+      "Level": 66,
+      "ExpType": [
+        3180
+      ]
+    },
+    {
+      "Level": 67,
+      "ExpType": [
+        3280
+      ]
+    },
+    {
+      "Level": 68,
+      "ExpType": [
+        3380
+      ]
+    },
+    {
+      "Level": 69,
+      "ExpType": [
+        3480
+      ]
+    },
+    {
+      "Level": 70,
+      "ExpType": [
+        3585
+      ]
+    },
+    {
+      "Level": 71,
+      "ExpType": [
+        3690
+      ]
+    },
+    {
+      "Level": 72,
+      "ExpType": [
+        3795
+      ]
+    },
+    {
+      "Level": 73,
+      "ExpType": [
+        3900
+      ]
+    },
+    {
+      "Level": 74,
+      "ExpType": [
+        4010
+      ]
+    },
+    {
+      "Level": 75,
+      "ExpType": [
+        4120
+      ]
+    },
+    {
+      "Level": 76,
+      "ExpType": [
+        4230
+      ]
+    },
+    {
+      "Level": 77,
+      "ExpType": [
+        4345
+      ]
+    },
+    {
+      "Level": 78,
+      "ExpType": [
+        4460
+      ]
+    },
+    {
+      "Level": 79,
+      "ExpType": [
+        4575
+      ]
+    },
+    {
+      "Level": 80,
+      "ExpType": [
+        4695
+      ]
+    },
+    {
+      "Level": 81,
+      "ExpType": [
+        4815
+      ]
+    },
+    {
+      "Level": 82,
+      "ExpType": [
+        4935
+      ]
+    },
+    {
+      "Level": 83,
+      "ExpType": [
+        5055
+      ]
+    },
+    {
+      "Level": 84,
+      "ExpType": [
+        5180
+      ]
+    },
+    {
+      "Level": 85,
+      "ExpType": [
+        5305
+      ]
+    },
+    {
+      "Level": 86,
+      "ExpType": [
+        5430
+      ]
+    },
+    {
+      "Level": 87,
+      "ExpType": [
+        5560
+      ]
+    },
+    {
+      "Level": 88,
+      "ExpType": [
+        5690
+      ]
+    },
+    {
+      "Level": 89,
+      "ExpType": [
+        5820
+      ]
+    },
+    {
+      "Level": 90,
+      "ExpType": [
+        5955
+      ]
+    },
+    {
+      "Level": 91,
+      "ExpType": [
+        6090
+      ]
+    },
+    {
+      "Level": 92,
+      "ExpType": [
+        6225
+      ]
+    },
+    {
+      "Level": 93,
+      "ExpType": [
+        6360
+      ]
+    },
+    {
+      "Level": 94,
+      "ExpType": [
+        6500
+      ]
+    },
+    {
+      "Level": 95,
+      "ExpType": [
+        6640
+      ]
+    },
+    {
+      "Level": 96,
+      "ExpType": [
+        6780
+      ]
+    },
+    {
+      "Level": 97,
+      "ExpType": [
+        6925
+      ]
+    },
+    {
+      "Level": 98,
+      "ExpType": [
+        7070
+      ]
+    },
+    {
+      "Level": 99,
+      "ExpType": [
+        7215
+      ]
+    },
+    {
+      "Level": 100,
+      "ExpType": [
+        7365
+      ]
     }
   ]
 }

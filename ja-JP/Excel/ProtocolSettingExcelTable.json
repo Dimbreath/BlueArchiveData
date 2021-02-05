@@ -1,0 +1,1596 @@
+{
+  "DataList": [
+    {
+      "Protocol": "Account_Create",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Account_Nickname",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Account_Auth",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Account_CurrencySync",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Account_SetRepresentCharacterAndComment",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Account_GetTutorial",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Account_SetTutorial",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Account_PassCheck",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Account_VerifyForYostar",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Account_CheckYostar",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Account_CallName",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Account_BirthDay",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Character_List",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Character_Transcendence",
+      "ContentLockType": "Unit_Growth_Transcendence",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Character_ExpGrowth",
+      "ContentLockType": "Unit_Growth_LevelUp",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Character_FavorGrowth",
+      "ContentLockType": "Favor",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Character_UpdateSkillLevel",
+      "ContentLockType": "Unit_Growth_Skill",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Equipment_List",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Equipment_Sell",
+      "ContentLockType": "Equipment",
+      "OpenConditionContent": "None",
+      "Currency": true,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Equipment_Equip",
+      "ContentLockType": "Equipment",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Equipment_LevelUp",
+      "ContentLockType": "Equipment",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Equipment_TierUp",
+      "ContentLockType": "Equipment",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Equipment_Lock",
+      "ContentLockType": "Equipment",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Item_List",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Item_Sell",
+      "ContentLockType": "Item",
+      "OpenConditionContent": "None",
+      "Currency": true,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Item_Consume",
+      "ContentLockType": "Item",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": true
+    },
+    {
+      "Protocol": "Item_Lock",
+      "ContentLockType": "Item",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Item_BulkConsume",
+      "ContentLockType": "Item",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": true
+    },
+    {
+      "Protocol": "Item_SelectTicket",
+      "ContentLockType": "Item",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Echelon_List",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Echelon_Save",
+      "ContentLockType": "Echelon",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Campaign_List",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Campaign_EnterMainStage",
+      "ContentLockType": "Campaign",
+      "OpenConditionContent": "Campaign",
+      "Currency": false,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Campaign_ConfirmMainStage",
+      "ContentLockType": "Campaign",
+      "OpenConditionContent": "Campaign",
+      "Currency": false,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Campaign_DeployEchelon",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Campaign_WithdrawEchelon",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Campaign_MapMove",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Campaign_EndTurn",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Campaign_EnterTactic",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Campaign_TacticResult",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Campaign_Retreat",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Campaign_ChapterClearReward",
+      "ContentLockType": "Campaign",
+      "OpenConditionContent": "Campaign",
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Campaign_Heal",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Campaign_EnterSubStage",
+      "ContentLockType": "Campaign",
+      "OpenConditionContent": "Campaign",
+      "Currency": false,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Campaign_SubStageResult",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Campaign_Portal",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Campaign_ConfirmTutorialStage",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Campaign_PurchasePlayCountHardStage",
+      "ContentLockType": "Campaign",
+      "OpenConditionContent": "Campaign",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Campaign_EnterTutorialStage",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Campaign_TutorialStageResult",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Mail_List",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Mail_Check",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Mail_Receive",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Mission_List",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Mission_Reward",
+      "ContentLockType": "NotUseControlledByOtherSetting",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": true
+    },
+    {
+      "Protocol": "Mission_MultipleReward",
+      "ContentLockType": "NotUseControlledByOtherSetting",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": true
+    },
+    {
+      "Protocol": "Attendance_List",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Attendance_Check",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Attendance_Reward",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": true
+    },
+    {
+      "Protocol": "Shop_BuyMerchandise",
+      "ContentLockType": "Shop",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": true
+    },
+    {
+      "Protocol": "Shop_BuyGacha",
+      "ContentLockType": "Gacha",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": true
+    },
+    {
+      "Protocol": "Shop_List",
+      "ContentLockType": "Shop",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Shop_Refresh",
+      "ContentLockType": "Shop",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Shop_BuyEligma",
+      "ContentLockType": "Shop",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": true
+    },
+    {
+      "Protocol": "Recipe_Craft",
+      "ContentLockType": "Craft",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "MemoryLobby_List",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "MemoryLobby_SetMain",
+      "ContentLockType": "LobbyIllust",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "MemoryLobby_UpdateLobbyMode",
+      "ContentLockType": "LobbyIllust",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "MemoryLobby_Interact",
+      "ContentLockType": "LobbyIllust",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "CumulativeTimeReward_List",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "CumulativeTimeReward_Reward",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "OpenCondition_List",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Toast_List",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Raid_List",
+      "ContentLockType": "None",
+      "OpenConditionContent": "Shop",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Raid_CompleteList",
+      "ContentLockType": "None",
+      "OpenConditionContent": "Shop",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Raid_Detail",
+      "ContentLockType": "None",
+      "OpenConditionContent": "Shop",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Raid_Search",
+      "ContentLockType": "None",
+      "OpenConditionContent": "Shop",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Raid_CreateBattle",
+      "ContentLockType": "Raid",
+      "OpenConditionContent": "Raid",
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Raid_EnterBattle",
+      "ContentLockType": "Raid",
+      "OpenConditionContent": "Raid",
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Raid_BattleUpdate",
+      "ContentLockType": "Raid",
+      "OpenConditionContent": "Raid",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Raid_EndBattle",
+      "ContentLockType": "Raid",
+      "OpenConditionContent": "Raid",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Raid_Reward",
+      "ContentLockType": "Raid",
+      "OpenConditionContent": "Raid",
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Raid_SeasonReward",
+      "ContentLockType": "Raid",
+      "OpenConditionContent": "Raid",
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Raid_Lobby",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Raid_GiveUp",
+      "ContentLockType": "Raid",
+      "OpenConditionContent": "Raid",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Raid_OpponentList",
+      "ContentLockType": "Raid",
+      "OpenConditionContent": "Raid",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Raid_RankingReward",
+      "ContentLockType": "Raid",
+      "OpenConditionContent": "Raid",
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Raid_Login",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "SkipHistory_List",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "SkipHistory_Save",
+      "ContentLockType": "SkipHistorySave",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Scenario_List",
+      "ContentLockType": "None",
+      "OpenConditionContent": "Shop",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Scenario_Clear",
+      "ContentLockType": "Story",
+      "OpenConditionContent": "Shop",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Scenario_GroupHistoryUpdate",
+      "ContentLockType": "Story",
+      "OpenConditionContent": "Shop",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Scenario_Skip",
+      "ContentLockType": "Story",
+      "OpenConditionContent": "Shop",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Scenario_Select",
+      "ContentLockType": "Story",
+      "OpenConditionContent": "Shop",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Scenario_AccountStudentChange",
+      "ContentLockType": "None",
+      "OpenConditionContent": "Shop",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Scenario_LobbyStudentChange",
+      "ContentLockType": "LobbyIllust",
+      "OpenConditionContent": "Shop",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Scenario_SpecialLobbyChange",
+      "ContentLockType": "LobbyIllust",
+      "OpenConditionContent": "Shop",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Scenario_Enter",
+      "ContentLockType": "None",
+      "OpenConditionContent": "Shop",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Cafe_Get",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Cafe_Ack",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Cafe_Deploy",
+      "ContentLockType": "Cafe",
+      "OpenConditionContent": "Cafe",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Cafe_Relocate",
+      "ContentLockType": "Cafe",
+      "OpenConditionContent": "Cafe",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Cafe_Remove",
+      "ContentLockType": "Cafe",
+      "OpenConditionContent": "Cafe",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Cafe_RemoveAll",
+      "ContentLockType": "Cafe",
+      "OpenConditionContent": "Cafe",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Cafe_Interact",
+      "ContentLockType": "Cafe",
+      "OpenConditionContent": "Cafe",
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Cafe_ListPreset",
+      "ContentLockType": "Cafe",
+      "OpenConditionContent": "Cafe",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Cafe_RenamePreset",
+      "ContentLockType": "Cafe",
+      "OpenConditionContent": "Cafe",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Cafe_ClearPreset",
+      "ContentLockType": "Cafe",
+      "OpenConditionContent": "Cafe",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Cafe_UpdatePresetFurniture",
+      "ContentLockType": "Cafe",
+      "OpenConditionContent": "Cafe",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Cafe_ApplyPreset",
+      "ContentLockType": "Cafe",
+      "OpenConditionContent": "Cafe",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Cafe_RankUp",
+      "ContentLockType": "Cafe",
+      "OpenConditionContent": "Cafe",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Cafe_ReceiveCurrency",
+      "ContentLockType": "Cafe",
+      "OpenConditionContent": "Cafe",
+      "Currency": true,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Cafe_GiveGift",
+      "ContentLockType": "Cafe",
+      "OpenConditionContent": "Cafe",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Craft_List",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Craft_SelectNode",
+      "ContentLockType": "Craft",
+      "OpenConditionContent": "Craft",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Craft_UpdateNodeLevel",
+      "ContentLockType": "Craft",
+      "OpenConditionContent": "Craft",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Craft_BeginProcess",
+      "ContentLockType": "Craft",
+      "OpenConditionContent": "Craft",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Craft_CompleteProcess",
+      "ContentLockType": "Craft",
+      "OpenConditionContent": "Craft",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Craft_Reward",
+      "ContentLockType": "Craft",
+      "OpenConditionContent": "Craft",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": true
+    },
+    {
+      "Protocol": "Craft_HistoryList",
+      "ContentLockType": "Craft",
+      "OpenConditionContent": "Craft",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Arena_EnterLobby",
+      "ContentLockType": "Arena",
+      "OpenConditionContent": "Arena",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Arena_Login",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Arena_SettingChange",
+      "ContentLockType": "Arena",
+      "OpenConditionContent": "Arena",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Arena_OpponentList",
+      "ContentLockType": "Arena",
+      "OpenConditionContent": "Arena",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Arena_EnterBattle",
+      "ContentLockType": "Arena",
+      "OpenConditionContent": "Arena",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Arena_EnterBattlePart1",
+      "ContentLockType": "Arena",
+      "OpenConditionContent": "Arena",
+      "Currency": false,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Arena_EnterBattlePart2",
+      "ContentLockType": "Arena",
+      "OpenConditionContent": "Arena",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Arena_BattleResult",
+      "ContentLockType": "Arena",
+      "OpenConditionContent": "Arena",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Arena_CumulativeTimeReward",
+      "ContentLockType": "Arena",
+      "OpenConditionContent": "Arena",
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Arena_DailyReward",
+      "ContentLockType": "Arena",
+      "OpenConditionContent": "Arena",
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Arena_RankList",
+      "ContentLockType": "Arena",
+      "OpenConditionContent": "Arena",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Arena_History",
+      "ContentLockType": "Arena",
+      "OpenConditionContent": "Arena",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Arena_RecordSync",
+      "ContentLockType": "Arena",
+      "OpenConditionContent": "Arena",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Arena_TicketPurchase",
+      "ContentLockType": "Arena",
+      "OpenConditionContent": "Arena",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Arena_DamageReport",
+      "ContentLockType": "Arena",
+      "OpenConditionContent": "Arena",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Arena_CheckSeasonCloseReward",
+      "ContentLockType": "Arena",
+      "OpenConditionContent": "Arena",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "WeekDungeon_List",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "WeekDungeon_EnterBattle",
+      "ContentLockType": "NotUseControlledByOtherSetting",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "WeekDungeon_BattleResult",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "WeekDungeon_Retreat",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Academy_GetInfo",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Academy_AttendSchedule",
+      "ContentLockType": "NotUseControlledByOtherSetting",
+      "OpenConditionContent": "Academy",
+      "Currency": false,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Event_UseCoupon",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Event_RewardIncrease",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "ContentSave_Get",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "ContentSave_Discard",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "ContentSweep_Request",
+      "ContentLockType": "NotUseControlledByOtherSetting",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Clan_Lobby",
+      "ContentLockType": "Clan",
+      "OpenConditionContent": "Clan",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Clan_Login",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Clan_Search",
+      "ContentLockType": "Clan",
+      "OpenConditionContent": "Clan",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Clan_Create",
+      "ContentLockType": "Clan",
+      "OpenConditionContent": "Clan",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Clan_Member",
+      "ContentLockType": "Clan",
+      "OpenConditionContent": "Clan",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Clan_Applicant",
+      "ContentLockType": "Clan",
+      "OpenConditionContent": "Clan",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Clan_Join",
+      "ContentLockType": "Clan",
+      "OpenConditionContent": "Clan",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Clan_Quit",
+      "ContentLockType": "Clan",
+      "OpenConditionContent": "Clan",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Clan_Permit",
+      "ContentLockType": "Clan",
+      "OpenConditionContent": "Clan",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Clan_Kick",
+      "ContentLockType": "Clan",
+      "OpenConditionContent": "Clan",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Clan_Setting",
+      "ContentLockType": "Clan",
+      "OpenConditionContent": "Clan",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Clan_Confer",
+      "ContentLockType": "Clan",
+      "OpenConditionContent": "Clan",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Clan_Dismiss",
+      "ContentLockType": "Clan",
+      "OpenConditionContent": "Clan",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Clan_AutoJoin",
+      "ContentLockType": "Clan",
+      "OpenConditionContent": "Clan",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Clan_MemberList",
+      "ContentLockType": "Clan",
+      "OpenConditionContent": "Clan",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Clan_CancelApply",
+      "ContentLockType": "Clan",
+      "OpenConditionContent": "Clan",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Clan_AssistList",
+      "ContentLockType": "Clan",
+      "OpenConditionContent": "Clan",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Clan_SetAssist",
+      "ContentLockType": "Clan",
+      "OpenConditionContent": "Clan",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Clan_ReceiveTermReward",
+      "ContentLockType": "Clan",
+      "OpenConditionContent": "Clan",
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Clan_ReceiveRentReward",
+      "ContentLockType": "Clan",
+      "OpenConditionContent": "Clan",
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Clan_ChatLog",
+      "ContentLockType": "Clan",
+      "OpenConditionContent": "Clan",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Billing_TransactionStartByYostar",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Billing_TransactionEndByYostar",
+      "ContentLockType": "Billing",
+      "OpenConditionContent": "Billing",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Billing_PurchaseListByYostar",
+      "ContentLockType": "Billing",
+      "OpenConditionContent": "Billing",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "EventContent_AdventureList",
+      "ContentLockType": "EventContent",
+      "OpenConditionContent": "EventContent",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "EventContent_EnterMainStage",
+      "ContentLockType": "NotUseControlledByOtherSetting",
+      "OpenConditionContent": "EventContent",
+      "Currency": false,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_ConfirmMainStage",
+      "ContentLockType": "NotUseControlledByOtherSetting",
+      "OpenConditionContent": "EventContent",
+      "Currency": false,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_EnterTactic",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "EventContent_TacticResult",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "EventContent_EnterSubStage",
+      "ContentLockType": "NotUseControlledByOtherSetting",
+      "OpenConditionContent": "EventContent",
+      "Currency": false,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_SubStageResult",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "EventContent_DeployEchelon",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "EventContent_WithdrawEchelon",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "EventContent_MapMove",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "EventContent_EndTurn",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "EventContent_Retreat",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "EventContent_Portal",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "EventContent_PurchasePlayCountHardStage",
+      "ContentLockType": "EventContent",
+      "OpenConditionContent": "EventContent",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "EventContent_ShopList",
+      "ContentLockType": "EventContent",
+      "OpenConditionContent": "EventContent",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "EventContent_ShopRefresh",
+      "ContentLockType": "EventContent",
+      "OpenConditionContent": "EventContent",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "EventContent_ReceiveStageTotalReward",
+      "ContentLockType": "EventContent",
+      "OpenConditionContent": "EventContent",
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_EnterMainGroundStage",
+      "ContentLockType": "NotUseControlledByOtherSetting",
+      "OpenConditionContent": "EventContent",
+      "Currency": false,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_MainGroundStageResult",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "EventContent_ShopBuyMerchandise",
+      "ContentLockType": "Shop",
+      "OpenConditionContent": "Shop",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": true
+    },
+    {
+      "Protocol": "TTS_GetFile",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "ContentLog_UIOpenStatistics",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "MomoTalk_OutLine",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "MomoTalk_MessageList",
+      "ContentLockType": "MomoTalk",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "MomoTalk_Read",
+      "ContentLockType": "MomoTalk",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "ClearDeck_List",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Queuing_GetTicket",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    }
+  ]
+}

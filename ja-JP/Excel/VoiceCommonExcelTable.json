@@ -1,88 +1,143 @@
 {
   "DataList": [
     {
+      "VoiceEvent": "OnTSA",
       "Rate": 10000,
-      "VoiceHashLength": 16
+      "VoiceHash": [
+        4002523193,
+        1961370414
+      ]
     },
     {
       "VoiceEvent": "FormationPickUp",
       "Rate": 10000,
-      "VoiceHashLength": 16
+      "VoiceHash": [
+        1684012410
+      ]
     },
     {
       "VoiceEvent": "CampaignResultDefeat",
       "Rate": 10000,
-      "VoiceHashLength": 16
+      "VoiceHash": [
+        2755408174,
+        1802513090
+      ]
     },
     {
       "VoiceEvent": "CampaignResultVictory",
       "Rate": 10000,
-      "VoiceHashLength": 12
+      "VoiceHash": [
+        1167879195,
+        2147520578
+      ]
     },
     {
       "VoiceEvent": "CharacterLevelUp",
       "Rate": 10000,
-      "VoiceHashLength": 16
+      "VoiceHash": [
+        1033179744,
+        1906069564,
+        2472902199,
+        1307556246
+      ]
     },
     {
       "VoiceEvent": "CharacterTranscendence",
       "Rate": 10000,
-      "VoiceHashLength": 12
+      "VoiceHash": [
+        1033179744,
+        1906069564,
+        2472902199,
+        1307556246
+      ]
     },
     {
       "VoiceEvent": "SkillLevelUp",
       "Rate": 10000,
-      "VoiceHashLength": 12
+      "VoiceHash": [
+        1033179744,
+        1906069564,
+        2472902199,
+        1307556246
+      ]
     },
     {
       "VoiceEvent": "Formation",
       "Rate": 10000,
-      "VoiceHashLength": 12
+      "VoiceHash": [
+        4150713884,
+        4256475579
+      ]
     },
     {
       "VoiceEvent": "CampaignCharacterSpawn",
       "Rate": 10000,
-      "VoiceHashLength": 12
+      "VoiceHash": [
+        3918369306,
+        538263194
+      ]
     },
     {
       "VoiceEvent": "BattleStartTimeline",
       "Rate": 10000,
-      "VoiceHashLength": 12
+      "VoiceHash": [
+        595815669,
+        2303280336
+      ]
     },
     {
       "VoiceEvent": "BattleVictoryTimeline",
       "Rate": 10000,
-      "VoiceHashLength": 12
+      "VoiceHash": [
+        3858814123,
+        1845013977
+      ]
     },
     {
       "VoiceEvent": "CharacterFavor",
       "Rate": 10000,
-      "VoiceHashLength": 12
+      "VoiceHash": [
+        3594429235,
+        4175693505,
+        3871306021,
+        4161944674
+      ]
     },
     {
       "VoiceEvent": "BattleMiss",
-      "Rate": 1000,
-      "VoiceHashLength": 12
+      "Rate": 300,
+      "VoiceHash": [
+        1205704054
+      ]
     },
     {
       "VoiceEvent": "BattleBlock",
-      "Rate": 1000,
-      "VoiceHashLength": 12
+      "Rate": 300,
+      "VoiceHash": [
+        1205704054
+      ]
     },
     {
       "VoiceEvent": "BattleCover",
-      "Rate": 3000,
-      "VoiceHashLength": 12
+      "Rate": 2000,
+      "VoiceHash": [
+        3089029645
+      ]
     },
     {
       "VoiceEvent": "BattleMove",
       "Rate": 2000,
-      "VoiceHashLength": 12
+      "VoiceHash": [
+        3028719901
+      ]
     },
     {
       "VoiceEvent": "BattleMoveToForamtionBeacon",
       "Rate": 10000,
-      "VoiceHashLength": 12
+      "VoiceHash": [
+        2431507093,
+        526540864
+      ]
     }
   ]
 }
