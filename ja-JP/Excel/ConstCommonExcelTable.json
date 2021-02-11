@@ -36,10 +36,10 @@
       "EquipLvUpCoefficient": 3,
       "NicknameLength": 10,
       "CraftDuration": [
-        600000,
         1800000,
         5400000,
-        10800000
+        10800000,
+        21600000
       ],
       "CraftLimitTime": 7200000,
       "CraftTicketItemUniqueId": 2,
@@ -76,7 +76,7 @@
       "EventStrategyPlayTimeLimitInSeconds": 86400,
       "WeekDungoenTacticPlayTimeLimitInSeconds": 86400,
       "RaidTacticPlayTimeLimitInSeconds": 86400,
-      "RaidOpponentListAmount": 10,
+      "RaidOpponentListAmount": 100,
       "CraftBaseGoldRequired": [
         2000,
         5000,

@@ -1479,7 +1479,7 @@
       "GachaGroupID": 101,
       "ParcelType": "Item",
       "ParcelID": 11,
-      "Rarity": "N",
+      "Rarity": "R",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 3,
       "Prob": 1,
@@ -1490,7 +1490,7 @@
       "GachaGroupID": 102,
       "ParcelType": "Item",
       "ParcelID": 12,
-      "Rarity": "N",
+      "Rarity": "SR",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
       "Prob": 1,
@@ -1501,7 +1501,7 @@
       "GachaGroupID": 103,
       "ParcelType": "Item",
       "ParcelID": 13,
-      "Rarity": "N",
+      "Rarity": "SSR",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
       "Prob": 1,
@@ -3733,7 +3733,7 @@
       "ID": 340,
       "GachaGroupID": 2000,
       "ParcelType": "Furniture",
-      "ParcelID": 1101,
+      "ParcelID": 3105,
       "Rarity": "R",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -3744,7 +3744,7 @@
       "ID": 341,
       "GachaGroupID": 2000,
       "ParcelType": "Furniture",
-      "ParcelID": 2100,
+      "ParcelID": 3108,
       "Rarity": "R",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -3755,7 +3755,7 @@
       "ID": 342,
       "GachaGroupID": 2000,
       "ParcelType": "Furniture",
-      "ParcelID": 1104,
+      "ParcelID": 1101,
       "Rarity": "R",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -3766,7 +3766,7 @@
       "ID": 343,
       "GachaGroupID": 2000,
       "ParcelType": "Furniture",
-      "ParcelID": 2103,
+      "ParcelID": 2100,
       "Rarity": "R",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -3777,6 +3777,28 @@
       "ID": 344,
       "GachaGroupID": 2000,
       "ParcelType": "Furniture",
+      "ParcelID": 1104,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 345,
+      "GachaGroupID": 2000,
+      "ParcelType": "Furniture",
+      "ParcelID": 2103,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 346,
+      "GachaGroupID": 2000,
+      "ParcelType": "Furniture",
       "ParcelID": 1203,
       "Rarity": "SR",
       "ParcelAmountMin": 1,
@@ -3785,7 +3807,29 @@
       "State": 1
     },
     {
-      "ID": 345,
+      "ID": 347,
+      "GachaGroupID": 2001,
+      "ParcelType": "Furniture",
+      "ParcelID": 3103,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 348,
+      "GachaGroupID": 2001,
+      "ParcelType": "Furniture",
+      "ParcelID": 3107,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 349,
       "GachaGroupID": 2001,
       "ParcelType": "Furniture",
       "ParcelID": 1302,
@@ -3796,7 +3840,18 @@
       "State": 1
     },
     {
-      "ID": 346,
+      "ID": 350,
+      "GachaGroupID": 2002,
+      "ParcelType": "Furniture",
+      "ParcelID": 3204,
+      "Rarity": "SR",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 90,
+      "State": 1
+    },
+    {
+      "ID": 351,
       "GachaGroupID": 2002,
       "ParcelType": "Furniture",
       "ParcelID": 1200,
@@ -3807,7 +3862,7 @@
       "State": 1
     },
     {
-      "ID": 347,
+      "ID": 352,
       "GachaGroupID": 2002,
       "ParcelType": "Furniture",
       "ParcelID": 2200,
@@ -3818,7 +3873,18 @@
       "State": 1
     },
     {
-      "ID": 348,
+      "ID": 353,
+      "GachaGroupID": 2003,
+      "ParcelType": "Furniture",
+      "ParcelID": 3104,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 354,
       "GachaGroupID": 2003,
       "ParcelType": "Furniture",
       "ParcelID": 2109,
@@ -3829,7 +3895,7 @@
       "State": 1
     },
     {
-      "ID": 349,
+      "ID": 355,
       "GachaGroupID": 2004,
       "ParcelType": "Furniture",
       "ParcelID": 2104,
@@ -3840,7 +3906,7 @@
       "State": 1
     },
     {
-      "ID": 350,
+      "ID": 356,
       "GachaGroupID": 2004,
       "ParcelType": "Furniture",
       "ParcelID": 2105,
@@ -3851,7 +3917,7 @@
       "State": 1
     },
     {
-      "ID": 351,
+      "ID": 357,
       "GachaGroupID": 2004,
       "ParcelType": "Furniture",
       "ParcelID": 2106,
@@ -3862,7 +3928,7 @@
       "State": 1
     },
     {
-      "ID": 352,
+      "ID": 358,
       "GachaGroupID": 2004,
       "ParcelType": "Furniture",
       "ParcelID": 2202,
@@ -3873,7 +3939,7 @@
       "State": 1
     },
     {
-      "ID": 353,
+      "ID": 359,
       "GachaGroupID": 2004,
       "ParcelType": "Furniture",
       "ParcelID": 2203,
@@ -3884,7 +3950,7 @@
       "State": 1
     },
     {
-      "ID": 354,
+      "ID": 360,
       "GachaGroupID": 2004,
       "ParcelType": "Furniture",
       "ParcelID": 2204,
@@ -3895,7 +3961,7 @@
       "State": 1
     },
     {
-      "ID": 355,
+      "ID": 361,
       "GachaGroupID": 2004,
       "ParcelType": "Furniture",
       "ParcelID": 2301,
@@ -3906,7 +3972,7 @@
       "State": 1
     },
     {
-      "ID": 356,
+      "ID": 362,
       "GachaGroupID": 2004,
       "ParcelType": "Furniture",
       "ParcelID": 2302,
@@ -3917,7 +3983,7 @@
       "State": 1
     },
     {
-      "ID": 357,
+      "ID": 363,
       "GachaGroupID": 2004,
       "ParcelType": "Furniture",
       "ParcelID": 2303,
@@ -3928,7 +3994,62 @@
       "State": 1
     },
     {
-      "ID": 358,
+      "ID": 364,
+      "GachaGroupID": 2005,
+      "ParcelType": "Furniture",
+      "ParcelID": 3100,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 365,
+      "GachaGroupID": 2005,
+      "ParcelType": "Furniture",
+      "ParcelID": 3106,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 366,
+      "GachaGroupID": 2005,
+      "ParcelType": "Furniture",
+      "ParcelID": 3200,
+      "Rarity": "SR",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 90,
+      "State": 1
+    },
+    {
+      "ID": 367,
+      "GachaGroupID": 2005,
+      "ParcelType": "Furniture",
+      "ParcelID": 3201,
+      "Rarity": "SR",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 90,
+      "State": 1
+    },
+    {
+      "ID": 368,
+      "GachaGroupID": 2005,
+      "ParcelType": "Furniture",
+      "ParcelID": 3300,
+      "Rarity": "SSR",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 15,
+      "State": 1
+    },
+    {
+      "ID": 369,
       "GachaGroupID": 2005,
       "ParcelType": "Furniture",
       "ParcelID": 2101,
@@ -3939,7 +4060,7 @@
       "State": 1
     },
     {
-      "ID": 359,
+      "ID": 370,
       "GachaGroupID": 2005,
       "ParcelType": "Furniture",
       "ParcelID": 1105,
@@ -3950,7 +4071,7 @@
       "State": 1
     },
     {
-      "ID": 360,
+      "ID": 371,
       "GachaGroupID": 2005,
       "ParcelType": "Furniture",
       "ParcelID": 1303,
@@ -3961,7 +4082,62 @@
       "State": 1
     },
     {
-      "ID": 361,
+      "ID": 372,
+      "GachaGroupID": 2006,
+      "ParcelType": "Furniture",
+      "ParcelID": 3101,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 373,
+      "GachaGroupID": 2006,
+      "ParcelType": "Furniture",
+      "ParcelID": 3102,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 374,
+      "GachaGroupID": 2006,
+      "ParcelType": "Furniture",
+      "ParcelID": 3109,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 375,
+      "GachaGroupID": 2006,
+      "ParcelType": "Furniture",
+      "ParcelID": 3202,
+      "Rarity": "SR",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 90,
+      "State": 1
+    },
+    {
+      "ID": 376,
+      "GachaGroupID": 2006,
+      "ParcelType": "Furniture",
+      "ParcelID": 3301,
+      "Rarity": "SSR",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 15,
+      "State": 1
+    },
+    {
+      "ID": 377,
       "GachaGroupID": 2006,
       "ParcelType": "Furniture",
       "ParcelID": 1100,
@@ -3972,7 +4148,7 @@
       "State": 1
     },
     {
-      "ID": 362,
+      "ID": 378,
       "GachaGroupID": 2006,
       "ParcelType": "Furniture",
       "ParcelID": 1103,
@@ -3983,7 +4159,7 @@
       "State": 1
     },
     {
-      "ID": 363,
+      "ID": 379,
       "GachaGroupID": 2006,
       "ParcelType": "Furniture",
       "ParcelID": 1201,
@@ -3994,7 +4170,7 @@
       "State": 1
     },
     {
-      "ID": 364,
+      "ID": 380,
       "GachaGroupID": 2006,
       "ParcelType": "Furniture",
       "ParcelID": 1202,
@@ -4005,7 +4181,7 @@
       "State": 1
     },
     {
-      "ID": 365,
+      "ID": 381,
       "GachaGroupID": 2006,
       "ParcelType": "Furniture",
       "ParcelID": 2201,
@@ -4016,7 +4192,7 @@
       "State": 1
     },
     {
-      "ID": 366,
+      "ID": 382,
       "GachaGroupID": 2006,
       "ParcelType": "Furniture",
       "ParcelID": 1301,
@@ -4027,7 +4203,62 @@
       "State": 1
     },
     {
-      "ID": 367,
+      "ID": 383,
+      "GachaGroupID": 2007,
+      "ParcelType": "Furniture",
+      "ParcelID": 3110,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 384,
+      "GachaGroupID": 2007,
+      "ParcelType": "Furniture",
+      "ParcelID": 3111,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 385,
+      "GachaGroupID": 2007,
+      "ParcelType": "Furniture",
+      "ParcelID": 3112,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 386,
+      "GachaGroupID": 2007,
+      "ParcelType": "Furniture",
+      "ParcelID": 3113,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 387,
+      "GachaGroupID": 2007,
+      "ParcelType": "Furniture",
+      "ParcelID": 3203,
+      "Rarity": "SR",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 90,
+      "State": 1
+    },
+    {
+      "ID": 388,
       "GachaGroupID": 2007,
       "ParcelType": "Furniture",
       "ParcelID": 1102,
@@ -4038,7 +4269,7 @@
       "State": 1
     },
     {
-      "ID": 368,
+      "ID": 389,
       "GachaGroupID": 2007,
       "ParcelType": "Furniture",
       "ParcelID": 2102,
@@ -4049,7 +4280,7 @@
       "State": 1
     },
     {
-      "ID": 369,
+      "ID": 390,
       "GachaGroupID": 2007,
       "ParcelType": "Furniture",
       "ParcelID": 1106,
@@ -4060,7 +4291,7 @@
       "State": 1
     },
     {
-      "ID": 370,
+      "ID": 391,
       "GachaGroupID": 2007,
       "ParcelType": "Furniture",
       "ParcelID": 1107,
@@ -4071,7 +4302,7 @@
       "State": 1
     },
     {
-      "ID": 371,
+      "ID": 392,
       "GachaGroupID": 2007,
       "ParcelType": "Furniture",
       "ParcelID": 1108,
@@ -4082,7 +4313,7 @@
       "State": 1
     },
     {
-      "ID": 372,
+      "ID": 393,
       "GachaGroupID": 2007,
       "ParcelType": "Furniture",
       "ParcelID": 1109,
@@ -4093,7 +4324,7 @@
       "State": 1
     },
     {
-      "ID": 373,
+      "ID": 394,
       "GachaGroupID": 2007,
       "ParcelType": "Furniture",
       "ParcelID": 2107,
@@ -4104,7 +4335,7 @@
       "State": 1
     },
     {
-      "ID": 374,
+      "ID": 395,
       "GachaGroupID": 2007,
       "ParcelType": "Furniture",
       "ParcelID": 2108,
@@ -4115,7 +4346,7 @@
       "State": 1
     },
     {
-      "ID": 375,
+      "ID": 396,
       "GachaGroupID": 2007,
       "ParcelType": "Furniture",
       "ParcelID": 1204,
@@ -4126,7 +4357,18 @@
       "State": 1
     },
     {
-      "ID": 376,
+      "ID": 397,
+      "GachaGroupID": 2008,
+      "ParcelType": "Furniture",
+      "ParcelID": 3302,
+      "Rarity": "SSR",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 15,
+      "State": 1
+    },
+    {
+      "ID": 398,
       "GachaGroupID": 2008,
       "ParcelType": "Furniture",
       "ParcelID": 1300,
@@ -4137,7 +4379,7 @@
       "State": 1
     },
     {
-      "ID": 377,
+      "ID": 399,
       "GachaGroupID": 2008,
       "ParcelType": "Furniture",
       "ParcelID": 2300,
@@ -4148,7 +4390,18 @@
       "State": 1
     },
     {
-      "ID": 378,
+      "ID": 400,
+      "GachaGroupID": 2009,
+      "ParcelType": "Furniture",
+      "ParcelID": 3303,
+      "Rarity": "SSR",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 15,
+      "State": 1
+    },
+    {
+      "ID": 401,
       "GachaGroupID": 2100,
       "ParcelType": "Furniture",
       "ParcelID": 1100,
@@ -4159,7 +4412,7 @@
       "State": 1
     },
     {
-      "ID": 379,
+      "ID": 402,
       "GachaGroupID": 2100,
       "ParcelType": "Furniture",
       "ParcelID": 1101,
@@ -4170,7 +4423,7 @@
       "State": 1
     },
     {
-      "ID": 380,
+      "ID": 403,
       "GachaGroupID": 2100,
       "ParcelType": "Furniture",
       "ParcelID": 1102,
@@ -4181,7 +4434,7 @@
       "State": 1
     },
     {
-      "ID": 381,
+      "ID": 404,
       "GachaGroupID": 2100,
       "ParcelType": "Furniture",
       "ParcelID": 1103,
@@ -4192,7 +4445,7 @@
       "State": 1
     },
     {
-      "ID": 382,
+      "ID": 405,
       "GachaGroupID": 2100,
       "ParcelType": "Furniture",
       "ParcelID": 1104,
@@ -4203,7 +4456,7 @@
       "State": 1
     },
     {
-      "ID": 383,
+      "ID": 406,
       "GachaGroupID": 2100,
       "ParcelType": "Furniture",
       "ParcelID": 1105,
@@ -4214,7 +4467,7 @@
       "State": 1
     },
     {
-      "ID": 384,
+      "ID": 407,
       "GachaGroupID": 2100,
       "ParcelType": "Furniture",
       "ParcelID": 1106,
@@ -4225,7 +4478,7 @@
       "State": 1
     },
     {
-      "ID": 385,
+      "ID": 408,
       "GachaGroupID": 2100,
       "ParcelType": "Furniture",
       "ParcelID": 1107,
@@ -4236,7 +4489,7 @@
       "State": 1
     },
     {
-      "ID": 386,
+      "ID": 409,
       "GachaGroupID": 2100,
       "ParcelType": "Furniture",
       "ParcelID": 1108,
@@ -4247,7 +4500,7 @@
       "State": 1
     },
     {
-      "ID": 387,
+      "ID": 410,
       "GachaGroupID": 2100,
       "ParcelType": "Furniture",
       "ParcelID": 1109,
@@ -4258,7 +4511,7 @@
       "State": 1
     },
     {
-      "ID": 388,
+      "ID": 411,
       "GachaGroupID": 2100,
       "ParcelType": "Furniture",
       "ParcelID": 1200,
@@ -4269,7 +4522,7 @@
       "State": 1
     },
     {
-      "ID": 389,
+      "ID": 412,
       "GachaGroupID": 2100,
       "ParcelType": "Furniture",
       "ParcelID": 1201,
@@ -4280,7 +4533,7 @@
       "State": 1
     },
     {
-      "ID": 390,
+      "ID": 413,
       "GachaGroupID": 2100,
       "ParcelType": "Furniture",
       "ParcelID": 1202,
@@ -4291,7 +4544,7 @@
       "State": 1
     },
     {
-      "ID": 391,
+      "ID": 414,
       "GachaGroupID": 2100,
       "ParcelType": "Furniture",
       "ParcelID": 1203,
@@ -4302,7 +4555,7 @@
       "State": 1
     },
     {
-      "ID": 392,
+      "ID": 415,
       "GachaGroupID": 2100,
       "ParcelType": "Furniture",
       "ParcelID": 1204,
@@ -4313,7 +4566,7 @@
       "State": 1
     },
     {
-      "ID": 393,
+      "ID": 416,
       "GachaGroupID": 2100,
       "ParcelType": "Furniture",
       "ParcelID": 1300,
@@ -4324,7 +4577,7 @@
       "State": 1
     },
     {
-      "ID": 394,
+      "ID": 417,
       "GachaGroupID": 2100,
       "ParcelType": "Furniture",
       "ParcelID": 1301,
@@ -4335,7 +4588,7 @@
       "State": 1
     },
     {
-      "ID": 395,
+      "ID": 418,
       "GachaGroupID": 2100,
       "ParcelType": "Furniture",
       "ParcelID": 1302,
@@ -4346,7 +4599,7 @@
       "State": 1
     },
     {
-      "ID": 396,
+      "ID": 419,
       "GachaGroupID": 2100,
       "ParcelType": "Furniture",
       "ParcelID": 1303,
@@ -4357,7 +4610,7 @@
       "State": 1
     },
     {
-      "ID": 397,
+      "ID": 420,
       "GachaGroupID": 2100,
       "ParcelType": "Furniture",
       "ParcelID": 2100,
@@ -4368,7 +4621,7 @@
       "State": 1
     },
     {
-      "ID": 398,
+      "ID": 421,
       "GachaGroupID": 2101,
       "ParcelType": "Furniture",
       "ParcelID": 2101,
@@ -4379,7 +4632,7 @@
       "State": 1
     },
     {
-      "ID": 399,
+      "ID": 422,
       "GachaGroupID": 2101,
       "ParcelType": "Furniture",
       "ParcelID": 2102,
@@ -4390,7 +4643,7 @@
       "State": 1
     },
     {
-      "ID": 400,
+      "ID": 423,
       "GachaGroupID": 2101,
       "ParcelType": "Furniture",
       "ParcelID": 2103,
@@ -4401,7 +4654,7 @@
       "State": 1
     },
     {
-      "ID": 401,
+      "ID": 424,
       "GachaGroupID": 2101,
       "ParcelType": "Furniture",
       "ParcelID": 2104,
@@ -4412,7 +4665,7 @@
       "State": 1
     },
     {
-      "ID": 402,
+      "ID": 425,
       "GachaGroupID": 2101,
       "ParcelType": "Furniture",
       "ParcelID": 2105,
@@ -4423,7 +4676,7 @@
       "State": 1
     },
     {
-      "ID": 403,
+      "ID": 426,
       "GachaGroupID": 2101,
       "ParcelType": "Furniture",
       "ParcelID": 2106,
@@ -4434,7 +4687,7 @@
       "State": 1
     },
     {
-      "ID": 404,
+      "ID": 427,
       "GachaGroupID": 2101,
       "ParcelType": "Furniture",
       "ParcelID": 2107,
@@ -4445,7 +4698,7 @@
       "State": 1
     },
     {
-      "ID": 405,
+      "ID": 428,
       "GachaGroupID": 2101,
       "ParcelType": "Furniture",
       "ParcelID": 2108,
@@ -4456,7 +4709,7 @@
       "State": 1
     },
     {
-      "ID": 406,
+      "ID": 429,
       "GachaGroupID": 2101,
       "ParcelType": "Furniture",
       "ParcelID": 2109,
@@ -4467,7 +4720,7 @@
       "State": 1
     },
     {
-      "ID": 407,
+      "ID": 430,
       "GachaGroupID": 2101,
       "ParcelType": "Furniture",
       "ParcelID": 2200,
@@ -4478,7 +4731,7 @@
       "State": 1
     },
     {
-      "ID": 408,
+      "ID": 431,
       "GachaGroupID": 2101,
       "ParcelType": "Furniture",
       "ParcelID": 2201,
@@ -4489,7 +4742,7 @@
       "State": 1
     },
     {
-      "ID": 409,
+      "ID": 432,
       "GachaGroupID": 2101,
       "ParcelType": "Furniture",
       "ParcelID": 2202,
@@ -4500,7 +4753,7 @@
       "State": 1
     },
     {
-      "ID": 410,
+      "ID": 433,
       "GachaGroupID": 2101,
       "ParcelType": "Furniture",
       "ParcelID": 2203,
@@ -4511,7 +4764,7 @@
       "State": 1
     },
     {
-      "ID": 411,
+      "ID": 434,
       "GachaGroupID": 2101,
       "ParcelType": "Furniture",
       "ParcelID": 2204,
@@ -4522,7 +4775,7 @@
       "State": 1
     },
     {
-      "ID": 412,
+      "ID": 435,
       "GachaGroupID": 2101,
       "ParcelType": "Furniture",
       "ParcelID": 2300,
@@ -4533,7 +4786,7 @@
       "State": 1
     },
     {
-      "ID": 413,
+      "ID": 436,
       "GachaGroupID": 2101,
       "ParcelType": "Furniture",
       "ParcelID": 2301,
@@ -4544,7 +4797,7 @@
       "State": 1
     },
     {
-      "ID": 414,
+      "ID": 437,
       "GachaGroupID": 2101,
       "ParcelType": "Furniture",
       "ParcelID": 2302,
@@ -4555,7 +4808,7 @@
       "State": 1
     },
     {
-      "ID": 415,
+      "ID": 438,
       "GachaGroupID": 2101,
       "ParcelType": "Furniture",
       "ParcelID": 2303,
@@ -4566,7 +4819,260 @@
       "State": 1
     },
     {
-      "ID": 416,
+      "ID": 439,
+      "GachaGroupID": 2102,
+      "ParcelType": "Furniture",
+      "ParcelID": 3100,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 440,
+      "GachaGroupID": 2102,
+      "ParcelType": "Furniture",
+      "ParcelID": 3101,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 441,
+      "GachaGroupID": 2102,
+      "ParcelType": "Furniture",
+      "ParcelID": 3102,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 442,
+      "GachaGroupID": 2102,
+      "ParcelType": "Furniture",
+      "ParcelID": 3103,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 443,
+      "GachaGroupID": 2102,
+      "ParcelType": "Furniture",
+      "ParcelID": 3104,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 444,
+      "GachaGroupID": 2102,
+      "ParcelType": "Furniture",
+      "ParcelID": 3105,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 445,
+      "GachaGroupID": 2102,
+      "ParcelType": "Furniture",
+      "ParcelID": 3106,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 446,
+      "GachaGroupID": 2102,
+      "ParcelType": "Furniture",
+      "ParcelID": 3107,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 447,
+      "GachaGroupID": 2102,
+      "ParcelType": "Furniture",
+      "ParcelID": 3108,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 448,
+      "GachaGroupID": 2102,
+      "ParcelType": "Furniture",
+      "ParcelID": 3109,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 449,
+      "GachaGroupID": 2102,
+      "ParcelType": "Furniture",
+      "ParcelID": 3110,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 450,
+      "GachaGroupID": 2102,
+      "ParcelType": "Furniture",
+      "ParcelID": 3111,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 451,
+      "GachaGroupID": 2102,
+      "ParcelType": "Furniture",
+      "ParcelID": 3112,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 452,
+      "GachaGroupID": 2102,
+      "ParcelType": "Furniture",
+      "ParcelID": 3113,
+      "Rarity": "R",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 240,
+      "State": 1
+    },
+    {
+      "ID": 453,
+      "GachaGroupID": 2102,
+      "ParcelType": "Furniture",
+      "ParcelID": 3200,
+      "Rarity": "SR",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 90,
+      "State": 1
+    },
+    {
+      "ID": 454,
+      "GachaGroupID": 2102,
+      "ParcelType": "Furniture",
+      "ParcelID": 3201,
+      "Rarity": "SR",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 90,
+      "State": 1
+    },
+    {
+      "ID": 455,
+      "GachaGroupID": 2102,
+      "ParcelType": "Furniture",
+      "ParcelID": 3202,
+      "Rarity": "SR",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 90,
+      "State": 1
+    },
+    {
+      "ID": 456,
+      "GachaGroupID": 2102,
+      "ParcelType": "Furniture",
+      "ParcelID": 3203,
+      "Rarity": "SR",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 90,
+      "State": 1
+    },
+    {
+      "ID": 457,
+      "GachaGroupID": 2102,
+      "ParcelType": "Furniture",
+      "ParcelID": 3204,
+      "Rarity": "SR",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 90,
+      "State": 1
+    },
+    {
+      "ID": 458,
+      "GachaGroupID": 2102,
+      "ParcelType": "Furniture",
+      "ParcelID": 3300,
+      "Rarity": "SSR",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 15,
+      "State": 1
+    },
+    {
+      "ID": 459,
+      "GachaGroupID": 2102,
+      "ParcelType": "Furniture",
+      "ParcelID": 3301,
+      "Rarity": "SSR",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 15,
+      "State": 1
+    },
+    {
+      "ID": 460,
+      "GachaGroupID": 2102,
+      "ParcelType": "Furniture",
+      "ParcelID": 3302,
+      "Rarity": "SSR",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 15,
+      "State": 1
+    },
+    {
+      "ID": 461,
+      "GachaGroupID": 2102,
+      "ParcelType": "Furniture",
+      "ParcelID": 3303,
+      "Rarity": "SSR",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 15,
+      "State": 1
+    },
+    {
+      "ID": 462,
       "GachaGroupID": 10000,
       "ParcelType": "Currency",
       "ParcelID": 1,
@@ -4577,7 +5083,7 @@
       "State": 1
     },
     {
-      "ID": 417,
+      "ID": 463,
       "GachaGroupID": 10001,
       "ParcelType": "Currency",
       "ParcelID": 1,
@@ -4588,7 +5094,7 @@
       "State": 1
     },
     {
-      "ID": 418,
+      "ID": 464,
       "GachaGroupID": 10002,
       "ParcelType": "Currency",
       "ParcelID": 1,
@@ -4599,7 +5105,7 @@
       "State": 1
     },
     {
-      "ID": 419,
+      "ID": 465,
       "GachaGroupID": 10003,
       "ParcelType": "Currency",
       "ParcelID": 1,
@@ -4610,7 +5116,7 @@
       "State": 1
     },
     {
-      "ID": 420,
+      "ID": 466,
       "GachaGroupID": 10004,
       "ParcelType": "Currency",
       "ParcelID": 1,
@@ -4621,7 +5127,7 @@
       "State": 1
     },
     {
-      "ID": 421,
+      "ID": 467,
       "GachaGroupID": 10005,
       "ParcelType": "Currency",
       "ParcelID": 1,
@@ -4632,7 +5138,7 @@
       "State": 1
     },
     {
-      "ID": 422,
+      "ID": 468,
       "GachaGroupID": 10006,
       "ParcelType": "Currency",
       "ParcelID": 1,
@@ -4643,7 +5149,7 @@
       "State": 1
     },
     {
-      "ID": 423,
+      "ID": 469,
       "GachaGroupID": 10007,
       "ParcelType": "Currency",
       "ParcelID": 1,
@@ -4654,7 +5160,7 @@
       "State": 1
     },
     {
-      "ID": 424,
+      "ID": 470,
       "GachaGroupID": 10100,
       "ParcelType": "Item",
       "ParcelID": 100,
@@ -4665,7 +5171,7 @@
       "State": 1
     },
     {
-      "ID": 425,
+      "ID": 471,
       "GachaGroupID": 10100,
       "ParcelType": "Item",
       "ParcelID": 110,
@@ -4676,7 +5182,7 @@
       "State": 1
     },
     {
-      "ID": 426,
+      "ID": 472,
       "GachaGroupID": 10100,
       "ParcelType": "Item",
       "ParcelID": 120,
@@ -4687,7 +5193,7 @@
       "State": 1
     },
     {
-      "ID": 427,
+      "ID": 473,
       "GachaGroupID": 10100,
       "ParcelType": "Item",
       "ParcelID": 130,
@@ -4698,7 +5204,7 @@
       "State": 1
     },
     {
-      "ID": 428,
+      "ID": 474,
       "GachaGroupID": 10100,
       "ParcelType": "Item",
       "ParcelID": 140,
@@ -4709,7 +5215,7 @@
       "State": 1
     },
     {
-      "ID": 429,
+      "ID": 475,
       "GachaGroupID": 10100,
       "ParcelType": "Item",
       "ParcelID": 150,
@@ -4720,7 +5226,7 @@
       "State": 1
     },
     {
-      "ID": 430,
+      "ID": 476,
       "GachaGroupID": 10100,
       "ParcelType": "Item",
       "ParcelID": 160,
@@ -4731,7 +5237,7 @@
       "State": 1
     },
     {
-      "ID": 431,
+      "ID": 477,
       "GachaGroupID": 10100,
       "ParcelType": "Item",
       "ParcelID": 170,
@@ -4742,7 +5248,7 @@
       "State": 1
     },
     {
-      "ID": 432,
+      "ID": 478,
       "GachaGroupID": 10100,
       "ParcelType": "Item",
       "ParcelID": 180,
@@ -4753,7 +5259,7 @@
       "State": 1
     },
     {
-      "ID": 433,
+      "ID": 479,
       "GachaGroupID": 10100,
       "ParcelType": "Item",
       "ParcelID": 190,
@@ -4764,7 +5270,7 @@
       "State": 1
     },
     {
-      "ID": 434,
+      "ID": 480,
       "GachaGroupID": 10101,
       "ParcelType": "Item",
       "ParcelID": 101,
@@ -4775,7 +5281,7 @@
       "State": 1
     },
     {
-      "ID": 435,
+      "ID": 481,
       "GachaGroupID": 10101,
       "ParcelType": "Item",
       "ParcelID": 111,
@@ -4786,7 +5292,7 @@
       "State": 1
     },
     {
-      "ID": 436,
+      "ID": 482,
       "GachaGroupID": 10101,
       "ParcelType": "Item",
       "ParcelID": 121,
@@ -4797,7 +5303,7 @@
       "State": 1
     },
     {
-      "ID": 437,
+      "ID": 483,
       "GachaGroupID": 10101,
       "ParcelType": "Item",
       "ParcelID": 131,
@@ -4808,7 +5314,7 @@
       "State": 1
     },
     {
-      "ID": 438,
+      "ID": 484,
       "GachaGroupID": 10101,
       "ParcelType": "Item",
       "ParcelID": 141,
@@ -4819,7 +5325,7 @@
       "State": 1
     },
     {
-      "ID": 439,
+      "ID": 485,
       "GachaGroupID": 10101,
       "ParcelType": "Item",
       "ParcelID": 151,
@@ -4830,7 +5336,7 @@
       "State": 1
     },
     {
-      "ID": 440,
+      "ID": 486,
       "GachaGroupID": 10101,
       "ParcelType": "Item",
       "ParcelID": 161,
@@ -4841,7 +5347,7 @@
       "State": 1
     },
     {
-      "ID": 441,
+      "ID": 487,
       "GachaGroupID": 10101,
       "ParcelType": "Item",
       "ParcelID": 171,
@@ -4852,7 +5358,7 @@
       "State": 1
     },
     {
-      "ID": 442,
+      "ID": 488,
       "GachaGroupID": 10101,
       "ParcelType": "Item",
       "ParcelID": 181,
@@ -4863,7 +5369,7 @@
       "State": 1
     },
     {
-      "ID": 443,
+      "ID": 489,
       "GachaGroupID": 10101,
       "ParcelType": "Item",
       "ParcelID": 191,
@@ -4874,7 +5380,7 @@
       "State": 1
     },
     {
-      "ID": 444,
+      "ID": 490,
       "GachaGroupID": 10102,
       "ParcelType": "Item",
       "ParcelID": 102,
@@ -4885,7 +5391,7 @@
       "State": 1
     },
     {
-      "ID": 445,
+      "ID": 491,
       "GachaGroupID": 10102,
       "ParcelType": "Item",
       "ParcelID": 112,
@@ -4896,7 +5402,7 @@
       "State": 1
     },
     {
-      "ID": 446,
+      "ID": 492,
       "GachaGroupID": 10102,
       "ParcelType": "Item",
       "ParcelID": 122,
@@ -4907,7 +5413,7 @@
       "State": 1
     },
     {
-      "ID": 447,
+      "ID": 493,
       "GachaGroupID": 10102,
       "ParcelType": "Item",
       "ParcelID": 132,
@@ -4918,7 +5424,7 @@
       "State": 1
     },
     {
-      "ID": 448,
+      "ID": 494,
       "GachaGroupID": 10102,
       "ParcelType": "Item",
       "ParcelID": 142,
@@ -4929,7 +5435,7 @@
       "State": 1
     },
     {
-      "ID": 449,
+      "ID": 495,
       "GachaGroupID": 10102,
       "ParcelType": "Item",
       "ParcelID": 152,
@@ -4940,7 +5446,7 @@
       "State": 1
     },
     {
-      "ID": 450,
+      "ID": 496,
       "GachaGroupID": 10102,
       "ParcelType": "Item",
       "ParcelID": 162,
@@ -4951,7 +5457,7 @@
       "State": 1
     },
     {
-      "ID": 451,
+      "ID": 497,
       "GachaGroupID": 10102,
       "ParcelType": "Item",
       "ParcelID": 172,
@@ -4962,7 +5468,7 @@
       "State": 1
     },
     {
-      "ID": 452,
+      "ID": 498,
       "GachaGroupID": 10102,
       "ParcelType": "Item",
       "ParcelID": 182,
@@ -4973,7 +5479,7 @@
       "State": 1
     },
     {
-      "ID": 453,
+      "ID": 499,
       "GachaGroupID": 10102,
       "ParcelType": "Item",
       "ParcelID": 192,
@@ -4984,7 +5490,7 @@
       "State": 1
     },
     {
-      "ID": 454,
+      "ID": 500,
       "GachaGroupID": 10103,
       "ParcelType": "Item",
       "ParcelID": 103,
@@ -4995,7 +5501,7 @@
       "State": 1
     },
     {
-      "ID": 455,
+      "ID": 501,
       "GachaGroupID": 10103,
       "ParcelType": "Item",
       "ParcelID": 113,
@@ -5006,7 +5512,7 @@
       "State": 1
     },
     {
-      "ID": 456,
+      "ID": 502,
       "GachaGroupID": 10103,
       "ParcelType": "Item",
       "ParcelID": 123,
@@ -5017,7 +5523,7 @@
       "State": 1
     },
     {
-      "ID": 457,
+      "ID": 503,
       "GachaGroupID": 10103,
       "ParcelType": "Item",
       "ParcelID": 133,
@@ -5028,7 +5534,7 @@
       "State": 1
     },
     {
-      "ID": 458,
+      "ID": 504,
       "GachaGroupID": 10103,
       "ParcelType": "Item",
       "ParcelID": 143,
@@ -5039,7 +5545,7 @@
       "State": 1
     },
     {
-      "ID": 459,
+      "ID": 505,
       "GachaGroupID": 10103,
       "ParcelType": "Item",
       "ParcelID": 153,
@@ -5050,7 +5556,7 @@
       "State": 1
     },
     {
-      "ID": 460,
+      "ID": 506,
       "GachaGroupID": 10103,
       "ParcelType": "Item",
       "ParcelID": 163,
@@ -5061,7 +5567,7 @@
       "State": 1
     },
     {
-      "ID": 461,
+      "ID": 507,
       "GachaGroupID": 10103,
       "ParcelType": "Item",
       "ParcelID": 173,
@@ -5072,7 +5578,7 @@
       "State": 1
     },
     {
-      "ID": 462,
+      "ID": 508,
       "GachaGroupID": 10103,
       "ParcelType": "Item",
       "ParcelID": 183,
@@ -5083,7 +5589,7 @@
       "State": 1
     },
     {
-      "ID": 463,
+      "ID": 509,
       "GachaGroupID": 10103,
       "ParcelType": "Item",
       "ParcelID": 193,
@@ -5094,7 +5600,7 @@
       "State": 1
     },
     {
-      "ID": 464,
+      "ID": 510,
       "GachaGroupID": 10300,
       "ParcelType": "Item",
       "ParcelID": 3000,
@@ -5105,7 +5611,7 @@
       "State": 1
     },
     {
-      "ID": 465,
+      "ID": 511,
       "GachaGroupID": 10300,
       "ParcelType": "Item",
       "ParcelID": 3020,
@@ -5116,514 +5622,8 @@
       "State": 1
     },
     {
-      "ID": 466,
-      "GachaGroupID": 10300,
-      "ParcelType": "Item",
-      "ParcelID": 3030,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 467,
-      "GachaGroupID": 10300,
-      "ParcelType": "Item",
-      "ParcelID": 3040,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 468,
-      "GachaGroupID": 10300,
-      "ParcelType": "Item",
-      "ParcelID": 3050,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 469,
-      "GachaGroupID": 10300,
-      "ParcelType": "Item",
-      "ParcelID": 3070,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 470,
-      "GachaGroupID": 10301,
-      "ParcelType": "Item",
-      "ParcelID": 3001,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 471,
-      "GachaGroupID": 10301,
-      "ParcelType": "Item",
-      "ParcelID": 3021,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 472,
-      "GachaGroupID": 10301,
-      "ParcelType": "Item",
-      "ParcelID": 3031,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 473,
-      "GachaGroupID": 10301,
-      "ParcelType": "Item",
-      "ParcelID": 3041,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 474,
-      "GachaGroupID": 10301,
-      "ParcelType": "Item",
-      "ParcelID": 3051,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 475,
-      "GachaGroupID": 10301,
-      "ParcelType": "Item",
-      "ParcelID": 3071,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 476,
-      "GachaGroupID": 10302,
-      "ParcelType": "Item",
-      "ParcelID": 3002,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 477,
-      "GachaGroupID": 10302,
-      "ParcelType": "Item",
-      "ParcelID": 3022,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 478,
-      "GachaGroupID": 10302,
-      "ParcelType": "Item",
-      "ParcelID": 3032,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 479,
-      "GachaGroupID": 10302,
-      "ParcelType": "Item",
-      "ParcelID": 3042,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 480,
-      "GachaGroupID": 10302,
-      "ParcelType": "Item",
-      "ParcelID": 3052,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 481,
-      "GachaGroupID": 10302,
-      "ParcelType": "Item",
-      "ParcelID": 3072,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 482,
-      "GachaGroupID": 10303,
-      "ParcelType": "Item",
-      "ParcelID": 3003,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 483,
-      "GachaGroupID": 10303,
-      "ParcelType": "Item",
-      "ParcelID": 3023,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 484,
-      "GachaGroupID": 10303,
-      "ParcelType": "Item",
-      "ParcelID": 3033,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 485,
-      "GachaGroupID": 10303,
-      "ParcelType": "Item",
-      "ParcelID": 3043,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 486,
-      "GachaGroupID": 10303,
-      "ParcelType": "Item",
-      "ParcelID": 3053,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 487,
-      "GachaGroupID": 10303,
-      "ParcelType": "Item",
-      "ParcelID": 3073,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 488,
-      "GachaGroupID": 10400,
-      "ParcelType": "Item",
-      "ParcelID": 4000,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 489,
-      "GachaGroupID": 10400,
-      "ParcelType": "Item",
-      "ParcelID": 4020,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 490,
-      "GachaGroupID": 10400,
-      "ParcelType": "Item",
-      "ParcelID": 4030,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 491,
-      "GachaGroupID": 10400,
-      "ParcelType": "Item",
-      "ParcelID": 4040,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 492,
-      "GachaGroupID": 10400,
-      "ParcelType": "Item",
-      "ParcelID": 4050,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 493,
-      "GachaGroupID": 10400,
-      "ParcelType": "Item",
-      "ParcelID": 4070,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 494,
-      "GachaGroupID": 10401,
-      "ParcelType": "Item",
-      "ParcelID": 4001,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 495,
-      "GachaGroupID": 10401,
-      "ParcelType": "Item",
-      "ParcelID": 4021,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 496,
-      "GachaGroupID": 10401,
-      "ParcelType": "Item",
-      "ParcelID": 4031,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 497,
-      "GachaGroupID": 10401,
-      "ParcelType": "Item",
-      "ParcelID": 4041,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 498,
-      "GachaGroupID": 10401,
-      "ParcelType": "Item",
-      "ParcelID": 4051,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 499,
-      "GachaGroupID": 10401,
-      "ParcelType": "Item",
-      "ParcelID": 4071,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 500,
-      "GachaGroupID": 10402,
-      "ParcelType": "Item",
-      "ParcelID": 4002,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 501,
-      "GachaGroupID": 10402,
-      "ParcelType": "Item",
-      "ParcelID": 4022,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 502,
-      "GachaGroupID": 10402,
-      "ParcelType": "Item",
-      "ParcelID": 4032,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 503,
-      "GachaGroupID": 10402,
-      "ParcelType": "Item",
-      "ParcelID": 4042,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 504,
-      "GachaGroupID": 10402,
-      "ParcelType": "Item",
-      "ParcelID": 4052,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 505,
-      "GachaGroupID": 10402,
-      "ParcelType": "Item",
-      "ParcelID": 4072,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 506,
-      "GachaGroupID": 10403,
-      "ParcelType": "Item",
-      "ParcelID": 4003,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 507,
-      "GachaGroupID": 10403,
-      "ParcelType": "Item",
-      "ParcelID": 4023,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 508,
-      "GachaGroupID": 10403,
-      "ParcelType": "Item",
-      "ParcelID": 4033,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 509,
-      "GachaGroupID": 10403,
-      "ParcelType": "Item",
-      "ParcelID": 4043,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 510,
-      "GachaGroupID": 10403,
-      "ParcelType": "Item",
-      "ParcelID": 4053,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
-      "ID": 511,
-      "GachaGroupID": 10403,
-      "ParcelType": "Item",
-      "ParcelID": 4073,
-      "Rarity": "N",
-      "ParcelAmountMin": 1,
-      "ParcelAmountMax": 1,
-      "Prob": 1,
-      "State": 1
-    },
-    {
       "ID": 512,
-      "GachaGroupID": 20000,
+      "GachaGroupID": 10300,
       "ParcelType": "Item",
       "ParcelID": 3030,
       "Rarity": "N",
@@ -5634,9 +5634,9 @@
     },
     {
       "ID": 513,
-      "GachaGroupID": 20000,
+      "GachaGroupID": 10300,
       "ParcelType": "Item",
-      "ParcelID": 3070,
+      "ParcelID": 3040,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5645,9 +5645,9 @@
     },
     {
       "ID": 514,
-      "GachaGroupID": 20000,
+      "GachaGroupID": 10300,
       "ParcelType": "Item",
-      "ParcelID": 3020,
+      "ParcelID": 3050,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5656,9 +5656,9 @@
     },
     {
       "ID": 515,
-      "GachaGroupID": 20001,
+      "GachaGroupID": 10300,
       "ParcelType": "Item",
-      "ParcelID": 3030,
+      "ParcelID": 3070,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5667,9 +5667,9 @@
     },
     {
       "ID": 516,
-      "GachaGroupID": 20001,
+      "GachaGroupID": 10301,
       "ParcelType": "Item",
-      "ParcelID": 3070,
+      "ParcelID": 3001,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5678,9 +5678,9 @@
     },
     {
       "ID": 517,
-      "GachaGroupID": 20001,
+      "GachaGroupID": 10301,
       "ParcelType": "Item",
-      "ParcelID": 3020,
+      "ParcelID": 3021,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5689,9 +5689,9 @@
     },
     {
       "ID": 518,
-      "GachaGroupID": 20002,
+      "GachaGroupID": 10301,
       "ParcelType": "Item",
-      "ParcelID": 3030,
+      "ParcelID": 3031,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5700,9 +5700,9 @@
     },
     {
       "ID": 519,
-      "GachaGroupID": 20002,
+      "GachaGroupID": 10301,
       "ParcelType": "Item",
-      "ParcelID": 3070,
+      "ParcelID": 3041,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5711,9 +5711,9 @@
     },
     {
       "ID": 520,
-      "GachaGroupID": 20002,
+      "GachaGroupID": 10301,
       "ParcelType": "Item",
-      "ParcelID": 3020,
+      "ParcelID": 3051,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5722,9 +5722,9 @@
     },
     {
       "ID": 521,
-      "GachaGroupID": 20003,
+      "GachaGroupID": 10301,
       "ParcelType": "Item",
-      "ParcelID": 3030,
+      "ParcelID": 3071,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5733,9 +5733,9 @@
     },
     {
       "ID": 522,
-      "GachaGroupID": 20003,
+      "GachaGroupID": 10302,
       "ParcelType": "Item",
-      "ParcelID": 3070,
+      "ParcelID": 3002,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5744,9 +5744,9 @@
     },
     {
       "ID": 523,
-      "GachaGroupID": 20003,
+      "GachaGroupID": 10302,
       "ParcelType": "Item",
-      "ParcelID": 3020,
+      "ParcelID": 3022,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5755,9 +5755,9 @@
     },
     {
       "ID": 524,
-      "GachaGroupID": 20004,
+      "GachaGroupID": 10302,
       "ParcelType": "Item",
-      "ParcelID": 3040,
+      "ParcelID": 3032,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5766,9 +5766,9 @@
     },
     {
       "ID": 525,
-      "GachaGroupID": 20004,
+      "GachaGroupID": 10302,
       "ParcelType": "Item",
-      "ParcelID": 3050,
+      "ParcelID": 3042,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5777,9 +5777,9 @@
     },
     {
       "ID": 526,
-      "GachaGroupID": 20004,
+      "GachaGroupID": 10302,
       "ParcelType": "Item",
-      "ParcelID": 3000,
+      "ParcelID": 3052,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5788,9 +5788,9 @@
     },
     {
       "ID": 527,
-      "GachaGroupID": 20005,
+      "GachaGroupID": 10302,
       "ParcelType": "Item",
-      "ParcelID": 3040,
+      "ParcelID": 3072,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5799,9 +5799,9 @@
     },
     {
       "ID": 528,
-      "GachaGroupID": 20005,
+      "GachaGroupID": 10303,
       "ParcelType": "Item",
-      "ParcelID": 3050,
+      "ParcelID": 3003,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5810,9 +5810,9 @@
     },
     {
       "ID": 529,
-      "GachaGroupID": 20005,
+      "GachaGroupID": 10303,
       "ParcelType": "Item",
-      "ParcelID": 3000,
+      "ParcelID": 3023,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5821,9 +5821,9 @@
     },
     {
       "ID": 530,
-      "GachaGroupID": 20006,
+      "GachaGroupID": 10303,
       "ParcelType": "Item",
-      "ParcelID": 3040,
+      "ParcelID": 3033,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5832,9 +5832,9 @@
     },
     {
       "ID": 531,
-      "GachaGroupID": 20006,
+      "GachaGroupID": 10303,
       "ParcelType": "Item",
-      "ParcelID": 3050,
+      "ParcelID": 3043,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5843,9 +5843,9 @@
     },
     {
       "ID": 532,
-      "GachaGroupID": 20006,
+      "GachaGroupID": 10303,
       "ParcelType": "Item",
-      "ParcelID": 3000,
+      "ParcelID": 3053,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5854,9 +5854,9 @@
     },
     {
       "ID": 533,
-      "GachaGroupID": 20007,
+      "GachaGroupID": 10303,
       "ParcelType": "Item",
-      "ParcelID": 3040,
+      "ParcelID": 3073,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5865,9 +5865,9 @@
     },
     {
       "ID": 534,
-      "GachaGroupID": 20007,
+      "GachaGroupID": 10400,
       "ParcelType": "Item",
-      "ParcelID": 3050,
+      "ParcelID": 4000,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5876,9 +5876,9 @@
     },
     {
       "ID": 535,
-      "GachaGroupID": 20007,
+      "GachaGroupID": 10400,
       "ParcelType": "Item",
-      "ParcelID": 3000,
+      "ParcelID": 4020,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5887,7 +5887,7 @@
     },
     {
       "ID": 536,
-      "GachaGroupID": 21000,
+      "GachaGroupID": 10400,
       "ParcelType": "Item",
       "ParcelID": 4030,
       "Rarity": "N",
@@ -5898,9 +5898,9 @@
     },
     {
       "ID": 537,
-      "GachaGroupID": 21000,
+      "GachaGroupID": 10400,
       "ParcelType": "Item",
-      "ParcelID": 4070,
+      "ParcelID": 4040,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5909,6 +5909,512 @@
     },
     {
       "ID": 538,
+      "GachaGroupID": 10400,
+      "ParcelType": "Item",
+      "ParcelID": 4050,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 539,
+      "GachaGroupID": 10400,
+      "ParcelType": "Item",
+      "ParcelID": 4070,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 540,
+      "GachaGroupID": 10401,
+      "ParcelType": "Item",
+      "ParcelID": 4001,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 541,
+      "GachaGroupID": 10401,
+      "ParcelType": "Item",
+      "ParcelID": 4021,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 542,
+      "GachaGroupID": 10401,
+      "ParcelType": "Item",
+      "ParcelID": 4031,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 543,
+      "GachaGroupID": 10401,
+      "ParcelType": "Item",
+      "ParcelID": 4041,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 544,
+      "GachaGroupID": 10401,
+      "ParcelType": "Item",
+      "ParcelID": 4051,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 545,
+      "GachaGroupID": 10401,
+      "ParcelType": "Item",
+      "ParcelID": 4071,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 546,
+      "GachaGroupID": 10402,
+      "ParcelType": "Item",
+      "ParcelID": 4002,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 547,
+      "GachaGroupID": 10402,
+      "ParcelType": "Item",
+      "ParcelID": 4022,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 548,
+      "GachaGroupID": 10402,
+      "ParcelType": "Item",
+      "ParcelID": 4032,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 549,
+      "GachaGroupID": 10402,
+      "ParcelType": "Item",
+      "ParcelID": 4042,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 550,
+      "GachaGroupID": 10402,
+      "ParcelType": "Item",
+      "ParcelID": 4052,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 551,
+      "GachaGroupID": 10402,
+      "ParcelType": "Item",
+      "ParcelID": 4072,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 552,
+      "GachaGroupID": 10403,
+      "ParcelType": "Item",
+      "ParcelID": 4003,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 553,
+      "GachaGroupID": 10403,
+      "ParcelType": "Item",
+      "ParcelID": 4023,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 554,
+      "GachaGroupID": 10403,
+      "ParcelType": "Item",
+      "ParcelID": 4033,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 555,
+      "GachaGroupID": 10403,
+      "ParcelType": "Item",
+      "ParcelID": 4043,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 556,
+      "GachaGroupID": 10403,
+      "ParcelType": "Item",
+      "ParcelID": 4053,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 557,
+      "GachaGroupID": 10403,
+      "ParcelType": "Item",
+      "ParcelID": 4073,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 558,
+      "GachaGroupID": 20000,
+      "ParcelType": "Item",
+      "ParcelID": 3030,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 559,
+      "GachaGroupID": 20000,
+      "ParcelType": "Item",
+      "ParcelID": 3070,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 560,
+      "GachaGroupID": 20000,
+      "ParcelType": "Item",
+      "ParcelID": 3020,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 561,
+      "GachaGroupID": 20001,
+      "ParcelType": "Item",
+      "ParcelID": 3031,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 562,
+      "GachaGroupID": 20001,
+      "ParcelType": "Item",
+      "ParcelID": 3071,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 563,
+      "GachaGroupID": 20001,
+      "ParcelType": "Item",
+      "ParcelID": 3021,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 564,
+      "GachaGroupID": 20002,
+      "ParcelType": "Item",
+      "ParcelID": 3032,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 565,
+      "GachaGroupID": 20002,
+      "ParcelType": "Item",
+      "ParcelID": 3072,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 566,
+      "GachaGroupID": 20002,
+      "ParcelType": "Item",
+      "ParcelID": 3022,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 567,
+      "GachaGroupID": 20003,
+      "ParcelType": "Item",
+      "ParcelID": 3033,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 568,
+      "GachaGroupID": 20003,
+      "ParcelType": "Item",
+      "ParcelID": 3073,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 569,
+      "GachaGroupID": 20003,
+      "ParcelType": "Item",
+      "ParcelID": 3023,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 570,
+      "GachaGroupID": 20004,
+      "ParcelType": "Item",
+      "ParcelID": 3040,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 571,
+      "GachaGroupID": 20004,
+      "ParcelType": "Item",
+      "ParcelID": 3050,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 572,
+      "GachaGroupID": 20004,
+      "ParcelType": "Item",
+      "ParcelID": 3000,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 573,
+      "GachaGroupID": 20005,
+      "ParcelType": "Item",
+      "ParcelID": 3041,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 574,
+      "GachaGroupID": 20005,
+      "ParcelType": "Item",
+      "ParcelID": 3051,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 575,
+      "GachaGroupID": 20005,
+      "ParcelType": "Item",
+      "ParcelID": 3001,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 576,
+      "GachaGroupID": 20006,
+      "ParcelType": "Item",
+      "ParcelID": 3042,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 577,
+      "GachaGroupID": 20006,
+      "ParcelType": "Item",
+      "ParcelID": 3052,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 578,
+      "GachaGroupID": 20006,
+      "ParcelType": "Item",
+      "ParcelID": 3002,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 579,
+      "GachaGroupID": 20007,
+      "ParcelType": "Item",
+      "ParcelID": 3043,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 580,
+      "GachaGroupID": 20007,
+      "ParcelType": "Item",
+      "ParcelID": 3053,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 581,
+      "GachaGroupID": 20007,
+      "ParcelType": "Item",
+      "ParcelID": 3003,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 582,
+      "GachaGroupID": 21000,
+      "ParcelType": "Item",
+      "ParcelID": 4030,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 583,
+      "GachaGroupID": 21000,
+      "ParcelType": "Item",
+      "ParcelID": 4070,
+      "Rarity": "N",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 584,
       "GachaGroupID": 21000,
       "ParcelType": "Item",
       "ParcelID": 4020,
@@ -5919,10 +6425,10 @@
       "State": 1
     },
     {
-      "ID": 539,
+      "ID": 585,
       "GachaGroupID": 21001,
       "ParcelType": "Item",
-      "ParcelID": 4030,
+      "ParcelID": 4031,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5930,10 +6436,10 @@
       "State": 1
     },
     {
-      "ID": 540,
+      "ID": 586,
       "GachaGroupID": 21001,
       "ParcelType": "Item",
-      "ParcelID": 4070,
+      "ParcelID": 4071,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5941,10 +6447,10 @@
       "State": 1
     },
     {
-      "ID": 541,
+      "ID": 587,
       "GachaGroupID": 21001,
       "ParcelType": "Item",
-      "ParcelID": 4020,
+      "ParcelID": 4021,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5952,10 +6458,10 @@
       "State": 1
     },
     {
-      "ID": 542,
+      "ID": 588,
       "GachaGroupID": 21002,
       "ParcelType": "Item",
-      "ParcelID": 4030,
+      "ParcelID": 4032,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5963,10 +6469,10 @@
       "State": 1
     },
     {
-      "ID": 543,
+      "ID": 589,
       "GachaGroupID": 21002,
       "ParcelType": "Item",
-      "ParcelID": 4070,
+      "ParcelID": 4072,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5974,10 +6480,10 @@
       "State": 1
     },
     {
-      "ID": 544,
+      "ID": 590,
       "GachaGroupID": 21002,
       "ParcelType": "Item",
-      "ParcelID": 4020,
+      "ParcelID": 4022,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5985,10 +6491,10 @@
       "State": 1
     },
     {
-      "ID": 545,
+      "ID": 591,
       "GachaGroupID": 21003,
       "ParcelType": "Item",
-      "ParcelID": 4030,
+      "ParcelID": 4033,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -5996,10 +6502,10 @@
       "State": 1
     },
     {
-      "ID": 546,
+      "ID": 592,
       "GachaGroupID": 21003,
       "ParcelType": "Item",
-      "ParcelID": 4070,
+      "ParcelID": 4073,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -6007,10 +6513,10 @@
       "State": 1
     },
     {
-      "ID": 547,
+      "ID": 593,
       "GachaGroupID": 21003,
       "ParcelType": "Item",
-      "ParcelID": 4020,
+      "ParcelID": 4023,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -6018,7 +6524,7 @@
       "State": 1
     },
     {
-      "ID": 548,
+      "ID": 594,
       "GachaGroupID": 21004,
       "ParcelType": "Item",
       "ParcelID": 4040,
@@ -6029,7 +6535,7 @@
       "State": 1
     },
     {
-      "ID": 549,
+      "ID": 595,
       "GachaGroupID": 21004,
       "ParcelType": "Item",
       "ParcelID": 4050,
@@ -6040,7 +6546,7 @@
       "State": 1
     },
     {
-      "ID": 550,
+      "ID": 596,
       "GachaGroupID": 21004,
       "ParcelType": "Item",
       "ParcelID": 4000,
@@ -6051,10 +6557,10 @@
       "State": 1
     },
     {
-      "ID": 551,
+      "ID": 597,
       "GachaGroupID": 21005,
       "ParcelType": "Item",
-      "ParcelID": 4040,
+      "ParcelID": 4041,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -6062,10 +6568,10 @@
       "State": 1
     },
     {
-      "ID": 552,
+      "ID": 598,
       "GachaGroupID": 21005,
       "ParcelType": "Item",
-      "ParcelID": 4050,
+      "ParcelID": 4051,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -6073,10 +6579,10 @@
       "State": 1
     },
     {
-      "ID": 553,
+      "ID": 599,
       "GachaGroupID": 21005,
       "ParcelType": "Item",
-      "ParcelID": 4000,
+      "ParcelID": 4001,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -6084,10 +6590,10 @@
       "State": 1
     },
     {
-      "ID": 554,
+      "ID": 600,
       "GachaGroupID": 21006,
       "ParcelType": "Item",
-      "ParcelID": 4040,
+      "ParcelID": 4042,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -6095,10 +6601,10 @@
       "State": 1
     },
     {
-      "ID": 555,
+      "ID": 601,
       "GachaGroupID": 21006,
       "ParcelType": "Item",
-      "ParcelID": 4050,
+      "ParcelID": 4052,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -6106,10 +6612,10 @@
       "State": 1
     },
     {
-      "ID": 556,
+      "ID": 602,
       "GachaGroupID": 21006,
       "ParcelType": "Item",
-      "ParcelID": 4000,
+      "ParcelID": 4002,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -6117,10 +6623,10 @@
       "State": 1
     },
     {
-      "ID": 557,
+      "ID": 603,
       "GachaGroupID": 21007,
       "ParcelType": "Item",
-      "ParcelID": 4040,
+      "ParcelID": 4043,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -6128,10 +6634,10 @@
       "State": 1
     },
     {
-      "ID": 558,
+      "ID": 604,
       "GachaGroupID": 21007,
       "ParcelType": "Item",
-      "ParcelID": 4050,
+      "ParcelID": 4053,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -6139,10 +6645,10 @@
       "State": 1
     },
     {
-      "ID": 559,
+      "ID": 605,
       "GachaGroupID": 21007,
       "ParcelType": "Item",
-      "ParcelID": 4000,
+      "ParcelID": 4003,
       "Rarity": "N",
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
@@ -6150,7 +6656,7 @@
       "State": 1
     },
     {
-      "ID": 560,
+      "ID": 606,
       "GachaGroupID": 90000,
       "ParcelType": "Currency",
       "ParcelID": 3,
@@ -6161,7 +6667,7 @@
       "State": 1
     },
     {
-      "ID": 561,
+      "ID": 607,
       "GachaGroupID": 100011,
       "ParcelType": "Character",
       "ParcelID": 16000,
@@ -6172,7 +6678,7 @@
       "State": 1
     },
     {
-      "ID": 562,
+      "ID": 608,
       "GachaGroupID": 100011,
       "ParcelType": "Character",
       "ParcelID": 16001,
@@ -6183,7 +6689,7 @@
       "State": 1
     },
     {
-      "ID": 563,
+      "ID": 609,
       "GachaGroupID": 100011,
       "ParcelType": "Character",
       "ParcelID": 16002,
@@ -6194,7 +6700,7 @@
       "State": 1
     },
     {
-      "ID": 564,
+      "ID": 610,
       "GachaGroupID": 100011,
       "ParcelType": "Character",
       "ParcelID": 16003,
@@ -6205,7 +6711,7 @@
       "State": 1
     },
     {
-      "ID": 565,
+      "ID": 611,
       "GachaGroupID": 100011,
       "ParcelType": "Character",
       "ParcelID": 16004,
@@ -6216,7 +6722,7 @@
       "State": 1
     },
     {
-      "ID": 566,
+      "ID": 612,
       "GachaGroupID": 100011,
       "ParcelType": "Character",
       "ParcelID": 26000,
@@ -6227,7 +6733,7 @@
       "State": 1
     },
     {
-      "ID": 567,
+      "ID": 613,
       "GachaGroupID": 100011,
       "ParcelType": "Character",
       "ParcelID": 26001,
@@ -6238,7 +6744,7 @@
       "State": 1
     },
     {
-      "ID": 568,
+      "ID": 614,
       "GachaGroupID": 100011,
       "ParcelType": "Character",
       "ParcelID": 26002,
@@ -6249,7 +6755,7 @@
       "State": 1
     },
     {
-      "ID": 569,
+      "ID": 615,
       "GachaGroupID": 100011,
       "ParcelType": "Character",
       "ParcelID": 26003,
@@ -6260,7 +6766,7 @@
       "State": 1
     },
     {
-      "ID": 570,
+      "ID": 616,
       "GachaGroupID": 100011,
       "ParcelType": "Character",
       "ParcelID": 26004,
@@ -6271,7 +6777,7 @@
       "State": 1
     },
     {
-      "ID": 571,
+      "ID": 617,
       "GachaGroupID": 100011,
       "ParcelType": "Character",
       "ParcelID": 26005,
@@ -6282,7 +6788,7 @@
       "State": 1
     },
     {
-      "ID": 572,
+      "ID": 618,
       "GachaGroupID": 100012,
       "ParcelType": "Character",
       "ParcelID": 13000,
@@ -6293,7 +6799,7 @@
       "State": 1
     },
     {
-      "ID": 573,
+      "ID": 619,
       "GachaGroupID": 100012,
       "ParcelType": "Character",
       "ParcelID": 13001,
@@ -6304,7 +6810,7 @@
       "State": 1
     },
     {
-      "ID": 574,
+      "ID": 620,
       "GachaGroupID": 100012,
       "ParcelType": "Character",
       "ParcelID": 13002,
@@ -6315,7 +6821,7 @@
       "State": 1
     },
     {
-      "ID": 575,
+      "ID": 621,
       "GachaGroupID": 100012,
       "ParcelType": "Character",
       "ParcelID": 13003,
@@ -6326,7 +6832,7 @@
       "State": 1
     },
     {
-      "ID": 576,
+      "ID": 622,
       "GachaGroupID": 100012,
       "ParcelType": "Character",
       "ParcelID": 13005,
@@ -6337,7 +6843,7 @@
       "State": 1
     },
     {
-      "ID": 577,
+      "ID": 623,
       "GachaGroupID": 100012,
       "ParcelType": "Character",
       "ParcelID": 13006,
@@ -6348,7 +6854,7 @@
       "State": 1
     },
     {
-      "ID": 578,
+      "ID": 624,
       "GachaGroupID": 100012,
       "ParcelType": "Character",
       "ParcelID": 13007,
@@ -6359,7 +6865,18 @@
       "State": 1
     },
     {
-      "ID": 579,
+      "ID": 625,
+      "GachaGroupID": 100012,
+      "ParcelType": "Character",
+      "ParcelID": 13008,
+      "Rarity": "SR",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 626,
       "GachaGroupID": 100012,
       "ParcelType": "Character",
       "ParcelID": 13009,
@@ -6370,7 +6887,7 @@
       "State": 1
     },
     {
-      "ID": 580,
+      "ID": 627,
       "GachaGroupID": 100012,
       "ParcelType": "Character",
       "ParcelID": 13010,
@@ -6381,7 +6898,7 @@
       "State": 1
     },
     {
-      "ID": 581,
+      "ID": 628,
       "GachaGroupID": 100012,
       "ParcelType": "Character",
       "ParcelID": 23000,
@@ -6392,7 +6909,7 @@
       "State": 1
     },
     {
-      "ID": 582,
+      "ID": 629,
       "GachaGroupID": 100012,
       "ParcelType": "Character",
       "ParcelID": 23001,
@@ -6403,7 +6920,7 @@
       "State": 1
     },
     {
-      "ID": 583,
+      "ID": 630,
       "GachaGroupID": 100012,
       "ParcelType": "Character",
       "ParcelID": 23002,
@@ -6414,7 +6931,7 @@
       "State": 1
     },
     {
-      "ID": 584,
+      "ID": 631,
       "GachaGroupID": 100012,
       "ParcelType": "Character",
       "ParcelID": 23003,
@@ -6425,7 +6942,7 @@
       "State": 1
     },
     {
-      "ID": 585,
+      "ID": 632,
       "GachaGroupID": 100012,
       "ParcelType": "Character",
       "ParcelID": 23004,
@@ -6436,7 +6953,7 @@
       "State": 1
     },
     {
-      "ID": 586,
+      "ID": 633,
       "GachaGroupID": 100012,
       "ParcelType": "Character",
       "ParcelID": 23005,
@@ -6447,7 +6964,7 @@
       "State": 1
     },
     {
-      "ID": 587,
+      "ID": 634,
       "GachaGroupID": 100013,
       "ParcelType": "Character",
       "ParcelID": 10000,
@@ -6458,7 +6975,7 @@
       "State": 1
     },
     {
-      "ID": 588,
+      "ID": 635,
       "GachaGroupID": 100013,
       "ParcelType": "Character",
       "ParcelID": 10001,
@@ -6469,7 +6986,7 @@
       "State": 1
     },
     {
-      "ID": 589,
+      "ID": 636,
       "GachaGroupID": 100013,
       "ParcelType": "Character",
       "ParcelID": 10002,
@@ -6480,7 +6997,7 @@
       "State": 1
     },
     {
-      "ID": 590,
+      "ID": 637,
       "GachaGroupID": 100013,
       "ParcelType": "Character",
       "ParcelID": 10003,
@@ -6491,7 +7008,7 @@
       "State": 1
     },
     {
-      "ID": 591,
+      "ID": 638,
       "GachaGroupID": 100013,
       "ParcelType": "Character",
       "ParcelID": 10004,
@@ -6502,7 +7019,7 @@
       "State": 1
     },
     {
-      "ID": 592,
+      "ID": 639,
       "GachaGroupID": 100013,
       "ParcelType": "Character",
       "ParcelID": 10006,
@@ -6513,7 +7030,7 @@
       "State": 1
     },
     {
-      "ID": 593,
+      "ID": 640,
       "GachaGroupID": 100013,
       "ParcelType": "Character",
       "ParcelID": 10007,
@@ -6524,7 +7041,7 @@
       "State": 1
     },
     {
-      "ID": 594,
+      "ID": 641,
       "GachaGroupID": 100013,
       "ParcelType": "Character",
       "ParcelID": 10008,
@@ -6535,7 +7052,7 @@
       "State": 1
     },
     {
-      "ID": 595,
+      "ID": 642,
       "GachaGroupID": 100013,
       "ParcelType": "Character",
       "ParcelID": 10009,
@@ -6546,7 +7063,7 @@
       "State": 1
     },
     {
-      "ID": 596,
+      "ID": 643,
       "GachaGroupID": 100013,
       "ParcelType": "Character",
       "ParcelID": 10011,
@@ -6557,7 +7074,7 @@
       "State": 1
     },
     {
-      "ID": 597,
+      "ID": 644,
       "GachaGroupID": 100013,
       "ParcelType": "Character",
       "ParcelID": 10012,
@@ -6568,7 +7085,7 @@
       "State": 1
     },
     {
-      "ID": 598,
+      "ID": 645,
       "GachaGroupID": 100013,
       "ParcelType": "Character",
       "ParcelID": 10013,
@@ -6579,7 +7096,7 @@
       "State": 1
     },
     {
-      "ID": 599,
+      "ID": 646,
       "GachaGroupID": 100013,
       "ParcelType": "Character",
       "ParcelID": 20000,
@@ -6590,7 +7107,7 @@
       "State": 1
     },
     {
-      "ID": 600,
+      "ID": 647,
       "GachaGroupID": 100013,
       "ParcelType": "Character",
       "ParcelID": 20001,
@@ -6601,7 +7118,7 @@
       "State": 1
     },
     {
-      "ID": 601,
+      "ID": 648,
       "GachaGroupID": 100013,
       "ParcelType": "Character",
       "ParcelID": 20002,
@@ -6612,7 +7129,7 @@
       "State": 1
     },
     {
-      "ID": 602,
+      "ID": 649,
       "GachaGroupID": 100022,
       "ParcelType": "Character",
       "ParcelID": 13008,
@@ -6623,7 +7140,7 @@
       "State": 1
     },
     {
-      "ID": 603,
+      "ID": 650,
       "GachaGroupID": 100023,
       "ParcelType": "Character",
       "ParcelID": 10005,
@@ -6634,7 +7151,7 @@
       "State": 1
     },
     {
-      "ID": 604,
+      "ID": 651,
       "GachaGroupID": 100023,
       "ParcelType": "Character",
       "ParcelID": 10010,
@@ -6645,7 +7162,7 @@
       "State": 1
     },
     {
-      "ID": 605,
+      "ID": 652,
       "GachaGroupID": 100031,
       "ParcelType": "Character",
       "ParcelID": 16000,
@@ -6656,7 +7173,7 @@
       "State": 1
     },
     {
-      "ID": 606,
+      "ID": 653,
       "GachaGroupID": 100031,
       "ParcelType": "Character",
       "ParcelID": 16001,
@@ -6667,7 +7184,7 @@
       "State": 1
     },
     {
-      "ID": 607,
+      "ID": 654,
       "GachaGroupID": 100031,
       "ParcelType": "Character",
       "ParcelID": 16002,
@@ -6678,7 +7195,7 @@
       "State": 1
     },
     {
-      "ID": 608,
+      "ID": 655,
       "GachaGroupID": 100031,
       "ParcelType": "Character",
       "ParcelID": 16003,
@@ -6689,7 +7206,7 @@
       "State": 1
     },
     {
-      "ID": 609,
+      "ID": 656,
       "GachaGroupID": 100031,
       "ParcelType": "Character",
       "ParcelID": 16004,
@@ -6700,7 +7217,7 @@
       "State": 1
     },
     {
-      "ID": 610,
+      "ID": 657,
       "GachaGroupID": 100031,
       "ParcelType": "Character",
       "ParcelID": 26000,
@@ -6711,7 +7228,7 @@
       "State": 1
     },
     {
-      "ID": 611,
+      "ID": 658,
       "GachaGroupID": 100031,
       "ParcelType": "Character",
       "ParcelID": 26001,
@@ -6722,7 +7239,7 @@
       "State": 1
     },
     {
-      "ID": 612,
+      "ID": 659,
       "GachaGroupID": 100031,
       "ParcelType": "Character",
       "ParcelID": 26002,
@@ -6733,7 +7250,7 @@
       "State": 1
     },
     {
-      "ID": 613,
+      "ID": 660,
       "GachaGroupID": 100031,
       "ParcelType": "Character",
       "ParcelID": 26003,
@@ -6744,7 +7261,7 @@
       "State": 1
     },
     {
-      "ID": 614,
+      "ID": 661,
       "GachaGroupID": 100031,
       "ParcelType": "Character",
       "ParcelID": 26004,
@@ -6755,7 +7272,7 @@
       "State": 1
     },
     {
-      "ID": 615,
+      "ID": 662,
       "GachaGroupID": 100031,
       "ParcelType": "Character",
       "ParcelID": 26005,
@@ -6766,7 +7283,7 @@
       "State": 1
     },
     {
-      "ID": 616,
+      "ID": 663,
       "GachaGroupID": 100032,
       "ParcelType": "Character",
       "ParcelID": 13000,
@@ -6777,7 +7294,7 @@
       "State": 1
     },
     {
-      "ID": 617,
+      "ID": 664,
       "GachaGroupID": 100032,
       "ParcelType": "Character",
       "ParcelID": 13001,
@@ -6788,7 +7305,7 @@
       "State": 1
     },
     {
-      "ID": 618,
+      "ID": 665,
       "GachaGroupID": 100032,
       "ParcelType": "Character",
       "ParcelID": 13002,
@@ -6799,7 +7316,7 @@
       "State": 1
     },
     {
-      "ID": 619,
+      "ID": 666,
       "GachaGroupID": 100032,
       "ParcelType": "Character",
       "ParcelID": 13003,
@@ -6810,7 +7327,7 @@
       "State": 1
     },
     {
-      "ID": 620,
+      "ID": 667,
       "GachaGroupID": 100032,
       "ParcelType": "Character",
       "ParcelID": 13005,
@@ -6821,7 +7338,7 @@
       "State": 1
     },
     {
-      "ID": 621,
+      "ID": 668,
       "GachaGroupID": 100032,
       "ParcelType": "Character",
       "ParcelID": 13006,
@@ -6832,7 +7349,7 @@
       "State": 1
     },
     {
-      "ID": 622,
+      "ID": 669,
       "GachaGroupID": 100032,
       "ParcelType": "Character",
       "ParcelID": 13007,
@@ -6843,7 +7360,18 @@
       "State": 1
     },
     {
-      "ID": 623,
+      "ID": 670,
+      "GachaGroupID": 100032,
+      "ParcelType": "Character",
+      "ParcelID": 13008,
+      "Rarity": "SR",
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 671,
       "GachaGroupID": 100032,
       "ParcelType": "Character",
       "ParcelID": 13009,
@@ -6854,7 +7382,7 @@
       "State": 1
     },
     {
-      "ID": 624,
+      "ID": 672,
       "GachaGroupID": 100032,
       "ParcelType": "Character",
       "ParcelID": 13010,
@@ -6865,7 +7393,7 @@
       "State": 1
     },
     {
-      "ID": 625,
+      "ID": 673,
       "GachaGroupID": 100032,
       "ParcelType": "Character",
       "ParcelID": 23000,
@@ -6876,7 +7404,7 @@
       "State": 1
     },
     {
-      "ID": 626,
+      "ID": 674,
       "GachaGroupID": 100032,
       "ParcelType": "Character",
       "ParcelID": 23001,
@@ -6887,7 +7415,7 @@
       "State": 1
     },
     {
-      "ID": 627,
+      "ID": 675,
       "GachaGroupID": 100032,
       "ParcelType": "Character",
       "ParcelID": 23002,
@@ -6898,7 +7426,7 @@
       "State": 1
     },
     {
-      "ID": 628,
+      "ID": 676,
       "GachaGroupID": 100032,
       "ParcelType": "Character",
       "ParcelID": 23003,
@@ -6909,7 +7437,7 @@
       "State": 1
     },
     {
-      "ID": 629,
+      "ID": 677,
       "GachaGroupID": 100032,
       "ParcelType": "Character",
       "ParcelID": 23004,
@@ -6920,7 +7448,7 @@
       "State": 1
     },
     {
-      "ID": 630,
+      "ID": 678,
       "GachaGroupID": 100032,
       "ParcelType": "Character",
       "ParcelID": 23005,
@@ -6931,7 +7459,7 @@
       "State": 1
     },
     {
-      "ID": 631,
+      "ID": 679,
       "GachaGroupID": 100033,
       "ParcelType": "Character",
       "ParcelID": 10000,
@@ -6942,7 +7470,7 @@
       "State": 1
     },
     {
-      "ID": 632,
+      "ID": 680,
       "GachaGroupID": 100033,
       "ParcelType": "Character",
       "ParcelID": 10001,
@@ -6953,7 +7481,7 @@
       "State": 1
     },
     {
-      "ID": 633,
+      "ID": 681,
       "GachaGroupID": 100033,
       "ParcelType": "Character",
       "ParcelID": 10002,
@@ -6964,7 +7492,7 @@
       "State": 1
     },
     {
-      "ID": 634,
+      "ID": 682,
       "GachaGroupID": 100033,
       "ParcelType": "Character",
       "ParcelID": 10003,
@@ -6975,7 +7503,7 @@
       "State": 1
     },
     {
-      "ID": 635,
+      "ID": 683,
       "GachaGroupID": 100033,
       "ParcelType": "Character",
       "ParcelID": 10004,
@@ -6986,7 +7514,7 @@
       "State": 1
     },
     {
-      "ID": 636,
+      "ID": 684,
       "GachaGroupID": 100033,
       "ParcelType": "Character",
       "ParcelID": 10006,
@@ -6997,7 +7525,7 @@
       "State": 1
     },
     {
-      "ID": 637,
+      "ID": 685,
       "GachaGroupID": 100033,
       "ParcelType": "Character",
       "ParcelID": 10007,
@@ -7008,7 +7536,7 @@
       "State": 1
     },
     {
-      "ID": 638,
+      "ID": 686,
       "GachaGroupID": 100033,
       "ParcelType": "Character",
       "ParcelID": 10008,
@@ -7019,7 +7547,7 @@
       "State": 1
     },
     {
-      "ID": 639,
+      "ID": 687,
       "GachaGroupID": 100033,
       "ParcelType": "Character",
       "ParcelID": 10009,
@@ -7030,7 +7558,7 @@
       "State": 1
     },
     {
-      "ID": 640,
+      "ID": 688,
       "GachaGroupID": 100033,
       "ParcelType": "Character",
       "ParcelID": 10011,
@@ -7041,7 +7569,7 @@
       "State": 1
     },
     {
-      "ID": 641,
+      "ID": 689,
       "GachaGroupID": 100033,
       "ParcelType": "Character",
       "ParcelID": 10012,
@@ -7052,7 +7580,7 @@
       "State": 1
     },
     {
-      "ID": 642,
+      "ID": 690,
       "GachaGroupID": 100033,
       "ParcelType": "Character",
       "ParcelID": 10013,
@@ -7063,7 +7591,7 @@
       "State": 1
     },
     {
-      "ID": 643,
+      "ID": 691,
       "GachaGroupID": 100033,
       "ParcelType": "Character",
       "ParcelID": 20000,
@@ -7074,7 +7602,7 @@
       "State": 1
     },
     {
-      "ID": 644,
+      "ID": 692,
       "GachaGroupID": 100033,
       "ParcelType": "Character",
       "ParcelID": 20001,
@@ -7085,7 +7613,7 @@
       "State": 1
     },
     {
-      "ID": 645,
+      "ID": 693,
       "GachaGroupID": 100033,
       "ParcelType": "Character",
       "ParcelID": 20002,
@@ -7096,7 +7624,7 @@
       "State": 1
     },
     {
-      "ID": 646,
+      "ID": 694,
       "GachaGroupID": 100033,
       "ParcelType": "Character",
       "ParcelID": 10005,
@@ -7107,7 +7635,7 @@
       "State": 1
     },
     {
-      "ID": 647,
+      "ID": 695,
       "GachaGroupID": 100033,
       "ParcelType": "Character",
       "ParcelID": 10010,
@@ -7118,7 +7646,7 @@
       "State": 1
     },
     {
-      "ID": 648,
+      "ID": 696,
       "GachaGroupID": 100042,
       "ParcelType": "Character",
       "ParcelID": 13008,
@@ -7129,7 +7657,7 @@
       "State": 1
     },
     {
-      "ID": 649,
+      "ID": 697,
       "GachaGroupID": 100043,
       "ParcelType": "Character",
       "ParcelID": 20003,
@@ -7140,7 +7668,7 @@
       "State": 1
     },
     {
-      "ID": 650,
+      "ID": 698,
       "GachaGroupID": 200000,
       "ParcelType": "Item",
       "ParcelID": 5000,
@@ -7151,7 +7679,7 @@
       "State": 1
     },
     {
-      "ID": 651,
+      "ID": 699,
       "GachaGroupID": 200000,
       "ParcelType": "Item",
       "ParcelID": 5001,
@@ -7162,7 +7690,7 @@
       "State": 1
     },
     {
-      "ID": 652,
+      "ID": 700,
       "GachaGroupID": 200000,
       "ParcelType": "Item",
       "ParcelID": 5002,
@@ -7173,7 +7701,7 @@
       "State": 1
     },
     {
-      "ID": 653,
+      "ID": 701,
       "GachaGroupID": 200000,
       "ParcelType": "Item",
       "ParcelID": 5003,
@@ -7184,7 +7712,7 @@
       "State": 1
     },
     {
-      "ID": 654,
+      "ID": 702,
       "GachaGroupID": 200000,
       "ParcelType": "Item",
       "ParcelID": 5004,
@@ -7195,7 +7723,7 @@
       "State": 1
     },
     {
-      "ID": 655,
+      "ID": 703,
       "GachaGroupID": 200000,
       "ParcelType": "Item",
       "ParcelID": 5005,
@@ -7206,7 +7734,7 @@
       "State": 1
     },
     {
-      "ID": 656,
+      "ID": 704,
       "GachaGroupID": 200000,
       "ParcelType": "Item",
       "ParcelID": 5006,
@@ -7217,7 +7745,7 @@
       "State": 1
     },
     {
-      "ID": 657,
+      "ID": 705,
       "GachaGroupID": 200000,
       "ParcelType": "Item",
       "ParcelID": 5007,
@@ -7228,7 +7756,7 @@
       "State": 1
     },
     {
-      "ID": 658,
+      "ID": 706,
       "GachaGroupID": 200000,
       "ParcelType": "Item",
       "ParcelID": 5008,
@@ -7239,7 +7767,7 @@
       "State": 1
     },
     {
-      "ID": 659,
+      "ID": 707,
       "GachaGroupID": 200000,
       "ParcelType": "Item",
       "ParcelID": 5009,
@@ -7250,7 +7778,7 @@
       "State": 1
     },
     {
-      "ID": 660,
+      "ID": 708,
       "GachaGroupID": 200000,
       "ParcelType": "Item",
       "ParcelID": 5010,
@@ -7261,7 +7789,7 @@
       "State": 1
     },
     {
-      "ID": 661,
+      "ID": 709,
       "GachaGroupID": 200000,
       "ParcelType": "Item",
       "ParcelID": 5011,
@@ -7272,7 +7800,7 @@
       "State": 1
     },
     {
-      "ID": 662,
+      "ID": 710,
       "GachaGroupID": 200000,
       "ParcelType": "Item",
       "ParcelID": 5012,
@@ -7283,7 +7811,7 @@
       "State": 1
     },
     {
-      "ID": 663,
+      "ID": 711,
       "GachaGroupID": 200000,
       "ParcelType": "Item",
       "ParcelID": 5013,
@@ -7294,7 +7822,7 @@
       "State": 1
     },
     {
-      "ID": 664,
+      "ID": 712,
       "GachaGroupID": 200000,
       "ParcelType": "Item",
       "ParcelID": 5014,
@@ -7305,7 +7833,7 @@
       "State": 1
     },
     {
-      "ID": 665,
+      "ID": 713,
       "GachaGroupID": 200000,
       "ParcelType": "Item",
       "ParcelID": 5015,
@@ -7316,7 +7844,7 @@
       "State": 1
     },
     {
-      "ID": 666,
+      "ID": 714,
       "GachaGroupID": 200000,
       "ParcelType": "Item",
       "ParcelID": 5016,
@@ -7327,7 +7855,7 @@
       "State": 1
     },
     {
-      "ID": 667,
+      "ID": 715,
       "GachaGroupID": 200000,
       "ParcelType": "Item",
       "ParcelID": 5017,
@@ -7338,7 +7866,7 @@
       "State": 1
     },
     {
-      "ID": 668,
+      "ID": 716,
       "GachaGroupID": 200000,
       "ParcelType": "Item",
       "ParcelID": 5018,
@@ -7349,7 +7877,7 @@
       "State": 1
     },
     {
-      "ID": 669,
+      "ID": 717,
       "GachaGroupID": 200000,
       "ParcelType": "Item",
       "ParcelID": 5019,
@@ -7360,7 +7888,7 @@
       "State": 1
     },
     {
-      "ID": 670,
+      "ID": 718,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 1,
@@ -7371,7 +7899,7 @@
       "State": 1
     },
     {
-      "ID": 671,
+      "ID": 719,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 2,
@@ -7382,7 +7910,7 @@
       "State": 1
     },
     {
-      "ID": 672,
+      "ID": 720,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 3,
@@ -7393,7 +7921,7 @@
       "State": 1
     },
     {
-      "ID": 673,
+      "ID": 721,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 4,
@@ -7404,7 +7932,7 @@
       "State": 1
     },
     {
-      "ID": 674,
+      "ID": 722,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 5,
@@ -7415,7 +7943,7 @@
       "State": 1
     },
     {
-      "ID": 675,
+      "ID": 723,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 6,
@@ -7426,7 +7954,7 @@
       "State": 1
     },
     {
-      "ID": 676,
+      "ID": 724,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 7,
@@ -7437,7 +7965,7 @@
       "State": 1
     },
     {
-      "ID": 677,
+      "ID": 725,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 8,
@@ -7448,7 +7976,7 @@
       "State": 1
     },
     {
-      "ID": 678,
+      "ID": 726,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 9,
@@ -7459,7 +7987,7 @@
       "State": 1
     },
     {
-      "ID": 679,
+      "ID": 727,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 10,
@@ -7470,7 +7998,7 @@
       "State": 1
     },
     {
-      "ID": 680,
+      "ID": 728,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 11,
@@ -7481,7 +8009,7 @@
       "State": 1
     },
     {
-      "ID": 681,
+      "ID": 729,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 1100,
@@ -7492,7 +8020,7 @@
       "State": 1
     },
     {
-      "ID": 682,
+      "ID": 730,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 1101,
@@ -7503,7 +8031,7 @@
       "State": 1
     },
     {
-      "ID": 683,
+      "ID": 731,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 1102,
@@ -7514,7 +8042,7 @@
       "State": 1
     },
     {
-      "ID": 684,
+      "ID": 732,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 1103,
@@ -7525,7 +8053,7 @@
       "State": 1
     },
     {
-      "ID": 685,
+      "ID": 733,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 1104,
@@ -7536,7 +8064,7 @@
       "State": 1
     },
     {
-      "ID": 686,
+      "ID": 734,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 1105,
@@ -7547,7 +8075,7 @@
       "State": 1
     },
     {
-      "ID": 687,
+      "ID": 735,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 1106,
@@ -7558,7 +8086,7 @@
       "State": 1
     },
     {
-      "ID": 688,
+      "ID": 736,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 1107,
@@ -7569,7 +8097,7 @@
       "State": 1
     },
     {
-      "ID": 689,
+      "ID": 737,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 1108,
@@ -7580,7 +8108,7 @@
       "State": 1
     },
     {
-      "ID": 690,
+      "ID": 738,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 1109,
@@ -7591,7 +8119,7 @@
       "State": 1
     },
     {
-      "ID": 691,
+      "ID": 739,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 2100,
@@ -7602,7 +8130,7 @@
       "State": 1
     },
     {
-      "ID": 692,
+      "ID": 740,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 2101,
@@ -7613,7 +8141,7 @@
       "State": 1
     },
     {
-      "ID": 693,
+      "ID": 741,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 2102,
@@ -7624,7 +8152,7 @@
       "State": 1
     },
     {
-      "ID": 694,
+      "ID": 742,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 2103,
@@ -7635,7 +8163,7 @@
       "State": 1
     },
     {
-      "ID": 695,
+      "ID": 743,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 2104,
@@ -7646,7 +8174,7 @@
       "State": 1
     },
     {
-      "ID": 696,
+      "ID": 744,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 2105,
@@ -7657,7 +8185,7 @@
       "State": 1
     },
     {
-      "ID": 697,
+      "ID": 745,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 2106,
@@ -7668,7 +8196,7 @@
       "State": 1
     },
     {
-      "ID": 698,
+      "ID": 746,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 2107,
@@ -7679,7 +8207,7 @@
       "State": 1
     },
     {
-      "ID": 699,
+      "ID": 747,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 2108,
@@ -7690,7 +8218,7 @@
       "State": 1
     },
     {
-      "ID": 700,
+      "ID": 748,
       "GachaGroupID": 210010,
       "ParcelType": "Furniture",
       "ParcelID": 2109,
@@ -7701,7 +8229,7 @@
       "State": 1
     },
     {
-      "ID": 701,
+      "ID": 749,
       "GachaGroupID": 210011,
       "ParcelType": "Furniture",
       "ParcelID": 1200,
@@ -7712,7 +8240,7 @@
       "State": 1
     },
     {
-      "ID": 702,
+      "ID": 750,
       "GachaGroupID": 210011,
       "ParcelType": "Furniture",
       "ParcelID": 1201,
@@ -7723,7 +8251,7 @@
       "State": 1
     },
     {
-      "ID": 703,
+      "ID": 751,
       "GachaGroupID": 210011,
       "ParcelType": "Furniture",
       "ParcelID": 1202,
@@ -7734,7 +8262,7 @@
       "State": 1
     },
     {
-      "ID": 704,
+      "ID": 752,
       "GachaGroupID": 210011,
       "ParcelType": "Furniture",
       "ParcelID": 1203,
@@ -7745,7 +8273,7 @@
       "State": 1
     },
     {
-      "ID": 705,
+      "ID": 753,
       "GachaGroupID": 210011,
       "ParcelType": "Furniture",
       "ParcelID": 1204,
@@ -7756,7 +8284,7 @@
       "State": 1
     },
     {
-      "ID": 706,
+      "ID": 754,
       "GachaGroupID": 210011,
       "ParcelType": "Furniture",
       "ParcelID": 2200,
@@ -7767,7 +8295,7 @@
       "State": 1
     },
     {
-      "ID": 707,
+      "ID": 755,
       "GachaGroupID": 210011,
       "ParcelType": "Furniture",
       "ParcelID": 2201,
@@ -7778,7 +8306,7 @@
       "State": 1
     },
     {
-      "ID": 708,
+      "ID": 756,
       "GachaGroupID": 210011,
       "ParcelType": "Furniture",
       "ParcelID": 2202,
@@ -7789,7 +8317,7 @@
       "State": 1
     },
     {
-      "ID": 709,
+      "ID": 757,
       "GachaGroupID": 210011,
       "ParcelType": "Furniture",
       "ParcelID": 2203,
@@ -7800,7 +8328,7 @@
       "State": 1
     },
     {
-      "ID": 710,
+      "ID": 758,
       "GachaGroupID": 210011,
       "ParcelType": "Furniture",
       "ParcelID": 2204,
@@ -7811,7 +8339,7 @@
       "State": 1
     },
     {
-      "ID": 711,
+      "ID": 759,
       "GachaGroupID": 210012,
       "ParcelType": "Furniture",
       "ParcelID": 1300,
@@ -7822,7 +8350,7 @@
       "State": 1
     },
     {
-      "ID": 712,
+      "ID": 760,
       "GachaGroupID": 210012,
       "ParcelType": "Furniture",
       "ParcelID": 1301,
@@ -7833,7 +8361,7 @@
       "State": 1
     },
     {
-      "ID": 713,
+      "ID": 761,
       "GachaGroupID": 210012,
       "ParcelType": "Furniture",
       "ParcelID": 1302,
@@ -7844,7 +8372,7 @@
       "State": 1
     },
     {
-      "ID": 714,
+      "ID": 762,
       "GachaGroupID": 210012,
       "ParcelType": "Furniture",
       "ParcelID": 1303,
@@ -7855,7 +8383,7 @@
       "State": 1
     },
     {
-      "ID": 715,
+      "ID": 763,
       "GachaGroupID": 210012,
       "ParcelType": "Furniture",
       "ParcelID": 2300,
@@ -7866,7 +8394,7 @@
       "State": 1
     },
     {
-      "ID": 716,
+      "ID": 764,
       "GachaGroupID": 210012,
       "ParcelType": "Furniture",
       "ParcelID": 2301,
@@ -7877,7 +8405,7 @@
       "State": 1
     },
     {
-      "ID": 717,
+      "ID": 765,
       "GachaGroupID": 210012,
       "ParcelType": "Furniture",
       "ParcelID": 2302,
@@ -7888,7 +8416,7 @@
       "State": 1
     },
     {
-      "ID": 718,
+      "ID": 766,
       "GachaGroupID": 210012,
       "ParcelType": "Furniture",
       "ParcelID": 2303,
@@ -7899,7 +8427,7 @@
       "State": 1
     },
     {
-      "ID": 719,
+      "ID": 767,
       "GachaGroupID": 500000,
       "ParcelType": "Currency",
       "ParcelID": 1,
@@ -7910,7 +8438,7 @@
       "State": 1
     },
     {
-      "ID": 720,
+      "ID": 768,
       "GachaGroupID": 500001,
       "ParcelType": "Currency",
       "ParcelID": 1,
@@ -7921,7 +8449,7 @@
       "State": 1
     },
     {
-      "ID": 721,
+      "ID": 769,
       "GachaGroupID": 500101,
       "ParcelType": "Item",
       "ParcelID": 10,
@@ -7932,7 +8460,7 @@
       "State": 1
     },
     {
-      "ID": 722,
+      "ID": 770,
       "GachaGroupID": 500102,
       "ParcelType": "Equipment",
       "ParcelID": 1,
@@ -7943,7 +8471,7 @@
       "State": 1
     },
     {
-      "ID": 723,
+      "ID": 771,
       "GachaGroupID": 500103,
       "ParcelType": "Item",
       "ParcelID": 2,
@@ -7954,7 +8482,18 @@
       "State": 1
     },
     {
-      "ID": 724,
+      "ID": 772,
+      "GachaGroupID": 519999,
+      "ParcelType": "Currency",
+      "ParcelID": 1,
+      "Rarity": "N",
+      "ParcelAmountMin": 10,
+      "ParcelAmountMax": 10,
+      "Prob": 1,
+      "State": 1
+    },
+    {
+      "ID": 773,
       "GachaGroupID": 601000,
       "ParcelType": "Equipment",
       "ParcelID": 1000,
@@ -7965,7 +8504,7 @@
       "State": 1
     },
     {
-      "ID": 725,
+      "ID": 774,
       "GachaGroupID": 601001,
       "ParcelType": "Equipment",
       "ParcelID": 1000,
@@ -7976,7 +8515,7 @@
       "State": 1
     },
     {
-      "ID": 726,
+      "ID": 775,
       "GachaGroupID": 601001,
       "ParcelType": "Equipment",
       "ParcelID": 101001,
@@ -7987,7 +8526,7 @@
       "State": 1
     },
     {
-      "ID": 727,
+      "ID": 776,
       "GachaGroupID": 602000,
       "ParcelType": "Equipment",
       "ParcelID": 2000,
@@ -7998,7 +8537,7 @@
       "State": 1
     },
     {
-      "ID": 728,
+      "ID": 777,
       "GachaGroupID": 602001,
       "ParcelType": "Equipment",
       "ParcelID": 2000,
@@ -8009,7 +8548,7 @@
       "State": 1
     },
     {
-      "ID": 729,
+      "ID": 778,
       "GachaGroupID": 602001,
       "ParcelType": "Equipment",
       "ParcelID": 102001,
@@ -8020,7 +8559,7 @@
       "State": 1
     },
     {
-      "ID": 730,
+      "ID": 779,
       "GachaGroupID": 603000,
       "ParcelType": "Equipment",
       "ParcelID": 3000,
@@ -8031,7 +8570,7 @@
       "State": 1
     },
     {
-      "ID": 731,
+      "ID": 780,
       "GachaGroupID": 603001,
       "ParcelType": "Equipment",
       "ParcelID": 3000,
@@ -8042,7 +8581,7 @@
       "State": 1
     },
     {
-      "ID": 732,
+      "ID": 781,
       "GachaGroupID": 603001,
       "ParcelType": "Equipment",
       "ParcelID": 103001,
@@ -8053,7 +8592,7 @@
       "State": 1
     },
     {
-      "ID": 733,
+      "ID": 782,
       "GachaGroupID": 604000,
       "ParcelType": "Equipment",
       "ParcelID": 4000,
@@ -8064,7 +8603,7 @@
       "State": 1
     },
     {
-      "ID": 734,
+      "ID": 783,
       "GachaGroupID": 604001,
       "ParcelType": "Equipment",
       "ParcelID": 4000,
@@ -8075,7 +8614,7 @@
       "State": 1
     },
     {
-      "ID": 735,
+      "ID": 784,
       "GachaGroupID": 604001,
       "ParcelType": "Equipment",
       "ParcelID": 104001,
@@ -8086,7 +8625,7 @@
       "State": 1
     },
     {
-      "ID": 736,
+      "ID": 785,
       "GachaGroupID": 605000,
       "ParcelType": "Equipment",
       "ParcelID": 5000,
@@ -8097,7 +8636,7 @@
       "State": 1
     },
     {
-      "ID": 737,
+      "ID": 786,
       "GachaGroupID": 605001,
       "ParcelType": "Equipment",
       "ParcelID": 5000,
@@ -8108,7 +8647,7 @@
       "State": 1
     },
     {
-      "ID": 738,
+      "ID": 787,
       "GachaGroupID": 605001,
       "ParcelType": "Equipment",
       "ParcelID": 105001,
@@ -8119,7 +8658,7 @@
       "State": 1
     },
     {
-      "ID": 739,
+      "ID": 788,
       "GachaGroupID": 606000,
       "ParcelType": "Equipment",
       "ParcelID": 6000,
@@ -8130,7 +8669,7 @@
       "State": 1
     },
     {
-      "ID": 740,
+      "ID": 789,
       "GachaGroupID": 606001,
       "ParcelType": "Equipment",
       "ParcelID": 6000,
@@ -8141,7 +8680,7 @@
       "State": 1
     },
     {
-      "ID": 741,
+      "ID": 790,
       "GachaGroupID": 606001,
       "ParcelType": "Equipment",
       "ParcelID": 106001,
@@ -8152,7 +8691,7 @@
       "State": 1
     },
     {
-      "ID": 742,
+      "ID": 791,
       "GachaGroupID": 607000,
       "ParcelType": "Equipment",
       "ParcelID": 7000,
@@ -8163,7 +8702,7 @@
       "State": 1
     },
     {
-      "ID": 743,
+      "ID": 792,
       "GachaGroupID": 607001,
       "ParcelType": "Equipment",
       "ParcelID": 7000,
@@ -8174,7 +8713,7 @@
       "State": 1
     },
     {
-      "ID": 744,
+      "ID": 793,
       "GachaGroupID": 607001,
       "ParcelType": "Equipment",
       "ParcelID": 107001,
@@ -8185,7 +8724,7 @@
       "State": 1
     },
     {
-      "ID": 745,
+      "ID": 794,
       "GachaGroupID": 608000,
       "ParcelType": "Equipment",
       "ParcelID": 8000,
@@ -8196,7 +8735,7 @@
       "State": 1
     },
     {
-      "ID": 746,
+      "ID": 795,
       "GachaGroupID": 608001,
       "ParcelType": "Equipment",
       "ParcelID": 8000,
@@ -8207,7 +8746,7 @@
       "State": 1
     },
     {
-      "ID": 747,
+      "ID": 796,
       "GachaGroupID": 608001,
       "ParcelType": "Equipment",
       "ParcelID": 108001,
@@ -8218,7 +8757,7 @@
       "State": 1
     },
     {
-      "ID": 748,
+      "ID": 797,
       "GachaGroupID": 609000,
       "ParcelType": "Equipment",
       "ParcelID": 9000,
@@ -8229,7 +8768,7 @@
       "State": 1
     },
     {
-      "ID": 749,
+      "ID": 798,
       "GachaGroupID": 609001,
       "ParcelType": "Equipment",
       "ParcelID": 9000,
@@ -8240,7 +8779,7 @@
       "State": 1
     },
     {
-      "ID": 750,
+      "ID": 799,
       "GachaGroupID": 609001,
       "ParcelType": "Equipment",
       "ParcelID": 109001,

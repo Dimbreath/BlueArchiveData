@@ -951,7 +951,7 @@
       "ParticleLoopSocket": "None",
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
-      "ParticleApplyPath": "Effect/Common_Variant/FX_Common_Effect_Poison_Apply_Variant",
+      "ParticleApplyPath": "Effect/Common_Variant/FX_Common_Burnning_Variant",
       "ParticleApplySocket": "Head"
     },
     {

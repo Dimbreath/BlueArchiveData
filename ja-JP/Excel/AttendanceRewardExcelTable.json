@@ -305,6 +305,60 @@
       "RewardAmount": [
         1
       ]
+    },
+    {
+      "AttendanceId": 3,
+      "AttendanceDevName": "이벤트 테스트",
+      "Day": 1,
+      "RewardIcon": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardId": [
+        3
+      ],
+      "RewardDevName": [
+        "무료 잼"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "AttendanceId": 3,
+      "AttendanceDevName": "이벤트 테스트",
+      "Day": 2,
+      "RewardIcon": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardId": [
+        3
+      ],
+      "RewardDevName": [
+        "무료 잼"
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "AttendanceId": 3,
+      "AttendanceDevName": "이벤트 테스트",
+      "Day": 3,
+      "RewardIcon": null,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardId": [
+        3
+      ],
+      "RewardDevName": [
+        "무료 잼"
+      ],
+      "RewardAmount": [
+        100
+      ]
     }
   ]
 }

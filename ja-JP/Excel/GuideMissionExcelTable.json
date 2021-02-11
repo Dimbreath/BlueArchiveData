@@ -66,19 +66,19 @@
       "SeasonId": 1,
       "SeasonDevName": "첫출근",
       "Id": 1000012,
-      "DevName": "노멀 임무 1-5",
+      "DevName": "노멀 임무 1-4",
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 1,
       "PreMissionId": [],
       "Description": "MISSION_CLEAR_SPECIFIC_CAMPAIGN_STAGE",
       "ShortcutUI": [
-        "UIStageSelect|1011105"
+        "UIStageSelect|1011104"
       ],
       "CompleteConditionType": "ClearSpecificCampaignStageCount",
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [
-        1011105
+        1011104
       ],
       "CompleteConditionParameterName": null,
       "MissionRewardParcelType": [
@@ -243,7 +243,7 @@
       "SeasonId": 1,
       "SeasonDevName": "첫출근",
       "Id": 1000017,
-      "DevName": "청휘석 사용 500",
+      "DevName": "청휘석 사용 1500",
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 1,
@@ -254,7 +254,7 @@
         "UIGacha"
       ],
       "CompleteConditionType": "UseGem",
-      "CompleteConditionCount": 500,
+      "CompleteConditionCount": 1500,
       "CompleteConditionParameter": [],
       "CompleteConditionParameterName": null,
       "MissionRewardParcelType": [
@@ -312,15 +312,18 @@
       "SeasonId": 1,
       "SeasonDevName": "첫출근",
       "Id": 1000019,
-      "DevName": "AP 충전하기",
+      "DevName": "학생 10명 이상 모집",
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 1,
       "PreMissionId": [],
-      "Description": "Mission_ShopBuyAP_Count",
-      "ShortcutUI": [],
-      "CompleteConditionType": "ShopBuyActionPointCount",
-      "CompleteConditionCount": 1,
+      "Description": "MISSION_GET_CHARACTER_COUNT",
+      "ShortcutUI": [
+        "UIShop|SecretStone",
+        "UIGacha"
+      ],
+      "CompleteConditionType": "GetCharacterCount",
+      "CompleteConditionCount": 10,
       "CompleteConditionParameter": [],
       "CompleteConditionParameterName": null,
       "MissionRewardParcelType": [
@@ -412,7 +415,7 @@
       "SeasonId": 1,
       "SeasonDevName": "첫출근",
       "Id": 1000022,
-      "DevName": "노멀 임무 2-5",
+      "DevName": "노멀 임무 2-2",
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 2,
@@ -421,12 +424,12 @@
       ],
       "Description": "MISSION_CLEAR_SPECIFIC_CAMPAIGN_STAGE",
       "ShortcutUI": [
-        "UIStageSelect|1021105"
+        "UIStageSelect|1021102"
       ],
       "CompleteConditionType": "ClearSpecificCampaignStageCount",
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [
-        1021105
+        1021102
       ],
       "CompleteConditionParameterName": null,
       "MissionRewardParcelType": [
@@ -769,7 +772,7 @@
       "SeasonId": 1,
       "SeasonDevName": "첫출근",
       "Id": 1000032,
-      "DevName": "노멀 임무 3-5",
+      "DevName": "노멀 임무 2-5",
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 3,
@@ -778,12 +781,12 @@
       ],
       "Description": "MISSION_CLEAR_SPECIFIC_CAMPAIGN_STAGE",
       "ShortcutUI": [
-        "UIStageSelect|1031105"
+        "UIStageSelect|1021105"
       ],
       "CompleteConditionType": "ClearSpecificCampaignStageCount",
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [
-        1031105
+        1021105
       ],
       "CompleteConditionParameterName": null,
       "MissionRewardParcelType": [
@@ -807,19 +810,19 @@
       "SeasonId": 1,
       "SeasonDevName": "첫출근",
       "Id": 1000033,
-      "DevName": "하드 임무 1-3",
+      "DevName": "하드 임무 1-2",
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 3,
       "PreMissionId": [],
       "Description": "MISSION_CLEAR_SPECIFIC_CAMPAIGN_STAGE",
       "ShortcutUI": [
-        "UIStageSelect|1012103"
+        "UIStageSelect|1012102"
       ],
       "CompleteConditionType": "ClearSpecificCampaignStageCount",
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [
-        1012103
+        1012102
       ],
       "CompleteConditionParameterName": null,
       "MissionRewardParcelType": [
@@ -1127,7 +1130,7 @@
       "SeasonId": 1,
       "SeasonDevName": "첫출근",
       "Id": 1000042,
-      "DevName": "노멀 임무 4-3",
+      "DevName": "노멀 임무 3-3",
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 4,
@@ -1136,12 +1139,12 @@
       ],
       "Description": "MISSION_CLEAR_SPECIFIC_CAMPAIGN_STAGE",
       "ShortcutUI": [
-        "UIStageSelect|1041103"
+        "UIStageSelect|1031103"
       ],
       "CompleteConditionType": "ClearSpecificCampaignStageCount",
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [
-        1041103
+        1031103
       ],
       "CompleteConditionParameterName": null,
       "MissionRewardParcelType": [
@@ -1165,7 +1168,7 @@
       "SeasonId": 1,
       "SeasonDevName": "첫출근",
       "Id": 1000043,
-      "DevName": "하드 임무 2-3",
+      "DevName": "하드 임무 2-1",
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 4,
@@ -1174,12 +1177,12 @@
       ],
       "Description": "MISSION_CLEAR_SPECIFIC_CAMPAIGN_STAGE",
       "ShortcutUI": [
-        "UIStageSelect|1022103"
+        "UIStageSelect|1022101"
       ],
       "CompleteConditionType": "ClearSpecificCampaignStageCount",
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [
-        1022103
+        1022101
       ],
       "CompleteConditionParameterName": null,
       "MissionRewardParcelType": [
@@ -1203,7 +1206,7 @@
       "SeasonId": 1,
       "SeasonDevName": "첫출근",
       "Id": 1000044,
-      "DevName": "스토리 12장",
+      "DevName": "스토리 11장",
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 4,
@@ -1212,12 +1215,12 @@
       ],
       "Description": "MISSION_CLEAR_SPECIFIC_SCENARIO_MAIN_01",
       "ShortcutUI": [
-        "UIScenarioMode_Volume|11120"
+        "UIScenarioMode_Volume|11110"
       ],
       "CompleteConditionType": "ClearSpecificScenario",
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [
-        11120
+        11110
       ],
       "CompleteConditionParameterName": null,
       "MissionRewardParcelType": [
@@ -1386,16 +1389,14 @@
       "SeasonId": 1,
       "SeasonDevName": "첫출근",
       "Id": 1000049,
-      "DevName": "장비 티어 업 1회 이상",
+      "DevName": "AP 충전하기",
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 4,
       "PreMissionId": [],
-      "Description": "MISSION_CLEAR_EQUIPMENT_TIER_UP_COUNT",
-      "ShortcutUI": [
-        "UICharacterCollection"
-      ],
-      "CompleteConditionType": "EquipmentTierUpCount",
+      "Description": "Mission_ShopBuyAP_Count",
+      "ShortcutUI": [],
+      "CompleteConditionType": "ShopBuyActionPointCount",
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [],
       "CompleteConditionParameterName": null,
@@ -1454,7 +1455,7 @@
       "SeasonId": 1,
       "SeasonDevName": "첫출근",
       "Id": 1000051,
-      "DevName": "계정 레벨 25",
+      "DevName": "계정 레벨 24",
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 5,
@@ -1464,7 +1465,7 @@
       "Description": "MISSION_CLEAR_ACCOUNT_LEVEL_UP",
       "ShortcutUI": [],
       "CompleteConditionType": "AccountLevelUp",
-      "CompleteConditionCount": 25,
+      "CompleteConditionCount": 24,
       "CompleteConditionParameter": [],
       "CompleteConditionParameterName": null,
       "MissionRewardParcelType": [
@@ -1488,7 +1489,7 @@
       "SeasonId": 1,
       "SeasonDevName": "첫출근",
       "Id": 1000052,
-      "DevName": "노멀 임무 4-5",
+      "DevName": "노멀 임무 3-5",
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 5,
@@ -1497,12 +1498,12 @@
       ],
       "Description": "MISSION_CLEAR_SPECIFIC_CAMPAIGN_STAGE",
       "ShortcutUI": [
-        "UIStageSelect|1041105"
+        "UIStageSelect|1031105"
       ],
       "CompleteConditionType": "ClearSpecificCampaignStageCount",
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [
-        1041105
+        1031105
       ],
       "CompleteConditionParameterName": null,
       "MissionRewardParcelType": [
@@ -1526,7 +1527,7 @@
       "SeasonId": 1,
       "SeasonDevName": "첫출근",
       "Id": 1000053,
-      "DevName": "하드 임무 3-3",
+      "DevName": "하드 임무 2-3",
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 5,
@@ -1535,12 +1536,12 @@
       ],
       "Description": "MISSION_CLEAR_SPECIFIC_CAMPAIGN_STAGE",
       "ShortcutUI": [
-        "UIStageSelect|1032103"
+        "UIStageSelect|1022103"
       ],
       "CompleteConditionType": "ClearSpecificCampaignStageCount",
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [
-        1032103
+        1022103
       ],
       "CompleteConditionParameterName": null,
       "MissionRewardParcelType": [
@@ -1564,7 +1565,7 @@
       "SeasonId": 1,
       "SeasonDevName": "첫출근",
       "Id": 1000054,
-      "DevName": "스토리 15장",
+      "DevName": "스토리 13장",
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 5,
@@ -1573,12 +1574,12 @@
       ],
       "Description": "MISSION_CLEAR_SPECIFIC_SCENARIO_MAIN_01",
       "ShortcutUI": [
-        "UIScenarioMode_Volume|11150"
+        "UIScenarioMode_Volume|11130"
       ],
       "CompleteConditionType": "ClearSpecificScenario",
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [
-        11150
+        11130
       ],
       "CompleteConditionParameterName": null,
       "MissionRewardParcelType": [
@@ -1745,16 +1746,16 @@
       "SeasonId": 1,
       "SeasonDevName": "첫출근",
       "Id": 1000059,
-      "DevName": "전술대회 1회",
+      "DevName": "장비 티어 업 1회 이상",
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 5,
       "PreMissionId": [],
-      "Description": "Mission_Join_Arena",
+      "Description": "MISSION_CLEAR_EQUIPMENT_TIER_UP_COUNT",
       "ShortcutUI": [
-        "UIArena"
+        "UICharacterCollection"
       ],
-      "CompleteConditionType": "JoinArenaCount",
+      "CompleteConditionType": "EquipmentTierUpCount",
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [],
       "CompleteConditionParameterName": null,
@@ -1815,7 +1816,7 @@
       "SeasonId": 1,
       "SeasonDevName": "첫출근",
       "Id": 1000061,
-      "DevName": "계정 레벨 30",
+      "DevName": "계정 레벨 28",
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 6,
@@ -1825,7 +1826,7 @@
       "Description": "MISSION_CLEAR_ACCOUNT_LEVEL_UP",
       "ShortcutUI": [],
       "CompleteConditionType": "AccountLevelUp",
-      "CompleteConditionCount": 30,
+      "CompleteConditionCount": 28,
       "CompleteConditionParameter": [],
       "CompleteConditionParameterName": null,
       "MissionRewardParcelType": [
@@ -1849,7 +1850,7 @@
       "SeasonId": 1,
       "SeasonDevName": "첫출근",
       "Id": 1000062,
-      "DevName": "노멀 임무 5-3",
+      "DevName": "노멀 임무 4-3",
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 6,
@@ -1858,12 +1859,12 @@
       ],
       "Description": "MISSION_CLEAR_SPECIFIC_CAMPAIGN_STAGE",
       "ShortcutUI": [
-        "UIStageSelect|1051103"
+        "UIStageSelect|1041103"
       ],
       "CompleteConditionType": "ClearSpecificCampaignStageCount",
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [
-        1051103
+        1041103
       ],
       "CompleteConditionParameterName": null,
       "MissionRewardParcelType": [
@@ -1887,7 +1888,7 @@
       "SeasonId": 1,
       "SeasonDevName": "첫출근",
       "Id": 1000063,
-      "DevName": "하드 임무 4-1",
+      "DevName": "하드 임무 3-1",
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 6,
@@ -1896,12 +1897,12 @@
       ],
       "Description": "MISSION_CLEAR_SPECIFIC_CAMPAIGN_STAGE",
       "ShortcutUI": [
-        "UIStageSelect|1042101"
+        "UIStageSelect|1032101"
       ],
       "CompleteConditionType": "ClearSpecificCampaignStageCount",
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [
-        1042101
+        1032101
       ],
       "CompleteConditionParameterName": null,
       "MissionRewardParcelType": [
@@ -2172,7 +2173,7 @@
       "SeasonId": 1,
       "SeasonDevName": "첫출근",
       "Id": 1000071,
-      "DevName": "계정 레벨 32",
+      "DevName": "계정 레벨 30",
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 7,
@@ -2182,7 +2183,7 @@
       "Description": "MISSION_CLEAR_ACCOUNT_LEVEL_UP",
       "ShortcutUI": [],
       "CompleteConditionType": "AccountLevelUp",
-      "CompleteConditionCount": 32,
+      "CompleteConditionCount": 30,
       "CompleteConditionParameter": [],
       "CompleteConditionParameterName": null,
       "MissionRewardParcelType": [
@@ -2206,7 +2207,7 @@
       "SeasonId": 1,
       "SeasonDevName": "첫출근",
       "Id": 1000072,
-      "DevName": "노멀 임무 5-5",
+      "DevName": "노멀 임무 4-4",
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 7,
@@ -2215,12 +2216,12 @@
       ],
       "Description": "MISSION_CLEAR_SPECIFIC_CAMPAIGN_STAGE",
       "ShortcutUI": [
-        "UIStageSelect|1051105"
+        "UIStageSelect|1041104"
       ],
       "CompleteConditionType": "ClearSpecificCampaignStageCount",
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [
-        1051105
+        1041104
       ],
       "CompleteConditionParameterName": null,
       "MissionRewardParcelType": [
@@ -2244,7 +2245,7 @@
       "SeasonId": 1,
       "SeasonDevName": "첫출근",
       "Id": 1000073,
-      "DevName": "하드 임무 4-3",
+      "DevName": "하드 임무 3-3",
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 7,
@@ -2253,12 +2254,12 @@
       ],
       "Description": "MISSION_CLEAR_SPECIFIC_CAMPAIGN_STAGE",
       "ShortcutUI": [
-        "UIStageSelect|1042103"
+        "UIStageSelect|1032103"
       ],
       "CompleteConditionType": "ClearSpecificCampaignStageCount",
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [
-        1042103
+        1032103
       ],
       "CompleteConditionParameterName": null,
       "MissionRewardParcelType": [
@@ -2318,7 +2319,7 @@
       "SeasonId": 1,
       "SeasonDevName": "첫출근",
       "Id": 1000075,
-      "DevName": "30레벨 학생 4명 보유",
+      "DevName": "25레벨 학생 6명 보유",
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 7,
@@ -2329,9 +2330,9 @@
         "UIGacha"
       ],
       "CompleteConditionType": "CharacterAtSpecificLevelCount",
-      "CompleteConditionCount": 4,
+      "CompleteConditionCount": 6,
       "CompleteConditionParameter": [
-        30
+        25
       ],
       "CompleteConditionParameterName": null,
       "MissionRewardParcelType": [

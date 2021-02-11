@@ -1479,10 +1479,10 @@
       "AmmoCost": 1,
       "IgnoreDelayCount": 1,
       "NormalAttackSpeed": 10000,
-      "Range": 800,
+      "Range": 1000,
       "InitialRangeRate": 8800,
       "MoveSpeed": 200,
-      "SightPoint": 800,
+      "SightPoint": 1000,
       "ActiveGauge": 0,
       "GroggyGauge": 0,
       "GroggyTime": 0,
@@ -1492,8 +1492,8 @@
       "DamageRatio": 10000,
       "DamagedRatio": 10000,
       "StreetBattleAdaptation": "B",
-      "OutdoorBattleAdaptation": "D",
-      "IndoorBattleAdaptation": "S",
+      "OutdoorBattleAdaptation": "S",
+      "IndoorBattleAdaptation": "D",
       "RegenCost": 700
     },
     {

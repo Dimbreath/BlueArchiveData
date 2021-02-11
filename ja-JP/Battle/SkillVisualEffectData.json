@@ -23497,10 +23497,15 @@
           "PositionSetting": {
             "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
             "PositionSource": 2,
-            "BoneName": 3,
             "BoneNameCustom": "",
-            "AlignDirection": 3
+            "AlignRotationOffset": {
+              "x": 0.0,
+              "y": 180.0,
+              "z": 0.0
+            },
+            "AlignDirection": 5
           },
+          "EffectPositionFixed": true,
           "PrefabPath": "FX_Haruna_Original_Ex01_Hit_Start_Variant",
           "name": "Haruna01_Ex01_VisualEffect01"
         },
@@ -23509,10 +23514,15 @@
           "PositionSetting": {
             "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
             "PositionSource": 2,
-            "BoneName": 3,
             "BoneNameCustom": "",
-            "AlignDirection": 3
+            "AlignRotationOffset": {
+              "x": 0.0,
+              "y": 180.0,
+              "z": 0.0
+            },
+            "AlignDirection": 5
           },
+          "EffectPositionFixed": true,
           "PrefabPath": "FX_Haruna_Original_Ex01_Hit_Start_Variant",
           "name": "Haruna01_Ex01_VisualEffect01"
         },
@@ -23521,10 +23531,15 @@
           "PositionSetting": {
             "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
             "PositionSource": 2,
-            "BoneName": 3,
             "BoneNameCustom": "",
-            "AlignDirection": 3
+            "AlignRotationOffset": {
+              "x": 0.0,
+              "y": 180.0,
+              "z": 0.0
+            },
+            "AlignDirection": 5
           },
+          "EffectPositionFixed": true,
           "PrefabPath": "FX_Haruna_Original_Ex01_Hit_Start_Variant",
           "name": "Haruna01_Ex01_VisualEffect01"
         },
@@ -23533,10 +23548,15 @@
           "PositionSetting": {
             "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
             "PositionSource": 2,
-            "BoneName": 3,
             "BoneNameCustom": "",
-            "AlignDirection": 3
+            "AlignRotationOffset": {
+              "x": 0.0,
+              "y": 180.0,
+              "z": 0.0
+            },
+            "AlignDirection": 5
           },
+          "EffectPositionFixed": true,
           "PrefabPath": "FX_Haruna_Original_Ex01_Hit_Start_Variant",
           "name": "Haruna01_Ex01_VisualEffect01"
         }
@@ -26211,7 +26231,7 @@
           "PositionSetting": {
             "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
             "PositionSource": 2,
-            "BoneName": 3,
+            "BoneName": 2,
             "BoneNameCustom": "",
             "IsAttachToTarget": true
           },
@@ -26223,7 +26243,7 @@
           "PositionSetting": {
             "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
             "PositionSource": 2,
-            "BoneName": 3,
+            "BoneName": 2,
             "BoneNameCustom": "",
             "IsAttachToTarget": true
           },
@@ -26235,7 +26255,7 @@
           "PositionSetting": {
             "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
             "PositionSource": 2,
-            "BoneName": 3,
+            "BoneName": 2,
             "BoneNameCustom": "",
             "IsAttachToTarget": true
           },
@@ -26247,7 +26267,7 @@
           "PositionSetting": {
             "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
             "PositionSource": 2,
-            "BoneName": 3,
+            "BoneName": 2,
             "BoneNameCustom": "",
             "IsAttachToTarget": true
           },
@@ -26259,7 +26279,7 @@
           "PositionSetting": {
             "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
             "PositionSource": 2,
-            "BoneName": 3,
+            "BoneName": 2,
             "BoneNameCustom": "",
             "IsAttachToTarget": true
           },

@@ -16,10 +16,10 @@
       "Name": "CHAPTER_Common_StageTr_Reward",
       "RewardTag": "Default",
       "StageRewardProb": 10000,
-      "StageRewardParcelType": "Currency",
-      "StageRewardId": 1,
-      "StageRewardDevName": "Gold(Credit)",
-      "StageRewardAmount": 10,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 519999,
+      "StageRewardDevName": "TR 스테이지용 10크레딧 가챠 박스",
+      "StageRewardAmount": 1,
       "IsDisplayed": true
     },
     {
@@ -525,7 +525,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -536,7 +536,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -547,7 +547,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -558,7 +558,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -569,7 +569,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -580,7 +580,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -591,7 +591,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -602,7 +602,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -668,7 +668,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -789,7 +789,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -910,7 +910,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -1471,7 +1471,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -1482,7 +1482,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -1493,7 +1493,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -1504,7 +1504,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -1515,7 +1515,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -1526,7 +1526,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -1537,7 +1537,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -1548,7 +1548,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -1614,7 +1614,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -1735,7 +1735,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -1856,7 +1856,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -2318,7 +2318,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -2329,7 +2329,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -2340,7 +2340,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -2351,7 +2351,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -2362,7 +2362,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -2373,7 +2373,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -2384,7 +2384,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -2395,7 +2395,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -2428,7 +2428,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -2505,7 +2505,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -2582,7 +2582,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -3132,7 +3132,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -3143,7 +3143,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -3154,7 +3154,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -3165,7 +3165,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -3176,7 +3176,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -3187,7 +3187,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -3198,7 +3198,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -3209,7 +3209,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -3275,7 +3275,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -3396,7 +3396,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -3517,7 +3517,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -4078,7 +4078,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -4089,7 +4089,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -4100,7 +4100,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -4111,7 +4111,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -4122,7 +4122,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -4133,7 +4133,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -4144,7 +4144,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -4155,7 +4155,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -4221,7 +4221,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -4342,7 +4342,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -4463,7 +4463,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -5035,7 +5035,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -5046,7 +5046,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -5057,7 +5057,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -5068,7 +5068,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -5079,7 +5079,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -5090,7 +5090,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -5101,7 +5101,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -5112,7 +5112,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -5145,7 +5145,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -5244,7 +5244,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -5343,7 +5343,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -6080,7 +6080,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -6091,7 +6091,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -6102,7 +6102,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -6113,7 +6113,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -6124,7 +6124,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -6135,7 +6135,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -6146,7 +6146,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -6157,7 +6157,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -6223,7 +6223,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -6377,7 +6377,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -6531,7 +6531,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -7290,7 +7290,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -7301,7 +7301,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -7312,7 +7312,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -7323,7 +7323,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -7334,7 +7334,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -7345,7 +7345,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -7356,7 +7356,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -7367,7 +7367,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -7433,7 +7433,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -7587,7 +7587,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -7741,7 +7741,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -8346,7 +8346,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -8357,7 +8357,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -8368,7 +8368,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -8379,7 +8379,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -8390,7 +8390,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -8401,7 +8401,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -8412,7 +8412,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -8423,7 +8423,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -8456,7 +8456,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -8555,7 +8555,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -8654,7 +8654,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -9391,7 +9391,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -9402,7 +9402,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -9413,7 +9413,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -9424,7 +9424,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -9435,7 +9435,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -9446,7 +9446,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -9457,7 +9457,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -9468,7 +9468,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -9534,7 +9534,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -9688,7 +9688,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -9842,7 +9842,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -10601,7 +10601,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -10612,7 +10612,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -10623,7 +10623,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -10634,7 +10634,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -10645,7 +10645,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -10656,7 +10656,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -10667,7 +10667,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -10678,7 +10678,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -10744,7 +10744,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -10898,7 +10898,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -11052,7 +11052,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -11547,7 +11547,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -11558,7 +11558,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -11569,7 +11569,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -11580,7 +11580,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -11591,7 +11591,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -11602,7 +11602,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -11613,7 +11613,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -11624,7 +11624,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 10,
+      "StageRewardAmount": 20,
       "IsDisplayed": true
     },
     {
@@ -11657,7 +11657,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -11734,7 +11734,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {
@@ -11811,7 +11811,7 @@
       "StageRewardParcelType": "Currency",
       "StageRewardId": 3,
       "StageRewardDevName": "무료 청휘석",
-      "StageRewardAmount": 50,
+      "StageRewardAmount": 30,
       "IsDisplayed": true
     },
     {

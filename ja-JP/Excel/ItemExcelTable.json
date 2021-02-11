@@ -25,7 +25,7 @@
       "Tags": [
         "CraftCommitment"
       ],
-      "CraftQuality": 20,
+      "CraftQuality": 10,
       "ShopCategory": [],
       "ExpirationDateTime": null
     },
@@ -327,7 +327,7 @@
     {
       "Id": 31,
       "DevName": "CafeRank_1",
-      "Rarity": "N",
+      "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1888678824,
       "ItemCategory": "Material",
@@ -354,7 +354,7 @@
     {
       "Id": 32,
       "DevName": "CafeRank_2",
-      "Rarity": "N",
+      "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1473389605,
       "ItemCategory": "Material",
@@ -381,7 +381,7 @@
     {
       "Id": 33,
       "DevName": "CafeRank_3",
-      "Rarity": "N",
+      "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1912787928,
       "ItemCategory": "Material",
@@ -408,7 +408,7 @@
     {
       "Id": 39,
       "DevName": "CafeRank_9",
-      "Rarity": "N",
+      "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2326101217,
       "ItemCategory": "Material",
@@ -1890,7 +1890,7 @@
     {
       "Id": 3010,
       "DevName": "ExSkill_RedWinter_0",
-      "Rarity": "SR",
+      "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1264526457,
       "ItemCategory": "Material",
@@ -1922,7 +1922,7 @@
     {
       "Id": 3011,
       "DevName": "ExSkill_RedWinter_1",
-      "Rarity": "SR",
+      "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 23722908,
       "ItemCategory": "Material",
@@ -2018,7 +2018,7 @@
     {
       "Id": 3020,
       "DevName": "ExSkill_Trinity_0",
-      "Rarity": "SR",
+      "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 6443547,
       "ItemCategory": "Material",
@@ -2050,7 +2050,7 @@
     {
       "Id": 3021,
       "DevName": "ExSkill_Trinity_1",
-      "Rarity": "SR",
+      "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2617257349,
       "ItemCategory": "Material",
@@ -2146,7 +2146,7 @@
     {
       "Id": 3030,
       "DevName": "ExSkill_Gehenna_0",
-      "Rarity": "SR",
+      "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3845598785,
       "ItemCategory": "Material",
@@ -2178,7 +2178,7 @@
     {
       "Id": 3031,
       "DevName": "ExSkill_Gehenna_1",
-      "Rarity": "SR",
+      "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 900390661,
       "ItemCategory": "Material",
@@ -2274,7 +2274,7 @@
     {
       "Id": 3040,
       "DevName": "ExSkill_Abydos_0",
-      "Rarity": "SR",
+      "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1080728719,
       "ItemCategory": "Material",
@@ -2306,7 +2306,7 @@
     {
       "Id": 3041,
       "DevName": "ExSkill_Abydos_1",
-      "Rarity": "SR",
+      "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 39893871,
       "ItemCategory": "Material",
@@ -2402,7 +2402,7 @@
     {
       "Id": 3050,
       "DevName": "ExSkill_Millennium_0",
-      "Rarity": "SR",
+      "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 963270992,
       "ItemCategory": "Material",
@@ -2434,7 +2434,7 @@
     {
       "Id": 3051,
       "DevName": "ExSkill_Millennium_1",
-      "Rarity": "SR",
+      "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4116117232,
       "ItemCategory": "Material",
@@ -2530,7 +2530,7 @@
     {
       "Id": 3060,
       "DevName": "ExSkill_Arius_0",
-      "Rarity": "SR",
+      "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 89617008,
       "ItemCategory": "Material",
@@ -2562,7 +2562,7 @@
     {
       "Id": 3061,
       "DevName": "ExSkill_Arius_1",
-      "Rarity": "SR",
+      "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1969765550,
       "ItemCategory": "Material",
@@ -2658,7 +2658,7 @@
     {
       "Id": 3070,
       "DevName": "ExSkill_Shanhaijing_0",
-      "Rarity": "SR",
+      "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3433794810,
       "ItemCategory": "Material",
@@ -2690,7 +2690,7 @@
     {
       "Id": 3071,
       "DevName": "ExSkill_Shanhaijing_1",
-      "Rarity": "SR",
+      "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 506616951,
       "ItemCategory": "Material",
@@ -2786,7 +2786,7 @@
     {
       "Id": 3080,
       "DevName": "ExSkill_Valkyrie_0",
-      "Rarity": "SR",
+      "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3501238234,
       "ItemCategory": "Material",
@@ -2818,7 +2818,7 @@
     {
       "Id": 3081,
       "DevName": "ExSkill_Valkyrie_1",
-      "Rarity": "SR",
+      "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3514082561,
       "ItemCategory": "Material",
@@ -2914,7 +2914,7 @@
     {
       "Id": 4000,
       "DevName": "SkillBook_Hyakkiyako_0",
-      "Rarity": "SR",
+      "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4133921081,
       "ItemCategory": "Material",
@@ -2946,7 +2946,7 @@
     {
       "Id": 4001,
       "DevName": "SkillBook_Hyakkiyako_1",
-      "Rarity": "SR",
+      "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 35330832,
       "ItemCategory": "Material",
@@ -3042,7 +3042,7 @@
     {
       "Id": 4010,
       "DevName": "SkillBook_RedWinter_0",
-      "Rarity": "SR",
+      "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3502917964,
       "ItemCategory": "Material",
@@ -3074,7 +3074,7 @@
     {
       "Id": 4011,
       "DevName": "SkillBook_RedWinter_1",
-      "Rarity": "SR",
+      "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3870440815,
       "ItemCategory": "Material",
@@ -3170,7 +3170,7 @@
     {
       "Id": 4020,
       "DevName": "SkillBook_Trinity_0",
-      "Rarity": "SR",
+      "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 487656045,
       "ItemCategory": "Material",
@@ -3202,7 +3202,7 @@
     {
       "Id": 4021,
       "DevName": "SkillBook_Trinity_1",
-      "Rarity": "SR",
+      "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 930608878,
       "ItemCategory": "Material",
@@ -3298,7 +3298,7 @@
     {
       "Id": 4030,
       "DevName": "SkillBook_Gehenna_0",
-      "Rarity": "SR",
+      "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3462709848,
       "ItemCategory": "Material",
@@ -3330,7 +3330,7 @@
     {
       "Id": 4031,
       "DevName": "SkillBook_Gehenna_1",
-      "Rarity": "SR",
+      "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1087187983,
       "ItemCategory": "Material",
@@ -3426,7 +3426,7 @@
     {
       "Id": 4040,
       "DevName": "SkillBook_Abydos_0",
-      "Rarity": "SR",
+      "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1291944740,
       "ItemCategory": "Material",
@@ -3458,7 +3458,7 @@
     {
       "Id": 4041,
       "DevName": "SkillBook_Abydos_1",
-      "Rarity": "SR",
+      "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 196196410,
       "ItemCategory": "Material",
@@ -3554,7 +3554,7 @@
     {
       "Id": 4050,
       "DevName": "SkillBook_Millennium_0",
-      "Rarity": "SR",
+      "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 151494972,
       "ItemCategory": "Material",
@@ -3586,7 +3586,7 @@
     {
       "Id": 4051,
       "DevName": "SkillBook_Millennium_1",
-      "Rarity": "SR",
+      "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3546140085,
       "ItemCategory": "Material",
@@ -3682,7 +3682,7 @@
     {
       "Id": 4060,
       "DevName": "SkillBook_Arius_0",
-      "Rarity": "SR",
+      "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 997804954,
       "ItemCategory": "Material",
@@ -3714,7 +3714,7 @@
     {
       "Id": 4061,
       "DevName": "SkillBook_Arius_1",
-      "Rarity": "SR",
+      "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1381874672,
       "ItemCategory": "Material",
@@ -3810,7 +3810,7 @@
     {
       "Id": 4070,
       "DevName": "SkillBook_Shanhaijing_0",
-      "Rarity": "SR",
+      "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2844005639,
       "ItemCategory": "Material",
@@ -3842,7 +3842,7 @@
     {
       "Id": 4071,
       "DevName": "SkillBook_Shanhaijing_1",
-      "Rarity": "SR",
+      "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2891506473,
       "ItemCategory": "Material",
@@ -3938,7 +3938,7 @@
     {
       "Id": 4080,
       "DevName": "SkillBook_Valkyrie_0",
-      "Rarity": "SR",
+      "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3593783201,
       "ItemCategory": "Material",
@@ -3970,7 +3970,7 @@
     {
       "Id": 4081,
       "DevName": "SkillBook_Valkyrie_1",
-      "Rarity": "SR",
+      "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3758792514,
       "ItemCategory": "Material",
@@ -4739,7 +4739,7 @@
     {
       "Id": 9999,
       "DevName": "SkillBook_Ultimate",
-      "Rarity": "N",
+      "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 753025034,
       "ItemCategory": "Material",
@@ -5726,7 +5726,7 @@
       "Id": 20003,
       "DevName": "Mashiro",
       "Rarity": "N",
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "LocalizeEtcId": 3818943091,
       "ItemCategory": "SecretStone",
       "Quality": 9,
@@ -6129,7 +6129,7 @@
     {
       "Id": 30001,
       "DevName": "Cosumable_Chase_ExSkillbook_1",
-      "Rarity": "N",
+      "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2570585488,
       "ItemCategory": "Consumable",
@@ -6156,7 +6156,7 @@
     {
       "Id": 30002,
       "DevName": "Cosumable_Chase_ExSkillbook_2",
-      "Rarity": "N",
+      "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 898103643,
       "ItemCategory": "Consumable",
@@ -6183,7 +6183,7 @@
     {
       "Id": 30003,
       "DevName": "Cosumable_Chase_ExSkillbook_3",
-      "Rarity": "N",
+      "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3149164821,
       "ItemCategory": "Consumable",
@@ -6237,7 +6237,7 @@
     {
       "Id": 40001,
       "DevName": "Cosumable_Chase_Skillbook_1",
-      "Rarity": "N",
+      "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4198573600,
       "ItemCategory": "Consumable",
@@ -6264,7 +6264,7 @@
     {
       "Id": 40002,
       "DevName": "Cosumable_Chase_Skillbook_2",
-      "Rarity": "N",
+      "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1142627980,
       "ItemCategory": "Consumable",
@@ -6291,7 +6291,7 @@
     {
       "Id": 40003,
       "DevName": "Cosumable_Chase_Skillbook_3",
-      "Rarity": "N",
+      "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2656930896,
       "ItemCategory": "Consumable",
@@ -6345,7 +6345,7 @@
     {
       "Id": 50001,
       "DevName": "게헨나/산해경/트리니티_ExSkillbook_1",
-      "Rarity": "N",
+      "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2937489313,
       "ItemCategory": "Consumable",
@@ -6372,7 +6372,7 @@
     {
       "Id": 50002,
       "DevName": "게헨나/산해경/트리니티_ExSkillbook_2",
-      "Rarity": "N",
+      "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1365644160,
       "ItemCategory": "Consumable",
@@ -6399,7 +6399,7 @@
     {
       "Id": 50003,
       "DevName": "게헨나/산해경/트리니티_ExSkillbook_3",
-      "Rarity": "N",
+      "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3355287334,
       "ItemCategory": "Consumable",
@@ -6453,7 +6453,7 @@
     {
       "Id": 50005,
       "DevName": "아비도스/밀레니엄/백귀야행_ExSkillbook_1",
-      "Rarity": "N",
+      "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 222803907,
       "ItemCategory": "Consumable",
@@ -6480,7 +6480,7 @@
     {
       "Id": 50006,
       "DevName": "아비도스/밀레니엄/백귀야행_ExSkillbook_2",
-      "Rarity": "N",
+      "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4029130912,
       "ItemCategory": "Consumable",
@@ -6507,7 +6507,7 @@
     {
       "Id": 50007,
       "DevName": "아비도스/밀레니엄/백귀야행_ExSkillbook_3",
-      "Rarity": "N",
+      "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 103331321,
       "ItemCategory": "Consumable",
@@ -6561,7 +6561,7 @@
     {
       "Id": 60001,
       "DevName": "게헨나/산해경/트리니티_Skillbook_1",
-      "Rarity": "N",
+      "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 572366011,
       "ItemCategory": "Consumable",
@@ -6588,7 +6588,7 @@
     {
       "Id": 60002,
       "DevName": "게헨나/산해경/트리니티_Skillbook_2",
-      "Rarity": "N",
+      "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 871337437,
       "ItemCategory": "Consumable",
@@ -6615,7 +6615,7 @@
     {
       "Id": 60003,
       "DevName": "게헨나/산해경/트리니티_Skillbook_3",
-      "Rarity": "N",
+      "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 317230714,
       "ItemCategory": "Consumable",
@@ -6669,7 +6669,7 @@
     {
       "Id": 60005,
       "DevName": "아비도스/밀레니엄/백귀야행_Skillbook_1",
-      "Rarity": "N",
+      "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 668634446,
       "ItemCategory": "Consumable",
@@ -6696,7 +6696,7 @@
     {
       "Id": 60006,
       "DevName": "아비도스/밀레니엄/백귀야행_Skillbook_2",
-      "Rarity": "N",
+      "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1198266499,
       "ItemCategory": "Consumable",
@@ -6723,7 +6723,7 @@
     {
       "Id": 60007,
       "DevName": "아비도스/밀레니엄/백귀야행_Skillbook_3",
-      "Rarity": "N",
+      "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3946876494,
       "ItemCategory": "Consumable",
@@ -6772,7 +6772,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2021-02-11 15:29:59"
+      "ExpirationDateTime": "2021-02-11 14:01:00"
     },
     {
       "Id": 70001,
@@ -6799,7 +6799,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2021-02-25 15:29:59"
+      "ExpirationDateTime": "2021-02-25 14:01:00"
     },
     {
       "Id": 70002,
@@ -6826,7 +6826,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 70003,
@@ -6853,7 +6853,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 70004,
@@ -6880,7 +6880,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 70005,
@@ -6907,7 +6907,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 70006,
@@ -6934,7 +6934,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 70007,
@@ -6961,7 +6961,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 70008,
@@ -6988,7 +6988,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 70009,
@@ -7015,7 +7015,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 70010,
@@ -7042,7 +7042,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 70011,
@@ -7069,7 +7069,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 70012,
@@ -7096,7 +7096,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 70013,
@@ -7123,7 +7123,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 70014,
@@ -7150,7 +7150,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 70015,
@@ -7177,7 +7177,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 70016,
@@ -7204,7 +7204,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 70017,
@@ -7231,7 +7231,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 70018,
@@ -7258,7 +7258,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 70019,
@@ -7285,7 +7285,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 70020,
@@ -7312,7 +7312,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 70021,
@@ -7339,7 +7339,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 70022,
@@ -7366,7 +7366,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 70023,
@@ -7393,7 +7393,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 70024,
@@ -7420,7 +7420,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 70025,
@@ -7447,7 +7447,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 70026,
@@ -7474,7 +7474,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 70027,
@@ -7501,7 +7501,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 70028,
@@ -7528,7 +7528,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 70029,
@@ -7555,7 +7555,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 15:29:59"
+      "ExpirationDateTime": "2099-02-25 14:01:00"
     },
     {
       "Id": 90000,

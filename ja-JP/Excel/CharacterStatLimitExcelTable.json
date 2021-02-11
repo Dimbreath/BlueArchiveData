@@ -142,7 +142,7 @@
       "TacticEntityType": "Student",
       "StatType": "NormalAttackSpeed",
       "StatMinValue": 2000,
-      "StatMaxValue": 20000
+      "StatMaxValue": 30000
     },
     {
       "Id": 20,
@@ -326,7 +326,7 @@
       "TacticEntityType": "Minion",
       "StatType": "NormalAttackSpeed",
       "StatMinValue": 2000,
-      "StatMaxValue": 20000
+      "StatMaxValue": 30000
     },
     {
       "Id": 120,
@@ -510,7 +510,7 @@
       "TacticEntityType": "Elite",
       "StatType": "NormalAttackSpeed",
       "StatMinValue": 2000,
-      "StatMaxValue": 20000
+      "StatMaxValue": 30000
     },
     {
       "Id": 220,
@@ -694,7 +694,7 @@
       "TacticEntityType": "Champion",
       "StatType": "NormalAttackSpeed",
       "StatMinValue": 2000,
-      "StatMaxValue": 20000
+      "StatMaxValue": 30000
     },
     {
       "Id": 320,
@@ -878,7 +878,7 @@
       "TacticEntityType": "Boss",
       "StatType": "NormalAttackSpeed",
       "StatMinValue": 2000,
-      "StatMaxValue": 20000
+      "StatMaxValue": 30000
     },
     {
       "Id": 420,
@@ -1062,7 +1062,7 @@
       "TacticEntityType": "Summoned",
       "StatType": "NormalAttackSpeed",
       "StatMinValue": 2000,
-      "StatMaxValue": 20000
+      "StatMaxValue": 30000
     },
     {
       "Id": 520,
@@ -1246,7 +1246,7 @@
       "TacticEntityType": "Obstacle",
       "StatType": "NormalAttackSpeed",
       "StatMinValue": 2000,
-      "StatMaxValue": 20000
+      "StatMaxValue": 30000
     },
     {
       "Id": 620,

@@ -66106,8 +66106,13 @@
         "Frame": 30,
         "DamageDistributeRate": 10000,
         "Entity": {
-          "$type": "MX.Logic.Data.LevelTargetSkillEntityData, Assembly-CSharp",
-          "Abilities": [
+          "$type": "MX.Logic.Data.LevelCircleAreaEntityData, Assembly-CSharp",
+          "Radius": 200,
+          "Duration": 10,
+          "HitFrames": [
+            1
+          ],
+          "AreaAbilities": [
             {
               "$type": "MX.Logic.Data.LevelOneTimeAbilityData, Assembly-CSharp",
               "LogicEffectGroupIds": [
@@ -66119,10 +66124,21 @@
           "EntityName": "AyanePublic01Entity01",
           "SpawnRate": 10000,
           "ApplyType": 4,
-          "SpawnPositionType": "InputBattleEntity",
-          "OffsetDirectionType": "ToTarget",
-          "SpawnDirectionType": "ToTarget",
-          "name": "Ayane01_Public01_LevelTargetEntity01"
+          "SpawnPositionType": "InputPosition",
+          "OverrideTargetingRule": true,
+          "TargetSortRule": {
+            "$type": "MX.Logic.Skills.TargetSortRule, Assembly-CSharp",
+            "SortCriteria": "Distance",
+            "OrderBy": "Lowest"
+          },
+          "EssentialCandidateRule": {
+            "$type": "MX.Logic.Skills.EssentialCandidateRule, Assembly-CSharp",
+            "TargetSide": "Ally_Except_Self",
+            "TargetingType": "Position",
+            "ApplyEntityType": 1,
+            "MaxTargetCount": -1
+          },
+          "name": "Ayane01_Public01_LevelCircleAreaEntity01"
         }
       },
       {
@@ -66133,8 +66149,13 @@
     ],
     "Range": 1000,
     "MainEntityData": {
-      "$type": "MX.Logic.Data.LevelTargetSkillEntityData, Assembly-CSharp",
-      "Abilities": [
+      "$type": "MX.Logic.Data.LevelCircleAreaEntityData, Assembly-CSharp",
+      "Radius": 200,
+      "Duration": 10,
+      "HitFrames": [
+        1
+      ],
+      "AreaAbilities": [
         {
           "$type": "MX.Logic.Data.LevelOneTimeAbilityData, Assembly-CSharp",
           "LogicEffectGroupIds": [
@@ -66146,10 +66167,21 @@
       "EntityName": "AyanePublic01Entity01",
       "SpawnRate": 10000,
       "ApplyType": 4,
-      "SpawnPositionType": "InputBattleEntity",
-      "OffsetDirectionType": "ToTarget",
-      "SpawnDirectionType": "ToTarget",
-      "name": "Ayane01_Public01_LevelTargetEntity01"
+      "SpawnPositionType": "InputPosition",
+      "OverrideTargetingRule": true,
+      "TargetSortRule": {
+        "$type": "MX.Logic.Skills.TargetSortRule, Assembly-CSharp",
+        "SortCriteria": "Distance",
+        "OrderBy": "Lowest"
+      },
+      "EssentialCandidateRule": {
+        "$type": "MX.Logic.Skills.EssentialCandidateRule, Assembly-CSharp",
+        "TargetSide": "Ally_Except_Self",
+        "TargetingType": "Position",
+        "ApplyEntityType": 1,
+        "MaxTargetCount": -1
+      },
+      "name": "Ayane01_Public01_LevelCircleAreaEntity01"
     },
     "TargetSortRule": {
       "$type": "MX.Logic.Skills.TargetSortRule, Assembly-CSharp",
@@ -66159,7 +66191,7 @@
     "EssentialCandidateRule": {
       "$type": "MX.Logic.Skills.EssentialCandidateRule, Assembly-CSharp",
       "TargetSide": "Ally",
-      "TargetingType": "Target",
+      "TargetingType": "Position",
       "ApplyEntityType": 5,
       "MaxTargetCount": 1
     },
@@ -68070,7 +68102,7 @@
   {
     "$type": "MX.Logic.Data.PassiveSkillData, Assembly-CSharp",
     "Duration": -1,
-    "MaxTriggerCount": 1,
+    "MaxTriggerCount": -1,
     "TriggerCondition": {
       "$type": "MX.Logic.Data.PassiveTriggerData, Assembly-CSharp",
       "Event": 21,
@@ -92790,14 +92822,14 @@
               ],
               "Modifiers": [
                 {
-                  "$type": "MX.Logic.Data.TacticEntityConditionalModifierData, Assembly-CSharp",
-                  "Constraint": {
-                    "$type": "MX.Logic.Data.TacticEntityConstraint, Assembly-CSharp",
-                    "TacticEntity": 32,
-                    "IncludeType": 1
-                  },
+                  "$type": "MX.Logic.Data.TagConditionalModifierData, Assembly-CSharp",
+                  "IncludeType": 1,
+                  "TagConstraints": [
+                    "EnemyLarge",
+                    "AllyLarge"
+                  ],
                   "CheckTarget": 1,
-                  "name": "Nonomi01_ExtraPassive01_TacticEntityConditionalModifier01"
+                  "name": "Nonomi01_ExtraPassive01_TagConditionalModifier01"
                 }
               ],
               "name": "Nonomi01_ExtraPassive01_LevelOneTimeAbility01"
@@ -93992,16 +94024,16 @@
           "Radius": 200,
           "AllowDuplicateHit": true,
           "ApplyOnStay": true,
-          "Duration": 251,
+          "Duration": 220,
           "HitFrames": [
             75,
-            100,
-            125,
-            150,
+            95,
+            115,
+            135,
+            155,
             175,
-            200,
-            225,
-            250
+            195,
+            215
           ],
           "AreaAbilities": [
             {
@@ -94033,16 +94065,16 @@
       "Radius": 200,
       "AllowDuplicateHit": true,
       "ApplyOnStay": true,
-      "Duration": 251,
+      "Duration": 220,
       "HitFrames": [
         75,
-        100,
-        125,
-        150,
+        95,
+        115,
+        135,
+        155,
         175,
-        200,
-        225,
-        250
+        195,
+        215
       ],
       "AreaAbilities": [
         {
@@ -98905,7 +98937,7 @@
     ],
     "Range": 50,
     "CheckCanUseSkillPoint": true,
-    "InvokerDirection": "ToTarget",
+    "InvokerDirection": "Invoker",
     "MainEntityData": {
       "$type": "MX.Logic.Data.LevelTargetSkillEntityData, Assembly-CSharp",
       "Abilities": [
@@ -101505,6 +101537,7 @@
       }
     ],
     "Range": 1000,
+    "CheckCanUseSkillPoint": true,
     "InvokerDirection": "Input",
     "MainEntityData": {
       "$type": "MX.Logic.Data.LevelCharacterEntityData, Assembly-CSharp",
@@ -101536,7 +101569,7 @@
     },
     "EssentialCandidateRule": {
       "$type": "MX.Logic.Skills.EssentialCandidateRule, Assembly-CSharp",
-      "TargetSide": "Enemy",
+      "TargetSide": "Ally_Except_Self",
       "TargetingType": "Position",
       "ApplyEntityType": 1,
       "MaxTargetCount": 1
@@ -103293,6 +103326,7 @@
           "SpawnRate": 10000,
           "ApplyType": 4,
           "SpawnPositionType": "InputPosition",
+          "HighlightOption": 2,
           "name": "Yoshimi01_Ex01_LevelCircleAreaEntity01"
         }
       },
@@ -103324,6 +103358,7 @@
       "SpawnRate": 10000,
       "ApplyType": 4,
       "SpawnPositionType": "InputPosition",
+      "HighlightOption": 2,
       "name": "Yoshimi01_Ex01_LevelCircleAreaEntity01"
     },
     "TargetSortRule": {

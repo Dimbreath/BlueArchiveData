@@ -349,6 +349,12 @@
       "GroupType": "Reward_General"
     },
     {
+      "ID": 2009,
+      "NameKr": "배경 - 가구 타입",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
       "ID": 2100,
       "NameKr": "카페 - 가구 컨셉",
       "IsRecursive": false,
@@ -357,6 +363,12 @@
     {
       "ID": 2101,
       "NameKr": "게임센터 - 가구 컨셉",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 2102,
+      "NameKr": "발렌타인 - 가구 컨셉",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -735,6 +747,12 @@
     {
       "ID": 511000,
       "NameKr": "스테이지용 최상급 한계해방 재료 가챠 박스",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 519999,
+      "NameKr": "TR 스테이지용 10크레딧 가챠 박스",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },

@@ -3454,7 +3454,7 @@
       "NameKr": "아비도스",
       "DescriptionKr": "아비도스 학생들에 유용한 물건을 생성할 수 있습니다.",
       "NameJp": "アビドス",
-      "DescriptionJp": "アビドスの学生たちに有用な品物を生成することができます。"
+      "DescriptionJp": "アビドスの生徒たちにとって有用なアイテムを生成することができます。"
     },
     {
       "Key": 3931425959,
@@ -3462,15 +3462,15 @@
       "NameKr": "벚꽃",
       "DescriptionKr": "화장품 선물을 생성할 수 있습니다.",
       "NameJp": "桜",
-      "DescriptionJp": "化粧品プレゼントを作成することができます。"
+      "DescriptionJp": "化粧品の贈り物を生成することができます。"
     },
     {
       "Key": 1486727254,
       "DevName": "호감도 선물 - 골동품",
       "NameKr": "민들레",
       "DescriptionKr": "골동품 선물을 생성할 수 있습니다.",
-      "NameJp": "蒲公英",
-      "DescriptionJp": "骨董品を作ることができます。"
+      "NameJp": "タンポポ",
+      "DescriptionJp": "古美術の贈り物を生成することができます。"
     },
     {
       "Key": 2301588437,
@@ -3478,7 +3478,7 @@
       "NameKr": "수선화",
       "DescriptionKr": "디저트 선물을 생성할 수 있습니다.",
       "NameJp": "スイセン",
-      "DescriptionJp": "デザートプレゼントを作成することができます。"
+      "DescriptionJp": "スイーツの贈り物を生成することができます。"
     },
     {
       "Key": 687642476,
@@ -3486,15 +3486,15 @@
       "NameKr": "장미",
       "DescriptionKr": null,
       "NameJp": "薔薇",
-      "DescriptionJp": "電子機器のプレゼントを作成することができます。"
+      "DescriptionJp": "電子機器の贈り物を生成することができます。"
     },
     {
       "Key": 2543888744,
       "DevName": "학원 - 게헨나",
       "NameKr": "게헨나",
       "DescriptionKr": "게헨나 학생들에 유용한 물건을 생성할 수 있습니다.",
-      "NameJp": "ゲヘンナ",
-      "DescriptionJp": "ゲヘンナの学生たちに有用な物を生成することができます。"
+      "NameJp": "ゲヘナ",
+      "DescriptionJp": "ゲヘナの生徒たちにとって有用なアイテムを生成することができます。"
     },
     {
       "Key": 1493375985,
@@ -3502,7 +3502,7 @@
       "NameKr": "백귀야행",
       "DescriptionKr": "백귀야행 학생들에 유용한 물건을 생성할 수 있습니다.",
       "NameJp": "百鬼夜行",
-      "DescriptionJp": "百鬼夜行の学生たちに有用な物を生成できます。"
+      "DescriptionJp": "百鬼夜行の生徒たちにとって有用なアイテムを生成することができます。"
     },
     {
       "Key": 3440486104,
@@ -3510,7 +3510,7 @@
       "NameKr": "밀레니엄",
       "DescriptionKr": "밀레니엄 학생들에 유용한 물건을 생성할 수 있습니다.",
       "NameJp": "ミレニアム",
-      "DescriptionJp": "ミレニアムの学生たちに有用な物を生成することができます。"
+      "DescriptionJp": "ミレニアムの生徒たちにとって有用なアイテムを生成することができます。"
     },
     {
       "Key": 2353907971,
@@ -3518,7 +3518,7 @@
       "NameKr": "산해경",
       "DescriptionKr": "산해경 학생들에 유용한 물건을 생성할 수 있습니다.",
       "NameJp": "山海経",
-      "DescriptionJp": "山海警の学生たちにとって有用な物を生成できます。"
+      "DescriptionJp": "山海経の生徒たちにとって有用なアイテムを生成することができます。"
     },
     {
       "Key": 747429703,
@@ -3526,7 +3526,7 @@
       "NameKr": "나팔꽃",
       "DescriptionKr": "운동기구 선물을 생성할 수 있습니다.",
       "NameJp": "アサガオ",
-      "DescriptionJp": "運動器具のプレゼントを作成することができます。"
+      "DescriptionJp": "運動用品の贈り物を生成することができます。"
     },
     {
       "Key": 3904678758,
@@ -3534,7 +3534,7 @@
       "NameKr": "백일홍",
       "DescriptionKr": "장난감 선물을 생성할 수 있습니다.",
       "NameJp": "百日紅",
-      "DescriptionJp": "おもちゃのプレゼントを作成することができます。"
+      "DescriptionJp": "おもちゃの贈り物を生成することができます。"
     },
     {
       "Key": 2693891212,
@@ -3542,7 +3542,7 @@
       "NameKr": "트리니티",
       "DescriptionKr": "트리니티 학생들에 유용한 물건을 생성할 수 있습니다.",
       "NameJp": "トリニティ",
-      "DescriptionJp": "トリニティの学生たちに有用な物を生成することができます。"
+      "DescriptionJp": "トリニティの生徒たちにとって有用なアイテムを生成することができます。"
     },
     {
       "Key": 1573102664,
@@ -3733,16 +3733,16 @@
       "DevName": "카페 가구 - 젤리즈 오락실",
       "NameKr": "젤리즈 오락실",
       "DescriptionKr": "카페 가구를 생성할 수 있습니다. (젤리즈 오락실 테마)",
-      "NameJp": "ゼリーズゲーセンセット",
-      "DescriptionJp": "カフェの家具（ゼリーズゲーセンセット）を生成することができます。"
+      "NameJp": "ゼリーズゲーセンシリーズ",
+      "DescriptionJp": "カフェの家具（ゼリーズゲーセンシリーズ）を生成することができます。"
     },
     {
       "Key": 2320490131,
       "DevName": "카페 가구 - 모모프렌즈 카페",
       "NameKr": "모모프렌즈 카페",
       "DescriptionKr": "카페 가구를 생성할 수 있습니다. (모모프렌즈 카페 테마)",
-      "NameJp": "モモフレンズのカフェ",
-      "DescriptionJp": "カフェの家具（モモフレンズのカフェ）を生成することができます。"
+      "NameJp": "モモフレンズのカフェシリーズ",
+      "DescriptionJp": "カフェの家具（モモフレンズのカフェシリーズ）を生成することができます。"
     },
     {
       "Key": 618713211,
@@ -5021,24 +5021,24 @@
       "DevName": "모모프렌즈 카페 세트",
       "NameKr": "모모프렌즈 카페 세트",
       "DescriptionKr": "커피와 디저트를 즐길 수 있는 모모프렌즈 카페 세트. 느긋하게 기대 앉아 모모프렌즈와 휴식을 취해보세요.",
-      "NameJp": "モモフレンズのカフェセット",
-      "DescriptionJp": "コーヒーやデザートが楽しめるモモフレンズのカフェセット。疲れたらのんびりと座って、モモフレンズたちと休憩しましょう。"
+      "NameJp": "モモフレンズのカフェシリーズ",
+      "DescriptionJp": "コーヒーやデザートが楽しめるモモフレンズのカフェシリーズ。疲れたらのんびりと座って、モモフレンズたちと休憩しましょう。"
     },
     {
       "Key": 2130797913,
       "DevName": "젤리즈 오락실 세트",
       "NameKr": "젤리즈 오락실 세트",
       "DescriptionKr": "개성 있는 레트로풍의 젤리즈 오락실 세트. 고전 게임부터 최신 게임까지 마음껏 플레이하세요!",
-      "NameJp": "ゼリーズゲーセンセット",
-      "DescriptionJp": "ゼリーズのゲーセンをコンセプトにした、個性豊かでレトロ風な家具セット。レトロゲームから最新のゲームまで、思う存分プレイしよう！"
+      "NameJp": "ゼリーズゲーセンシリーズ",
+      "DescriptionJp": "ゼリーズのゲーセンをコンセプトにした、個性豊かでレトロ風な家具シリーズ。レトロゲームから最新のゲームまで、思う存分プレイしよう！"
     },
     {
       "Key": 2700178132,
       "DevName": "발렌타인 세트",
       "NameKr": "발렌타인 세트",
       "DescriptionKr": "달콤한 스위츠로 가득한 발렌타인 초콜릿 가게 세트. 두근대는 설렘과 함께 로맨틱한 하루를 보내세요!",
-      "NameJp": "バレンタインセット",
-      "DescriptionJp": "スイーツでいっぱいのバレンタイン家具セット。胸がときめくロマンチックな一日になりますように！"
+      "NameJp": "バレンタインシリーズ",
+      "DescriptionJp": "スイーツでいっぱいのバレンタイン家具シリーズ。胸がときめくロマンチックな一日になりますように！"
     },
     {
       "Key": 790433508,
@@ -6011,9 +6011,9 @@
     {
       "Key": 2579836564,
       "DevName": "ExSkill_Hyakkiyako_1",
-      "NameKr": "기초 전술 교육 CD\n(백귀야행)",
+      "NameKr": "기초 전술 교육 CD(백귀야행)",
       "DescriptionKr": "백귀야행 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "初級戦術教育BD\n（百鬼夜行）",
+      "NameJp": "初級戦術教育BD（百鬼夜行）",
       "DescriptionJp": "百鬼夜行の生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
@@ -6051,313 +6051,313 @@
     {
       "Key": 788632076,
       "DevName": "ExSkill_Hyakkiyako_2",
-      "NameKr": "일반 전술 교육 CD\n(백귀야행)",
+      "NameKr": "일반 전술 교육 CD(백귀야행)",
       "DescriptionKr": "백귀야행 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "中級戦術教育BD\n（百鬼夜行）",
+      "NameJp": "中級戦術教育BD（百鬼夜行）",
       "DescriptionJp": "百鬼夜行の生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 3829441542,
       "DevName": "ExSkill_Hyakkiyako_3",
-      "NameKr": "상급 전술 교육 CD\n(백귀야행)",
+      "NameKr": "상급 전술 교육 CD(백귀야행)",
       "DescriptionKr": "백귀야행 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "上級戦術教育BD\n（百鬼夜行）",
+      "NameJp": "上級戦術教育BD（百鬼夜行）",
       "DescriptionJp": "百鬼夜行の生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 391816722,
       "DevName": "ExSkill_Hyakkiyako_4",
-      "NameKr": "최상급 전술 교육 CD\n(백귀야행)",
+      "NameKr": "최상급 전술 교육 CD(백귀야행)",
       "DescriptionKr": "백귀야행 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "最上級戦術教育BD\n（百鬼夜行）",
+      "NameJp": "最上級戦術教育BD（百鬼夜行）",
       "DescriptionJp": "百鬼夜行の生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 1264526457,
       "DevName": "ExSkill_RedWinter_1",
-      "NameKr": "기초 전술 교육 CD\n(붉은겨울)",
+      "NameKr": "기초 전술 교육 CD(붉은겨울)",
       "DescriptionKr": "붉은겨울 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "初級戦術教育BD\n（レッドウィンター）",
+      "NameJp": "初級戦術教育BD（レッドウィンター）",
       "DescriptionJp": "レッドウィンターの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 23722908,
       "DevName": "ExSkill_RedWinter_2",
-      "NameKr": "일반 전술 교육 CD\n(붉은겨울)",
+      "NameKr": "일반 전술 교육 CD(붉은겨울)",
       "DescriptionKr": "붉은겨울 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "中級戦術教育BD\n（レッドウィンター）",
+      "NameJp": "中級戦術教育BD（レッドウィンター）",
       "DescriptionJp": "レッドウィンターの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 1694520143,
       "DevName": "ExSkill_RedWinter_3",
-      "NameKr": "상급 전술 교육 CD\n(붉은겨울)",
+      "NameKr": "상급 전술 교육 CD(붉은겨울)",
       "DescriptionKr": "붉은겨울 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "上級戦術教育BD\n（レッドウィンター）",
+      "NameJp": "上級戦術教育BD（レッドウィンター）",
       "DescriptionJp": "レッドウィンターの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 3097064378,
       "DevName": "ExSkill_RedWinter_4",
-      "NameKr": "최상급 전술 교육 CD\n(붉은겨울)",
+      "NameKr": "최상급 전술 교육 CD(붉은겨울)",
       "DescriptionKr": "붉은겨울 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "最上級戦術教育BD\n（レッドウィンター）",
+      "NameJp": "最上級戦術教育BD（レッドウィンター）",
       "DescriptionJp": "レッドウィンターの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 6443547,
       "DevName": "ExSkill_Trinity_1",
-      "NameKr": "기초 전술 교육 CD\n(트리니티)",
+      "NameKr": "기초 전술 교육 CD(트리니티)",
       "DescriptionKr": "트리니티 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "初級戦術教育BD\n（トリニティ）",
+      "NameJp": "初級戦術教育BD（トリニティ）",
       "DescriptionJp": "トリニティの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 2617257349,
       "DevName": "ExSkill_Trinity_2",
-      "NameKr": "일반 전술 교육 CD\n(트리니티)",
+      "NameKr": "일반 전술 교육 CD(트리니티)",
       "DescriptionKr": "트리니티 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "中級戦術教育BD\n（トリニティ）",
+      "NameJp": "中級戦術教育BD（トリニティ）",
       "DescriptionJp": "トリニティの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 2986442285,
       "DevName": "ExSkill_Trinity_3",
-      "NameKr": "상급 전술 교육 CD\n(트리니티)",
+      "NameKr": "상급 전술 교육 CD(트리니티)",
       "DescriptionKr": "트리니티 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "上級戦術教育BD\n（トリニティ）",
+      "NameJp": "上級戦術教育BD（トリニティ）",
       "DescriptionJp": "トリニティの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 1199826986,
       "DevName": "ExSkill_Trinity_4",
-      "NameKr": "최상급 전술 교육 CD\n(트리니티)",
+      "NameKr": "최상급 전술 교육 CD(트리니티)",
       "DescriptionKr": "트리니티 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "最上級戦術教育BD\n（トリニティ）",
+      "NameJp": "最上級戦術教育BD（トリニティ）",
       "DescriptionJp": "トリニティの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 3845598785,
       "DevName": "ExSkill_Gehenna_1",
-      "NameKr": "기초 전술 교육 CD\n(게헨나)",
+      "NameKr": "기초 전술 교육 CD(게헨나)",
       "DescriptionKr": "게헨나 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "初級戦術教育BD\n（ゲヘナ）",
+      "NameJp": "初級戦術教育BD（ゲヘナ）",
       "DescriptionJp": "ゲヘナの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 900390661,
       "DevName": "ExSkill_Gehenna_2",
-      "NameKr": "일반 전술 교육 CD\n(게헨나)",
+      "NameKr": "일반 전술 교육 CD(게헨나)",
       "DescriptionKr": "게헨나 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "中級戦術教育BD\n（ゲヘナ）",
+      "NameJp": "中級戦術教育BD（ゲヘナ）",
       "DescriptionJp": "ゲヘナの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 3502659760,
       "DevName": "ExSkill_Gehenna_3",
-      "NameKr": "상급 전술 교육 CD\n(게헨나)",
+      "NameKr": "상급 전술 교육 CD(게헨나)",
       "DescriptionKr": "게헨나 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "上級戦術教育BD\n（ゲヘナ）",
+      "NameJp": "上級戦術教育BD（ゲヘナ）",
       "DescriptionJp": "ゲヘナの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 306884790,
       "DevName": "ExSkill_Gehenna_4",
-      "NameKr": "최상급 전술 교육 CD\n(게헨나)",
+      "NameKr": "최상급 전술 교육 CD(게헨나)",
       "DescriptionKr": "게헨나 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "最上級戦術教育BD\n（ゲヘナ）",
+      "NameJp": "最上級戦術教育BD（ゲヘナ）",
       "DescriptionJp": "ゲヘナの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 1080728719,
       "DevName": "ExSkill_Abydoss_1",
-      "NameKr": "기초 전술 교육 CD\n(아비도스)",
+      "NameKr": "기초 전술 교육 CD(아비도스)",
       "DescriptionKr": "아비도스 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "初級戦術教育BD\n（アビドス）",
+      "NameJp": "初級戦術教育BD（アビドス）",
       "DescriptionJp": "アビドスの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 39893871,
       "DevName": "ExSkill_Abydoss_2",
-      "NameKr": "일반 전술 교육 CD\n(아비도스)",
+      "NameKr": "일반 전술 교육 CD(아비도스)",
       "DescriptionKr": "아비도스 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "中級戦術教育BD\n（アビドス）",
+      "NameJp": "中級戦術教育BD（アビドス）",
       "DescriptionJp": "アビドスの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 2662611816,
       "DevName": "ExSkill_Abydoss_3",
-      "NameKr": "상급 전술 교육 CD\n(아비도스)",
+      "NameKr": "상급 전술 교육 CD(아비도스)",
       "DescriptionKr": "아비도스 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "上級戦術教育BD\n（アビドス）",
+      "NameJp": "上級戦術教育BD（アビドス）",
       "DescriptionJp": "アビドスの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 4143322513,
       "DevName": "ExSkill_Abydoss_4",
-      "NameKr": "최상급 전술 교육 CD\n(아비도스)",
+      "NameKr": "최상급 전술 교육 CD(아비도스)",
       "DescriptionKr": "아비도스 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "最上級戦術教育BD\n（アビドス）",
+      "NameJp": "最上級戦術教育BD（アビドス）",
       "DescriptionJp": "アビドスの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 963270992,
       "DevName": "ExSkill_Millennium_1",
-      "NameKr": "기초 전술 교육 CD\n(밀레니엄)",
+      "NameKr": "기초 전술 교육 CD(밀레니엄)",
       "DescriptionKr": "밀레니엄 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "初級戦術教育BD\n（ミレニアム）",
+      "NameJp": "初級戦術教育BD（ミレニアム）",
       "DescriptionJp": "ミレニアムの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 4116117232,
       "DevName": "ExSkill_Millennium_2",
-      "NameKr": "일반 전술 교육 CD\n(밀레니엄)",
+      "NameKr": "일반 전술 교육 CD(밀레니엄)",
       "DescriptionKr": "밀레니엄 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "中級戦術教育BD\n（ミレニアム）",
+      "NameJp": "中級戦術教育BD（ミレニアム）",
       "DescriptionJp": "ミレニアムの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 773939592,
       "DevName": "ExSkill_Millennium_3",
-      "NameKr": "상급 전술 교육 CD\n(밀레니엄)",
+      "NameKr": "상급 전술 교육 CD(밀레니엄)",
       "DescriptionKr": "밀레니엄 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "上級戦術教育BD\n（ミレニアム）",
+      "NameJp": "上級戦術教育BD（ミレニアム）",
       "DescriptionJp": "ミレニアムの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 3401194712,
       "DevName": "ExSkill_Millennium_4",
-      "NameKr": "최상급 전술 교육 CD\n(밀레니엄)",
+      "NameKr": "최상급 전술 교육 CD(밀레니엄)",
       "DescriptionKr": "밀레니엄 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "最上級戦術教育BD\n（ミレニアム）",
+      "NameJp": "最上級戦術教育BD（ミレニアム）",
       "DescriptionJp": "ミレニアムの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 89617008,
       "DevName": "ExSkill_Arius_1",
-      "NameKr": "기초 전술 교육 CD\n(아리우스)",
+      "NameKr": "기초 전술 교육 CD(아리우스)",
       "DescriptionKr": "아리우스 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "初級戦術教育BD\n（アリウス）",
+      "NameJp": "初級戦術教育BD（アリウス）",
       "DescriptionJp": "アリウスの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 1969765550,
       "DevName": "ExSkill_Arius_2",
-      "NameKr": "일반 전술 교육 CD\n(아리우스)",
+      "NameKr": "일반 전술 교육 CD(아리우스)",
       "DescriptionKr": "아리우스 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "中級戦術教育BD\n（アリウス）",
+      "NameJp": "中級戦術教育BD（アリウス）",
       "DescriptionJp": "アリウスの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 1912394354,
       "DevName": "ExSkill_Arius_3",
-      "NameKr": "상급 전술 교육 CD\n(아리우스)",
+      "NameKr": "상급 전술 교육 CD(아리우스)",
       "DescriptionKr": "아리우스 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "上級戦術教育BD\n（アリウス）",
+      "NameJp": "上級戦術教育BD（アリウス）",
       "DescriptionJp": "アリウスの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 3488216464,
       "DevName": "ExSkill_Arius_4",
-      "NameKr": "최상급 전술 교육 CD\n(아리우스)",
+      "NameKr": "최상급 전술 교육 CD(아리우스)",
       "DescriptionKr": "아리우스 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "最上級戦術教育BD\n（アリウス）",
+      "NameJp": "最上級戦術教育BD（アリウス）",
       "DescriptionJp": "アリウスの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 3433794810,
       "DevName": "ExSkill_Shanhaijing_1",
-      "NameKr": "기초 전술 교육 CD\n(산해경)",
+      "NameKr": "기초 전술 교육 CD(산해경)",
       "DescriptionKr": "산해경 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "初級戦術教育BD\n（山海経）",
+      "NameJp": "初級戦術教育BD（山海経）",
       "DescriptionJp": "山海経の生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 506616951,
       "DevName": "ExSkill_Shanhaijing_2",
-      "NameKr": "일반 전술 교육 CD\n(산해경)",
+      "NameKr": "일반 전술 교육 CD(산해경)",
       "DescriptionKr": "산해경 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "中級戦術教育BD\n（山海経）",
+      "NameJp": "中級戦術教育BD（山海経）",
       "DescriptionJp": "山海経の生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 230325198,
       "DevName": "ExSkill_Shanhaijing_3",
-      "NameKr": "상급 전술 교육 CD\n(산해경)",
+      "NameKr": "상급 전술 교육 CD(산해경)",
       "DescriptionKr": "산해경 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "上級戦術教育BD\n（山海経）",
+      "NameJp": "上級戦術教育BD（山海経）",
       "DescriptionJp": "山海経の生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 1973297702,
       "DevName": "ExSkill_Shanhaijing_4",
-      "NameKr": "최상급 전술 교육 CD\n(산해경)",
+      "NameKr": "최상급 전술 교육 CD(산해경)",
       "DescriptionKr": "산해경 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "最上級戦術教育BD\n（山海経）",
+      "NameJp": "最上級戦術教育BD（山海経）",
       "DescriptionJp": "山海経の生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 3501238234,
       "DevName": "ExSkill_Valkyrie_0",
-      "NameKr": "기초 전술 교육 CD\n(발키리)",
+      "NameKr": "기초 전술 교육 CD(발키리)",
       "DescriptionKr": "발키리 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "初級戦術教育BD\n（ヴァルキューレ）",
+      "NameJp": "初級戦術教育BD（ヴァルキューレ）",
       "DescriptionJp": "ヴァルキューレの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 3514082561,
       "DevName": "ExSkill_Valkyrie_1",
-      "NameKr": "일반 전술 교육 CD\n(발키리)",
+      "NameKr": "일반 전술 교육 CD(발키리)",
       "DescriptionKr": "발키리 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "中級戦術教育BD\n（ヴァルキューレ）",
+      "NameJp": "中級戦術教育BD（ヴァルキューレ）",
       "DescriptionJp": "ヴァルキューレの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 644961418,
       "DevName": "ExSkill_Valkyrie_2",
-      "NameKr": "상급 전술 교육 CD\n(발키리)",
+      "NameKr": "상급 전술 교육 CD(발키리)",
       "DescriptionKr": "발키리 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "上級戦術教育BD\n（ヴァルキューレ）",
+      "NameJp": "上級戦術教育BD（ヴァルキューレ）",
       "DescriptionJp": "ヴァルキューレの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 4292907309,
       "DevName": "ExSkill_Valkyrie_3",
-      "NameKr": "최상급 전술 교육 CD\n(발키리)",
+      "NameKr": "최상급 전술 교육 CD(발키리)",
       "DescriptionKr": "발키리 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "最上級戦術教育BD\n（ヴァルキューレ）",
+      "NameJp": "最上級戦術教育BD（ヴァルキューレ）",
       "DescriptionJp": "ヴァルキューレの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 2153503951,
       "DevName": "ExSkill_WildHunt_0",
-      "NameKr": "기초 전술 교육 CD\n(와일드헌트)",
+      "NameKr": "기초 전술 교육 CD(와일드헌트)",
       "DescriptionKr": "와일드헌트 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "初級戦術教育BD\n（ワイルドハント）",
+      "NameJp": "初級戦術教育BD（ワイルドハント）",
       "DescriptionJp": "ワイルドハントの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 1274767643,
       "DevName": "ExSkill_WildHunt_1",
-      "NameKr": "일반 전술 교육 CD\n(와일드헌트)",
+      "NameKr": "일반 전술 교육 CD(와일드헌트)",
       "DescriptionKr": "와일드헌트 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "中級戦術教育BD\n（ワイルドハント）",
+      "NameJp": "中級戦術教育BD（ワイルドハント）",
       "DescriptionJp": "ワイルドハントの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 1825214644,
       "DevName": "ExSkill_WildHunt_2",
-      "NameKr": "상급 전술 교육 CD\n(와일드헌트)",
+      "NameKr": "상급 전술 교육 CD(와일드헌트)",
       "DescriptionKr": "와일드헌트 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "上級戦術教育BD\n（ワイルドハント）",
+      "NameJp": "上級戦術教育BD（ワイルドハント）",
       "DescriptionJp": "ワイルドハントの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 2515460678,
       "DevName": "ExSkill_WildHunt_3",
-      "NameKr": "최상급 전술 교육 CD\n(와일드헌트)",
+      "NameKr": "최상급 전술 교육 CD(와일드헌트)",
       "DescriptionKr": "와일드헌트 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "最上級戦術教育BD\n（ワイルドハント）",
+      "NameJp": "最上級戦術教育BD（ワイルドハント）",
       "DescriptionJp": "ワイルドハントの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
@@ -6371,33 +6371,33 @@
     {
       "Key": 3349246399,
       "DevName": "ExSkill_SRT_0",
-      "NameKr": "기초 전술 교육 CD\n(SRT)",
+      "NameKr": "기초 전술 교육 CD(SRT)",
       "DescriptionKr": "SRT 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "初級戦術教育BD\n（SRT）",
+      "NameJp": "初級戦術教育BD（SRT）",
       "DescriptionJp": "SRTの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 1281166809,
       "DevName": "ExSkill_SRT_1",
-      "NameKr": "일반 전술 교육 CD\n(SRT)",
+      "NameKr": "일반 전술 교육 CD(SRT)",
       "DescriptionKr": "SRT 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "中級戦術教育BD\n（SRT）",
+      "NameJp": "中級戦術教育BD（SRT）",
       "DescriptionJp": "SRTの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 2607413523,
       "DevName": "ExSkill_SRT_2",
-      "NameKr": "상급 전술 교육 CD\n(SRT)",
+      "NameKr": "상급 전술 교육 CD(SRT)",
       "DescriptionKr": "SRT 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "上級戦術教育BD\n（SRT）",
+      "NameJp": "上級戦術教育BD（SRT）",
       "DescriptionJp": "SRTの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
       "Key": 4170429995,
       "DevName": "ExSkill_SRT_3",
-      "NameKr": "최상급 전술 교육 CD\n(SRT)",
+      "NameKr": "최상급 전술 교육 CD(SRT)",
       "DescriptionKr": "SRT 학생들의 전술 활동을 영상으로 기록한 교육용 CD",
-      "NameJp": "最上級戦術教育BD\n（SRT）",
+      "NameJp": "最上級戦術教育BD（SRT）",
       "DescriptionJp": "SRTの生徒の戦術活動を映像として記録した教育用BD。"
     },
     {
@@ -6427,9 +6427,9 @@
     {
       "Key": 4133921081,
       "DevName": "SkillBook_Hyakkiyako_0",
-      "NameKr": "기초 기술노트\n(백귀야행)",
+      "NameKr": "기초 기술노트(백귀야행)",
       "DescriptionKr": "백귀야행 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "初級技術ノート\n（百鬼夜行）",
+      "NameJp": "初級技術ノート（百鬼夜行）",
       "DescriptionJp": "百鬼夜行連合学院の戦術の極意がまとめられているノート。"
     },
     {
@@ -6467,345 +6467,345 @@
     {
       "Key": 35330832,
       "DevName": "SkillBook_Hyakkiyako_1",
-      "NameKr": "일반 기술노트\n(백귀야행)",
+      "NameKr": "일반 기술노트(백귀야행)",
       "DescriptionKr": "백귀야행 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "中級技術ノート\n（百鬼夜行）",
+      "NameJp": "中級技術ノート（百鬼夜行）",
       "DescriptionJp": "百鬼夜行連合学院の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 4114117805,
       "DevName": "SkillBook_Hyakkiyako_2",
-      "NameKr": "상급 기술노트\n(백귀야행)",
+      "NameKr": "상급 기술노트(백귀야행)",
       "DescriptionKr": "백귀야행 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "上級技術ノート\n（百鬼夜行）",
+      "NameJp": "上級技術ノート（百鬼夜行）",
       "DescriptionJp": "百鬼夜行連合学院の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 3104370311,
       "DevName": "SkillBook_Hyakkiyako_3",
-      "NameKr": "최상급 기술노트\n(백귀야행)",
+      "NameKr": "최상급 기술노트(백귀야행)",
       "DescriptionKr": "백귀야행 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "最上級技術ノート\n（百鬼夜行）",
+      "NameJp": "最上級技術ノート（百鬼夜行）",
       "DescriptionJp": "百鬼夜行連合学院の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 3502917964,
       "DevName": "SkillBook_RedWinter_0",
-      "NameKr": "기초 기술노트\n(붉은겨울)",
+      "NameKr": "기초 기술노트(붉은겨울)",
       "DescriptionKr": "붉은겨울 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "初級技術ノート\n（レッドウィンター）",
+      "NameJp": "初級技術ノート（レッドウィンター）",
       "DescriptionJp": "レッドウィンター連邦学園の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 3870440815,
       "DevName": "SkillBook_RedWinter_1",
-      "NameKr": "일반 기술노트\n(붉은겨울)",
+      "NameKr": "일반 기술노트(붉은겨울)",
       "DescriptionKr": "붉은겨울 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "中級技術ノート\n（レッドウィンター）",
+      "NameJp": "中級技術ノート（レッドウィンター）",
       "DescriptionJp": "レッドウィンター連邦学園の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 1537137084,
       "DevName": "SkillBook_RedWinter_2",
-      "NameKr": "상급 기술노트\n(붉은겨울)",
+      "NameKr": "상급 기술노트(붉은겨울)",
       "DescriptionKr": "붉은겨울 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "上級技術ノート\n（レッドウィンター）",
+      "NameJp": "上級技術ノート（レッドウィンター）",
       "DescriptionJp": "レッドウィンター連邦学園の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 991032267,
       "DevName": "SkillBook_RedWinter_3",
-      "NameKr": "최상급 기술노트\n(붉은겨울)",
+      "NameKr": "최상급 기술노트(붉은겨울)",
       "DescriptionKr": "붉은겨울 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "最上級技術ノート\n（レッドウィンター）",
+      "NameJp": "最上級技術ノート（レッドウィンター）",
       "DescriptionJp": "レッドウィンター連邦学園の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 487656045,
       "DevName": "SkillBook_Trinity_0",
-      "NameKr": "기초 기술노트\n(트리니티)",
+      "NameKr": "기초 기술노트(트리니티)",
       "DescriptionKr": "트리니티 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "初級技術ノート\n（トリニティ）",
+      "NameJp": "初級技術ノート（トリニティ）",
       "DescriptionJp": "トリニティ総合学園の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 930608878,
       "DevName": "SkillBook_Trinity_1",
-      "NameKr": "일반 기술노트\n(트리니티)",
+      "NameKr": "일반 기술노트(트리니티)",
       "DescriptionKr": "트리니티 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "中級技術ノート\n（トリニティ）",
+      "NameJp": "中級技術ノート（トリニティ）",
       "DescriptionJp": "トリニティ総合学園の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 466517079,
       "DevName": "SkillBook_Trinity_2",
-      "NameKr": "상급 기술노트\n(트리니티)",
+      "NameKr": "상급 기술노트(트리니티)",
       "DescriptionKr": "트리니티 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "上級技術ノート\n（トリニティ）",
+      "NameJp": "上級技術ノート（トリニティ）",
       "DescriptionJp": "トリニティ総合学園の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 3451281374,
       "DevName": "SkillBook_Trinity_3",
-      "NameKr": "최상급 기술노트\n(트리니티)",
+      "NameKr": "최상급 기술노트(트리니티)",
       "DescriptionKr": "트리니티 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "最上級技術ノート\n（トリニティ）",
+      "NameJp": "最上級技術ノート（トリニティ）",
       "DescriptionJp": "トリニティ総合学園の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 3462709848,
       "DevName": "SkillBook_Gehenna_0",
-      "NameKr": "기초 기술노트\n(게헨나)",
+      "NameKr": "기초 기술노트(게헨나)",
       "DescriptionKr": "게헨나 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "初級技術ノート\n（ゲヘナ）",
+      "NameJp": "初級技術ノート（ゲヘナ）",
       "DescriptionJp": "ゲヘナ学園の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 1087187983,
       "DevName": "SkillBook_Gehenna_1",
-      "NameKr": "일반 기술노트\n(게헨나)",
+      "NameKr": "일반 기술노트(게헨나)",
       "DescriptionKr": "게헨나 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "中級技術ノート\n（ゲヘナ）",
+      "NameJp": "中級技術ノート（ゲヘナ）",
       "DescriptionJp": "ゲヘナ学園の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 574779445,
       "DevName": "SkillBook_Gehenna_2",
-      "NameKr": "상급 기술노트\n(게헨나)",
+      "NameKr": "상급 기술노트(게헨나)",
       "DescriptionKr": "게헨나 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "上級技術ノート\n（ゲヘナ）",
+      "NameJp": "上級技術ノート（ゲヘナ）",
       "DescriptionJp": "ゲヘナ学園の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 4146364185,
       "DevName": "SkillBook_Gehenna_3",
-      "NameKr": "최상급 기술노트\n(게헨나)",
+      "NameKr": "최상급 기술노트(게헨나)",
       "DescriptionKr": "게헨나 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "最上級技術ノート\n（ゲヘナ）",
+      "NameJp": "最上級技術ノート（ゲヘナ）",
       "DescriptionJp": "ゲヘナ学園の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 1291944740,
       "DevName": "SkillBook_Abydos_0",
-      "NameKr": "기초 기술노트\n(아비도스)",
+      "NameKr": "기초 기술노트(아비도스)",
       "DescriptionKr": "아비도스 고등학교의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "初級技術ノート\n（アビドス）",
+      "NameJp": "初級技術ノート（アビドス）",
       "DescriptionJp": "アビドス高等学校の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 196196410,
       "DevName": "SkillBook_Abydos_1",
-      "NameKr": "일반 기술노트\n(아비도스)",
+      "NameKr": "일반 기술노트(아비도스)",
       "DescriptionKr": "아비도스 고등학교의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "中級技術ノート\n（アビドス）",
+      "NameJp": "中級技術ノート（アビドス）",
       "DescriptionJp": "アビドス高等学校の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 3856511577,
       "DevName": "SkillBook_Abydos_2",
-      "NameKr": "상급 기술노트\n(아비도스)",
+      "NameKr": "상급 기술노트(아비도스)",
       "DescriptionKr": "아비도스 고등학교의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "上級技術ノート\n（アビドス）",
+      "NameJp": "上級技術ノート（アビドス）",
       "DescriptionJp": "アビドス高等学校の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 2061131365,
       "DevName": "SkillBook_Abydos_3",
-      "NameKr": "최상급 기술노트\n(아비도스)",
+      "NameKr": "최상급 기술노트(아비도스)",
       "DescriptionKr": "아비도스 고등학교의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "最上級技術ノート\n（アビドス）",
+      "NameJp": "最上級技術ノート（アビドス）",
       "DescriptionJp": "アビドス高等学校の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 151494972,
       "DevName": "SkillBook_Millennium_0",
-      "NameKr": "기초 기술노트\n(밀레니엄)",
+      "NameKr": "기초 기술노트(밀레니엄)",
       "DescriptionKr": "밀레니엄 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "初級技術ノート\n（ミレニアム）",
+      "NameJp": "初級技術ノート（ミレニアム）",
       "DescriptionJp": "ミレニアムサイエンススクールの戦術の極意がまとめられているノート。"
     },
     {
       "Key": 3546140085,
       "DevName": "SkillBook_Millennium_1",
-      "NameKr": "일반 기술노트\n(밀레니엄)",
+      "NameKr": "일반 기술노트(밀레니엄)",
       "DescriptionKr": "밀레니엄 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "中級技術ノート\n（ミレニアム）",
+      "NameJp": "中級技術ノート（ミレニアム）",
       "DescriptionJp": "ミレニアムサイエンススクールの戦術の極意がまとめられているノート。"
     },
     {
       "Key": 3221283925,
       "DevName": "SkillBook_Millennium_2",
-      "NameKr": "상급 기술노트\n(밀레니엄)",
+      "NameKr": "상급 기술노트(밀레니엄)",
       "DescriptionKr": "밀레니엄 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "上級技術ノート\n（ミレニアム）",
+      "NameJp": "上級技術ノート（ミレニアム）",
       "DescriptionJp": "ミレニアムサイエンススクールの戦術の極意がまとめられているノート。"
     },
     {
       "Key": 1963299364,
       "DevName": "SkillBook_Millennium_3",
-      "NameKr": "최상급 기술노트\n(밀레니엄)",
+      "NameKr": "최상급 기술노트(밀레니엄)",
       "DescriptionKr": "밀레니엄 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "最上級技術ノート\n（ミレニアム）",
+      "NameJp": "最上級技術ノート（ミレニアム）",
       "DescriptionJp": "ミレニアムサイエンススクールの戦術の極意がまとめられているノート。"
     },
     {
       "Key": 997804954,
       "DevName": "SkillBook_Arius_0",
-      "NameKr": "기초 기술노트\n(아리우스)",
+      "NameKr": "기초 기술노트(아리우스)",
       "DescriptionKr": "아리우스 분교의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "初級技術ノート\n（アリウス）",
+      "NameJp": "初級技術ノート（アリウス）",
       "DescriptionJp": "アリウス分校の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 1381874672,
       "DevName": "SkillBook_Arius_1",
-      "NameKr": "일반 기술노트\n(아리우스)",
+      "NameKr": "일반 기술노트(아리우스)",
       "DescriptionKr": "아리우스 분교의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "中級技術ノート\n（アリウス）",
+      "NameJp": "中級技術ノート（アリウス）",
       "DescriptionJp": "アリウス分校の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 1129599792,
       "DevName": "SkillBook_Arius_2",
-      "NameKr": "상급 기술노트\n(아리우스)",
+      "NameKr": "상급 기술노트(아리우스)",
       "DescriptionKr": "아리우스 분교의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "上級技術ノート\n（アリウス）",
+      "NameJp": "上級技術ノート（アリウス）",
       "DescriptionJp": "アリウス分校の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 2952648322,
       "DevName": "SkillBook_Arius_3",
-      "NameKr": "최상급 기술노트\n(아리우스)",
+      "NameKr": "최상급 기술노트(아리우스)",
       "DescriptionKr": "아리우스 분교의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "最上級技術ノート\n（アリウス）",
+      "NameJp": "最上級技術ノート（アリウス）",
       "DescriptionJp": "アリウス分校の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 2844005639,
       "DevName": "SkillBook_Shanhaijing_0",
-      "NameKr": "기초 기술노트\n(산해경)",
+      "NameKr": "기초 기술노트(산해경)",
       "DescriptionKr": "산해경 고급중학교의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "初級技術ノート\n（山海経）",
+      "NameJp": "初級技術ノート（山海経）",
       "DescriptionJp": "山海経高級中学校の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 2891506473,
       "DevName": "SkillBook_Shanhaijing_1",
-      "NameKr": "일반 기술노트\n(산해경)",
+      "NameKr": "일반 기술노트(산해경)",
       "DescriptionKr": "산해경 고급중학교의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "中級技術ノート\n（山海経）",
+      "NameJp": "中級技術ノート（山海経）",
       "DescriptionJp": "山海経高級中学校の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 1110164000,
       "DevName": "SkillBook_Shanhaijing_2",
-      "NameKr": "상급 기술노트\n(산해경)",
+      "NameKr": "상급 기술노트(산해경)",
       "DescriptionKr": "산해경 고급중학교의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "上級技術ノート\n（山海経）",
+      "NameJp": "上級技術ノート（山海経）",
       "DescriptionJp": "山海経高級中学校の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 2494745311,
       "DevName": "SkillBook_Shanhaijing_3",
-      "NameKr": "최상급 기술노트\n(산해경)",
+      "NameKr": "최상급 기술노트(산해경)",
       "DescriptionKr": "산해경 고급중학교의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "最上級技術ノート\n（山海経）",
+      "NameJp": "最上級技術ノート（山海経）",
       "DescriptionJp": "山海経高級中学校の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 3593783201,
       "DevName": "SkillBook_Valkyrie_0",
-      "NameKr": "기초 기술노트\n(발키리)",
+      "NameKr": "기초 기술노트(발키리)",
       "DescriptionKr": "발키리 경찰학교의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "初級技術ノート\n（ヴァルキューレ）",
+      "NameJp": "初級技術ノート（ヴァルキューレ）",
       "DescriptionJp": "ヴァルキューレ警察学校の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 3758792514,
       "DevName": "SkillBook_Valkyrie_1",
-      "NameKr": "일반 기술노트\n(발키리)",
+      "NameKr": "일반 기술노트(발키리)",
       "DescriptionKr": "발키리 경찰학교의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "中級技術ノート\n（ヴァルキューレ）",
+      "NameJp": "中級技術ノート（ヴァルキューレ）",
       "DescriptionJp": "ヴァルキューレ警察学校の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 1232522819,
       "DevName": "SkillBook_Valkyrie_2",
-      "NameKr": "상급 기술노트\n(발키리)",
+      "NameKr": "상급 기술노트(발키리)",
       "DescriptionKr": "발키리 경찰학교의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "上級技術ノート\n（ヴァルキューレ）",
+      "NameJp": "上級技術ノート（ヴァルキューレ）",
       "DescriptionJp": "ヴァルキューレ警察学校の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 756559058,
       "DevName": "SkillBook_Valkyrie_3",
-      "NameKr": "최상급 기술노트\n(발키리)",
+      "NameKr": "최상급 기술노트(발키리)",
       "DescriptionKr": "발키리 경찰학교의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "最上級技術ノート\n（ヴァルキューレ）",
+      "NameJp": "最上級技術ノート（ヴァルキューレ）",
       "DescriptionJp": "ヴァルキューレ警察学校の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 2247345776,
       "DevName": "SkillBook_WildHunt_0",
-      "NameKr": "기초 기술노트\n(와일드헌트)",
+      "NameKr": "기초 기술노트(와일드헌트)",
       "DescriptionKr": "와일드헌트 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "初級技術ノート\n（ワイルドハント）",
+      "NameJp": "初級技術ノート（ワイルドハント）",
       "DescriptionJp": "ワイルドハント芸術学院の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 1213952904,
       "DevName": "SkillBook_WildHunt_1",
-      "NameKr": "일반 기술노트\n(와일드헌트)",
+      "NameKr": "일반 기술노트(와일드헌트)",
       "DescriptionKr": "와일드헌트 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "中級技術ノート\n（ワイルドハント）",
+      "NameJp": "中級技術ノート（ワイルドハント）",
       "DescriptionJp": "ワイルドハント芸術学院の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 1401662238,
       "DevName": "SkillBook_WildHunt_2",
-      "NameKr": "상급 기술노트\n(와일드헌트)",
+      "NameKr": "상급 기술노트(와일드헌트)",
       "DescriptionKr": "와일드헌트 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "上級技術ノート\n（ワイルドハント）",
+      "NameJp": "上級技術ノート（ワイルドハント）",
       "DescriptionJp": "ワイルドハント芸術学院の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 2655042482,
       "DevName": "SkillBook_WildHunt_3",
-      "NameKr": "최상급 기술노트\n(와일드헌트)",
+      "NameKr": "최상급 기술노트(와일드헌트)",
       "DescriptionKr": "와일드헌트 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "最上級技術ノート\n（ワイルドハント）",
+      "NameJp": "最上級技術ノート（ワイルドハント）",
       "DescriptionJp": "ワイルドハント芸術学院の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 1626173846,
       "DevName": "SkillBook_SRT_0",
-      "NameKr": "기초 기술노트\n(SRT)",
+      "NameKr": "기초 기술노트(SRT)",
       "DescriptionKr": "SRT 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "初級技術ノート\n（SRT）",
+      "NameJp": "初級技術ノート（SRT）",
       "DescriptionJp": "SRT特殊学園の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 2133400529,
       "DevName": "SkillBook_SRT_1",
-      "NameKr": "일반 기술노트\n(SRT)",
+      "NameKr": "일반 기술노트(SRT)",
       "DescriptionKr": "SRT 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "中級技術ノート\n（SRT）",
+      "NameJp": "中級技術ノート（SRT）",
       "DescriptionJp": "SRT特殊学園の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 2363049478,
       "DevName": "SkillBook_SRT_2",
-      "NameKr": "상급 기술노트\n(SRT)",
+      "NameKr": "상급 기술노트(SRT)",
       "DescriptionKr": "SRT 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "上級技術ノート\n（SRT）",
+      "NameJp": "上級技術ノート（SRT）",
       "DescriptionJp": "SRT特殊学園の戦術の極意がまとめられているノート。"
     },
     {
       "Key": 3197942796,
       "DevName": "SkillBook_SRT_3",
-      "NameKr": "최상급 기술노트\n(SRT)",
+      "NameKr": "최상급 기술노트(SRT)",
       "DescriptionKr": "SRT 학원의 전술 핵심이 요약된 비법 노트.",
-      "NameJp": "最上級技術ノート\n（SRT）",
+      "NameJp": "最上級技術ノート（SRT）",
       "DescriptionJp": "SRT特殊学園の戦術の極意がまとめられているノート。"
     },
     {
@@ -6882,7 +6882,7 @@
     },
     {
       "Key": 3679010773,
-      "DevName": "호감도 아이템_태그_운동용품",
+      "DevName": "호감도 아이템_운동기구_모모프렌즈_히후미_시로코",
       "NameKr": "페로로 휠 슬라이드",
       "DescriptionKr": "화제의 모모 프렌즈 콜라보 상품 제9탄!\n올해의 운동기구 인기랭킹 1위에 랭크되어있는 페로로 모양의 운동기구.",
       "NameJp": "ペロロの腹筋ローラー",
@@ -6890,7 +6890,7 @@
     },
     {
       "Key": 3417345669,
-      "DevName": "호감도 아이템_태그_취미용품",
+      "DevName": "호감도 아이템_전자기기_음악_히비키",
       "NameKr": "에이~팟 프로",
       "DescriptionKr": "최근 키보토스의 학생들 사이에서 인기리에 유행중인 무선 이어폰. 용돈으로 사기엔 제법 비싸다. 평균가 알바비 3달 치.",
       "NameJp": "エーポッドプロ",
@@ -6898,7 +6898,7 @@
     },
     {
       "Key": 1575353856,
-      "DevName": "호감도 아이템_태그_서적",
+      "DevName": "호감도 아이템_서적_연애물_츠루기",
       "NameKr": "금단의 연애 ~허락되지 않아서, 더욱 아름다운 사랑~",
       "DescriptionKr": "최고의 인기 연애소설 작가 '사랑은 잉어' 님의 최신작!\n이루어질 수 없는 아찔한 금단의 사랑을 다룬 문제작!",
       "NameJp": "禁断の愛\n〜許されないからこそ美しく〜",
@@ -6906,7 +6906,7 @@
     },
     {
       "Key": 3531188161,
-      "DevName": "호감도 아이템_태그_서적",
+      "DevName": "호감도 아이템_서적_게임_하레_아리스",
       "NameKr": "게임 잡지 『히트걸즈』",
       "DescriptionKr": "정보라면 그 어떤 사소한 것도 놓치지 않는다. \n키보토스 최신 게임 발매 소식부터, 고전 게임 공략, 게임 굿즈 발매 소식 등이 수록된 게임 잡지",
       "NameJp": "ゲームマガジン\n「ヒットガールズ」",
@@ -6914,7 +6914,7 @@
     },
     {
       "Key": 812933091,
-      "DevName": "호감도 아이템_태그_화장품",
+      "DevName": "호감도 아이템_화장품_걸리쉬_아스나",
       "NameKr": "체리로즈 립글로즈",
       "DescriptionKr": "부드럽지만 선명한 컬러가 조화를 이룬 립글로즈.\n꾸미기 좋아하는 여성들 사이에서 선풍적인 인기를 끌고 있는 핫 잇 템.",
       "NameJp": "チェリーローズカラーのグロス",
@@ -6922,7 +6922,7 @@
     },
     {
       "Key": 2902292788,
-      "DevName": "호감도 아이템_태그_화장품",
+      "DevName": "호감도 아이템_화장품_미용_하나에",
       "NameKr": "피부까지 투명해지는 BB크림",
       "DescriptionKr": "고급 화장품 메이커 '사무엘라'에서 발매한 히트상품.\n피부를 투명하리만치 밝게 보정해주는 BB크림. 보다 자연스럽게 피부에 밀착하여, 건강한 피부의 톤을 연출해 줍니다.",
       "NameJp": "お肌を透明にするBBクリーム",
@@ -6930,7 +6930,7 @@
     },
     {
       "Key": 618503547,
-      "DevName": "호감도 아이템_태그_화장품",
+      "DevName": "호감도 아이템_화장품_밀리터리_마시로",
       "NameKr": "밀리터리 3종 위장용 파운데이션",
       "DescriptionKr": "고급 화장품 메이커 '사무엘라'에서 발매한 히트상품.\n피부에 스며드는 편안함! 필요할 때 어디서든 위장 가능! 어디서든 나만의 위장을 경험해보세요!",
       "NameJp": "ミリタリー用カモフラージュクリーム3種セット",
@@ -6938,7 +6938,7 @@
     },
     {
       "Key": 1773086852,
-      "DevName": "호감도 아이템_태그_기호식품",
+      "DevName": "호감도 아이템_디저트_미식_아이리",
       "NameKr": "고급 쿠키 세트",
       "DescriptionKr": "담백하고 고소한 단맛이 일품인 슈뢰딩거의 고급 쿠키 세트.\n종종 50%의 확률로 쿠키 대신 다른 물건이 들어있기도 한다.",
       "NameJp": "高級なクッキーセット",
@@ -6946,7 +6946,7 @@
     },
     {
       "Key": 2238627204,
-      "DevName": "호감도 아이템_태그_서적",
+      "DevName": "호감도 아이템_서적_인문학_아야네",
       "NameKr": "<총, 귀여움, 청춘>",
       "DescriptionKr": "총과 귀여움, 그리고 청춘.\n키보토스 대중문화의 기원을 거슬러 올라가 그 근원을 분석한 올해 최고의 베스트셀러",
       "NameJp": "『銃 可愛い 青春』",
@@ -6954,7 +6954,7 @@
     },
     {
       "Key": 346808410,
-      "DevName": "호감도 아이템_태그_취미용품",
+      "DevName": "호감도 아이템_장난감_관측도구_우타하",
       "NameKr": "천체망원경",
       "DescriptionKr": "키보토스 공식천문관측협회에서 표준 관측용 취미 장비로 채택하고 있는 천체망원경.",
       "NameJp": "天体望遠鏡",
@@ -6962,7 +6962,7 @@
     },
     {
       "Key": 3391000326,
-      "DevName": "호감도 아이템_태그_취미용품",
+      "DevName": "호감도 아이템_전자기기_게임_모모이",
       "NameKr": "게임걸 컬러 복각판",
       "DescriptionKr": "<당신의 여가 시간을 더욱 아케이틱하게!>\n과거 시대를 풍미한 유명 고전 게임기 게임걸 컬러의 복각판.",
       "NameJp": "ゲームガールカラー復刻版",
@@ -6970,7 +6970,7 @@
     },
     {
       "Key": 2936755317,
-      "DevName": "호감도 아이템_태그_기호식품",
+      "DevName": "호감도 아이템_디저트_밀리터리",
       "NameKr": "MX-레이션 C형 디저트 맛",
       "DescriptionKr": "칼로리가 곧 전투력!",
       "NameJp": "MX-レーションC型デザート風味",
@@ -6978,7 +6978,7 @@
     },
     {
       "Key": 1249782817,
-      "DevName": "호감도 아이템_태그_기호식품",
+      "DevName": "호감도 아이템_디저트_괴식",
       "NameKr": "말차맛 라무네",
       "DescriptionKr": "독특한 풍미를 가진 말차맛 탄산음료. \n초록빛의 상쾌함을 맛보세요!",
       "NameJp": "抹茶味の瓶ラムネ",
@@ -6986,15 +6986,15 @@
     },
     {
       "Key": 2902432180,
-      "DevName": "호감도 아이템_태그_패션",
+      "DevName": "호감도 아이템_침구_젤리즈_세리나_미도리",
       "NameKr": "젤리즈 쿠션",
       "DescriptionKr": "고전 게임 '후루젤리' 시리즈의 주인공을 마침내 굿즈화!\n같은 색 젤리가 젤리를 잡아먹는 기믹 또한 충실히 구현!",
-      "NameJp": "ゼリーズクッション",
+      "NameJp": "ゼリーズの枕",
       "DescriptionJp": "あの「フルゼリー」シリーズの主人公がついにグッズ化！\nあの同じ色のゼリーが集まった時の挙動も忠実に再現！"
     },
     {
       "Key": 1148052880,
-      "DevName": "호감도 아이템_태그_서적",
+      "DevName": "호감도 아이템_서적_추리물_시미코",
       "NameKr": "초절 토끼 탐정~안개로 가려진 온천 미끄덩 사건~",
       "DescriptionKr": "사건의 낌새가 들려온다면 높게 쳐든 순백의 귀는 절대로 놓치지 않는다!초절 토끼 탐정 시리즈 제3편!\n이번 무대는 온천이다!",
       "NameJp": "跳躍探偵ウサギ\n〜霧に包まれた温泉での滑落〜",
@@ -7002,7 +7002,7 @@
     },
     {
       "Key": 1561623078,
-      "DevName": "호감도 아이템_태그_운동용품",
+      "DevName": "호감도 아이템_운동기구_게임_스미레",
       "NameKr": "O-오피트",
       "DescriptionKr": "<게임으로 즐겁게 운동하자!>\nO-링을 활용해, 간편하게 집에서 운동을 즐기기 위한 도구.\n근력운동, 다이어트, 무엇이든 가능!",
       "NameJp": "O-フィット",
@@ -7010,15 +7010,15 @@
     },
     {
       "Key": 293569137,
-      "DevName": "호감도 아이템_태그_귀중품",
+      "DevName": "호감도 아이템_골동품_로망_호시노",
       "NameKr": "매장금의 지도",
-      "DescriptionKr": "보물은 반드시 있다!\n키보토스 3대 매장금을 표시했다는 지도. 장난감 가게에서 팔고 있다.",
+      "DescriptionKr": "보물은 반드시 있다!\n키보토스 3대 매장금을 표시했다는 지도.",
       "NameJp": "埋蔵金の地図",
-      "DescriptionJp": "探せ！この世の全てがそこにある！\nキヴォトスの三大埋蔵金の在り処を示しているという地図。おもちゃ屋さんでたくさん売っている。"
+      "DescriptionJp": "探せ！この世の全てがそこにある！\nキヴォトスの三大埋蔵金の在り処を示していると言われている地図。割といろんなところで売られてる。"
     },
     {
       "Key": 3310161849,
-      "DevName": "호감도 아이템_태그_취미용품",
+      "DevName": "호감도 아이템_장난감_괴짜_네루_무츠키",
       "NameKr": "코스프레용 뱅뱅이 안경",
       "DescriptionKr": "이것만 쓰면 당신도 지니어스!\n쓰기만 해도 (겉모습은) 천재가 될 수 있는 안경.\n※ 주의 : 착용한다고 IQ가 올라가진 않습니다.",
       "NameJp": "コスプレ用ぐるぐるメガネ",
@@ -7026,7 +7026,7 @@
     },
     {
       "Key": 1301636205,
-      "DevName": "호감도 아이템_태그_취미용품",
+      "DevName": "호감도 아이템_골동품_불가해_히나",
       "NameKr": "세상에서 가장 쓸데없는 기계",
       "DescriptionKr": "쓸데없다. 그러나 귀엽다! 하지만 역시 쓸모없다! 그래도 귀여우니 괜찮아! 특별한 날 선물하기 좋은 장난감 top5에 들어가는 화제의 장난감.",
       "NameJp": "世界で最も無駄な絡繰りボックス",
@@ -7116,9 +7116,9 @@
       "Key": 3308377822,
       "DevName": "RecruitCoin_0",
       "NameKr": "모집 포인트",
-      "DescriptionKr": "픽업 모집 기간동안, 모집을 진행할 때마다 모집 포인트를 획득합니다.\n모집 포인트를 모아서 픽업 학생을 얻을 수 있습니다.",
+      "DescriptionKr": "픽업 모집 기간동안, 모집을 진행할 때마다 모집 포인트를 획득합니다. 모집 포인트를 모아서 픽업 학생을 얻을 수 있습니다.\n※픽업 기간이 지나면 포인트는 기동석 조각으로 변환됩니다.",
       "NameJp": "呼び出しポイント",
-      "DescriptionJp": "ピックアップ募集期間中は、ピックアップ募集を行うごとに「呼び出しポイント」を獲得できます。\n「呼び出しポイント」を集めることで、ピックアップ対象の生徒を直接呼び出して受け入れることができます。"
+      "DescriptionJp": "ピックアップ募集期間中は、募集を行うごとに「呼び出しポイント」を獲得できます。「呼び出しポイント」を集めることで、ピックアップ対象の生徒を直接呼び出して受け入れることができます。\n※ピックアップ期間が終了すると、呼び出しポイントはキーストーンのカケラに変換されます。"
     },
     {
       "Key": 3125687171,
@@ -7630,7 +7630,7 @@
       "NameKr": "튤립",
       "DescriptionKr": "서적 선물을 생성할 수 있습니다.",
       "NameJp": "チューリップ",
-      "DescriptionJp": "書籍プレゼントを作成することができます。"
+      "DescriptionJp": "書籍の贈り物を生成することができます。"
     },
     {
       "Key": 980436836,
@@ -7638,7 +7638,7 @@
       "NameKr": "모란",
       "DescriptionKr": "침구 선물을 생성할 수 있습니다.",
       "NameJp": "牡丹",
-      "DescriptionJp": "寝具のプレゼントを作成することができます。"
+      "DescriptionJp": "寝具類の贈り物を生成することができます。"
     },
     {
       "Key": 2705468474,
@@ -7761,7 +7761,7 @@
       "DescriptionJp": "(x)"
     },
     {
-      "Key": 2809362206,
+      "Key": 1999578098,
       "DevName": "다시보기UI에 나올 요일던전 입장 - 현상 수배 타이틀",
       "NameKr": "현상 수배",
       "DescriptionKr": "(x)",
@@ -7769,7 +7769,7 @@
       "DescriptionJp": "(x)"
     },
     {
-      "Key": 622770939,
+      "Key": 439996605,
       "DevName": "다시보기UI에 나올 요일던전 최초 클리어 - 현상수배 타이틀",
       "NameKr": "현상 수배 완료",
       "DescriptionKr": "(x)",
@@ -7798,6 +7798,14 @@
       "NameKr": "물건 회수 완료",
       "DescriptionKr": "(x)",
       "NameJp": "回収済み",
+      "DescriptionJp": "(x)"
+    },
+    {
+      "Key": 4282835081,
+      "DevName": "다시보기UI에 나올 크래프트 챔버 최초 입장",
+      "NameKr": "제조",
+      "DescriptionKr": "(x)",
+      "NameJp": "製造",
       "DescriptionJp": "(x)"
     },
     {
@@ -8479,6 +8487,14 @@
       "DescriptionKr": "(X)",
       "NameJp": "家具",
       "DescriptionJp": "(X)"
+    },
+    {
+      "Key": 1720914481,
+      "DevName": "카페 가구 - 발렌타인",
+      "NameKr": "발렌타인",
+      "DescriptionKr": "카페 가구를 생성할 수 있습니다. (발렌타인 테마)",
+      "NameJp": "バレンタインシリーズ",
+      "DescriptionJp": "カフェの家具（バレンタインシリーズ）を生成することができます。"
     }
   ]
 }

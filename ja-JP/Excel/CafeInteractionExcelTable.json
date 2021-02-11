@@ -529,6 +529,22 @@
       "FavorEmoticonRewardAmount": 15
     },
     {
+      "CharacterId": 20003,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
+    },
+    {
       "CharacterId": 23000,
       "BubbleType": [
         "EmoticonFavorite",

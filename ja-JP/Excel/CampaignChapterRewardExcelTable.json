@@ -68,20 +68,16 @@
       "Id": 5,
       "DevName": "CampaignChapterReward_Ch03_Normal",
       "ChapterRewardParcelType": [
-        "Currency",
-        "Item"
+        "Currency"
       ],
       "ChapterRewardId": [
-        3,
-        30
+        3
       ],
       "ChapterRewardDevName": [
-        "gem_bonus",
-        "CafeRankUp_0"
+        "gem_bonus"
       ],
       "ChapterRewardAmount": [
-        200,
-        1
+        200
       ]
     },
     {
@@ -168,20 +164,16 @@
       "Id": 11,
       "DevName": "CampaignChapterReward_Ch06_Normal",
       "ChapterRewardParcelType": [
-        "Currency",
-        "Item"
+        "Currency"
       ],
       "ChapterRewardId": [
-        3,
-        30
+        3
       ],
       "ChapterRewardDevName": [
-        "gem_bonus",
-        "CafeRankUp_1"
+        "gem_bonus"
       ],
       "ChapterRewardAmount": [
-        200,
-        1
+        200
       ]
     },
     {
@@ -268,20 +260,16 @@
       "Id": 17,
       "DevName": "CampaignChapterReward_Ch09_Normal",
       "ChapterRewardParcelType": [
-        "Currency",
-        "Item"
+        "Currency"
       ],
       "ChapterRewardId": [
-        3,
-        30
+        3
       ],
       "ChapterRewardDevName": [
-        "gem_bonus",
-        "CafeRankUp_2"
+        "gem_bonus"
       ],
       "ChapterRewardAmount": [
-        200,
-        1
+        200
       ]
     },
     {
@@ -368,20 +356,16 @@
       "Id": 23,
       "DevName": "CampaignChapterReward_Ch12_Normal",
       "ChapterRewardParcelType": [
-        "Currency",
-        "Item"
+        "Currency"
       ],
       "ChapterRewardId": [
-        3,
-        31
+        3
       ],
       "ChapterRewardDevName": [
-        "gem_bonus",
-        "CafeRankUp_3"
+        "gem_bonus"
       ],
       "ChapterRewardAmount": [
-        200,
-        1
+        200
       ]
     },
     {

@@ -24,6 +24,58 @@
     },
     {
       "Id": 50000,
+      "DevName": "테스트 일반가챠",
+      "CategoryType": "NormalGacha",
+      "IsLegacy": false,
+      "GoodsId": [
+        30000,
+        30001
+      ],
+      "GoodsDevName": null,
+      "DisplayOrder": 30,
+      "MovieBannerPath": [
+        "Gacha_Banner_Normal.mp4"
+      ],
+      "LinkedRobbyBannerId": 1,
+      "InfoCharacterId": [],
+      "SalePeriodFrom": "01/04/2021 12:00:00",
+      "SalePeriodTo": "02/04/2021 10:00:00",
+      "RecruitCoinId": 70000,
+      "RecruitSellectionShopId": 10000,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 50001,
+      "DevName": "테스트 픽업 가챠(시로코+호시노)",
+      "CategoryType": "PickupGacha",
+      "IsLegacy": false,
+      "GoodsId": [
+        30004,
+        30005
+      ],
+      "GoodsDevName": null,
+      "DisplayOrder": 10,
+      "MovieBannerPath": [
+        "Gacha_Banner_210204_1.mp4",
+        "Gacha_Banner_210204_2.mp4"
+      ],
+      "LinkedRobbyBannerId": 3,
+      "InfoCharacterId": [
+        10010,
+        10005
+      ],
+      "SalePeriodFrom": "01/04/2021 12:00:00",
+      "SalePeriodTo": "02/04/2021 10:00:00",
+      "RecruitCoinId": 70000,
+      "RecruitSellectionShopId": 10000,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 50002,
       "DevName": "1차 일반 가챠",
       "CategoryType": "NormalGacha",
       "IsLegacy": false,
@@ -38,8 +90,8 @@
       ],
       "LinkedRobbyBannerId": 1,
       "InfoCharacterId": [],
-      "SalePeriodFrom": "11/20/2020 15:30:00",
-      "SalePeriodTo": "02/11/2021 15:29:59",
+      "SalePeriodFrom": "02/04/2021 12:00:00",
+      "SalePeriodTo": "02/11/2021 13:59:59",
       "RecruitCoinId": 70000,
       "RecruitSellectionShopId": 10000,
       "PurchaseCooltimeMin": 0,
@@ -47,31 +99,7 @@
       "PurchaseCountResetType": "None"
     },
     {
-      "Id": 50001,
-      "DevName": "2차 일반 가챠",
-      "CategoryType": "NormalGacha",
-      "IsLegacy": false,
-      "GoodsId": [
-        30002,
-        30003
-      ],
-      "GoodsDevName": null,
-      "DisplayOrder": 30,
-      "MovieBannerPath": [
-        "Gacha_Banner_Normal.mp4"
-      ],
-      "LinkedRobbyBannerId": 2,
-      "InfoCharacterId": [],
-      "SalePeriodFrom": "02/11/2021 15:30:30",
-      "SalePeriodTo": "02/25/2021 15:29:59",
-      "RecruitCoinId": 70001,
-      "RecruitSellectionShopId": 10001,
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 0,
-      "PurchaseCountResetType": "None"
-    },
-    {
-      "Id": 50002,
+      "Id": 50003,
       "DevName": "1차 픽업 가챠(시로코+호시노)",
       "CategoryType": "PickupGacha",
       "IsLegacy": false,
@@ -90,8 +118,8 @@
         10010,
         10005
       ],
-      "SalePeriodFrom": "11/20/2020 15:30:00",
-      "SalePeriodTo": "02/11/2021 15:29:59",
+      "SalePeriodFrom": "02/04/2021 12:00:00",
+      "SalePeriodTo": "02/11/2021 13:59:59",
       "RecruitCoinId": 70000,
       "RecruitSellectionShopId": 10000,
       "PurchaseCooltimeMin": 0,
@@ -99,7 +127,31 @@
       "PurchaseCountResetType": "None"
     },
     {
-      "Id": 50003,
+      "Id": 50004,
+      "DevName": "2차 일반 가챠",
+      "CategoryType": "NormalGacha",
+      "IsLegacy": false,
+      "GoodsId": [
+        30002,
+        30003
+      ],
+      "GoodsDevName": null,
+      "DisplayOrder": 30,
+      "MovieBannerPath": [
+        "Gacha_Banner_Normal.mp4"
+      ],
+      "LinkedRobbyBannerId": 2,
+      "InfoCharacterId": [],
+      "SalePeriodFrom": "02/11/2021 15:00:00",
+      "SalePeriodTo": "02/25/2021 14:01:00",
+      "RecruitCoinId": 70001,
+      "RecruitSellectionShopId": 10001,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 50005,
       "DevName": "2차 픽업 가챠(마시로)",
       "CategoryType": "PickupGacha",
       "IsLegacy": false,
@@ -116,8 +168,8 @@
       "InfoCharacterId": [
         20003
       ],
-      "SalePeriodFrom": "02/11/2021 15:30:30",
-      "SalePeriodTo": "02/25/2021 15:29:59",
+      "SalePeriodFrom": "02/11/2021 15:00:00",
+      "SalePeriodTo": "02/25/2021 14:01:00",
       "RecruitCoinId": 70001,
       "RecruitSellectionShopId": 10001,
       "PurchaseCooltimeMin": 0,

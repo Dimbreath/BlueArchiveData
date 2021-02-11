@@ -440,6 +440,13 @@
       "MissionId": 0,
       "TextId": 698214560,
       "LifeTime": 3000
+    },
+    {
+      "Id": 1981532632,
+      "ToastType": "Social_Center",
+      "MissionId": 0,
+      "TextId": 2502128915,
+      "LifeTime": 3000
     }
   ]
 }
