@@ -7,778 +7,778 @@
       "Volume": 0.0,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 1,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 01_Mitsukiyo 01_Constant Moderato (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_01_Mitsukiyo_01_Constant_Moderato_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 2,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 02_Mitsukiyo 02_Luminous memory (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_02_Mitsukiyo_02_Luminous_memory_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 3,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 03_Mitsukiyo 03_Mischievous Step (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_03_Mitsukiyo_03_Mischievous_Step_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 4,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 04_Mitsukiyo 04_Lovely Picnic (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_04_Mitsukiyo_04_Lovely_Picnic_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 5,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 05_KARUT 01_Colorful Mess (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_05_KARUT_01_Colorful_Mess_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 6,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 06_KARUT 02_Funky Road (-1dB)",
-      "Volume": 1.0,
-      "LoopStartTime": 18.64,
-      "LoopEndTime": 130.485,
-      "LoopTranstionTime": 0.2
+      "Path": "Audio/BGM/Theme_06_KARUT_02_Funky_Road_(-1dB)",
+      "Volume": 1.03390346E-13,
+      "LoopStartTime": 1.0343737E-13,
+      "LoopEndTime": 1.0363456E-13,
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 7,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 07_Mitsukiyo 05_Unwelcome School (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_07_Mitsukiyo_05_Unwelcome_School_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 8,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 08_Mituskiyo 06_Shady Girls (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_08_Mituskiyo_06_Shady_Girls_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 9,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 09_Mitsukiyo 07_Midsummer cat (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_09_Mitsukiyo_07_Midsummer_cat_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 10,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 10_Mitsukiyo 08_Romantic Smile (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_10_Mitsukiyo_08_Romantic_Smile_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 11,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 11_KARUT 03_Connected Sky (-1dB)",
-      "Volume": 1.0,
-      "LoopStartTime": 57.744,
-      "LoopEndTime": 115.488,
-      "LoopTranstionTime": 0.2
+      "Path": "Audio/BGM/Theme_11_KARUT_03_Connected_Sky_(-1dB)",
+      "Volume": 1.03390346E-13,
+      "LoopStartTime": 1.0320095E-13,
+      "LoopEndTime": 1.0378334E-13,
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 12,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 12_KARUT 04_Shooting Stars (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_12_KARUT_04_Shooting_Stars_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 13,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 13_KARUT 05_Barrier (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_13_KARUT_05_Barrier_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 14,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 14_KARUT 06_Step by Step (-1dB)",
-      "Volume": 1.0,
-      "LoopStartTime": 64.0,
-      "LoopEndTime": 128.0,
-      "LoopTranstionTime": 0.2
+      "Path": "Audio/BGM/Theme_14_KARUT_06_Step_by_Step_(-1dB)",
+      "Volume": 1.03390346E-13,
+      "LoopStartTime": 1.030567E-13,
+      "LoopEndTime": 1.0362168E-13,
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 15,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 15_Mitsukiyo 09_Honey Jam (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_15_Mitsukiyo_09_Honey_Jam_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 16,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 16_Mitsukiyo 10_MX Adventure (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_16_Mitsukiyo_10_MX_Adventure_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 17,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 17_Mitsukiyo 11_Irasshaimase (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_17_Mitsukiyo_11_Irasshaimase_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 18,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 18_KARUT 07_Mechanical JUNGLE (-1dB)",
-      "Volume": 1.0,
-      "LoopStartTime": 66.206,
-      "LoopEndTime": 119.172,
-      "LoopTranstionTime": 0.2
+      "Path": "Audio/BGM/Theme_18_KARUT_07_Mechanical_JUNGLE_(-1dB)",
+      "Volume": 1.03390346E-13,
+      "LoopStartTime": 1.03072824E-13,
+      "LoopEndTime": 1.03793466E-13,
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 19,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 19_KARUT 08_Virtual Storm (-1dB)",
-      "Volume": 1.0,
-      "LoopStartTime": 27.428,
-      "LoopEndTime": 123.428,
-      "LoopTranstionTime": 0.2
+      "Path": "Audio/BGM/Theme_19_KARUT_08_Virtual_Storm_(-1dB)",
+      "Volume": 1.03390346E-13,
+      "LoopStartTime": 1.0325205E-13,
+      "LoopEndTime": 1.03770894E-13,
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 20,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 20_KARUT 09_Tech N Tech (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_20_KARUT_09_Tech_N_Tech_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 21,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 21_Nor 01_Midnight Trip (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_21_Nor_01_Midnight_Trip_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 22,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 22_Nor 02_Daily Routine 247 (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_22_Nor_02_Daily_Routine_247_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 23,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 23_Mitsukiyo 12_Party time (-1dB)",
-      "Volume": 0.85,
-      "LoopStartTime": 32.609,
-      "LoopEndTime": 76.087,
-      "LoopTranstionTime": 0.2
+      "Path": "Audio/BGM/Theme_23_Mitsukiyo_12_Party_time_(-1dB)",
+      "Volume": 1.0339285E-13,
+      "LoopStartTime": 1.0333568E-13,
+      "LoopEndTime": 1.0313152E-13,
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 24,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 24_Mitsukiyo 13_Endless Carnival(All) (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_24_Mitsukiyo_13_Endless_Carnival(All)_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 25,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 25_Mitsukiyo 14_Future Bossa (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_25_Mitsukiyo_14_Future_Bossa_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 26,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 26_Mitsukiyo 15_Lemonade Diary (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_26_Mitsukiyo_15_Lemonade_Diary_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 27,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 27_KARUT 10_Fade Out (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_27_KARUT_10_Fade_Out_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 28,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 28_KARUT 11_Plug and Play (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_28_KARUT_11_Plug_and_Play_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 29,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 29_KARUT 12_Alert (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_29_KARUT_12_Alert_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 30,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 30_KARUT 13_CorssFire (-1dB)",
-      "Volume": 1.0,
-      "LoopStartTime": 12.0,
-      "LoopEndTime": 109.5,
-      "LoopTranstionTime": 0.2
+      "Path": "Audio/BGM/Theme_30_KARUT_13_CorssFire_(-1dB)",
+      "Volume": 1.03390346E-13,
+      "LoopStartTime": 1.0345877E-13,
+      "LoopEndTime": 1.03745774E-13,
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 31,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 31_Nor 03_Hello to Halo (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_31_Nor_03_Hello_to_Halo_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 32,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 32_Nor 04_GGF (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_32_Nor_04_GGF_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 33,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 33_Nor 05_Vivid Night (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_33_Nor_05_Vivid_Night_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 34,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 34_Nor 06_Aoharu (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_34_Nor_06_Aoharu_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 35,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 35_Mitsukiyo 16_Morose Dreamer (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_35_Mitsukiyo_16_Morose_Dreamer_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 36,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 36_Mitsukiyo 17_Koi is love (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_36_Mitsukiyo_17_Koi_is_love_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 37,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 37_Mitsukiyo 18_Aira (-0dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_37_Mitsukiyo_18_Aira_(-0dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 38,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 38_Mitsukiyo 19_Guruguru Usagi (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_38_Mitsukiyo_19_Guruguru_Usagi_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 39,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 39_KARUT 14_Water Drop (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_39_KARUT_14_Water_Drop_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 40,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 40_KARUT 15_Neo City Dive (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_40_KARUT_15_Neo_City_Dive_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 41,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 41_KARUT 16_Interface (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_41_KARUT_16_Interface_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 42,
       "ProductionStep": "Complete",
-      "Path": "Audio/BGM/Theme 42_KARUT 17_Glich Street (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_42_KARUT_17_Glich_Street_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 43,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 43_Nor 07_KIRISAME (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_43_Nor_07_KIRISAME_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 44,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 44_Nor 08_Walkthrough (-1db)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_44_Nor_08_Walkthrough_(-1db)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 45,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 45_Nor 09_Signal of Abydos (-1db)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_45_Nor_09_Signal_of_Abydos_(-1db)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 46,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 46_Nor 10_Sugar story (-1db)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_46_Nor_10_Sugar_story_(-1db)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 47,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 47_Mitsukiyo 20_Coffee Cats (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_47_Mitsukiyo_20_Coffee_Cats_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 48,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 48_KARUT 18_Out of Control(All)  (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_48_KARUT_18_Out_of_Control(All)__(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 49,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 49_KARUT 19_Mechanical JUNGLE (Hi-Tech Full On MIX) (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_49_KARUT_19_Mechanical_JUNGLE_(Hi-Tech_Full_On_MIX)_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 50,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 50_KARUT 20_Hue (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_50_KARUT_20_Hue_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 51,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 51_Nor_11_ARES_-1dB",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_51_Nor_11_ARES_-1dB",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 52,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 52_Nor_12_Vibes_-1dB",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_52_Nor_12_Vibes_-1dB",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 53,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 53_Nor_13_Future Lab_-1dB",
-      "Volume": 1.0,
-      "LoopStartTime": 12.0,
-      "LoopEndTime": 120.0,
-      "LoopTranstionTime": 0.2
+      "Path": "Audio/BGM/Theme_53_Nor_13_Future_Lab_-1dB",
+      "Volume": 1.03390346E-13,
+      "LoopStartTime": 1.0345877E-13,
+      "LoopEndTime": 1.038011E-13,
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 54,
       "ProductionStep": "Release",
       "Path": "Audio/BGM/Theme_54_Nor_14_After_the_Beep_(-1dB)",
-      "Volume": 1.0,
-      "LoopStartTime": 47.407,
-      "LoopEndTime": 118.518,
-      "LoopTranstionTime": 0.2
+      "Volume": 1.03390346E-13,
+      "LoopStartTime": 1.0314639E-13,
+      "LoopEndTime": 1.0379678E-13,
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 55,
       "ProductionStep": "Release",
       "Path": "Audio/BGM/Theme_55_Nor_15_Moment_(-1dB)",
-      "Volume": 1.0,
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 56,
       "ProductionStep": "Release",
       "Path": "Audio/BGM/Theme_56_Nor_16_Fearful_Utopia(-1dB)",
-      "Volume": 1.0,
-      "LoopStartTime": 16.744,
-      "LoopEndTime": 117.209,
-      "LoopTranstionTime": 0.2
+      "Volume": 1.03390346E-13,
+      "LoopStartTime": 1.0341802E-13,
+      "LoopEndTime": 1.0378984E-13,
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 57,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "Path": "Audio/BGM/Theme_57_Nor_17_Han-nari(-1dB)",
-      "Volume": 1.0,
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 58,
       "ProductionStep": "Release",
       "Path": "Audio/BGM/Theme_58_Nor_18_SAKURA_PUNCH(-1dB)",
-      "Volume": 1.0,
-      "LoopStartTime": 45.0,
-      "LoopEndTime": 120.0,
-      "LoopTranstionTime": 0.2
+      "Volume": 1.03390346E-13,
+      "LoopStartTime": 1.03185045E-13,
+      "LoopEndTime": 1.038011E-13,
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 61,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 61_Mitsukiyo_21_rolling_beat (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_61_Mitsukiyo_21_rolling_beat_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 62,
       "ProductionStep": "Complete",
-      "Path": "Audio/BGM/Theme 62_Mitsukiyo_22_merry_blue (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_62_Mitsukiyo_22_merry_blue_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 63,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme_63_Mitsukiyo_23_Blooming moon_(-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_63_Mitsukiyo_23_Blooming_moon_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 64,
       "ProductionStep": "Complete",
       "Path": "Audio/BGM/Theme_64_Mitsukiyo_24_Pixel_time_(-1dB)",
-      "Volume": 1.0,
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 65,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 65_KARUT_21_Accelerator (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_65_KARUT_21_Accelerator_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 66,
       "ProductionStep": "Release",
       "Path": "Audio/BGM/Theme_66_KARUT_22_Golden_Shangri-la_(-1dB)",
-      "Volume": 1.0,
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 67,
       "ProductionStep": "Release",
       "Path": "Audio/BGM/Theme_67_KARUT_23_someday,_sometime_(-1dB)",
-      "Volume": 1.0,
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 68,
       "ProductionStep": "Release",
       "Path": "Audio/BGM/Theme_68_Mitsukiyo_25_Virtual_Storm_Hard_Arrange(-1dB)",
-      "Volume": 1.0,
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 69,
       "ProductionStep": "Release",
       "Path": "Audio/BGM/Theme_69_Mitsukiyo_26_Snow_pantomime(-1dB)",
-      "Volume": 1.0,
-      "LoopStartTime": 11.566,
-      "LoopEndTime": 138.795,
-      "LoopTranstionTime": 0.2
+      "Volume": 1.03390346E-13,
+      "LoopStartTime": 1.0344546E-13,
+      "LoopEndTime": 1.03675566E-13,
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 70,
       "ProductionStep": "Release",
       "Path": "Audio/BGM/Theme_70_KARUT_24_Black_Suit(-1dB)",
-      "Volume": 1.0,
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 71,
       "ProductionStep": "Release",
       "Path": "Audio/BGM/Theme_71_KARUT_25_Denshi_Toujou!(-1dB)",
-      "Volume": 1.0,
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 72,
       "ProductionStep": "Complete",
       "Path": "Audio/BGM/Theme_72_KARUT_26_Kaiten_Screw!!!(-1dB)",
-      "Volume": 1.0,
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 73,
       "ProductionStep": "Release",
       "Path": "Audio/BGM/Theme_73_Mitsukiyo_27_Interface_Hard_Arrange(-1dB)",
-      "Volume": 1.0,
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 74,
       "ProductionStep": "Release",
       "Path": "Audio/BGM/Theme_74_KARUT_27_Tech_N_Tech_Hard_Arrange(-1dB)",
-      "Volume": 1.0,
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
-      "LoopEndTime": 118.4,
-      "LoopTranstionTime": 0.2
+      "LoopEndTime": 1.0379567E-13,
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 75,
       "ProductionStep": "Release",
       "Path": "Audio/BGM/Theme_75_KARUT_28_Alert_Hard_Arrange(-1dB)",
-      "Volume": 1.0,
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
-      "LoopEndTime": 119.172,
-      "LoopTranstionTime": 0.2
+      "LoopEndTime": 1.03793466E-13,
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 76,
       "ProductionStep": "Release",
       "Path": "Audio/BGM/Theme_76_KARUT_29_CrossFire_Hard_Arrange(-1dB)",
-      "Volume": 1.0,
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
-      "LoopEndTime": 134.068,
-      "LoopTranstionTime": 0.2
+      "LoopEndTime": 1.036017E-13,
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 77,
       "ProductionStep": "Complete",
       "Path": "Audio/BGM/Theme_77_Mitsukiyo_28_burning_love(-1dB)",
-      "Volume": 1.0,
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 78,
       "ProductionStep": "Complete",
       "Path": "Audio/BGM/Theme_78_KARUT_30_Fevertime(-1dB)",
-      "Volume": 1.0,
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 82,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 82_Mitsukiyo M25_Hifumi Daisuki (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_82_Mitsukiyo_M25_Hifumi_Daisuki_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 101,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 24_Mitsukiyo 13_Endless Carnival 01 (intro) (-1dB)",
-      "Volume": 1.0,
-      "LoopStartTime": 11.851,
-      "LoopEndTime": 23.703,
-      "LoopTranstionTime": 0.2
+      "Path": "Audio/BGM/Theme_24_Mitsukiyo_13_Endless_Carnival_01_(intro)_(-1dB)",
+      "Volume": 1.03390346E-13,
+      "LoopStartTime": 1.0345781E-13,
+      "LoopEndTime": 1.032978E-13,
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 102,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 24_Mitsukiyo 13_Endless Carnival 02 (verse) (-1dB)",
-      "Volume": 1.0,
-      "LoopStartTime": 23.703,
-      "LoopEndTime": 59.259,
-      "LoopTranstionTime": 0.2
+      "Path": "Audio/BGM/Theme_24_Mitsukiyo_13_Endless_Carnival_02_(verse)_(-1dB)",
+      "Volume": 1.03390346E-13,
+      "LoopStartTime": 1.032978E-13,
+      "LoopEndTime": 1.03208545E-13,
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 103,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 24_Mitsukiyo 13_Endless Carnival 03 (Chorus) (-1dB)",
-      "Volume": 1.0,
-      "LoopStartTime": 23.703,
-      "LoopEndTime": 59.259,
-      "LoopTranstionTime": 0.2
+      "Path": "Audio/BGM/Theme_24_Mitsukiyo_13_Endless_Carnival_03_(Chorus)_(-1dB)",
+      "Volume": 1.03390346E-13,
+      "LoopStartTime": 1.032978E-13,
+      "LoopEndTime": 1.03208545E-13,
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 104,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 24_Mitsukiyo 13_Endless Carnival(All) (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_24_Mitsukiyo_13_Endless_Carnival(All)_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 201,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 48_KARUT 18_Out of Control 01 (Intro) (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_48_KARUT_18_Out_of_Control_01_(Intro)_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 202,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 48_KARUT 18_Out of Control 02 (Verse) (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_48_KARUT_18_Out_of_Control_02_(Verse)_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 203,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 48_KARUT 18_Out of Control 03 (Chorus) (-1dB)",
-      "Volume": 1.0,
-      "LoopStartTime": 10.786,
-      "LoopEndTime": 43.146,
-      "LoopTranstionTime": 0.2
+      "Path": "Audio/BGM/Theme_48_KARUT_18_Out_of_Control_03_(Chorus)_(-1dB)",
+      "Volume": 1.03390346E-13,
+      "LoopStartTime": 1.03451305E-13,
+      "LoopEndTime": 1.03168986E-13,
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 204,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 48_KARUT 18_Out of Control(All)  (-1dB)",
-      "Volume": 1.0,
-      "LoopStartTime": 43.146,
-      "LoopEndTime": 129.438,
-      "LoopTranstionTime": 0.2
+      "Path": "Audio/BGM/Theme_48_KARUT_18_Out_of_Control(All)__(-1dB)",
+      "Volume": 1.03390346E-13,
+      "LoopStartTime": 1.03168986E-13,
+      "LoopEndTime": 1.03625496E-13,
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 301,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 34_Nor 06_Aoharu (-1dB)",
-      "Volume": 1.0,
+      "Path": "Audio/BGM/Theme_34_Nor_06_Aoharu_(-1dB)",
+      "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
       "LoopTranstionTime": 0.0
@@ -786,20 +786,20 @@
     {
       "Id": 10082,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 82_Mitsukiyo M25_Hifumi Daisuki (-1dB)",
-      "Volume": 0.5,
+      "Path": "Audio/BGM/Theme_82_Mitsukiyo_M25_Hifumi_Daisuki_(-1dB)",
+      "Volume": 1.0339463E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.2
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 10034,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme 34_Nor 06_Aoharu (-1dB)",
-      "Volume": 1.0,
-      "LoopStartTime": 44.35,
-      "LoopEndTime": 107.5,
-      "LoopTranstionTime": 1.0
+      "Path": "Audio/BGM/Theme_34_Nor_06_Aoharu_(-1dB)",
+      "Volume": 1.03390346E-13,
+      "LoopStartTime": 1.0317472E-13,
+      "LoopEndTime": 1.0374235E-13,
+      "LoopTranstionTime": 1.03390346E-13
     }
   ]
 }

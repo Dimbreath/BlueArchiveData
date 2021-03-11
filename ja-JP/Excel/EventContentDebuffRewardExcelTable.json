@@ -1,0 +1,16 @@
+{
+  "DataList": [
+    {
+      "EventContentId": 10001,
+      "DebuffSelectCount": 1,
+      "EventContentItemType": "EventPoint",
+      "RewardPercentage": 1000
+    },
+    {
+      "EventContentId": 10001,
+      "DebuffSelectCount": 2,
+      "EventContentItemType": "EventPoint",
+      "RewardPercentage": 1000
+    }
+  ]
+}

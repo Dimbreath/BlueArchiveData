@@ -127,6 +127,24 @@
       "TransitionInResource": "Effect/UI/BGFX/UI_FX_CircleTransition_Out"
     },
     {
+      "Name": 259497043,
+      "TransitionOut": "fade",
+      "TransitionOutDuration": 1,
+      "TransitionOutResource": null,
+      "TransitionIn": "fade",
+      "TransitionInDuration": 4000,
+      "TransitionInResource": null
+    },
+    {
+      "Name": 1272583944,
+      "TransitionOut": "fade",
+      "TransitionOutDuration": 4000,
+      "TransitionOutResource": null,
+      "TransitionIn": "fade",
+      "TransitionInDuration": 1,
+      "TransitionInResource": null
+    },
+    {
       "Name": 3222392982,
       "TransitionOut": "fade",
       "TransitionOutDuration": 1,

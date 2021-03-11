@@ -632,7 +632,7 @@
     },
     {
       "Id": 5000,
-      "DevName": "(적군) 헤세드 자코, 드론, 중간보스 전용 AI (최단거리, 엄폐안함)",
+      "DevName": "(적군) 헤세드 자코, 드론 전용 AI (최단거리, 엄폐안함)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 50000,
@@ -640,6 +640,20 @@
       "DistanceReduceRatioFormationPath": 10000,
       "DistanceReduceFormationPath": 0,
       "MinimumPositionGap": 100,
+      "CanUseObstacleOfKneelMotion": false,
+      "CanUseObstacleOfStandMotion": false,
+      "HasTargetSwitchingMotion": true
+    },
+    {
+      "Id": 5001,
+      "DevName": "(적군) 중간보스 전용 AI (최단거리, 엄폐안함)",
+      "EngageType": "SearchAndMove",
+      "Positioning": "CloseToTarget",
+      "DistanceReduceRatioObstaclePath": 50000,
+      "DistanceReduceObstaclePath": 500,
+      "DistanceReduceRatioFormationPath": 10000,
+      "DistanceReduceFormationPath": 0,
+      "MinimumPositionGap": 50,
       "CanUseObstacleOfKneelMotion": false,
       "CanUseObstacleOfStandMotion": false,
       "HasTargetSwitchingMotion": true

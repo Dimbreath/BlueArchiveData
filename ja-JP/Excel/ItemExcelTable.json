@@ -4218,8 +4218,7 @@
         "FavorItem",
         "Books",
         "Game",
-        "F_Hare",
-        "F_Aris"
+        "F_Hare"
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
@@ -4443,8 +4442,7 @@
       "Tags": [
         "FavorItem",
         "Electronic",
-        "Game",
-        "F_Momoi"
+        "Game"
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
@@ -4538,8 +4536,7 @@
         "FavorItem",
         "Bedding",
         "Jellyz",
-        "F_Serina",
-        "F_Midori"
+        "F_Serina"
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
@@ -4701,6 +4698,451 @@
         "Curios",
         "Mystery",
         "F_Hina"
+      ],
+      "CraftQuality": 20,
+      "ShopCategory": [],
+      "ExpirationDateTime": null
+    },
+    {
+      "Id": 5020,
+      "DevName": "Favor_20",
+      "Rarity": "SR",
+      "ProductionStep": "Doing",
+      "LocalizeEtcId": 535298119,
+      "ItemCategory": "Favor",
+      "Quality": 3,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_20",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 20,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [
+        "FavorItem",
+        "Toy",
+        "Doll",
+        "F_Suzumi"
+      ],
+      "CraftQuality": 20,
+      "ShopCategory": [],
+      "ExpirationDateTime": null
+    },
+    {
+      "Id": 5021,
+      "DevName": "Favor_21",
+      "Rarity": "SR",
+      "ProductionStep": "Doing",
+      "LocalizeEtcId": 3961391528,
+      "ItemCategory": "Favor",
+      "Quality": 3,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_21",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 20,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [
+        "FavorItem",
+        "Reservation",
+        "Movie",
+        "F_Pina"
+      ],
+      "CraftQuality": 20,
+      "ShopCategory": [],
+      "ExpirationDateTime": null
+    },
+    {
+      "Id": 5022,
+      "DevName": "Favor_22",
+      "Rarity": "SR",
+      "ProductionStep": "Doing",
+      "LocalizeEtcId": 2944986556,
+      "ItemCategory": "Favor",
+      "Quality": 3,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_22",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 20,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [
+        "FavorItem",
+        "Toy",
+        "Art",
+        "F_Juri"
+      ],
+      "CraftQuality": 20,
+      "ShopCategory": [],
+      "ExpirationDateTime": null
+    },
+    {
+      "Id": 5023,
+      "DevName": "Favor_23",
+      "Rarity": "SR",
+      "ProductionStep": "Doing",
+      "LocalizeEtcId": 4077917950,
+      "ItemCategory": "Favor",
+      "Quality": 3,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_23",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 20,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [
+        "FavorItem",
+        "Books",
+        "PureLiterature"
+      ],
+      "CraftQuality": 20,
+      "ShopCategory": [],
+      "ExpirationDateTime": null
+    },
+    {
+      "Id": 5024,
+      "DevName": "Favor_24",
+      "Rarity": "SR",
+      "ProductionStep": "Doing",
+      "LocalizeEtcId": 3946342470,
+      "ItemCategory": "Favor",
+      "Quality": 3,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_24",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 20,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [
+        "FavorItem",
+        "Household",
+        "Food",
+        "F_Akane"
+      ],
+      "CraftQuality": 20,
+      "ShopCategory": [],
+      "ExpirationDateTime": null
+    },
+    {
+      "Id": 5025,
+      "DevName": "Favor_25",
+      "Rarity": "SR",
+      "ProductionStep": "Doing",
+      "LocalizeEtcId": 762300502,
+      "ItemCategory": "Favor",
+      "Quality": 3,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_25",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 20,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [
+        "FavorItem",
+        "Toy",
+        "Smart",
+        "F_Yuuka",
+        "F_Karin"
+      ],
+      "CraftQuality": 20,
+      "ShopCategory": [],
+      "ExpirationDateTime": null
+    },
+    {
+      "Id": 5026,
+      "DevName": "Favor_26",
+      "Rarity": "SR",
+      "ProductionStep": "Doing",
+      "LocalizeEtcId": 3238447321,
+      "ItemCategory": "Favor",
+      "Quality": 3,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_26",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 20,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [
+        "FavorItem",
+        "Dessert",
+        "BigMeal"
+      ],
+      "CraftQuality": 20,
+      "ShopCategory": [],
+      "ExpirationDateTime": null
+    },
+    {
+      "Id": 5027,
+      "DevName": "Favor_27",
+      "Rarity": "SR",
+      "ProductionStep": "Doing",
+      "LocalizeEtcId": 1648390167,
+      "ItemCategory": "Favor",
+      "Quality": 3,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_27",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 20,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [
+        "FavorItem",
+        "Reservation",
+        "BigMeal",
+        "F_Akari"
+      ],
+      "CraftQuality": 20,
+      "ShopCategory": [],
+      "ExpirationDateTime": null
+    },
+    {
+      "Id": 5028,
+      "DevName": "Favor_28",
+      "Rarity": "SR",
+      "ProductionStep": "Doing",
+      "LocalizeEtcId": 1143324025,
+      "ItemCategory": "Favor",
+      "Quality": 3,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_28",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 20,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [
+        "FavorItem",
+        "Horticulture",
+        "CuriousFellow"
+      ],
+      "CraftQuality": 20,
+      "ShopCategory": [],
+      "ExpirationDateTime": null
+    },
+    {
+      "Id": 5029,
+      "DevName": "Favor_29",
+      "Rarity": "SR",
+      "ProductionStep": "Doing",
+      "LocalizeEtcId": 1569225040,
+      "ItemCategory": "Favor",
+      "Quality": 3,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_29",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 20,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [
+        "FavorItem",
+        "Curios",
+        "CuriousFellow",
+        "F_Serika"
+      ],
+      "CraftQuality": 20,
+      "ShopCategory": [],
+      "ExpirationDateTime": null
+    },
+    {
+      "Id": 5030,
+      "DevName": "Favor_30",
+      "Rarity": "SR",
+      "ProductionStep": "Doing",
+      "LocalizeEtcId": 2112008978,
+      "ItemCategory": "Favor",
+      "Quality": 3,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_30",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 20,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [
+        "FavorItem",
+        "Curios",
+        "Music"
+      ],
+      "CraftQuality": 20,
+      "ShopCategory": [],
+      "ExpirationDateTime": null
+    },
+    {
+      "Id": 5031,
+      "DevName": "Favor_31",
+      "Rarity": "SR",
+      "ProductionStep": "Doing",
+      "LocalizeEtcId": 2651867463,
+      "ItemCategory": "Favor",
+      "Quality": 3,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_31",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 20,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [
+        "FavorItem",
+        "Fashion",
+        "Simplicity",
+        "F_Haruna",
+        "F_Izuna"
+      ],
+      "CraftQuality": 20,
+      "ShopCategory": [],
+      "ExpirationDateTime": null
+    },
+    {
+      "Id": 5032,
+      "DevName": "Favor_32",
+      "Rarity": "SR",
+      "ProductionStep": "Doing",
+      "LocalizeEtcId": 3408710330,
+      "ItemCategory": "Favor",
+      "Quality": 3,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_32",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 20,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [
+        "FavorItem",
+        "Books",
+        "Specialized"
+      ],
+      "CraftQuality": 20,
+      "ShopCategory": [],
+      "ExpirationDateTime": null
+    },
+    {
+      "Id": 5033,
+      "DevName": "Favor_33",
+      "Rarity": "SR",
+      "ProductionStep": "Doing",
+      "LocalizeEtcId": 2665872474,
+      "ItemCategory": "Favor",
+      "Quality": 3,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_33",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 20,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [
+        "FavorItem",
+        "Functional",
+        "Specialized",
+        "F_Shizuko"
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
@@ -4993,7 +5435,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [
-        "SecretStone"
+        "SecretStone",
+        "Raid"
       ],
       "ExpirationDateTime": null
     },
@@ -5172,6 +5615,62 @@
       "ExpirationDateTime": null
     },
     {
+      "Id": 10014,
+      "DevName": "Izuna",
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 832419743,
+      "ItemCategory": "SecretStone",
+      "Quality": 9,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Izuna",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [
+        "SecretStone"
+      ],
+      "ExpirationDateTime": null
+    },
+    {
+      "Id": 10015,
+      "DevName": "Dummy_SecretStone",
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 3393952632,
+      "ItemCategory": "SecretStone",
+      "Quality": 9,
+      "Icon": "UIs/01_Common/03_NonEquipment/Material_Icon_Error",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null
+    },
+    {
       "Id": 13000,
       "DevName": "Akane",
       "Rarity": "N",
@@ -5196,7 +5695,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [
-        "SecretStone"
+        "SecretStone",
+        "Raid"
       ],
       "ExpirationDateTime": null
     },
@@ -5718,7 +6218,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [
-        "SecretStone"
+        "SecretStone",
+        "Arena"
       ],
       "ExpirationDateTime": null
     },
@@ -5805,7 +6306,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [
-        "SecretStone"
+        "SecretStone",
+        "Arena"
       ],
       "ExpirationDateTime": null
     },
@@ -5905,6 +6407,35 @@
       "ItemCategory": "SecretStone",
       "Quality": 9,
       "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Ayane",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [
+        "SecretStone"
+      ],
+      "ExpirationDateTime": null
+    },
+    {
+      "Id": 23006,
+      "DevName": "Shizuko",
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 2942168123,
+      "ItemCategory": "SecretStone",
+      "Quality": 9,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Shizuko",
       "SpriteName": null,
       "StackableMax": 99999,
       "StackableFunction": 0,
@@ -6826,7 +7357,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2021-03-11 14:00:00"
     },
     {
       "Id": 70003,
@@ -6853,7 +7384,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2021-03-18 14:00:00"
     },
     {
       "Id": 70004,
@@ -6880,7 +7411,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2021-03-25 14:00:00"
     },
     {
       "Id": 70005,
@@ -6907,7 +7438,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2099-12-31 23:59:59"
     },
     {
       "Id": 70006,
@@ -6934,7 +7465,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2099-12-31 23:59:59"
     },
     {
       "Id": 70007,
@@ -6961,7 +7492,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2099-12-31 23:59:59"
     },
     {
       "Id": 70008,
@@ -6988,7 +7519,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2099-12-31 23:59:59"
     },
     {
       "Id": 70009,
@@ -7015,7 +7546,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2099-12-31 23:59:59"
     },
     {
       "Id": 70010,
@@ -7042,7 +7573,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2099-12-31 23:59:59"
     },
     {
       "Id": 70011,
@@ -7069,7 +7600,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2099-12-31 23:59:59"
     },
     {
       "Id": 70012,
@@ -7096,7 +7627,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2099-12-31 23:59:59"
     },
     {
       "Id": 70013,
@@ -7123,7 +7654,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2099-12-31 23:59:59"
     },
     {
       "Id": 70014,
@@ -7150,7 +7681,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2099-12-31 23:59:59"
     },
     {
       "Id": 70015,
@@ -7177,7 +7708,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2099-12-31 23:59:59"
     },
     {
       "Id": 70016,
@@ -7204,7 +7735,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2099-12-31 23:59:59"
     },
     {
       "Id": 70017,
@@ -7231,7 +7762,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2099-12-31 23:59:59"
     },
     {
       "Id": 70018,
@@ -7258,7 +7789,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2099-12-31 23:59:59"
     },
     {
       "Id": 70019,
@@ -7285,7 +7816,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2099-12-31 23:59:59"
     },
     {
       "Id": 70020,
@@ -7312,7 +7843,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2099-12-31 23:59:59"
     },
     {
       "Id": 70021,
@@ -7339,7 +7870,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2099-12-31 23:59:59"
     },
     {
       "Id": 70022,
@@ -7366,7 +7897,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2099-12-31 23:59:59"
     },
     {
       "Id": 70023,
@@ -7393,7 +7924,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2099-12-31 23:59:59"
     },
     {
       "Id": 70024,
@@ -7420,7 +7951,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2099-12-31 23:59:59"
     },
     {
       "Id": 70025,
@@ -7447,7 +7978,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2099-12-31 23:59:59"
     },
     {
       "Id": 70026,
@@ -7474,7 +8005,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2099-12-31 23:59:59"
     },
     {
       "Id": 70027,
@@ -7501,7 +8032,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2099-12-31 23:59:59"
     },
     {
       "Id": 70028,
@@ -7528,7 +8059,7 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2099-12-31 23:59:59"
     },
     {
       "Id": 70029,
@@ -7555,7 +8086,115 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-02-25 14:01:00"
+      "ExpirationDateTime": "2099-12-31 23:59:59"
+    },
+    {
+      "Id": 80000,
+      "DevName": "백귀야행 이벤트 포인트",
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 284088691,
+      "ItemCategory": "Coin",
+      "Quality": 1,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Item_0",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null
+    },
+    {
+      "Id": 80001,
+      "DevName": "이벤트 토큰 - 여우여우 센베이",
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 3146510308,
+      "ItemCategory": "Coin",
+      "Quality": 2,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_0",
+      "SpriteName": "Common_Icon_Event_Token_0",
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null
+    },
+    {
+      "Id": 80002,
+      "DevName": "이벤트 토큰 - 너구리 오코노미야키",
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 1959694325,
+      "ItemCategory": "Coin",
+      "Quality": 3,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_1",
+      "SpriteName": "Common_Icon_Event_Token_1",
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null
+    },
+    {
+      "Id": 80003,
+      "DevName": "이벤트 토큰 - 벚꽃 찹쌀떡",
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 2308340710,
+      "ItemCategory": "Coin",
+      "Quality": 4,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_2",
+      "SpriteName": "Common_Icon_Event_Token_2",
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null
     },
     {
       "Id": 90000,

@@ -1456,6 +1456,28 @@
       "CostTimeInSecond": 0
     },
     {
+      "Id": 10014,
+      "DevName": "Izuna_Default_Combine",
+      "RecipeType": "Craft",
+      "CostParcelType": [],
+      "CostId": [],
+      "CostDevName": [],
+      "CostAmount": [],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        10014
+      ],
+      "IngredientDevName": [
+        "Izuna"
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
       "Id": 13000,
       "DevName": "Akane_Default_Combine",
       "RecipeType": "Craft",
@@ -2021,6 +2043,28 @@
       ],
       "IngredientDevName": [
         "Ayane"
+      ],
+      "IngredientAmount": [
+        40
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 23006,
+      "DevName": "Shizuko_Default_Combine",
+      "RecipeType": "Craft",
+      "CostParcelType": [],
+      "CostId": [],
+      "CostDevName": [],
+      "CostAmount": [],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        23006
+      ],
+      "IngredientDevName": [
+        "Shizuko"
       ],
       "IngredientAmount": [
         40
@@ -10219,6 +10263,582 @@
       "IngredientAmount": [
         12,
         9,
+        13
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10014000,
+      "DevName": "Student_Transcandance_Izuna_1",
+      "RecipeType": "CharacterTranscendence",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        10000
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        10014
+      ],
+      "IngredientDevName": [
+        "Izuna"
+      ],
+      "IngredientAmount": [
+        30
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10014001,
+      "DevName": "Student_Transcandance_Izuna_2",
+      "RecipeType": "CharacterTranscendence",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        40000
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        10014
+      ],
+      "IngredientDevName": [
+        "Izuna"
+      ],
+      "IngredientAmount": [
+        80
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10014002,
+      "DevName": "Student_Transcandance_Izuna_3",
+      "RecipeType": "CharacterTranscendence",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        200000
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        10014
+      ],
+      "IngredientDevName": [
+        "Izuna"
+      ],
+      "IngredientAmount": [
+        100
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10014003,
+      "DevName": "Student_Transcandance_Izuna_4",
+      "RecipeType": "CharacterTranscendence",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        10014
+      ],
+      "IngredientDevName": [
+        "Izuna"
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10014100,
+      "DevName": "이즈나_EX스킬_레벨01",
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        80000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        3000,
+        120
+      ],
+      "IngredientDevName": [
+        "ExSkill_Hyakkiyako_0",
+        "Material_Wolfsegg_0"
+      ],
+      "IngredientAmount": [
+        12,
+        16
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10014101,
+      "DevName": "이즈나_EX스킬_레벨02",
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        500000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        3001,
+        3000,
+        121,
+        140
+      ],
+      "IngredientDevName": [
+        "ExSkill_Hyakkiyako_1",
+        "ExSkill_Hyakkiyako_0",
+        "Material_Wolfsegg_1",
+        "Material_Mandragora_0"
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        14,
+        32
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10014102,
+      "DevName": "이즈나_EX스킬_레벨03",
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        3000000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        3002,
+        3001,
+        122,
+        141
+      ],
+      "IngredientDevName": [
+        "ExSkill_Hyakkiyako_2",
+        "ExSkill_Hyakkiyako_1",
+        "Material_Wolfsegg_2",
+        "Material_Mandragora_1"
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        11,
+        26
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10014103,
+      "DevName": "이즈나_EX스킬_레벨04",
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        10000000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        3003,
+        3002,
+        123,
+        142
+      ],
+      "IngredientDevName": [
+        "ExSkill_Hyakkiyako_3",
+        "ExSkill_Hyakkiyako_2",
+        "Material_Wolfsegg_3",
+        "Material_Mandragora_2"
+      ],
+      "IngredientAmount": [
+        8,
+        18,
+        9,
+        19
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10014200,
+      "DevName": "이즈나_범용스킬_레벨01",
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        5000
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        4000
+      ],
+      "IngredientDevName": [
+        "SkillBook_Hyakkiyako_0"
+      ],
+      "IngredientAmount": [
+        5
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10014201,
+      "DevName": "이즈나_범용스킬_레벨02",
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        7500
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        4000
+      ],
+      "IngredientDevName": [
+        "SkillBook_Hyakkiyako_0"
+      ],
+      "IngredientAmount": [
+        8
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10014202,
+      "DevName": "이즈나_범용스킬_레벨03",
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        60000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4001,
+        4000,
+        120
+      ],
+      "IngredientDevName": [
+        "SkillBook_Hyakkiyako_1",
+        "SkillBook_Hyakkiyako_0",
+        "Material_Wolfsegg_0"
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        7
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10014203,
+      "DevName": "이즈나_범용스킬_레벨04",
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        90000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4001,
+        121,
+        140
+      ],
+      "IngredientDevName": [
+        "SkillBook_Hyakkiyako_1",
+        "Material_Wolfsegg_1",
+        "Material_Mandragora_0"
+      ],
+      "IngredientAmount": [
+        8,
+        3,
+        12
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10014204,
+      "DevName": "이즈나_범용스킬_레벨05",
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        300000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4002,
+        4001,
+        121,
+        140
+      ],
+      "IngredientDevName": [
+        "SkillBook_Hyakkiyako_2",
+        "SkillBook_Hyakkiyako_1",
+        "Material_Wolfsegg_1",
+        "Material_Mandragora_0"
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        12,
+        18
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10014205,
+      "DevName": "이즈나_범용스킬_레벨06",
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        450000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4002,
+        122,
+        141
+      ],
+      "IngredientDevName": [
+        "SkillBook_Hyakkiyako_2",
+        "Material_Wolfsegg_2",
+        "Material_Mandragora_1"
+      ],
+      "IngredientAmount": [
+        8,
+        3,
+        17
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10014206,
+      "DevName": "이즈나_범용스킬_레벨07",
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4003,
+        4002,
+        123,
+        142
+      ],
+      "IngredientDevName": [
+        "SkillBook_Hyakkiyako_3",
+        "SkillBook_Hyakkiyako_2",
+        "Material_Wolfsegg_3",
+        "Material_Mandragora_2"
+      ],
+      "IngredientAmount": [
+        8,
+        12,
+        4,
+        9
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10014207,
+      "DevName": "이즈나_범용스킬_레벨08",
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        2400000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4003,
+        123,
+        142
+      ],
+      "IngredientDevName": [
+        "SkillBook_Hyakkiyako_3",
+        "Material_Wolfsegg_3",
+        "Material_Mandragora_2"
+      ],
+      "IngredientAmount": [
+        12,
+        10,
         13
       ],
       "CostTimeInSecond": 0
@@ -25196,6 +25816,582 @@
         12,
         7,
         14
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 23006000,
+      "DevName": "Student_Transcandance_Shizuko_1",
+      "RecipeType": "CharacterTranscendence",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        10000
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        23006
+      ],
+      "IngredientDevName": [
+        "Shizuko"
+      ],
+      "IngredientAmount": [
+        30
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 23006001,
+      "DevName": "Student_Transcandance_Shizuko_2",
+      "RecipeType": "CharacterTranscendence",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        40000
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        23006
+      ],
+      "IngredientDevName": [
+        "Shizuko"
+      ],
+      "IngredientAmount": [
+        80
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 23006002,
+      "DevName": "Student_Transcandance_Shizuko_3",
+      "RecipeType": "CharacterTranscendence",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        200000
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        23006
+      ],
+      "IngredientDevName": [
+        "Shizuko"
+      ],
+      "IngredientAmount": [
+        100
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 23006003,
+      "DevName": "Student_Transcandance_Shizuko_4",
+      "RecipeType": "CharacterTranscendence",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        23006
+      ],
+      "IngredientDevName": [
+        "Shizuko"
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 23006100,
+      "DevName": "시즈코_EX스킬_레벨01",
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        80000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        3000,
+        140
+      ],
+      "IngredientDevName": [
+        "ExSkill_Hyakkiyako_0",
+        "Material_Mandragora_0"
+      ],
+      "IngredientAmount": [
+        12,
+        16
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 23006101,
+      "DevName": "시즈코_EX스킬_레벨02",
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        500000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        3001,
+        3000,
+        141,
+        180
+      ],
+      "IngredientDevName": [
+        "ExSkill_Hyakkiyako_1",
+        "ExSkill_Hyakkiyako_0",
+        "Material_Mandragora_1",
+        "Material_Voynich_0"
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        12,
+        32
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 23006102,
+      "DevName": "시즈코_EX스킬_레벨03",
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        3000000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        3002,
+        3001,
+        142,
+        181
+      ],
+      "IngredientDevName": [
+        "ExSkill_Hyakkiyako_2",
+        "ExSkill_Hyakkiyako_1",
+        "Material_Mandragora_2",
+        "Material_Voynich_1"
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        11,
+        27
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 23006103,
+      "DevName": "시즈코_EX스킬_레벨04",
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        10000000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        3003,
+        3002,
+        143,
+        182
+      ],
+      "IngredientDevName": [
+        "ExSkill_Hyakkiyako_3",
+        "ExSkill_Hyakkiyako_2",
+        "Material_Mandragora_3",
+        "Material_Voynich_2"
+      ],
+      "IngredientAmount": [
+        8,
+        18,
+        7,
+        22
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 23006200,
+      "DevName": "시즈코_범용스킬_레벨01",
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        5000
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        4000
+      ],
+      "IngredientDevName": [
+        "SkillBook_Hyakkiyako_0"
+      ],
+      "IngredientAmount": [
+        5
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 23006201,
+      "DevName": "시즈코_범용스킬_레벨02",
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        7500
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        4000
+      ],
+      "IngredientDevName": [
+        "SkillBook_Hyakkiyako_0"
+      ],
+      "IngredientAmount": [
+        8
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 23006202,
+      "DevName": "시즈코_범용스킬_레벨03",
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        60000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4001,
+        4000,
+        140
+      ],
+      "IngredientDevName": [
+        "SkillBook_Hyakkiyako_1",
+        "SkillBook_Hyakkiyako_0",
+        "Material_Mandragora_0"
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        5
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 23006203,
+      "DevName": "시즈코_범용스킬_레벨04",
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        90000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4001,
+        141,
+        180
+      ],
+      "IngredientDevName": [
+        "SkillBook_Hyakkiyako_1",
+        "Material_Mandragora_1",
+        "Material_Voynich_0"
+      ],
+      "IngredientAmount": [
+        8,
+        4,
+        11
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 23006204,
+      "DevName": "시즈코_범용스킬_레벨05",
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        300000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4002,
+        4001,
+        141,
+        180
+      ],
+      "IngredientDevName": [
+        "SkillBook_Hyakkiyako_2",
+        "SkillBook_Hyakkiyako_1",
+        "Material_Mandragora_1",
+        "Material_Voynich_0"
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        12,
+        19
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 23006205,
+      "DevName": "시즈코_범용스킬_레벨06",
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        450000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4002,
+        142,
+        181
+      ],
+      "IngredientDevName": [
+        "SkillBook_Hyakkiyako_2",
+        "Material_Mandragora_2",
+        "Material_Voynich_1"
+      ],
+      "IngredientAmount": [
+        8,
+        5,
+        16
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 23006206,
+      "DevName": "시즈코_범용스킬_레벨07",
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4003,
+        4002,
+        143,
+        182
+      ],
+      "IngredientDevName": [
+        "SkillBook_Hyakkiyako_3",
+        "SkillBook_Hyakkiyako_2",
+        "Material_Mandragora_3",
+        "Material_Voynich_2"
+      ],
+      "IngredientAmount": [
+        8,
+        12,
+        5,
+        7
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 23006207,
+      "DevName": "시즈코_범용스킬_레벨08",
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostDevName": [
+        "GOLD"
+      ],
+      "CostAmount": [
+        2400000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4003,
+        143,
+        182
+      ],
+      "IngredientDevName": [
+        "SkillBook_Hyakkiyako_3",
+        "Material_Mandragora_3",
+        "Material_Voynich_2"
+      ],
+      "IngredientAmount": [
+        12,
+        8,
+        15
       ],
       "CostTimeInSecond": 0
     },

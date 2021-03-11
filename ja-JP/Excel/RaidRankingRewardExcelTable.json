@@ -2,8 +2,10 @@
   "DataList": [
     {
       "RankingRewardGroupId": 100,
+      "Id": 101,
       "RankStart": 1,
       "RankEnd": 0,
+      "PercentRankStart": 0,
       "PercentRankEnd": 10000,
       "Tier": 4,
       "RewardParcelType": [
@@ -21,94 +23,44 @@
     },
     {
       "RankingRewardGroupId": 200,
+      "Id": 201,
       "RankStart": 1,
-      "RankEnd": 10000,
-      "PercentRankEnd": 0,
+      "RankEnd": 0,
+      "PercentRankStart": 0,
+      "PercentRankEnd": 10000,
       "Tier": 4,
       "RewardParcelType": [
-        "Item",
-        "Furniture"
+        "Item"
       ],
       "RewardParcelUniqueId": [
-        7,
-        100003
+        7
       ],
       "RewardParcelUniqueName": [
-        "RaidCoin",
-        "Furnitures"
+        "RaidCoin"
       ],
       "RewardParcelAmount": [
-        50,
-        1
+        425
       ]
     },
     {
-      "RankingRewardGroupId": 200,
-      "RankStart": 1,
-      "RankEnd": 30000,
-      "PercentRankEnd": 0,
-      "Tier": 3,
-      "RewardParcelType": [
-        "Item",
-        "Furniture"
-      ],
-      "RewardParcelUniqueId": [
-        7,
-        100002
-      ],
-      "RewardParcelUniqueName": [
-        "RaidCoin",
-        "Furnitures"
-      ],
-      "RewardParcelAmount": [
-        100,
-        1
-      ]
-    },
-    {
-      "RankingRewardGroupId": 200,
+      "RankingRewardGroupId": 300,
+      "Id": 301,
       "RankStart": 1,
       "RankEnd": 0,
-      "PercentRankEnd": 5000,
-      "Tier": 2,
-      "RewardParcelType": [
-        "Item",
-        "Furniture"
-      ],
-      "RewardParcelUniqueId": [
-        7,
-        100001
-      ],
-      "RewardParcelUniqueName": [
-        "RaidCoin",
-        "Furnitures"
-      ],
-      "RewardParcelAmount": [
-        175,
-        1
-      ]
-    },
-    {
-      "RankingRewardGroupId": 200,
-      "RankStart": 1,
-      "RankEnd": 0,
+      "PercentRankStart": 0,
       "PercentRankEnd": 10000,
-      "Tier": 1,
+      "Tier": 4,
       "RewardParcelType": [
-        "Item",
-        "Furniture"
+        "Item"
       ],
       "RewardParcelUniqueId": [
-        7,
-        100000
+        7
       ],
       "RewardParcelUniqueName": [
-        "RaidCoin",
-        "Furnitures"
+        "RaidCoin"
       ],
       "RewardParcelAmount": [
-        250,
-        1
+        425
       ]
     }
   ]

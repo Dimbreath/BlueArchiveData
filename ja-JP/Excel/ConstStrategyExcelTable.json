@@ -1,11 +1,11 @@
 {
   "DataList": [
     {
-      "HexaMapBoundaryOffset": 0.7,
-      "HexaMapStartCameraOffset": 0.5,
-      "CameraZoomMax": 7.5,
-      "CameraZoomMin": 6.0,
-      "CameraZoomDefault": 6.0,
+      "HexaMapBoundaryOffset": 5.505104E-14,
+      "HexaMapStartCameraOffset": 5.505154E-14,
+      "CameraZoomMax": 5.50614E-14,
+      "CameraZoomMin": 5.5065178E-14,
+      "CameraZoomDefault": 5.5065178E-14,
       "HealCostType": "GemBonus",
       "HealCostAmount": [
         0,
@@ -14,7 +14,11 @@
         100
       ],
       "CanHealHpRate": 8000,
-      "PlayTimeLimitInSeconds": 86400
+      "PlayTimeLimitInSeconds": 86400,
+      "AdventureEchelonCount": 4,
+      "RaidEchelonCount": 4,
+      "DefaultEchelonCount": 1,
+      "EventContentEchelonCount": 4
     }
   ]
 }

@@ -1,43 +1,113 @@
 {
   "DataList": [
     {
-      "EventContentId": 10001,
-      "CharacterId": 13010,
+      "EventContentId": 801,
+      "CharacterId": 16004,
       "EventContentItemType": [
         "EventPoint",
         "EventToken1"
       ],
-      "BonusAmount": [
-        100,
-        100
+      "BonusPercentage": [
+        1000,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 801,
+      "CharacterId": 13009,
+      "EventContentItemType": [
+        "EventPoint",
+        "EventToken1"
+      ],
+      "BonusPercentage": [
+        1000,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 801,
+      "CharacterId": 23006,
+      "EventContentItemType": [
+        "EventPoint",
+        "EventToken2"
+      ],
+      "BonusPercentage": [
+        1000,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 801,
+      "CharacterId": 13001,
+      "EventContentItemType": [
+        "EventPoint",
+        "EventToken2"
+      ],
+      "BonusPercentage": [
+        1000,
+        1500
+      ]
+    },
+    {
+      "EventContentId": 801,
+      "CharacterId": 10014,
+      "EventContentItemType": [
+        "EventPoint",
+        "EventToken3"
+      ],
+      "BonusPercentage": [
+        1000,
+        3000
       ]
     },
     {
       "EventContentId": 10001,
-      "CharacterId": 16003,
+      "CharacterId": 16004,
       "EventContentItemType": [
-        "EventPoint",
-        "EventToken2",
-        "EventToken3"
+        "EventPoint"
       ],
-      "BonusAmount": [
-        100,
-        100,
-        100
+      "BonusPercentage": [
+        1000
       ]
     },
     {
-      "EventContentId": 10002,
-      "CharacterId": 13003,
+      "EventContentId": 10001,
+      "CharacterId": 13009,
       "EventContentItemType": [
-        "EventPoint",
-        "EventToken1",
-        "EventToken2"
+        "EventPoint"
       ],
-      "BonusAmount": [
-        100,
-        100,
-        100
+      "BonusPercentage": [
+        1000
+      ]
+    },
+    {
+      "EventContentId": 10001,
+      "CharacterId": 23006,
+      "EventContentItemType": [
+        "EventPoint"
+      ],
+      "BonusPercentage": [
+        1000
+      ]
+    },
+    {
+      "EventContentId": 10001,
+      "CharacterId": 13001,
+      "EventContentItemType": [
+        "EventPoint"
+      ],
+      "BonusPercentage": [
+        1000
+      ]
+    },
+    {
+      "EventContentId": 10001,
+      "CharacterId": 10014,
+      "EventContentItemType": [
+        "EventPoint"
+      ],
+      "BonusPercentage": [
+        1000
       ]
     }
   ]

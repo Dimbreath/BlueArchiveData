@@ -6,7 +6,9 @@
       "TacticEntityType": "Student",
       "StatType": "MaxHP",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 2,
@@ -14,7 +16,9 @@
       "TacticEntityType": "Student",
       "StatType": "AttackPower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 3,
@@ -22,7 +26,9 @@
       "TacticEntityType": "Student",
       "StatType": "DefensePower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 4,
@@ -30,7 +36,9 @@
       "TacticEntityType": "Student",
       "StatType": "HealPower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 5,
@@ -38,7 +46,9 @@
       "TacticEntityType": "Student",
       "StatType": "AccuracyPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 6,
@@ -46,7 +56,9 @@
       "TacticEntityType": "Student",
       "StatType": "AccuracyRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 7,
@@ -54,7 +66,9 @@
       "TacticEntityType": "Student",
       "StatType": "DodgePoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 8,
@@ -62,7 +76,9 @@
       "TacticEntityType": "Student",
       "StatType": "DodgeRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 9,
@@ -70,7 +86,9 @@
       "TacticEntityType": "Student",
       "StatType": "CriticalPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 10,
@@ -78,7 +96,9 @@
       "TacticEntityType": "Student",
       "StatType": "CriticalChanceRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 11,
@@ -86,7 +106,9 @@
       "TacticEntityType": "Student",
       "StatType": "CriticalDamageRate",
       "StatMinValue": 10000,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 12,
@@ -94,7 +116,9 @@
       "TacticEntityType": "Student",
       "StatType": "MoveSpeed",
       "StatMinValue": 40,
-      "StatMaxValue": 1000
+      "StatMaxValue": 1000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 13,
@@ -102,7 +126,9 @@
       "TacticEntityType": "Student",
       "StatType": "StabilityPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 14,
@@ -110,7 +136,9 @@
       "TacticEntityType": "Student",
       "StatType": "StabilityRate",
       "StatMinValue": 0,
-      "StatMaxValue": 10000
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 16,
@@ -118,7 +146,9 @@
       "TacticEntityType": "Student",
       "StatType": "HealEffectivenessRate",
       "StatMinValue": 2000,
-      "StatMaxValue": 20000
+      "StatMaxValue": 20000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 17,
@@ -126,7 +156,9 @@
       "TacticEntityType": "Student",
       "StatType": "CriticalChanceResistPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 18,
@@ -134,7 +166,9 @@
       "TacticEntityType": "Student",
       "StatType": "CriticalDamageResistRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 19,
@@ -142,7 +176,9 @@
       "TacticEntityType": "Student",
       "StatType": "NormalAttackSpeed",
       "StatMinValue": 2000,
-      "StatMaxValue": 30000
+      "StatMaxValue": 30000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 20,
@@ -150,7 +186,9 @@
       "TacticEntityType": "Student",
       "StatType": "DamageRatio",
       "StatMinValue": 2000,
-      "StatMaxValue": 18000
+      "StatMaxValue": 18000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 21,
@@ -158,7 +196,9 @@
       "TacticEntityType": "Student",
       "StatType": "DamagedRatio",
       "StatMinValue": 2000,
-      "StatMaxValue": 18000
+      "StatMaxValue": 18000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 22,
@@ -166,7 +206,9 @@
       "TacticEntityType": "Student",
       "StatType": "OppressionPower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 23,
@@ -174,7 +216,9 @@
       "TacticEntityType": "Student",
       "StatType": "OppressionResist",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 24,
@@ -182,7 +226,9 @@
       "TacticEntityType": "Student",
       "StatType": "RegenCost",
       "StatMinValue": 0,
-      "StatMaxValue": 10000
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 101,
@@ -190,7 +236,9 @@
       "TacticEntityType": "Minion",
       "StatType": "MaxHP",
       "StatMinValue": 0,
-      "StatMaxValue": 10000000
+      "StatMaxValue": 10000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 102,
@@ -198,7 +246,9 @@
       "TacticEntityType": "Minion",
       "StatType": "AttackPower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 103,
@@ -206,7 +256,9 @@
       "TacticEntityType": "Minion",
       "StatType": "DefensePower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 104,
@@ -214,7 +266,9 @@
       "TacticEntityType": "Minion",
       "StatType": "HealPower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 105,
@@ -222,7 +276,9 @@
       "TacticEntityType": "Minion",
       "StatType": "AccuracyPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 106,
@@ -230,7 +286,9 @@
       "TacticEntityType": "Minion",
       "StatType": "AccuracyRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 107,
@@ -238,7 +296,9 @@
       "TacticEntityType": "Minion",
       "StatType": "DodgePoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 108,
@@ -246,7 +306,9 @@
       "TacticEntityType": "Minion",
       "StatType": "DodgeRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 109,
@@ -254,7 +316,9 @@
       "TacticEntityType": "Minion",
       "StatType": "CriticalPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 110,
@@ -262,7 +326,9 @@
       "TacticEntityType": "Minion",
       "StatType": "CriticalChanceRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 111,
@@ -270,7 +336,9 @@
       "TacticEntityType": "Minion",
       "StatType": "CriticalDamageRate",
       "StatMinValue": 10000,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 112,
@@ -278,7 +346,9 @@
       "TacticEntityType": "Minion",
       "StatType": "MoveSpeed",
       "StatMinValue": 40,
-      "StatMaxValue": 1000
+      "StatMaxValue": 1000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 113,
@@ -286,7 +356,9 @@
       "TacticEntityType": "Minion",
       "StatType": "StabilityPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 114,
@@ -294,7 +366,9 @@
       "TacticEntityType": "Minion",
       "StatType": "StabilityRate",
       "StatMinValue": 0,
-      "StatMaxValue": 10000
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 116,
@@ -302,7 +376,9 @@
       "TacticEntityType": "Minion",
       "StatType": "HealEffectivenessRate",
       "StatMinValue": 2000,
-      "StatMaxValue": 20000
+      "StatMaxValue": 20000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 117,
@@ -310,7 +386,9 @@
       "TacticEntityType": "Minion",
       "StatType": "CriticalChanceResistPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 118,
@@ -318,7 +396,9 @@
       "TacticEntityType": "Minion",
       "StatType": "CriticalDamageResistRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 119,
@@ -326,7 +406,9 @@
       "TacticEntityType": "Minion",
       "StatType": "NormalAttackSpeed",
       "StatMinValue": 2000,
-      "StatMaxValue": 30000
+      "StatMaxValue": 30000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 120,
@@ -334,7 +416,9 @@
       "TacticEntityType": "Minion",
       "StatType": "DamageRatio",
       "StatMinValue": 2000,
-      "StatMaxValue": 18000
+      "StatMaxValue": 18000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 121,
@@ -342,7 +426,9 @@
       "TacticEntityType": "Minion",
       "StatType": "DamagedRatio",
       "StatMinValue": 2000,
-      "StatMaxValue": 18000
+      "StatMaxValue": 18000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 122,
@@ -350,7 +436,9 @@
       "TacticEntityType": "Minion",
       "StatType": "OppressionPower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 123,
@@ -358,7 +446,9 @@
       "TacticEntityType": "Minion",
       "StatType": "OppressionResist",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 124,
@@ -366,7 +456,9 @@
       "TacticEntityType": "Minion",
       "StatType": "RegenCost",
       "StatMinValue": 0,
-      "StatMaxValue": 10000
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 201,
@@ -374,7 +466,9 @@
       "TacticEntityType": "Elite",
       "StatType": "MaxHP",
       "StatMinValue": 0,
-      "StatMaxValue": 10000000
+      "StatMaxValue": 10000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 202,
@@ -382,7 +476,9 @@
       "TacticEntityType": "Elite",
       "StatType": "AttackPower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 203,
@@ -390,7 +486,9 @@
       "TacticEntityType": "Elite",
       "StatType": "DefensePower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 204,
@@ -398,7 +496,9 @@
       "TacticEntityType": "Elite",
       "StatType": "HealPower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 205,
@@ -406,7 +506,9 @@
       "TacticEntityType": "Elite",
       "StatType": "AccuracyPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 206,
@@ -414,7 +516,9 @@
       "TacticEntityType": "Elite",
       "StatType": "AccuracyRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 207,
@@ -422,7 +526,9 @@
       "TacticEntityType": "Elite",
       "StatType": "DodgePoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 208,
@@ -430,7 +536,9 @@
       "TacticEntityType": "Elite",
       "StatType": "DodgeRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 209,
@@ -438,7 +546,9 @@
       "TacticEntityType": "Elite",
       "StatType": "CriticalPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 210,
@@ -446,7 +556,9 @@
       "TacticEntityType": "Elite",
       "StatType": "CriticalChanceRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 211,
@@ -454,7 +566,9 @@
       "TacticEntityType": "Elite",
       "StatType": "CriticalDamageRate",
       "StatMinValue": 10000,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 212,
@@ -462,7 +576,9 @@
       "TacticEntityType": "Elite",
       "StatType": "MoveSpeed",
       "StatMinValue": 40,
-      "StatMaxValue": 1000
+      "StatMaxValue": 1000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 213,
@@ -470,7 +586,9 @@
       "TacticEntityType": "Elite",
       "StatType": "StabilityPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 214,
@@ -478,7 +596,9 @@
       "TacticEntityType": "Elite",
       "StatType": "StabilityRate",
       "StatMinValue": 0,
-      "StatMaxValue": 10000
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 216,
@@ -486,7 +606,9 @@
       "TacticEntityType": "Elite",
       "StatType": "HealEffectivenessRate",
       "StatMinValue": 2000,
-      "StatMaxValue": 20000
+      "StatMaxValue": 20000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 217,
@@ -494,7 +616,9 @@
       "TacticEntityType": "Elite",
       "StatType": "CriticalChanceResistPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 218,
@@ -502,7 +626,9 @@
       "TacticEntityType": "Elite",
       "StatType": "CriticalDamageResistRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 219,
@@ -510,7 +636,9 @@
       "TacticEntityType": "Elite",
       "StatType": "NormalAttackSpeed",
       "StatMinValue": 2000,
-      "StatMaxValue": 30000
+      "StatMaxValue": 30000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 220,
@@ -518,7 +646,9 @@
       "TacticEntityType": "Elite",
       "StatType": "DamageRatio",
       "StatMinValue": 2000,
-      "StatMaxValue": 18000
+      "StatMaxValue": 18000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 221,
@@ -526,7 +656,9 @@
       "TacticEntityType": "Elite",
       "StatType": "DamagedRatio",
       "StatMinValue": 2000,
-      "StatMaxValue": 18000
+      "StatMaxValue": 18000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 222,
@@ -534,7 +666,9 @@
       "TacticEntityType": "Elite",
       "StatType": "OppressionPower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 223,
@@ -542,7 +676,9 @@
       "TacticEntityType": "Elite",
       "StatType": "OppressionResist",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 224,
@@ -550,7 +686,9 @@
       "TacticEntityType": "Elite",
       "StatType": "RegenCost",
       "StatMinValue": 0,
-      "StatMaxValue": 10000
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 301,
@@ -558,7 +696,9 @@
       "TacticEntityType": "Champion",
       "StatType": "MaxHP",
       "StatMinValue": 0,
-      "StatMaxValue": 10000000
+      "StatMaxValue": 10000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 302,
@@ -566,7 +706,9 @@
       "TacticEntityType": "Champion",
       "StatType": "AttackPower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 303,
@@ -574,7 +716,9 @@
       "TacticEntityType": "Champion",
       "StatType": "DefensePower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 304,
@@ -582,7 +726,9 @@
       "TacticEntityType": "Champion",
       "StatType": "HealPower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 305,
@@ -590,7 +736,9 @@
       "TacticEntityType": "Champion",
       "StatType": "AccuracyPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 306,
@@ -598,7 +746,9 @@
       "TacticEntityType": "Champion",
       "StatType": "AccuracyRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 307,
@@ -606,7 +756,9 @@
       "TacticEntityType": "Champion",
       "StatType": "DodgePoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 308,
@@ -614,7 +766,9 @@
       "TacticEntityType": "Champion",
       "StatType": "DodgeRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 309,
@@ -622,7 +776,9 @@
       "TacticEntityType": "Champion",
       "StatType": "CriticalPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 310,
@@ -630,7 +786,9 @@
       "TacticEntityType": "Champion",
       "StatType": "CriticalChanceRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 311,
@@ -638,7 +796,9 @@
       "TacticEntityType": "Champion",
       "StatType": "CriticalDamageRate",
       "StatMinValue": 10000,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 312,
@@ -646,7 +806,9 @@
       "TacticEntityType": "Champion",
       "StatType": "MoveSpeed",
       "StatMinValue": 40,
-      "StatMaxValue": 1000
+      "StatMaxValue": 1000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 313,
@@ -654,7 +816,9 @@
       "TacticEntityType": "Champion",
       "StatType": "StabilityPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 314,
@@ -662,7 +826,9 @@
       "TacticEntityType": "Champion",
       "StatType": "StabilityRate",
       "StatMinValue": 0,
-      "StatMaxValue": 10000
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 316,
@@ -670,7 +836,9 @@
       "TacticEntityType": "Champion",
       "StatType": "HealEffectivenessRate",
       "StatMinValue": 2000,
-      "StatMaxValue": 20000
+      "StatMaxValue": 20000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 317,
@@ -678,7 +846,9 @@
       "TacticEntityType": "Champion",
       "StatType": "CriticalChanceResistPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 318,
@@ -686,7 +856,9 @@
       "TacticEntityType": "Champion",
       "StatType": "CriticalDamageResistRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 319,
@@ -694,7 +866,9 @@
       "TacticEntityType": "Champion",
       "StatType": "NormalAttackSpeed",
       "StatMinValue": 2000,
-      "StatMaxValue": 30000
+      "StatMaxValue": 30000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 320,
@@ -702,7 +876,9 @@
       "TacticEntityType": "Champion",
       "StatType": "DamageRatio",
       "StatMinValue": 2000,
-      "StatMaxValue": 18000
+      "StatMaxValue": 18000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 321,
@@ -710,7 +886,9 @@
       "TacticEntityType": "Champion",
       "StatType": "DamagedRatio",
       "StatMinValue": 2000,
-      "StatMaxValue": 18000
+      "StatMaxValue": 18000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 322,
@@ -718,7 +896,9 @@
       "TacticEntityType": "Champion",
       "StatType": "OppressionPower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 323,
@@ -726,7 +906,9 @@
       "TacticEntityType": "Champion",
       "StatType": "OppressionResist",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 324,
@@ -734,7 +916,9 @@
       "TacticEntityType": "Champion",
       "StatType": "RegenCost",
       "StatMinValue": 0,
-      "StatMaxValue": 10000
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 401,
@@ -742,7 +926,9 @@
       "TacticEntityType": "Boss",
       "StatType": "MaxHP",
       "StatMinValue": 0,
-      "StatMaxValue": 10000000
+      "StatMaxValue": 10000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 402,
@@ -750,7 +936,9 @@
       "TacticEntityType": "Boss",
       "StatType": "AttackPower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 403,
@@ -758,7 +946,9 @@
       "TacticEntityType": "Boss",
       "StatType": "DefensePower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 404,
@@ -766,7 +956,9 @@
       "TacticEntityType": "Boss",
       "StatType": "HealPower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 405,
@@ -774,7 +966,9 @@
       "TacticEntityType": "Boss",
       "StatType": "AccuracyPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 406,
@@ -782,7 +976,9 @@
       "TacticEntityType": "Boss",
       "StatType": "AccuracyRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 407,
@@ -790,7 +986,9 @@
       "TacticEntityType": "Boss",
       "StatType": "DodgePoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 408,
@@ -798,7 +996,9 @@
       "TacticEntityType": "Boss",
       "StatType": "DodgeRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 409,
@@ -806,7 +1006,9 @@
       "TacticEntityType": "Boss",
       "StatType": "CriticalPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 410,
@@ -814,7 +1016,9 @@
       "TacticEntityType": "Boss",
       "StatType": "CriticalChanceRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 411,
@@ -822,7 +1026,9 @@
       "TacticEntityType": "Boss",
       "StatType": "CriticalDamageRate",
       "StatMinValue": 10000,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 412,
@@ -830,7 +1036,9 @@
       "TacticEntityType": "Boss",
       "StatType": "MoveSpeed",
       "StatMinValue": 40,
-      "StatMaxValue": 1000
+      "StatMaxValue": 1000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 413,
@@ -838,7 +1046,9 @@
       "TacticEntityType": "Boss",
       "StatType": "StabilityPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 414,
@@ -846,7 +1056,9 @@
       "TacticEntityType": "Boss",
       "StatType": "StabilityRate",
       "StatMinValue": 0,
-      "StatMaxValue": 10000
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 416,
@@ -854,7 +1066,9 @@
       "TacticEntityType": "Boss",
       "StatType": "HealEffectivenessRate",
       "StatMinValue": 2000,
-      "StatMaxValue": 20000
+      "StatMaxValue": 20000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 417,
@@ -862,7 +1076,9 @@
       "TacticEntityType": "Boss",
       "StatType": "CriticalChanceResistPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 418,
@@ -870,7 +1086,9 @@
       "TacticEntityType": "Boss",
       "StatType": "CriticalDamageResistRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 419,
@@ -878,7 +1096,9 @@
       "TacticEntityType": "Boss",
       "StatType": "NormalAttackSpeed",
       "StatMinValue": 2000,
-      "StatMaxValue": 30000
+      "StatMaxValue": 30000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 420,
@@ -886,7 +1106,9 @@
       "TacticEntityType": "Boss",
       "StatType": "DamageRatio",
       "StatMinValue": 2000,
-      "StatMaxValue": 19999
+      "StatMaxValue": 19999,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 421,
@@ -894,7 +1116,9 @@
       "TacticEntityType": "Boss",
       "StatType": "DamagedRatio",
       "StatMinValue": 2000,
-      "StatMaxValue": 19999
+      "StatMaxValue": 19999,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 422,
@@ -902,7 +1126,9 @@
       "TacticEntityType": "Boss",
       "StatType": "OppressionPower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 423,
@@ -910,7 +1136,9 @@
       "TacticEntityType": "Boss",
       "StatType": "OppressionResist",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 424,
@@ -918,7 +1146,9 @@
       "TacticEntityType": "Boss",
       "StatType": "RegenCost",
       "StatMinValue": 0,
-      "StatMaxValue": 10000
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 501,
@@ -926,7 +1156,9 @@
       "TacticEntityType": "Summoned",
       "StatType": "MaxHP",
       "StatMinValue": 0,
-      "StatMaxValue": 10000000
+      "StatMaxValue": 10000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 502,
@@ -934,7 +1166,9 @@
       "TacticEntityType": "Summoned",
       "StatType": "AttackPower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 503,
@@ -942,7 +1176,9 @@
       "TacticEntityType": "Summoned",
       "StatType": "DefensePower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 504,
@@ -950,7 +1186,9 @@
       "TacticEntityType": "Summoned",
       "StatType": "HealPower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 505,
@@ -958,7 +1196,9 @@
       "TacticEntityType": "Summoned",
       "StatType": "AccuracyPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 506,
@@ -966,7 +1206,9 @@
       "TacticEntityType": "Summoned",
       "StatType": "AccuracyRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 507,
@@ -974,7 +1216,9 @@
       "TacticEntityType": "Summoned",
       "StatType": "DodgePoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 508,
@@ -982,7 +1226,9 @@
       "TacticEntityType": "Summoned",
       "StatType": "DodgeRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 509,
@@ -990,7 +1236,9 @@
       "TacticEntityType": "Summoned",
       "StatType": "CriticalPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 510,
@@ -998,7 +1246,9 @@
       "TacticEntityType": "Summoned",
       "StatType": "CriticalChanceRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 511,
@@ -1006,7 +1256,9 @@
       "TacticEntityType": "Summoned",
       "StatType": "CriticalDamageRate",
       "StatMinValue": 10000,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 512,
@@ -1014,7 +1266,9 @@
       "TacticEntityType": "Summoned",
       "StatType": "MoveSpeed",
       "StatMinValue": 40,
-      "StatMaxValue": 1000
+      "StatMaxValue": 1000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 513,
@@ -1022,7 +1276,9 @@
       "TacticEntityType": "Summoned",
       "StatType": "StabilityPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 514,
@@ -1030,7 +1286,9 @@
       "TacticEntityType": "Summoned",
       "StatType": "StabilityRate",
       "StatMinValue": 0,
-      "StatMaxValue": 10000
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 516,
@@ -1038,7 +1296,9 @@
       "TacticEntityType": "Summoned",
       "StatType": "HealEffectivenessRate",
       "StatMinValue": 2000,
-      "StatMaxValue": 20000
+      "StatMaxValue": 20000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 517,
@@ -1046,7 +1306,9 @@
       "TacticEntityType": "Summoned",
       "StatType": "CriticalChanceResistPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 518,
@@ -1054,7 +1316,9 @@
       "TacticEntityType": "Summoned",
       "StatType": "CriticalDamageResistRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 519,
@@ -1062,7 +1326,9 @@
       "TacticEntityType": "Summoned",
       "StatType": "NormalAttackSpeed",
       "StatMinValue": 2000,
-      "StatMaxValue": 30000
+      "StatMaxValue": 30000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 520,
@@ -1070,7 +1336,9 @@
       "TacticEntityType": "Summoned",
       "StatType": "DamageRatio",
       "StatMinValue": 2000,
-      "StatMaxValue": 18000
+      "StatMaxValue": 18000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 521,
@@ -1078,7 +1346,9 @@
       "TacticEntityType": "Summoned",
       "StatType": "DamagedRatio",
       "StatMinValue": 2000,
-      "StatMaxValue": 18000
+      "StatMaxValue": 18000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 522,
@@ -1086,7 +1356,9 @@
       "TacticEntityType": "Summoned",
       "StatType": "OppressionPower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 523,
@@ -1094,7 +1366,9 @@
       "TacticEntityType": "Summoned",
       "StatType": "OppressionResist",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 524,
@@ -1102,7 +1376,9 @@
       "TacticEntityType": "Summoned",
       "StatType": "RegenCost",
       "StatMinValue": 0,
-      "StatMaxValue": 10000
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 601,
@@ -1110,7 +1386,9 @@
       "TacticEntityType": "Obstacle",
       "StatType": "MaxHP",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 602,
@@ -1118,7 +1396,9 @@
       "TacticEntityType": "Obstacle",
       "StatType": "AttackPower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 603,
@@ -1126,7 +1406,9 @@
       "TacticEntityType": "Obstacle",
       "StatType": "DefensePower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 604,
@@ -1134,7 +1416,9 @@
       "TacticEntityType": "Obstacle",
       "StatType": "HealPower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 605,
@@ -1142,7 +1426,9 @@
       "TacticEntityType": "Obstacle",
       "StatType": "AccuracyPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 606,
@@ -1150,7 +1436,9 @@
       "TacticEntityType": "Obstacle",
       "StatType": "AccuracyRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 607,
@@ -1158,7 +1446,9 @@
       "TacticEntityType": "Obstacle",
       "StatType": "DodgePoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 608,
@@ -1166,7 +1456,9 @@
       "TacticEntityType": "Obstacle",
       "StatType": "DodgeRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 609,
@@ -1174,7 +1466,9 @@
       "TacticEntityType": "Obstacle",
       "StatType": "CriticalPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 610,
@@ -1182,7 +1476,9 @@
       "TacticEntityType": "Obstacle",
       "StatType": "CriticalChanceRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 611,
@@ -1190,7 +1486,9 @@
       "TacticEntityType": "Obstacle",
       "StatType": "CriticalDamageRate",
       "StatMinValue": 10000,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 612,
@@ -1198,7 +1496,9 @@
       "TacticEntityType": "Obstacle",
       "StatType": "MoveSpeed",
       "StatMinValue": 40,
-      "StatMaxValue": 1000
+      "StatMaxValue": 1000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 613,
@@ -1206,7 +1506,9 @@
       "TacticEntityType": "Obstacle",
       "StatType": "StabilityPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 614,
@@ -1214,7 +1516,9 @@
       "TacticEntityType": "Obstacle",
       "StatType": "StabilityRate",
       "StatMinValue": 0,
-      "StatMaxValue": 10000
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 616,
@@ -1222,7 +1526,9 @@
       "TacticEntityType": "Obstacle",
       "StatType": "HealEffectivenessRate",
       "StatMinValue": 2000,
-      "StatMaxValue": 20000
+      "StatMaxValue": 20000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 617,
@@ -1230,7 +1536,9 @@
       "TacticEntityType": "Obstacle",
       "StatType": "CriticalChanceResistPoint",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 618,
@@ -1238,7 +1546,9 @@
       "TacticEntityType": "Obstacle",
       "StatType": "CriticalDamageResistRate",
       "StatMinValue": -8000,
-      "StatMaxValue": 8000
+      "StatMaxValue": 8000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 619,
@@ -1246,7 +1556,9 @@
       "TacticEntityType": "Obstacle",
       "StatType": "NormalAttackSpeed",
       "StatMinValue": 2000,
-      "StatMaxValue": 30000
+      "StatMaxValue": 30000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 620,
@@ -1254,7 +1566,9 @@
       "TacticEntityType": "Obstacle",
       "StatType": "DamageRatio",
       "StatMinValue": 2000,
-      "StatMaxValue": 18000
+      "StatMaxValue": 18000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 621,
@@ -1262,7 +1576,9 @@
       "TacticEntityType": "Obstacle",
       "StatType": "DamagedRatio",
       "StatMinValue": 2000,
-      "StatMaxValue": 18000
+      "StatMaxValue": 18000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 622,
@@ -1270,7 +1586,9 @@
       "TacticEntityType": "Obstacle",
       "StatType": "OppressionPower",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 623,
@@ -1278,7 +1596,9 @@
       "TacticEntityType": "Obstacle",
       "StatType": "OppressionResist",
       "StatMinValue": 0,
-      "StatMaxValue": 1000000
+      "StatMaxValue": 1000000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     },
     {
       "Id": 624,
@@ -1286,7 +1606,9 @@
       "TacticEntityType": "Obstacle",
       "StatType": "RegenCost",
       "StatMinValue": 0,
-      "StatMaxValue": 10000
+      "StatMaxValue": 10000,
+      "StatRatioMinValue": -8000,
+      "StatRatioMaxValue": 100000
     }
   ]
 }

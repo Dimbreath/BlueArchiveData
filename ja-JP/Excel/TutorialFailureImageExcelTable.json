@@ -5,133 +5,152 @@
       "DevName": "4-5 핀포인트 패배 튜토리얼",
       "Contents": "Campaign",
       "Type": "1041105",
-      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail"
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_jp"
     },
     {
       "Id": 10002,
       "DevName": "10-5 핀포인트 패배 튜토리얼",
       "Contents": "Campaign",
       "Type": "1101105",
-      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail"
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_jp"
     },
     {
       "Id": 10003,
       "DevName": "11-4 핀포인트 패배 튜토리얼",
       "Contents": "Campaign",
       "Type": "1111104",
-      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail"
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_jp"
     },
     {
       "Id": 10004,
       "DevName": "11-5 핀포인트 패배 튜토리얼",
       "Contents": "Campaign",
       "Type": "1111105",
-      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail"
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_jp"
     },
     {
       "Id": 20101,
       "DevName": "요일 던전 추격전 안내",
       "Contents": "WeekDungeon",
       "Type": "Chaser",
-      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_Chaser"
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_Chaser_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_Chaser_jp"
     },
     {
       "Id": 20201,
       "DevName": "요일 던전 선물 찾기 안내",
       "Contents": "WeekDungeon",
       "Type": "FindGift",
-      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_FindGift"
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_FindGift_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_FindGift_jp"
     },
     {
       "Id": 20301,
       "DevName": "요일 던전 블러드 안내",
       "Contents": "WeekDungeon",
       "Type": "Blood",
-      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_Blood"
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_Blood_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_Blood_jp"
     },
     {
       "Id": 30101,
       "DevName": "레이드 비나 안내",
       "Contents": "Raid",
       "Type": "Binah",
-      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah"
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_jp"
     },
     {
       "Id": 30201,
       "DevName": "레이드 헤세드 안내 1",
       "Contents": "Raid",
       "Type": "Chesed",
-      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01"
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_jp"
     },
     {
       "Id": 30202,
       "DevName": "레이드 헤세드 안내 2",
       "Contents": "Raid",
       "Type": "Chesed",
-      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02"
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_jp"
     },
     {
       "Id": 30203,
       "DevName": "레이드 헤세드 안내 3",
       "Contents": "Raid",
       "Type": "Chesed",
-      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03"
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_jp"
     },
     {
       "Id": 30301,
       "DevName": "레이드 시로쿠로 안내 1",
       "Contents": "Raid",
       "Type": "ShiroKuro",
-      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01"
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_jp"
     },
     {
       "Id": 30302,
       "DevName": "레이드 시로쿠로 안내 2",
       "Contents": "Raid",
       "Type": "ShiroKuro",
-      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02"
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_jp"
     },
     {
       "Id": 30303,
       "DevName": "레이드 시로쿠로 안내 3",
       "Contents": "Raid",
       "Type": "ShiroKuro",
-      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03"
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_jp"
     },
     {
       "Id": 90001,
       "DevName": "지형 적응 안내",
       "Contents": "None",
       "Type": "None",
-      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Topography"
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Topography_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Topography_jp"
     },
     {
       "Id": 90002,
       "DevName": "상성 안내",
       "Contents": "None",
       "Type": "None",
-      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialType"
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialType_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialType_jp"
     },
     {
       "Id": 90003,
       "DevName": "캐릭터 성장 안내",
       "Contents": "None",
       "Type": "None",
-      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CharacterGrowth"
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CharacterGrowth_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CharacterGrowth_jp"
     },
     {
       "Id": 90004,
       "DevName": "장비 성장 안내",
       "Contents": "None",
       "Type": "None",
-      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EquipmentGrowth"
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EquipmentGrowth_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EquipmentGrowth_jp"
     },
     {
       "Id": 90005,
       "DevName": "코스트 충전 안내",
       "Contents": "None",
       "Type": "None",
-      "ImagePath": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CostCharge"
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CostCharge_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CostCharge_jp"
     }
   ]
 }

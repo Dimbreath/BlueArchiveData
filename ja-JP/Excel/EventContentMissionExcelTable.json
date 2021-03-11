@@ -4,7 +4,7 @@
       "Id": 1,
       "EventContentId": 10001,
       "DevName": "이벤트 스테이지 클리어",
-      "GroupId": 1,
+      "GroupId": 0,
       "GroupName": null,
       "Category": "Achievement",
       "Description": "Event_Mission_Clear_Campaign",
@@ -37,7 +37,7 @@
       "Id": 2,
       "EventContentId": 10001,
       "DevName": "이벤트 스테이지 최초 클리어",
-      "GroupId": 1,
+      "GroupId": 0,
       "GroupName": null,
       "Category": "Achievement",
       "Description": "Event_Mission_Clear_Specific_Campaign_Stage",
@@ -72,7 +72,7 @@
       "Id": 3,
       "EventContentId": 10001,
       "DevName": "이벤트 스테이지를 n턴 이내 클리어",
-      "GroupId": 1,
+      "GroupId": 0,
       "GroupName": null,
       "Category": "Achievement",
       "Description": "Event_Mission_Complete_Campaign_Stage_Minimum_Turn",
@@ -107,7 +107,7 @@
       "Id": 4,
       "EventContentId": 10001,
       "DevName": "이벤트 노멀 스테이지 클리어 n회",
-      "GroupId": 1,
+      "GroupId": 0,
       "GroupName": null,
       "Category": "Daily",
       "Description": "Event_MISSION_CLEAR_CAMPAIGN_STAGE_DIFFICULTY_Normal",
@@ -140,7 +140,7 @@
       "Id": 5,
       "EventContentId": 10001,
       "DevName": "이벤트 하드 스테이지 클리어 n회",
-      "GroupId": 1,
+      "GroupId": 0,
       "GroupName": null,
       "Category": "Daily",
       "Description": "Event_MISSION_CLEAR_CAMPAIGN_STAGE_DIFFICULTY_Hard",
@@ -167,6 +167,324 @@
       ],
       "MissionRewardAmount": [
         33
+      ]
+    },
+    {
+      "Id": 6,
+      "EventContentId": 10001,
+      "DevName": "골드 획득량 100000달성",
+      "GroupId": 0,
+      "GroupName": null,
+      "Category": "Achievement",
+      "Description": "MISSION_GET_GOLD",
+      "ResetType": "None",
+      "ViewFlag": true,
+      "DisplayOrder": 6,
+      "PreMissionId": [],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ShortcutUI": [],
+      "CompleteConditionType": "GetGold",
+      "CompleteConditionCount": 100000,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterName": [],
+      "RewardIcon": null,
+      "MissionRewardParcelType": [
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardParcelDevName": [
+        "gem_bonus"
+      ],
+      "MissionRewardAmount": [
+        11
+      ]
+    },
+    {
+      "Id": 7,
+      "EventContentId": 10001,
+      "DevName": "학생 획득 횟수 10",
+      "GroupId": 0,
+      "GroupName": null,
+      "Category": "Achievement",
+      "Description": "MISSION_GET_CHARACTER_COUNT",
+      "ResetType": "None",
+      "ViewFlag": true,
+      "DisplayOrder": 7,
+      "PreMissionId": [],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UIGacha",
+        "UIShop|SecretStone"
+      ],
+      "CompleteConditionType": "GetCharacterCount",
+      "CompleteConditionCount": 10,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterName": [],
+      "RewardIcon": null,
+      "MissionRewardParcelType": [
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardParcelDevName": [
+        "gem_bonus"
+      ],
+      "MissionRewardAmount": [
+        100
+      ]
+    },
+    {
+      "Id": 8,
+      "EventContentId": 10001,
+      "DevName": "장비 레벨업 횟수 10",
+      "GroupId": 0,
+      "GroupName": null,
+      "Category": "Achievement",
+      "Description": "MISSION_CLEAR_EQUIPMENT_LEVEL_UP_COUNT",
+      "ResetType": "None",
+      "ViewFlag": true,
+      "DisplayOrder": 8,
+      "PreMissionId": [],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UICharacterCollection"
+      ],
+      "CompleteConditionType": "EquipmentLevelUpCount",
+      "CompleteConditionCount": 10,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterName": [],
+      "RewardIcon": null,
+      "MissionRewardParcelType": [
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardParcelDevName": [
+        "gold"
+      ],
+      "MissionRewardAmount": [
+        500
+      ]
+    },
+    {
+      "Id": 9,
+      "EventContentId": 10001,
+      "DevName": "장비 레벨업 횟수 20",
+      "GroupId": 0,
+      "GroupName": null,
+      "Category": "Achievement",
+      "Description": "MISSION_CLEAR_EQUIPMENT_LEVEL_UP_COUNT",
+      "ResetType": "None",
+      "ViewFlag": true,
+      "DisplayOrder": 8,
+      "PreMissionId": [
+        8
+      ],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UICharacterCollection"
+      ],
+      "CompleteConditionType": "EquipmentLevelUpCount",
+      "CompleteConditionCount": 20,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterName": [],
+      "RewardIcon": null,
+      "MissionRewardParcelType": [
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        1
+      ],
+      "MissionRewardParcelDevName": [
+        "gold"
+      ],
+      "MissionRewardAmount": [
+        500
+      ]
+    },
+    {
+      "Id": 10,
+      "EventContentId": 10001,
+      "DevName": "학생 레벨업 횟수 10",
+      "GroupId": 0,
+      "GroupName": null,
+      "Category": "Achievement",
+      "Description": "MISSION_CLEAR_CHARACTER_LEVEL_UP_COUNT",
+      "ResetType": "None",
+      "ViewFlag": true,
+      "DisplayOrder": 9,
+      "PreMissionId": [],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UICharacterCollection"
+      ],
+      "CompleteConditionType": "CharacterLevelUpCount",
+      "CompleteConditionCount": 10,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterName": [],
+      "RewardIcon": null,
+      "MissionRewardParcelType": [
+        "Item"
+      ],
+      "MissionRewardParcelId": [
+        10
+      ],
+      "MissionRewardParcelDevName": [
+        "ExpItem_0"
+      ],
+      "MissionRewardAmount": [
+        5
+      ]
+    },
+    {
+      "Id": 11,
+      "EventContentId": 10001,
+      "DevName": "학생 레벨업 횟수 20",
+      "GroupId": 0,
+      "GroupName": null,
+      "Category": "Achievement",
+      "Description": "MISSION_CLEAR_CHARACTER_LEVEL_UP_COUNT",
+      "ResetType": "None",
+      "ViewFlag": true,
+      "DisplayOrder": 9,
+      "PreMissionId": [
+        10
+      ],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UICharacterCollection"
+      ],
+      "CompleteConditionType": "CharacterLevelUpCount",
+      "CompleteConditionCount": 20,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterName": [],
+      "RewardIcon": null,
+      "MissionRewardParcelType": [
+        "Item"
+      ],
+      "MissionRewardParcelId": [
+        10
+      ],
+      "MissionRewardParcelDevName": [
+        "ExpItem_0"
+      ],
+      "MissionRewardAmount": [
+        5
+      ]
+    },
+    {
+      "Id": 12,
+      "EventContentId": 10001,
+      "DevName": "학생 스킬 레벨업 횟수 10",
+      "GroupId": 0,
+      "GroupName": null,
+      "Category": "Achievement",
+      "Description": "MISSION_CHARACTER_SKILL_LEVEL_UP_COUNT",
+      "ResetType": "None",
+      "ViewFlag": true,
+      "DisplayOrder": 10,
+      "PreMissionId": [],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UICharacterCollection"
+      ],
+      "CompleteConditionType": "CharacterSkillLevelUpCount",
+      "CompleteConditionCount": 10,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterName": [],
+      "RewardIcon": null,
+      "MissionRewardParcelType": [
+        "Item"
+      ],
+      "MissionRewardParcelId": [
+        40000
+      ],
+      "MissionRewardParcelDevName": [
+        "Cosumable_Chase_Skillbook_0"
+      ],
+      "MissionRewardAmount": [
+        5
+      ]
+    },
+    {
+      "Id": 13,
+      "EventContentId": 10001,
+      "DevName": "학생 스킬 레벨업 횟수 20",
+      "GroupId": 0,
+      "GroupName": null,
+      "Category": "Achievement",
+      "Description": "MISSION_CHARACTER_SKILL_LEVEL_UP_COUNT",
+      "ResetType": "None",
+      "ViewFlag": true,
+      "DisplayOrder": 10,
+      "PreMissionId": [
+        12
+      ],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ShortcutUI": [
+        "UICharacterCollection"
+      ],
+      "CompleteConditionType": "CharacterSkillLevelUpCount",
+      "CompleteConditionCount": 20,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterName": [],
+      "RewardIcon": null,
+      "MissionRewardParcelType": [
+        "Item"
+      ],
+      "MissionRewardParcelId": [
+        40000
+      ],
+      "MissionRewardParcelDevName": [
+        "Cosumable_Chase_Skillbook_0"
+      ],
+      "MissionRewardAmount": [
+        5
+      ]
+    },
+    {
+      "Id": 14,
+      "EventContentId": 10001,
+      "DevName": "골드 소모량 달성 100000",
+      "GroupId": 0,
+      "GroupName": null,
+      "Category": "Achievement",
+      "Description": "MISSION_USE_GOLD",
+      "ResetType": "None",
+      "ViewFlag": true,
+      "DisplayOrder": 11,
+      "PreMissionId": [],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ShortcutUI": [],
+      "CompleteConditionType": "UseGold",
+      "CompleteConditionCount": 100000,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterName": [],
+      "RewardIcon": null,
+      "MissionRewardParcelType": [
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardParcelDevName": [
+        "gem_bonus"
+      ],
+      "MissionRewardAmount": [
+        10
       ]
     }
   ]

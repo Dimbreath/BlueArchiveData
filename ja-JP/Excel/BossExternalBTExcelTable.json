@@ -831,7 +831,7 @@
       "AIPhase": 0,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "HPUnder",
-      "TriggerArgument": "366999",
+      "TriggerArgument": "310999",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "1"
@@ -952,7 +952,7 @@
       "AIPhase": 0,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "HPUnder",
-      "TriggerArgument": "593999",
+      "TriggerArgument": "503999",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "1"
@@ -1073,7 +1073,7 @@
       "AIPhase": 0,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "HPUnder",
-      "TriggerArgument": "917999",
+      "TriggerArgument": "779999",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "1"
@@ -1313,9 +1313,31 @@
       "CharacterId": 7302100,
       "DevName": "Shiro_default_Normal",
       "AIPhase": 0,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "ApplyGroggy",
+      "TriggerArgument": null,
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302100,
+      "DevName": "Shiro_default_Normal",
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "ApplyGroggy",
+      "TriggerArgument": null,
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "6"
+    },
+    {
+      "CharacterId": 7302100,
+      "DevName": "Shiro_default_Normal",
+      "AIPhase": 0,
       "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
+      "ExternalBTTrigger": "CheckActiveGaugeBetween",
+      "TriggerArgument": "40,50",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "1"
@@ -1323,46 +1345,68 @@
     {
       "CharacterId": 7302100,
       "DevName": "Shiro_default_Normal",
-      "AIPhase": 1,
+      "AIPhase": 0,
       "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "ApplyGroggy",
-      "TriggerArgument": null,
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302100,
+      "DevName": "Shiro_default_Normal",
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302100,
+      "DevName": "Shiro_default_Normal",
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302100,
+      "DevName": "Shiro_default_Normal",
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
     },
     {
       "CharacterId": 7302100,
       "DevName": "Shiro_default_Normal",
       "AIPhase": 1,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "ApplyGroggy",
+      "TriggerArgument": null,
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302100,
+      "DevName": "Shiro_default_Normal",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302100,
-      "DevName": "Shiro_default_Normal",
-      "AIPhase": 1,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
-    },
-    {
-      "CharacterId": 7302100,
-      "DevName": "Shiro_default_Normal",
-      "AIPhase": 1,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "0"
+      "BehaviorArgument": "6"
     },
     {
       "CharacterId": 7302100,
@@ -1370,7 +1414,7 @@
       "AIPhase": 1,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "40,50",
+      "TriggerArgument": "50,60",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "2"
@@ -1379,12 +1423,34 @@
       "CharacterId": 7302100,
       "DevName": "Shiro_default_Normal",
       "AIPhase": 1,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302100,
+      "DevName": "Shiro_default_Normal",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "40"
+    },
+    {
+      "CharacterId": 7302100,
+      "DevName": "Shiro_default_Normal",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "0"
+      "BehaviorArgument": "4"
     },
     {
       "CharacterId": 7302100,
@@ -1401,45 +1467,23 @@
       "CharacterId": 7302100,
       "DevName": "Shiro_default_Normal",
       "AIPhase": 2,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302100,
       "DevName": "Shiro_default_Normal",
       "AIPhase": 2,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302100,
-      "DevName": "Shiro_default_Normal",
-      "AIPhase": 2,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
-    },
-    {
-      "CharacterId": 7302100,
-      "DevName": "Shiro_default_Normal",
-      "AIPhase": 2,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "40"
+      "BehaviorArgument": "6"
     },
     {
       "CharacterId": 7302100,
@@ -1447,7 +1491,7 @@
       "AIPhase": 2,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "50,90",
+      "TriggerArgument": "90,100",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "3"
@@ -1458,7 +1502,29 @@
       "AIPhase": 2,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "500",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302100,
+      "DevName": "Shiro_default_Normal",
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "50"
+    },
+    {
+      "CharacterId": 7302100,
+      "DevName": "Shiro_default_Normal",
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "MoveRight",
       "BehaviorArgument": "-3.2,32.06"
@@ -1472,7 +1538,7 @@
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "3"
+      "BehaviorArgument": "1"
     },
     {
       "CharacterId": 7302100,
@@ -1489,45 +1555,23 @@
       "CharacterId": 7302100,
       "DevName": "Shiro_default_Normal",
       "AIPhase": 3,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302100,
       "DevName": "Shiro_default_Normal",
       "AIPhase": 3,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302100,
-      "DevName": "Shiro_default_Normal",
-      "AIPhase": 3,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
-    },
-    {
-      "CharacterId": 7302100,
-      "DevName": "Shiro_default_Normal",
-      "AIPhase": 3,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "50"
+      "BehaviorArgument": "6"
     },
     {
       "CharacterId": 7302100,
@@ -1535,7 +1579,7 @@
       "AIPhase": 3,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "90,100",
+      "TriggerArgument": "100,999",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "4"
@@ -1544,12 +1588,34 @@
       "CharacterId": 7302100,
       "DevName": "Shiro_default_Normal",
       "AIPhase": 3,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302100,
+      "DevName": "Shiro_default_Normal",
+      "AIPhase": 3,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "90"
+    },
+    {
+      "CharacterId": 7302100,
+      "DevName": "Shiro_default_Normal",
+      "AIPhase": 3,
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "1"
+      "BehaviorArgument": "3"
     },
     {
       "CharacterId": 7302100,
@@ -1566,45 +1632,23 @@
       "CharacterId": 7302100,
       "DevName": "Shiro_default_Normal",
       "AIPhase": 4,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302100,
       "DevName": "Shiro_default_Normal",
       "AIPhase": 4,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302100,
-      "DevName": "Shiro_default_Normal",
-      "AIPhase": 4,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
-    },
-    {
-      "CharacterId": 7302100,
-      "DevName": "Shiro_default_Normal",
-      "AIPhase": 4,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "90"
+      "BehaviorArgument": "6"
     },
     {
       "CharacterId": 7302100,
@@ -1612,7 +1656,7 @@
       "AIPhase": 4,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "100,101",
+      "TriggerArgument": "102,999",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "5"
@@ -1623,7 +1667,29 @@
       "AIPhase": 4,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "500",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302100,
+      "DevName": "Shiro_default_Normal",
+      "AIPhase": 4,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "100"
+    },
+    {
+      "CharacterId": 7302100,
+      "DevName": "Shiro_default_Normal",
+      "AIPhase": 4,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "MoveLeft",
       "BehaviorArgument": "3.6,32.06"
@@ -1637,7 +1703,7 @@
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "5"
+      "BehaviorArgument": "2"
     },
     {
       "CharacterId": 7302100,
@@ -1654,56 +1720,67 @@
       "CharacterId": 7302100,
       "DevName": "Shiro_default_Normal",
       "AIPhase": 5,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302100,
       "DevName": "Shiro_default_Normal",
       "AIPhase": 5,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302100,
-      "DevName": "Shiro_default_Normal",
-      "AIPhase": 5,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
-    },
-    {
-      "CharacterId": 7302100,
-      "DevName": "Shiro_default_Normal",
-      "AIPhase": 5,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "100"
-    },
-    {
-      "CharacterId": 7302100,
-      "DevName": "Shiro_default_Normal",
-      "AIPhase": 5,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "102,999",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "6"
+    },
+    {
+      "CharacterId": 7302100,
+      "DevName": "Shiro_default_Normal",
+      "AIPhase": 5,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302100,
+      "DevName": "Shiro_default_Normal",
+      "AIPhase": 5,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "102"
+    },
+    {
+      "CharacterId": 7302100,
+      "DevName": "Shiro_default_Normal",
+      "AIPhase": 5,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "5"
+    },
+    {
+      "CharacterId": 7302100,
+      "DevName": "Shiro_default_Normal",
+      "AIPhase": 5,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "30000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "MoveRight",
+      "BehaviorArgument": "0.1,32.06"
     },
     {
       "CharacterId": 7302100,
@@ -1731,45 +1808,34 @@
       "CharacterId": 7302100,
       "DevName": "Shiro_default_Normal",
       "AIPhase": 6,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302100,
       "DevName": "Shiro_default_Normal",
       "AIPhase": 6,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "6"
+    },
+    {
+      "CharacterId": 7302100,
+      "DevName": "Shiro_default_Normal",
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "ApplyGroggy",
+      "TriggerArgument": null,
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
       "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302100,
-      "DevName": "Shiro_default_Normal",
-      "AIPhase": 6,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
-    },
-    {
-      "CharacterId": 7302100,
-      "DevName": "Shiro_default_Normal",
-      "AIPhase": 6,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "102"
     },
     {
       "CharacterId": 7302100,
@@ -1777,10 +1843,10 @@
       "AIPhase": 6,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "100,102",
+      "TriggerArgument": "50,60",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "5"
+      "BehaviorArgument": "2"
     },
     {
       "CharacterId": 7302100,
@@ -1790,30 +1856,63 @@
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "MoveRight",
-      "BehaviorArgument": "0.1,32.06"
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302100,
       "DevName": "Shiro_default_Normal",
       "AIPhase": 6,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302100,
+      "DevName": "Shiro_default_Normal",
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "MoveLeft",
+      "BehaviorArgument": "3.6,32.06"
+    },
+    {
+      "CharacterId": 7302100,
+      "DevName": "Shiro_default_Normal",
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "4"
+      "BehaviorArgument": "0"
     },
     {
       "CharacterId": 7302100,
       "DevName": "Shiro_default_Normal",
       "AIPhase": 6,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "6",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
+      "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302100,
+      "DevName": "Shiro_default_Normal",
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "9",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "5"
     },
     {
       "CharacterId": 7302101,
@@ -1821,7 +1920,7 @@
       "AIPhase": 0,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "HPUnder",
-      "TriggerArgument": "20999",
+      "TriggerArgument": "214999",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "7"
@@ -1835,7 +1934,7 @@
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302101,
@@ -1846,7 +1945,7 @@
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302101,
@@ -1874,20 +1973,9 @@
       "CharacterId": 7302101,
       "DevName": "Kuro_default_Normal",
       "AIPhase": 7,
-      "ExternalBTNodeType": "Sequence",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302101,
-      "DevName": "Kuro_default_Normal",
-      "AIPhase": 7,
       "ExternalBTNodeType": "Selector",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
+      "TriggerArgument": "3",
       "BehaviorRate": 4000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "0"
@@ -1917,13 +2005,24 @@
     {
       "CharacterId": 7302101,
       "DevName": "Kuro_default_Normal",
+      "AIPhase": 7,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302101,
+      "DevName": "Kuro_default_Normal",
       "AIPhase": 8,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302101,
@@ -1945,7 +2044,7 @@
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302101,
@@ -1964,10 +2063,21 @@
       "AIPhase": 8,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "50,90",
+      "TriggerArgument": "50,60",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "9"
+    },
+    {
+      "CharacterId": 7302101,
+      "DevName": "Kuro_default_Normal",
+      "AIPhase": 8,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
     },
     {
       "CharacterId": 7302101,
@@ -1983,24 +2093,13 @@
     {
       "CharacterId": 7302101,
       "DevName": "Kuro_default_Normal",
-      "AIPhase": 8,
-      "ExternalBTNodeType": "Selector",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "2"
-    },
-    {
-      "CharacterId": 7302101,
-      "DevName": "Kuro_default_Normal",
       "AIPhase": 9,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302101,
@@ -2022,7 +2121,7 @@
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302101,
@@ -2050,20 +2149,9 @@
       "CharacterId": 7302101,
       "DevName": "Kuro_default_Normal",
       "AIPhase": 9,
-      "ExternalBTNodeType": "Sequence",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302101,
-      "DevName": "Kuro_default_Normal",
-      "AIPhase": 9,
       "ExternalBTNodeType": "Selector",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
+      "TriggerArgument": "3",
       "BehaviorRate": 4000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "3"
@@ -2093,13 +2181,24 @@
     {
       "CharacterId": 7302101,
       "DevName": "Kuro_default_Normal",
+      "AIPhase": 9,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302101,
+      "DevName": "Kuro_default_Normal",
       "AIPhase": 10,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302101,
@@ -2121,7 +2220,7 @@
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302101,
@@ -2160,9 +2259,9 @@
       "CharacterId": 7302101,
       "DevName": "Kuro_default_Normal",
       "AIPhase": 10,
-      "ExternalBTNodeType": "Selector",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
+      "TriggerArgument": "3",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "5"
@@ -2176,7 +2275,7 @@
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302101,
@@ -2198,7 +2297,7 @@
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302101,
@@ -2209,18 +2308,7 @@
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "101"
-    },
-    {
-      "CharacterId": 7302101,
-      "DevName": "Kuro_default_Normal",
-      "AIPhase": 11,
-      "ExternalBTNodeType": "Sequence",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
+      "BehaviorArgument": "100"
     },
     {
       "CharacterId": 7302101,
@@ -2228,8 +2316,8 @@
       "AIPhase": 11,
       "ExternalBTNodeType": "Selector",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
-      "BehaviorRate": 4000,
+      "TriggerArgument": "3",
+      "BehaviorRate": 5000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "6"
     },
@@ -2240,7 +2328,7 @@
       "ExternalBTNodeType": "SubNode",
       "ExternalBTTrigger": "None",
       "TriggerArgument": null,
-      "BehaviorRate": 4000,
+      "BehaviorRate": 5000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "7"
     },
@@ -2248,12 +2336,45 @@
       "CharacterId": 7302101,
       "DevName": "Kuro_default_Normal",
       "AIPhase": 11,
-      "ExternalBTNodeType": "SubNode",
-      "ExternalBTTrigger": "None",
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302200,
+      "DevName": "Shiro_default_Hard",
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
-      "BehaviorRate": 2000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "8"
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302200,
+      "DevName": "Shiro_default_Hard",
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "ApplyGroggy",
+      "TriggerArgument": null,
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "6"
+    },
+    {
+      "CharacterId": 7302200,
+      "DevName": "Shiro_default_Hard",
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckActiveGaugeBetween",
+      "TriggerArgument": "40,50",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "1"
     },
     {
       "CharacterId": 7302200,
@@ -2263,52 +2384,63 @@
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "1"
-    },
-    {
-      "CharacterId": 7302200,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 1,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "ApplyGroggy",
-      "TriggerArgument": null,
-      "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302200,
       "DevName": "Shiro_default_Hard",
-      "AIPhase": 1,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "ApplyGroggy",
-      "TriggerArgument": null,
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302200,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 1,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
-    },
-    {
-      "CharacterId": 7302200,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 1,
+      "AIPhase": 0,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
       "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302200,
+      "DevName": "Shiro_default_Hard",
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302200,
+      "DevName": "Shiro_default_Hard",
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302200,
+      "DevName": "Shiro_default_Hard",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "ApplyGroggy",
+      "TriggerArgument": null,
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302200,
+      "DevName": "Shiro_default_Hard",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "ApplyGroggy",
+      "TriggerArgument": null,
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "6"
     },
     {
       "CharacterId": 7302200,
@@ -2316,7 +2448,7 @@
       "AIPhase": 1,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "40,50",
+      "TriggerArgument": "50,60",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "2"
@@ -2325,12 +2457,34 @@
       "CharacterId": 7302200,
       "DevName": "Shiro_default_Hard",
       "AIPhase": 1,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302200,
+      "DevName": "Shiro_default_Hard",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "40"
+    },
+    {
+      "CharacterId": 7302200,
+      "DevName": "Shiro_default_Hard",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "0"
+      "BehaviorArgument": "4"
     },
     {
       "CharacterId": 7302200,
@@ -2347,45 +2501,23 @@
       "CharacterId": 7302200,
       "DevName": "Shiro_default_Hard",
       "AIPhase": 2,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302200,
       "DevName": "Shiro_default_Hard",
       "AIPhase": 2,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302200,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 2,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
-    },
-    {
-      "CharacterId": 7302200,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 2,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "40"
+      "BehaviorArgument": "6"
     },
     {
       "CharacterId": 7302200,
@@ -2393,7 +2525,7 @@
       "AIPhase": 2,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "50,90",
+      "TriggerArgument": "90,100",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "3"
@@ -2404,7 +2536,29 @@
       "AIPhase": 2,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "500",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302200,
+      "DevName": "Shiro_default_Hard",
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "50"
+    },
+    {
+      "CharacterId": 7302200,
+      "DevName": "Shiro_default_Hard",
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "MoveRight",
       "BehaviorArgument": "-3.2,32.06"
@@ -2418,7 +2572,7 @@
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "3"
+      "BehaviorArgument": "1"
     },
     {
       "CharacterId": 7302200,
@@ -2435,45 +2589,23 @@
       "CharacterId": 7302200,
       "DevName": "Shiro_default_Hard",
       "AIPhase": 3,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302200,
       "DevName": "Shiro_default_Hard",
       "AIPhase": 3,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302200,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 3,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
-    },
-    {
-      "CharacterId": 7302200,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 3,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "50"
+      "BehaviorArgument": "6"
     },
     {
       "CharacterId": 7302200,
@@ -2481,7 +2613,7 @@
       "AIPhase": 3,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "90,100",
+      "TriggerArgument": "100,999",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "4"
@@ -2490,12 +2622,34 @@
       "CharacterId": 7302200,
       "DevName": "Shiro_default_Hard",
       "AIPhase": 3,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302200,
+      "DevName": "Shiro_default_Hard",
+      "AIPhase": 3,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "90"
+    },
+    {
+      "CharacterId": 7302200,
+      "DevName": "Shiro_default_Hard",
+      "AIPhase": 3,
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "1"
+      "BehaviorArgument": "3"
     },
     {
       "CharacterId": 7302200,
@@ -2512,45 +2666,23 @@
       "CharacterId": 7302200,
       "DevName": "Shiro_default_Hard",
       "AIPhase": 4,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302200,
       "DevName": "Shiro_default_Hard",
       "AIPhase": 4,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302200,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 4,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
-    },
-    {
-      "CharacterId": 7302200,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 4,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "90"
+      "BehaviorArgument": "6"
     },
     {
       "CharacterId": 7302200,
@@ -2558,7 +2690,7 @@
       "AIPhase": 4,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "100,101",
+      "TriggerArgument": "102,999",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "5"
@@ -2569,7 +2701,29 @@
       "AIPhase": 4,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "500",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302200,
+      "DevName": "Shiro_default_Hard",
+      "AIPhase": 4,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "100"
+    },
+    {
+      "CharacterId": 7302200,
+      "DevName": "Shiro_default_Hard",
+      "AIPhase": 4,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "MoveLeft",
       "BehaviorArgument": "3.6,32.06"
@@ -2583,7 +2737,7 @@
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "5"
+      "BehaviorArgument": "2"
     },
     {
       "CharacterId": 7302200,
@@ -2600,56 +2754,67 @@
       "CharacterId": 7302200,
       "DevName": "Shiro_default_Hard",
       "AIPhase": 5,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302200,
       "DevName": "Shiro_default_Hard",
       "AIPhase": 5,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302200,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 5,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
-    },
-    {
-      "CharacterId": 7302200,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 5,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "100"
-    },
-    {
-      "CharacterId": 7302200,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 5,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "102,999",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "6"
+    },
+    {
+      "CharacterId": 7302200,
+      "DevName": "Shiro_default_Hard",
+      "AIPhase": 5,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302200,
+      "DevName": "Shiro_default_Hard",
+      "AIPhase": 5,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "102"
+    },
+    {
+      "CharacterId": 7302200,
+      "DevName": "Shiro_default_Hard",
+      "AIPhase": 5,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "5"
+    },
+    {
+      "CharacterId": 7302200,
+      "DevName": "Shiro_default_Hard",
+      "AIPhase": 5,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "30000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "MoveRight",
+      "BehaviorArgument": "0.1,32.06"
     },
     {
       "CharacterId": 7302200,
@@ -2677,45 +2842,34 @@
       "CharacterId": 7302200,
       "DevName": "Shiro_default_Hard",
       "AIPhase": 6,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302200,
       "DevName": "Shiro_default_Hard",
       "AIPhase": 6,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "6"
+    },
+    {
+      "CharacterId": 7302200,
+      "DevName": "Shiro_default_Hard",
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "ApplyGroggy",
+      "TriggerArgument": null,
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
       "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302200,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 6,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
-    },
-    {
-      "CharacterId": 7302200,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 6,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "102"
     },
     {
       "CharacterId": 7302200,
@@ -2723,10 +2877,10 @@
       "AIPhase": 6,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "100,102",
+      "TriggerArgument": "50,60",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "5"
+      "BehaviorArgument": "2"
     },
     {
       "CharacterId": 7302200,
@@ -2736,30 +2890,63 @@
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "MoveRight",
-      "BehaviorArgument": "0.1,32.06"
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302200,
       "DevName": "Shiro_default_Hard",
       "AIPhase": 6,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302200,
+      "DevName": "Shiro_default_Hard",
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "MoveLeft",
+      "BehaviorArgument": "3.6,32.06"
+    },
+    {
+      "CharacterId": 7302200,
+      "DevName": "Shiro_default_Hard",
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "4"
+      "BehaviorArgument": "0"
     },
     {
       "CharacterId": 7302200,
       "DevName": "Shiro_default_Hard",
       "AIPhase": 6,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "6",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
+      "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302200,
+      "DevName": "Shiro_default_Hard",
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "9",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "5"
     },
     {
       "CharacterId": 7302201,
@@ -2767,7 +2954,7 @@
       "AIPhase": 0,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "HPUnder",
-      "TriggerArgument": "69999",
+      "TriggerArgument": "399999",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "7"
@@ -2781,7 +2968,7 @@
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302201,
@@ -2792,7 +2979,7 @@
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302201,
@@ -2820,20 +3007,9 @@
       "CharacterId": 7302201,
       "DevName": "Kuro_default_Hard",
       "AIPhase": 7,
-      "ExternalBTNodeType": "Sequence",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302201,
-      "DevName": "Kuro_default_Hard",
-      "AIPhase": 7,
       "ExternalBTNodeType": "Selector",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
+      "TriggerArgument": "3",
       "BehaviorRate": 4000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "0"
@@ -2863,13 +3039,24 @@
     {
       "CharacterId": 7302201,
       "DevName": "Kuro_default_Hard",
+      "AIPhase": 7,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302201,
+      "DevName": "Kuro_default_Hard",
       "AIPhase": 8,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302201,
@@ -2891,7 +3078,7 @@
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302201,
@@ -2910,10 +3097,21 @@
       "AIPhase": 8,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "50,90",
+      "TriggerArgument": "50,60",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "9"
+    },
+    {
+      "CharacterId": 7302201,
+      "DevName": "Kuro_default_Hard",
+      "AIPhase": 8,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
     },
     {
       "CharacterId": 7302201,
@@ -2929,24 +3127,13 @@
     {
       "CharacterId": 7302201,
       "DevName": "Kuro_default_Hard",
-      "AIPhase": 8,
-      "ExternalBTNodeType": "Selector",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "2"
-    },
-    {
-      "CharacterId": 7302201,
-      "DevName": "Kuro_default_Hard",
       "AIPhase": 9,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302201,
@@ -2968,7 +3155,7 @@
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302201,
@@ -2996,20 +3183,9 @@
       "CharacterId": 7302201,
       "DevName": "Kuro_default_Hard",
       "AIPhase": 9,
-      "ExternalBTNodeType": "Sequence",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302201,
-      "DevName": "Kuro_default_Hard",
-      "AIPhase": 9,
       "ExternalBTNodeType": "Selector",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
+      "TriggerArgument": "3",
       "BehaviorRate": 4000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "3"
@@ -3039,13 +3215,24 @@
     {
       "CharacterId": 7302201,
       "DevName": "Kuro_default_Hard",
+      "AIPhase": 9,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302201,
+      "DevName": "Kuro_default_Hard",
       "AIPhase": 10,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302201,
@@ -3067,7 +3254,7 @@
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302201,
@@ -3106,9 +3293,9 @@
       "CharacterId": 7302201,
       "DevName": "Kuro_default_Hard",
       "AIPhase": 10,
-      "ExternalBTNodeType": "Selector",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
+      "TriggerArgument": "3",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "5"
@@ -3122,7 +3309,7 @@
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302201,
@@ -3144,7 +3331,7 @@
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302201,
@@ -3155,18 +3342,7 @@
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "101"
-    },
-    {
-      "CharacterId": 7302201,
-      "DevName": "Kuro_default_Hard",
-      "AIPhase": 11,
-      "ExternalBTNodeType": "Sequence",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
+      "BehaviorArgument": "100"
     },
     {
       "CharacterId": 7302201,
@@ -3174,8 +3350,8 @@
       "AIPhase": 11,
       "ExternalBTNodeType": "Selector",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
-      "BehaviorRate": 4000,
+      "TriggerArgument": "3",
+      "BehaviorRate": 5000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "6"
     },
@@ -3186,7 +3362,7 @@
       "ExternalBTNodeType": "SubNode",
       "ExternalBTTrigger": "None",
       "TriggerArgument": null,
-      "BehaviorRate": 4000,
+      "BehaviorRate": 5000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "7"
     },
@@ -3194,94 +3370,6 @@
       "CharacterId": 7302201,
       "DevName": "Kuro_default_Hard",
       "AIPhase": 11,
-      "ExternalBTNodeType": "SubNode",
-      "ExternalBTTrigger": "None",
-      "TriggerArgument": null,
-      "BehaviorRate": 2000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "8"
-    },
-    {
-      "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 0,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "1"
-    },
-    {
-      "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 1,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "ApplyGroggy",
-      "TriggerArgument": null,
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
-    },
-    {
-      "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 1,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "ApplyGroggy",
-      "TriggerArgument": null,
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 1,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
-    },
-    {
-      "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 1,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 1,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "40,50",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "2"
-    },
-    {
-      "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 1,
-      "ExternalBTNodeType": "Sequence",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 1,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
@@ -3291,41 +3379,129 @@
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 2,
-      "ExternalBTNodeType": "Instant",
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 2,
-      "ExternalBTNodeType": "Instant",
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "0"
+      "BehaviorArgument": "6"
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 2,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckActiveGaugeBetween",
+      "TriggerArgument": "40,50",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7302300,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 0,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 2,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302300,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302300,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302300,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "ApplyGroggy",
+      "TriggerArgument": null,
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302300,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "ApplyGroggy",
+      "TriggerArgument": null,
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "6"
+    },
+    {
+      "CharacterId": 7302300,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckActiveGaugeBetween",
+      "TriggerArgument": "50,60",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7302300,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302300,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 1,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
@@ -3335,41 +3511,19 @@
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 2,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 1,
       "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "50,90",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "3"
-    },
-    {
-      "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 2,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "500",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "MoveRight",
-      "BehaviorArgument": "-3.2,32.06"
-    },
-    {
-      "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 2,
-      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "3"
+      "BehaviorArgument": "4"
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 2,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 1,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
@@ -3379,41 +3533,52 @@
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 3,
-      "ExternalBTNodeType": "Instant",
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 3,
-      "ExternalBTNodeType": "Instant",
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "0"
+      "BehaviorArgument": "6"
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 3,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckActiveGaugeBetween",
+      "TriggerArgument": "90,100",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "3"
+    },
+    {
+      "CharacterId": 7302300,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 2,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 3,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 2,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
@@ -3423,19 +3588,19 @@
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 3,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 2,
       "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "90,100",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "4"
+      "ExternalBehavior": "MoveRight",
+      "BehaviorArgument": "-3.2,32.06"
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 3,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 2,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
@@ -3445,8 +3610,8 @@
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 3,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 2,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
@@ -3456,41 +3621,52 @@
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 4,
-      "ExternalBTNodeType": "Instant",
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 3,
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 4,
-      "ExternalBTNodeType": "Instant",
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 3,
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "0"
+      "BehaviorArgument": "6"
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 4,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 3,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckActiveGaugeBetween",
+      "TriggerArgument": "100,999",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "4"
+    },
+    {
+      "CharacterId": 7302300,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 3,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 4,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 3,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
@@ -3500,40 +3676,106 @@
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 3,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "3"
+    },
+    {
+      "CharacterId": 7302300,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 3,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302300,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 4,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "ApplyGroggy",
+      "TriggerArgument": null,
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302300,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 4,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "ApplyGroggy",
+      "TriggerArgument": null,
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "6"
+    },
+    {
+      "CharacterId": 7302300,
+      "DevName": "Shiro_default_Veryhard",
       "AIPhase": 4,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "100,101",
+      "TriggerArgument": "102,999",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "5"
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
+      "DevName": "Shiro_default_Veryhard",
       "AIPhase": 4,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "500",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302300,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 4,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "100"
+    },
+    {
+      "CharacterId": 7302300,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 4,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "MoveLeft",
       "BehaviorArgument": "3.6,32.06"
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
+      "DevName": "Shiro_default_Veryhard",
       "AIPhase": 4,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "5"
+      "BehaviorArgument": "2"
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
+      "DevName": "Shiro_default_Veryhard",
       "AIPhase": 4,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
@@ -3544,62 +3786,73 @@
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
+      "DevName": "Shiro_default_Veryhard",
       "AIPhase": 5,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
+      "DevName": "Shiro_default_Veryhard",
       "AIPhase": 5,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 5,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
-    },
-    {
-      "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 5,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "100"
-    },
-    {
-      "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 5,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "102,999",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "6"
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 5,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302300,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 5,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "102"
+    },
+    {
+      "CharacterId": 7302300,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 5,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "5"
+    },
+    {
+      "CharacterId": 7302300,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 5,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "30000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "MoveRight",
+      "BehaviorArgument": "0.1,32.06"
+    },
+    {
+      "CharacterId": 7302300,
+      "DevName": "Shiro_default_Veryhard",
       "AIPhase": 5,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
@@ -3610,7 +3863,7 @@
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
+      "DevName": "Shiro_default_Veryhard",
       "AIPhase": 5,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
@@ -3621,128 +3874,150 @@
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
+      "DevName": "Shiro_default_Veryhard",
       "AIPhase": 6,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
+      "DevName": "Shiro_default_Veryhard",
       "AIPhase": 6,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "0"
+      "BehaviorArgument": "6"
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 6,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
-    },
-    {
-      "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 6,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "102"
-    },
-    {
-      "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 6,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "100,102",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "5"
-    },
-    {
-      "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 6,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "MoveRight",
-      "BehaviorArgument": "0.1,32.06"
-    },
-    {
-      "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
+      "DevName": "Shiro_default_Veryhard",
       "AIPhase": 6,
       "ExternalBTNodeType": "Sequence",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "4"
-    },
-    {
-      "CharacterId": 7302300,
-      "DevName": "Shiro_default_Hard",
-      "AIPhase": 6,
-      "ExternalBTNodeType": "Sequence",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "ExternalBTTrigger": "ApplyGroggy",
+      "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "ClearNormalSkill",
       "BehaviorArgument": "0"
     },
     {
+      "CharacterId": 7302300,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckActiveGaugeBetween",
+      "TriggerArgument": "50,60",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7302300,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302300,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302300,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "MoveLeft",
+      "BehaviorArgument": "3.6,32.06"
+    },
+    {
+      "CharacterId": 7302300,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302300,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "6",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302300,
+      "DevName": "Shiro_default_Veryhard",
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "9",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "5"
+    },
+    {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 0,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "HPUnder",
-      "TriggerArgument": "119999",
+      "TriggerArgument": "549999",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "7"
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 7,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 7,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 7,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
@@ -3753,7 +4028,7 @@
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 7,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckActiveGaugeBetween",
@@ -3764,29 +4039,18 @@
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
-      "AIPhase": 7,
-      "ExternalBTNodeType": "Sequence",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 7,
       "ExternalBTNodeType": "Selector",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
+      "TriggerArgument": "3",
       "BehaviorRate": 4000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "0"
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 7,
       "ExternalBTNodeType": "SubNode",
       "ExternalBTTrigger": "None",
@@ -3797,7 +4061,7 @@
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 7,
       "ExternalBTNodeType": "SubNode",
       "ExternalBTTrigger": "None",
@@ -3808,18 +4072,29 @@
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
+      "AIPhase": 7,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302301,
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 8,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 8,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "ApplyGroggy",
@@ -3830,18 +4105,18 @@
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 8,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 8,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
@@ -3852,18 +4127,29 @@
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 8,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "50,90",
+      "TriggerArgument": "50,60",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "9"
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
+      "AIPhase": 8,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7302301,
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 8,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
@@ -3874,29 +4160,18 @@
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
-      "AIPhase": 8,
-      "ExternalBTNodeType": "Selector",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "2"
-    },
-    {
-      "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 9,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 9,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "ApplyGroggy",
@@ -3907,18 +4182,18 @@
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 9,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 9,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
@@ -3929,7 +4204,7 @@
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 9,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckActiveGaugeBetween",
@@ -3940,29 +4215,18 @@
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
-      "AIPhase": 9,
-      "ExternalBTNodeType": "Sequence",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 9,
       "ExternalBTNodeType": "Selector",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
+      "TriggerArgument": "3",
       "BehaviorRate": 4000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "3"
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 9,
       "ExternalBTNodeType": "SubNode",
       "ExternalBTTrigger": "None",
@@ -3973,7 +4237,7 @@
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 9,
       "ExternalBTNodeType": "SubNode",
       "ExternalBTTrigger": "None",
@@ -3984,18 +4248,29 @@
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
+      "AIPhase": 9,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302301,
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 10,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 10,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "ApplyGroggy",
@@ -4006,18 +4281,18 @@
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 10,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 10,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
@@ -4028,7 +4303,7 @@
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 10,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckActiveGaugeBetween",
@@ -4039,7 +4314,7 @@
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 10,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
@@ -4050,29 +4325,29 @@
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 10,
-      "ExternalBTNodeType": "Selector",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
+      "TriggerArgument": "3",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "5"
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 11,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 11,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "ApplyGroggy",
@@ -4083,29 +4358,51 @@
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 11,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 11,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "101"
+      "BehaviorArgument": "100"
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
+      "DevName": "Kuro_default_Veryhard",
+      "AIPhase": 11,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "6"
+    },
+    {
+      "CharacterId": 7302301,
+      "DevName": "Kuro_default_Veryhard",
+      "AIPhase": 11,
+      "ExternalBTNodeType": "SubNode",
+      "ExternalBTTrigger": "None",
+      "TriggerArgument": null,
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "7"
+    },
+    {
+      "CharacterId": 7302301,
+      "DevName": "Kuro_default_Veryhard",
       "AIPhase": 11,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
@@ -4115,86 +4412,53 @@
       "BehaviorArgument": "0"
     },
     {
-      "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
-      "AIPhase": 11,
-      "ExternalBTNodeType": "Selector",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
-      "BehaviorRate": 4000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "6"
-    },
-    {
-      "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
-      "AIPhase": 11,
-      "ExternalBTNodeType": "SubNode",
-      "ExternalBTTrigger": "None",
+      "CharacterId": 7302400,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
-      "BehaviorRate": 4000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "7"
-    },
-    {
-      "CharacterId": 7302301,
-      "DevName": "Kuro_default_Hard",
-      "AIPhase": 11,
-      "ExternalBTNodeType": "SubNode",
-      "ExternalBTTrigger": "None",
-      "TriggerArgument": null,
-      "BehaviorRate": 2000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "8"
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "ApplyGroggy",
+      "TriggerArgument": null,
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "6"
+    },
+    {
+      "CharacterId": 7302400,
+      "DevName": "Shiro_default_HardCore",
       "AIPhase": 0,
       "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
+      "ExternalBTTrigger": "CheckActiveGaugeBetween",
+      "TriggerArgument": "40,50",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "1"
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 1,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "ApplyGroggy",
-      "TriggerArgument": null,
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
-    },
-    {
-      "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 1,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "ApplyGroggy",
-      "TriggerArgument": null,
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 1,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 0,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 1,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 0,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
@@ -4204,19 +4468,8 @@
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 1,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "40,50",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "2"
-    },
-    {
-      "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 1,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 0,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
@@ -4226,8 +4479,8 @@
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 1,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 0,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
@@ -4237,41 +4490,52 @@
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 2,
-      "ExternalBTNodeType": "Instant",
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 2,
-      "ExternalBTNodeType": "Instant",
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "0"
+      "BehaviorArgument": "6"
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 2,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckActiveGaugeBetween",
+      "TriggerArgument": "50,60",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7302400,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 1,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 2,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 1,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
@@ -4281,41 +4545,19 @@
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 2,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 1,
       "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "50,90",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "3"
-    },
-    {
-      "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 2,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "500",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "MoveRight",
-      "BehaviorArgument": "-3.2,32.06"
-    },
-    {
-      "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 2,
-      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "3"
+      "BehaviorArgument": "4"
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 2,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 1,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
@@ -4325,41 +4567,52 @@
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 3,
-      "ExternalBTNodeType": "Instant",
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 3,
-      "ExternalBTNodeType": "Instant",
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "0"
+      "BehaviorArgument": "6"
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 3,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckActiveGaugeBetween",
+      "TriggerArgument": "90,100",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "3"
+    },
+    {
+      "CharacterId": 7302400,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 2,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 3,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 2,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
@@ -4369,19 +4622,19 @@
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 3,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 2,
       "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "90,100",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "4"
+      "ExternalBehavior": "MoveRight",
+      "BehaviorArgument": "-3.2,32.06"
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 3,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 2,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
@@ -4391,8 +4644,8 @@
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 3,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 2,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
@@ -4402,41 +4655,52 @@
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 4,
-      "ExternalBTNodeType": "Instant",
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 3,
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 4,
-      "ExternalBTNodeType": "Instant",
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 3,
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "0"
+      "BehaviorArgument": "6"
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 4,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 3,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckActiveGaugeBetween",
+      "TriggerArgument": "100,999",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "4"
+    },
+    {
+      "CharacterId": 7302400,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 3,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 4,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 3,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
@@ -4446,40 +4710,106 @@
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 3,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "3"
+    },
+    {
+      "CharacterId": 7302400,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 3,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302400,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 4,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "ApplyGroggy",
+      "TriggerArgument": null,
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302400,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 4,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "ApplyGroggy",
+      "TriggerArgument": null,
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "6"
+    },
+    {
+      "CharacterId": 7302400,
+      "DevName": "Shiro_default_HardCore",
       "AIPhase": 4,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "100,101",
+      "TriggerArgument": "102,999",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "5"
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
+      "DevName": "Shiro_default_HardCore",
       "AIPhase": 4,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "500",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302400,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 4,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "100"
+    },
+    {
+      "CharacterId": 7302400,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 4,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "MoveLeft",
       "BehaviorArgument": "3.6,32.06"
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
+      "DevName": "Shiro_default_HardCore",
       "AIPhase": 4,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "5"
+      "BehaviorArgument": "2"
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
+      "DevName": "Shiro_default_HardCore",
       "AIPhase": 4,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
@@ -4490,62 +4820,73 @@
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
+      "DevName": "Shiro_default_HardCore",
       "AIPhase": 5,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
+      "DevName": "Shiro_default_HardCore",
       "AIPhase": 5,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 5,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
-    },
-    {
-      "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 5,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "100"
-    },
-    {
-      "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 5,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "102,999",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "6"
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 5,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302400,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 5,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "102"
+    },
+    {
+      "CharacterId": 7302400,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 5,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "5"
+    },
+    {
+      "CharacterId": 7302400,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 5,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "30000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "MoveRight",
+      "BehaviorArgument": "0.1,32.06"
+    },
+    {
+      "CharacterId": 7302400,
+      "DevName": "Shiro_default_HardCore",
       "AIPhase": 5,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
@@ -4556,7 +4897,7 @@
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
+      "DevName": "Shiro_default_HardCore",
       "AIPhase": 5,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
@@ -4567,128 +4908,150 @@
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
+      "DevName": "Shiro_default_HardCore",
       "AIPhase": 6,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
+      "DevName": "Shiro_default_HardCore",
       "AIPhase": 6,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "0"
+      "BehaviorArgument": "6"
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 6,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
-    },
-    {
-      "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 6,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "102"
-    },
-    {
-      "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 6,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "100,102",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "5"
-    },
-    {
-      "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 6,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "MoveRight",
-      "BehaviorArgument": "0.1,32.06"
-    },
-    {
-      "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
+      "DevName": "Shiro_default_HardCore",
       "AIPhase": 6,
       "ExternalBTNodeType": "Sequence",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "4"
-    },
-    {
-      "CharacterId": 7302400,
-      "DevName": "Shiro_default_VeryHard",
-      "AIPhase": 6,
-      "ExternalBTNodeType": "Sequence",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "ExternalBTTrigger": "ApplyGroggy",
+      "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "ClearNormalSkill",
       "BehaviorArgument": "0"
     },
     {
+      "CharacterId": 7302400,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckActiveGaugeBetween",
+      "TriggerArgument": "50,60",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7302400,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302400,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302400,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "MoveLeft",
+      "BehaviorArgument": "3.6,32.06"
+    },
+    {
+      "CharacterId": 7302400,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302400,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "6",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302400,
+      "DevName": "Shiro_default_HardCore",
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "9",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "5"
+    },
+    {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 0,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "HPUnder",
-      "TriggerArgument": "159999",
+      "TriggerArgument": "999999",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "7"
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 7,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 7,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 7,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
@@ -4699,7 +5062,7 @@
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 7,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckActiveGaugeBetween",
@@ -4710,29 +5073,18 @@
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
-      "AIPhase": 7,
-      "ExternalBTNodeType": "Sequence",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 7,
       "ExternalBTNodeType": "Selector",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
+      "TriggerArgument": "3",
       "BehaviorRate": 4000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "0"
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 7,
       "ExternalBTNodeType": "SubNode",
       "ExternalBTTrigger": "None",
@@ -4743,7 +5095,7 @@
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 7,
       "ExternalBTNodeType": "SubNode",
       "ExternalBTTrigger": "None",
@@ -4754,18 +5106,29 @@
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
+      "AIPhase": 7,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302401,
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 8,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 8,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "ApplyGroggy",
@@ -4776,18 +5139,18 @@
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 8,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 8,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
@@ -4798,18 +5161,29 @@
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 8,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "50,90",
+      "TriggerArgument": "50,60",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "9"
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
+      "AIPhase": 8,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7302401,
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 8,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
@@ -4820,29 +5194,18 @@
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
-      "AIPhase": 8,
-      "ExternalBTNodeType": "Selector",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "2"
-    },
-    {
-      "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 9,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 9,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "ApplyGroggy",
@@ -4853,18 +5216,18 @@
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 9,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 9,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
@@ -4875,7 +5238,7 @@
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 9,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckActiveGaugeBetween",
@@ -4886,29 +5249,18 @@
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
-      "AIPhase": 9,
-      "ExternalBTNodeType": "Sequence",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 9,
       "ExternalBTNodeType": "Selector",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
+      "TriggerArgument": "3",
       "BehaviorRate": 4000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "3"
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 9,
       "ExternalBTNodeType": "SubNode",
       "ExternalBTTrigger": "None",
@@ -4919,7 +5271,7 @@
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 9,
       "ExternalBTNodeType": "SubNode",
       "ExternalBTTrigger": "None",
@@ -4930,18 +5282,29 @@
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
+      "AIPhase": 9,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302401,
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 10,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 10,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "ApplyGroggy",
@@ -4952,18 +5315,18 @@
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 10,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 10,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
@@ -4974,7 +5337,7 @@
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 10,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckActiveGaugeBetween",
@@ -4985,7 +5348,7 @@
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 10,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
@@ -4996,29 +5359,29 @@
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 10,
-      "ExternalBTNodeType": "Selector",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
+      "TriggerArgument": "3",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "5"
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 11,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 11,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "ApplyGroggy",
@@ -5029,29 +5392,51 @@
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 11,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 11,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "101"
+      "BehaviorArgument": "100"
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
+      "DevName": "Kuro_default_HardCore",
+      "AIPhase": 11,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "6"
+    },
+    {
+      "CharacterId": 7302401,
+      "DevName": "Kuro_default_HardCore",
+      "AIPhase": 11,
+      "ExternalBTNodeType": "SubNode",
+      "ExternalBTTrigger": "None",
+      "TriggerArgument": null,
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "7"
+    },
+    {
+      "CharacterId": 7302401,
+      "DevName": "Kuro_default_HardCore",
       "AIPhase": 11,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
@@ -5061,86 +5446,53 @@
       "BehaviorArgument": "0"
     },
     {
-      "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
-      "AIPhase": 11,
-      "ExternalBTNodeType": "Selector",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
-      "BehaviorRate": 4000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "6"
-    },
-    {
-      "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
-      "AIPhase": 11,
-      "ExternalBTNodeType": "SubNode",
-      "ExternalBTTrigger": "None",
+      "CharacterId": 7302500,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
-      "BehaviorRate": 4000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "7"
-    },
-    {
-      "CharacterId": 7302401,
-      "DevName": "Kuro_default_VeryHard",
-      "AIPhase": 11,
-      "ExternalBTNodeType": "SubNode",
-      "ExternalBTTrigger": "None",
-      "TriggerArgument": null,
-      "BehaviorRate": 2000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "8"
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "ApplyGroggy",
+      "TriggerArgument": null,
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "6"
+    },
+    {
+      "CharacterId": 7302500,
+      "DevName": "Shiro_default_Extream",
       "AIPhase": 0,
       "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
+      "ExternalBTTrigger": "CheckActiveGaugeBetween",
+      "TriggerArgument": "40,50",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "1"
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 1,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "ApplyGroggy",
-      "TriggerArgument": null,
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
-    },
-    {
-      "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 1,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "ApplyGroggy",
-      "TriggerArgument": null,
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 1,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 0,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 1,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 0,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
@@ -5150,19 +5502,8 @@
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 1,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "40,50",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "2"
-    },
-    {
-      "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 1,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 0,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
@@ -5172,8 +5513,8 @@
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 1,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 0,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
@@ -5183,41 +5524,52 @@
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 2,
-      "ExternalBTNodeType": "Instant",
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 2,
-      "ExternalBTNodeType": "Instant",
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "0"
+      "BehaviorArgument": "6"
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 2,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckActiveGaugeBetween",
+      "TriggerArgument": "50,60",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7302500,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 1,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 2,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 1,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
@@ -5227,41 +5579,19 @@
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 2,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 1,
       "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "50,90",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "3"
-    },
-    {
-      "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 2,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "500",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "MoveRight",
-      "BehaviorArgument": "-3.2,32.06"
-    },
-    {
-      "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 2,
-      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "3"
+      "BehaviorArgument": "4"
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 2,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 1,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
@@ -5271,41 +5601,52 @@
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 3,
-      "ExternalBTNodeType": "Instant",
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 3,
-      "ExternalBTNodeType": "Instant",
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "0"
+      "BehaviorArgument": "6"
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 3,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckActiveGaugeBetween",
+      "TriggerArgument": "90,100",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "3"
+    },
+    {
+      "CharacterId": 7302500,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 2,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 3,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 2,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
@@ -5315,19 +5656,19 @@
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 3,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 2,
       "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "90,100",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "4"
+      "ExternalBehavior": "MoveRight",
+      "BehaviorArgument": "-3.2,32.06"
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 3,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 2,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
@@ -5337,7 +5678,84 @@
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302500,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 3,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "ApplyGroggy",
+      "TriggerArgument": null,
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302500,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 3,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "ApplyGroggy",
+      "TriggerArgument": null,
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "6"
+    },
+    {
+      "CharacterId": 7302500,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 3,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckActiveGaugeBetween",
+      "TriggerArgument": "100,999",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "4"
+    },
+    {
+      "CharacterId": 7302500,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 3,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302500,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 3,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "90"
+    },
+    {
+      "CharacterId": 7302500,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 3,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "3"
+    },
+    {
+      "CharacterId": 7302500,
+      "DevName": "Shiro_default_Extream",
       "AIPhase": 3,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
@@ -5348,84 +5766,84 @@
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
+      "DevName": "Shiro_default_Extream",
       "AIPhase": 4,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
+      "DevName": "Shiro_default_Extream",
       "AIPhase": 4,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "0"
+      "BehaviorArgument": "6"
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 4,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
-    },
-    {
-      "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 4,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "90"
-    },
-    {
-      "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
+      "DevName": "Shiro_default_Extream",
       "AIPhase": 4,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "100,101",
+      "TriggerArgument": "102,999",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "5"
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
+      "DevName": "Shiro_default_Extream",
       "AIPhase": 4,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "500",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302500,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 4,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "100"
+    },
+    {
+      "CharacterId": 7302500,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 4,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "MoveLeft",
       "BehaviorArgument": "3.6,32.06"
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
+      "DevName": "Shiro_default_Extream",
       "AIPhase": 4,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "5"
+      "BehaviorArgument": "2"
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
+      "DevName": "Shiro_default_Extream",
       "AIPhase": 4,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
@@ -5436,62 +5854,73 @@
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
+      "DevName": "Shiro_default_Extream",
       "AIPhase": 5,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
+      "DevName": "Shiro_default_Extream",
       "AIPhase": 5,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 5,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
-    },
-    {
-      "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 5,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "100"
-    },
-    {
-      "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 5,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "102,999",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "6"
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 5,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
+    },
+    {
+      "CharacterId": 7302500,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 5,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "102"
+    },
+    {
+      "CharacterId": 7302500,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 5,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "5"
+    },
+    {
+      "CharacterId": 7302500,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 5,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "30000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "MoveRight",
+      "BehaviorArgument": "0.1,32.06"
+    },
+    {
+      "CharacterId": 7302500,
+      "DevName": "Shiro_default_Extream",
       "AIPhase": 5,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
@@ -5502,7 +5931,7 @@
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
+      "DevName": "Shiro_default_Extream",
       "AIPhase": 5,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
@@ -5513,91 +5942,113 @@
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
+      "DevName": "Shiro_default_Extream",
       "AIPhase": 6,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
+      "DevName": "Shiro_default_Extream",
       "AIPhase": 6,
-      "ExternalBTNodeType": "Instant",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "6"
+    },
+    {
+      "CharacterId": 7302500,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "ApplyGroggy",
+      "TriggerArgument": null,
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
       "BehaviorArgument": "0"
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 6,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-102"
-    },
-    {
-      "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
-      "AIPhase": 6,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "CheckPeriod",
-      "TriggerArgument": "1",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "102"
-    },
-    {
-      "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
+      "DevName": "Shiro_default_Extream",
       "AIPhase": 6,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "100,102",
+      "TriggerArgument": "50,60",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
-      "BehaviorArgument": "5"
+      "BehaviorArgument": "2"
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
+      "DevName": "Shiro_default_Extream",
       "AIPhase": 6,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "MoveRight",
-      "BehaviorArgument": "0.1,32.06"
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
+      "DevName": "Shiro_default_Extream",
       "AIPhase": 6,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302500,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "MoveLeft",
+      "BehaviorArgument": "3.6,32.06"
+    },
+    {
+      "CharacterId": 7302500,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "4"
+      "BehaviorArgument": "0"
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_Extreme",
+      "DevName": "Shiro_default_Extream",
       "AIPhase": 6,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "6",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
+      "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302500,
+      "DevName": "Shiro_default_Extream",
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "9",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "5"
     },
     {
       "CharacterId": 7302501,
@@ -5605,7 +6056,7 @@
       "AIPhase": 0,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "HPUnder",
-      "TriggerArgument": "209999",
+      "TriggerArgument": "4749999",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "7"
@@ -5619,7 +6070,7 @@
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302501,
@@ -5630,7 +6081,7 @@
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302501,
@@ -5658,20 +6109,9 @@
       "CharacterId": 7302501,
       "DevName": "Kuro_default_Extreme",
       "AIPhase": 7,
-      "ExternalBTNodeType": "Sequence",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302501,
-      "DevName": "Kuro_default_Extreme",
-      "AIPhase": 7,
       "ExternalBTNodeType": "Selector",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
+      "TriggerArgument": "3",
       "BehaviorRate": 4000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "0"
@@ -5701,13 +6141,24 @@
     {
       "CharacterId": 7302501,
       "DevName": "Kuro_default_Extreme",
+      "AIPhase": 7,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302501,
+      "DevName": "Kuro_default_Extreme",
       "AIPhase": 8,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302501,
@@ -5729,7 +6180,7 @@
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302501,
@@ -5748,7 +6199,7 @@
       "AIPhase": 8,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "CheckActiveGaugeBetween",
-      "TriggerArgument": "50,90",
+      "TriggerArgument": "50,60",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "9"
@@ -5761,19 +6212,19 @@
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
     },
     {
       "CharacterId": 7302501,
       "DevName": "Kuro_default_Extreme",
       "AIPhase": 8,
-      "ExternalBTNodeType": "Selector",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
+      "TriggerArgument": "3",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "2"
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
     },
     {
       "CharacterId": 7302501,
@@ -5784,7 +6235,7 @@
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302501,
@@ -5806,7 +6257,7 @@
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302501,
@@ -5834,20 +6285,9 @@
       "CharacterId": 7302501,
       "DevName": "Kuro_default_Extreme",
       "AIPhase": 9,
-      "ExternalBTNodeType": "Sequence",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302501,
-      "DevName": "Kuro_default_Extreme",
-      "AIPhase": 9,
       "ExternalBTNodeType": "Selector",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
+      "TriggerArgument": "3",
       "BehaviorRate": 4000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "3"
@@ -5877,13 +6317,24 @@
     {
       "CharacterId": 7302501,
       "DevName": "Kuro_default_Extreme",
+      "AIPhase": 9,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7302501,
+      "DevName": "Kuro_default_Extreme",
       "AIPhase": 10,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "ApplyGroggy",
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302501,
@@ -5905,7 +6356,7 @@
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302501,
@@ -5944,9 +6395,9 @@
       "CharacterId": 7302501,
       "DevName": "Kuro_default_Extreme",
       "AIPhase": 10,
-      "ExternalBTNodeType": "Selector",
+      "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
+      "TriggerArgument": "3",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "5"
@@ -5960,7 +6411,7 @@
       "TriggerArgument": null,
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302501,
@@ -5982,7 +6433,7 @@
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "-101"
+      "BehaviorArgument": "-999"
     },
     {
       "CharacterId": 7302501,
@@ -5993,7 +6444,29 @@
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
       "ExternalBehavior": "AddActiveGauge",
-      "BehaviorArgument": "101"
+      "BehaviorArgument": "100"
+    },
+    {
+      "CharacterId": 7302501,
+      "DevName": "Kuro_default_Extreme",
+      "AIPhase": 11,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "3",
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "6"
+    },
+    {
+      "CharacterId": 7302501,
+      "DevName": "Kuro_default_Extreme",
+      "AIPhase": 11,
+      "ExternalBTNodeType": "SubNode",
+      "ExternalBTTrigger": "None",
+      "TriggerArgument": null,
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "7"
     },
     {
       "CharacterId": 7302501,
@@ -6005,39 +6478,6 @@
       "BehaviorRate": 10000,
       "ExternalBehavior": "ClearNormalSkill",
       "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7302501,
-      "DevName": "Kuro_default_Extreme",
-      "AIPhase": 11,
-      "ExternalBTNodeType": "Selector",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
-      "BehaviorRate": 4000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "6"
-    },
-    {
-      "CharacterId": 7302501,
-      "DevName": "Kuro_default_Extreme",
-      "AIPhase": 11,
-      "ExternalBTNodeType": "SubNode",
-      "ExternalBTTrigger": "None",
-      "TriggerArgument": null,
-      "BehaviorRate": 4000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "7"
-    },
-    {
-      "CharacterId": 7302501,
-      "DevName": "Kuro_default_Extreme",
-      "AIPhase": 11,
-      "ExternalBTNodeType": "SubNode",
-      "ExternalBTTrigger": "None",
-      "TriggerArgument": null,
-      "BehaviorRate": 2000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "8"
     }
   ]
 }

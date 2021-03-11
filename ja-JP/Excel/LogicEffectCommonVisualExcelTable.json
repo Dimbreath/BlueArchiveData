@@ -5,9 +5,9 @@
       "DevName": "공격력 증가",
       "IconSpriteName": "Combat_Icon_Buff_ATK",
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -23,9 +23,9 @@
       "DevName": "방어력 증가",
       "IconSpriteName": "Combat_Icon_Buff_DEF",
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -41,9 +41,9 @@
       "DevName": "명중률 증가",
       "IconSpriteName": "Combat_Icon_Buff_HIT",
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -59,9 +59,9 @@
       "DevName": "회피율 증가",
       "IconSpriteName": "Combat_Icon_Buff_Dodge",
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -77,9 +77,9 @@
       "DevName": "치명타 수치 증가",
       "IconSpriteName": "Combat_Icon_Buff_CriticalChance",
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -95,9 +95,9 @@
       "DevName": "치명타 대미지 증가",
       "IconSpriteName": "Combat_Icon_Buff_CriticalDamage",
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -113,9 +113,9 @@
       "DevName": "시야 증가",
       "IconSpriteName": "Combat_Icon_Buff_View",
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -131,9 +131,9 @@
       "DevName": "이동속도 증가",
       "IconSpriteName": "Combat_Icon_Buff_MoveSpeed",
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -149,9 +149,9 @@
       "DevName": "사거리 증가",
       "IconSpriteName": "Combat_Icon_Buff_Range",
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -167,9 +167,9 @@
       "DevName": "사격 속도 증가",
       "IconSpriteName": "Combat_Icon_Buff_AttackSpeed",
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -185,9 +185,9 @@
       "DevName": "최대 생명력 증가",
       "IconSpriteName": "Combat_Icon_Buff_MAXHP",
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -203,9 +203,9 @@
       "DevName": "탄약 수 증가",
       "IconSpriteName": "Combat_Icon_Buff_AmmoCount",
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -221,9 +221,9 @@
       "DevName": "받는 회복량 증가",
       "IconSpriteName": "Combat_Icon_Buff_HealEffectiveness",
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -239,9 +239,9 @@
       "DevName": "힐 파워 증가",
       "IconSpriteName": "Combat_Icon_Buff_HealPower",
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -257,9 +257,9 @@
       "DevName": "치명타 저항 수치 증가",
       "IconSpriteName": "Combat_Icon_Buff_CriticalChanceResistPoint",
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -275,9 +275,9 @@
       "DevName": "받는 대미지 감소",
       "IconSpriteName": "Combat_Icon_Buff_DamagedRatio",
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -293,9 +293,9 @@
       "DevName": "주는 대미지 증가",
       "IconSpriteName": "Combat_Icon_Buff_DamageRatio",
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -311,9 +311,9 @@
       "DevName": "군중제어 강화 증가",
       "IconSpriteName": "Combat_Icon_Buff_OppressionPower",
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -329,9 +329,9 @@
       "DevName": "군중제어 저항 증가",
       "IconSpriteName": "Combat_Icon_Buff_OppressionResist",
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -347,9 +347,9 @@
       "DevName": "속성 대미지 증가",
       "IconSpriteName": "Combat_Icon_Buff_BulletTypeDamage",
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -365,9 +365,9 @@
       "DevName": "일반 공격 속성 전환",
       "IconSpriteName": "Combat_Icon_Special_SkillBulletTypeChange",
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -383,9 +383,9 @@
       "DevName": "블록 확률 증가",
       "IconSpriteName": "Combat_Icon_Buff_BlockRate",
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -401,9 +401,9 @@
       "DevName": "코스트 리젠 속도 증가(아이콘 미표시)",
       "IconSpriteName": null,
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -419,9 +419,9 @@
       "DevName": "공격력 감소",
       "IconSpriteName": "Combat_Icon_Debuff_ATK",
       "IconDispelColor": [
-        0.247,
-        0.619,
-        0.93
+        6.0837773E-21,
+        6.0838666E-21,
+        6.0835745E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -437,9 +437,9 @@
       "DevName": "방어력 감소",
       "IconSpriteName": "Combat_Icon_Debuff_DEF",
       "IconDispelColor": [
-        0.247,
-        0.619,
-        0.93
+        6.0837773E-21,
+        6.0838666E-21,
+        6.0835745E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -455,9 +455,9 @@
       "DevName": "명중률 감소",
       "IconSpriteName": "Combat_Icon_Debuff_HIT",
       "IconDispelColor": [
-        0.247,
-        0.619,
-        0.93
+        6.0837773E-21,
+        6.0838666E-21,
+        6.0835745E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -473,9 +473,9 @@
       "DevName": "회피율 감소",
       "IconSpriteName": "Combat_Icon_Debuff_Dodge",
       "IconDispelColor": [
-        0.247,
-        0.619,
-        0.93
+        6.0837773E-21,
+        6.0838666E-21,
+        6.0835745E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -491,9 +491,9 @@
       "DevName": "치명타 수치 감소",
       "IconSpriteName": "Combat_Icon_Debuff_CriticalChance",
       "IconDispelColor": [
-        0.247,
-        0.619,
-        0.93
+        6.0837773E-21,
+        6.0838666E-21,
+        6.0835745E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -509,9 +509,9 @@
       "DevName": "치명타 대미지 감소",
       "IconSpriteName": "Combat_Icon_Debuff_CriticalDamage",
       "IconDispelColor": [
-        0.247,
-        0.619,
-        0.93
+        6.0837773E-21,
+        6.0838666E-21,
+        6.0835745E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -527,9 +527,9 @@
       "DevName": "시야 감소",
       "IconSpriteName": "Combat_Icon_Debuff_View",
       "IconDispelColor": [
-        0.247,
-        0.619,
-        0.93
+        6.0837773E-21,
+        6.0838666E-21,
+        6.0835745E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -545,9 +545,9 @@
       "DevName": "이동속도 감소",
       "IconSpriteName": "Combat_Icon_Debuff_MoveSpeed",
       "IconDispelColor": [
-        0.247,
-        0.619,
-        0.93
+        6.0837773E-21,
+        6.0838666E-21,
+        6.0835745E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -563,9 +563,9 @@
       "DevName": "정신력 감소",
       "IconSpriteName": "Combat_Icon_Debuff_Mind",
       "IconDispelColor": [
-        0.247,
-        0.619,
-        0.93
+        6.0837773E-21,
+        6.0838666E-21,
+        6.0835745E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -581,9 +581,9 @@
       "DevName": "사거리 감소",
       "IconSpriteName": "Combat_Icon_Debuff_Range",
       "IconDispelColor": [
-        0.247,
-        0.619,
-        0.93
+        6.0837773E-21,
+        6.0838666E-21,
+        6.0835745E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -599,9 +599,9 @@
       "DevName": "사격 속도 감소",
       "IconSpriteName": "Combat_Icon_Debuff_AttackSpeed",
       "IconDispelColor": [
-        0.247,
-        0.619,
-        0.93
+        6.0837773E-21,
+        6.0838666E-21,
+        6.0835745E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -617,9 +617,9 @@
       "DevName": "최대 생명력 감소",
       "IconSpriteName": "Combat_Icon_Debuff_MAXHP",
       "IconDispelColor": [
-        0.247,
-        0.619,
-        0.93
+        6.0837773E-21,
+        6.0838666E-21,
+        6.0835745E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -635,9 +635,9 @@
       "DevName": "탄약 수 감소",
       "IconSpriteName": "Combat_Icon_Debuff_AmmoCount",
       "IconDispelColor": [
-        0.247,
-        0.619,
-        0.93
+        6.0837773E-21,
+        6.0838666E-21,
+        6.0835745E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -653,9 +653,9 @@
       "DevName": "받는 회복량 감소",
       "IconSpriteName": "Combat_Icon_Debuff_HealEffectiveness",
       "IconDispelColor": [
-        0.247,
-        0.619,
-        0.93
+        6.0837773E-21,
+        6.0838666E-21,
+        6.0835745E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -671,9 +671,9 @@
       "DevName": "힐 파워 감소",
       "IconSpriteName": "Combat_Icon_Debuff_HealPower",
       "IconDispelColor": [
-        0.247,
-        0.619,
-        0.93
+        6.0837773E-21,
+        6.0838666E-21,
+        6.0835745E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -689,9 +689,9 @@
       "DevName": "치명타 저항 수치 감소",
       "IconSpriteName": "Combat_Icon_Debuff_CriticalDamage",
       "IconDispelColor": [
-        0.247,
-        0.619,
-        0.93
+        6.0837773E-21,
+        6.0838666E-21,
+        6.0835745E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -707,9 +707,9 @@
       "DevName": "받는 대미지 증가",
       "IconSpriteName": "Combat_Icon_Debuff_DamagedRatio",
       "IconDispelColor": [
-        0.247,
-        0.619,
-        0.93
+        6.0837773E-21,
+        6.0838666E-21,
+        6.0835745E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -725,9 +725,9 @@
       "DevName": "주는 대미지 감소",
       "IconSpriteName": "Combat_Icon_Debuff_DamageRatio",
       "IconDispelColor": [
-        0.247,
-        0.619,
-        0.93
+        6.0837773E-21,
+        6.0838666E-21,
+        6.0835745E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -743,9 +743,9 @@
       "DevName": "군중제어 강화 감소",
       "IconSpriteName": "Combat_Icon_Debuff_OppressionPower",
       "IconDispelColor": [
-        0.247,
-        0.619,
-        0.93
+        6.0837773E-21,
+        6.0838666E-21,
+        6.0835745E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -761,9 +761,9 @@
       "DevName": "군중제어 저항 감소",
       "IconSpriteName": "Combat_Icon_Debuff_OppressionResist",
       "IconDispelColor": [
-        0.247,
-        0.619,
-        0.93
+        6.0837773E-21,
+        6.0838666E-21,
+        6.0835745E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -779,9 +779,9 @@
       "DevName": "속성 대미지 감소",
       "IconSpriteName": "Combat_Icon_Debuff_BulletTypeDamage",
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -797,9 +797,9 @@
       "DevName": "코스트 리젠 속도 감소(아이콘 미표시)",
       "IconSpriteName": null,
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -815,9 +815,9 @@
       "DevName": "분노",
       "IconSpriteName": "Combat_Icon_Special_Fury",
       "IconDispelColor": [
-        1.0,
-        0.784,
-        0.196
+        6.083643E-21,
+        6.0835043E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -833,9 +833,9 @@
       "DevName": "집중 공격(디버프)",
       "IconSpriteName": "Combat_Icon_Debuff_ConcentratedTarget",
       "IconDispelColor": [
-        0.247,
-        0.619,
-        0.93
+        6.0837773E-21,
+        6.0838666E-21,
+        6.0835745E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_ConcentratedTarget_Apply_Variant",
       "ParticleEnterSocket": "None",
@@ -851,9 +851,9 @@
       "DevName": "집중 공격(버프)",
       "IconSpriteName": "Combat_Icon_Buff_ConcentratedTarget",
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_ConcentratedTarget_Apply_Variant",
       "ParticleEnterSocket": "None",
@@ -869,9 +869,9 @@
       "DevName": "불사",
       "IconSpriteName": "Combat_Icon_Special_Immortal",
       "IconDispelColor": [
-        1.0,
-        0.784,
-        0.196
+        6.083643E-21,
+        6.0835043E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": null,
       "ParticleEnterSocket": "None",
@@ -887,9 +887,9 @@
       "DevName": "이뮨",
       "IconSpriteName": "Combat_Icon_Special_ImmuneDamage",
       "IconDispelColor": [
-        1.0,
-        0.784,
-        0.196
+        6.083643E-21,
+        6.0835043E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Immune_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -905,9 +905,9 @@
       "DevName": "중독 (도트)",
       "IconSpriteName": "Combat_Icon_Debuff_Poison",
       "IconDispelColor": [
-        0.247,
-        0.619,
-        0.93
+        6.0837773E-21,
+        6.0838666E-21,
+        6.0835745E-21
       ],
       "ParticleEnterPath": null,
       "ParticleEnterSocket": "None",
@@ -923,9 +923,9 @@
       "DevName": "출혈 (도트)",
       "IconSpriteName": "Combat_Icon_Debuff_Bleed",
       "IconDispelColor": [
-        0.247,
-        0.619,
-        0.93
+        6.0837773E-21,
+        6.0838666E-21,
+        6.0835745E-21
       ],
       "ParticleEnterPath": null,
       "ParticleEnterSocket": "None",
@@ -941,9 +941,9 @@
       "DevName": "화상 (도트)",
       "IconSpriteName": "Combat_Icon_Debuff_Burn",
       "IconDispelColor": [
-        0.247,
-        0.619,
-        0.93
+        6.0837773E-21,
+        6.0838666E-21,
+        6.0835745E-21
       ],
       "ParticleEnterPath": null,
       "ParticleEnterSocket": "None",
@@ -959,9 +959,9 @@
       "DevName": "도트 피해",
       "IconSpriteName": "Combat_Icon_Debuff_Dot",
       "IconDispelColor": [
-        0.247,
-        0.619,
-        0.93
+        6.0837773E-21,
+        6.0838666E-21,
+        6.0835745E-21
       ],
       "ParticleEnterPath": null,
       "ParticleEnterSocket": "None",
@@ -977,9 +977,9 @@
       "DevName": "도트 회복",
       "IconSpriteName": "Combat_Icon_Buff_DotHeal",
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": null,
       "ParticleEnterSocket": "None",
@@ -995,9 +995,9 @@
       "DevName": "기절",
       "IconSpriteName": "Combat_Icon_CC_Stunned",
       "IconDispelColor": [
-        0.686,
-        0.411,
-        0.964
+        6.0835483E-21,
+        6.083829E-21,
+        6.083564E-21
       ],
       "ParticleEnterPath": null,
       "ParticleEnterSocket": "None",
@@ -1013,9 +1013,9 @@
       "DevName": "CC 공용",
       "IconSpriteName": "Combat_Icon_CC_Inoperative",
       "IconDispelColor": [
-        0.686,
-        0.411,
-        0.964
+        6.0835483E-21,
+        6.083829E-21,
+        6.083564E-21
       ],
       "ParticleEnterPath": null,
       "ParticleEnterSocket": "None",
@@ -1031,9 +1031,9 @@
       "DevName": "정신지배",
       "IconSpriteName": "Combat_Icon_CC_MindControl",
       "IconDispelColor": [
-        0.686,
-        0.411,
-        0.964
+        6.0835483E-21,
+        6.083829E-21,
+        6.083564E-21
       ],
       "ParticleEnterPath": null,
       "ParticleEnterSocket": "None",
@@ -1049,9 +1049,9 @@
       "DevName": "혼란",
       "IconSpriteName": "Combat_Icon_CC_Confusion",
       "IconDispelColor": [
-        0.686,
-        0.411,
-        0.964
+        6.0835483E-21,
+        6.083829E-21,
+        6.083564E-21
       ],
       "ParticleEnterPath": null,
       "ParticleEnterSocket": "None",
@@ -1067,9 +1067,9 @@
       "DevName": "도발",
       "IconSpriteName": "Combat_Icon_CC_Provoke",
       "IconDispelColor": [
-        0.686,
-        0.411,
-        0.964
+        6.0835483E-21,
+        6.083829E-21,
+        6.083564E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Provoke_Start_Variant",
       "ParticleEnterSocket": "Head",
@@ -1085,9 +1085,9 @@
       "DevName": "침묵",
       "IconSpriteName": "Combat_Icon_CC_Silence",
       "IconDispelColor": [
-        0.686,
-        0.411,
-        0.964
+        6.0835483E-21,
+        6.083829E-21,
+        6.083564E-21
       ],
       "ParticleEnterPath": null,
       "ParticleEnterSocket": "None",
@@ -1103,9 +1103,9 @@
       "DevName": "실명",
       "IconSpriteName": "Combat_Icon_CC_Blind",
       "IconDispelColor": [
-        0.686,
-        0.411,
-        0.964
+        6.0835483E-21,
+        6.083829E-21,
+        6.083564E-21
       ],
       "ParticleEnterPath": null,
       "ParticleEnterSocket": "None",
@@ -1121,9 +1121,9 @@
       "DevName": "매혹",
       "IconSpriteName": "Combat_Icon_CC_Charmed",
       "IconDispelColor": [
-        0.686,
-        0.411,
-        0.964
+        6.0835483E-21,
+        6.083829E-21,
+        6.083564E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Charm_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -1139,9 +1139,9 @@
       "DevName": "공포",
       "IconSpriteName": "Combat_Icon_CC_Fear",
       "IconDispelColor": [
-        0.686,
-        0.411,
-        0.964
+        6.0835483E-21,
+        6.083829E-21,
+        6.083564E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Panic_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -1157,9 +1157,9 @@
       "DevName": "마비",
       "IconSpriteName": "Combat_Icon_CC_Paralysis",
       "IconDispelColor": [
-        0.686,
-        0.411,
-        0.964
+        6.0835483E-21,
+        6.083829E-21,
+        6.083564E-21
       ],
       "ParticleEnterPath": null,
       "ParticleEnterSocket": "None",
@@ -1175,9 +1175,9 @@
       "DevName": "정화",
       "IconSpriteName": "Combat_Icon_CC_Purify",
       "IconDispelColor": [
-        0.686,
-        0.411,
-        0.964
+        6.0835483E-21,
+        6.083829E-21,
+        6.083564E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Purify_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -1193,9 +1193,9 @@
       "DevName": "EMP",
       "IconSpriteName": "Combat_Icon_CC_Emp",
       "IconDispelColor": [
-        0.686,
-        0.411,
-        0.964
+        6.0835483E-21,
+        6.083829E-21,
+        6.083564E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_EMP_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -1211,9 +1211,9 @@
       "DevName": "실드(임시 HP)",
       "IconSpriteName": "Combat_Icon_Buff_Shield",
       "IconDispelColor": [
-        1.0,
-        0.31,
-        0.196
+        6.083643E-21,
+        6.083769E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": "Effect/Common_Variant/FX_Common_Effect_Shield_Start_Variant",
       "ParticleEnterSocket": "None",
@@ -1271,9 +1271,9 @@
       "DevName": "폼 전환",
       "IconSpriteName": "Combat_Icon_Special_FormChange",
       "IconDispelColor": [
-        1.0,
-        0.784,
-        0.196
+        6.083643E-21,
+        6.0835043E-21,
+        6.0838064E-21
       ],
       "ParticleEnterPath": null,
       "ParticleEnterSocket": "None",

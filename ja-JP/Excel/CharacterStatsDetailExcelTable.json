@@ -81,10 +81,10 @@
     {
       "Id": 7,
       "Devname": "코스트 리젠",
-      "DevName2": "야전적응",
+      "DevName2": "시가전 적응",
       "DetailShowStats": [
         "RegenCost",
-        "OutdoorBattleAdaptation"
+        "StreetBattleAdaptation"
       ],
       "IsStatsPercent": [
         false,
@@ -93,11 +93,11 @@
     },
     {
       "Id": 8,
-      "Devname": "실내전적응",
-      "DevName2": "시가전적응",
+      "Devname": "야외전 적응",
+      "DevName2": "실내전 적응",
       "DetailShowStats": [
-        "IndoorBattleAdaptation",
-        "StreetBattleAdaptation"
+        "OutdoorBattleAdaptation",
+        "IndoorBattleAdaptation"
       ],
       "IsStatsPercent": [
         false,

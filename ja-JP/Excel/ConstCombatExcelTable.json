@@ -12,7 +12,7 @@
       "PublicSpeechBubbleOffsetX": 0.0,
       "PublicSpeechBubbleOffsetY": 0.0,
       "PublicSpeechBubbleOffsetZ": 0.0,
-      "PublicSpeechDuration": 1.5,
+      "PublicSpeechDuration": 2.333652E+36,
       "ShowRaidListCount": 5,
       "MaxFinalDamage": 1000000,
       "MaxFinalHeal": 1000000,
@@ -51,10 +51,12 @@
       "UIDisplayDelayAfterSkillCutIn": 500,
       "UseInitialRangeForCoverMove": true,
       "SlowTimeScale": 10000,
-      "AimIKMinDegree": -60.0,
-      "AimIKMaxDegree": 60.0,
+      "AimIKMinDegree": -2.3456158E+36,
+      "AimIKMaxDegree": 2.3456165E+36,
       "MinimumClearTime": 10,
-      "MinimumClearLevelGap": 40
+      "MinimumClearLevelGap": 40,
+      "CheckCheaterMaxUseCostNonArena": 32,
+      "CheckCheaterMaxUseCostArena": 46
     }
   ]
 }

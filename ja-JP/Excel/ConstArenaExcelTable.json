@@ -85,7 +85,9 @@
       "TimeSpanInDaysForBattleHistory": 7,
       "HiddenCharacterImagePath": "UIs/01_Common/01_Character/NPC_Portrait_Hidden_Arena",
       "DefenseVictoryRewardMaxCount": 5,
-      "TopRankerCountLimit": 100
+      "TopRankerCountLimit": 100,
+      "AutoRefreshIntervalMilliSeconds": 60000,
+      "EchelonSettingIntervalMilliSeconds": 120000
     }
   ]
 }

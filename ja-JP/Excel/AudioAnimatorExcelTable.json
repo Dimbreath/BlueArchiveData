@@ -20,7 +20,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
+      "Volume": 125.22757,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -39,8 +39,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.5,
-      "Delay": 0.11,
+      "Volume": 125.18918,
+      "Delay": 125.21534,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_HG_Reload_01",
@@ -56,7 +56,7 @@
       "StateName": "Base Layer.Normal.AttackDelay",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.2,
+      "Volume": 125.20322,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -73,7 +73,7 @@
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
+      "Volume": 125.22757,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -92,8 +92,8 @@
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.5,
-      "Delay": 0.09,
+      "Volume": 125.18918,
+      "Delay": 125.21652,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_HG_Reload_01",
@@ -109,7 +109,7 @@
       "StateName": "Base Layer.Kneel.AttackDelay",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.2,
+      "Volume": 125.20322,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -126,7 +126,7 @@
       "StateName": "Base Layer.Stand.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
+      "Volume": 125.22757,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -145,8 +145,8 @@
       "StateName": "Base Layer.Stand.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.5,
-      "Delay": 0.17,
+      "Volume": 125.18918,
+      "Delay": 125.20465,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_HG_Reload_01",
@@ -162,7 +162,7 @@
       "StateName": "Base Layer.Stand.AttackDelay",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.2,
+      "Volume": 125.20322,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -192,7 +192,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.57,
+      "Volume": 125.18948,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -211,8 +211,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.9,
-      "Delay": 0.12,
+      "Volume": 125.2381,
+      "Delay": 125.21484,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_Reload_fast_01",
@@ -230,7 +230,7 @@
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.57,
+      "Volume": 125.18948,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -249,8 +249,8 @@
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.9,
-      "Delay": 0.8,
+      "Volume": 125.2381,
+      "Delay": 125.248825,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_Reload_fast_01",
@@ -268,7 +268,7 @@
       "StateName": "Base Layer.Stand.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.57,
+      "Volume": 125.18948,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -287,8 +287,8 @@
       "StateName": "Base Layer.Stand.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.9,
-      "Delay": 0.1,
+      "Volume": 125.2381,
+      "Delay": 125.21594,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_Reload_fast_01",
@@ -319,8 +319,8 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.8,
-      "Delay": 0.7,
+      "Volume": 125.248825,
+      "Delay": 125.24605,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_RG_aris_Attack"
@@ -334,7 +334,7 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.5,
+      "Volume": 125.18918,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -349,7 +349,7 @@
       "StateName": "Base Layer.Normal.AttackDelay",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.8,
+      "Volume": 125.248825,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -377,8 +377,8 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.8,
-      "Delay": 0.66,
+      "Volume": 125.248825,
+      "Delay": 125.24405,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_01",
@@ -396,7 +396,7 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.6,
+      "Volume": 125.191956,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -414,8 +414,8 @@
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.8,
-      "Delay": 0.66,
+      "Volume": 125.248825,
+      "Delay": 125.24405,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_01",
@@ -433,7 +433,7 @@
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.6,
+      "Volume": 125.191956,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -464,7 +464,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.75,
+      "Volume": 125.24732,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -483,7 +483,7 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.9,
+      "Volume": 125.2381,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -501,7 +501,7 @@
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.57,
+      "Volume": 125.18948,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -520,8 +520,8 @@
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.9,
-      "Delay": 0.05,
+      "Volume": 125.2381,
+      "Delay": 125.21452,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_Reload_Cart_01",
@@ -538,7 +538,7 @@
       "StateName": "Base Layer.Stand.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.57,
+      "Volume": 125.18948,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -557,8 +557,8 @@
       "StateName": "Base Layer.Stand.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.9,
-      "Delay": 0.05,
+      "Volume": 125.2381,
+      "Delay": 125.21452,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_Reload_Cart_01",
@@ -588,7 +588,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.73,
+      "Volume": 125.2446,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -607,8 +607,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
-      "Delay": 0.12,
+      "Volume": 125.22757,
+      "Delay": 125.21484,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SMG_Reload_01",
@@ -626,7 +626,7 @@
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.73,
+      "Volume": 125.2446,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -645,8 +645,8 @@
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
-      "Delay": 0.12,
+      "Volume": 125.22757,
+      "Delay": 125.21484,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SMG_Reload_01",
@@ -664,7 +664,7 @@
       "StateName": "Base Layer.Stand.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.73,
+      "Volume": 125.2446,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -683,8 +683,8 @@
       "StateName": "Base Layer.Stand.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
-      "Delay": 0.12,
+      "Volume": 125.22757,
+      "Delay": 125.21484,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SMG_Reload_01",
@@ -715,7 +715,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.6,
+      "Volume": 125.191956,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -734,8 +734,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.9,
-      "Delay": 0.08,
+      "Volume": 125.2381,
+      "Delay": 125.21309,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_Reload_Cart_01",
@@ -752,7 +752,7 @@
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.6,
+      "Volume": 125.191956,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -771,8 +771,8 @@
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.9,
-      "Delay": 0.06,
+      "Volume": 125.2381,
+      "Delay": 125.214066,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_Reload_Cart_01",
@@ -789,7 +789,7 @@
       "StateName": "Base Layer.Stand.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.6,
+      "Volume": 125.191956,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -808,8 +808,8 @@
       "StateName": "Base Layer.Stand.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.9,
-      "Delay": 0.06,
+      "Volume": 125.2381,
+      "Delay": 125.214066,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_Reload_Cart_01",
@@ -839,7 +839,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
+      "Volume": 125.22757,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -859,8 +859,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.65,
-      "Delay": 0.28,
+      "Volume": 125.19373,
+      "Delay": 125.20746,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_Revolver_Reload_01",
@@ -875,7 +875,7 @@
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
+      "Volume": 125.22757,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -895,8 +895,8 @@
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.65,
-      "Delay": 0.3,
+      "Volume": 125.19373,
+      "Delay": 125.210434,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_Revolver_Reload_01",
@@ -911,7 +911,7 @@
       "StateName": "Base Layer.Stand.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
+      "Volume": 125.22757,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -931,8 +931,8 @@
       "StateName": "Base Layer.Stand.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.65,
-      "Delay": 0.4,
+      "Volume": 125.19373,
+      "Delay": 125.197586,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_Revolver_Reload_01",
@@ -960,7 +960,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.5,
+      "Volume": 125.18918,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -977,7 +977,7 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.8,
+      "Volume": 125.248825,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -993,7 +993,7 @@
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.5,
+      "Volume": 125.18918,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -1010,7 +1010,7 @@
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.8,
+      "Volume": 125.248825,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -1039,7 +1039,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.8,
+      "Volume": 125.248825,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -1061,8 +1061,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.4,
-      "Delay": 0.4,
+      "Volume": 125.197586,
+      "Delay": 125.197586,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SG_Reload_Cart_01",
@@ -1080,8 +1080,8 @@
       "StateName": "Base Layer.Normal.AttackDelay",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.7,
-      "Delay": 0.1,
+      "Volume": 125.24605,
+      "Delay": 125.21594,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SG_Delay_01",
@@ -1102,8 +1102,8 @@
       "StateName": "Base Layer.Normal.AttackEnd",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.5,
-      "Delay": 0.1,
+      "Volume": 125.18918,
+      "Delay": 125.21594,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SG_Delay_01",
@@ -1124,7 +1124,7 @@
       "StateName": "Base Layer.Stand.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.65,
+      "Volume": 125.19373,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -1146,8 +1146,8 @@
       "StateName": "Base Layer.Stand.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.4,
-      "Delay": 0.3,
+      "Volume": 125.197586,
+      "Delay": 125.210434,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SG_Reload_Cart_01",
@@ -1165,8 +1165,8 @@
       "StateName": "Base Layer.Stand.AttackDelay",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.7,
-      "Delay": 0.1,
+      "Volume": 125.24605,
+      "Delay": 125.21594,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SG_Delay_01",
@@ -1200,7 +1200,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.65,
+      "Volume": 125.19373,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -1222,8 +1222,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.4,
-      "Delay": 0.33,
+      "Volume": 125.197586,
+      "Delay": 125.19702,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SG_Reload_01",
@@ -1241,7 +1241,7 @@
       "StateName": "Base Layer.Normal.AttackDelay",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.7,
+      "Volume": 125.24605,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -1263,7 +1263,7 @@
       "StateName": "Base Layer.Normal.AttackEnd",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.5,
+      "Volume": 125.18918,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -1285,7 +1285,7 @@
       "StateName": "Base Layer.Stand.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.65,
+      "Volume": 125.19373,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -1307,8 +1307,8 @@
       "StateName": "Base Layer.Stand.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.4,
-      "Delay": 0.35,
+      "Volume": 125.197586,
+      "Delay": 125.19608,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SG_Reload_01",
@@ -1326,7 +1326,7 @@
       "StateName": "Base Layer.Stand.AttackDelay",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.7,
+      "Volume": 125.24605,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -1361,7 +1361,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.65,
+      "Volume": 125.19373,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -1383,8 +1383,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.4,
-      "Delay": 0.33,
+      "Volume": 125.197586,
+      "Delay": 125.19702,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SG_Reload_01",
@@ -1402,8 +1402,8 @@
       "StateName": "Base Layer.Normal.AttackDelay",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.7,
-      "Delay": 0.1,
+      "Volume": 125.24605,
+      "Delay": 125.21594,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SG_Delay_01",
@@ -1424,7 +1424,7 @@
       "StateName": "Base Layer.Normal.AttackEnd",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.5,
+      "Volume": 125.18918,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -1446,7 +1446,7 @@
       "StateName": "Base Layer.Stand.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.65,
+      "Volume": 125.19373,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -1468,8 +1468,8 @@
       "StateName": "Base Layer.Stand.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.4,
-      "Delay": 0.35,
+      "Volume": 125.197586,
+      "Delay": 125.19608,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SG_Reload_01",
@@ -1487,8 +1487,8 @@
       "StateName": "Base Layer.Stand.AttackDelay",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.7,
-      "Delay": 0.1,
+      "Volume": 125.24605,
+      "Delay": 125.21594,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SG_Delay_01",
@@ -1522,8 +1522,8 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.8,
-      "Delay": 0.66,
+      "Volume": 125.248825,
+      "Delay": 125.24405,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_01",
@@ -1541,7 +1541,7 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.6,
+      "Volume": 125.191956,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -1559,8 +1559,8 @@
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.8,
-      "Delay": 0.66,
+      "Volume": 125.248825,
+      "Delay": 125.24405,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_01",
@@ -1578,7 +1578,7 @@
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.6,
+      "Volume": 125.191956,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -1609,8 +1609,8 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.8,
-      "Delay": 0.66,
+      "Volume": 125.248825,
+      "Delay": 125.24405,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_01",
@@ -1628,8 +1628,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.6,
-      "Delay": 0.3,
+      "Volume": 125.191956,
+      "Delay": 125.210434,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_Reload_01",
@@ -1648,8 +1648,8 @@
       "StateName": "Base Layer.Normal.AttackDelay",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
-      "Delay": 0.35,
+      "Volume": 125.22757,
+      "Delay": 125.19608,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_Reload_Bolt_01",
@@ -1668,8 +1668,8 @@
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.8,
-      "Delay": 0.66,
+      "Volume": 125.248825,
+      "Delay": 125.24405,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_01",
@@ -1687,8 +1687,8 @@
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.6,
-      "Delay": 0.3,
+      "Volume": 125.191956,
+      "Delay": 125.210434,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_Reload_01",
@@ -1707,8 +1707,8 @@
       "StateName": "Base Layer.Kneel.AttackDelay",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
-      "Delay": 0.25,
+      "Volume": 125.22757,
+      "Delay": 125.20889,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_Reload_Bolt_01",
@@ -1740,7 +1740,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.57,
+      "Volume": 125.18948,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -1759,8 +1759,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.9,
-      "Delay": 0.62,
+      "Volume": 125.2381,
+      "Delay": 125.19493,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_Reload_fast_01",
@@ -1778,7 +1778,7 @@
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.57,
+      "Volume": 125.18948,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -1797,8 +1797,8 @@
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.9,
-      "Delay": 0.45,
+      "Volume": 125.2381,
+      "Delay": 125.199356,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_Reload_01",
@@ -1816,7 +1816,7 @@
       "StateName": "Base Layer.Stand.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.57,
+      "Volume": 125.18948,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -1835,8 +1835,8 @@
       "StateName": "Base Layer.Stand.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.9,
-      "Delay": 0.48,
+      "Volume": 125.2381,
+      "Delay": 125.20183,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_Reload_01",
@@ -1867,7 +1867,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.7,
+      "Volume": 125.24605,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -1886,8 +1886,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.8,
-      "Delay": 0.02,
+      "Volume": 125.248825,
+      "Delay": 125.21207,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_HMG_Reload_Hina_01",
@@ -1903,8 +1903,8 @@
       "StateName": "Base Layer.Normal.AttackStart",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.6,
-      "Delay": 0.02,
+      "Volume": 125.191956,
+      "Delay": 125.21207,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_HMG_Start_Hina_01",
@@ -1933,7 +1933,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.65,
+      "Volume": 125.19373,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -1955,8 +1955,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.4,
-      "Delay": 0.3,
+      "Volume": 125.197586,
+      "Delay": 125.210434,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SG_Reload_01",
@@ -1974,7 +1974,7 @@
       "StateName": "Base Layer.Normal.AttackDelay",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.7,
+      "Volume": 125.24605,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -1996,7 +1996,7 @@
       "StateName": "Base Layer.Normal.AttackEnd",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.5,
+      "Volume": 125.18918,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -2018,7 +2018,7 @@
       "StateName": "Base Layer.Stand.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.65,
+      "Volume": 125.19373,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -2040,8 +2040,8 @@
       "StateName": "Base Layer.Stand.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.4,
-      "Delay": 0.3,
+      "Volume": 125.197586,
+      "Delay": 125.210434,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SG_Reload_01",
@@ -2059,7 +2059,7 @@
       "StateName": "Base Layer.Stand.AttackDelay",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.7,
+      "Volume": 125.24605,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -2094,8 +2094,8 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.8,
-      "Delay": 0.66,
+      "Volume": 125.248825,
+      "Delay": 125.24405,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_01",
@@ -2113,8 +2113,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.6,
-      "Delay": 0.3,
+      "Volume": 125.191956,
+      "Delay": 125.210434,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_Reload_01",
@@ -2133,8 +2133,8 @@
       "StateName": "Base Layer.Normal.AttackDelay",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
-      "Delay": 0.35,
+      "Volume": 125.22757,
+      "Delay": 125.19608,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_Reload_Bolt_01",
@@ -2153,8 +2153,8 @@
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.8,
-      "Delay": 0.66,
+      "Volume": 125.248825,
+      "Delay": 125.24405,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_01",
@@ -2172,8 +2172,8 @@
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.6,
-      "Delay": 0.3,
+      "Volume": 125.191956,
+      "Delay": 125.210434,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_Reload_01",
@@ -2192,8 +2192,8 @@
       "StateName": "Base Layer.Kneel.AttackDelay",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
-      "Delay": 0.25,
+      "Volume": 125.22757,
+      "Delay": 125.20889,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_Reload_Bolt_01",
@@ -2225,7 +2225,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.7,
+      "Volume": 125.24605,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -2244,8 +2244,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
-      "Delay": 0.3,
+      "Volume": 125.22757,
+      "Delay": 125.210434,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_MG_Reload_Izumi_01",
@@ -2260,7 +2260,7 @@
       "StateName": "Base Layer.Stand.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.7,
+      "Volume": 125.24605,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -2279,12 +2279,223 @@
       "StateName": "Base Layer.Stand.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
-      "Delay": 0.3,
+      "Volume": 125.22757,
+      "Delay": 125.210434,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_MG_Reload_Izumi_01",
         "SFX_Common_MG_Reload_Izumi_02"
+      ],
+      "VoiceHash": []
+    },
+    {
+      "ControllerNameHash": 2316944581,
+      "VoiceNamePrefix": "Izuna",
+      "StateNameHash": 0,
+      "StateName": null,
+      "IgnoreInterruptDelay": false,
+      "IgnoreInterruptPlay": false,
+      "Volume": 0.0,
+      "Delay": 0.0,
+      "AudioPriority": 0,
+      "AudioClipPath": [],
+      "VoiceHash": []
+    },
+    {
+      "ControllerNameHash": 2316944581,
+      "VoiceNamePrefix": "Izuna",
+      "StateNameHash": 4198288525,
+      "StateName": "Base Layer.Normal.AttackIng",
+      "IgnoreInterruptDelay": false,
+      "IgnoreInterruptPlay": false,
+      "Volume": 125.22757,
+      "Delay": 0.0,
+      "AudioPriority": 100,
+      "AudioClipPath": [
+        "SFX_Common_SMG_Triple_01",
+        "SFX_Common_SMG_Triple_02",
+        "SFX_Common_SMG_Triple_03",
+        "SFX_Common_SMG_Triple_04"
+      ],
+      "VoiceHash": []
+    },
+    {
+      "ControllerNameHash": 2316944581,
+      "VoiceNamePrefix": "Izuna",
+      "StateNameHash": 2495071527,
+      "StateName": "Base Layer.Normal.Reload",
+      "IgnoreInterruptDelay": false,
+      "IgnoreInterruptPlay": false,
+      "Volume": 125.22757,
+      "Delay": 125.21452,
+      "AudioPriority": 100,
+      "AudioClipPath": [
+        "SFX_Common_SMG_Izuna_Normal_Reload_01",
+        "SFX_Common_SMG_Izuna_Normal_Reload_02"
+      ],
+      "VoiceHash": []
+    },
+    {
+      "ControllerNameHash": 2316944581,
+      "VoiceNamePrefix": "Izuna",
+      "StateNameHash": 1198599094,
+      "StateName": "Base Layer.Normal.AttackStart",
+      "IgnoreInterruptDelay": false,
+      "IgnoreInterruptPlay": false,
+      "Volume": 125.20322,
+      "Delay": 125.21594,
+      "AudioPriority": 100,
+      "AudioClipPath": [
+        "SFX_Grenade_Throw_Away"
+      ],
+      "VoiceHash": []
+    },
+    {
+      "ControllerNameHash": 2316944581,
+      "VoiceNamePrefix": "Izuna",
+      "StateNameHash": 889720587,
+      "StateName": "Base Layer.Normal.AttackEnd",
+      "IgnoreInterruptDelay": false,
+      "IgnoreInterruptPlay": false,
+      "Volume": 125.20889,
+      "Delay": 125.210434,
+      "AudioPriority": 100,
+      "AudioClipPath": [
+        "SFX_Swing_01",
+        "SFX_Swing_02",
+        "SFX_Swing_03"
+      ],
+      "VoiceHash": []
+    },
+    {
+      "ControllerNameHash": 2316944581,
+      "VoiceNamePrefix": "Izuna",
+      "StateNameHash": 199563541,
+      "StateName": "Base Layer.Kneel.AttackIng",
+      "IgnoreInterruptDelay": false,
+      "IgnoreInterruptPlay": false,
+      "Volume": 125.22757,
+      "Delay": 0.0,
+      "AudioPriority": 100,
+      "AudioClipPath": [
+        "SFX_Common_SMG_Triple_01",
+        "SFX_Common_SMG_Triple_02",
+        "SFX_Common_SMG_Triple_03",
+        "SFX_Common_SMG_Triple_04"
+      ],
+      "VoiceHash": []
+    },
+    {
+      "ControllerNameHash": 2316944581,
+      "VoiceNamePrefix": "Izuna",
+      "StateNameHash": 3226339727,
+      "StateName": "Base Layer.Kneel.Reload",
+      "IgnoreInterruptDelay": false,
+      "IgnoreInterruptPlay": false,
+      "Volume": 125.22757,
+      "Delay": 0.0,
+      "AudioPriority": 100,
+      "AudioClipPath": [
+        "SFX_Common_SMG_Izuna_Kneel_Reload_01",
+        "SFX_Common_SMG_Izuna_Kneel_Reload_02"
+      ],
+      "VoiceHash": []
+    },
+    {
+      "ControllerNameHash": 2316944581,
+      "VoiceNamePrefix": "Izuna",
+      "StateNameHash": 1931956606,
+      "StateName": "Base Layer.Kneel.AttackStart",
+      "IgnoreInterruptDelay": false,
+      "IgnoreInterruptPlay": false,
+      "Volume": 125.20322,
+      "Delay": 125.21452,
+      "AudioPriority": 100,
+      "AudioClipPath": [
+        "SFX_Grenade_Throw_Away"
+      ],
+      "VoiceHash": []
+    },
+    {
+      "ControllerNameHash": 2316944581,
+      "VoiceNamePrefix": "Izuna",
+      "StateNameHash": 2144217603,
+      "StateName": "Base Layer.Kneel.AttackEnd",
+      "IgnoreInterruptDelay": false,
+      "IgnoreInterruptPlay": false,
+      "Volume": 125.20889,
+      "Delay": 125.20419,
+      "AudioPriority": 100,
+      "AudioClipPath": [
+        "SFX_Swing_01",
+        "SFX_Swing_02",
+        "SFX_Swing_03"
+      ],
+      "VoiceHash": []
+    },
+    {
+      "ControllerNameHash": 2316944581,
+      "VoiceNamePrefix": "Izuna",
+      "StateNameHash": 1704571765,
+      "StateName": "Base Layer.Stand.AttackIng",
+      "IgnoreInterruptDelay": false,
+      "IgnoreInterruptPlay": false,
+      "Volume": 125.22757,
+      "Delay": 0.0,
+      "AudioPriority": 100,
+      "AudioClipPath": [
+        "SFX_Common_SMG_Triple_01",
+        "SFX_Common_SMG_Triple_02",
+        "SFX_Common_SMG_Triple_03",
+        "SFX_Common_SMG_Triple_04"
+      ],
+      "VoiceHash": []
+    },
+    {
+      "ControllerNameHash": 2316944581,
+      "VoiceNamePrefix": "Izuna",
+      "StateNameHash": 3177945297,
+      "StateName": "Base Layer.Stand.Reload",
+      "IgnoreInterruptDelay": false,
+      "IgnoreInterruptPlay": false,
+      "Volume": 125.22757,
+      "Delay": 125.19856,
+      "AudioPriority": 100,
+      "AudioClipPath": [
+        "SFX_Common_SMG_Izuna_Stand_Reload_01",
+        "SFX_Common_SMG_Izuna_Stand_Reload_02"
+      ],
+      "VoiceHash": []
+    },
+    {
+      "ControllerNameHash": 2316944581,
+      "VoiceNamePrefix": "Izuna",
+      "StateNameHash": 3390896656,
+      "StateName": "Base Layer.Stand.AttackStart",
+      "IgnoreInterruptDelay": false,
+      "IgnoreInterruptPlay": false,
+      "Volume": 125.20322,
+      "Delay": 125.21594,
+      "AudioPriority": 100,
+      "AudioClipPath": [
+        "SFX_Grenade_Throw_Away"
+      ],
+      "VoiceHash": []
+    },
+    {
+      "ControllerNameHash": 2316944581,
+      "VoiceNamePrefix": "Izuna",
+      "StateNameHash": 2645073435,
+      "StateName": "Base Layer.Stand.AttackEnd",
+      "IgnoreInterruptDelay": false,
+      "IgnoreInterruptPlay": false,
+      "Volume": 125.20889,
+      "Delay": 125.21594,
+      "AudioPriority": 100,
+      "AudioClipPath": [
+        "SFX_Swing_01",
+        "SFX_Swing_02",
+        "SFX_Swing_03"
       ],
       "VoiceHash": []
     },
@@ -2308,7 +2519,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
+      "Volume": 125.22757,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -2328,8 +2539,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.5,
-      "Delay": 0.35,
+      "Volume": 125.18918,
+      "Delay": 125.19608,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_HG_Reload_01",
@@ -2345,7 +2556,7 @@
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
+      "Volume": 125.22757,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -2365,8 +2576,8 @@
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.5,
-      "Delay": 0.25,
+      "Volume": 125.18918,
+      "Delay": 125.20889,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_HG_Reload_Cock_01",
@@ -2382,7 +2593,7 @@
       "StateName": "Base Layer.Stand.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
+      "Volume": 125.22757,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -2402,8 +2613,8 @@
       "StateName": "Base Layer.Stand.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.5,
-      "Delay": 0.25,
+      "Volume": 125.18918,
+      "Delay": 125.20889,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_HG_Reload_01",
@@ -2432,7 +2643,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
+      "Volume": 125.22757,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -2452,8 +2663,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.65,
-      "Delay": 0.22,
+      "Volume": 125.19373,
+      "Delay": 125.206436,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_Revolver_Reload_01",
@@ -2468,7 +2679,7 @@
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
+      "Volume": 125.22757,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -2488,8 +2699,8 @@
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.65,
-      "Delay": 0.35,
+      "Volume": 125.19373,
+      "Delay": 125.19608,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_Revolver_Reload_01",
@@ -2504,7 +2715,7 @@
       "StateName": "Base Layer.Stand.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
+      "Volume": 125.22757,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -2524,8 +2735,8 @@
       "StateName": "Base Layer.Stand.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.65,
-      "Delay": 0.35,
+      "Volume": 125.19373,
+      "Delay": 125.19608,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_Revolver_Reload_01",
@@ -2553,8 +2764,8 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.8,
-      "Delay": 0.66,
+      "Volume": 125.248825,
+      "Delay": 125.24405,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_01",
@@ -2572,8 +2783,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.6,
-      "Delay": 0.25,
+      "Volume": 125.191956,
+      "Delay": 125.20889,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_Reload_Bolt_01",
@@ -2592,8 +2803,8 @@
       "StateName": "Base Layer.Normal.AttackDelay",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
-      "Delay": 0.2,
+      "Volume": 125.22757,
+      "Delay": 125.20322,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_Reload_Bolt_01",
@@ -2612,8 +2823,8 @@
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.8,
-      "Delay": 0.66,
+      "Volume": 125.248825,
+      "Delay": 125.24405,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_01",
@@ -2631,8 +2842,8 @@
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.6,
-      "Delay": 0.25,
+      "Volume": 125.191956,
+      "Delay": 125.20889,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_Reload_Bolt_01",
@@ -2651,8 +2862,8 @@
       "StateName": "Base Layer.Kneel.AttackDelay",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
-      "Delay": 0.2,
+      "Volume": 125.22757,
+      "Delay": 125.20322,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_Reload_Bolt_01",
@@ -2684,7 +2895,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.7,
+      "Volume": 125.24605,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -2703,8 +2914,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
-      "Delay": 0.06,
+      "Volume": 125.22757,
+      "Delay": 125.214066,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_HMG_Reload_Kotori_01",
@@ -2719,7 +2930,7 @@
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.7,
+      "Volume": 125.24605,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -2738,8 +2949,8 @@
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
-      "Delay": 0.06,
+      "Volume": 125.22757,
+      "Delay": 125.214066,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_HMG_Reload_Kotori_01",
@@ -2767,7 +2978,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.7,
+      "Volume": 125.24605,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -2786,8 +2997,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
-      "Delay": 0.3,
+      "Volume": 125.22757,
+      "Delay": 125.210434,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_MG_Reload_Izumi_01",
@@ -2815,8 +3026,8 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.8,
-      "Delay": 0.66,
+      "Volume": 125.248825,
+      "Delay": 125.24405,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_01",
@@ -2834,7 +3045,7 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.6,
+      "Volume": 125.191956,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -2852,8 +3063,8 @@
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.8,
-      "Delay": 0.66,
+      "Volume": 125.248825,
+      "Delay": 125.24405,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_01",
@@ -2871,7 +3082,7 @@
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.6,
+      "Volume": 125.191956,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -2902,8 +3113,8 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.57,
-      "Delay": 0.09,
+      "Volume": 125.18948,
+      "Delay": 125.21652,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_01",
@@ -2921,8 +3132,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.9,
-      "Delay": 0.3,
+      "Volume": 125.2381,
+      "Delay": 125.210434,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_Reload_Cart_01",
@@ -2939,8 +3150,8 @@
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.57,
-      "Delay": 0.09,
+      "Volume": 125.18948,
+      "Delay": 125.21652,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_01",
@@ -2958,8 +3169,8 @@
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.9,
-      "Delay": 0.3,
+      "Volume": 125.2381,
+      "Delay": 125.210434,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_Reload_Cart_01",
@@ -2976,8 +3187,8 @@
       "StateName": "Base Layer.Stand.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.57,
-      "Delay": 0.09,
+      "Volume": 125.18948,
+      "Delay": 125.21652,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_01",
@@ -2995,8 +3206,8 @@
       "StateName": "Base Layer.Stand.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.9,
-      "Delay": 0.3,
+      "Volume": 125.2381,
+      "Delay": 125.210434,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_Reload_Cart_01",
@@ -3026,7 +3237,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.7,
+      "Volume": 125.24605,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -3045,7 +3256,7 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
+      "Volume": 125.22757,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -3061,7 +3272,7 @@
       "StateName": "Base Layer.Stand.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.7,
+      "Volume": 125.24605,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -3080,7 +3291,7 @@
       "StateName": "Base Layer.Stand.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
+      "Volume": 125.22757,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -3109,7 +3320,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
+      "Volume": 125.22757,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -3127,8 +3338,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.73,
-      "Delay": 0.25,
+      "Volume": 125.2446,
+      "Delay": 125.20889,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_DSMG_Reload_01",
@@ -3144,7 +3355,7 @@
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
+      "Volume": 125.22757,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -3162,8 +3373,8 @@
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.73,
-      "Delay": 0.25,
+      "Volume": 125.2446,
+      "Delay": 125.20889,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_DSMG_Reload_01",
@@ -3179,7 +3390,7 @@
       "StateName": "Base Layer.Stand.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
+      "Volume": 125.22757,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -3197,8 +3408,8 @@
       "StateName": "Base Layer.Stand.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.73,
-      "Delay": 0.25,
+      "Volume": 125.2446,
+      "Delay": 125.20889,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_DSMG_Reload_01",
@@ -3227,7 +3438,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.7,
+      "Volume": 125.24605,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -3246,8 +3457,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
-      "Delay": 0.25,
+      "Volume": 125.22757,
+      "Delay": 125.20889,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_HMG_Reload_Kotori_01",
@@ -3262,7 +3473,7 @@
       "StateName": "Base Layer.Stand.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.7,
+      "Volume": 125.24605,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -3281,8 +3492,8 @@
       "StateName": "Base Layer.Stand.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
-      "Delay": 0.25,
+      "Volume": 125.22757,
+      "Delay": 125.20889,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_HMG_Reload_Kotori_01",
@@ -3310,7 +3521,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.7,
+      "Volume": 125.24605,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -3329,7 +3540,7 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.6,
+      "Volume": 125.191956,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -3359,7 +3570,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.57,
+      "Volume": 125.18948,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -3378,8 +3589,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.9,
-      "Delay": 0.7,
+      "Volume": 125.2381,
+      "Delay": 125.24605,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_Reload_01",
@@ -3397,7 +3608,7 @@
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.57,
+      "Volume": 125.18948,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -3416,8 +3627,8 @@
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.9,
-      "Delay": 0.53,
+      "Volume": 125.2381,
+      "Delay": 125.18774,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_Reload_01",
@@ -3435,7 +3646,7 @@
       "StateName": "Base Layer.Stand.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.57,
+      "Volume": 125.18948,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -3454,8 +3665,8 @@
       "StateName": "Base Layer.Stand.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.9,
-      "Delay": 0.4,
+      "Volume": 125.2381,
+      "Delay": 125.197586,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_Reload_01",
@@ -3486,7 +3697,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.57,
+      "Volume": 125.18948,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -3505,8 +3716,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.9,
-      "Delay": 0.7,
+      "Volume": 125.2381,
+      "Delay": 125.24605,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_Reload_01",
@@ -3524,7 +3735,7 @@
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.57,
+      "Volume": 125.18948,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -3543,8 +3754,8 @@
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.9,
-      "Delay": 0.53,
+      "Volume": 125.2381,
+      "Delay": 125.18774,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_Reload_01",
@@ -3562,7 +3773,7 @@
       "StateName": "Base Layer.Stand.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.57,
+      "Volume": 125.18948,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -3581,8 +3792,8 @@
       "StateName": "Base Layer.Stand.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.9,
-      "Delay": 0.4,
+      "Volume": 125.2381,
+      "Delay": 125.197586,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_Reload_01",
@@ -3613,8 +3824,8 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.8,
-      "Delay": 0.66,
+      "Volume": 125.248825,
+      "Delay": 125.24405,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_01",
@@ -3632,7 +3843,7 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.6,
+      "Volume": 125.191956,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -3650,8 +3861,8 @@
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.8,
-      "Delay": 0.66,
+      "Volume": 125.248825,
+      "Delay": 125.24405,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_01",
@@ -3669,7 +3880,7 @@
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.6,
+      "Volume": 125.191956,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -3700,8 +3911,8 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.8,
-      "Delay": 0.66,
+      "Volume": 125.248825,
+      "Delay": 125.24405,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_01",
@@ -3719,7 +3930,7 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.6,
+      "Volume": 125.191956,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -3737,8 +3948,8 @@
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.8,
-      "Delay": 0.66,
+      "Volume": 125.248825,
+      "Delay": 125.24405,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_01",
@@ -3756,7 +3967,7 @@
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.6,
+      "Volume": 125.191956,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -3787,7 +3998,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.65,
+      "Volume": 125.19373,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -3805,8 +4016,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.4,
-      "Delay": 0.4,
+      "Volume": 125.197586,
+      "Delay": 125.197586,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SG_Reload_01",
@@ -3824,7 +4035,7 @@
       "StateName": "Base Layer.Normal.AttackEnd",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.1,
+      "Volume": 125.21594,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -3852,7 +4063,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.57,
+      "Volume": 125.18948,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -3871,8 +4082,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.9,
-      "Delay": 0.7,
+      "Volume": 125.2381,
+      "Delay": 125.24605,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_Reload_01",
@@ -3890,7 +4101,7 @@
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.57,
+      "Volume": 125.18948,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -3909,8 +4120,8 @@
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.9,
-      "Delay": 0.53,
+      "Volume": 125.2381,
+      "Delay": 125.18774,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_Reload_01",
@@ -3928,7 +4139,7 @@
       "StateName": "Base Layer.Stand.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.57,
+      "Volume": 125.18948,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -3947,8 +4158,8 @@
       "StateName": "Base Layer.Stand.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.9,
-      "Delay": 0.4,
+      "Volume": 125.2381,
+      "Delay": 125.197586,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_Reload_01",
@@ -3979,7 +4190,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.73,
+      "Volume": 125.2446,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -3998,7 +4209,7 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
+      "Volume": 125.22757,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -4030,7 +4241,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.7,
+      "Volume": 125.24605,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -4048,8 +4259,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.5,
-      "Delay": 0.02,
+      "Volume": 125.18918,
+      "Delay": 125.21207,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_Tsurugi_Reload_01",
@@ -4065,8 +4276,8 @@
       "StateName": "Base Layer.Normal.AttackDelay",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.7,
-      "Delay": 0.08,
+      "Volume": 125.24605,
+      "Delay": 125.21309,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_Tsurugi_Delay_01",
@@ -4096,7 +4307,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.7,
+      "Volume": 125.24605,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -4114,8 +4325,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.5,
-      "Delay": 0.15,
+      "Volume": 125.18918,
+      "Delay": 125.21734,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_Tsurugi02_Reload_01",
@@ -4131,8 +4342,8 @@
       "StateName": "Base Layer.Normal.AttackDelay",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.7,
-      "Delay": 0.08,
+      "Volume": 125.24605,
+      "Delay": 125.21309,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_Tsurugi02_Delay_01",
@@ -4162,8 +4373,8 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.8,
-      "Delay": 0.66,
+      "Volume": 125.248825,
+      "Delay": 125.24405,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_01",
@@ -4181,8 +4392,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.6,
-      "Delay": 0.04,
+      "Volume": 125.191956,
+      "Delay": 125.21109,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_Reload_Bolt_01",
@@ -4201,7 +4412,7 @@
       "StateName": "Base Layer.Normal.AttackDelay",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
+      "Volume": 125.22757,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -4221,8 +4432,8 @@
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.8,
-      "Delay": 0.66,
+      "Volume": 125.248825,
+      "Delay": 125.24405,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_01",
@@ -4240,8 +4451,8 @@
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.6,
-      "Delay": 0.04,
+      "Volume": 125.191956,
+      "Delay": 125.21109,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SR_Reload_Bolt_01",
@@ -4260,7 +4471,7 @@
       "StateName": "Base Layer.Kneel.AttackDelay",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
+      "Volume": 125.22757,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -4293,7 +4504,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.73,
+      "Volume": 125.2446,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -4312,8 +4523,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
-      "Delay": 0.02,
+      "Volume": 125.22757,
+      "Delay": 125.21207,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SMG_Reload_01",
@@ -4331,7 +4542,7 @@
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.73,
+      "Volume": 125.2446,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -4350,8 +4561,8 @@
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
-      "Delay": 0.02,
+      "Volume": 125.22757,
+      "Delay": 125.21207,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SMG_Reload_01",
@@ -4369,7 +4580,7 @@
       "StateName": "Base Layer.Stand.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.73,
+      "Volume": 125.2446,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -4388,8 +4599,8 @@
       "StateName": "Base Layer.Stand.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 1.0,
-      "Delay": 0.02,
+      "Volume": 125.22757,
+      "Delay": 125.21207,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_SMG_Reload_01",
@@ -4420,7 +4631,7 @@
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.57,
+      "Volume": 125.18948,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -4439,8 +4650,8 @@
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.9,
-      "Delay": 0.53,
+      "Volume": 125.2381,
+      "Delay": 125.18774,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_Reload_01",
@@ -4458,7 +4669,7 @@
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.57,
+      "Volume": 125.18948,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -4477,8 +4688,8 @@
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.9,
-      "Delay": 0.39,
+      "Volume": 125.2381,
+      "Delay": 125.19808,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_Reload_01",
@@ -4496,7 +4707,7 @@
       "StateName": "Base Layer.Stand.AttackIng",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.57,
+      "Volume": 125.18948,
       "Delay": 0.0,
       "AudioPriority": 100,
       "AudioClipPath": [
@@ -4515,8 +4726,8 @@
       "StateName": "Base Layer.Stand.Reload",
       "IgnoreInterruptDelay": false,
       "IgnoreInterruptPlay": false,
-      "Volume": 0.9,
-      "Delay": 0.4,
+      "Volume": 125.2381,
+      "Delay": 125.197586,
       "AudioPriority": 100,
       "AudioClipPath": [
         "SFX_Common_AR_Reload_01",

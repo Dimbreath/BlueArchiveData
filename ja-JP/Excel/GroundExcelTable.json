@@ -189,7 +189,7 @@
       "Id": 9994,
       "DevName": "test_character_resource_06",
       "StageFileName": [
-        "character_resource_test_06"
+        "character_resource_test_03"
       ],
       "GroundSceneName": "ArtLevel/sb_01_mainstreet_p01_d",
       "FormationGroupId": 1,
@@ -226,7 +226,7 @@
       "Id": 9995,
       "DevName": "test_character_resource_05",
       "StageFileName": [
-        "character_resource_test_05"
+        "character_resource_test_03"
       ],
       "GroundSceneName": "ArtLevel/sb_01_mainstreet_p01_d",
       "FormationGroupId": 1,
@@ -263,7 +263,7 @@
       "Id": 9996,
       "DevName": "test_character_resource_04",
       "StageFileName": [
-        "character_resource_test_04"
+        "character_resource_test_03"
       ],
       "GroundSceneName": "ArtLevel/sb_01_mainstreet_p01_d",
       "FormationGroupId": 1,
@@ -337,7 +337,7 @@
       "Id": 9998,
       "DevName": "test_character_resource_02",
       "StageFileName": [
-        "character_resource_test_02"
+        "character_resource_test_03"
       ],
       "GroundSceneName": "ArtLevel/sb_01_mainstreet_p01_d",
       "FormationGroupId": 1,
@@ -374,7 +374,7 @@
       "Id": 9999,
       "DevName": "test_character_resource_01",
       "StageFileName": [
-        "character_resource_test_01"
+        "character_resource_test_03"
       ],
       "GroundSceneName": "ArtLevel/sb_01_mainstreet_p01_d",
       "FormationGroupId": 1,
@@ -853,7 +853,7 @@
     },
     {
       "Id": 101120101,
-      "DevName": "Ch01_Normal_Sub_Stage01_Boss",
+      "DevName": "Ch01_Normal_Sub_Stage01",
       "StageFileName": [
         "1011201_01_s2_01_mainstreet_p01_d"
       ],
@@ -890,7 +890,7 @@
     },
     {
       "Id": 101120201,
-      "DevName": "Ch01_Normal_Sub_Stage02_Boss",
+      "DevName": "Ch01_Normal_Sub_Stage02",
       "StageFileName": [
         "1011202_01_s2_01_mainstreet_p02_d"
       ],
@@ -927,7 +927,7 @@
     },
     {
       "Id": 101120301,
-      "DevName": "Ch01_Normal_Sub_Stage03_Boss",
+      "DevName": "Ch01_Normal_Sub_Stage03",
       "StageFileName": [
         "1011203_01_s2_01_market_p01_d"
       ],
@@ -964,7 +964,7 @@
     },
     {
       "Id": 101120401,
-      "DevName": "Ch01_Normal_Sub_Stage04_Boss",
+      "DevName": "Ch01_Normal_Sub_Stage04",
       "StageFileName": [
         "1011204_01_s2_01_market_p01_d"
       ],
@@ -1001,7 +1001,7 @@
     },
     {
       "Id": 101120501,
-      "DevName": "Ch01_Normal_Sub_Stage05_Boss",
+      "DevName": "Ch01_Normal_Sub_Stage05",
       "StageFileName": [
         "1011205_01_s3_01_market_p02_d"
       ],
@@ -1038,7 +1038,7 @@
     },
     {
       "Id": 101120601,
-      "DevName": "Ch01_Normal_Sub_Stage06_Boss",
+      "DevName": "Ch01_Normal_Sub_Stage06",
       "StageFileName": [
         "1011206_01_s3_01_market_p02_d"
       ],
@@ -1075,7 +1075,7 @@
     },
     {
       "Id": 101120701,
-      "DevName": "Ch01_Normal_Sub_Stage07_Boss",
+      "DevName": "Ch01_Normal_Sub_Stage07",
       "StageFileName": [
         "1011207_01_s3_01_market_p01_d"
       ],
@@ -1112,7 +1112,7 @@
     },
     {
       "Id": 101120801,
-      "DevName": "Ch01_Normal_Sub_Stage08_Boss",
+      "DevName": "Ch01_Normal_Sub_Stage08",
       "StageFileName": [
         "1011208_01_s3_01_market_p02_d"
       ],
@@ -1963,7 +1963,7 @@
     },
     {
       "Id": 102120101,
-      "DevName": "Ch02_Normal_Sub_Stage01_Boss",
+      "DevName": "Ch02_Normal_Sub_Stage01",
       "StageFileName": [
         "1021201_01_s3_01_park_p01_d"
       ],
@@ -2000,7 +2000,7 @@
     },
     {
       "Id": 102120201,
-      "DevName": "Ch02_Normal_Sub_Stage02_Boss",
+      "DevName": "Ch02_Normal_Sub_Stage02",
       "StageFileName": [
         "1021202_01_s3_01_park_p02_d"
       ],
@@ -2037,7 +2037,7 @@
     },
     {
       "Id": 102120301,
-      "DevName": "Ch02_Normal_Sub_Stage03_Boss",
+      "DevName": "Ch02_Normal_Sub_Stage03",
       "StageFileName": [
         "1021203_01_s3_01_park_p01_d"
       ],
@@ -2074,7 +2074,7 @@
     },
     {
       "Id": 102120401,
-      "DevName": "Ch02_Normal_Sub_Stage04_Boss",
+      "DevName": "Ch02_Normal_Sub_Stage04",
       "StageFileName": [
         "1021204_01_s3_01_park_p02_d"
       ],
@@ -2111,7 +2111,7 @@
     },
     {
       "Id": 102120501,
-      "DevName": "Ch02_Normal_Sub_Stage05_Boss",
+      "DevName": "Ch02_Normal_Sub_Stage05",
       "StageFileName": [
         "1021205_01_s3_01_market_p02_d"
       ],
@@ -2148,7 +2148,7 @@
     },
     {
       "Id": 102120601,
-      "DevName": "Ch02_Normal_Sub_Stage06_Boss",
+      "DevName": "Ch02_Normal_Sub_Stage06",
       "StageFileName": [
         "1021206_01_s3_01_market_p02_d"
       ],
@@ -2185,7 +2185,7 @@
     },
     {
       "Id": 102120701,
-      "DevName": "Ch02_Normal_Sub_Stage07_Boss",
+      "DevName": "Ch02_Normal_Sub_Stage07",
       "StageFileName": [
         "1021207_01_s3_01_market_p02_d"
       ],
@@ -2222,7 +2222,7 @@
     },
     {
       "Id": 102120801,
-      "DevName": "Ch02_Normal_Sub_Stage08_Boss",
+      "DevName": "Ch02_Normal_Sub_Stage08",
       "StageFileName": [
         "1021208_01_s3_01_market_p02_d"
       ],
@@ -2555,7 +2555,7 @@
     },
     {
       "Id": 102210303,
-      "DevName": "Ch02_Hard_Main_Stage03_03",
+      "DevName": "Ch02_Hard_Main_Stage03_03_Boss",
       "StageFileName": [
         "1022103_03_s3_boss_01_mainstreet_p01_n"
       ],
@@ -3147,7 +3147,7 @@
     },
     {
       "Id": 103120101,
-      "DevName": "Ch03_Normal_Sub_Stage01_Boss",
+      "DevName": "Ch03_Normal_Sub_Stage01",
       "StageFileName": [
         "1031201_01_s3_01_backstreet_p02_d"
       ],
@@ -3184,7 +3184,7 @@
     },
     {
       "Id": 103120201,
-      "DevName": "Ch03_Normal_Sub_Stage02_Boss",
+      "DevName": "Ch03_Normal_Sub_Stage02",
       "StageFileName": [
         "1031202_01_s3_01_backstreet_p01_d"
       ],
@@ -3221,7 +3221,7 @@
     },
     {
       "Id": 103120301,
-      "DevName": "Ch03_Normal_Sub_Stage03_Boss",
+      "DevName": "Ch03_Normal_Sub_Stage03",
       "StageFileName": [
         "1031203_01_s3_01_backstreet_p01_d"
       ],
@@ -3258,7 +3258,7 @@
     },
     {
       "Id": 103120401,
-      "DevName": "Ch03_Normal_Sub_Stage04_Boss",
+      "DevName": "Ch03_Normal_Sub_Stage04",
       "StageFileName": [
         "1031204_01_s3_01_backstreet_p02_d"
       ],
@@ -3295,7 +3295,7 @@
     },
     {
       "Id": 103120501,
-      "DevName": "Ch03_Normal_Sub_Stage05_Boss",
+      "DevName": "Ch03_Normal_Sub_Stage05",
       "StageFileName": [
         "1031205_01_s3_01_highway_p01_d"
       ],
@@ -3332,7 +3332,7 @@
     },
     {
       "Id": 103120601,
-      "DevName": "Ch03_Normal_Sub_Stage06_Boss",
+      "DevName": "Ch03_Normal_Sub_Stage06",
       "StageFileName": [
         "1031206_01_s3_01_highway_p02_d"
       ],
@@ -3369,7 +3369,7 @@
     },
     {
       "Id": 103120701,
-      "DevName": "Ch03_Normal_Sub_Stage07_Boss",
+      "DevName": "Ch03_Normal_Sub_Stage07",
       "StageFileName": [
         "1031207_01_s3_01_highway_p01_d"
       ],
@@ -3406,7 +3406,7 @@
     },
     {
       "Id": 103120801,
-      "DevName": "Ch03_Normal_Sub_Stage08_Boss",
+      "DevName": "Ch03_Normal_Sub_Stage08",
       "StageFileName": [
         "1031208_01_s3_01_highway_p02_d"
       ],
@@ -4331,7 +4331,7 @@
     },
     {
       "Id": 104120101,
-      "DevName": "Ch04_Normal_Sub_Stage01_Boss",
+      "DevName": "Ch04_Normal_Sub_Stage01",
       "StageFileName": [
         "1041201_01_s3_02_riverside_p01_d"
       ],
@@ -4368,7 +4368,7 @@
     },
     {
       "Id": 104120201,
-      "DevName": "Ch04_Normal_Sub_Stage02_Boss",
+      "DevName": "Ch04_Normal_Sub_Stage02",
       "StageFileName": [
         "1041202_01_s3_02_riverside_p02_d"
       ],
@@ -4405,7 +4405,7 @@
     },
     {
       "Id": 104120301,
-      "DevName": "Ch04_Normal_Sub_Stage03_Boss",
+      "DevName": "Ch04_Normal_Sub_Stage03",
       "StageFileName": [
         "1041203_01_s3_02_riverside_p01_d"
       ],
@@ -4442,7 +4442,7 @@
     },
     {
       "Id": 104120401,
-      "DevName": "Ch04_Normal_Sub_Stage04_Boss",
+      "DevName": "Ch04_Normal_Sub_Stage04",
       "StageFileName": [
         "1041204_01_s3_02_riverside_p02_d"
       ],
@@ -4479,7 +4479,7 @@
     },
     {
       "Id": 104120501,
-      "DevName": "Ch04_Normal_Sub_Stage05_Boss",
+      "DevName": "Ch04_Normal_Sub_Stage05",
       "StageFileName": [
         "1041205_01_s3_02_desertcity_p02_d"
       ],
@@ -4516,7 +4516,7 @@
     },
     {
       "Id": 104120601,
-      "DevName": "Ch04_Normal_Sub_Stage06_Boss",
+      "DevName": "Ch04_Normal_Sub_Stage06",
       "StageFileName": [
         "1041206_01_s3_02_desertcity_p02_d"
       ],
@@ -4553,7 +4553,7 @@
     },
     {
       "Id": 104120701,
-      "DevName": "Ch04_Normal_Sub_Stage07_Boss",
+      "DevName": "Ch04_Normal_Sub_Stage07",
       "StageFileName": [
         "1041207_01_s3_02_desertcity_p02_d"
       ],
@@ -4590,7 +4590,7 @@
     },
     {
       "Id": 104120801,
-      "DevName": "Ch04_Normal_Sub_Stage08_Boss",
+      "DevName": "Ch04_Normal_Sub_Stage08",
       "StageFileName": [
         "1041208_01_s3_02_desertcity_p01_d"
       ],
@@ -5996,7 +5996,7 @@
     },
     {
       "Id": 105210103,
-      "DevName": "Ch05_Hard_Main_Stage01_03",
+      "DevName": "Ch05_Hard_Main_Stage01_03_Boss",
       "StageFileName": [
         "1052101_03_s3_boss_02_deserttrack_p01_n"
       ],
@@ -6144,7 +6144,7 @@
     },
     {
       "Id": 105210204,
-      "DevName": "Ch05_Hard_Main_Stage02_04",
+      "DevName": "Ch05_Hard_Main_Stage02_04_Boss",
       "StageFileName": [
         "1052102_04_s3_boss_02_excavation_p01_n"
       ],
@@ -6329,7 +6329,7 @@
     },
     {
       "Id": 105210305,
-      "DevName": "Ch05_Hard_Main_Stage03_05",
+      "DevName": "Ch05_Hard_Main_Stage03_05_Boss",
       "StageFileName": [
         "1052103_05_s3_boss_02_excavation_p01_n"
       ],
@@ -6477,7 +6477,7 @@
     },
     {
       "Id": 106110104,
-      "DevName": "Ch06_Normal_Main_Stage01_04",
+      "DevName": "Ch06_Normal_Main_Stage01_04_Boss",
       "StageFileName": [
         "1061101_04_s3_boss_02_desertcity_p02_d"
       ],
@@ -6625,7 +6625,7 @@
     },
     {
       "Id": 106110204,
-      "DevName": "Ch06_Normal_Main_Stage02_04",
+      "DevName": "Ch06_Normal_Main_Stage02_04_Boss",
       "StageFileName": [
         "1061102_04_s3_boss_02_snowmountain_p01_d"
       ],
@@ -6773,7 +6773,7 @@
     },
     {
       "Id": 106110304,
-      "DevName": "Ch06_Normal_Main_Stage03_04",
+      "DevName": "Ch06_Normal_Main_Stage03_04_Boss",
       "StageFileName": [
         "1061103_04_s3_boss_02_snowmountain_p01_d"
       ],
@@ -6921,7 +6921,7 @@
     },
     {
       "Id": 106110404,
-      "DevName": "Ch06_Normal_Main_Stage04_04",
+      "DevName": "Ch06_Normal_Main_Stage04_04_Boss",
       "StageFileName": [
         "1061104_04_s3_boss_02_snowmountain_p02_d"
       ],
@@ -7106,7 +7106,7 @@
     },
     {
       "Id": 106110505,
-      "DevName": "Ch06_Normal_Main_Stage05_05",
+      "DevName": "Ch06_Normal_Main_Stage05_05_Boss",
       "StageFileName": [
         "1061105_05_s3_boss_02_snowmountain_p02_d"
       ],
@@ -7550,7 +7550,7 @@
     },
     {
       "Id": 106210104,
-      "DevName": "Ch06_Hard_Main_Stage01_04",
+      "DevName": "Ch06_Hard_Main_Stage01_04_Boss",
       "StageFileName": [
         "1062101_04_s3_boss_02_desertcity_p02_n"
       ],
@@ -7698,7 +7698,7 @@
     },
     {
       "Id": 106210204,
-      "DevName": "Ch06_Hard_Main_Stage02_04",
+      "DevName": "Ch06_Hard_Main_Stage02_04_Boss",
       "StageFileName": [
         "1062102_04_s3_boss_02_snowmountain_p02_n"
       ],
@@ -7883,7 +7883,7 @@
     },
     {
       "Id": 106210305,
-      "DevName": "Ch06_Hard_Main_Stage03_05",
+      "DevName": "Ch06_Hard_Main_Stage03_05_Boss",
       "StageFileName": [
         "1062103_05_s3_boss_02_snowmountain_p02_n"
       ],
@@ -8031,7 +8031,7 @@
     },
     {
       "Id": 107110104,
-      "DevName": "Ch07_Normal_Main_Stage01_03",
+      "DevName": "Ch07_Normal_Main_Stage01_03_Boss",
       "StageFileName": [
         "1071101_04_s3_boss_03_school_p01_d"
       ],
@@ -8179,7 +8179,7 @@
     },
     {
       "Id": 107110204,
-      "DevName": "Ch07_Normal_Main_Stage02_03",
+      "DevName": "Ch07_Normal_Main_Stage02_03_Boss",
       "StageFileName": [
         "1071102_04_s3_boss_03_school_p02_d"
       ],
@@ -8327,7 +8327,7 @@
     },
     {
       "Id": 107110304,
-      "DevName": "Ch07_Normal_Main_Stage03_04",
+      "DevName": "Ch07_Normal_Main_Stage03_04_Boss",
       "StageFileName": [
         "1071103_04_s3_boss_03_subway_p02_d"
       ],
@@ -8512,7 +8512,7 @@
     },
     {
       "Id": 107110405,
-      "DevName": "Ch07_Normal_Main_Stage04_05",
+      "DevName": "Ch07_Normal_Main_Stage04_05_Boss",
       "StageFileName": [
         "1071104_05_s3_boss_03_subway_p01_d"
       ],
@@ -8697,7 +8697,7 @@
     },
     {
       "Id": 107110505,
-      "DevName": "Ch07_Normal_Main_Stage05_05",
+      "DevName": "Ch07_Normal_Main_Stage05_05_Boss",
       "StageFileName": [
         "1071105_05_s3_boss_03_subway_p01_d"
       ],
@@ -9141,7 +9141,7 @@
     },
     {
       "Id": 107210104,
-      "DevName": "Ch07_Hard_Main_Stage01_04",
+      "DevName": "Ch07_Hard_Main_Stage01_04_Boss",
       "StageFileName": [
         "1072101_04_s3_boss_03_school_p02_n"
       ],
@@ -9326,7 +9326,7 @@
     },
     {
       "Id": 107210205,
-      "DevName": "Ch07_Hard_Main_Stage02_05",
+      "DevName": "Ch07_Hard_Main_Stage02_05_Boss",
       "StageFileName": [
         "1072102_05_s3_boss_03_subway_p02_n"
       ],
@@ -9511,7 +9511,7 @@
     },
     {
       "Id": 107210305,
-      "DevName": "Ch07_Hard_Main_Stage03_05",
+      "DevName": "Ch07_Hard_Main_Stage03_05_Boss",
       "StageFileName": [
         "1072103_05_s3_boss_03_subway_p02_n"
       ],
@@ -9659,7 +9659,7 @@
     },
     {
       "Id": 108110104,
-      "DevName": "Ch08_Normal_Main_Stage01_04",
+      "DevName": "Ch08_Normal_Main_Stage01_04_Boss",
       "StageFileName": [
         "1081101_04_s3_boss_03_munitionsfactory_p01_d"
       ],
@@ -9807,7 +9807,7 @@
     },
     {
       "Id": 108110204,
-      "DevName": "Ch08_Normal_Main_Stage02_04",
+      "DevName": "Ch08_Normal_Main_Stage02_04_Boss",
       "StageFileName": [
         "1081102_04_s3_boss_03_munitionsfactory_p01_d"
       ],
@@ -9955,7 +9955,7 @@
     },
     {
       "Id": 108110304,
-      "DevName": "Ch08_Normal_Main_Stage03_04",
+      "DevName": "Ch08_Normal_Main_Stage03_04_Boss",
       "StageFileName": [
         "1081103_04_s3_boss_03_underground_p01_d"
       ],
@@ -10140,7 +10140,7 @@
     },
     {
       "Id": 108110405,
-      "DevName": "Ch08_Normal_Main_Stage04_05",
+      "DevName": "Ch08_Normal_Main_Stage04_05_Boss",
       "StageFileName": [
         "1081104_05_s3_boss_03_underground_p02_d"
       ],
@@ -10325,7 +10325,7 @@
     },
     {
       "Id": 108110505,
-      "DevName": "Ch08_Normal_Main_Stage05_05",
+      "DevName": "Ch08_Normal_Main_Stage05_05_Boss",
       "StageFileName": [
         "1081105_05_s3_boss_03_underground_p02_d"
       ],
@@ -10769,7 +10769,7 @@
     },
     {
       "Id": 108210104,
-      "DevName": "Ch08_Hard_Main_Stage01_04",
+      "DevName": "Ch08_Hard_Main_Stage01_04_Boss",
       "StageFileName": [
         "1082101_04_s3_boss_03_munitionsfactory_p01_n"
       ],
@@ -10954,7 +10954,7 @@
     },
     {
       "Id": 108210205,
-      "DevName": "Ch08_Hard_Main_Stage02_05",
+      "DevName": "Ch08_Hard_Main_Stage02_05_Boss",
       "StageFileName": [
         "1082102_05_s3_boss_03_underground_p01_n"
       ],
@@ -11139,7 +11139,7 @@
     },
     {
       "Id": 108210305,
-      "DevName": "Ch08_Hard_Main_Stage03_05",
+      "DevName": "Ch08_Hard_Main_Stage03_05_Boss",
       "StageFileName": [
         "1082103_05_s3_boss_03_underground_p01_n"
       ],
@@ -11287,7 +11287,7 @@
     },
     {
       "Id": 109110104,
-      "DevName": "Ch09_Normal_Main_Stage01_04",
+      "DevName": "Ch09_Normal_Main_Stage01_04_Boss",
       "StageFileName": [
         "1091101_04_s3_boss_01_market_p02_d"
       ],
@@ -11435,7 +11435,7 @@
     },
     {
       "Id": 109110204,
-      "DevName": "Ch09_Normal_Main_Stage02_04",
+      "DevName": "Ch09_Normal_Main_Stage02_04_Boss",
       "StageFileName": [
         "1091102_04_s3_boss_01_market_p02_d"
       ],
@@ -11657,7 +11657,7 @@
     },
     {
       "Id": 109110306,
-      "DevName": "Ch09_Normal_Main_Stage03_06",
+      "DevName": "Ch09_Normal_Main_Stage03_06_Boss",
       "StageFileName": [
         "1091103_06_s3_boss_01_park_p02_d"
       ],
@@ -11879,7 +11879,7 @@
     },
     {
       "Id": 109110406,
-      "DevName": "Ch09_Normal_Main_Stage04_06",
+      "DevName": "Ch09_Normal_Main_Stage04_06_Boss",
       "StageFileName": [
         "1091104_06_s3_boss_01_park_p02_d"
       ],
@@ -12101,7 +12101,7 @@
     },
     {
       "Id": 109110506,
-      "DevName": "Ch09_Normal_Main_Stage05_06",
+      "DevName": "Ch09_Normal_Main_Stage05_06_Boss",
       "StageFileName": [
         "1091105_06_s3_boss_01_park_p02_d"
       ],
@@ -12582,7 +12582,7 @@
     },
     {
       "Id": 109210105,
-      "DevName": "Ch09_Hard_Main_Stage01_05",
+      "DevName": "Ch09_Hard_Main_Stage01_05_Boss",
       "StageFileName": [
         "1092101_05_s3_boss_01_market_p02_n"
       ],
@@ -12767,7 +12767,7 @@
     },
     {
       "Id": 109210205,
-      "DevName": "Ch09_Hard_Main_Stage02_05",
+      "DevName": "Ch09_Hard_Main_Stage02_05_Boss",
       "StageFileName": [
         "1092102_05_s3_boss_01_park_p02_n"
       ],
@@ -13026,7 +13026,7 @@
     },
     {
       "Id": 109210307,
-      "DevName": "Ch09_Hard_Main_Stage03_07",
+      "DevName": "Ch09_Hard_Main_Stage03_07_Boss",
       "StageFileName": [
         "1092103_07_s3_boss_01_park_p02_n"
       ],
@@ -13174,7 +13174,7 @@
     },
     {
       "Id": 110110104,
-      "DevName": "Ch10_Normal_Main_Stage01_04",
+      "DevName": "Ch10_Normal_Main_Stage01_04_Boss",
       "StageFileName": [
         "1101101_04_s3_boss_01_backstreet_p02_d"
       ],
@@ -13359,7 +13359,7 @@
     },
     {
       "Id": 110110205,
-      "DevName": "Ch10_Normal_Main_Stage02_05",
+      "DevName": "Ch10_Normal_Main_Stage02_05_Boss",
       "StageFileName": [
         "1101102_05_s3_boss_01_ruins_p02_d"
       ],
@@ -13544,7 +13544,7 @@
     },
     {
       "Id": 110110305,
-      "DevName": "Ch10_Normal_Main_Stage03_05",
+      "DevName": "Ch10_Normal_Main_Stage03_05_Boss",
       "StageFileName": [
         "1101103_05_s3_boss_01_ruins_p02_d"
       ],
@@ -13766,7 +13766,7 @@
     },
     {
       "Id": 110110406,
-      "DevName": "Ch10_Normal_Main_Stage04_06",
+      "DevName": "Ch10_Normal_Main_Stage04_06_Boss",
       "StageFileName": [
         "1101104_06_s3_boss_01_ruins_p02_d"
       ],
@@ -13988,7 +13988,7 @@
     },
     {
       "Id": 110110506,
-      "DevName": "Ch10_Normal_Main_Stage05_06",
+      "DevName": "Ch10_Normal_Main_Stage05_06_Boss",
       "StageFileName": [
         "1101105_06_s3_boss_01_ruins_p01_d"
       ],
@@ -14432,7 +14432,7 @@
     },
     {
       "Id": 110210104,
-      "DevName": "Ch10_Hard_Main_Stage01_04",
+      "DevName": "Ch10_Hard_Main_Stage01_04_Boss",
       "StageFileName": [
         "1102101_04_s3_boss_01_ruins_p02_n"
       ],
@@ -14617,7 +14617,7 @@
     },
     {
       "Id": 110210205,
-      "DevName": "Ch10_Hard_Main_Stage02_05",
+      "DevName": "Ch10_Hard_Main_Stage02_05_Boss",
       "StageFileName": [
         "1102102_05_s3_boss_01_ruins_p02_n"
       ],
@@ -14839,7 +14839,7 @@
     },
     {
       "Id": 110210306,
-      "DevName": "Ch10_Hard_Main_Stage03_06",
+      "DevName": "Ch10_Hard_Main_Stage03_06_Boss",
       "StageFileName": [
         "1102103_06_s3_boss_01_ruins_p02_n"
       ],
@@ -15024,7 +15024,7 @@
     },
     {
       "Id": 111110105,
-      "DevName": "Ch11_Normal_Main_Stage01_05",
+      "DevName": "Ch11_Normal_Main_Stage01_05_Boss",
       "StageFileName": [
         "1111101_05_s3_boss_01_highway_p02_d"
       ],
@@ -15209,7 +15209,7 @@
     },
     {
       "Id": 111110205,
-      "DevName": "Ch11_Normal_Main_Stage02_05",
+      "DevName": "Ch11_Normal_Main_Stage02_05_Boss",
       "StageFileName": [
         "1111102_05_s3_boss_01_highway_p01_d"
       ],
@@ -15357,7 +15357,7 @@
     },
     {
       "Id": 111110304,
-      "DevName": "Ch11_Normal_Main_Stage03_04",
+      "DevName": "Ch11_Normal_Main_Stage03_04_Boss",
       "StageFileName": [
         "1111103_04_s3_boss_01_mainstreet_p02_d"
       ],
@@ -15579,7 +15579,7 @@
     },
     {
       "Id": 111110406,
-      "DevName": "Ch11_Normal_Main_Stage04_06",
+      "DevName": "Ch11_Normal_Main_Stage04_06_Boss",
       "StageFileName": [
         "1111104_06_s3_boss_01_mainstreet_p01_d"
       ],
@@ -15801,7 +15801,7 @@
     },
     {
       "Id": 111110506,
-      "DevName": "Ch11_Normal_Main_Stage05_06",
+      "DevName": "Ch11_Normal_Main_Stage05_06_Boss",
       "StageFileName": [
         "1111105_06_s3_boss_01_mainstreet_p02_d"
       ],
@@ -16282,7 +16282,7 @@
     },
     {
       "Id": 111210105,
-      "DevName": "Ch11_Hard_Main_Stage01_05",
+      "DevName": "Ch11_Hard_Main_Stage01_05_Boss",
       "StageFileName": [
         "1112101_05_s3_boss_01_highway_p02_n"
       ],
@@ -16504,7 +16504,7 @@
     },
     {
       "Id": 111210206,
-      "DevName": "Ch11_Hard_Main_Stage02_06",
+      "DevName": "Ch11_Hard_Main_Stage02_06_Boss",
       "StageFileName": [
         "1112102_06_s3_boss_01_mainstreet_p01_n"
       ],
@@ -16726,7 +16726,7 @@
     },
     {
       "Id": 111210306,
-      "DevName": "Ch11_Hard_Main_Stage03_06",
+      "DevName": "Ch11_Hard_Main_Stage03_06_Boss",
       "StageFileName": [
         "1112103_06_s3_boss_01_mainstreet_p02_n"
       ],
@@ -16874,7 +16874,7 @@
     },
     {
       "Id": 112110104,
-      "DevName": "Ch12_Normal_Main_Stage01_04",
+      "DevName": "Ch12_Normal_Main_Stage01_04_Boss",
       "StageFileName": [
         "1121101_04_s3_boss_03_subway_p02_d"
       ],
@@ -17059,7 +17059,7 @@
     },
     {
       "Id": 112110205,
-      "DevName": "Ch12_Normal_Main_Stage02_05",
+      "DevName": "Ch12_Normal_Main_Stage02_05_Boss",
       "StageFileName": [
         "1121102_05_s3_boss_03_subway_p02_d"
       ],
@@ -17244,7 +17244,7 @@
     },
     {
       "Id": 112110305,
-      "DevName": "Ch12_Normal_Main_Stage03_05",
+      "DevName": "Ch12_Normal_Main_Stage03_05_Boss",
       "StageFileName": [
         "1121103_05_s3_boss_03_underground_p01_d"
       ],
@@ -17429,7 +17429,7 @@
     },
     {
       "Id": 112110405,
-      "DevName": "Ch12_Normal_Main_Stage04_05",
+      "DevName": "Ch12_Normal_Main_Stage04_05_Boss",
       "StageFileName": [
         "1121104_05_s3_boss_03_subway_p01_d"
       ],
@@ -17651,7 +17651,7 @@
     },
     {
       "Id": 112110506,
-      "DevName": "Ch12_Normal_Main_Stage05_07",
+      "DevName": "Ch12_Normal_Main_Stage05_07_Boss",
       "StageFileName": [
         "1121105_06_s3_boss_03_underground_p01_d"
       ],
@@ -18095,7 +18095,7 @@
     },
     {
       "Id": 112210104,
-      "DevName": "Ch12_Hard_Main_Stage01_04",
+      "DevName": "Ch12_Hard_Main_Stage01_04_Boss",
       "StageFileName": [
         "1122101_04_s3_boss_03_underground_p02_n"
       ],
@@ -18317,7 +18317,7 @@
     },
     {
       "Id": 112210206,
-      "DevName": "Ch12_Hard_Main_Stage02_06",
+      "DevName": "Ch12_Hard_Main_Stage02_06_Boss",
       "StageFileName": [
         "1122102_06_s3_boss_03_subway_p01_n"
       ],
@@ -18576,7 +18576,7 @@
     },
     {
       "Id": 112210307,
-      "DevName": "Ch12_Hard_Main_Stage03_07",
+      "DevName": "Ch12_Hard_Main_Stage03_07_Boss",
       "StageFileName": [
         "1122103_07_s3_boss_03_underground_p01_n"
       ],
@@ -18834,8 +18834,203 @@
       "TSSHatchOpen": false
     },
     {
+      "Id": 201100001,
+      "DevName": "Raid_Binah_Street_VeryEasy",
+      "StageFileName": [
+        "201101_raid_binah_street_veryeasy",
+        "201101_raid_binah_street_veryeasy_start2phase",
+        "201101_raid_binah_street_veryeasy_start3phase"
+      ],
+      "GroundSceneName": "ArtLevel/rb_01_binah_p01_d",
+      "FormationGroupId": 10001,
+      "StageTopography": "Street",
+      "EnemyArmorType": "HeavyArmor",
+      "LevelMinion": 17,
+      "LevelElite": 17,
+      "LevelChampion": 17,
+      "LevelBoss": 17,
+      "ObstacleLevel": 17,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 1,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 100,
+      "PlayerSightPointRate": 20000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 3000,
+      "EnemySightPointRate": 14500,
+      "EnemyAttackRangeAdd": 3000,
+      "EnemyAttackRangeRate": 14500,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 250,
+      "IsRaid": true,
+      "BGMId": 0,
+      "WarningUI": true,
+      "TSSHatchOpen": true
+    },
+    {
+      "Id": 201100002,
+      "DevName": "Raid_Binah_Street_Easy",
+      "StageFileName": [
+        "201102_raid_binah_street_easy",
+        "201102_raid_binah_street_easy_start2phase",
+        "201102_raid_binah_street_easy_start3phase"
+      ],
+      "GroundSceneName": "ArtLevel/rb_01_binah_p01_d",
+      "FormationGroupId": 10001,
+      "StageTopography": "Street",
+      "EnemyArmorType": "HeavyArmor",
+      "LevelMinion": 25,
+      "LevelElite": 25,
+      "LevelChampion": 25,
+      "LevelBoss": 25,
+      "ObstacleLevel": 25,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 1,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 100,
+      "PlayerSightPointRate": 20000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 3000,
+      "EnemySightPointRate": 14500,
+      "EnemyAttackRangeAdd": 3000,
+      "EnemyAttackRangeRate": 14500,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 250,
+      "IsRaid": true,
+      "BGMId": 0,
+      "WarningUI": true,
+      "TSSHatchOpen": true
+    },
+    {
+      "Id": 201100003,
+      "DevName": "Raid_Binah_Street_Normal",
+      "StageFileName": [
+        "201103_raid_binah_street_normal",
+        "201103_raid_binah_street_normal_start2phase",
+        "201103_raid_binah_street_normal_start3phase"
+      ],
+      "GroundSceneName": "ArtLevel/rb_01_binah_p01_d",
+      "FormationGroupId": 10001,
+      "StageTopography": "Street",
+      "EnemyArmorType": "HeavyArmor",
+      "LevelMinion": 35,
+      "LevelElite": 35,
+      "LevelChampion": 35,
+      "LevelBoss": 35,
+      "ObstacleLevel": 35,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 1,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 100,
+      "PlayerSightPointRate": 20000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 3000,
+      "EnemySightPointRate": 14500,
+      "EnemyAttackRangeAdd": 3000,
+      "EnemyAttackRangeRate": 14500,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 250,
+      "IsRaid": true,
+      "BGMId": 0,
+      "WarningUI": true,
+      "TSSHatchOpen": true
+    },
+    {
+      "Id": 201100004,
+      "DevName": "Raid_Binah_Street_Hard",
+      "StageFileName": [
+        "201104_raid_binah_street_hard",
+        "201104_raid_binah_street_hard_start2phase",
+        "201104_raid_binah_street_hard_start3phase"
+      ],
+      "GroundSceneName": "ArtLevel/rb_01_binah_p01_d",
+      "FormationGroupId": 10001,
+      "StageTopography": "Street",
+      "EnemyArmorType": "HeavyArmor",
+      "LevelMinion": 50,
+      "LevelElite": 50,
+      "LevelChampion": 50,
+      "LevelBoss": 50,
+      "ObstacleLevel": 50,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 1,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 100,
+      "PlayerSightPointRate": 20000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 3000,
+      "EnemySightPointRate": 14500,
+      "EnemyAttackRangeAdd": 3000,
+      "EnemyAttackRangeRate": 14500,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 250,
+      "IsRaid": true,
+      "BGMId": 0,
+      "WarningUI": true,
+      "TSSHatchOpen": true
+    },
+    {
+      "Id": 201100005,
+      "DevName": "Raid_Binah_Street_VeryHard",
+      "StageFileName": [
+        "201105_raid_binah_street_veryhard",
+        "201105_raid_binah_street_veryhard_start2phase",
+        "201105_raid_binah_street_veryhard_start3phase"
+      ],
+      "GroundSceneName": "ArtLevel/rb_01_binah_p01_d",
+      "FormationGroupId": 10001,
+      "StageTopography": "Street",
+      "EnemyArmorType": "HeavyArmor",
+      "LevelMinion": 70,
+      "LevelElite": 70,
+      "LevelChampion": 70,
+      "LevelBoss": 70,
+      "ObstacleLevel": 70,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 1,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 100,
+      "PlayerSightPointRate": 20000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 3000,
+      "EnemySightPointRate": 14500,
+      "EnemyAttackRangeAdd": 3000,
+      "EnemyAttackRangeRate": 14500,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 250,
+      "IsRaid": true,
+      "BGMId": 0,
+      "WarningUI": true,
+      "TSSHatchOpen": true
+    },
+    {
       "Id": 201200001,
-      "DevName": "Raid_Binah_VeryEasy",
+      "DevName": "Raid_Binah_Outdoor_VeryEasy",
       "StageFileName": [
         "201201_raid_binah_outdoor_veryeasy",
         "201201_raid_binah_outdoor_veryeasy_start2phase",
@@ -18874,7 +19069,7 @@
     },
     {
       "Id": 201200002,
-      "DevName": "Raid_Binah_Easy",
+      "DevName": "Raid_Binah_Outdoor_Easy",
       "StageFileName": [
         "201202_raid_binah_outdoor_easy",
         "201202_raid_binah_outdoor_easy_start2phase",
@@ -18913,7 +19108,7 @@
     },
     {
       "Id": 201200003,
-      "DevName": "Raid_Binah_Normal",
+      "DevName": "Raid_Binah_Outdoor_Normal",
       "StageFileName": [
         "201203_raid_binah_outdoor_normal",
         "201203_raid_binah_outdoor_normal_start2phase",
@@ -18952,7 +19147,7 @@
     },
     {
       "Id": 201200004,
-      "DevName": "Raid_Binah_Hard",
+      "DevName": "Raid_Binah_Outdoor_Hard",
       "StageFileName": [
         "201204_raid_binah_outdoor_hard",
         "201204_raid_binah_outdoor_hard_start2phase",
@@ -18991,7 +19186,7 @@
     },
     {
       "Id": 201200005,
-      "DevName": "Raid_Binah_VeryHard",
+      "DevName": "Raid_Binah_Outdoor_VeryHard",
       "StageFileName": [
         "201205_raid_binah_outdoor_veryhard",
         "201205_raid_binah_outdoor_veryhard_start2phase",
@@ -19030,7 +19225,7 @@
     },
     {
       "Id": 202300001,
-      "DevName": "Raid_Chesed_VeryEasy",
+      "DevName": "Raid_Chesed_Indoor_VeryEasy",
       "StageFileName": [
         "202301_raid_chesed_indoor_veryeasy",
         "202301_raid_chesed_indoor_veryeasy_start2phase"
@@ -19068,7 +19263,7 @@
     },
     {
       "Id": 202300002,
-      "DevName": "Raid_Chesed_Easy",
+      "DevName": "Raid_Chesed_Indoor_Easy",
       "StageFileName": [
         "202302_raid_chesed_indoor_easy",
         "202302_raid_chesed_indoor_easy_start2phase"
@@ -19077,11 +19272,11 @@
       "FormationGroupId": 10001,
       "StageTopography": "Indoor",
       "EnemyArmorType": "HeavyArmor",
-      "LevelMinion": 30,
-      "LevelElite": 30,
-      "LevelChampion": 30,
-      "LevelBoss": 30,
-      "ObstacleLevel": 30,
+      "LevelMinion": 25,
+      "LevelElite": 25,
+      "LevelChampion": 25,
+      "LevelBoss": 25,
+      "ObstacleLevel": 25,
       "GradeMinion": 1,
       "GradeElite": 1,
       "GradeChampion": 1,
@@ -19106,10 +19301,48 @@
     },
     {
       "Id": 202300003,
-      "DevName": "Raid_Chesed_Normal",
+      "DevName": "Raid_Chesed_Indoor_Normal",
       "StageFileName": [
         "202303_raid_chesed_indoor_normal",
         "202303_raid_chesed_indoor_normal_start2phase"
+      ],
+      "GroundSceneName": "ArtLevel/rb_03_chesed_p01_d",
+      "FormationGroupId": 10001,
+      "StageTopography": "Indoor",
+      "EnemyArmorType": "HeavyArmor",
+      "LevelMinion": 35,
+      "LevelElite": 35,
+      "LevelChampion": 35,
+      "LevelBoss": 35,
+      "ObstacleLevel": 35,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 1,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 0,
+      "PlayerSightPointRate": 10000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 0,
+      "EnemySightPointRate": 10000,
+      "EnemyAttackRangeAdd": 0,
+      "EnemyAttackRangeRate": 10000,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 250,
+      "IsRaid": true,
+      "BGMId": 0,
+      "WarningUI": true,
+      "TSSHatchOpen": true
+    },
+    {
+      "Id": 202300004,
+      "DevName": "Raid_Chesed_Indoor_Hard",
+      "StageFileName": [
+        "202304_raid_chesed_indoor_hard",
+        "202304_raid_chesed_indoor_hard_start2phase"
       ],
       "GroundSceneName": "ArtLevel/rb_03_chesed_p01_d",
       "FormationGroupId": 10001,
@@ -19143,11 +19376,11 @@
       "TSSHatchOpen": true
     },
     {
-      "Id": 202300004,
-      "DevName": "Raid_Chesed_Hard",
+      "Id": 202300005,
+      "DevName": "Raid_Chesed_Indoor_VeryHard",
       "StageFileName": [
-        "202304_raid_chesed_indoor_hard",
-        "202304_raid_chesed_indoor_hard_start2phase"
+        "202305_raid_chesed_indoor_veryhard",
+        "202305_raid_chesed_indoor_veryhard_start2phase"
       ],
       "GroundSceneName": "ArtLevel/rb_03_chesed_p01_d",
       "FormationGroupId": 10001,
@@ -19181,21 +19414,21 @@
       "TSSHatchOpen": true
     },
     {
-      "Id": 202300005,
-      "DevName": "Raid_Chesed_VeryHard",
+      "Id": 203100001,
+      "DevName": "Raid_ShiroKuro_Street_VeryEasy",
       "StageFileName": [
-        "202305_raid_chesed_indoor_veryhard",
-        "202305_raid_chesed_indoor_veryhard_start2phase"
+        "203101_raid_shirokuro_street_veryeasy",
+        "203101_raid_shirokuro_street_veryeasy_start2phase"
       ],
-      "GroundSceneName": "ArtLevel/rb_03_chesed_p01_d",
+      "GroundSceneName": "ArtLevel/rb_01_shirokuro_p01_d",
       "FormationGroupId": 10001,
-      "StageTopography": "Indoor",
-      "EnemyArmorType": "HeavyArmor",
-      "LevelMinion": 90,
-      "LevelElite": 90,
-      "LevelChampion": 90,
-      "LevelBoss": 90,
-      "ObstacleLevel": 90,
+      "StageTopography": "Street",
+      "EnemyArmorType": "Unarmed",
+      "LevelMinion": 17,
+      "LevelElite": 17,
+      "LevelChampion": 17,
+      "LevelBoss": 17,
+      "ObstacleLevel": 17,
       "GradeMinion": 1,
       "GradeElite": 1,
       "GradeChampion": 1,
@@ -19214,7 +19447,159 @@
       "EnemySkillRangeRate": 10000,
       "TSSAirUnitHeight": 250,
       "IsRaid": true,
-      "BGMId": 0,
+      "BGMId": 56,
+      "WarningUI": true,
+      "TSSHatchOpen": true
+    },
+    {
+      "Id": 203100002,
+      "DevName": "Raid_ShiroKuro_Street_Easy",
+      "StageFileName": [
+        "203102_raid_shirokuro_street_easy",
+        "203102_raid_shirokuro_street_easy_start2phase"
+      ],
+      "GroundSceneName": "ArtLevel/rb_01_shirokuro_p01_d",
+      "FormationGroupId": 10001,
+      "StageTopography": "Street",
+      "EnemyArmorType": "Unarmed",
+      "LevelMinion": 25,
+      "LevelElite": 25,
+      "LevelChampion": 25,
+      "LevelBoss": 25,
+      "ObstacleLevel": 25,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 1,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 0,
+      "PlayerSightPointRate": 10000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 0,
+      "EnemySightPointRate": 10000,
+      "EnemyAttackRangeAdd": 0,
+      "EnemyAttackRangeRate": 10000,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 250,
+      "IsRaid": true,
+      "BGMId": 56,
+      "WarningUI": true,
+      "TSSHatchOpen": true
+    },
+    {
+      "Id": 203100003,
+      "DevName": "Raid_ShiroKuro_Street_Normal",
+      "StageFileName": [
+        "203103_raid_shirokuro_street_normal",
+        "203103_raid_shirokuro_street_normal_start2phase"
+      ],
+      "GroundSceneName": "ArtLevel/rb_01_shirokuro_p01_d",
+      "FormationGroupId": 10001,
+      "StageTopography": "Street",
+      "EnemyArmorType": "Unarmed",
+      "LevelMinion": 35,
+      "LevelElite": 35,
+      "LevelChampion": 35,
+      "LevelBoss": 35,
+      "ObstacleLevel": 35,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 1,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 0,
+      "PlayerSightPointRate": 10000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 0,
+      "EnemySightPointRate": 10000,
+      "EnemyAttackRangeAdd": 0,
+      "EnemyAttackRangeRate": 10000,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 250,
+      "IsRaid": true,
+      "BGMId": 56,
+      "WarningUI": true,
+      "TSSHatchOpen": true
+    },
+    {
+      "Id": 203100004,
+      "DevName": "Raid_ShiroKuro_Street_Hard",
+      "StageFileName": [
+        "203104_raid_shirokuro_street_hard",
+        "203104_raid_shirokuro_street_hard_start2phase"
+      ],
+      "GroundSceneName": "ArtLevel/rb_01_shirokuro_p01_d",
+      "FormationGroupId": 10001,
+      "StageTopography": "Street",
+      "EnemyArmorType": "Unarmed",
+      "LevelMinion": 50,
+      "LevelElite": 50,
+      "LevelChampion": 50,
+      "LevelBoss": 50,
+      "ObstacleLevel": 50,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 1,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 0,
+      "PlayerSightPointRate": 10000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 0,
+      "EnemySightPointRate": 10000,
+      "EnemyAttackRangeAdd": 0,
+      "EnemyAttackRangeRate": 10000,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 250,
+      "IsRaid": true,
+      "BGMId": 56,
+      "WarningUI": true,
+      "TSSHatchOpen": true
+    },
+    {
+      "Id": 203100005,
+      "DevName": "Raid_ShiroKuro_Street_VeryHard",
+      "StageFileName": [
+        "203105_raid_shirokuro_street_veryhard",
+        "203105_raid_shirokuro_street_veryhard_start2phase"
+      ],
+      "GroundSceneName": "ArtLevel/rb_01_shirokuro_p01_d",
+      "FormationGroupId": 10001,
+      "StageTopography": "Street",
+      "EnemyArmorType": "Unarmed",
+      "LevelMinion": 70,
+      "LevelElite": 70,
+      "LevelChampion": 70,
+      "LevelBoss": 70,
+      "ObstacleLevel": 70,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 1,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 0,
+      "PlayerSightPointRate": 10000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 0,
+      "EnemySightPointRate": 10000,
+      "EnemyAttackRangeAdd": 0,
+      "EnemyAttackRangeRate": 10000,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 250,
+      "IsRaid": true,
+      "BGMId": 56,
       "WarningUI": true,
       "TSSHatchOpen": true
     },
@@ -21078,11 +21463,11 @@
       "FormationGroupId": 1,
       "StageTopography": "Street",
       "EnemyArmorType": "LightArmor",
-      "LevelMinion": 38,
-      "LevelElite": 38,
-      "LevelChampion": 38,
-      "LevelBoss": 38,
-      "ObstacleLevel": 38,
+      "LevelMinion": 35,
+      "LevelElite": 35,
+      "LevelChampion": 35,
+      "LevelBoss": 35,
+      "ObstacleLevel": 35,
       "GradeMinion": 1,
       "GradeElite": 1,
       "GradeChampion": 1,
@@ -21115,11 +21500,11 @@
       "FormationGroupId": 1,
       "StageTopography": "Outdoor",
       "EnemyArmorType": "LightArmor",
-      "LevelMinion": 38,
-      "LevelElite": 38,
-      "LevelChampion": 38,
-      "LevelBoss": 38,
-      "ObstacleLevel": 38,
+      "LevelMinion": 35,
+      "LevelElite": 35,
+      "LevelChampion": 35,
+      "LevelBoss": 35,
+      "ObstacleLevel": 35,
       "GradeMinion": 1,
       "GradeElite": 1,
       "GradeChampion": 1,
@@ -21152,11 +21537,48 @@
       "FormationGroupId": 1,
       "StageTopography": "Outdoor",
       "EnemyArmorType": "LightArmor",
-      "LevelMinion": 38,
-      "LevelElite": 38,
-      "LevelChampion": 38,
-      "LevelBoss": 38,
-      "ObstacleLevel": 38,
+      "LevelMinion": 35,
+      "LevelElite": 35,
+      "LevelChampion": 35,
+      "LevelBoss": 35,
+      "ObstacleLevel": 35,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 1,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 0,
+      "PlayerSightPointRate": 10000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 0,
+      "EnemySightPointRate": 10000,
+      "EnemyAttackRangeAdd": 0,
+      "EnemyAttackRangeRate": 10000,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 100,
+      "IsRaid": false,
+      "BGMId": 19,
+      "WarningUI": true,
+      "TSSHatchOpen": false
+    },
+    {
+      "Id": 400010208,
+      "DevName": "Scenario_Vol01_Ch02_Ep08",
+      "StageFileName": [
+        "400010208_s3_02_excavation_p01_d"
+      ],
+      "GroundSceneName": "ArtLevel/sb_02_excavation_p01_d",
+      "FormationGroupId": 1,
+      "StageTopography": "Outdoor",
+      "EnemyArmorType": "LightArmor",
+      "LevelMinion": 35,
+      "LevelElite": 35,
+      "LevelChampion": 35,
+      "LevelBoss": 35,
+      "ObstacleLevel": 35,
       "GradeMinion": 1,
       "GradeElite": 1,
       "GradeChampion": 1,
@@ -21183,17 +21605,17 @@
       "Id": 400010209,
       "DevName": "Scenario_Vol01_Ch02_Ep09",
       "StageFileName": [
-        "400010209_s3_01_market_p01_d"
+        "400010209_s3_02_excavation_p02_d"
       ],
-      "GroundSceneName": "ArtLevel/sb_01_market_p01_d",
+      "GroundSceneName": "ArtLevel/sb_02_excavation_p02_d",
       "FormationGroupId": 1,
-      "StageTopography": "Street",
+      "StageTopography": "Outdoor",
       "EnemyArmorType": "LightArmor",
-      "LevelMinion": 38,
-      "LevelElite": 38,
-      "LevelChampion": 38,
-      "LevelBoss": 38,
-      "ObstacleLevel": 38,
+      "LevelMinion": 35,
+      "LevelElite": 35,
+      "LevelChampion": 35,
+      "LevelBoss": 35,
+      "ObstacleLevel": 35,
       "GradeMinion": 1,
       "GradeElite": 1,
       "GradeChampion": 1,
@@ -21212,15 +21634,15 @@
       "EnemySkillRangeRate": 10000,
       "TSSAirUnitHeight": 100,
       "IsRaid": false,
-      "BGMId": 18,
+      "BGMId": 19,
       "WarningUI": true,
-      "TSSHatchOpen": true
+      "TSSHatchOpen": false
     },
     {
       "Id": 400010210,
-      "DevName": "Scenario_Vol01_Ch02_Ep10",
+      "DevName": "Scenario_Vol01_Ch02_Ep10 (Dummy Data)",
       "StageFileName": [
-        "400010210_s3_03_school_p02_d"
+        "400010209_s3_02_excavation_p02_d"
       ],
       "GroundSceneName": "ArtLevel/sb_03_school_p02_d",
       "FormationGroupId": 1,
@@ -21263,11 +21685,11 @@
       "FormationGroupId": 1,
       "StageTopography": "Street",
       "EnemyArmorType": "LightArmor",
-      "LevelMinion": 38,
-      "LevelElite": 38,
-      "LevelChampion": 38,
-      "LevelBoss": 38,
-      "ObstacleLevel": 38,
+      "LevelMinion": 35,
+      "LevelElite": 35,
+      "LevelChampion": 35,
+      "LevelBoss": 35,
+      "ObstacleLevel": 35,
       "GradeMinion": 1,
       "GradeElite": 1,
       "GradeChampion": 1,
@@ -21300,11 +21722,11 @@
       "FormationGroupId": 1,
       "StageTopography": "Outdoor",
       "EnemyArmorType": "LightArmor",
-      "LevelMinion": 38,
-      "LevelElite": 38,
-      "LevelChampion": 38,
-      "LevelBoss": 38,
-      "ObstacleLevel": 38,
+      "LevelMinion": 35,
+      "LevelElite": 35,
+      "LevelChampion": 35,
+      "LevelBoss": 35,
+      "ObstacleLevel": 35,
       "GradeMinion": 1,
       "GradeElite": 1,
       "GradeChampion": 1,
@@ -21337,11 +21759,11 @@
       "FormationGroupId": 1,
       "StageTopography": "Outdoor",
       "EnemyArmorType": "LightArmor",
-      "LevelMinion": 38,
-      "LevelElite": 38,
-      "LevelChampion": 38,
-      "LevelBoss": 38,
-      "ObstacleLevel": 38,
+      "LevelMinion": 35,
+      "LevelElite": 35,
+      "LevelChampion": 35,
+      "LevelBoss": 35,
+      "ObstacleLevel": 35,
       "GradeMinion": 1,
       "GradeElite": 1,
       "GradeChampion": 1,
@@ -21374,11 +21796,11 @@
       "FormationGroupId": 1,
       "StageTopography": "Outdoor",
       "EnemyArmorType": "LightArmor",
-      "LevelMinion": 38,
-      "LevelElite": 38,
-      "LevelChampion": 38,
-      "LevelBoss": 38,
-      "ObstacleLevel": 38,
+      "LevelMinion": 35,
+      "LevelElite": 35,
+      "LevelChampion": 35,
+      "LevelBoss": 35,
+      "ObstacleLevel": 35,
       "GradeMinion": 1,
       "GradeElite": 1,
       "GradeChampion": 1,
@@ -21411,11 +21833,11 @@
       "FormationGroupId": 1,
       "StageTopography": "Indoor",
       "EnemyArmorType": "LightArmor",
-      "LevelMinion": 38,
-      "LevelElite": 38,
-      "LevelChampion": 38,
-      "LevelBoss": 38,
-      "ObstacleLevel": 38,
+      "LevelMinion": 35,
+      "LevelElite": 35,
+      "LevelChampion": 35,
+      "LevelBoss": 35,
+      "ObstacleLevel": 35,
       "GradeMinion": 1,
       "GradeElite": 1,
       "GradeChampion": 1,
@@ -22101,6 +22523,635 @@
       "TSSAirUnitHeight": 100,
       "IsRaid": false,
       "BGMId": 20,
+      "WarningUI": true,
+      "TSSHatchOpen": false
+    },
+    {
+      "Id": 801130101,
+      "DevName": "EVENT_801_Normal_Main_Stage01",
+      "StageFileName": [
+        "8011301_01_s3_sb_01_hyakkiyakostreet_p01_d"
+      ],
+      "GroundSceneName": "ArtLevel/sb_01_hyakkiyakostreet_p01_d",
+      "FormationGroupId": 1,
+      "StageTopography": "Street",
+      "EnemyArmorType": "LightArmor",
+      "LevelMinion": 11,
+      "LevelElite": 11,
+      "LevelChampion": 11,
+      "LevelBoss": 11,
+      "ObstacleLevel": 11,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 1,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 0,
+      "PlayerSightPointRate": 10000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 0,
+      "EnemySightPointRate": 10000,
+      "EnemyAttackRangeAdd": 0,
+      "EnemyAttackRangeRate": 10000,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 100,
+      "IsRaid": false,
+      "BGMId": 58,
+      "WarningUI": true,
+      "TSSHatchOpen": false
+    },
+    {
+      "Id": 801130201,
+      "DevName": "EVENT_801_Normal_Main_Stage02",
+      "StageFileName": [
+        "8011302_01_s3_boss_sb_01_hyakkiyakostreet_p01_d"
+      ],
+      "GroundSceneName": "ArtLevel/sb_01_hyakkiyakostreet_p01_d",
+      "FormationGroupId": 1,
+      "StageTopography": "Street",
+      "EnemyArmorType": "LightArmor",
+      "LevelMinion": 12,
+      "LevelElite": 12,
+      "LevelChampion": 12,
+      "LevelBoss": 12,
+      "ObstacleLevel": 12,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 1,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 0,
+      "PlayerSightPointRate": 10000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 0,
+      "EnemySightPointRate": 10000,
+      "EnemyAttackRangeAdd": 0,
+      "EnemyAttackRangeRate": 10000,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 100,
+      "IsRaid": false,
+      "BGMId": 58,
+      "WarningUI": true,
+      "TSSHatchOpen": false
+    },
+    {
+      "Id": 801130301,
+      "DevName": "EVENT_801_Normal_Main_Stage03",
+      "StageFileName": [
+        "8011303_01_s3_sb_01_hyakkiyakostreet_p02_d"
+      ],
+      "GroundSceneName": "ArtLevel/sb_01_hyakkiyakostreet_p02_d",
+      "FormationGroupId": 1,
+      "StageTopography": "Street",
+      "EnemyArmorType": "LightArmor",
+      "LevelMinion": 13,
+      "LevelElite": 13,
+      "LevelChampion": 13,
+      "LevelBoss": 13,
+      "ObstacleLevel": 13,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 1,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 0,
+      "PlayerSightPointRate": 10000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 0,
+      "EnemySightPointRate": 10000,
+      "EnemyAttackRangeAdd": 0,
+      "EnemyAttackRangeRate": 10000,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 100,
+      "IsRaid": false,
+      "BGMId": 58,
+      "WarningUI": true,
+      "TSSHatchOpen": false
+    },
+    {
+      "Id": 801130401,
+      "DevName": "EVENT_801_Normal_Main_Stage04",
+      "StageFileName": [
+        "8011304_01_s3_boss_sb_01_hyakkiyakostreet_p02_d"
+      ],
+      "GroundSceneName": "ArtLevel/sb_01_hyakkiyakostreet_p02_d",
+      "FormationGroupId": 1,
+      "StageTopography": "Street",
+      "EnemyArmorType": "LightArmor",
+      "LevelMinion": 14,
+      "LevelElite": 14,
+      "LevelChampion": 14,
+      "LevelBoss": 14,
+      "ObstacleLevel": 14,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 1,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 0,
+      "PlayerSightPointRate": 10000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 0,
+      "EnemySightPointRate": 10000,
+      "EnemyAttackRangeAdd": 0,
+      "EnemyAttackRangeRate": 10000,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 100,
+      "IsRaid": false,
+      "BGMId": 58,
+      "WarningUI": true,
+      "TSSHatchOpen": false
+    },
+    {
+      "Id": 801130501,
+      "DevName": "EVENT_801_Normal_Main_Stage05",
+      "StageFileName": [
+        "8011305_01_s3_sb_01_hyakkiyakostreet_p01_n"
+      ],
+      "GroundSceneName": "ArtLevel/sb_01_hyakkiyakostreet_p01_n",
+      "FormationGroupId": 1,
+      "StageTopography": "Street",
+      "EnemyArmorType": "LightArmor",
+      "LevelMinion": 16,
+      "LevelElite": 16,
+      "LevelChampion": 16,
+      "LevelBoss": 16,
+      "ObstacleLevel": 16,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 1,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 0,
+      "PlayerSightPointRate": 10000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 0,
+      "EnemySightPointRate": 10000,
+      "EnemyAttackRangeAdd": 0,
+      "EnemyAttackRangeRate": 10000,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 100,
+      "IsRaid": false,
+      "BGMId": 58,
+      "WarningUI": true,
+      "TSSHatchOpen": false
+    },
+    {
+      "Id": 801130601,
+      "DevName": "EVENT_801_Normal_Main_Stage06",
+      "StageFileName": [
+        "8011306_01_s3_sb_01_hyakkiyakostreet_p02_n"
+      ],
+      "GroundSceneName": "ArtLevel/sb_01_hyakkiyakostreet_p02_n",
+      "FormationGroupId": 1,
+      "StageTopography": "Street",
+      "EnemyArmorType": "LightArmor",
+      "LevelMinion": 18,
+      "LevelElite": 18,
+      "LevelChampion": 18,
+      "LevelBoss": 18,
+      "ObstacleLevel": 18,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 1,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 0,
+      "PlayerSightPointRate": 10000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 0,
+      "EnemySightPointRate": 10000,
+      "EnemyAttackRangeAdd": 0,
+      "EnemyAttackRangeRate": 10000,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 100,
+      "IsRaid": false,
+      "BGMId": 58,
+      "WarningUI": true,
+      "TSSHatchOpen": false
+    },
+    {
+      "Id": 801130701,
+      "DevName": "EVENT_801_Normal_Main_Stage07",
+      "StageFileName": [
+        "8011307_01_s3_sb_03_ruinedschool_p01_n"
+      ],
+      "GroundSceneName": "ArtLevel/sb_03_ruinedschool_p01_n",
+      "FormationGroupId": 1,
+      "StageTopography": "Indoor",
+      "EnemyArmorType": "LightArmor",
+      "LevelMinion": 20,
+      "LevelElite": 20,
+      "LevelChampion": 20,
+      "LevelBoss": 20,
+      "ObstacleLevel": 20,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 1,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 0,
+      "PlayerSightPointRate": 10000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 0,
+      "EnemySightPointRate": 10000,
+      "EnemyAttackRangeAdd": 0,
+      "EnemyAttackRangeRate": 10000,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 100,
+      "IsRaid": false,
+      "BGMId": 73,
+      "WarningUI": true,
+      "TSSHatchOpen": false
+    },
+    {
+      "Id": 801130801,
+      "DevName": "EVENT_801_Normal_Main_Stage08",
+      "StageFileName": [
+        "8011308_01_s3_boss_sb_03_ruinedschool_p01_n"
+      ],
+      "GroundSceneName": "ArtLevel/sb_03_ruinedschool_p01_n",
+      "FormationGroupId": 1,
+      "StageTopography": "Indoor",
+      "EnemyArmorType": "LightArmor",
+      "LevelMinion": 20,
+      "LevelElite": 20,
+      "LevelChampion": 20,
+      "LevelBoss": 20,
+      "ObstacleLevel": 20,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 1,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 0,
+      "PlayerSightPointRate": 10000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 0,
+      "EnemySightPointRate": 10000,
+      "EnemyAttackRangeAdd": 0,
+      "EnemyAttackRangeRate": 10000,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 100,
+      "IsRaid": false,
+      "BGMId": 73,
+      "WarningUI": true,
+      "TSSHatchOpen": false
+    },
+    {
+      "Id": 801130901,
+      "DevName": "EVENT_801_Normal_Main_Stage09",
+      "StageFileName": [
+        "8011309_01_s3_boss_sb_03_ruinedschool_p01_n"
+      ],
+      "GroundSceneName": "ArtLevel/sb_03_ruinedschool_p01_n",
+      "FormationGroupId": 1,
+      "StageTopography": "Indoor",
+      "EnemyArmorType": "LightArmor",
+      "LevelMinion": 21,
+      "LevelElite": 21,
+      "LevelChampion": 21,
+      "LevelBoss": 21,
+      "ObstacleLevel": 21,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 1,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 0,
+      "PlayerSightPointRate": 10000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 0,
+      "EnemySightPointRate": 10000,
+      "EnemyAttackRangeAdd": 0,
+      "EnemyAttackRangeRate": 10000,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 100,
+      "IsRaid": false,
+      "BGMId": 73,
+      "WarningUI": true,
+      "TSSHatchOpen": false
+    },
+    {
+      "Id": 801131001,
+      "DevName": "EVENT_801_Normal_Main_Stage10",
+      "StageFileName": [
+        "8011310_01_s3_boss_sb_01_hyakkiyakostreet_p01_n"
+      ],
+      "GroundSceneName": "ArtLevel/sb_01_hyakkiyakostreet_p01_n",
+      "FormationGroupId": 1,
+      "StageTopography": "Street",
+      "EnemyArmorType": "LightArmor",
+      "LevelMinion": 25,
+      "LevelElite": 25,
+      "LevelChampion": 25,
+      "LevelBoss": 25,
+      "ObstacleLevel": 25,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 1,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 0,
+      "PlayerSightPointRate": 10000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 0,
+      "EnemySightPointRate": 10000,
+      "EnemyAttackRangeAdd": 0,
+      "EnemyAttackRangeRate": 10000,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 100,
+      "IsRaid": false,
+      "BGMId": 58,
+      "WarningUI": true,
+      "TSSHatchOpen": false
+    },
+    {
+      "Id": 801230101,
+      "DevName": "EVENT_801_Hard_Main_Stage01",
+      "StageFileName": [
+        "8012301_01_s3_boss_sb_01_hyakkiyakostreet_p01_d"
+      ],
+      "GroundSceneName": "ArtLevel/sb_01_hyakkiyakostreet_p01_d",
+      "FormationGroupId": 1,
+      "StageTopography": "Street",
+      "EnemyArmorType": "Unarmed",
+      "LevelMinion": 23,
+      "LevelElite": 23,
+      "LevelChampion": 23,
+      "LevelBoss": 23,
+      "ObstacleLevel": 23,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 1,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 0,
+      "PlayerSightPointRate": 10000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 0,
+      "EnemySightPointRate": 10000,
+      "EnemyAttackRangeAdd": 0,
+      "EnemyAttackRangeRate": 10000,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 100,
+      "IsRaid": false,
+      "BGMId": 58,
+      "WarningUI": true,
+      "TSSHatchOpen": false
+    },
+    {
+      "Id": 801230201,
+      "DevName": "EVENT_801_Hard_Main_Stage02",
+      "StageFileName": [
+        "8012302_01_s3_boss_sb_01_hyakkiyakostreet_p01_d"
+      ],
+      "GroundSceneName": "ArtLevel/sb_01_hyakkiyakostreet_p01_d",
+      "FormationGroupId": 1,
+      "StageTopography": "Street",
+      "EnemyArmorType": "HeavyArmor",
+      "LevelMinion": 23,
+      "LevelElite": 23,
+      "LevelChampion": 23,
+      "LevelBoss": 23,
+      "ObstacleLevel": 23,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 1,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 0,
+      "PlayerSightPointRate": 10000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 0,
+      "EnemySightPointRate": 10000,
+      "EnemyAttackRangeAdd": 0,
+      "EnemyAttackRangeRate": 10000,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 100,
+      "IsRaid": false,
+      "BGMId": 58,
+      "WarningUI": true,
+      "TSSHatchOpen": false
+    },
+    {
+      "Id": 801230301,
+      "DevName": "EVENT_801_Hard_Main_Stage03",
+      "StageFileName": [
+        "8012303_01_s3_boss_sb_01_hyakkiyakostreet_p02_d"
+      ],
+      "GroundSceneName": "ArtLevel/sb_01_hyakkiyakostreet_p02_d",
+      "FormationGroupId": 1,
+      "StageTopography": "Street",
+      "EnemyArmorType": "Unarmed",
+      "LevelMinion": 23,
+      "LevelElite": 23,
+      "LevelChampion": 23,
+      "LevelBoss": 23,
+      "ObstacleLevel": 23,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 1,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 0,
+      "PlayerSightPointRate": 10000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 0,
+      "EnemySightPointRate": 10000,
+      "EnemyAttackRangeAdd": 0,
+      "EnemyAttackRangeRate": 10000,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 100,
+      "IsRaid": false,
+      "BGMId": 58,
+      "WarningUI": true,
+      "TSSHatchOpen": false
+    },
+    {
+      "Id": 801230401,
+      "DevName": "EVENT_801_Hard_Main_Stage04",
+      "StageFileName": [
+        "8012304_01_s3_boss_sb_01_hyakkiyakostreet_p01_n"
+      ],
+      "GroundSceneName": "ArtLevel/sb_01_hyakkiyakostreet_p01_n",
+      "FormationGroupId": 1,
+      "StageTopography": "Street",
+      "EnemyArmorType": "Unarmed",
+      "LevelMinion": 40,
+      "LevelElite": 40,
+      "LevelChampion": 40,
+      "LevelBoss": 40,
+      "ObstacleLevel": 40,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 1,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 0,
+      "PlayerSightPointRate": 10000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 0,
+      "EnemySightPointRate": 10000,
+      "EnemyAttackRangeAdd": 0,
+      "EnemyAttackRangeRate": 10000,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 100,
+      "IsRaid": false,
+      "BGMId": 58,
+      "WarningUI": true,
+      "TSSHatchOpen": false
+    },
+    {
+      "Id": 801230501,
+      "DevName": "EVENT_801_Hard_Main_Stage05",
+      "StageFileName": [
+        "8012305_01_s3_boss_sb_01_hyakkiyakostreet_p01_n"
+      ],
+      "GroundSceneName": "ArtLevel/sb_01_hyakkiyakostreet_p01_n",
+      "FormationGroupId": 1,
+      "StageTopography": "Street",
+      "EnemyArmorType": "HeavyArmor",
+      "LevelMinion": 40,
+      "LevelElite": 40,
+      "LevelChampion": 40,
+      "LevelBoss": 40,
+      "ObstacleLevel": 40,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 1,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 0,
+      "PlayerSightPointRate": 10000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 0,
+      "EnemySightPointRate": 10000,
+      "EnemyAttackRangeAdd": 0,
+      "EnemyAttackRangeRate": 10000,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 100,
+      "IsRaid": false,
+      "BGMId": 58,
+      "WarningUI": true,
+      "TSSHatchOpen": false
+    },
+    {
+      "Id": 801230601,
+      "DevName": "EVENT_801_Hard_Main_Stage06",
+      "StageFileName": [
+        "8012306_01_s3_boss_sb_01_hyakkiyakostreet_p01_n"
+      ],
+      "GroundSceneName": "ArtLevel/sb_01_hyakkiyakostreet_p01_n",
+      "FormationGroupId": 1,
+      "StageTopography": "Street",
+      "EnemyArmorType": "Unarmed",
+      "LevelMinion": 40,
+      "LevelElite": 40,
+      "LevelChampion": 40,
+      "LevelBoss": 40,
+      "ObstacleLevel": 40,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 1,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 0,
+      "PlayerSightPointRate": 10000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 0,
+      "EnemySightPointRate": 10000,
+      "EnemyAttackRangeAdd": 0,
+      "EnemyAttackRangeRate": 10000,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 100,
+      "IsRaid": false,
+      "BGMId": 58,
+      "WarningUI": true,
+      "TSSHatchOpen": false
+    },
+    {
+      "Id": 801230701,
+      "DevName": "EVENT_801_Hard_Main_Stage07",
+      "StageFileName": [
+        "8012307_01_s3_boss_sb_01_hyakkiyakostreet_p02_n"
+      ],
+      "GroundSceneName": "ArtLevel/sb_01_hyakkiyakostreet_p02_n",
+      "FormationGroupId": 1,
+      "StageTopography": "Street",
+      "EnemyArmorType": "LightArmor",
+      "LevelMinion": 55,
+      "LevelElite": 55,
+      "LevelChampion": 55,
+      "LevelBoss": 55,
+      "ObstacleLevel": 55,
+      "GradeMinion": 1,
+      "GradeElite": 1,
+      "GradeChampion": 2,
+      "GradeBoss": 1,
+      "PlayerSightPointAdd": 0,
+      "PlayerSightPointRate": 10000,
+      "PlayerAttackRangeAdd": 0,
+      "PlayerAttackRangeRate": 10000,
+      "EnemySightPointAdd": 0,
+      "EnemySightPointRate": 10000,
+      "EnemyAttackRangeAdd": 0,
+      "EnemyAttackRangeRate": 10000,
+      "PlayerSkillRangeAdd": 0,
+      "PlayerSkillRangeRate": 10000,
+      "EnemySkillRangeAdd": 0,
+      "EnemySkillRangeRate": 10000,
+      "TSSAirUnitHeight": 100,
+      "IsRaid": false,
+      "BGMId": 58,
       "WarningUI": true,
       "TSSHatchOpen": false
     }

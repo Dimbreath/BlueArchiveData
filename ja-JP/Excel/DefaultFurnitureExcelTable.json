@@ -24,57 +24,57 @@
     {
       "Id": 4,
       "Location": "WallRight",
-      "PositionX": 8.5,
-      "PositionY": 3.0,
+      "PositionX": 8.276021E-22,
+      "PositionY": 8.2782306E-22,
       "Rotation": 0.0
     },
     {
       "Id": 5,
       "Location": "Floor",
-      "PositionX": 3.0,
-      "PositionY": 0.5,
-      "Rotation": 270.0
+      "PositionX": 8.2782306E-22,
+      "PositionY": 8.2791843E-22,
+      "Rotation": 8.2407116E-22
     },
     {
       "Id": 6,
       "Location": "Floor",
-      "PositionX": 7.5,
-      "PositionY": 8.5,
+      "PositionX": 8.277808E-22,
+      "PositionY": 8.276021E-22,
       "Rotation": 0.0
     },
     {
       "Id": 7,
       "Location": "Floor",
-      "PositionX": 7.5,
-      "PositionY": 6.5,
+      "PositionX": 8.277808E-22,
+      "PositionY": 8.2773986E-22,
       "Rotation": 0.0
     },
     {
       "Id": 8,
       "Location": "Floor",
-      "PositionX": 9.5,
-      "PositionY": 8.5,
+      "PositionX": 8.276515E-22,
+      "PositionY": 8.276021E-22,
       "Rotation": 0.0
     },
     {
       "Id": 9,
       "Location": "Floor",
-      "PositionX": 4.5,
-      "PositionY": 0.5,
+      "PositionX": 8.278677E-22,
+      "PositionY": 8.2791843E-22,
       "Rotation": 0.0
     },
     {
       "Id": 10,
       "Location": "Floor",
-      "PositionX": 8.0,
-      "PositionY": 8.5,
+      "PositionX": 8.2760677E-22,
+      "PositionY": 8.276021E-22,
       "Rotation": 0.0
     },
     {
       "Id": 11,
       "Location": "WallLeft",
-      "PositionX": 7.5,
-      "PositionY": 3.0,
+      "PositionX": 8.277808E-22,
+      "PositionY": 8.2782306E-22,
       "Rotation": 0.0
     }
   ]

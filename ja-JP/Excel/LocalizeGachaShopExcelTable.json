@@ -2,7 +2,7 @@
   "DataList": [
     {
       "GachaShopId": 1,
-      "DevName": "Goods_NormalGacha",
+      "DevName": "Goods_TutorialGacha",
       "TabNameKr": "상시 모집",
       "TabNameJp": "通常募集",
       "TitleNameKr": "상시 모집",
@@ -14,7 +14,7 @@
     },
     {
       "GachaShopId": 50000,
-      "DevName": "테스트 일반 가챠",
+      "DevName": "시즌 2 1차 일반 가챠",
       "TabNameKr": "상시 모집",
       "TabNameJp": "通常募集",
       "TitleNameKr": "상시 모집",
@@ -26,13 +26,13 @@
     },
     {
       "GachaShopId": 50001,
-      "DevName": "테스트 픽업 가챠",
+      "DevName": "시즌 2 1차 픽업 가챠(이즈나,시즈코)",
       "TabNameKr": "픽업 모집",
       "TabNameJp": "ピックアップ募集",
       "TitleNameKr": "픽업 모집!",
       "TitleNameJp": "ピックアップ募集",
-      "SubTitleKr": "시로코(★3) / 호시노(★3) 출현 확률 UP!",
-      "SubTitleJp": "シロコ（★3）/ホシノ（★3）の募集確率UP！",
+      "SubTitleKr": "이즈나(★3) / 시즈코(★2) 출현 확률 UP!",
+      "SubTitleJp": "イズナ（★3）/シズコ（★2）の募集確率UP！",
       "GachaDescriptionKr": "10회 모집 시, ★2 이상 학생 1명 확정!\n※ 이미 모집한 학생은 엘리그마로 변환됩니다.",
       "GachaDescriptioJp": "10回募集では、★2以上の生徒が1人確定！＊すでに募集済みの生徒は、神名のカケラに変換されます。"
     },
@@ -81,6 +81,78 @@
       "TitleNameJp": "ピックアップ募集",
       "SubTitleKr": "마시로(★3) 출현 확률 UP!",
       "SubTitleJp": "マシロ（★3）の募集確率UP！",
+      "GachaDescriptionKr": "10회 모집 시, ★2 이상 학생 1명 확정!\n※ 이미 모집한 학생은 엘리그마로 변환됩니다.",
+      "GachaDescriptioJp": "10回募集では、★2以上の生徒が1人確定！＊すでに募集済みの生徒は、神名のカケラに変換されます。"
+    },
+    {
+      "GachaShopId": 50010,
+      "DevName": "시즌 2 1차 일반 가챠",
+      "TabNameKr": "상시 모집",
+      "TabNameJp": "通常募集",
+      "TitleNameKr": "상시 모집",
+      "TitleNameJp": "通常募集",
+      "SubTitleKr": "다양한 학생들을 모집하세요!",
+      "SubTitleJp": "個性豊かな生徒たちを募集しましょう！",
+      "GachaDescriptionKr": "10회 모집 시, ★2 이상 학생 1명 확정!\n※ 이미 모집한 학생은 엘리그마로 변환됩니다.",
+      "GachaDescriptioJp": "10回募集では、★2以上の生徒が1人確定！＊すでに募集済みの生徒は、神名のカケラに変換されます。"
+    },
+    {
+      "GachaShopId": 50011,
+      "DevName": "시즌 2 1차 픽업 가챠(이즈나,시즈코)",
+      "TabNameKr": "픽업 모집",
+      "TabNameJp": "ピックアップ募集",
+      "TitleNameKr": "픽업 모집!",
+      "TitleNameJp": "ピックアップ募集",
+      "SubTitleKr": "이즈나(★3) / 시즈코(★2) 출현 확률 UP!",
+      "SubTitleJp": "イズナ（★3）/シズコ（★2）の募集確率UP！",
+      "GachaDescriptionKr": "10회 모집 시, ★2 이상 학생 1명 확정!\n※ 이미 모집한 학생은 엘리그마로 변환됩니다.",
+      "GachaDescriptioJp": "10回募集では、★2以上の生徒が1人確定！＊すでに募集済みの生徒は、神名のカケラに変換されます。"
+    },
+    {
+      "GachaShopId": 50012,
+      "DevName": "시즌 2 2차 일반 가챠",
+      "TabNameKr": "상시 모집",
+      "TabNameJp": "通常募集",
+      "TitleNameKr": "상시 모집",
+      "TitleNameJp": "通常募集",
+      "SubTitleKr": "다양한 학생들을 모집하세요!",
+      "SubTitleJp": "個性豊かな生徒たちを募集しましょう！",
+      "GachaDescriptionKr": "10회 모집 시, ★2 이상 학생 1명 확정!\n※ 이미 모집한 학생은 엘리그마로 변환됩니다.",
+      "GachaDescriptioJp": "10回募集では、★2以上の生徒が1人確定！＊すでに募集済みの生徒は、神名のカケラに変換されます。"
+    },
+    {
+      "GachaShopId": 50013,
+      "DevName": "시즌 2 2차 픽업 가챠(하루나)",
+      "TabNameKr": "픽업 모집",
+      "TabNameJp": "ピックアップ募集",
+      "TitleNameKr": "픽업 모집!",
+      "TitleNameJp": "ピックアップ募集",
+      "SubTitleKr": "하루나(★3) 출현 확률 UP!",
+      "SubTitleJp": "ハルナ（★3）の募集確率UP！",
+      "GachaDescriptionKr": "10회 모집 시, ★2 이상 학생 1명 확정!\n※ 이미 모집한 학생은 엘리그마로 변환됩니다.",
+      "GachaDescriptioJp": "10回募集では、★2以上の生徒が1人確定！＊すでに募集済みの生徒は、神名のカケラに変換されます。"
+    },
+    {
+      "GachaShopId": 50014,
+      "DevName": "시즌 2 3차 일반 가챠",
+      "TabNameKr": "상시 모집",
+      "TabNameJp": "通常募集",
+      "TitleNameKr": "상시 모집",
+      "TitleNameJp": "通常募集",
+      "SubTitleKr": "다양한 학생들을 모집하세요!",
+      "SubTitleJp": "個性豊かな生徒たちを募集しましょう！",
+      "GachaDescriptionKr": "10회 모집 시, ★2 이상 학생 1명 확정!\n※ 이미 모집한 학생은 엘리그마로 변환됩니다.",
+      "GachaDescriptioJp": "10回募集では、★2以上の生徒が1人確定！＊すでに募集済みの生徒は、神名のカケラに変換されます。"
+    },
+    {
+      "GachaShopId": 50015,
+      "DevName": "시즌 2 3차 픽업 가챠(아루)",
+      "TabNameKr": "픽업 모집",
+      "TabNameJp": "ピックアップ募集",
+      "TitleNameKr": "픽업 모집!",
+      "TitleNameJp": "ピックアップ募集",
+      "SubTitleKr": "아루(★3) 출현 확률 UP!",
+      "SubTitleJp": "アル（★3）の募集確率UP！",
       "GachaDescriptionKr": "10회 모집 시, ★2 이상 학생 1명 확정!\n※ 이미 모집한 학생은 엘리그마로 변환됩니다.",
       "GachaDescriptioJp": "10回募集では、★2以上の生徒が1人確定！＊すでに募集済みの生徒は、神名のカケラに変換されます。"
     }

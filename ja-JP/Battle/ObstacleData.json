@@ -3589,6 +3589,198 @@
       "y": 1.0
     },
     "Offset": {
+      "x": 0.0,
+      "y": -2.23517418E-08
+    },
+    "Size": {
+      "x": 0.5,
+      "y": 0.27
+    },
+    "DestroyDuration": 3.33333349,
+    "RemainTime": 3.0,
+    "JumpAble": true,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "UniqueName": "Hyakkiyakostreet_box_01",
+    "NameHash": 1492650677,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": -0.0009999871,
+        "y": -0.46
+      },
+      {
+        "x": 0.002,
+        "y": 0.46
+      },
+      {
+        "x": -0.585000038,
+        "y": -0.001000002
+      },
+      {
+        "x": 0.587,
+        "y": 0.0
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": -0.001,
+        "y": -0.46
+      },
+      {
+        "x": 0.001999993,
+        "y": 0.46
+      },
+      {
+        "x": -0.585,
+        "y": -0.001
+      },
+      {
+        "x": 0.587,
+        "y": 0.0
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.1,
+      "y": 1.1
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": -0.0043464154
+    },
+    "Size": {
+      "x": 0.485732019,
+      "y": 0.2968669
+    },
+    "DestroyDuration": 3.33333349,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "UniqueName": "Hyakkiyakostreet_box_02",
+    "NameHash": 3657596623,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.027,
+        "y": -0.467
+      },
+      {
+        "x": -0.0390000045,
+        "y": 0.470000029
+      },
+      {
+        "x": -0.566,
+        "y": 0.002
+      },
+      {
+        "x": 0.562,
+        "y": -0.003
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.02699998,
+        "y": -0.466999978
+      },
+      {
+        "x": -0.039,
+        "y": 0.47
+      },
+      {
+        "x": -0.566000044,
+        "y": 0.002000019
+      },
+      {
+        "x": 0.562000036,
+        "y": -0.003000006
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": -5.96046448E-08
+    },
+    "Size": {
+      "x": 0.6036318,
+      "y": 0.6037431
+    },
+    "DestroyDuration": 3.33333349,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "UniqueName": "Hyakkiyakostreet_box_03",
+    "NameHash": 2898317372,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.0490000248,
+        "y": -0.636
+      },
+      {
+        "x": -0.0480000079,
+        "y": 0.641
+      },
+      {
+        "x": -0.637,
+        "y": -0.048
+      },
+      {
+        "x": 0.639,
+        "y": 0.051
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.049,
+        "y": -0.636
+      },
+      {
+        "x": -0.048,
+        "y": 0.641
+      },
+      {
+        "x": -0.6370001,
+        "y": -0.0480000079
+      },
+      {
+        "x": 0.639,
+        "y": 0.051
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
       "x": 1.14,
       "y": 0.31
     },
@@ -4520,6 +4712,359 @@
       {
         "x": 0.571,
         "y": 0.151
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": -0.007245183,
+      "y": 0.00276386738
+    },
+    "Size": {
+      "x": 0.7870555,
+      "y": 0.780660868
+    },
+    "DestroyDuration": 2.25,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "UniqueName": "Ruinedschool_Box_01",
+    "NameHash": 638877426,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.09899998,
+        "y": -0.648
+      },
+      {
+        "x": -0.074,
+        "y": 0.703
+      },
+      {
+        "x": -0.707,
+        "y": -0.1
+      },
+      {
+        "x": 0.646,
+        "y": 0.05
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.099,
+        "y": -0.648
+      },
+      {
+        "x": -0.074,
+        "y": 0.703
+      },
+      {
+        "x": -0.707,
+        "y": -0.099999994
+      },
+      {
+        "x": 0.646,
+        "y": 0.049999997
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.01,
+      "y": 0.01
+    },
+    "Size": {
+      "x": 0.7,
+      "y": 0.58
+    },
+    "DestroyDuration": 3.33333349,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "UniqueName": "Ruinedschool_Box_02",
+    "NameHash": 3515005395,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.021,
+        "y": -0.586
+      },
+      {
+        "x": -0.0279999934,
+        "y": 0.567
+      },
+      {
+        "x": -0.673,
+        "y": -0.033
+      },
+      {
+        "x": 0.588,
+        "y": -0.0239999928
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.0209999755,
+        "y": -0.585999966
+      },
+      {
+        "x": -0.028,
+        "y": 0.567
+      },
+      {
+        "x": -0.673,
+        "y": -0.0330000073
+      },
+      {
+        "x": 0.588,
+        "y": -0.024
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.6,
+      "y": 1.6
+    },
+    "Offset": {
+      "x": 0.04453981,
+      "y": 5.96046448E-08
+    },
+    "Size": {
+      "x": 0.38447684,
+      "y": 0.6388457
+    },
+    "DestroyDuration": 1.83333337,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Ruinedschool_Cabinet_01",
+    "NameHash": 3118715905,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.002,
+        "y": -0.517
+      },
+      {
+        "x": -0.001,
+        "y": 0.519
+      },
+      {
+        "x": -0.363,
+        "y": -0.158
+      },
+      {
+        "x": 0.422,
+        "y": 0.157999977
+      },
+      {
+        "x": -0.364,
+        "y": 0.111
+      },
+      {
+        "x": 0.423,
+        "y": -0.159000009
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.00200002268,
+        "y": -0.51699996
+      },
+      {
+        "x": -0.0009999797,
+        "y": 0.519
+      },
+      {
+        "x": -0.363000035,
+        "y": -0.158000022
+      },
+      {
+        "x": 0.422,
+        "y": 0.158
+      },
+      {
+        "x": -0.364000052,
+        "y": 0.110999994
+      },
+      {
+        "x": 0.423,
+        "y": -0.159
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.7,
+      "y": 1.7
+    },
+    "Offset": {
+      "x": 1.34110451E-07,
+      "y": -5.96046448E-08
+    },
+    "Size": {
+      "x": 0.34155333,
+      "y": 0.69816
+    },
+    "DestroyDuration": 2.4,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Ruinedschool_Cabinet_02",
+    "NameHash": 3859004486,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.031,
+        "y": -0.545
+      },
+      {
+        "x": -0.029,
+        "y": 0.549
+      },
+      {
+        "x": -0.362000048,
+        "y": -0.206999987
+      },
+      {
+        "x": 0.370999962,
+        "y": 0.206999987
+      },
+      {
+        "x": -0.361999959,
+        "y": 0.203
+      },
+      {
+        "x": 0.372,
+        "y": -0.204
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.03099997,
+        "y": -0.545
+      },
+      {
+        "x": -0.0289999954,
+        "y": 0.549
+      },
+      {
+        "x": -0.362,
+        "y": -0.207
+      },
+      {
+        "x": 0.371,
+        "y": 0.207
+      },
+      {
+        "x": -0.362,
+        "y": 0.203
+      },
+      {
+        "x": 0.372000039,
+        "y": -0.204000026
+      }
+    ]
+  },
+  {
+    "$type": "MX.Data.GroundObstacleData, Assembly-CSharp",
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": -0.02,
+      "y": 0.02
+    },
+    "Size": {
+      "x": 0.7,
+      "y": 0.75
+    },
+    "DestroyDuration": 3.33333349,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "UniqueName": "Ruinedschool_Desk_01",
+    "NameHash": 1908672162,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.0549999774,
+        "y": -0.625
+      },
+      {
+        "x": -0.058,
+        "y": 0.572
+      },
+      {
+        "x": -0.627,
+        "y": 0.0559999943
+      },
+      {
+        "x": 0.632,
+        "y": -0.051
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.055,
+        "y": -0.625
+      },
+      {
+        "x": -0.058,
+        "y": 0.572
+      },
+      {
+        "x": -0.627,
+        "y": 0.056
+      },
+      {
+        "x": 0.632,
+        "y": -0.051
       }
     ]
   },
@@ -5753,6 +6298,7 @@
     "PreDuration": 1.0,
     "DestroyDuration": 3.33333349,
     "RemainTime": 3.0,
+    "CrashByTSS": true,
     "DestroyType": 1,
     "ArmorType": 3,
     "ObstacleCoverType": 1,
@@ -6178,55 +6724,32 @@
       "y": 1.0
     },
     "Offset": {
-      "x": -1.1920929E-07,
-      "y": 0.0347030163
+      "x": -0.15,
+      "y": 0.0
     },
     "Size": {
-      "x": 0.913473964,
-      "y": 1.45306587
+      "x": 1.4,
+      "y": 0.95
     },
+    "PreDuration": 1.66666675,
     "DestroyDuration": 3.4,
     "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
     "UniqueName": "Shizuko_Original_Teahouse",
     "NameHash": 2487578635,
     "Direction": {
       "x": 0.0,
       "y": 1.0
     },
-    "EnemyPoints": [
-      {
-        "x": -0.4567371,
-        "y": -0.6918299
-      },
-      {
-        "x": -0.4567371,
-        "y": 0.761235952
-      },
-      {
-        "x": 0.456736863,
-        "y": -0.6918299
-      },
-      {
-        "x": 0.456736863,
-        "y": 0.761235952
-      }
-    ],
+    "EnemyPoints": [],
     "PlayerPoints": [
       {
-        "x": -0.4567371,
-        "y": -0.6918299
-      },
-      {
-        "x": -0.4567371,
-        "y": 0.761235952
-      },
-      {
-        "x": 0.456736863,
-        "y": -0.6918299
-      },
-      {
-        "x": 0.456736863,
-        "y": 0.761235952
+        "x": 0.287,
+        "y": -0.76
       }
     ]
   },
@@ -6864,6 +7387,7 @@
       "x": 1.1479944,
       "y": 0.4298564
     },
+    "PreDuration": 1.8,
     "DestroyDuration": 2.0,
     "RemainTime": 3.0,
     "CrashByTSS": true,

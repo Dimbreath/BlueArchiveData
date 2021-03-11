@@ -538,7 +538,7 @@
       "NeedClubStudentCount": 0,
       "NeedTSS": 0,
       "StageTopography": "Street",
-      "FixedEchelonId": 0,
+      "FixedEchelonId": 400010201,
       "CompleteReportEventName": null
     },
     {
@@ -663,7 +663,7 @@
       "NeedClubStudentCount": 0,
       "NeedTSS": 0,
       "StageTopography": "Street",
-      "FixedEchelonId": 0,
+      "FixedEchelonId": 400010206,
       "CompleteReportEventName": null
     },
     {
@@ -688,7 +688,7 @@
       "NeedClubStudentCount": 0,
       "NeedTSS": 0,
       "StageTopography": "Street",
-      "FixedEchelonId": 0,
+      "FixedEchelonId": 400010207,
       "CompleteReportEventName": null
     },
     {
@@ -703,8 +703,8 @@
       "FrontScenarioGroupId": [
         12080
       ],
-      "GroundId": 0,
-      "BattleDuration": 0,
+      "GroundId": 400010208,
+      "BattleDuration": 180000,
       "BackScenarioGroupId": [],
       "ClearedModeId": 12070,
       "AccountLevelLimit": 0,
@@ -713,7 +713,7 @@
       "NeedClubStudentCount": 0,
       "NeedTSS": 0,
       "StageTopography": "Street",
-      "FixedEchelonId": 0,
+      "FixedEchelonId": 400010208,
       "CompleteReportEventName": null
     },
     {
@@ -738,7 +738,7 @@
       "NeedClubStudentCount": 0,
       "NeedTSS": 0,
       "StageTopography": "Street",
-      "FixedEchelonId": 0,
+      "FixedEchelonId": 400010209,
       "CompleteReportEventName": null
     },
     {
@@ -753,8 +753,8 @@
       "FrontScenarioGroupId": [
         12100
       ],
-      "GroundId": 400010210,
-      "BattleDuration": 180000,
+      "GroundId": 0,
+      "BattleDuration": 0,
       "BackScenarioGroupId": [],
       "ClearedModeId": 12090,
       "AccountLevelLimit": 0,
@@ -1957,6 +1957,81 @@
       "ClearedStageId": 0,
       "NeedClub": "RedwinterSecretary",
       "NeedClubStudentCount": 2,
+      "NeedTSS": 0,
+      "StageTopography": "Street",
+      "FixedEchelonId": 0,
+      "CompleteReportEventName": null
+    },
+    {
+      "ModeId": 2301,
+      "ModeType": "Sub",
+      "SubType": "Club",
+      "VolumeId": 13,
+      "ChapterId": 1,
+      "EpisodeId": 1,
+      "Hide": false,
+      "Open": true,
+      "FrontScenarioGroupId": [
+        2301
+      ],
+      "GroundId": 0,
+      "BattleDuration": 0,
+      "BackScenarioGroupId": [],
+      "ClearedModeId": 0,
+      "AccountLevelLimit": 0,
+      "ClearedStageId": 1021104,
+      "NeedClub": "MatsuriOffice",
+      "NeedClubStudentCount": 1,
+      "NeedTSS": 0,
+      "StageTopography": "Street",
+      "FixedEchelonId": 0,
+      "CompleteReportEventName": null
+    },
+    {
+      "ModeId": 2401,
+      "ModeType": "Sub",
+      "SubType": "Club",
+      "VolumeId": 14,
+      "ChapterId": 1,
+      "EpisodeId": 1,
+      "Hide": false,
+      "Open": true,
+      "FrontScenarioGroupId": [
+        2401
+      ],
+      "GroundId": 0,
+      "BattleDuration": 0,
+      "BackScenarioGroupId": [],
+      "ClearedModeId": 0,
+      "AccountLevelLimit": 0,
+      "ClearedStageId": 1031101,
+      "NeedClub": "Shugyobu",
+      "NeedClubStudentCount": 1,
+      "NeedTSS": 0,
+      "StageTopography": "Street",
+      "FixedEchelonId": 0,
+      "CompleteReportEventName": null
+    },
+    {
+      "ModeId": 2402,
+      "ModeType": "Sub",
+      "SubType": "Club",
+      "VolumeId": 14,
+      "ChapterId": 1,
+      "EpisodeId": 2,
+      "Hide": false,
+      "Open": true,
+      "FrontScenarioGroupId": [
+        2402
+      ],
+      "GroundId": 0,
+      "BattleDuration": 0,
+      "BackScenarioGroupId": [],
+      "ClearedModeId": 2401,
+      "AccountLevelLimit": 0,
+      "ClearedStageId": 0,
+      "NeedClub": "None",
+      "NeedClubStudentCount": 0,
       "NeedTSS": 0,
       "StageTopography": "Street",
       "FixedEchelonId": 0,

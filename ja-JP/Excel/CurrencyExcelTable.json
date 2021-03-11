@@ -172,7 +172,7 @@
     },
     {
       "ID": 10,
-      "DevName": "weekdungeonfindgiftticket",
+      "DevName": "weekdungeonfindgiftticket(사용하지 않음. 삭제 X)",
       "LocalizeEtcId": 2241531918,
       "CurrencyType": "WeekDungeonFindGiftTicket",
       "CurrencyName": "선물찾기 티켓",
@@ -190,7 +190,7 @@
     },
     {
       "ID": 11,
-      "DevName": "weekdungeonbloodticket",
+      "DevName": "weekdungeonbloodticket(사용하지 않음. 삭제 X)",
       "LocalizeEtcId": 3790911967,
       "CurrencyType": "WeekDungeonBloodTicket",
       "CurrencyName": "블러드 티켓",

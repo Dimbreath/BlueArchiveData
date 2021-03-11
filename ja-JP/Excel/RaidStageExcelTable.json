@@ -234,18 +234,21 @@
       "SeasonDamageRatio": 540,
       "DefaultClearScore": 600,
       "MaximumScore": 850,
-      "PerSecondMinusScore": 17,
+      "PerSecondMinusScore": 13,
       "HPPercentScore": 100,
       "RaidRewardGroupId": 200,
       "RaidRewardDevName": "Chesed_Raid_Reward_Dummy",
       "BattleReadyTimelinePath": [
-        "Timeline/FX_Chesed_OP_Enemies"
+        "Timeline/FX_Chesed_OP_Enemies",
+        "Timeline/FX_Chesed_OP_Boss"
       ],
       "BattleReadyTimelinePhaseStart": [
-        0
+        0,
+        1
       ],
       "BattleReadyTimelinePhaseEnd": [
-        100
+        0,
+        1
       ],
       "VictoryTimelinePath": "Timeline/Timeline_Victory",
       "PhaseChangeTimelinePath": "-1",
@@ -286,18 +289,21 @@
       "SeasonDamageRatio": 540,
       "DefaultClearScore": 3000,
       "MaximumScore": 3575,
-      "PerSecondMinusScore": 83,
+      "PerSecondMinusScore": 62,
       "HPPercentScore": 500,
       "RaidRewardGroupId": 201,
       "RaidRewardDevName": "Chesed_Raid_Reward_Dummy",
       "BattleReadyTimelinePath": [
-        "Timeline/FX_Chesed_OP_Enemies"
+        "Timeline/FX_Chesed_OP_Enemies",
+        "Timeline/FX_Chesed_OP_Boss"
       ],
       "BattleReadyTimelinePhaseStart": [
-        0
+        0,
+        1
       ],
       "BattleReadyTimelinePhaseEnd": [
-        100
+        0,
+        1
       ],
       "VictoryTimelinePath": "Timeline/Timeline_Victory",
       "PhaseChangeTimelinePath": "-1",
@@ -338,18 +344,21 @@
       "SeasonDamageRatio": 540,
       "DefaultClearScore": 15000,
       "MaximumScore": 14000,
-      "PerSecondMinusScore": 333,
+      "PerSecondMinusScore": 250,
       "HPPercentScore": 2500,
       "RaidRewardGroupId": 202,
       "RaidRewardDevName": "Chesed_Raid_Reward_Dummy",
       "BattleReadyTimelinePath": [
-        "Timeline/FX_Chesed_OP_Enemies"
+        "Timeline/FX_Chesed_OP_Enemies",
+        "Timeline/FX_Chesed_OP_Boss"
       ],
       "BattleReadyTimelinePhaseStart": [
-        0
+        0,
+        1
       ],
       "BattleReadyTimelinePhaseEnd": [
-        100
+        0,
+        1
       ],
       "VictoryTimelinePath": "Timeline/Timeline_Victory",
       "PhaseChangeTimelinePath": "-1",
@@ -390,18 +399,21 @@
       "SeasonDamageRatio": 540,
       "DefaultClearScore": 25000,
       "MaximumScore": 28000,
-      "PerSecondMinusScore": 667,
+      "PerSecondMinusScore": 500,
       "HPPercentScore": 10000,
       "RaidRewardGroupId": 203,
       "RaidRewardDevName": "Chesed_Raid_Reward_Dummy",
       "BattleReadyTimelinePath": [
-        "Timeline/FX_Chesed_OP_Enemies"
+        "Timeline/FX_Chesed_OP_Enemies",
+        "Timeline/FX_Chesed_OP_Boss"
       ],
       "BattleReadyTimelinePhaseStart": [
-        0
+        0,
+        1
       ],
       "BattleReadyTimelinePhaseEnd": [
-        100
+        0,
+        1
       ],
       "VictoryTimelinePath": "Timeline/Timeline_Victory",
       "PhaseChangeTimelinePath": "-1",
@@ -443,17 +455,20 @@
       "DefaultClearScore": 50000,
       "MaximumScore": 56000,
       "PerSecondMinusScore": 1333,
-      "HPPercentScore": 200,
+      "HPPercentScore": 20000,
       "RaidRewardGroupId": 204,
       "RaidRewardDevName": "Chesed_Raid_Reward_Dummy",
       "BattleReadyTimelinePath": [
-        "Timeline/FX_Chesed_OP_Enemies"
+        "Timeline/FX_Chesed_OP_Enemies",
+        "Timeline/FX_Chesed_OP_Boss"
       ],
       "BattleReadyTimelinePhaseStart": [
-        0
+        0,
+        1
       ],
       "BattleReadyTimelinePhaseEnd": [
-        100
+        0,
+        1
       ],
       "VictoryTimelinePath": "Timeline/Timeline_Victory",
       "PhaseChangeTimelinePath": "-1",
@@ -488,7 +503,7 @@
       "StageEnterCostAmount": 0,
       "RaidRoomLifeTime": 3600000,
       "BattleDuration": 180000,
-      "GroundId": 202300001,
+      "GroundId": 203100001,
       "GroundDevName": "ShiroKuro",
       "EnterTimeLine": null,
       "TacticEnvironment": "None",
@@ -496,7 +511,7 @@
       "DefaultClearScore": 600,
       "MaximumScore": 850,
       "PerSecondMinusScore": 17,
-      "HPPercentScore": 1,
+      "HPPercentScore": 100,
       "RaidRewardGroupId": 300,
       "RaidRewardDevName": "Binah_Raid_Reward_Dummy",
       "BattleReadyTimelinePath": [
@@ -544,7 +559,7 @@
       "StageEnterCostAmount": 0,
       "RaidRoomLifeTime": 3600000,
       "BattleDuration": 180000,
-      "GroundId": 202300002,
+      "GroundId": 203100002,
       "GroundDevName": "ShiroKuro",
       "EnterTimeLine": null,
       "TacticEnvironment": "None",
@@ -552,7 +567,7 @@
       "DefaultClearScore": 3000,
       "MaximumScore": 3575,
       "PerSecondMinusScore": 83,
-      "HPPercentScore": 5,
+      "HPPercentScore": 500,
       "RaidRewardGroupId": 301,
       "RaidRewardDevName": "Binah_Raid_Reward_Dummy",
       "BattleReadyTimelinePath": [
@@ -600,7 +615,7 @@
       "StageEnterCostAmount": 0,
       "RaidRoomLifeTime": 3600000,
       "BattleDuration": 180000,
-      "GroundId": 202300003,
+      "GroundId": 203100003,
       "GroundDevName": "ShiroKuro",
       "EnterTimeLine": null,
       "TacticEnvironment": "None",
@@ -608,7 +623,7 @@
       "DefaultClearScore": 15000,
       "MaximumScore": 14000,
       "PerSecondMinusScore": 333,
-      "HPPercentScore": 25,
+      "HPPercentScore": 2500,
       "RaidRewardGroupId": 302,
       "RaidRewardDevName": "Binah_Raid_Reward_Dummy",
       "BattleReadyTimelinePath": [
@@ -656,7 +671,7 @@
       "StageEnterCostAmount": 0,
       "RaidRoomLifeTime": 3600000,
       "BattleDuration": 180000,
-      "GroundId": 202300004,
+      "GroundId": 203100004,
       "GroundDevName": "ShiroKuro",
       "EnterTimeLine": null,
       "TacticEnvironment": "None",
@@ -664,7 +679,7 @@
       "DefaultClearScore": 25000,
       "MaximumScore": 28000,
       "PerSecondMinusScore": 667,
-      "HPPercentScore": 100,
+      "HPPercentScore": 10000,
       "RaidRewardGroupId": 303,
       "RaidRewardDevName": "Binah_Raid_Reward_Dummy",
       "BattleReadyTimelinePath": [
@@ -712,7 +727,7 @@
       "StageEnterCostAmount": 0,
       "RaidRoomLifeTime": 3600000,
       "BattleDuration": 180000,
-      "GroundId": 202300005,
+      "GroundId": 203100005,
       "GroundDevName": "ShiroKuro",
       "EnterTimeLine": null,
       "TacticEnvironment": "None",
@@ -720,7 +735,7 @@
       "DefaultClearScore": 50000,
       "MaximumScore": 56000,
       "PerSecondMinusScore": 1333,
-      "HPPercentScore": 200,
+      "HPPercentScore": 20000,
       "RaidRewardGroupId": 304,
       "RaidRewardDevName": "Binah_Raid_Reward_Dummy",
       "BattleReadyTimelinePath": [
@@ -747,6 +762,266 @@
       "InitSupplyCount": 2,
       "ShowSkillCard": true,
       "BossBGInfoKey": 3601545918
+    },
+    {
+      "Id": 1001,
+      "DevName": "Street_Binah_Normal",
+      "RaidBossGroup": "Binah_Street",
+      "PortraitPath": "UIs/02_Tactics/06_Raid/Boss_Portrait_Binah_Lobby",
+      "BGPath": "UIs/02_Tactics/06_Raid/Boss_Portrait_Binah_LobbyBG",
+      "RaidCharacterId": 7400100,
+      "BossCharacterId": [
+        7400100
+      ],
+      "Difficulty": "Normal",
+      "DifficultyOpenCondition": true,
+      "MaxPlayerCount": 1,
+      "StageCreateCostType": "ActionPoint",
+      "StageCreateCostAmount": 0,
+      "StageEnterCostType": "ActionPoint",
+      "StageEnterCostAmount": 0,
+      "RaidRoomLifeTime": 3600000,
+      "BattleDuration": 180000,
+      "GroundId": 201100001,
+      "GroundDevName": "Binah",
+      "EnterTimeLine": null,
+      "TacticEnvironment": "None",
+      "SeasonDamageRatio": 540,
+      "DefaultClearScore": 600,
+      "MaximumScore": 850,
+      "PerSecondMinusScore": 17,
+      "HPPercentScore": 100,
+      "RaidRewardGroupId": 100,
+      "RaidRewardDevName": "Binah_Raid_Reward_Dummy",
+      "BattleReadyTimelinePath": [
+        "Timeline/Timeline_Shiro_Original_OP"
+      ],
+      "BattleReadyTimelinePhaseStart": [
+        0
+      ],
+      "BattleReadyTimelinePhaseEnd": [
+        6
+      ],
+      "VictoryTimelinePath": "Timeline/Timeline_Victory_Binah",
+      "PhaseChangeTimelinePath": "Timeline_Binah_Street_PhaseChange",
+      "TimeLinePhase": 2,
+      "EnterScenarioKey": 2624821838,
+      "ClearScenarioKey": 0,
+      "ReviveParcelType": "Currency",
+      "ReviveParcelId": 1,
+      "ReviveParcelDevName": "GOLD",
+      "ReviveParcelAmount": 1800,
+      "InitSupplyCount": 2,
+      "ShowSkillCard": true,
+      "BossBGInfoKey": 3920080884
+    },
+    {
+      "Id": 1002,
+      "DevName": "Street_Binah_Hard",
+      "RaidBossGroup": "Binah_Street",
+      "PortraitPath": "UIs/02_Tactics/06_Raid/Boss_Portrait_Binah_Lobby",
+      "BGPath": "UIs/02_Tactics/06_Raid/Boss_Portrait_Binah_LobbyBG",
+      "RaidCharacterId": 7400200,
+      "BossCharacterId": [
+        7400200
+      ],
+      "Difficulty": "Hard",
+      "DifficultyOpenCondition": false,
+      "MaxPlayerCount": 1,
+      "StageCreateCostType": "ActionPoint",
+      "StageCreateCostAmount": 0,
+      "StageEnterCostType": "ActionPoint",
+      "StageEnterCostAmount": 0,
+      "RaidRoomLifeTime": 3600000,
+      "BattleDuration": 180000,
+      "GroundId": 201100002,
+      "GroundDevName": "Binah",
+      "EnterTimeLine": null,
+      "TacticEnvironment": "None",
+      "SeasonDamageRatio": 540,
+      "DefaultClearScore": 3000,
+      "MaximumScore": 3575,
+      "PerSecondMinusScore": 83,
+      "HPPercentScore": 500,
+      "RaidRewardGroupId": 101,
+      "RaidRewardDevName": "Binah_Raid_Reward_Dummy",
+      "BattleReadyTimelinePath": [
+        "Timeline_Binah_Street_OP"
+      ],
+      "BattleReadyTimelinePhaseStart": [
+        0
+      ],
+      "BattleReadyTimelinePhaseEnd": [
+        100
+      ],
+      "VictoryTimelinePath": "Timeline/Timeline_Victory_Binah",
+      "PhaseChangeTimelinePath": "Timeline_Binah_Street_PhaseChange",
+      "TimeLinePhase": 2,
+      "EnterScenarioKey": 0,
+      "ClearScenarioKey": 0,
+      "ReviveParcelType": "Currency",
+      "ReviveParcelId": 1,
+      "ReviveParcelDevName": "GOLD",
+      "ReviveParcelAmount": 1800,
+      "InitSupplyCount": 2,
+      "ShowSkillCard": true,
+      "BossBGInfoKey": 3920080884
+    },
+    {
+      "Id": 1003,
+      "DevName": "Street_Binah_VeryHard",
+      "RaidBossGroup": "Binah_Street",
+      "PortraitPath": "UIs/02_Tactics/06_Raid/Boss_Portrait_Binah_Lobby",
+      "BGPath": "UIs/02_Tactics/06_Raid/Boss_Portrait_Binah_LobbyBG",
+      "RaidCharacterId": 7400300,
+      "BossCharacterId": [
+        7400300
+      ],
+      "Difficulty": "VeryHard",
+      "DifficultyOpenCondition": false,
+      "MaxPlayerCount": 1,
+      "StageCreateCostType": "ActionPoint",
+      "StageCreateCostAmount": 0,
+      "StageEnterCostType": "ActionPoint",
+      "StageEnterCostAmount": 0,
+      "RaidRoomLifeTime": 3600000,
+      "BattleDuration": 180000,
+      "GroundId": 201100003,
+      "GroundDevName": "Binah",
+      "EnterTimeLine": null,
+      "TacticEnvironment": "None",
+      "SeasonDamageRatio": 540,
+      "DefaultClearScore": 15000,
+      "MaximumScore": 14000,
+      "PerSecondMinusScore": 333,
+      "HPPercentScore": 2500,
+      "RaidRewardGroupId": 102,
+      "RaidRewardDevName": "Binah_Raid_Reward_Dummy",
+      "BattleReadyTimelinePath": [
+        "Timeline_Binah_Street_OP"
+      ],
+      "BattleReadyTimelinePhaseStart": [
+        0
+      ],
+      "BattleReadyTimelinePhaseEnd": [
+        100
+      ],
+      "VictoryTimelinePath": "Timeline/Timeline_Victory_Binah",
+      "PhaseChangeTimelinePath": "Timeline_Binah_Street_PhaseChange",
+      "TimeLinePhase": 2,
+      "EnterScenarioKey": 0,
+      "ClearScenarioKey": 0,
+      "ReviveParcelType": "Currency",
+      "ReviveParcelId": 1,
+      "ReviveParcelDevName": "GOLD",
+      "ReviveParcelAmount": 1800,
+      "InitSupplyCount": 2,
+      "ShowSkillCard": true,
+      "BossBGInfoKey": 3920080884
+    },
+    {
+      "Id": 1004,
+      "DevName": "Street_Binah_Hardcore",
+      "RaidBossGroup": "Binah_Street",
+      "PortraitPath": "UIs/02_Tactics/06_Raid/Boss_Portrait_Binah_Lobby",
+      "BGPath": "UIs/02_Tactics/06_Raid/Boss_Portrait_Binah_LobbyBG",
+      "RaidCharacterId": 7400400,
+      "BossCharacterId": [
+        7400400
+      ],
+      "Difficulty": "Hardcore",
+      "DifficultyOpenCondition": false,
+      "MaxPlayerCount": 1,
+      "StageCreateCostType": "ActionPoint",
+      "StageCreateCostAmount": 0,
+      "StageEnterCostType": "ActionPoint",
+      "StageEnterCostAmount": 0,
+      "RaidRoomLifeTime": 3600000,
+      "BattleDuration": 180000,
+      "GroundId": 201100004,
+      "GroundDevName": "Binah",
+      "EnterTimeLine": null,
+      "TacticEnvironment": "None",
+      "SeasonDamageRatio": 540,
+      "DefaultClearScore": 25000,
+      "MaximumScore": 28000,
+      "PerSecondMinusScore": 667,
+      "HPPercentScore": 10000,
+      "RaidRewardGroupId": 103,
+      "RaidRewardDevName": "Binah_Raid_Reward_Dummy",
+      "BattleReadyTimelinePath": [
+        "Timeline_Binah_Street_OP"
+      ],
+      "BattleReadyTimelinePhaseStart": [
+        0
+      ],
+      "BattleReadyTimelinePhaseEnd": [
+        100
+      ],
+      "VictoryTimelinePath": "Timeline/Timeline_Victory_Binah",
+      "PhaseChangeTimelinePath": "Timeline_Binah_Street_PhaseChange",
+      "TimeLinePhase": 2,
+      "EnterScenarioKey": 0,
+      "ClearScenarioKey": 0,
+      "ReviveParcelType": "Currency",
+      "ReviveParcelId": 1,
+      "ReviveParcelDevName": "GOLD",
+      "ReviveParcelAmount": 1800,
+      "InitSupplyCount": 2,
+      "ShowSkillCard": true,
+      "BossBGInfoKey": 3920080884
+    },
+    {
+      "Id": 1005,
+      "DevName": "Street_Binah_Extreme",
+      "RaidBossGroup": "Binah_Street",
+      "PortraitPath": "UIs/02_Tactics/06_Raid/Boss_Portrait_Binah_Lobby",
+      "BGPath": "UIs/02_Tactics/06_Raid/Boss_Portrait_Binah_LobbyBG",
+      "RaidCharacterId": 7400500,
+      "BossCharacterId": [
+        7400500
+      ],
+      "Difficulty": "Extreme",
+      "DifficultyOpenCondition": false,
+      "MaxPlayerCount": 1,
+      "StageCreateCostType": "ActionPoint",
+      "StageCreateCostAmount": 0,
+      "StageEnterCostType": "ActionPoint",
+      "StageEnterCostAmount": 0,
+      "RaidRoomLifeTime": 3600000,
+      "BattleDuration": 180000,
+      "GroundId": 201100005,
+      "GroundDevName": "Binah",
+      "EnterTimeLine": null,
+      "TacticEnvironment": "None",
+      "SeasonDamageRatio": 540,
+      "DefaultClearScore": 50000,
+      "MaximumScore": 56000,
+      "PerSecondMinusScore": 1333,
+      "HPPercentScore": 20000,
+      "RaidRewardGroupId": 103,
+      "RaidRewardDevName": "Binah_Raid_Reward_Dummy",
+      "BattleReadyTimelinePath": [
+        "Timeline_Binah_Street_OP"
+      ],
+      "BattleReadyTimelinePhaseStart": [
+        0
+      ],
+      "BattleReadyTimelinePhaseEnd": [
+        100
+      ],
+      "VictoryTimelinePath": "Timeline/Timeline_Victory_Binah",
+      "PhaseChangeTimelinePath": "Timeline_Binah_Street_PhaseChange",
+      "TimeLinePhase": 2,
+      "EnterScenarioKey": 0,
+      "ClearScenarioKey": 0,
+      "ReviveParcelType": "Currency",
+      "ReviveParcelId": 1,
+      "ReviveParcelDevName": "GOLD",
+      "ReviveParcelAmount": 1800,
+      "InitSupplyCount": 2,
+      "ShowSkillCard": true,
+      "BossBGInfoKey": 3920080884
     }
   ]
 }

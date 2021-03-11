@@ -89,6 +89,22 @@
       "ScrollTo": 0
     },
     {
+      "Name": 2551519896,
+      "Effect": "BG_Fireworks_L_BGOff_01",
+      "Scroll": "None",
+      "ScrollTime": 0,
+      "ScrollFrom": 0,
+      "ScrollTo": 0
+    },
+    {
+      "Name": 2499688462,
+      "Effect": "BG_Fireworks_L_BGOff_02",
+      "Scroll": "None",
+      "ScrollTime": 0,
+      "ScrollFrom": 0,
+      "ScrollTo": 0
+    },
+    {
       "Name": 4180629607,
       "Effect": null,
       "Scroll": "Vertical",

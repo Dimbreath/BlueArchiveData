@@ -2529,6 +2529,196 @@
         3,
         5
       ]
+    },
+    {
+      "SeasonId": 2,
+      "SeasonDevName": "Test",
+      "Id": 1000101,
+      "DevName": "최종 미션",
+      "Category": "GuideMission",
+      "IsLegacy": false,
+      "LoginCount": 0,
+      "PreMissionId": [],
+      "Description": null,
+      "ShortcutUI": [],
+      "CompleteConditionType": "GetSpecificItemCount",
+      "CompleteConditionCount": 100,
+      "CompleteConditionParameter": [
+        20000000
+      ],
+      "CompleteConditionParameterName": null,
+      "MissionRewardParcelType": [
+        "Item"
+      ],
+      "MissionRewardParcelId": [
+        13004
+      ],
+      "MissionRewardParcelDevName": [
+        "SecretStone"
+      ],
+      "MissionRewardAmount": [
+        80
+      ]
+    },
+    {
+      "SeasonId": 2,
+      "SeasonDevName": "Test",
+      "Id": 1000102,
+      "DevName": "계정 레벨 5",
+      "Category": "GuideMission",
+      "IsLegacy": false,
+      "LoginCount": 1,
+      "PreMissionId": [],
+      "Description": "MISSION_CLEAR_ACCOUNT_LEVEL_UP",
+      "ShortcutUI": [],
+      "CompleteConditionType": "AccountLevelUp",
+      "CompleteConditionCount": 2,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterName": null,
+      "MissionRewardParcelType": [
+        "Item",
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        20000000,
+        3
+      ],
+      "MissionRewardParcelDevName": [
+        "Collectible",
+        "gem_bonus"
+      ],
+      "MissionRewardAmount": [
+        30,
+        100
+      ]
+    },
+    {
+      "SeasonId": 2,
+      "SeasonDevName": "Test",
+      "Id": 1000103,
+      "DevName": "계정 레벨 10",
+      "Category": "GuideMission",
+      "IsLegacy": false,
+      "LoginCount": 2,
+      "PreMissionId": [],
+      "Description": "MISSION_CLEAR_ACCOUNT_LEVEL_UP",
+      "ShortcutUI": [],
+      "CompleteConditionType": "AccountLevelUp",
+      "CompleteConditionCount": 3,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterName": null,
+      "MissionRewardParcelType": [
+        "Item",
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        20000000,
+        3
+      ],
+      "MissionRewardParcelDevName": [
+        "Collectible",
+        "gem_bonus"
+      ],
+      "MissionRewardAmount": [
+        30,
+        100
+      ]
+    },
+    {
+      "SeasonId": 2,
+      "SeasonDevName": "Test",
+      "Id": 1000104,
+      "DevName": "계정 레벨 15",
+      "Category": "GuideMission",
+      "IsLegacy": false,
+      "LoginCount": 3,
+      "PreMissionId": [],
+      "Description": "MISSION_CLEAR_ACCOUNT_LEVEL_UP",
+      "ShortcutUI": [],
+      "CompleteConditionType": "AccountLevelUp",
+      "CompleteConditionCount": 4,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterName": null,
+      "MissionRewardParcelType": [
+        "Item",
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        20000000,
+        3
+      ],
+      "MissionRewardParcelDevName": [
+        "Collectible",
+        "gem_bonus"
+      ],
+      "MissionRewardAmount": [
+        30,
+        150
+      ]
+    },
+    {
+      "SeasonId": 2,
+      "SeasonDevName": "Test",
+      "Id": 1000105,
+      "DevName": "계정 레벨 20",
+      "Category": "GuideMission",
+      "IsLegacy": false,
+      "LoginCount": 4,
+      "PreMissionId": [],
+      "Description": "MISSION_CLEAR_ACCOUNT_LEVEL_UP",
+      "ShortcutUI": [],
+      "CompleteConditionType": "AccountLevelUp",
+      "CompleteConditionCount": 5,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterName": null,
+      "MissionRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "MissionRewardParcelId": [
+        20000000,
+        11
+      ],
+      "MissionRewardParcelDevName": [
+        "Collectible",
+        "ExpItem_1"
+      ],
+      "MissionRewardAmount": [
+        30,
+        8
+      ]
+    },
+    {
+      "SeasonId": 2,
+      "SeasonDevName": "Test",
+      "Id": 1000106,
+      "DevName": "계정 레벨 24",
+      "Category": "GuideMission",
+      "IsLegacy": false,
+      "LoginCount": 5,
+      "PreMissionId": [],
+      "Description": "MISSION_CLEAR_ACCOUNT_LEVEL_UP",
+      "ShortcutUI": [],
+      "CompleteConditionType": "AccountLevelUp",
+      "CompleteConditionCount": 6,
+      "CompleteConditionParameter": [],
+      "CompleteConditionParameterName": null,
+      "MissionRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "MissionRewardParcelId": [
+        20000000,
+        12
+      ],
+      "MissionRewardParcelDevName": [
+        "Collectible",
+        "ExpItem_2"
+      ],
+      "MissionRewardAmount": [
+        30,
+        5
+      ]
     }
   ]
 }

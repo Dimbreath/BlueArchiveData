@@ -1987,6 +1987,39 @@
       ]
     },
     {
+      "Id": 2002,
+      "Type": 1,
+      "DevName": "레이드상점_Hibiki",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Hibiki",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        7
+      ],
+      "ConsumeParcelAmount": [
+        50
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        20000
+      ],
+      "ParcelDevName": [
+        "Hibiki"
+      ],
+      "ParcelAmount": [
+        5
+      ]
+    },
+    {
       "Id": 2100,
       "Type": 1,
       "DevName": "레이드상점_SkillBook_Ultimate",
@@ -4035,7 +4068,7 @@
     {
       "Id": 10000,
       "Type": 1,
-      "DevName": "천장 상점 3성 - 릴리즈: 시로코",
+      "DevName": "천장 상점 3성 - 시즌 1 릴리즈: 시로코",
       "IconPath": null,
       "ConsumeParcelType": [
         "Item"
@@ -4068,7 +4101,7 @@
     {
       "Id": 10001,
       "Type": 1,
-      "DevName": "천장 상점 3성 - 릴리즈: 호시노",
+      "DevName": "천장 상점 3성 - 시즌 1 릴리즈: 호시노",
       "IconPath": null,
       "ConsumeParcelType": [
         "Item"
@@ -4101,7 +4134,7 @@
     {
       "Id": 10010,
       "Type": 1,
-      "DevName": "천장 상점 3성 - 시즌1: 마시로",
+      "DevName": "천장 상점 3성 - 시즌1 2차: 마시로",
       "IconPath": null,
       "ConsumeParcelType": [
         "Item"
@@ -4126,6 +4159,105 @@
       ],
       "ParcelDevName": [
         "Mashiro_default"
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 10020,
+      "Type": 1,
+      "DevName": "천장 상점 3성 - 시즌2 1차: 이즈나",
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        70002
+      ],
+      "ConsumeParcelAmount": [
+        300
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Character"
+      ],
+      "ParcelId": [
+        10014
+      ],
+      "ParcelDevName": [
+        "Izuna_default"
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 10030,
+      "Type": 1,
+      "DevName": "천장 상점 3성 - 시즌2 2차: 하루나",
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        70003
+      ],
+      "ConsumeParcelAmount": [
+        300
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Character"
+      ],
+      "ParcelId": [
+        10002
+      ],
+      "ParcelDevName": [
+        "Haruna_default"
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 10040,
+      "Type": 1,
+      "DevName": "천장 상점 3성 - 시즌2 3차: 아루",
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        70004
+      ],
+      "ConsumeParcelAmount": [
+        300
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Character"
+      ],
+      "ParcelId": [
+        10000
+      ],
+      "ParcelDevName": [
+        "Aru_default"
       ],
       "ParcelAmount": [
         1
@@ -6202,9 +6334,99 @@
       ]
     },
     {
+      "Id": 20046,
+      "Type": 1,
+      "DevName": "Izuna",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Izuna",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        23
+      ],
+      "ConsumeParcelAmount": [
+        1
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "ConsumeExtraAmount": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        10014
+      ],
+      "ParcelDevName": [
+        "Izuna"
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 20047,
+      "Type": 1,
+      "DevName": "Shizuko",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Shizuko",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        23
+      ],
+      "ConsumeParcelAmount": [
+        1
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "ConsumeExtraAmount": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        23006
+      ],
+      "ParcelDevName": [
+        "Shizuko"
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
       "Id": 30000,
       "Type": 2,
-      "DevName": "1차 일반 학생 가챠 단차",
+      "DevName": "시즌1 1차 일반 학생 가챠 단차",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -6222,26 +6444,22 @@
       "ConsumeExtraAmount": [],
       "State": 1,
       "ParcelType": [
-        "Item",
         "GachaGroup"
       ],
       "ParcelId": [
-        70000,
-        80
+        20
       ],
       "ParcelDevName": [
-        "RecruitCoin ",
-        "student_gacha"
+        "레거시 시즌용 더미 학생모집(스즈미)"
       ],
       "ParcelAmount": [
-        1,
         1
       ]
     },
     {
       "Id": 30001,
       "Type": 2,
-      "DevName": "1차 일반 학생 가챠 연차",
+      "DevName": "시즌1 1차 일반 학생 가챠 연차",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -6259,30 +6477,88 @@
       "ConsumeExtraAmount": [],
       "State": 1,
       "ParcelType": [
-        "Item",
-        "GachaGroup",
         "GachaGroup"
       ],
       "ParcelId": [
-        70000,
-        80,
-        89
+        20
       ],
       "ParcelDevName": [
-        "RecruitCoin ",
-        "student_gacha",
-        "student_gacha"
+        "레거시 시즌용 더미 학생모집(스즈미)"
       ],
       "ParcelAmount": [
-        10,
-        9,
         1
       ]
     },
     {
       "Id": 30002,
       "Type": 2,
-      "DevName": "2차 일반 학생 가챠 단차",
+      "DevName": "시즌1 2차 일반 학생 가챠 단차",
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        120
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        20
+      ],
+      "ParcelDevName": [
+        "레거시 시즌용 더미 학생모집(스즈미)"
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 30003,
+      "Type": 2,
+      "DevName": "시즌1 2차 일반 학생 가챠 연차",
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        1200
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        20
+      ],
+      "ParcelDevName": [
+        "레거시 시즌용 더미 학생모집(스즈미)"
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 30010,
+      "Type": 2,
+      "DevName": "시즌2 1차 일반 학생 가챠 단차",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -6304,8 +6580,8 @@
         "GachaGroup"
       ],
       "ParcelId": [
-        70001,
-        90
+        70002,
+        50
       ],
       "ParcelDevName": [
         "RecruitCoin ",
@@ -6317,9 +6593,9 @@
       ]
     },
     {
-      "Id": 30003,
+      "Id": 30011,
       "Type": 2,
-      "DevName": "2차 일반 학생 가챠 연차",
+      "DevName": "시즌2 1차 일반 학생 가챠 연차",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -6342,9 +6618,9 @@
         "GachaGroup"
       ],
       "ParcelId": [
-        70001,
-        90,
-        99
+        70002,
+        50,
+        59
       ],
       "ParcelDevName": [
         "RecruitCoin ",
@@ -6358,7 +6634,163 @@
       ]
     },
     {
-      "Id": 30004,
+      "Id": 30012,
+      "Type": 2,
+      "DevName": "시즌2 2차 일반 학생 가챠 단차",
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        120
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item",
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        70003,
+        60
+      ],
+      "ParcelDevName": [
+        "RecruitCoin ",
+        "student_gacha"
+      ],
+      "ParcelAmount": [
+        1,
+        1
+      ]
+    },
+    {
+      "Id": 30013,
+      "Type": 2,
+      "DevName": "시즌2 2차 일반 학생 가챠 연차",
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        1200
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item",
+        "GachaGroup",
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        70003,
+        60,
+        69
+      ],
+      "ParcelDevName": [
+        "RecruitCoin ",
+        "student_gacha",
+        "student_gacha"
+      ],
+      "ParcelAmount": [
+        10,
+        9,
+        1
+      ]
+    },
+    {
+      "Id": 30014,
+      "Type": 2,
+      "DevName": "시즌2 3차 일반 학생 가챠 단차",
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        120
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item",
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        70004,
+        70
+      ],
+      "ParcelDevName": [
+        "RecruitCoin ",
+        "student_gacha"
+      ],
+      "ParcelAmount": [
+        1,
+        1
+      ]
+    },
+    {
+      "Id": 30015,
+      "Type": 2,
+      "DevName": "시즌2 3차 일반 학생 가챠 연차",
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        1200
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item",
+        "GachaGroup",
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        70004,
+        70,
+        79
+      ],
+      "ParcelDevName": [
+        "RecruitCoin ",
+        "student_gacha",
+        "student_gacha"
+      ],
+      "ParcelAmount": [
+        10,
+        9,
+        1
+      ]
+    },
+    {
+      "Id": 35000,
       "Type": 2,
       "DevName": "시즌1 1차 픽업 가챠 통상 단차",
       "IconPath": null,
@@ -6378,24 +6810,20 @@
       "ConsumeExtraAmount": [],
       "State": 1,
       "ParcelType": [
-        "Item",
         "GachaGroup"
       ],
       "ParcelId": [
-        70000,
-        100010
+        20
       ],
       "ParcelDevName": [
-        "RecruitCoin ",
-        "student_gacha"
+        "레거시 시즌용 더미 학생모집(스즈미)"
       ],
       "ParcelAmount": [
-        1,
         1
       ]
     },
     {
-      "Id": 30005,
+      "Id": 35001,
       "Type": 2,
       "DevName": "시즌1 1차 픽업 가챠 통상 연차",
       "IconPath": null,
@@ -6415,30 +6843,88 @@
       "ConsumeExtraAmount": [],
       "State": 1,
       "ParcelType": [
-        "Item",
-        "GachaGroup",
         "GachaGroup"
       ],
       "ParcelId": [
-        70000,
-        100010,
-        100019
+        20
       ],
       "ParcelDevName": [
-        "RecruitCoin ",
-        "student_gacha",
-        "student_gacha"
+        "레거시 시즌용 더미 학생모집(스즈미)"
       ],
       "ParcelAmount": [
-        10,
-        9,
         1
       ]
     },
     {
-      "Id": 30006,
+      "Id": 35002,
       "Type": 2,
       "DevName": "시즌1 2차 픽업 가챠 통상 단차",
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        120
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        20
+      ],
+      "ParcelDevName": [
+        "레거시 시즌용 더미 학생모집(스즈미)"
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 35003,
+      "Type": 2,
+      "DevName": "시즌1 2차 픽업 가챠 통상 연차",
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        1200
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        20
+      ],
+      "ParcelDevName": [
+        "레거시 시즌용 더미 학생모집(스즈미)"
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 35010,
+      "Type": 2,
+      "DevName": "시즌2 1차 픽업 가챠 통상 단차",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -6460,8 +6946,8 @@
         "GachaGroup"
       ],
       "ParcelId": [
-        70001,
-        100030
+        70002,
+        100010
       ],
       "ParcelDevName": [
         "RecruitCoin ",
@@ -6473,9 +6959,9 @@
       ]
     },
     {
-      "Id": 30007,
+      "Id": 35011,
       "Type": 2,
-      "DevName": "시즌1 2차 픽업 가챠 통상 연차",
+      "DevName": "시즌2 1차 픽업 가챠 통상 연차",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -6498,7 +6984,85 @@
         "GachaGroup"
       ],
       "ParcelId": [
-        70001,
+        70002,
+        100010,
+        100019
+      ],
+      "ParcelDevName": [
+        "RecruitCoin ",
+        "student_gacha",
+        "student_gacha"
+      ],
+      "ParcelAmount": [
+        10,
+        9,
+        1
+      ]
+    },
+    {
+      "Id": 35012,
+      "Type": 2,
+      "DevName": "시즌2 2차 픽업 가챠 통상 단차",
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        120
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item",
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        70003,
+        100030
+      ],
+      "ParcelDevName": [
+        "RecruitCoin ",
+        "student_gacha"
+      ],
+      "ParcelAmount": [
+        1,
+        1
+      ]
+    },
+    {
+      "Id": 35013,
+      "Type": 2,
+      "DevName": "시즌2 2차 픽업 가챠 통상 연차",
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        1200
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item",
+        "GachaGroup",
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        70003,
         100030,
         100039
       ],
@@ -6511,6 +7075,1107 @@
         10,
         9,
         1
+      ]
+    },
+    {
+      "Id": 35014,
+      "Type": 2,
+      "DevName": "시즌2 3차 픽업 가챠 통상 단차",
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        120
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item",
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        70004,
+        100050
+      ],
+      "ParcelDevName": [
+        "RecruitCoin ",
+        "student_gacha"
+      ],
+      "ParcelAmount": [
+        1,
+        1
+      ]
+    },
+    {
+      "Id": 35015,
+      "Type": 2,
+      "DevName": "시즌2 3차 픽업 가챠 통상 연차",
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        1200
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item",
+        "GachaGroup",
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        70004,
+        100050,
+        100059
+      ],
+      "ParcelDevName": [
+        "RecruitCoin ",
+        "student_gacha",
+        "student_gacha"
+      ],
+      "ParcelAmount": [
+        10,
+        9,
+        1
+      ]
+    },
+    {
+      "Id": 40000,
+      "Type": 1,
+      "DevName": "이벤트_상점A_하급 활동 보고서",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_0",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80001
+      ],
+      "ConsumeParcelAmount": [
+        50
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        10
+      ],
+      "ParcelDevName": [
+        "ExpItem_0"
+      ],
+      "ParcelAmount": [
+        10
+      ]
+    },
+    {
+      "Id": 40001,
+      "Type": 1,
+      "DevName": "이벤트_상점A_일반 활동 보고서",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_1",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80001
+      ],
+      "ConsumeParcelAmount": [
+        250
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        11
+      ],
+      "ParcelDevName": [
+        "ExpItem_1"
+      ],
+      "ParcelAmount": [
+        5
+      ]
+    },
+    {
+      "Id": 40002,
+      "Type": 1,
+      "DevName": "이벤트_상점A_상급 활동 보고서",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_2",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80001
+      ],
+      "ConsumeParcelAmount": [
+        600
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        12
+      ],
+      "ParcelDevName": [
+        "ExpItem_2"
+      ],
+      "ParcelAmount": [
+        3
+      ]
+    },
+    {
+      "Id": 40003,
+      "Type": 1,
+      "DevName": "이벤트_상점A_최상급 활동 보고서",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_3",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80001
+      ],
+      "ConsumeParcelAmount": [
+        1000
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        13
+      ],
+      "ParcelDevName": [
+        "ExpItem_3"
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40004,
+      "Type": 1,
+      "DevName": "이벤트_상점A_하급 강화석",
+      "IconPath": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_0",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80001
+      ],
+      "ConsumeParcelAmount": [
+        30
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Equipment"
+      ],
+      "ParcelId": [
+        1
+      ],
+      "ParcelDevName": [
+        "Equipment_0"
+      ],
+      "ParcelAmount": [
+        5
+      ]
+    },
+    {
+      "Id": 40005,
+      "Type": 1,
+      "DevName": "이벤트_상점A_일반 강화석",
+      "IconPath": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_1",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80001
+      ],
+      "ConsumeParcelAmount": [
+        120
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Equipment"
+      ],
+      "ParcelId": [
+        2
+      ],
+      "ParcelDevName": [
+        "Equipment_1"
+      ],
+      "ParcelAmount": [
+        5
+      ]
+    },
+    {
+      "Id": 40006,
+      "Type": 1,
+      "DevName": "이벤트_상점A_상급 강화석",
+      "IconPath": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_2",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80001
+      ],
+      "ConsumeParcelAmount": [
+        300
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Equipment"
+      ],
+      "ParcelId": [
+        3
+      ],
+      "ParcelDevName": [
+        "Equipment_2"
+      ],
+      "ParcelAmount": [
+        3
+      ]
+    },
+    {
+      "Id": 40007,
+      "Type": 1,
+      "DevName": "이벤트_상점A_최상급 강화석",
+      "IconPath": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_3",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80001
+      ],
+      "ConsumeParcelAmount": [
+        800
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Equipment"
+      ],
+      "ParcelId": [
+        4
+      ],
+      "ParcelDevName": [
+        "Equipment_3"
+      ],
+      "ParcelAmount": [
+        2
+      ]
+    },
+    {
+      "Id": 40008,
+      "Type": 1,
+      "DevName": "이벤트_상점A_이벤트 토큰 B",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_1",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80001
+      ],
+      "ConsumeParcelAmount": [
+        5
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        80002
+      ],
+      "ParcelDevName": [
+        "이벤트 토큰 - 너구리 오코노미야키"
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40009,
+      "Type": 1,
+      "DevName": "이벤트_상점B_피나의 엘레프",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Pina",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80002
+      ],
+      "ConsumeParcelAmount": [
+        400
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        16004
+      ],
+      "ParcelDevName": [
+        "Pina"
+      ],
+      "ParcelAmount": [
+        5
+      ]
+    },
+    {
+      "Id": 40010,
+      "Type": 1,
+      "DevName": "이벤트_상점B_츠바키의 엘레프",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Tsubaki",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80002
+      ],
+      "ConsumeParcelAmount": [
+        400
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        13009
+      ],
+      "ParcelDevName": [
+        "Tsubaki"
+      ],
+      "ParcelAmount": [
+        5
+      ]
+    },
+    {
+      "Id": 40011,
+      "Type": 1,
+      "DevName": "이벤트_상점B_하급 스킬 책 - 백귀야행",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Hyakkiyako_0",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80002
+      ],
+      "ConsumeParcelAmount": [
+        30
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        4000
+      ],
+      "ParcelDevName": [
+        "SkillBook_Hyakkiyako_0"
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40012,
+      "Type": 1,
+      "DevName": "이벤트_상점B_일반 스킬 책 - 백귀야행",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Hyakkiyako_1",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80002
+      ],
+      "ConsumeParcelAmount": [
+        50
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        4001
+      ],
+      "ParcelDevName": [
+        "SkillBook_Hyakkiyako_1"
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40013,
+      "Type": 1,
+      "DevName": "이벤트_상점B_상급 스킬 책 - 백귀야행",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Hyakkiyako_2",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80002
+      ],
+      "ConsumeParcelAmount": [
+        100
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        4002
+      ],
+      "ParcelDevName": [
+        "SkillBook_Hyakkiyako_2"
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40014,
+      "Type": 1,
+      "DevName": "이벤트_상점B_최상급 스킬 책 - 백귀야행",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Hyakkiyako_3",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80002
+      ],
+      "ConsumeParcelAmount": [
+        250
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        4003
+      ],
+      "ParcelDevName": [
+        "SkillBook_Hyakkiyako_3"
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40015,
+      "Type": 1,
+      "DevName": "이벤트_상점B_하급 EX스킬 CD - 백귀야행",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Hyakkiyako_0",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80002
+      ],
+      "ConsumeParcelAmount": [
+        100
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        3000
+      ],
+      "ParcelDevName": [
+        "ExSkill_Hyakkiyako_0"
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40016,
+      "Type": 1,
+      "DevName": "이벤트_상점B_일반 EX스킬 CD - 백귀야행",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Hyakkiyako_1",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80002
+      ],
+      "ConsumeParcelAmount": [
+        200
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        3001
+      ],
+      "ParcelDevName": [
+        "ExSkill_Hyakkiyako_1"
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40017,
+      "Type": 1,
+      "DevName": "이벤트_상점B_상급 EX스킬 CD - 백귀야행",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Hyakkiyako_2",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80002
+      ],
+      "ConsumeParcelAmount": [
+        500
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        3002
+      ],
+      "ParcelDevName": [
+        "ExSkill_Hyakkiyako_2"
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40018,
+      "Type": 1,
+      "DevName": "이벤트_상점B_최상급 EX스킬 CD - 백귀야행",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Hyakkiyako_3",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80002
+      ],
+      "ConsumeParcelAmount": [
+        1000
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        3003
+      ],
+      "ParcelDevName": [
+        "ExSkill_Hyakkiyako_3"
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40019,
+      "Type": 1,
+      "DevName": "이벤트_상점B_이벤트 토큰 C",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_2",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80002
+      ],
+      "ConsumeParcelAmount": [
+        5
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        80003
+      ],
+      "ParcelDevName": [
+        "이벤트 토큰 - 벚꽃 찹쌀떡"
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40020,
+      "Type": 1,
+      "DevName": "이벤트_상점C_츠바키의 엘레프",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Tsubaki",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80003
+      ],
+      "ConsumeParcelAmount": [
+        325
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        13009
+      ],
+      "ParcelDevName": [
+        "Tsubaki"
+      ],
+      "ParcelAmount": [
+        5
+      ]
+    },
+    {
+      "Id": 40021,
+      "Type": 1,
+      "DevName": "이벤트_상점C_피나의 엘레프",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Pina",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80003
+      ],
+      "ConsumeParcelAmount": [
+        325
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        16004
+      ],
+      "ParcelDevName": [
+        "Pina"
+      ],
+      "ParcelAmount": [
+        5
+      ]
+    },
+    {
+      "Id": 40022,
+      "Type": 1,
+      "DevName": "이벤트_상점C_하급 공용 재료 - 만드라고라",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Mandragora_0",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80003
+      ],
+      "ConsumeParcelAmount": [
+        95
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        140
+      ],
+      "ParcelDevName": [
+        "Material_Mandragora_0"
+      ],
+      "ParcelAmount": [
+        5
+      ]
+    },
+    {
+      "Id": 40023,
+      "Type": 1,
+      "DevName": "이벤트_상점C_중급 공용 재료 - 만드라고라",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Mandragora_1",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80003
+      ],
+      "ConsumeParcelAmount": [
+        120
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        141
+      ],
+      "ParcelDevName": [
+        "Material_Mandragora_1"
+      ],
+      "ParcelAmount": [
+        2
+      ]
+    },
+    {
+      "Id": 40024,
+      "Type": 1,
+      "DevName": "이벤트_상점C_상급 공용 재료 - 만드라고라",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Mandragora_2",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80003
+      ],
+      "ConsumeParcelAmount": [
+        125
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        142
+      ],
+      "ParcelDevName": [
+        "Material_Mandragora_2"
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40025,
+      "Type": 1,
+      "DevName": "이벤트_상점C_최상급 공용 재료 - 만드라고라",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Mandragora_3",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80003
+      ],
+      "ConsumeParcelAmount": [
+        250
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        143
+      ],
+      "ParcelDevName": [
+        "Material_Mandragora_3"
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40026,
+      "Type": 1,
+      "DevName": "이벤트_상점C_하급 공용 재료 - 볼프세그",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Wolfsegg_0",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80003
+      ],
+      "ConsumeParcelAmount": [
+        95
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        120
+      ],
+      "ParcelDevName": [
+        "Material_Wolfsegg_0"
+      ],
+      "ParcelAmount": [
+        5
+      ]
+    },
+    {
+      "Id": 40027,
+      "Type": 1,
+      "DevName": "이벤트_상점C_중급 공용 재료 - 볼프세그",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Wolfsegg_1",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80003
+      ],
+      "ConsumeParcelAmount": [
+        120
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        121
+      ],
+      "ParcelDevName": [
+        "Material_Wolfsegg_1"
+      ],
+      "ParcelAmount": [
+        2
+      ]
+    },
+    {
+      "Id": 40028,
+      "Type": 1,
+      "DevName": "이벤트_상점C_상급 공용 재료 - 볼프세그",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Wolfsegg_2",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80003
+      ],
+      "ConsumeParcelAmount": [
+        125
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        122
+      ],
+      "ParcelDevName": [
+        "Material_Wolfsegg_2"
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40029,
+      "Type": 1,
+      "DevName": "이벤트_상점C_최상급 공용 재료 - 볼프세그",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Wolfsegg_3",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80003
+      ],
+      "ConsumeParcelAmount": [
+        250
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        123
+      ],
+      "ParcelDevName": [
+        "Material_Wolfsegg_3"
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40030,
+      "Type": 1,
+      "DevName": "이벤트_상점C_크레딧 500",
+      "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80003
+      ],
+      "ConsumeParcelAmount": [
+        5
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Currency"
+      ],
+      "ParcelId": [
+        1
+      ],
+      "ParcelDevName": [
+        "Gold"
+      ],
+      "ParcelAmount": [
+        500
       ]
     },
     {

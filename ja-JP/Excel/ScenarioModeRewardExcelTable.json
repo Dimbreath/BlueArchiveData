@@ -1171,6 +1171,51 @@
       ]
     },
     {
+      "ModeId": 2301,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardDevName": [
+        "무료 쥬얼"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "ModeId": 2401,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardDevName": [
+        "무료 쥬얼"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
+      "ModeId": 2402,
+      "RewardParcelType": [
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3
+      ],
+      "RewardDevName": [
+        "무료 쥬얼"
+      ],
+      "RewardParcelAmount": [
+        40
+      ]
+    },
+    {
       "ModeId": 101,
       "RewardParcelType": [
         "Currency"

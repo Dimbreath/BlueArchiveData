@@ -8019,6 +8019,178 @@
   },
   {
     "$type": "MX.Visual.Data.SkillVisualData, Assembly-CSharp",
+    "SkillIdToBind": 1898834727,
+    "SkillUniqueNameToBind": "HieronymusEx01",
+    "MaxLevelToBind": 10,
+    "GuidePrefabPath": "",
+    "ActionEffects": [],
+    "EntityEffects": [
+      {
+        "$type": "MX.Visual.Data.EntityEffect, Assembly-CSharp",
+        "EntityName": "HieronymusEx01Entity01",
+        "FireEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 3,
+            "BoneNameCustom": ""
+          },
+          "PrefabPath": "FX_Hieronymus_Original_EX1_Hit_Explosion_Variant",
+          "name": "Hieronymus01_Ex01_VisualEffect01"
+        }
+      }
+    ],
+    "LogicEffectVisuals": [],
+    "BattleItems": [],
+    "name": "Hieronymus01_Ex01_SkillVisual01"
+  },
+  {
+    "$type": "MX.Visual.Data.SkillVisualData, Assembly-CSharp",
+    "SkillIdToBind": 708667456,
+    "SkillUniqueNameToBind": "HieronymusEx02",
+    "MaxLevelToBind": 10,
+    "GuidePrefabPath": "",
+    "ActionEffects": [],
+    "EntityEffects": [
+      {
+        "$type": "MX.Visual.Data.EntityEffect, Assembly-CSharp",
+        "EntityName": "HieronymusEx02Entity02",
+        "FireEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 3,
+            "BoneNameCustom": ""
+          },
+          "PrefabPath": "FX_Hieronymus_Original_EX2_Hit_Explosion_Variant",
+          "name": "Hieronymus01_Ex02_VisualEffect02"
+        }
+      }
+    ],
+    "LogicEffectVisuals": [
+      {
+        "$type": "MX.Visual.Data.LogicEffectVisual, Assembly-CSharp",
+        "LogicEffectName": "Hieronymus_Ex02_Effect01",
+        "LoopEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneNameCustom": "",
+            "IsAttachToTarget": true
+          },
+          "RemoveWhenLogicEffectIsOff": true,
+          "EffectPositionFixed": true,
+          "PrefabPath": "FX_Hieronymus_Original_EX2_Debuff_Variant",
+          "name": "Hieronymus01_Ex02_VisualEffect01"
+        },
+        "StackCountEffectList": []
+      }
+    ],
+    "BattleItems": [],
+    "name": "Hieronymus01_Ex02_SkillVisual01"
+  },
+  {
+    "$type": "MX.Visual.Data.SkillVisualData, Assembly-CSharp",
+    "SkillIdToBind": -326265887,
+    "SkillUniqueNameToBind": "HieronymusEx03",
+    "MaxLevelToBind": 10,
+    "GuidePrefabPath": "",
+    "ActionEffects": [],
+    "EntityEffects": [
+      {
+        "$type": "MX.Visual.Data.EntityEffect, Assembly-CSharp",
+        "EntityName": "HieronymusEx03Entity01",
+        "FireEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 3,
+            "BoneNameCustom": ""
+          },
+          "PrefabPath": "FX_Hieronymus_Original_EX3_Aura_Variant",
+          "name": "Hieronymus01_Ex03_VisualEffect01"
+        }
+      }
+    ],
+    "LogicEffectVisuals": [
+      {
+        "$type": "MX.Visual.Data.LogicEffectVisual, Assembly-CSharp",
+        "LogicEffectName": "Hieronymus_Ex03_Effect01",
+        "StartEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneNameCustom": ""
+          },
+          "PrefabPath": "FX_Hieronymus_Original_EX3_Hit_Start_Variant",
+          "name": "Hieronymus01_Ex03_VisualEffect02"
+        },
+        "StackCountEffectList": []
+      }
+    ],
+    "BattleItems": [],
+    "name": "Hieronymus01_Ex03_SkillVisual01"
+  },
+  {
+    "$type": "MX.Visual.Data.SkillVisualData, Assembly-CSharp",
+    "SkillIdToBind": 133618069,
+    "SkillUniqueNameToBind": "HieronymusNormal01",
+    "MaxLevelToBind": 10,
+    "GuidePrefabPath": "",
+    "ActionEffects": [],
+    "EntityEffects": [
+      {
+        "$type": "MX.Visual.Data.EntityEffect, Assembly-CSharp",
+        "EntityName": "HieronymusNormal01Entity01",
+        "CreationEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneNameCustom": ""
+          },
+          "PrefabPath": "FX_Hieronymus_Original_NormalAttack_Hit_Start_Variant",
+          "name": "Hieronymus01_Normal01_VisualEffect01"
+        }
+      }
+    ],
+    "LogicEffectVisuals": [],
+    "BattleItems": [],
+    "name": "Hieronymus01_Normal01_SkillVisual01"
+  },
+  {
+    "$type": "MX.Visual.Data.SkillVisualData, Assembly-CSharp",
+    "SkillIdToBind": 516567841,
+    "SkillUniqueNameToBind": "HieronymusPassive01",
+    "MaxLevelToBind": 10,
+    "GuidePrefabPath": "",
+    "ActionEffects": [],
+    "EntityEffects": [],
+    "LogicEffectVisuals": [
+      {
+        "$type": "MX.Visual.Data.LogicEffectVisual, Assembly-CSharp",
+        "LogicEffectName": "Hieronymus_Passive01_Effect01",
+        "StartEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneName": 3,
+            "BoneNameCustom": ""
+          },
+          "PrefabPath": "FX_Common_Hit_TerrorMG_Normal_Variant",
+          "name": "Hieronymus01_Passive01_VisualEffect01"
+        },
+        "StackCountEffectList": []
+      }
+    ],
+    "BattleItems": [],
+    "name": "Hieronymus01_Passive01_SkillVisual01"
+  },
+  {
+    "$type": "MX.Visual.Data.SkillVisualData, Assembly-CSharp",
     "SkillIdToBind": -1153176722,
     "SkillUniqueNameToBind": "KaitenrangerBlackNormal01",
     "MaxLevelToBind": 10,
@@ -11413,6 +11585,7 @@
           "PositionSetting": {
             "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
             "PositionSource": 2,
+            "BoneName": 2,
             "BoneNameCustom": ""
           },
           "PrefabPath": "FX_Kuro_Original_Normal_Hit_Variant",
@@ -11423,6 +11596,7 @@
           "PositionSetting": {
             "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
             "PositionSource": 2,
+            "BoneName": 2,
             "BoneNameCustom": ""
           },
           "PrefabPath": "FX_Kuro_Original_Normal_Hit_Variant",
@@ -11433,6 +11607,7 @@
           "PositionSetting": {
             "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
             "PositionSource": 2,
+            "BoneName": 2,
             "BoneNameCustom": ""
           },
           "PrefabPath": "FX_Kuro_Original_Normal_Hit_Variant",
@@ -11443,6 +11618,7 @@
           "PositionSetting": {
             "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
             "PositionSource": 2,
+            "BoneName": 2,
             "BoneNameCustom": ""
           },
           "PrefabPath": "FX_Kuro_Original_Normal_Hit_Variant",
@@ -11453,6 +11629,7 @@
           "PositionSetting": {
             "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
             "PositionSource": 2,
+            "BoneName": 2,
             "BoneNameCustom": ""
           },
           "PrefabPath": "FX_Kuro_Original_Normal_Hit_Variant",
@@ -12686,6 +12863,20 @@
           "PrefabPath": "FX_Shiro_Original_Ex01_Hit_Explosion_4M_Variant",
           "name": "Shiro01_Ex02_VisualEffect03"
         }
+      },
+      {
+        "$type": "MX.Visual.Data.EntityEffect, Assembly-CSharp",
+        "EntityName": "Shiro01_Ex02_LevelCircleAreaEntity04",
+        "FireEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 3,
+            "BoneNameCustom": ""
+          },
+          "PrefabPath": "FX_Shiro_Original_Ex01_Hit_Explosion_4M_Variant",
+          "name": "Shiro01_Ex02_VisualEffect04"
+        }
       }
     ],
     "LogicEffectVisuals": [],
@@ -12740,6 +12931,20 @@
           },
           "PrefabPath": "FX_Shiro_Original_Ex01_Hit_Explosion_4M_Variant",
           "name": "Shiro01_Ex03_VisualEffect03"
+        }
+      },
+      {
+        "$type": "MX.Visual.Data.EntityEffect, Assembly-CSharp",
+        "EntityName": "Shiro01_Ex03_LevelCircleAreaEntity04",
+        "FireEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 3,
+            "BoneNameCustom": ""
+          },
+          "PrefabPath": "FX_Shiro_Original_Ex01_Hit_Explosion_4M_Variant",
+          "name": "Shiro01_Ex03_VisualEffect04"
         }
       }
     ],
@@ -20183,6 +20388,630 @@
   },
   {
     "$type": "MX.Visual.Data.SkillVisualData, Assembly-CSharp",
+    "SkillIdToBind": -1905445295,
+    "SkillUniqueNameToBind": "YukataStreetGhostesMGNormal01",
+    "MaxLevelToBind": 10,
+    "GuidePrefabPath": "",
+    "ActionEffects": [],
+    "EntityEffects": [
+      {
+        "$type": "MX.Visual.Data.EntityEffect, Assembly-CSharp",
+        "EntityName": "Soldier_MG_BulletEntity",
+        "SkillEntity": {
+          "$type": "MX.Visual.Data.VisualSkillEntityData, Assembly-CSharp",
+          "StartPositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 1,
+            "BoneName": 1,
+            "BoneNameCustom": ""
+          },
+          "EndPositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneName": 2,
+            "BoneNameCustom": ""
+          },
+          "PrefabPath": "FX_Common_Projectile_HMG_Normal_Variant",
+          "name": "MG01_Normal01_VisualSkillEntity01_Bullet"
+        },
+        "FireEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 1,
+            "BoneName": 1,
+            "BoneNameCustom": "",
+            "AlignDirection": 1
+          },
+          "PrefabPath": "FX_Muzzle_MG_Variant",
+          "name": "MG01_Normal01_VisualEffect01_Fire"
+        },
+        "HitWoodEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneName": 2,
+            "BoneNameCustom": "",
+            "PositionOffset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.3
+            }
+          },
+          "PrefabPath": "FX_Wood_Hit_HMG_Normal_Variant",
+          "name": "MG01_Normal01_VisualEffect05_HitWood"
+        },
+        "HitStoneEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneName": 2,
+            "BoneNameCustom": "",
+            "PositionOffset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.3
+            }
+          },
+          "PrefabPath": "FX_Stone_Hit_HMG_Normal_Variant",
+          "name": "MG01_Normal01_VisualEffect04_HitStone"
+        },
+        "HitFleshEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneName": 2,
+            "BoneNameCustom": "",
+            "PositionOffset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.3
+            }
+          },
+          "PrefabPath": "FX_Common_Hit_HMG_Normal_Variant",
+          "name": "MG01_Normal01_VisualEffect02_HitFlesh"
+        },
+        "HitMetalEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneName": 2,
+            "BoneNameCustom": "",
+            "PositionOffset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.3
+            }
+          },
+          "PrefabPath": "FX_Metal_Hit_HMG_Normal_Variant",
+          "name": "MG01_Normal01_VisualEffect03_HitMetal"
+        },
+        "MissEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneNameCustom": "",
+            "PositionOffset": {
+              "x": 0.2,
+              "y": 0.0,
+              "z": 0.05
+            }
+          },
+          "PrefabPath": "FX_Common_Dodge_HMG_Variant",
+          "name": "MG01_Normal01_VisualEffect06_HitMiss"
+        }
+      }
+    ],
+    "LogicEffectVisuals": [],
+    "BattleItems": [],
+    "name": "Yukata_StreetGhostes_MG01_Normal01_SkillVisual01"
+  },
+  {
+    "$type": "MX.Visual.Data.SkillVisualData, Assembly-CSharp",
+    "SkillIdToBind": 510170943,
+    "SkillUniqueNameToBind": "YukataStreetGhostesRLEx01",
+    "MaxLevelToBind": 10,
+    "GuidePrefabPath": "",
+    "ActionEffects": [],
+    "EntityEffects": [
+      {
+        "$type": "MX.Visual.Data.EntityEffect, Assembly-CSharp",
+        "EntityName": "YukataStreetGhostesRLEx01Entity01",
+        "SkillEntity": {
+          "$type": "MX.Visual.Data.VisualSkillEntityData, Assembly-CSharp",
+          "StartPositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 1,
+            "BoneName": 1,
+            "BoneNameCustom": "",
+            "AlignDirection": 5
+          },
+          "EndPositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 3,
+            "BoneNameCustom": ""
+          },
+          "PrefabPath": "FX_Yukata_StreetGhostes_RL_Projectile_Variant",
+          "name": "Yukata_StreetGhostes_RL01_Ex01_VisualSkillEntity01"
+        }
+      },
+      {
+        "$type": "MX.Visual.Data.EntityEffect, Assembly-CSharp",
+        "EntityName": "YukataStreetGhostesRLEx01Entity02",
+        "FireEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 3,
+            "BoneNameCustom": ""
+          },
+          "PrefabPath": "FX_Yukata_StreetGhostes_RL_EX01_Hit_Explosion_Variant",
+          "name": "Yukata_StreetGhostes_RL01_Ex01_VisualEffect01"
+        }
+      }
+    ],
+    "LogicEffectVisuals": [],
+    "BattleItems": [],
+    "name": "Yukata_StreetGhostes_RL01_Ex01_SkillVisual01"
+  },
+  {
+    "$type": "MX.Visual.Data.SkillVisualData, Assembly-CSharp",
+    "SkillIdToBind": 774160345,
+    "SkillUniqueNameToBind": "YukataStreetGhostesRLNormal01",
+    "MaxLevelToBind": 10,
+    "GuidePrefabPath": "",
+    "ActionEffects": [],
+    "EntityEffects": [
+      {
+        "$type": "MX.Visual.Data.EntityEffect, Assembly-CSharp",
+        "EntityName": "YukataStreetGhostesRLNormal01Entity01",
+        "SkillEntity": {
+          "$type": "MX.Visual.Data.VisualSkillEntityData, Assembly-CSharp",
+          "StartPositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 1,
+            "BoneName": 1,
+            "BoneNameCustom": "",
+            "AlignDirection": 5
+          },
+          "EndPositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 3,
+            "BoneNameCustom": ""
+          },
+          "PrefabPath": "FX_Common_Projectile_RLYukata_Normal_Variant",
+          "name": "Yukata_StreetGhostes_RL01_Normal01_VisualSkillEntity01"
+        },
+        "FireEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 1,
+            "BoneName": 1,
+            "BoneNameCustom": "",
+            "AlignDirection": 1
+          },
+          "PrefabPath": "FX_Muzzle_RL_Variant",
+          "name": "RL01_Normal01_VisualEffect01_Fire"
+        }
+      },
+      {
+        "$type": "MX.Visual.Data.EntityEffect, Assembly-CSharp",
+        "EntityName": "YukataStreetGhostesRLNormal01Entity02",
+        "FireEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 3,
+            "BoneNameCustom": "",
+            "PositionOffset": {
+              "x": 0.0,
+              "y": 0.5,
+              "z": 0.0
+            }
+          },
+          "PrefabPath": "FX_Common_Hit_RL_Normal_Variant",
+          "name": "RL01_Normal01_VisualEffect02_Hit_Explosion"
+        }
+      }
+    ],
+    "LogicEffectVisuals": [],
+    "BattleItems": [],
+    "name": "Yukata_StreetGhostes_RL01_Normal01_SkillVisual01"
+  },
+  {
+    "$type": "MX.Visual.Data.SkillVisualData, Assembly-CSharp",
+    "SkillIdToBind": -1439659729,
+    "SkillUniqueNameToBind": "YukataStreetGhostesSGNormal01",
+    "MaxLevelToBind": 10,
+    "GuidePrefabPath": "",
+    "ActionEffects": [],
+    "EntityEffects": [
+      {
+        "$type": "MX.Visual.Data.EntityEffect, Assembly-CSharp",
+        "EntityName": "Soldier_SG_BulletEntity",
+        "SkillEntity": {
+          "$type": "MX.Visual.Data.VisualSkillEntityData, Assembly-CSharp",
+          "StartPositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 1,
+            "BoneName": 1,
+            "BoneNameCustom": ""
+          },
+          "EndPositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneName": 2,
+            "BoneNameCustom": ""
+          },
+          "PrefabPath": "",
+          "name": "SG01_Normal01_VisualSkillEntity01_Bullet"
+        },
+        "FireEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 1,
+            "BoneName": 1,
+            "BoneNameCustom": "",
+            "AlignDirection": 1
+          },
+          "PrefabPath": "FX_Muzzle_SG_Variant",
+          "name": "SG01_Normal01_VisualEffect01_Fire"
+        },
+        "HitWoodEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneName": 2,
+            "BoneNameCustom": "",
+            "PositionOffset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.3
+            }
+          },
+          "PrefabPath": "FX_Wood_Hit_SG_Normal_Variant",
+          "name": "SG01_Normal01_VisualEffect05_HitWood"
+        },
+        "HitStoneEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneName": 2,
+            "BoneNameCustom": "",
+            "PositionOffset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.3
+            }
+          },
+          "PrefabPath": "FX_Stone_Hit_SG_Normal_Variant",
+          "name": "SG01_Normal01_VisualEffect04_HitStone"
+        },
+        "HitFleshEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneName": 2,
+            "BoneNameCustom": "",
+            "PositionOffset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.3
+            }
+          },
+          "PrefabPath": "FX_Common_Hit_SG_Normal_Variant",
+          "name": "SG01_Normal01_VisualEffect02_HitFlesh"
+        },
+        "HitMetalEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneName": 2,
+            "BoneNameCustom": "",
+            "PositionOffset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.3
+            }
+          },
+          "PrefabPath": "FX_Metal_Hit_SG_Normal_Variant",
+          "name": "SG01_Normal01_VisualEffect03_HitMetal"
+        },
+        "MissEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneNameCustom": "",
+            "PositionOffset": {
+              "x": 0.2,
+              "y": 0.0,
+              "z": 0.05
+            }
+          },
+          "PrefabPath": "FX_Common_Dodge_SG_Variant",
+          "name": "SG01_Normal01_VisualEffect06_HitMiss"
+        }
+      }
+    ],
+    "LogicEffectVisuals": [],
+    "BattleItems": [],
+    "name": "Yukata_StreetGhostes_SG01_Normal01_SkillVisual01"
+  },
+  {
+    "$type": "MX.Visual.Data.SkillVisualData, Assembly-CSharp",
+    "SkillIdToBind": 1126325975,
+    "SkillUniqueNameToBind": "YukataStreetGhostesSGTurretNormal01",
+    "MaxLevelToBind": 10,
+    "GuidePrefabPath": "",
+    "ActionEffects": [],
+    "EntityEffects": [
+      {
+        "$type": "MX.Visual.Data.EntityEffect, Assembly-CSharp",
+        "EntityName": "YukataStreetGhostesSGTurretNormal01Entity02",
+        "FireEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 3,
+            "BoneNameCustom": ""
+          },
+          "PrefabPath": "FX_Common_Hit_Explosion_1.5M_World_Variant",
+          "name": "Yukata_StreetGhostes_SG_Turret01_Normal01_VisualEffect01"
+        }
+      }
+    ],
+    "LogicEffectVisuals": [],
+    "BattleItems": [],
+    "name": "Yukata_StreetGhostes_SG_Turret01_Normal01_SkillVisual01"
+  },
+  {
+    "$type": "MX.Visual.Data.SkillVisualData, Assembly-CSharp",
+    "SkillIdToBind": 515590487,
+    "SkillUniqueNameToBind": "YukataHanyaStreetGhostesSREx01",
+    "MaxLevelToBind": 10,
+    "GuidePrefabPath": "",
+    "ActionEffects": [],
+    "EntityEffects": [],
+    "LogicEffectVisuals": [],
+    "BattleItems": [],
+    "name": "YukataHanya_StreetGhostes_SR01_Ex01_SkillVisual01"
+  },
+  {
+    "$type": "MX.Visual.Data.SkillVisualData, Assembly-CSharp",
+    "SkillIdToBind": 1705757770,
+    "SkillUniqueNameToBind": "YukataHanyaStreetGhostesSREx02",
+    "MaxLevelToBind": 10,
+    "GuidePrefabPath": "",
+    "ActionEffects": [],
+    "EntityEffects": [],
+    "LogicEffectVisuals": [],
+    "BattleItems": [],
+    "name": "YukataHanya_StreetGhostes_SR01_Ex02_SkillVisual01"
+  },
+  {
+    "$type": "MX.Visual.Data.SkillVisualData, Assembly-CSharp",
+    "SkillIdToBind": 618064625,
+    "SkillUniqueNameToBind": "YukataHanyaStreetGhostesSRNormal01",
+    "MaxLevelToBind": 10,
+    "GuidePrefabPath": "",
+    "ActionEffects": [],
+    "EntityEffects": [
+      {
+        "$type": "MX.Visual.Data.EntityEffect, Assembly-CSharp",
+        "EntityName": "Soldier_SR_BulletEntity",
+        "SkillEntity": {
+          "$type": "MX.Visual.Data.VisualSkillEntityData, Assembly-CSharp",
+          "StartPositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 1,
+            "BoneName": 1,
+            "BoneNameCustom": "",
+            "AlignDirection": 3
+          },
+          "EndPositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneName": 2,
+            "BoneNameCustom": ""
+          },
+          "PrefabPath": "FX_YukataHanya_StreetGhostes_SR_NomalAttack_Projectile_01_Variant",
+          "name": "YukataHanya_StreetGhostes_SR01_Normal01_VisualSkillEntity01_Bullet"
+        },
+        "FireEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 1,
+            "BoneName": 1,
+            "BoneNameCustom": "",
+            "AlignDirection": 1
+          },
+          "PrefabPath": "FX_YukataHanya_StreetGhostes_SR_NomalAttack_Muzzle_Variant",
+          "name": "YukataHanya_StreetGhostes_SR01_Normal01_VisualEffect01_Fire"
+        },
+        "HitWoodEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneName": 2,
+            "BoneNameCustom": "",
+            "PositionOffset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.3
+            },
+            "AlignRotationOffset": {
+              "x": 0.0,
+              "y": 180.0,
+              "z": 0.0
+            },
+            "AlignDirection": 3
+          },
+          "PrefabPath": "FX_Wood_Hit_SR_Normal_Variant",
+          "name": "SR01_Normal01_VisualEffect05_HitWood"
+        },
+        "HitStoneEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneName": 2,
+            "BoneNameCustom": "",
+            "PositionOffset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.3
+            },
+            "AlignRotationOffset": {
+              "x": 0.0,
+              "y": 180.0,
+              "z": 0.0
+            },
+            "AlignDirection": 3
+          },
+          "PrefabPath": "FX_Stone_Hit_SR_Normal_Variant",
+          "name": "SR01_Normal01_VisualEffect04_HitStone"
+        },
+        "HitFleshEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneName": 2,
+            "BoneNameCustom": "",
+            "PositionOffset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.3
+            },
+            "AlignRotationOffset": {
+              "x": 0.0,
+              "y": 180.0,
+              "z": 0.0
+            },
+            "AlignDirection": 3
+          },
+          "PrefabPath": "FX_Common_Hit_SR_Normal_Variant",
+          "name": "SR01_Normal01_VisualEffect02_HitFlesh"
+        },
+        "HitMetalEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneName": 2,
+            "BoneNameCustom": "",
+            "PositionOffset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.3
+            },
+            "AlignRotationOffset": {
+              "x": 0.0,
+              "y": 180.0,
+              "z": 0.0
+            },
+            "AlignDirection": 3
+          },
+          "PrefabPath": "FX_Metal_Hit_SR_Normal_Variant",
+          "name": "SR01_Normal01_VisualEffect03_HitMetal"
+        },
+        "MissEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneNameCustom": "",
+            "PositionOffset": {
+              "x": 0.2,
+              "y": 0.0,
+              "z": 0.05
+            },
+            "AlignRotationOffset": {
+              "x": 0.0,
+              "y": 180.0,
+              "z": 0.0
+            },
+            "AlignDirection": 3
+          },
+          "PrefabPath": "FX_Common_Dodge_SR_Variant",
+          "name": "SR01_Normal01_VisualEffect06_HitMiss"
+        }
+      }
+    ],
+    "LogicEffectVisuals": [],
+    "BattleItems": [],
+    "name": "YukataHanya_StreetGhostes_SR01_Normal01_SkillVisual01"
+  },
+  {
+    "$type": "MX.Visual.Data.SkillVisualData, Assembly-CSharp",
+    "SkillIdToBind": 1555580860,
+    "SkillUniqueNameToBind": "YukataHanyaStreetGhostesSRCannonNormal01",
+    "MaxLevelToBind": 10,
+    "GuidePrefabPath": "",
+    "ActionEffects": [],
+    "EntityEffects": [
+      {
+        "$type": "MX.Visual.Data.EntityEffect, Assembly-CSharp",
+        "EntityName": "YukataHanyaStreetGhostesSRCannonNormal01Entity01",
+        "FireEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 3,
+            "BoneNameCustom": ""
+          },
+          "PrefabPath": "FX_YukataHanya_StreetGhostes_SR_Cannon_Hit_Explosion_4M_Variant",
+          "name": "YukataHanya_StreetGhostes_SR_Cannon01_Normal01_VisualEffect01"
+        }
+      }
+    ],
+    "LogicEffectVisuals": [],
+    "BattleItems": [],
+    "name": "YukataHanya_StreetGhostes_SR_Cannon01_Normal01_SkillVisual01"
+  },
+  {
+    "$type": "MX.Visual.Data.SkillVisualData, Assembly-CSharp",
+    "SkillIdToBind": -1200158339,
+    "SkillUniqueNameToBind": "YukataHanyaStreetGhostesSRTurretNormal01",
+    "MaxLevelToBind": 10,
+    "GuidePrefabPath": "",
+    "ActionEffects": [],
+    "EntityEffects": [
+      {
+        "$type": "MX.Visual.Data.EntityEffect, Assembly-CSharp",
+        "EntityName": "YukataHanyaStreetGhostesSRTurretNormal01Entity01",
+        "FireEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 3,
+            "BoneNameCustom": ""
+          },
+          "PrefabPath": "FX_Common_Hit_Explosion_2M_World_Variant",
+          "name": "YukataHanya_StreetGhostes_SR_Turret01_Normal01_VisualEffect01"
+        }
+      }
+    ],
+    "LogicEffectVisuals": [],
+    "BattleItems": [],
+    "name": "YukataHanya_StreetGhostes_SR_Turret01_Normal01_SkillVisual01"
+  },
+  {
+    "$type": "MX.Visual.Data.SkillVisualData, Assembly-CSharp",
     "SkillIdToBind": -632303783,
     "SkillUniqueNameToBind": "AiriEx01",
     "MaxLevelToBind": 10,
@@ -20244,6 +21073,36 @@
     "LogicEffectVisuals": [],
     "BattleItems": [],
     "name": "Airi01_Ex01_SkillVisual01"
+  },
+  {
+    "$type": "MX.Visual.Data.SkillVisualData, Assembly-CSharp",
+    "SkillIdToBind": -1596359891,
+    "SkillUniqueNameToBind": "AiriPublic01",
+    "MaxLevelToBind": 10,
+    "GuidePrefabPath": "",
+    "ActionEffects": [],
+    "EntityEffects": [
+      {
+        "$type": "MX.Visual.Data.EntityEffect, Assembly-CSharp",
+        "EntityName": "AiriPublic01Entity01",
+        "CreationEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneName": 2,
+            "BoneNameCustom": "",
+            "IsAttachToTarget": true
+          },
+          "EffectPositionFixed": true,
+          "PrefabPath": "FX_Public_Airi_Original_Motion_Heal_Variant",
+          "name": "Airi01_Public01_VisualEffect01"
+        }
+      }
+    ],
+    "LogicEffectVisuals": [],
+    "BattleItems": [],
+    "name": "Airi01_Public01_SkillVisual01"
   },
   {
     "$type": "MX.Visual.Data.SkillVisualData, Assembly-CSharp",
@@ -21596,6 +22455,102 @@
     "LogicEffectVisuals": [],
     "BattleItems": [],
     "name": "Asuna01_Normal01_SkillVisual01"
+  },
+  {
+    "$type": "MX.Visual.Data.SkillVisualData, Assembly-CSharp",
+    "SkillIdToBind": 328975224,
+    "SkillUniqueNameToBind": "AsunaPublic01",
+    "MaxLevelToBind": 10,
+    "GuidePrefabPath": "",
+    "ActionEffects": [],
+    "EntityEffects": [
+      {
+        "$type": "MX.Visual.Data.EntityEffect, Assembly-CSharp",
+        "EntityName": "AsunaPublic01Entity01",
+        "HitWoodEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneName": 2,
+            "BoneNameCustom": "",
+            "PositionOffset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.3
+            }
+          },
+          "PrefabPath": "FX_Wood_Hit_AR_Normal_Variant",
+          "name": "AR01_Normal01_VisualEffect05_HitWood"
+        },
+        "HitStoneEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneName": 2,
+            "BoneNameCustom": "",
+            "PositionOffset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.3
+            }
+          },
+          "PrefabPath": "FX_Stone_Hit_AR_Normal_Variant",
+          "name": "AR01_Normal01_VisualEffect04_HitStone"
+        },
+        "HitFleshEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneName": 2,
+            "BoneNameCustom": "",
+            "PositionOffset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.3
+            }
+          },
+          "PrefabPath": "FX_Common_Hit_AR_Normal_Variant",
+          "name": "AR01_Normal01_VisualEffect02_HitFlesh"
+        },
+        "HitMetalEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneName": 2,
+            "BoneNameCustom": "",
+            "PositionOffset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.3
+            }
+          },
+          "PrefabPath": "FX_Metal_Hit_AR_Normal_Variant",
+          "name": "AR01_Normal01_VisualEffect03_HitMetal"
+        },
+        "MissEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneNameCustom": "",
+            "PositionOffset": {
+              "x": 0.2,
+              "y": 0.0,
+              "z": 0.05
+            }
+          },
+          "PrefabPath": "FX_Common_Dodge_AR_Variant",
+          "name": "AR01_Normal01_VisualEffect06_HitMiss"
+        }
+      }
+    ],
+    "LogicEffectVisuals": [],
+    "BattleItems": [],
+    "name": "Asuna01_Public01_SkillVisual01"
   },
   {
     "$type": "MX.Visual.Data.SkillVisualData, Assembly-CSharp",
@@ -25857,9 +26812,26 @@
     "SkillIdToBind": -507991061,
     "SkillUniqueNameToBind": "IzunaEx01",
     "MaxLevelToBind": 10,
-    "GuidePrefabPath": "SkillRange_Hihumi_Original_01",
+    "GuidePrefabPath": "SkillRange_Izuna_Original_01",
     "ActionEffects": [],
-    "EntityEffects": [],
+    "EntityEffects": [
+      {
+        "$type": "MX.Visual.Data.EntityEffect, Assembly-CSharp",
+        "EntityName": "IzunaEx01Entity04",
+        "CreationEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 3,
+            "BoneNameCustom": ""
+          },
+          "DurationSecond": 3.0,
+          "EffectPositionFixed": true,
+          "PrefabPath": "FX_Izuna_Original_EX01_Mesh_Foxdoll_Start_01_Variant",
+          "name": "Izuna01_Ex01_VisualEffect01"
+        }
+      }
+    ],
     "LogicEffectVisuals": [],
     "BattleItems": [],
     "name": "Izuna01_Ex01_SkillVisual01"
@@ -26014,7 +26986,7 @@
             "PositionSource": 3,
             "BoneNameCustom": ""
           },
-          "PrefabPath": "FX_Common_Projectile_TerrorSR_Normal_Variant",
+          "PrefabPath": "FX_Public_Izuna_Original_Projectile_01_Variant",
           "name": "Izuna01_Public01_VisualSkillEntity01"
         }
       },
@@ -26028,7 +27000,7 @@
             "PositionSource": 3,
             "BoneNameCustom": ""
           },
-          "PrefabPath": "FX_Common_Hit_Explosion_1M_World_Variant",
+          "PrefabPath": "FX_Public_Izuna_Original_Hit_Explosion_01_Variant",
           "name": "Izuna01_Public01_VisaulEffect01"
         }
       }
@@ -28337,7 +29309,7 @@
           "StartPositionSetting": {
             "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
             "PositionSource": 1,
-            "BoneName": 2,
+            "BoneName": 3,
             "BoneNameCustom": ""
           },
           "EndPositionSetting": {
@@ -28361,7 +29333,6 @@
           "PositionSetting": {
             "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
             "PositionSource": 2,
-            "BoneName": 3,
             "BoneNameCustom": "",
             "IsAttachToTarget": true
           },
@@ -30465,6 +31436,47 @@
     "LogicEffectVisuals": [],
     "BattleItems": [],
     "name": "Shiroko01_Public01_SkillVisual01"
+  },
+  {
+    "$type": "MX.Visual.Data.SkillVisualData, Assembly-CSharp",
+    "SkillIdToBind": 422748207,
+    "SkillUniqueNameToBind": "ShizukoEx01",
+    "MaxLevelToBind": 10,
+    "GuidePrefabPath": "SkillRange_Shizuko_Original_01",
+    "ActionEffects": [],
+    "EntityEffects": [],
+    "LogicEffectVisuals": [],
+    "BattleItems": [],
+    "name": "Shizuko01_Ex01_SkillVisual01"
+  },
+  {
+    "$type": "MX.Visual.Data.SkillVisualData, Assembly-CSharp",
+    "SkillIdToBind": -1963515577,
+    "SkillUniqueNameToBind": "ShizukoPublic01",
+    "MaxLevelToBind": 10,
+    "GuidePrefabPath": "",
+    "ActionEffects": [],
+    "EntityEffects": [],
+    "LogicEffectVisuals": [
+      {
+        "$type": "MX.Visual.Data.LogicEffectVisual, Assembly-CSharp",
+        "LogicEffectName": "Shizuko_Public01_Effect03",
+        "StartEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneName": 2,
+            "BoneNameCustom": ""
+          },
+          "PrefabPath": "FX_Shizuko_Original_Teaset_Public_Variant",
+          "name": "Shizuko01_Public01_VisualEffect01"
+        },
+        "StackCountEffectList": []
+      }
+    ],
+    "BattleItems": [],
+    "name": "Shizuko01_Public01_SkillVisual01"
   },
   {
     "$type": "MX.Visual.Data.SkillVisualData, Assembly-CSharp",
@@ -33259,6 +34271,102 @@
     "LogicEffectVisuals": [],
     "BattleItems": [],
     "name": "Yuuka01_Normal01_SkillVisual01"
+  },
+  {
+    "$type": "MX.Visual.Data.SkillVisualData, Assembly-CSharp",
+    "SkillIdToBind": -1816006627,
+    "SkillUniqueNameToBind": "YuukaPublic01",
+    "MaxLevelToBind": 10,
+    "GuidePrefabPath": "",
+    "ActionEffects": [],
+    "EntityEffects": [
+      {
+        "$type": "MX.Visual.Data.EntityEffect, Assembly-CSharp",
+        "EntityName": "YuukaPublic01Entity01",
+        "HitWoodEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneName": 2,
+            "BoneNameCustom": "",
+            "PositionOffset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.3
+            }
+          },
+          "PrefabPath": "FX_Wood_Hit_AR_Normal_Variant",
+          "name": "DSMG01_Normal01_VisualEffect06_HitWood"
+        },
+        "HitStoneEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneName": 2,
+            "BoneNameCustom": "",
+            "PositionOffset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.3
+            }
+          },
+          "PrefabPath": "FX_Stone_Hit_AR_Normal_Variant",
+          "name": "DSMG01_Normal01_VisualEffect05_HitStone"
+        },
+        "HitFleshEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneName": 2,
+            "BoneNameCustom": "",
+            "PositionOffset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.3
+            }
+          },
+          "PrefabPath": "FX_Common_Hit_AR_Normal_Variant",
+          "name": "DSMG01_Normal01_VisualEffect03_HitFlesh"
+        },
+        "HitMetalEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneName": 2,
+            "BoneNameCustom": "",
+            "PositionOffset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.3
+            }
+          },
+          "PrefabPath": "FX_Common_Hit_AR_Normal_Variant",
+          "name": "DSMG01_Normal01_VisualEffect03_HitFlesh"
+        },
+        "MissEffect": {
+          "$type": "MX.Visual.Data.VisualEffectData, Assembly-CSharp",
+          "PositionSetting": {
+            "$type": "MX.Visual.Data.PositionSetting, Assembly-CSharp",
+            "PositionSource": 2,
+            "BoneNameCustom": "",
+            "PositionOffset": {
+              "x": 0.2,
+              "y": 0.0,
+              "z": 0.05
+            }
+          },
+          "PrefabPath": "FX_Common_Dodge_AR_Variant",
+          "name": "DSMG01_Normal01_VisualEffect07_HitMiss"
+        }
+      }
+    ],
+    "LogicEffectVisuals": [],
+    "BattleItems": [],
+    "name": "Yuuka01_Public01_SkillVisual01"
   },
   {
     "$type": "MX.Visual.Data.SkillVisualData, Assembly-CSharp",

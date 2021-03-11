@@ -31,62 +31,98 @@
       "GroupType": "Reward_General"
     },
     {
-      "ID": 80,
+      "ID": 20,
+      "NameKr": "레거시 시즌용 더미 학생모집(스즈미)",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 50,
       "NameKr": "1차 일반 가챠",
       "IsRecursive": true,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 81,
+      "ID": 51,
       "NameKr": "1차 일반 가챠 R",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 82,
+      "ID": 52,
       "NameKr": "1차 일반 가챠 SR",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 83,
+      "ID": 53,
       "NameKr": "1차 일반 가챠 SSR",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 89,
+      "ID": 59,
       "NameKr": "1차 일반 가챠 SR + SSR (10번째)",
       "IsRecursive": true,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 90,
+      "ID": 60,
       "NameKr": "2차 일반 가챠",
       "IsRecursive": true,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 91,
+      "ID": 61,
       "NameKr": "2차 일반 가챠 R",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 92,
+      "ID": 62,
       "NameKr": "2차 일반 가챠 SR",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 93,
+      "ID": 63,
       "NameKr": "2차 일반 가챠 SSR",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
-      "ID": 99,
+      "ID": 69,
       "NameKr": "2차 일반 가챠 SSR + SSR (10번째)",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 70,
+      "NameKr": "3차 일반 가챠",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 71,
+      "NameKr": "3차 일반 가챠 R",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 72,
+      "NameKr": "3차 일반 가챠 SR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 73,
+      "NameKr": "3차 일반 가챠 SSR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 79,
+      "NameKr": "3차 일반 가챠 SSR + SSR (10번째)",
       "IsRecursive": true,
       "GroupType": "Reward_General"
     },
@@ -596,85 +632,127 @@
     },
     {
       "ID": 100010,
-      "NameKr": "시즌 1 1차 픽업",
+      "NameKr": "1차 픽업",
       "IsRecursive": true,
       "GroupType": "Reward_General"
     },
     {
       "ID": 100011,
-      "NameKr": "시즌 1 1차 픽업 R",
+      "NameKr": "1차 픽업 R",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
       "ID": 100012,
-      "NameKr": "시즌 1 1차 픽업 SR",
+      "NameKr": "1차 픽업 SR",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
       "ID": 100013,
-      "NameKr": "시즌 1 1차 픽업 SSR",
+      "NameKr": "1차 픽업 SSR",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
       "ID": 100019,
-      "NameKr": "시즌 1 1차 픽업 SR + SSR (10번째)",
+      "NameKr": "1차 픽업 SR + SSR (10번째)",
       "IsRecursive": true,
       "GroupType": "Reward_General"
     },
     {
       "ID": 100022,
-      "NameKr": "시즌 1 1차 픽업 더미",
+      "NameKr": "1차 픽업 시즈코",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
       "ID": 100023,
-      "NameKr": "시즌 1 1차 픽업 호시노 + 시로코",
+      "NameKr": "1차 픽업 이즈나",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
       "ID": 100030,
-      "NameKr": "시즌 1 2차 픽업",
+      "NameKr": "2차 픽업",
       "IsRecursive": true,
       "GroupType": "Reward_General"
     },
     {
       "ID": 100031,
-      "NameKr": "시즌 1 2차 픽업 R",
+      "NameKr": "2차 픽업 R",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
       "ID": 100032,
-      "NameKr": "시즌 1 2차 픽업 SR",
+      "NameKr": "2차 픽업 SR",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
       "ID": 100033,
-      "NameKr": "시즌 1 2차 픽업 SSR",
+      "NameKr": "2차 픽업 SSR",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
       "ID": 100039,
-      "NameKr": "시즌 1 2차 픽업 SR + SSR (10번째)",
+      "NameKr": "2차 픽업 SR + SSR (10번째)",
       "IsRecursive": true,
       "GroupType": "Reward_General"
     },
     {
       "ID": 100042,
-      "NameKr": "시즌 1 2차 픽업 더미",
+      "NameKr": "2차 픽업 더미",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
       "ID": 100043,
-      "NameKr": "시즌 1 2차 픽업 마시로",
+      "NameKr": "2차 픽업 하루나",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 100050,
+      "NameKr": "3차 픽업",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 100051,
+      "NameKr": "3차 픽업 R",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 100052,
+      "NameKr": "3차 픽업 SR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 100053,
+      "NameKr": "3차 픽업 SSR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 100059,
+      "NameKr": "3차 픽업 SR + SSR (10번째)",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 100062,
+      "NameKr": "3차 픽업 더미",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 100063,
+      "NameKr": "3차 픽업 아루",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },

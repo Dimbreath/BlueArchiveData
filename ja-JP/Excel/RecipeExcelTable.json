@@ -765,6 +765,28 @@
       ]
     },
     {
+      "Id": 10014,
+      "DevName": "Izuna_Default_Combine",
+      "RecipeType": "Craft",
+      "RecipeIngredientId": 10014,
+      "RecipeIngredientDevName": "Izuna_Default_Combine",
+      "ParcelType": [
+        "Character"
+      ],
+      "ParcelId": [
+        10014
+      ],
+      "ParcelDevName": [
+        "Izuna_Default"
+      ],
+      "ResultAmountMin": [
+        1
+      ],
+      "ResultAmountMax": [
+        1
+      ]
+    },
+    {
       "Id": 13000,
       "DevName": "Akane_Default_Combine",
       "RecipeType": "Craft",
@@ -1328,6 +1350,28 @@
       ],
       "ParcelDevName": [
         "Ayane_Default"
+      ],
+      "ResultAmountMin": [
+        1
+      ],
+      "ResultAmountMax": [
+        1
+      ]
+    },
+    {
+      "Id": 23006,
+      "DevName": "Shizuko_Default_Combine",
+      "RecipeType": "Craft",
+      "RecipeIngredientId": 23006,
+      "RecipeIngredientDevName": "Shizuko_Default_Combine",
+      "ParcelType": [
+        "Character"
+      ],
+      "ParcelId": [
+        23006
+      ],
+      "ParcelDevName": [
+        "Shizuko_Default"
       ],
       "ResultAmountMin": [
         1
@@ -4794,6 +4838,198 @@
       "RecipeType": "SkillLevelUp",
       "RecipeIngredientId": 10013207,
       "RecipeIngredientDevName": "츠루기_범용스킬_레벨08",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10014000,
+      "DevName": "Student_Transcandance_Izuna_1",
+      "RecipeType": "CharacterTranscendence",
+      "RecipeIngredientId": 10014000,
+      "RecipeIngredientDevName": "Student_Transcandance_Izuna_1",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10014001,
+      "DevName": "Student_Transcandance_Izuna_2",
+      "RecipeType": "CharacterTranscendence",
+      "RecipeIngredientId": 10014001,
+      "RecipeIngredientDevName": "Student_Transcandance_Izuna_2",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10014002,
+      "DevName": "Student_Transcandance_Izuna_3",
+      "RecipeType": "CharacterTranscendence",
+      "RecipeIngredientId": 10014002,
+      "RecipeIngredientDevName": "Student_Transcandance_Izuna_3",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10014003,
+      "DevName": "Student_Transcandance_Izuna_4",
+      "RecipeType": "CharacterTranscendence",
+      "RecipeIngredientId": 10014003,
+      "RecipeIngredientDevName": "Student_Transcandance_Izuna_4",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10014100,
+      "DevName": "이즈나_EX스킬_레벨01",
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10014100,
+      "RecipeIngredientDevName": "이즈나_EX스킬_레벨01",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10014101,
+      "DevName": "이즈나_EX스킬_레벨02",
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10014101,
+      "RecipeIngredientDevName": "이즈나_EX스킬_레벨02",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10014102,
+      "DevName": "이즈나_EX스킬_레벨03",
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10014102,
+      "RecipeIngredientDevName": "이즈나_EX스킬_레벨03",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10014103,
+      "DevName": "이즈나_EX스킬_레벨04",
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10014103,
+      "RecipeIngredientDevName": "이즈나_EX스킬_레벨04",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10014200,
+      "DevName": "이즈나_범용스킬_레벨01",
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10014200,
+      "RecipeIngredientDevName": "이즈나_범용스킬_레벨01",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10014201,
+      "DevName": "이즈나_범용스킬_레벨02",
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10014201,
+      "RecipeIngredientDevName": "이즈나_범용스킬_레벨02",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10014202,
+      "DevName": "이즈나_범용스킬_레벨03",
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10014202,
+      "RecipeIngredientDevName": "이즈나_범용스킬_레벨03",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10014203,
+      "DevName": "이즈나_범용스킬_레벨04",
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10014203,
+      "RecipeIngredientDevName": "이즈나_범용스킬_레벨04",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10014204,
+      "DevName": "이즈나_범용스킬_레벨05",
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10014204,
+      "RecipeIngredientDevName": "이즈나_범용스킬_레벨05",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10014205,
+      "DevName": "이즈나_범용스킬_레벨06",
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10014205,
+      "RecipeIngredientDevName": "이즈나_범용스킬_레벨06",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10014206,
+      "DevName": "이즈나_범용스킬_레벨07",
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10014206,
+      "RecipeIngredientDevName": "이즈나_범용스킬_레벨07",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10014207,
+      "DevName": "이즈나_범용스킬_레벨08",
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10014207,
+      "RecipeIngredientDevName": "이즈나_범용스킬_레벨08",
       "ParcelType": [],
       "ParcelId": [],
       "ParcelDevName": [],
@@ -9786,6 +10022,198 @@
       "RecipeType": "SkillLevelUp",
       "RecipeIngredientId": 23005207,
       "RecipeIngredientDevName": "아야네_범용스킬_레벨08",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 23006000,
+      "DevName": "Student_Transcandance_Shizuko_1",
+      "RecipeType": "CharacterTranscendence",
+      "RecipeIngredientId": 23006000,
+      "RecipeIngredientDevName": "Student_Transcandance_Shizuko_1",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 23006001,
+      "DevName": "Student_Transcandance_Shizuko_2",
+      "RecipeType": "CharacterTranscendence",
+      "RecipeIngredientId": 23006001,
+      "RecipeIngredientDevName": "Student_Transcandance_Shizuko_2",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 23006002,
+      "DevName": "Student_Transcandance_Shizuko_3",
+      "RecipeType": "CharacterTranscendence",
+      "RecipeIngredientId": 23006002,
+      "RecipeIngredientDevName": "Student_Transcandance_Shizuko_3",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 23006003,
+      "DevName": "Student_Transcandance_Shizuko_4",
+      "RecipeType": "CharacterTranscendence",
+      "RecipeIngredientId": 23006003,
+      "RecipeIngredientDevName": "Student_Transcandance_Shizuko_4",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 23006100,
+      "DevName": "시즈코_EX스킬_레벨01",
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 23006100,
+      "RecipeIngredientDevName": "시즈코_EX스킬_레벨01",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 23006101,
+      "DevName": "시즈코_EX스킬_레벨02",
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 23006101,
+      "RecipeIngredientDevName": "시즈코_EX스킬_레벨02",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 23006102,
+      "DevName": "시즈코_EX스킬_레벨03",
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 23006102,
+      "RecipeIngredientDevName": "시즈코_EX스킬_레벨03",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 23006103,
+      "DevName": "시즈코_EX스킬_레벨04",
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 23006103,
+      "RecipeIngredientDevName": "시즈코_EX스킬_레벨04",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 23006200,
+      "DevName": "시즈코_범용스킬_레벨01",
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 23006200,
+      "RecipeIngredientDevName": "시즈코_범용스킬_레벨01",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 23006201,
+      "DevName": "시즈코_범용스킬_레벨02",
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 23006201,
+      "RecipeIngredientDevName": "시즈코_범용스킬_레벨02",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 23006202,
+      "DevName": "시즈코_범용스킬_레벨03",
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 23006202,
+      "RecipeIngredientDevName": "시즈코_범용스킬_레벨03",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 23006203,
+      "DevName": "시즈코_범용스킬_레벨04",
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 23006203,
+      "RecipeIngredientDevName": "시즈코_범용스킬_레벨04",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 23006204,
+      "DevName": "시즈코_범용스킬_레벨05",
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 23006204,
+      "RecipeIngredientDevName": "시즈코_범용스킬_레벨05",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 23006205,
+      "DevName": "시즈코_범용스킬_레벨06",
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 23006205,
+      "RecipeIngredientDevName": "시즈코_범용스킬_레벨06",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 23006206,
+      "DevName": "시즈코_범용스킬_레벨07",
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 23006206,
+      "RecipeIngredientDevName": "시즈코_범용스킬_레벨07",
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelDevName": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 23006207,
+      "DevName": "시즈코_범용스킬_레벨08",
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 23006207,
+      "RecipeIngredientDevName": "시즈코_범용스킬_레벨08",
       "ParcelType": [],
       "ParcelId": [],
       "ParcelDevName": [],

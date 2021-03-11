@@ -1,31 +1,659 @@
 {
   "DataList": [
     {
-      "Id": 2000,
-      "EventContentId": 10002,
-      "RequiredEventItemAmount": 1000,
+      "Id": 1,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 10,
+      "RewardParcelType": [
+        "Currency",
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3,
+        1
+      ],
+      "RewardParcelAmount": [
+        100,
+        100000
+      ]
+    },
+    {
+      "Id": 2,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 50,
+      "RewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "RewardParcelId": [
+        10,
+        140
+      ],
+      "RewardParcelAmount": [
+        30,
+        20
+      ]
+    },
+    {
+      "Id": 3,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 100,
+      "RewardParcelType": [
+        "Currency",
+        "Item"
+      ],
+      "RewardParcelId": [
+        1,
+        180
+      ],
+      "RewardParcelAmount": [
+        200000,
+        20
+      ]
+    },
+    {
+      "Id": 4,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 200,
+      "RewardParcelType": [
+        "Currency",
+        "Item"
+      ],
+      "RewardParcelId": [
+        3,
+        141
+      ],
+      "RewardParcelAmount": [
+        100,
+        15
+      ]
+    },
+    {
+      "Id": 5,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 300,
       "RewardParcelType": [
         "Item"
       ],
       "RewardParcelId": [
-        13
+        13001
       ],
       "RewardParcelAmount": [
         10
       ]
     },
     {
-      "Id": 2001,
-      "EventContentId": 10002,
+      "Id": 6,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 400,
+      "RewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "RewardParcelId": [
+        11,
+        181
+      ],
+      "RewardParcelAmount": [
+        10,
+        15
+      ]
+    },
+    {
+      "Id": 7,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 500,
+      "RewardParcelType": [
+        "Currency",
+        "Item"
+      ],
+      "RewardParcelId": [
+        1,
+        180
+      ],
+      "RewardParcelAmount": [
+        300000,
+        20
+      ]
+    },
+    {
+      "Id": 8,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 600,
+      "RewardParcelType": [
+        "Currency",
+        "Equipment"
+      ],
+      "RewardParcelId": [
+        3,
+        2000
+      ],
+      "RewardParcelAmount": [
+        100,
+        1
+      ]
+    },
+    {
+      "Id": 9,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 700,
+      "RewardParcelType": [
+        "Item",
+        "Equipment"
+      ],
+      "RewardParcelId": [
+        12,
+        8000
+      ],
+      "RewardParcelAmount": [
+        5,
+        1
+      ]
+    },
+    {
+      "Id": 10,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 800,
+      "RewardParcelType": [
+        "Currency",
+        "Equipment"
+      ],
+      "RewardParcelId": [
+        1,
+        3000
+      ],
+      "RewardParcelAmount": [
+        400000,
+        1
+      ]
+    },
+    {
+      "Id": 11,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 900,
+      "RewardParcelType": [
+        "Item",
+        "Equipment"
+      ],
+      "RewardParcelId": [
+        181,
+        6000
+      ],
+      "RewardParcelAmount": [
+        15,
+        2
+      ]
+    },
+    {
+      "Id": 12,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 1000,
+      "RewardParcelType": [
+        "Item"
+      ],
+      "RewardParcelId": [
+        13001
+      ],
+      "RewardParcelAmount": [
+        10
+      ]
+    },
+    {
+      "Id": 13,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 1200,
+      "RewardParcelType": [
+        "Currency",
+        "Equipment"
+      ],
+      "RewardParcelId": [
+        3,
+        9000
+      ],
+      "RewardParcelAmount": [
+        100,
+        1
+      ]
+    },
+    {
+      "Id": 14,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 1400,
+      "RewardParcelType": [
+        "Currency",
+        "Equipment"
+      ],
+      "RewardParcelId": [
+        1,
+        102001
+      ],
+      "RewardParcelAmount": [
+        500000,
+        10
+      ]
+    },
+    {
+      "Id": 15,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 1600,
+      "RewardParcelType": [
+        "Item",
+        "Equipment"
+      ],
+      "RewardParcelId": [
+        182,
+        103001
+      ],
+      "RewardParcelAmount": [
+        5,
+        10
+      ]
+    },
+    {
+      "Id": 16,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 1800,
+      "RewardParcelType": [
+        "Currency",
+        "Equipment"
+      ],
+      "RewardParcelId": [
+        1,
+        106001
+      ],
+      "RewardParcelAmount": [
+        600000,
+        20
+      ]
+    },
+    {
+      "Id": 17,
+      "EventContentId": 801,
       "RequiredEventItemAmount": 2000,
       "RewardParcelType": [
+        "Item"
+      ],
+      "RewardParcelId": [
+        23
+      ],
+      "RewardParcelAmount": [
+        15
+      ]
+    },
+    {
+      "Id": 18,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 2200,
+      "RewardParcelType": [
+        "Currency",
+        "Equipment"
+      ],
+      "RewardParcelId": [
+        3,
+        108001
+      ],
+      "RewardParcelAmount": [
+        100,
+        10
+      ]
+    },
+    {
+      "Id": 19,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 2400,
+      "RewardParcelType": [
+        "Currency",
+        "Item"
+      ],
+      "RewardParcelId": [
+        1,
+        10
+      ],
+      "RewardParcelAmount": [
+        700000,
+        30
+      ]
+    },
+    {
+      "Id": 20,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 2600,
+      "RewardParcelType": [
+        "Item",
+        "Equipment"
+      ],
+      "RewardParcelId": [
+        142,
+        109001
+      ],
+      "RewardParcelAmount": [
+        5,
+        10
+      ]
+    },
+    {
+      "Id": 21,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 2800,
+      "RewardParcelType": [
+        "Currency",
+        "Equipment"
+      ],
+      "RewardParcelId": [
+        3,
+        103002
+      ],
+      "RewardParcelAmount": [
+        100,
+        10
+      ]
+    },
+    {
+      "Id": 22,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 3000,
+      "RewardParcelType": [
+        "Item"
+      ],
+      "RewardParcelId": [
+        13001
+      ],
+      "RewardParcelAmount": [
+        15
+      ]
+    },
+    {
+      "Id": 23,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 3200,
+      "RewardParcelType": [
+        "Item",
+        "Equipment"
+      ],
+      "RewardParcelId": [
+        11,
+        109002
+      ],
+      "RewardParcelAmount": [
+        20,
+        10
+      ]
+    },
+    {
+      "Id": 24,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 3400,
+      "RewardParcelType": [
+        "Item",
+        "Equipment"
+      ],
+      "RewardParcelId": [
+        182,
+        106002
+      ],
+      "RewardParcelAmount": [
+        5,
+        20
+      ]
+    },
+    {
+      "Id": 25,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 3600,
+      "RewardParcelType": [
+        "Item",
+        "Equipment"
+      ],
+      "RewardParcelId": [
+        12,
+        102002
+      ],
+      "RewardParcelAmount": [
+        10,
+        10
+      ]
+    },
+    {
+      "Id": 26,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 3800,
+      "RewardParcelType": [
+        "Currency",
+        "Equipment"
+      ],
+      "RewardParcelId": [
+        1,
+        108002
+      ],
+      "RewardParcelAmount": [
+        800000,
+        10
+      ]
+    },
+    {
+      "Id": 27,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 4000,
+      "RewardParcelType": [
+        "Item"
+      ],
+      "RewardParcelId": [
+        23
+      ],
+      "RewardParcelAmount": [
+        20
+      ]
+    },
+    {
+      "Id": 28,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 4200,
+      "RewardParcelType": [
+        "Currency",
+        "Item"
+      ],
+      "RewardParcelId": [
+        3,
+        143
+      ],
+      "RewardParcelAmount": [
+        100,
+        2
+      ]
+    },
+    {
+      "Id": 29,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 4400,
+      "RewardParcelType": [
+        "Item",
+        "Equipment"
+      ],
+      "RewardParcelId": [
+        13,
+        102001
+      ],
+      "RewardParcelAmount": [
+        2,
+        10
+      ]
+    },
+    {
+      "Id": 30,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 4600,
+      "RewardParcelType": [
+        "Currency",
+        "Item"
+      ],
+      "RewardParcelId": [
+        1,
+        142
+      ],
+      "RewardParcelAmount": [
+        900000,
+        5
+      ]
+    },
+    {
+      "Id": 31,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 4800,
+      "RewardParcelType": [
+        "Item",
+        "Equipment"
+      ],
+      "RewardParcelId": [
+        182,
+        103001
+      ],
+      "RewardParcelAmount": [
+        5,
+        10
+      ]
+    },
+    {
+      "Id": 32,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 5000,
+      "RewardParcelType": [
+        "Item"
+      ],
+      "RewardParcelId": [
+        13001
+      ],
+      "RewardParcelAmount": [
+        15
+      ]
+    },
+    {
+      "Id": 33,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 5500,
+      "RewardParcelType": [
+        "Currency",
+        "Equipment"
+      ],
+      "RewardParcelId": [
+        3,
+        106001
+      ],
+      "RewardParcelAmount": [
+        100,
+        20
+      ]
+    },
+    {
+      "Id": 34,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 6000,
+      "RewardParcelType": [
+        "Currency",
+        "Item"
+      ],
+      "RewardParcelId": [
+        1,
+        143
+      ],
+      "RewardParcelAmount": [
+        1000000,
+        2
+      ]
+    },
+    {
+      "Id": 35,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 6500,
+      "RewardParcelType": [
+        "Item",
+        "Equipment"
+      ],
+      "RewardParcelId": [
+        182,
+        108001
+      ],
+      "RewardParcelAmount": [
+        5,
+        10
+      ]
+    },
+    {
+      "Id": 36,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 7000,
+      "RewardParcelType": [
+        "Currency",
+        "Equipment"
+      ],
+      "RewardParcelId": [
+        3,
+        109001
+      ],
+      "RewardParcelAmount": [
+        100,
+        10
+      ]
+    },
+    {
+      "Id": 37,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 7500,
+      "RewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "RewardParcelId": [
+        13,
+        143
+      ],
+      "RewardParcelAmount": [
+        2,
+        2
+      ]
+    },
+    {
+      "Id": 38,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 8000,
+      "RewardParcelType": [
+        "Item"
+      ],
+      "RewardParcelId": [
+        23
+      ],
+      "RewardParcelAmount": [
+        15
+      ]
+    },
+    {
+      "Id": 39,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 9000,
+      "RewardParcelType": [
+        "Currency",
         "Currency"
       ],
       "RewardParcelId": [
+        3,
         1
       ],
       "RewardParcelAmount": [
-        1000
+        100,
+        2000000
+      ]
+    },
+    {
+      "Id": 40,
+      "EventContentId": 801,
+      "RequiredEventItemAmount": 10000,
+      "RewardParcelType": [
+        "Item"
+      ],
+      "RewardParcelId": [
+        9999
+      ],
+      "RewardParcelAmount": [
+        1
       ]
     }
   ]

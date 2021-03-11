@@ -163,7 +163,7 @@
     },
     {
       "EquipmentId": 1003,
-      "DevName": "Hat_Tier4 - 공격력 % + 회심 피해",
+      "DevName": "Hat_Tier4 - 공격력 % + 치명 피해",
       "StatLevelUpType": "Standard",
       "StatType": [
         "AttackPower_Coefficient",
@@ -258,7 +258,7 @@
     },
     {
       "EquipmentId": 2003,
-      "DevName": "Gloves_Tier4 - 공격력 % + 회심 피해",
+      "DevName": "Gloves_Tier4 - 공격력 % + 치명 수치",
       "StatLevelUpType": "Standard",
       "StatType": [
         "AttackPower_Coefficient",
@@ -353,7 +353,7 @@
     },
     {
       "EquipmentId": 3003,
-      "DevName": "Shoes_Tier4 - 공격력 % + 회심 피해",
+      "DevName": "Shoes_Tier4 - 공격력 % + 최대 생명력",
       "StatLevelUpType": "Standard",
       "StatType": [
         "AttackPower_Coefficient",
@@ -569,7 +569,7 @@
     },
     {
       "EquipmentId": 6000,
-      "DevName": "Hairpin_Tier1 - 안탱커",
+      "DevName": "Hairpin_Tier1 - 기타 체력",
       "StatLevelUpType": "Standard",
       "StatType": [
         "MaxHP_Base"
@@ -592,7 +592,7 @@
     },
     {
       "EquipmentId": 6001,
-      "DevName": "Hairpin_Tier2 - 안탱커",
+      "DevName": "Hairpin_Tier2 - 기타 체력",
       "StatLevelUpType": "Standard",
       "StatType": [
         "MaxHP_Base"
@@ -615,7 +615,7 @@
     },
     {
       "EquipmentId": 6002,
-      "DevName": "Hairpin_Tier3 - 안탱커",
+      "DevName": "Hairpin_Tier3 - 기타 체력",
       "StatLevelUpType": "Standard",
       "StatType": [
         "MaxHP_Base"
@@ -638,7 +638,7 @@
     },
     {
       "EquipmentId": 6003,
-      "DevName": "Hairpin_Tier4 - 안탱커 + CC저항",
+      "DevName": "Hairpin_Tier4 - 기타 체력 + CC저항",
       "StatLevelUpType": "Standard",
       "StatType": [
         "MaxHP_Base",
@@ -1004,7 +1004,7 @@
     },
     {
       "EquipmentId": 101003,
-      "DevName": "Hat_Tier4 - 공격력 % + 회심 피해_Piece",
+      "DevName": "Hat_Tier4 - 공격력 % + 치명 피해_Piece",
       "StatLevelUpType": "Standard",
       "StatType": [
         "AttackPower_Base"
@@ -1073,7 +1073,7 @@
     },
     {
       "EquipmentId": 102003,
-      "DevName": "Gloves_Tier4 - 공격력 % + 회심 피해_Piece",
+      "DevName": "Gloves_Tier4 - 공격력 % + 치명 수치_Piece",
       "StatLevelUpType": "Standard",
       "StatType": [
         "AttackPower_Base"
@@ -1142,7 +1142,7 @@
     },
     {
       "EquipmentId": 103003,
-      "DevName": "Shoes_Tier4 - 공격력 % + 회심 피해_Piece",
+      "DevName": "Shoes_Tier4 - 공격력 % + 최대 생명력_Piece",
       "StatLevelUpType": "Standard",
       "StatType": [
         "AttackPower_Base"
@@ -1303,7 +1303,7 @@
     },
     {
       "EquipmentId": 106001,
-      "DevName": "Hairpin_Tier2 - 안탱커_Piece",
+      "DevName": "Hairpin_Tier2 - 기타 체력_Piece",
       "StatLevelUpType": "Standard",
       "StatType": [
         "AttackPower_Base"
@@ -1326,7 +1326,7 @@
     },
     {
       "EquipmentId": 106002,
-      "DevName": "Hairpin_Tier3 - 안탱커_Piece",
+      "DevName": "Hairpin_Tier3 - 기타 체력_Piece",
       "StatLevelUpType": "Standard",
       "StatType": [
         "AttackPower_Base"
@@ -1349,7 +1349,7 @@
     },
     {
       "EquipmentId": 106003,
-      "DevName": "Hairpin_Tier4 - 안탱커 + CC저항_Piece",
+      "DevName": "Hairpin_Tier4 - 기타 체력 + CC저항_Piece",
       "StatLevelUpType": "Standard",
       "StatType": [
         "AttackPower_Base"

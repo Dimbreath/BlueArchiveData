@@ -1577,6 +1577,14 @@
       "Mail": false
     },
     {
+      "Protocol": "MomoTalk_FavorSchedule",
+      "ContentLockType": "MomoTalk",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
       "Protocol": "ClearDeck_List",
       "ContentLockType": "None",
       "OpenConditionContent": "None",

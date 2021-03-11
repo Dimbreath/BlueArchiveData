@@ -1595,6 +1595,576 @@
         0,
         0
       ]
+    },
+    {
+      "FixedEchelonID": 400010201,
+      "MainLeaderSlot": 0,
+      "MainCharacterID": [
+        16000,
+        13006,
+        10000,
+        10010
+      ],
+      "MainLevel": [
+        38,
+        38,
+        38,
+        38
+      ],
+      "MainGrade": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "MainExSkillLevel": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "MainNoneExSkillLevel": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "MainEquipment1ID": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainEquipment1Level": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainEquipment2ID": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainEquipment2Level": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainEquipment3ID": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainEquipment3Level": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SupportCharacterID": [
+        23005,
+        0
+      ],
+      "SupportLevel": [
+        38,
+        0
+      ],
+      "SupportGrade": [
+        3,
+        0
+      ],
+      "SupportExSkillLevel": [
+        1,
+        0
+      ],
+      "SupportNoneExSkillLevel": [
+        1,
+        0
+      ],
+      "SupportEquipment1ID": [
+        0,
+        0
+      ],
+      "SupportEquipment1Level": [
+        0,
+        0
+      ],
+      "SupportEquipment2ID": [
+        0,
+        0
+      ],
+      "SupportEquipment2Level": [
+        0,
+        0
+      ],
+      "SupportEquipment3ID": [
+        0,
+        0
+      ],
+      "SupportEquipment3Level": [
+        0,
+        0
+      ]
+    },
+    {
+      "FixedEchelonID": 400010206,
+      "MainLeaderSlot": 0,
+      "MainCharacterID": [
+        10005,
+        10010,
+        13004,
+        13008
+      ],
+      "MainLevel": [
+        45,
+        45,
+        45,
+        45
+      ],
+      "MainGrade": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "MainExSkillLevel": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "MainNoneExSkillLevel": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "MainEquipment1ID": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainEquipment1Level": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainEquipment2ID": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainEquipment2Level": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainEquipment3ID": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainEquipment3Level": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SupportCharacterID": [
+        23005,
+        0
+      ],
+      "SupportLevel": [
+        45,
+        0
+      ],
+      "SupportGrade": [
+        3,
+        0
+      ],
+      "SupportExSkillLevel": [
+        1,
+        0
+      ],
+      "SupportNoneExSkillLevel": [
+        1,
+        0
+      ],
+      "SupportEquipment1ID": [
+        0,
+        0
+      ],
+      "SupportEquipment1Level": [
+        0,
+        0
+      ],
+      "SupportEquipment2ID": [
+        0,
+        0
+      ],
+      "SupportEquipment2Level": [
+        0,
+        0
+      ],
+      "SupportEquipment3ID": [
+        0,
+        0
+      ],
+      "SupportEquipment3Level": [
+        0,
+        0
+      ]
+    },
+    {
+      "FixedEchelonID": 400010207,
+      "MainLeaderSlot": 0,
+      "MainCharacterID": [
+        10005,
+        10010,
+        13004,
+        13008
+      ],
+      "MainLevel": [
+        45,
+        45,
+        45,
+        45
+      ],
+      "MainGrade": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "MainExSkillLevel": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "MainNoneExSkillLevel": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "MainEquipment1ID": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainEquipment1Level": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainEquipment2ID": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainEquipment2Level": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainEquipment3ID": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainEquipment3Level": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SupportCharacterID": [
+        23005,
+        0
+      ],
+      "SupportLevel": [
+        45,
+        0
+      ],
+      "SupportGrade": [
+        3,
+        0
+      ],
+      "SupportExSkillLevel": [
+        1,
+        0
+      ],
+      "SupportNoneExSkillLevel": [
+        1,
+        0
+      ],
+      "SupportEquipment1ID": [
+        0,
+        0
+      ],
+      "SupportEquipment1Level": [
+        0,
+        0
+      ],
+      "SupportEquipment2ID": [
+        0,
+        0
+      ],
+      "SupportEquipment2Level": [
+        0,
+        0
+      ],
+      "SupportEquipment3ID": [
+        0,
+        0
+      ],
+      "SupportEquipment3Level": [
+        0,
+        0
+      ]
+    },
+    {
+      "FixedEchelonID": 400010208,
+      "MainLeaderSlot": 0,
+      "MainCharacterID": [
+        10005,
+        10010,
+        13004,
+        13008
+      ],
+      "MainLevel": [
+        45,
+        45,
+        45,
+        45
+      ],
+      "MainGrade": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "MainExSkillLevel": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "MainNoneExSkillLevel": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "MainEquipment1ID": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainEquipment1Level": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainEquipment2ID": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainEquipment2Level": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainEquipment3ID": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainEquipment3Level": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SupportCharacterID": [
+        23005,
+        0
+      ],
+      "SupportLevel": [
+        45,
+        0
+      ],
+      "SupportGrade": [
+        3,
+        0
+      ],
+      "SupportExSkillLevel": [
+        1,
+        0
+      ],
+      "SupportNoneExSkillLevel": [
+        1,
+        0
+      ],
+      "SupportEquipment1ID": [
+        0,
+        0
+      ],
+      "SupportEquipment1Level": [
+        0,
+        0
+      ],
+      "SupportEquipment2ID": [
+        0,
+        0
+      ],
+      "SupportEquipment2Level": [
+        0,
+        0
+      ],
+      "SupportEquipment3ID": [
+        0,
+        0
+      ],
+      "SupportEquipment3Level": [
+        0,
+        0
+      ]
+    },
+    {
+      "FixedEchelonID": 400010209,
+      "MainLeaderSlot": 0,
+      "MainCharacterID": [
+        10005,
+        10010,
+        13004,
+        13008
+      ],
+      "MainLevel": [
+        45,
+        45,
+        45,
+        45
+      ],
+      "MainGrade": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "MainExSkillLevel": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "MainNoneExSkillLevel": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "MainEquipment1ID": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainEquipment1Level": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainEquipment2ID": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainEquipment2Level": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainEquipment3ID": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "MainEquipment3Level": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SupportCharacterID": [
+        23005,
+        0
+      ],
+      "SupportLevel": [
+        45,
+        0
+      ],
+      "SupportGrade": [
+        3,
+        0
+      ],
+      "SupportExSkillLevel": [
+        1,
+        0
+      ],
+      "SupportNoneExSkillLevel": [
+        1,
+        0
+      ],
+      "SupportEquipment1ID": [
+        0,
+        0
+      ],
+      "SupportEquipment1Level": [
+        0,
+        0
+      ],
+      "SupportEquipment2ID": [
+        0,
+        0
+      ],
+      "SupportEquipment2Level": [
+        0,
+        0
+      ],
+      "SupportEquipment3ID": [
+        0,
+        0
+      ],
+      "SupportEquipment3Level": [
+        0,
+        0
+      ]
     }
   ]
 }
