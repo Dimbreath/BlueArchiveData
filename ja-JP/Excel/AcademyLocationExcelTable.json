@@ -13,7 +13,6 @@
       ],
       "RewardParcelType": "Item",
       "RewardParcelId": 60000,
-      "RewardParcelDevName": "랜덤 스킬북",
       "OpenTeacherRank": 1
     },
     {
@@ -25,7 +24,6 @@
       "OpenConditionCount": [],
       "RewardParcelType": "Item",
       "RewardParcelId": 60004,
-      "RewardParcelDevName": "랜덤 스킬북",
       "OpenTeacherRank": 1
     },
     {
@@ -41,7 +39,6 @@
       ],
       "RewardParcelType": "Item",
       "RewardParcelId": 4030,
-      "RewardParcelDevName": "게헨나 스킬북",
       "OpenTeacherRank": 1
     },
     {
@@ -57,7 +54,6 @@
       ],
       "RewardParcelType": "Item",
       "RewardParcelId": 4040,
-      "RewardParcelDevName": "아비도스 스킬북",
       "OpenTeacherRank": 1
     }
   ]

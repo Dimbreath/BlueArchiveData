@@ -2,6 +2,7 @@
   "DataList": [
     {
       "Id": 1,
+      "TitleLocalizeCode": "GuideMission_Info_Title_Season_1",
       "InfomationLocalizeCode": "GuideMission_Info_Text_Season_1",
       "AccountType": "Normal",
       "Enabled": true,
@@ -15,7 +16,7 @@
       "RequirementParcelImage": "UIs/01_Common/03_NonEquipment/Collectible_Icon_GuideMission01",
       "RewardImage": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Nonomi",
       "LobbyBannerImage": "UIs/00_Images/Banner/Lobby_Guide_Banner",
-      "BackgroundImage": "UIs/01_Common/29_GuideMission/BG_GuideMission_Dummy",
+      "BackgroundImage": "UIs/01_Common/29_GuideMission/BG_GuideMission_S1",
       "TitleImage": "UIs/01_Common/29_GuideMission/ImgFont_GuideMission_Title",
       "RequirementParcelType": "Item",
       "RequirementParcelId": 20000000,
@@ -23,6 +24,7 @@
     },
     {
       "Id": 2,
+      "TitleLocalizeCode": null,
       "InfomationLocalizeCode": "GuideMission_Info_Text_Season_1",
       "AccountType": "Normal",
       "Enabled": false,
@@ -40,6 +42,28 @@
       "TitleImage": "UIs/01_Common/29_GuideMission/ImgFont_GuideMission_Title",
       "RequirementParcelType": "Item",
       "RequirementParcelId": 20000000,
+      "RequirementParcelAmount": 100
+    },
+    {
+      "Id": 3,
+      "TitleLocalizeCode": "GuideMission_Info_Title_Default",
+      "InfomationLocalizeCode": "GuideMission_Info_Text_Season_2",
+      "AccountType": "Normal",
+      "Enabled": true,
+      "StartDate": "2021-03-25 12:30:00",
+      "StartableEndDate": "2021-04-29 12:00:00",
+      "EndDate": "2021-04-29 12:00:00",
+      "CloseBannerAfterCompletion": false,
+      "MaximumLoginCount": 7,
+      "ExpiryDate": 100,
+      "SpineCharacterId": 19009000,
+      "RequirementParcelImage": "UIs/01_Common/03_NonEquipment/Collectible_Icon_GuideMission_S3",
+      "RewardImage": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gem",
+      "LobbyBannerImage": "UIs/00_Images/Banner/Work_Event_Banner_S3",
+      "BackgroundImage": "UIs/01_Common/29_GuideMission/BG_GuideMission_S3",
+      "TitleImage": "UIs/01_Common/29_GuideMission/ImgFont_GuideMission_Title_S3",
+      "RequirementParcelType": "Item",
+      "RequirementParcelId": 20000001,
       "RequirementParcelAmount": 100
     }
   ]

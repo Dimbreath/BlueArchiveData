@@ -2,17 +2,17 @@
   "DataList": [
     {
       "ID": 1,
-      "DevName": "BUTTON_CLICK",
+      "SoundUniqueId": "BUTTON_CLICK",
       "Path": "Audio/SFX_UI/UI_Button_Touch"
     },
     {
       "ID": 2,
-      "DevName": "BACK_BUTTON_CLICK",
+      "SoundUniqueId": "BACK_BUTTON_CLICK",
       "Path": "Audio/SFX_UI/UI_Button_Back"
     },
     {
       "ID": 3,
-      "DevName": "BUTTON_MUTE",
+      "SoundUniqueId": "BUTTON_MUTE",
       "Path": "Audio/SFX_Common/Mute"
     }
   ]

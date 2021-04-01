@@ -2,7 +2,6 @@
   "DataList": [
     {
       "Id": 1000,
-      "DevName": "상설 청휘석 48+0",
       "ProductId": "com.yostarjp.bluearchive.aokiseki120",
       "StoreType": "GooglePlay",
       "Price": 120,
@@ -15,16 +14,12 @@
       "ParcelId": [
         2
       ],
-      "ParcelDevName": [
-        "gem_paid"
-      ],
       "ParcelAmount": [
         48
       ]
     },
     {
       "Id": 1001,
-      "DevName": "상설 청휘석 196+4",
       "ProductId": "com.yostarjp.bluearchive.aokiseki490",
       "StoreType": "GooglePlay",
       "Price": 490,
@@ -39,10 +34,6 @@
         2,
         3
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus"
-      ],
       "ParcelAmount": [
         196,
         4
@@ -50,7 +41,6 @@
     },
     {
       "Id": 1002,
-      "DevName": "상설 청휘석 392+28",
       "ProductId": "com.yostarjp.bluearchive.aokiseki980",
       "StoreType": "GooglePlay",
       "Price": 980,
@@ -65,10 +55,6 @@
         2,
         3
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus"
-      ],
       "ParcelAmount": [
         392,
         28
@@ -76,7 +62,6 @@
     },
     {
       "Id": 1003,
-      "DevName": "상설 청휘석 592+68",
       "ProductId": "com.yostarjp.bluearchive.aokiseki1480",
       "StoreType": "GooglePlay",
       "Price": 1480,
@@ -91,10 +76,6 @@
         2,
         3
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus"
-      ],
       "ParcelAmount": [
         592,
         68
@@ -102,7 +83,6 @@
     },
     {
       "Id": 1004,
-      "DevName": "상설 청휘석 1176+174",
       "ProductId": "com.yostarjp.bluearchive.aokiseki2940",
       "StoreType": "GooglePlay",
       "Price": 2940,
@@ -117,10 +97,6 @@
         2,
         3
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus"
-      ],
       "ParcelAmount": [
         1176,
         174
@@ -128,7 +104,6 @@
     },
     {
       "Id": 1005,
-      "DevName": "상설 청휘석 1960+340",
       "ProductId": "com.yostarjp.bluearchive.aokiseki4900",
       "StoreType": "GooglePlay",
       "Price": 4900,
@@ -143,10 +118,6 @@
         2,
         3
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus"
-      ],
       "ParcelAmount": [
         1960,
         340
@@ -154,7 +125,6 @@
     },
     {
       "Id": 1006,
-      "DevName": "상설 청휘석 4000+800",
       "ProductId": "com.yostarjp.bluearchive.aokiseki10000",
       "StoreType": "GooglePlay",
       "Price": 10000,
@@ -169,10 +139,6 @@
         2,
         3
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus"
-      ],
       "ParcelAmount": [
         4000,
         800
@@ -180,7 +146,6 @@
     },
     {
       "Id": 1100,
-      "DevName": "한정 청휘석 패키지 48+30",
       "ProductId": "com.yostarjp.bluearchive.aokisekilimit120",
       "StoreType": "GooglePlay",
       "Price": 120,
@@ -195,10 +160,6 @@
         2,
         3
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus"
-      ],
       "ParcelAmount": [
         48,
         30
@@ -206,7 +167,6 @@
     },
     {
       "Id": 1101,
-      "DevName": "한정 청휘석 패키지 196+124",
       "ProductId": "com.yostarjp.bluearchive.aokisekilimit490",
       "StoreType": "GooglePlay",
       "Price": 490,
@@ -221,10 +181,6 @@
         2,
         3
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus"
-      ],
       "ParcelAmount": [
         196,
         124
@@ -232,7 +188,6 @@
     },
     {
       "Id": 1102,
-      "DevName": "한정 청휘석 패키지 392+253",
       "ProductId": "com.yostarjp.bluearchive.aokisekilimit980",
       "StoreType": "GooglePlay",
       "Price": 980,
@@ -247,10 +202,6 @@
         2,
         3
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus"
-      ],
       "ParcelAmount": [
         392,
         253
@@ -258,7 +209,6 @@
     },
     {
       "Id": 1103,
-      "DevName": "한정 청휘석 패키지 592+383",
       "ProductId": "com.yostarjp.bluearchive.aokisekilimit1480",
       "StoreType": "GooglePlay",
       "Price": 1480,
@@ -273,10 +223,6 @@
         2,
         3
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus"
-      ],
       "ParcelAmount": [
         592,
         383
@@ -284,7 +230,6 @@
     },
     {
       "Id": 1104,
-      "DevName": "한정 청휘석 패키지 1176+759",
       "ProductId": "com.yostarjp.bluearchive.aokisekilimit2940",
       "StoreType": "GooglePlay",
       "Price": 2940,
@@ -299,10 +244,6 @@
         2,
         3
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus"
-      ],
       "ParcelAmount": [
         1176,
         759
@@ -310,7 +251,6 @@
     },
     {
       "Id": 1105,
-      "DevName": "한정 청휘석 패키지 1960+1265",
       "ProductId": "com.yostarjp.bluearchive.aokisekilimit4900",
       "StoreType": "GooglePlay",
       "Price": 4900,
@@ -325,10 +265,6 @@
         2,
         3
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus"
-      ],
       "ParcelAmount": [
         1960,
         1265
@@ -336,7 +272,6 @@
     },
     {
       "Id": 1106,
-      "DevName": "한정 청휘석 패키지 4000+2600",
       "ProductId": "com.yostarjp.bluearchive.aokisekilimit10000",
       "StoreType": "GooglePlay",
       "Price": 10000,
@@ -351,10 +286,6 @@
         2,
         3
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus"
-      ],
       "ParcelAmount": [
         4000,
         2600
@@ -362,7 +293,6 @@
     },
     {
       "Id": 1500,
-      "DevName": "초보자 패키지",
       "ProductId": "com.yostarjp.bluearchive.packagebeginner120",
       "StoreType": "GooglePlay",
       "Price": 120,
@@ -379,11 +309,6 @@
         13008,
         10
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "serika_SecretStone",
-        "ExpItem_0"
-      ],
       "ParcelAmount": [
         48,
         40,
@@ -392,7 +317,6 @@
     },
     {
       "Id": 1501,
-      "DevName": "성장 패키지",
       "ProductId": "com.yostarjp.bluearchive.packagegrowth980",
       "StoreType": "GooglePlay",
       "Price": 980,
@@ -416,15 +340,6 @@
         11,
         12,
         150000
-      ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus",
-        "gold",
-        "ExpItem_0",
-        "ExpItem_1",
-        "ExpItem_2",
-        "SkillBook_Selection_0"
       ],
       "ParcelAmount": [
         392,
@@ -438,7 +353,6 @@
     },
     {
       "Id": 1502,
-      "DevName": "월간 제조 팩 A",
       "ProductId": "com.yostarjp.bluearchive.packagemonthlycraft1480",
       "StoreType": "GooglePlay",
       "Price": 1480,
@@ -463,15 +377,6 @@
         92,
         100000
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus",
-        "CraftItem_1",
-        "Craft_Material_0",
-        "Craft_Material_1",
-        "Craft_Material_2",
-        "RandomItem_Gift"
-      ],
       "ParcelAmount": [
         592,
         68,
@@ -484,7 +389,6 @@
     },
     {
       "Id": 1503,
-      "DevName": "월간 제조 팩 B",
       "ProductId": "com.yostarjp.bluearchive.packagemonthlycraft1960",
       "StoreType": "GooglePlay",
       "Price": 1960,
@@ -509,15 +413,6 @@
         92,
         100001
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus",
-        "CraftItem_1",
-        "Craft_Material_0",
-        "Craft_Material_1",
-        "Craft_Material_2",
-        "RandomItem_Furniture"
-      ],
       "ParcelAmount": [
         784,
         106,
@@ -530,7 +425,6 @@
     },
     {
       "Id": 5000,
-      "DevName": "상설 청휘석 48+0",
       "ProductId": "com.yostarjp.bluearchive.aokiseki120",
       "StoreType": "AppStore",
       "Price": 120,
@@ -543,16 +437,12 @@
       "ParcelId": [
         2
       ],
-      "ParcelDevName": [
-        "gem_paid"
-      ],
       "ParcelAmount": [
         48
       ]
     },
     {
       "Id": 5001,
-      "DevName": "상설 청휘석 196+4",
       "ProductId": "com.yostarjp.bluearchive.aokiseki490",
       "StoreType": "AppStore",
       "Price": 490,
@@ -567,10 +457,6 @@
         2,
         3
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus"
-      ],
       "ParcelAmount": [
         196,
         4
@@ -578,7 +464,6 @@
     },
     {
       "Id": 5002,
-      "DevName": "상설 청휘석 392+28",
       "ProductId": "com.yostarjp.bluearchive.aokiseki980",
       "StoreType": "AppStore",
       "Price": 980,
@@ -593,10 +478,6 @@
         2,
         3
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus"
-      ],
       "ParcelAmount": [
         392,
         28
@@ -604,7 +485,6 @@
     },
     {
       "Id": 5003,
-      "DevName": "상설 청휘석 592+68",
       "ProductId": "com.yostarjp.bluearchive.aokiseki1480",
       "StoreType": "AppStore",
       "Price": 1480,
@@ -619,10 +499,6 @@
         2,
         3
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus"
-      ],
       "ParcelAmount": [
         592,
         68
@@ -630,7 +506,6 @@
     },
     {
       "Id": 5004,
-      "DevName": "상설 청휘석 1176+174",
       "ProductId": "com.yostarjp.bluearchive.aokiseki2940",
       "StoreType": "AppStore",
       "Price": 2940,
@@ -645,10 +520,6 @@
         2,
         3
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus"
-      ],
       "ParcelAmount": [
         1176,
         174
@@ -656,7 +527,6 @@
     },
     {
       "Id": 5005,
-      "DevName": "상설 청휘석 1960+340",
       "ProductId": "com.yostarjp.bluearchive.aokiseki4900",
       "StoreType": "AppStore",
       "Price": 4900,
@@ -671,10 +541,6 @@
         2,
         3
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus"
-      ],
       "ParcelAmount": [
         1960,
         340
@@ -682,7 +548,6 @@
     },
     {
       "Id": 5006,
-      "DevName": "상설 청휘석 4000+800",
       "ProductId": "com.yostarjp.bluearchive.aokiseki10000",
       "StoreType": "AppStore",
       "Price": 10000,
@@ -697,10 +562,6 @@
         2,
         3
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus"
-      ],
       "ParcelAmount": [
         4000,
         800
@@ -708,7 +569,6 @@
     },
     {
       "Id": 5100,
-      "DevName": "한정 청휘석 패키지 48+30",
       "ProductId": "com.yostarjp.bluearchive.aokisekilimit120",
       "StoreType": "AppStore",
       "Price": 120,
@@ -723,10 +583,6 @@
         2,
         3
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus"
-      ],
       "ParcelAmount": [
         48,
         30
@@ -734,7 +590,6 @@
     },
     {
       "Id": 5101,
-      "DevName": "한정 청휘석 패키지 196+124",
       "ProductId": "com.yostarjp.bluearchive.aokisekilimit490",
       "StoreType": "AppStore",
       "Price": 490,
@@ -749,10 +604,6 @@
         2,
         3
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus"
-      ],
       "ParcelAmount": [
         196,
         124
@@ -760,7 +611,6 @@
     },
     {
       "Id": 5102,
-      "DevName": "한정 청휘석 패키지 392+253",
       "ProductId": "com.yostarjp.bluearchive.aokisekilimit980",
       "StoreType": "AppStore",
       "Price": 980,
@@ -775,10 +625,6 @@
         2,
         3
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus"
-      ],
       "ParcelAmount": [
         392,
         253
@@ -786,7 +632,6 @@
     },
     {
       "Id": 5103,
-      "DevName": "한정 청휘석 패키지 592+383",
       "ProductId": "com.yostarjp.bluearchive.aokisekilimit1480",
       "StoreType": "AppStore",
       "Price": 1480,
@@ -801,10 +646,6 @@
         2,
         3
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus"
-      ],
       "ParcelAmount": [
         592,
         383
@@ -812,7 +653,6 @@
     },
     {
       "Id": 5104,
-      "DevName": "한정 청휘석 패키지 1176+759",
       "ProductId": "com.yostarjp.bluearchive.aokisekilimit2940",
       "StoreType": "AppStore",
       "Price": 2940,
@@ -827,10 +667,6 @@
         2,
         3
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus"
-      ],
       "ParcelAmount": [
         1176,
         759
@@ -838,7 +674,6 @@
     },
     {
       "Id": 5105,
-      "DevName": "한정 청휘석 패키지 1960+1265",
       "ProductId": "com.yostarjp.bluearchive.aokisekilimit4900",
       "StoreType": "AppStore",
       "Price": 4900,
@@ -853,10 +688,6 @@
         2,
         3
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus"
-      ],
       "ParcelAmount": [
         1960,
         1265
@@ -864,7 +695,6 @@
     },
     {
       "Id": 5106,
-      "DevName": "한정 청휘석 패키지 4000+2600",
       "ProductId": "com.yostarjp.bluearchive.aokisekilimit10000",
       "StoreType": "AppStore",
       "Price": 10000,
@@ -879,10 +709,6 @@
         2,
         3
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus"
-      ],
       "ParcelAmount": [
         4000,
         2600
@@ -890,7 +716,6 @@
     },
     {
       "Id": 5500,
-      "DevName": "초보자 패키지",
       "ProductId": "com.yostarjp.bluearchive.packagebeginner120",
       "StoreType": "AppStore",
       "Price": 120,
@@ -907,11 +732,6 @@
         13008,
         10
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "serika_SecretStone",
-        "ExpItem_0"
-      ],
       "ParcelAmount": [
         48,
         40,
@@ -920,7 +740,6 @@
     },
     {
       "Id": 5501,
-      "DevName": "성장 패키지",
       "ProductId": "com.yostarjp.bluearchive.packagegrowth980",
       "StoreType": "AppStore",
       "Price": 980,
@@ -945,15 +764,6 @@
         12,
         150000
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus",
-        "gold",
-        "ExpItem_0",
-        "ExpItem_1",
-        "ExpItem_2",
-        "SkillBook_Selection_0"
-      ],
       "ParcelAmount": [
         392,
         28,
@@ -966,7 +776,6 @@
     },
     {
       "Id": 5502,
-      "DevName": "월간 제조 팩 A",
       "ProductId": "com.yostarjp.bluearchive.packagemonthlycraft1480",
       "StoreType": "AppStore",
       "Price": 1480,
@@ -991,15 +800,6 @@
         92,
         100000
       ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus",
-        "CraftItem_1",
-        "Craft_Material_0",
-        "Craft_Material_1",
-        "Craft_Material_2",
-        "RandomItem_Gift"
-      ],
       "ParcelAmount": [
         592,
         68,
@@ -1012,7 +812,6 @@
     },
     {
       "Id": 5503,
-      "DevName": "월간 제조 팩 B",
       "ProductId": "com.yostarjp.bluearchive.packagemonthlycraft1960",
       "StoreType": "AppStore",
       "Price": 1960,
@@ -1036,15 +835,6 @@
         91,
         92,
         100001
-      ],
-      "ParcelDevName": [
-        "gem_paid",
-        "gem_bonus",
-        "CraftItem_1",
-        "Craft_Material_0",
-        "Craft_Material_1",
-        "Craft_Material_2",
-        "RandomItem_Furniture"
       ],
       "ParcelAmount": [
         784,

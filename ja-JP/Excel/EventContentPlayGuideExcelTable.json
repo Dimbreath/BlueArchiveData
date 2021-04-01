@@ -3,7 +3,6 @@
     {
       "Id": 0,
       "EventContentId": 801,
-      "DevName": "백귀야행 마츠리",
       "DisplayOrder": 0,
       "GuideTitle": "UI_Event_PlayGuide_Title_801_0",
       "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_801_0",
@@ -12,7 +11,6 @@
     {
       "Id": 1,
       "EventContentId": 801,
-      "DevName": "백귀야행 마츠리",
       "DisplayOrder": 1,
       "GuideTitle": "UI_Event_PlayGuide_Title_801_1",
       "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_801_1",
@@ -21,7 +19,6 @@
     {
       "Id": 2,
       "EventContentId": 801,
-      "DevName": "백귀야행 마츠리",
       "DisplayOrder": 2,
       "GuideTitle": "UI_Event_PlayGuide_Title_801_2",
       "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_801_2",
@@ -30,7 +27,6 @@
     {
       "Id": 9998,
       "EventContentId": 10001,
-      "DevName": "테스트",
       "DisplayOrder": 0,
       "GuideTitle": "UI_SCENARIOFORMATION_TITLE",
       "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/PlayGuide_Event_Dummy",
@@ -39,7 +35,6 @@
     {
       "Id": 9999,
       "EventContentId": 10001,
-      "DevName": null,
       "DisplayOrder": 1,
       "GuideTitle": null,
       "GuideImagePath": null,

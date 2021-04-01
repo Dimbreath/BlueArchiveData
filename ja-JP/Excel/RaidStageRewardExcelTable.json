@@ -2,7 +2,6 @@
   "DataList": [
     {
       "GroupId": 100,
-      "DevName": "Binah_Normal",
       "IsClearStageRewardHideInfo": false,
       "ClearStageRewardProb": 10000,
       "ClearStageRewardParcelType": "Item",
@@ -12,7 +11,6 @@
     },
     {
       "GroupId": 101,
-      "DevName": "Binah_Hard",
       "IsClearStageRewardHideInfo": false,
       "ClearStageRewardProb": 10000,
       "ClearStageRewardParcelType": "Item",
@@ -22,7 +20,6 @@
     },
     {
       "GroupId": 102,
-      "DevName": "Binah_VeryHard",
       "IsClearStageRewardHideInfo": false,
       "ClearStageRewardProb": 10000,
       "ClearStageRewardParcelType": "Item",
@@ -32,7 +29,6 @@
     },
     {
       "GroupId": 103,
-      "DevName": "Binah_HardCore",
       "IsClearStageRewardHideInfo": false,
       "ClearStageRewardProb": 10000,
       "ClearStageRewardParcelType": "Item",
@@ -42,87 +38,42 @@
     },
     {
       "GroupId": 200,
-      "DevName": "Chesed_Normal",
       "IsClearStageRewardHideInfo": false,
       "ClearStageRewardProb": 10000,
       "ClearStageRewardParcelType": "Item",
       "ClearStageRewardParcelUniqueID": 7,
       "ClearStageRewardParcelUniqueName": "레이드 코인",
-      "ClearStageRewardAmount": 20
+      "ClearStageRewardAmount": 40
     },
     {
       "GroupId": 201,
-      "DevName": "Chesed_Hard",
       "IsClearStageRewardHideInfo": false,
       "ClearStageRewardProb": 10000,
       "ClearStageRewardParcelType": "Item",
       "ClearStageRewardParcelUniqueID": 7,
       "ClearStageRewardParcelUniqueName": "레이드 코인",
-      "ClearStageRewardAmount": 25
+      "ClearStageRewardAmount": 60
     },
     {
       "GroupId": 202,
-      "DevName": "Chesed_VeryHard",
       "IsClearStageRewardHideInfo": false,
       "ClearStageRewardProb": 10000,
       "ClearStageRewardParcelType": "Item",
       "ClearStageRewardParcelUniqueID": 7,
       "ClearStageRewardParcelUniqueName": "레이드 코인",
-      "ClearStageRewardAmount": 30
+      "ClearStageRewardAmount": 80
     },
     {
       "GroupId": 203,
-      "DevName": "Chesed_HardCore",
       "IsClearStageRewardHideInfo": false,
       "ClearStageRewardProb": 10000,
       "ClearStageRewardParcelType": "Item",
       "ClearStageRewardParcelUniqueID": 7,
       "ClearStageRewardParcelUniqueName": "레이드 코인",
-      "ClearStageRewardAmount": 40
-    },
-    {
-      "GroupId": 204,
-      "DevName": "Chesed_Extreme",
-      "IsClearStageRewardHideInfo": false,
-      "ClearStageRewardProb": 10000,
-      "ClearStageRewardParcelType": "Item",
-      "ClearStageRewardParcelUniqueID": 7,
-      "ClearStageRewardParcelUniqueName": "레이드 코인",
-      "ClearStageRewardAmount": 50
+      "ClearStageRewardAmount": 100
     },
     {
       "GroupId": 300,
-      "DevName": "ShiroKuro_Normal",
-      "IsClearStageRewardHideInfo": false,
-      "ClearStageRewardProb": 10000,
-      "ClearStageRewardParcelType": "Item",
-      "ClearStageRewardParcelUniqueID": 7,
-      "ClearStageRewardParcelUniqueName": "레이드 코인",
-      "ClearStageRewardAmount": 20
-    },
-    {
-      "GroupId": 301,
-      "DevName": "ShiroKuro_Hard",
-      "IsClearStageRewardHideInfo": false,
-      "ClearStageRewardProb": 10000,
-      "ClearStageRewardParcelType": "Item",
-      "ClearStageRewardParcelUniqueID": 7,
-      "ClearStageRewardParcelUniqueName": "레이드 코인",
-      "ClearStageRewardAmount": 25
-    },
-    {
-      "GroupId": 302,
-      "DevName": "ShiroKuro_VeryHard",
-      "IsClearStageRewardHideInfo": false,
-      "ClearStageRewardProb": 10000,
-      "ClearStageRewardParcelType": "Item",
-      "ClearStageRewardParcelUniqueID": 7,
-      "ClearStageRewardParcelUniqueName": "레이드 코인",
-      "ClearStageRewardAmount": 30
-    },
-    {
-      "GroupId": 303,
-      "DevName": "ShiroKuro_HardCore",
       "IsClearStageRewardHideInfo": false,
       "ClearStageRewardProb": 10000,
       "ClearStageRewardParcelType": "Item",
@@ -131,14 +82,67 @@
       "ClearStageRewardAmount": 40
     },
     {
-      "GroupId": 304,
-      "DevName": "ShiroKuro_Extreme",
+      "GroupId": 301,
       "IsClearStageRewardHideInfo": false,
       "ClearStageRewardProb": 10000,
       "ClearStageRewardParcelType": "Item",
       "ClearStageRewardParcelUniqueID": 7,
       "ClearStageRewardParcelUniqueName": "레이드 코인",
-      "ClearStageRewardAmount": 50
+      "ClearStageRewardAmount": 60
+    },
+    {
+      "GroupId": 302,
+      "IsClearStageRewardHideInfo": false,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "레이드 코인",
+      "ClearStageRewardAmount": 80
+    },
+    {
+      "GroupId": 303,
+      "IsClearStageRewardHideInfo": false,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "레이드 코인",
+      "ClearStageRewardAmount": 100
+    },
+    {
+      "GroupId": 400,
+      "IsClearStageRewardHideInfo": false,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "레이드 코인",
+      "ClearStageRewardAmount": 40
+    },
+    {
+      "GroupId": 401,
+      "IsClearStageRewardHideInfo": false,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "레이드 코인",
+      "ClearStageRewardAmount": 60
+    },
+    {
+      "GroupId": 402,
+      "IsClearStageRewardHideInfo": false,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "레이드 코인",
+      "ClearStageRewardAmount": 80
+    },
+    {
+      "GroupId": 403,
+      "IsClearStageRewardHideInfo": false,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "레이드 코인",
+      "ClearStageRewardAmount": 100
     }
   ]
 }

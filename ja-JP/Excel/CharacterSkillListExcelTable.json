@@ -2,7 +2,6 @@
   "DataList": [
     {
       "CharacterId": 10000,
-      "DevName": "Aru_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -26,7 +25,6 @@
     },
     {
       "CharacterId": 10001,
-      "DevName": "Eimi_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -50,7 +48,6 @@
     },
     {
       "CharacterId": 10002,
-      "DevName": "Haruna_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -74,7 +71,6 @@
     },
     {
       "CharacterId": 10003,
-      "DevName": "Hihumi_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -98,7 +94,6 @@
     },
     {
       "CharacterId": 10004,
-      "DevName": "Hina_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -122,7 +117,6 @@
     },
     {
       "CharacterId": 10005,
-      "DevName": "Hoshino_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": true,
@@ -146,7 +140,6 @@
     },
     {
       "CharacterId": 10006,
-      "DevName": "Iori_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": true,
@@ -170,7 +163,6 @@
     },
     {
       "CharacterId": 10007,
-      "DevName": "Maki_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -194,7 +186,6 @@
     },
     {
       "CharacterId": 10008,
-      "DevName": "Neru_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -218,7 +209,6 @@
     },
     {
       "CharacterId": 10009,
-      "DevName": "Izumi_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -242,7 +232,6 @@
     },
     {
       "CharacterId": 10010,
-      "DevName": "Shiroko_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -266,7 +255,6 @@
     },
     {
       "CharacterId": 10011,
-      "DevName": "Shun_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -290,7 +278,6 @@
     },
     {
       "CharacterId": 10011,
-      "DevName": "Shun_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -312,7 +299,6 @@
     },
     {
       "CharacterId": 10012,
-      "DevName": "Sumire_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": true,
@@ -336,7 +322,6 @@
     },
     {
       "CharacterId": 10013,
-      "DevName": "Tsurugi_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -360,7 +345,6 @@
     },
     {
       "CharacterId": 10013,
-      "DevName": "Tsurugi_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -382,7 +366,6 @@
     },
     {
       "CharacterId": 10014,
-      "DevName": "Izuna_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": true,
@@ -405,8 +388,53 @@
       ]
     },
     {
+      "CharacterId": 10015,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "ArisNormal01"
+      ],
+      "ExSkillGroupId": [
+        "ArisEx01"
+      ],
+      "PublicSkillGroupId": [
+        "ArisPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "ArisPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "ArisExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 10016,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "MidoriNormal01"
+      ],
+      "ExSkillGroupId": [
+        "MidoriEx01"
+      ],
+      "PublicSkillGroupId": [
+        "MidoriPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "MidoriPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "MidoriExtraPassive01"
+      ]
+    },
+    {
       "CharacterId": 13000,
-      "DevName": "Akane_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -430,7 +458,6 @@
     },
     {
       "CharacterId": 13001,
-      "DevName": "Chise_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -454,7 +481,6 @@
     },
     {
       "CharacterId": 13002,
-      "DevName": "Akari_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -478,7 +504,6 @@
     },
     {
       "CharacterId": 13003,
-      "DevName": "Hasumi_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -502,7 +527,6 @@
     },
     {
       "CharacterId": 13004,
-      "DevName": "Nonomi_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -526,7 +550,6 @@
     },
     {
       "CharacterId": 13005,
-      "DevName": "Kayoko_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -550,7 +573,6 @@
     },
     {
       "CharacterId": 13006,
-      "DevName": "Mutsuki_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -574,7 +596,6 @@
     },
     {
       "CharacterId": 13007,
-      "DevName": "Zunko_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -598,7 +619,6 @@
     },
     {
       "CharacterId": 13008,
-      "DevName": "Serika_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -622,7 +642,6 @@
     },
     {
       "CharacterId": 13009,
-      "DevName": "Tsubaki_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -646,7 +665,6 @@
     },
     {
       "CharacterId": 13010,
-      "DevName": "Yuuka_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -669,8 +687,30 @@
       ]
     },
     {
+      "CharacterId": 13011,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "MomoiNormal01"
+      ],
+      "ExSkillGroupId": [
+        "MomoiEx01"
+      ],
+      "PublicSkillGroupId": [
+        "MomoiPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "MomoiPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "MomoiExtraPassive01"
+      ]
+    },
+    {
       "CharacterId": 16000,
-      "DevName": "Haruka_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": true,
@@ -694,7 +734,6 @@
     },
     {
       "CharacterId": 16001,
-      "DevName": "Asuna_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": true,
@@ -718,7 +757,6 @@
     },
     {
       "CharacterId": 16002,
-      "DevName": "Kotori_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -742,7 +780,6 @@
     },
     {
       "CharacterId": 16003,
-      "DevName": "Suzumi_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -766,7 +803,6 @@
     },
     {
       "CharacterId": 16004,
-      "DevName": "Pina_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -790,7 +826,6 @@
     },
     {
       "CharacterId": 19000,
-      "DevName": "Aris_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": true,
@@ -814,7 +849,6 @@
     },
     {
       "CharacterId": 19001,
-      "DevName": "Atsuko_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -836,7 +870,6 @@
     },
     {
       "CharacterId": 19002,
-      "DevName": "Azusa_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -860,7 +893,6 @@
     },
     {
       "CharacterId": 19003,
-      "DevName": "Cherino_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -884,7 +916,6 @@
     },
     {
       "CharacterId": 19004,
-      "DevName": "Erika_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -908,7 +939,6 @@
     },
     {
       "CharacterId": 19004,
-      "DevName": "Erika_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -930,7 +960,6 @@
     },
     {
       "CharacterId": 19005,
-      "DevName": "Kirino_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -954,7 +983,6 @@
     },
     {
       "CharacterId": 19006,
-      "DevName": "Koharu_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -978,7 +1006,6 @@
     },
     {
       "CharacterId": 19008,
-      "DevName": "Midori_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1002,7 +1029,6 @@
     },
     {
       "CharacterId": 19009,
-      "DevName": "Momoi_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1026,7 +1052,6 @@
     },
     {
       "CharacterId": 19012,
-      "DevName": "Wakamo_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1050,7 +1075,6 @@
     },
     {
       "CharacterId": 19013,
-      "DevName": "Yuzu_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1074,21 +1098,29 @@
     },
     {
       "CharacterId": 19017,
-      "DevName": "Dummy_Striker01",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
       "IsMoveLeftRight": false,
-      "NormalSkillGroupId": [],
-      "ExSkillGroupId": [],
-      "PublicSkillGroupId": [],
-      "PassiveSkillGroupId": [],
+      "NormalSkillGroupId": [
+        "MimoriNormal01"
+      ],
+      "ExSkillGroupId": [
+        "MimoriEx01"
+      ],
+      "PublicSkillGroupId": [
+        "MimoriPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "MimoriPassive01"
+      ],
       "LeaderSkillGroupId": [],
-      "ExtraPassiveSkillGroupId": []
+      "ExtraPassiveSkillGroupId": [
+        "MimoriExtraPassive01"
+      ]
     },
     {
       "CharacterId": 19018,
-      "DevName": "Dummy_Striker02",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1108,7 +1140,6 @@
     },
     {
       "CharacterId": 20000,
-      "DevName": "Hibiki_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1130,7 +1161,6 @@
     },
     {
       "CharacterId": 20001,
-      "DevName": "Karin_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1152,7 +1182,6 @@
     },
     {
       "CharacterId": 20002,
-      "DevName": "Saya_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1174,7 +1203,6 @@
     },
     {
       "CharacterId": 20003,
-      "DevName": "Mashiro_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1196,7 +1224,6 @@
     },
     {
       "CharacterId": 23000,
-      "DevName": "Airi_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1218,7 +1245,6 @@
     },
     {
       "CharacterId": 23001,
-      "DevName": "Fuuka_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1240,7 +1266,6 @@
     },
     {
       "CharacterId": 23002,
-      "DevName": "Hanae_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1262,7 +1287,6 @@
     },
     {
       "CharacterId": 23003,
-      "DevName": "Hare_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1284,7 +1308,6 @@
     },
     {
       "CharacterId": 23004,
-      "DevName": "Utaha_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1306,7 +1329,6 @@
     },
     {
       "CharacterId": 23005,
-      "DevName": "Ayane_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1328,7 +1350,6 @@
     },
     {
       "CharacterId": 23006,
-      "DevName": "Shizuko_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1350,7 +1371,6 @@
     },
     {
       "CharacterId": 26000,
-      "DevName": "Chinatsu_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1372,7 +1392,6 @@
     },
     {
       "CharacterId": 26001,
-      "DevName": "Kotama_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1394,7 +1413,6 @@
     },
     {
       "CharacterId": 26002,
-      "DevName": "Juri_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1416,7 +1434,6 @@
     },
     {
       "CharacterId": 26003,
-      "DevName": "Serina_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1438,7 +1455,6 @@
     },
     {
       "CharacterId": 26004,
-      "DevName": "Shimiko_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1460,7 +1476,6 @@
     },
     {
       "CharacterId": 26005,
-      "DevName": "Yoshimi_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1482,7 +1497,6 @@
     },
     {
       "CharacterId": 29001,
-      "DevName": "Hanako_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1502,7 +1516,6 @@
     },
     {
       "CharacterId": 29002,
-      "DevName": "Hiyori_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1522,7 +1535,6 @@
     },
     {
       "CharacterId": 29003,
-      "DevName": "Mari_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1544,7 +1556,6 @@
     },
     {
       "CharacterId": 29004,
-      "DevName": "Mashiro_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1566,7 +1577,6 @@
     },
     {
       "CharacterId": 29005,
-      "DevName": "Nodoka_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1588,14 +1598,13 @@
     },
     {
       "CharacterId": 29006,
-      "DevName": "Saya_Casual",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
       "IsMoveLeftRight": false,
       "NormalSkillGroupId": [],
       "ExSkillGroupId": [
-        "SayaCasualEx01"
+        "SayaEx01"
       ],
       "PublicSkillGroupId": [],
       "PassiveSkillGroupId": [],
@@ -1606,27 +1615,25 @@
     },
     {
       "CharacterId": 29007,
-      "DevName": "Serina_Nurse",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
       "IsMoveLeftRight": false,
       "NormalSkillGroupId": [],
       "ExSkillGroupId": [
-        "HihumiGUPEx01"
+        "SerinaEx01"
       ],
       "PublicSkillGroupId": [
-        "SerinaNursePublic01"
+        "SerinaPublic01"
       ],
       "PassiveSkillGroupId": [
-        "SerinaNursePassive01"
+        "SerinaPassive01"
       ],
       "LeaderSkillGroupId": [],
       "ExtraPassiveSkillGroupId": []
     },
     {
       "CharacterId": 39000,
-      "DevName": "TSS_Tank01_CrusaderChan",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1644,7 +1651,6 @@
     },
     {
       "CharacterId": 39001,
-      "DevName": "TSS_Tank02_Inquisitor",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1662,7 +1668,6 @@
     },
     {
       "CharacterId": 39002,
-      "DevName": "TSS_Tank03_Francesca",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1680,7 +1685,6 @@
     },
     {
       "CharacterId": 39003,
-      "DevName": "TSS_Truck02",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1694,7 +1698,6 @@
     },
     {
       "CharacterId": 39004,
-      "DevName": "TSS_Truck01",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1708,7 +1711,6 @@
     },
     {
       "CharacterId": 39005,
-      "DevName": "TSS_Truck03",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1722,7 +1724,6 @@
     },
     {
       "CharacterId": 39006,
-      "DevName": "TSS_Helicopter01",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1740,7 +1741,6 @@
     },
     {
       "CharacterId": 39007,
-      "DevName": "TSS_Helicopter02",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1758,7 +1758,6 @@
     },
     {
       "CharacterId": 39008,
-      "DevName": "TSS_Helicopter03",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1776,7 +1775,6 @@
     },
     {
       "CharacterId": 40000,
-      "DevName": "Eimi_HealPack_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1790,7 +1788,6 @@
     },
     {
       "CharacterId": 40001,
-      "DevName": "Fuuka_HealPack_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1804,7 +1801,6 @@
     },
     {
       "CharacterId": 40002,
-      "DevName": "HihumiDecoy_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1820,7 +1816,6 @@
     },
     {
       "CharacterId": 40003,
-      "DevName": "Serina_HealPack_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1834,7 +1829,6 @@
     },
     {
       "CharacterId": 40004,
-      "DevName": "Utaha_Turret_default",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1850,7 +1844,6 @@
     },
     {
       "CharacterId": 40005,
-      "DevName": "Utaha_Turret_Public",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1866,7 +1859,6 @@
     },
     {
       "CharacterId": 7000001,
-      "DevName": "SchoolGirl_Sukeban_SMG_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1882,7 +1874,6 @@
     },
     {
       "CharacterId": 7000002,
-      "DevName": "SchoolGirl_Sukeban_SMG_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1898,7 +1889,6 @@
     },
     {
       "CharacterId": 7000003,
-      "DevName": "SchoolGirl_Sukeban_SMG_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1914,7 +1904,6 @@
     },
     {
       "CharacterId": 7000011,
-      "DevName": "SchoolGirl_Sukeban_MG_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1930,7 +1919,6 @@
     },
     {
       "CharacterId": 7000012,
-      "DevName": "SchoolGirl_Sukeban_MG_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1946,7 +1934,6 @@
     },
     {
       "CharacterId": 7000013,
-      "DevName": "SchoolGirl_Sukeban_MG_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1962,7 +1949,6 @@
     },
     {
       "CharacterId": 7000021,
-      "DevName": "SchoolGirl_Sukeban_SR_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -1978,7 +1964,6 @@
     },
     {
       "CharacterId": 7000021,
-      "DevName": "SchoolGirl_Sukeban_SR_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -1994,7 +1979,6 @@
     },
     {
       "CharacterId": 7000022,
-      "DevName": "SchoolGirl_Sukeban_SR_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2012,7 +1996,6 @@
     },
     {
       "CharacterId": 7000022,
-      "DevName": "SchoolGirl_Sukeban_SR_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -2030,7 +2013,6 @@
     },
     {
       "CharacterId": 7000023,
-      "DevName": "SchoolGirl_Sukeban_SR_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2048,7 +2030,6 @@
     },
     {
       "CharacterId": 7000023,
-      "DevName": "SchoolGirl_Sukeban_SR_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -2066,7 +2047,6 @@
     },
     {
       "CharacterId": 7000101,
-      "DevName": "Soldier_Helmet_SG_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2082,7 +2062,6 @@
     },
     {
       "CharacterId": 7000102,
-      "DevName": "Soldier_Helmet_SG_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2098,7 +2077,6 @@
     },
     {
       "CharacterId": 7000103,
-      "DevName": "Soldier_Helmet_SG_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2114,7 +2092,6 @@
     },
     {
       "CharacterId": 7000111,
-      "DevName": "Soldier_Helmet_AR_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2130,7 +2107,6 @@
     },
     {
       "CharacterId": 7000112,
-      "DevName": "Soldier_Helmet_AR_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2146,7 +2122,6 @@
     },
     {
       "CharacterId": 7000113,
-      "DevName": "Soldier_Helmet_AR_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2162,7 +2137,6 @@
     },
     {
       "CharacterId": 7000121,
-      "DevName": "Soldier_Helmet_SR_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2178,7 +2152,6 @@
     },
     {
       "CharacterId": 7000122,
-      "DevName": "Soldier_Helmet_SR_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2194,7 +2167,6 @@
     },
     {
       "CharacterId": 7000123,
-      "DevName": "Soldier_Helmet_SR_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2210,7 +2182,6 @@
     },
     {
       "CharacterId": 7000201,
-      "DevName": "Soldier_RedHelmet_SG_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2226,7 +2197,6 @@
     },
     {
       "CharacterId": 7000202,
-      "DevName": "Soldier_RedHelmet_SG_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2242,7 +2212,6 @@
     },
     {
       "CharacterId": 7000203,
-      "DevName": "Soldier_RedHelmet_SG_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2258,7 +2227,6 @@
     },
     {
       "CharacterId": 7000211,
-      "DevName": "Soldier_RedHelmet_AR_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2274,7 +2242,6 @@
     },
     {
       "CharacterId": 7000212,
-      "DevName": "Soldier_RedHelmet_AR_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2292,7 +2259,6 @@
     },
     {
       "CharacterId": 7000213,
-      "DevName": "Soldier_RedHelmet_AR_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2310,7 +2276,6 @@
     },
     {
       "CharacterId": 7000221,
-      "DevName": "Soldier_RedHelmet_SR_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2326,7 +2291,6 @@
     },
     {
       "CharacterId": 7000222,
-      "DevName": "Soldier_RedHelmet_SR_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2344,7 +2308,6 @@
     },
     {
       "CharacterId": 7000223,
-      "DevName": "Soldier_RedHelmet_SR_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2362,7 +2325,6 @@
     },
     {
       "CharacterId": 7000301,
-      "DevName": "Soldier_Yoheki_SG_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2378,7 +2340,6 @@
     },
     {
       "CharacterId": 7000302,
-      "DevName": "Soldier_Yoheki_SG_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2396,7 +2357,6 @@
     },
     {
       "CharacterId": 7000303,
-      "DevName": "Soldier_Yoheki_SG_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2414,7 +2374,6 @@
     },
     {
       "CharacterId": 7000311,
-      "DevName": "Soldier_Yoheki_AR_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2430,7 +2389,6 @@
     },
     {
       "CharacterId": 7000312,
-      "DevName": "Soldier_Yoheki_AR_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2448,7 +2406,6 @@
     },
     {
       "CharacterId": 7000313,
-      "DevName": "Soldier_Yoheki_AR_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2466,7 +2423,6 @@
     },
     {
       "CharacterId": 7000321,
-      "DevName": "Soldier_Yoheki_SR_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2482,7 +2438,6 @@
     },
     {
       "CharacterId": 7000322,
-      "DevName": "Soldier_Yoheki_SR_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2498,7 +2453,6 @@
     },
     {
       "CharacterId": 7000323,
-      "DevName": "Soldier_Yoheki_SR_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2514,7 +2468,6 @@
     },
     {
       "CharacterId": 7000401,
-      "DevName": "Soldier_YohekiPink_AR_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2530,7 +2483,6 @@
     },
     {
       "CharacterId": 7000402,
-      "DevName": "Soldier_YohekiPink_AR_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2548,7 +2500,6 @@
     },
     {
       "CharacterId": 7000403,
-      "DevName": "Soldier_YohekiPink_AR_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2566,7 +2517,6 @@
     },
     {
       "CharacterId": 7000411,
-      "DevName": "Soldier_YohekiPink_SMG_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2582,7 +2532,6 @@
     },
     {
       "CharacterId": 7000412,
-      "DevName": "Soldier_YohekiPink_SMG_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2600,7 +2549,6 @@
     },
     {
       "CharacterId": 7000413,
-      "DevName": "Soldier_YohekiPink_SMG_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2618,7 +2566,6 @@
     },
     {
       "CharacterId": 7000421,
-      "DevName": "Soldier_YohekiPink_MG_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2634,7 +2581,6 @@
     },
     {
       "CharacterId": 7000422,
-      "DevName": "Soldier_YohekiPink_MG_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2650,7 +2596,6 @@
     },
     {
       "CharacterId": 7000423,
-      "DevName": "Soldier_YohekiPink_MG_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2666,7 +2611,6 @@
     },
     {
       "CharacterId": 7000501,
-      "DevName": "Soldier_Blackmarket_SG_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2682,7 +2626,6 @@
     },
     {
       "CharacterId": 7000502,
-      "DevName": "Soldier_Blackmarket_SG_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2698,7 +2641,6 @@
     },
     {
       "CharacterId": 7000503,
-      "DevName": "Soldier_Blackmarket_SG_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2714,7 +2656,6 @@
     },
     {
       "CharacterId": 7000511,
-      "DevName": "Soldier_Blackmarket_AR_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2730,7 +2671,6 @@
     },
     {
       "CharacterId": 7000512,
-      "DevName": "Soldier_Blackmarket_AR_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2746,7 +2686,6 @@
     },
     {
       "CharacterId": 7000513,
-      "DevName": "Soldier_Blackmarket_AR_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2762,7 +2701,6 @@
     },
     {
       "CharacterId": 7000521,
-      "DevName": "Soldier_Blackmarket_SR_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2778,7 +2716,6 @@
     },
     {
       "CharacterId": 7000522,
-      "DevName": "Soldier_Blackmarket_SR_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2796,7 +2733,6 @@
     },
     {
       "CharacterId": 7000523,
-      "DevName": "Soldier_Blackmarket_SR_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2814,7 +2750,6 @@
     },
     {
       "CharacterId": 7000531,
-      "DevName": "Soldier_Blackmarket_RL_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2830,7 +2765,6 @@
     },
     {
       "CharacterId": 7000532,
-      "DevName": "Soldier_Blackmarket_RL_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2846,7 +2780,6 @@
     },
     {
       "CharacterId": 7000533,
-      "DevName": "Soldier_Blackmarket_RL_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2862,7 +2795,6 @@
     },
     {
       "CharacterId": 7000601,
-      "DevName": "Soldier_Kaiserpmc_SG_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2878,7 +2810,6 @@
     },
     {
       "CharacterId": 7000602,
-      "DevName": "Soldier_Kaiserpmc_SG_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2894,7 +2825,6 @@
     },
     {
       "CharacterId": 7000603,
-      "DevName": "Soldier_Kaiserpmc_SG_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2910,7 +2840,6 @@
     },
     {
       "CharacterId": 7000611,
-      "DevName": "Soldier_Kaiserpmc_AR_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2926,7 +2855,6 @@
     },
     {
       "CharacterId": 7000612,
-      "DevName": "Soldier_Kaiserpmc_AR_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2944,7 +2872,6 @@
     },
     {
       "CharacterId": 7000613,
-      "DevName": "Soldier_Kaiserpmc_AR_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2962,7 +2889,6 @@
     },
     {
       "CharacterId": 7000621,
-      "DevName": "Soldier_Kaiserpmc_SR_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2978,7 +2904,6 @@
     },
     {
       "CharacterId": 7000622,
-      "DevName": "Soldier_Kaiserpmc_SR_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -2994,7 +2919,6 @@
     },
     {
       "CharacterId": 7000623,
-      "DevName": "Soldier_Kaiserpmc_SR_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3010,7 +2934,6 @@
     },
     {
       "CharacterId": 7000631,
-      "DevName": "Soldier_Kaiserpmc_HG_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3026,7 +2949,6 @@
     },
     {
       "CharacterId": 7000632,
-      "DevName": "Soldier_Kaiserpmc_HG_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3044,7 +2966,6 @@
     },
     {
       "CharacterId": 7000633,
-      "DevName": "Soldier_Kaiserpmc_HG_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3062,7 +2983,6 @@
     },
     {
       "CharacterId": 7000701,
-      "DevName": "Soldier_Fuuki_SG_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3078,7 +2998,6 @@
     },
     {
       "CharacterId": 7000702,
-      "DevName": "Soldier_Fuuki_SG_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3096,7 +3015,6 @@
     },
     {
       "CharacterId": 7000703,
-      "DevName": "Soldier_Fuuki_SG_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3114,7 +3032,6 @@
     },
     {
       "CharacterId": 7000711,
-      "DevName": "Soldier_Fuuki_AR_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3130,7 +3047,6 @@
     },
     {
       "CharacterId": 7000712,
-      "DevName": "Soldier_Fuuki_AR_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3148,7 +3064,6 @@
     },
     {
       "CharacterId": 7000713,
-      "DevName": "Soldier_Fuuki_AR_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3166,7 +3081,6 @@
     },
     {
       "CharacterId": 7000721,
-      "DevName": "Soldier_Fuuki_SR_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3182,7 +3096,6 @@
     },
     {
       "CharacterId": 7000722,
-      "DevName": "Soldier_Fuuki_SR_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3198,7 +3111,6 @@
     },
     {
       "CharacterId": 7000723,
-      "DevName": "Soldier_Fuuki_SR_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3214,7 +3126,6 @@
     },
     {
       "CharacterId": 7000731,
-      "DevName": "Soldier_Fuuki_MG_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3230,7 +3141,6 @@
     },
     {
       "CharacterId": 7000732,
-      "DevName": "Soldier_Fuuki_MG_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3248,7 +3158,6 @@
     },
     {
       "CharacterId": 7000733,
-      "DevName": "Soldier_Fuuki_MG_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3266,7 +3175,6 @@
     },
     {
       "CharacterId": 7000801,
-      "DevName": "GasMask_Arius_SMG_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3282,7 +3190,6 @@
     },
     {
       "CharacterId": 7000802,
-      "DevName": "GasMask_Arius_SMG_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3300,7 +3207,6 @@
     },
     {
       "CharacterId": 7000803,
-      "DevName": "GasMask_Arius_SMG_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3318,7 +3224,6 @@
     },
     {
       "CharacterId": 7000811,
-      "DevName": "GasMask_Arius_GL_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3334,7 +3239,6 @@
     },
     {
       "CharacterId": 7000812,
-      "DevName": "GasMask_Arius_GL_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3350,7 +3254,6 @@
     },
     {
       "CharacterId": 7000813,
-      "DevName": "GasMask_Arius_GL_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3366,7 +3269,6 @@
     },
     {
       "CharacterId": 7000821,
-      "DevName": "GasMask_Arius_MG_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3382,7 +3284,6 @@
     },
     {
       "CharacterId": 7000822,
-      "DevName": "GasMask_Arius_MG_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3398,7 +3299,6 @@
     },
     {
       "CharacterId": 7000823,
-      "DevName": "GasMask_Arius_MG_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3414,7 +3314,6 @@
     },
     {
       "CharacterId": 7000901,
-      "DevName": "Yukata_StreetGhostes_SG_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3430,7 +3329,6 @@
     },
     {
       "CharacterId": 7000902,
-      "DevName": "Yukata_StreetGhostes_SG_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3448,7 +3346,6 @@
     },
     {
       "CharacterId": 7000903,
-      "DevName": "Yukata_StreetGhostes_SG_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3466,7 +3363,6 @@
     },
     {
       "CharacterId": 7000911,
-      "DevName": "Yukata_StreetGhostes_MG_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3482,7 +3378,6 @@
     },
     {
       "CharacterId": 7000912,
-      "DevName": "Yukata_StreetGhostes_MG_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3498,7 +3393,6 @@
     },
     {
       "CharacterId": 7000913,
-      "DevName": "Yukata_StreetGhostes_MG_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3514,7 +3408,6 @@
     },
     {
       "CharacterId": 7000921,
-      "DevName": "Yukata_StreetGhostes_RL_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3530,7 +3423,6 @@
     },
     {
       "CharacterId": 7000922,
-      "DevName": "Yukata_StreetGhostes_RL_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3548,7 +3440,6 @@
     },
     {
       "CharacterId": 7000923,
-      "DevName": "Yukata_StreetGhostes_RL_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3566,7 +3457,6 @@
     },
     {
       "CharacterId": 7000964,
-      "DevName": "Yukata_StreetGhostes_SG_Turret_Summon",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3582,7 +3472,6 @@
     },
     {
       "CharacterId": 7000974,
-      "DevName": "YukataHanya_StreetGhostes_SR_Turret_Summon",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3598,7 +3487,6 @@
     },
     {
       "CharacterId": 7000984,
-      "DevName": "YukataHanya_StreetGhostes_SR_Cannon_Summon",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3614,7 +3502,6 @@
     },
     {
       "CharacterId": 7000993,
-      "DevName": "YukataHanya_StreetGhostes_SR_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3633,7 +3520,6 @@
     },
     {
       "CharacterId": 7010001,
-      "DevName": "Droid_Yoheki_Shield_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3649,7 +3535,6 @@
     },
     {
       "CharacterId": 7010002,
-      "DevName": "Droid_Yoheki_Shield_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3669,7 +3554,6 @@
     },
     {
       "CharacterId": 7010003,
-      "DevName": "Droid_Yoheki_Shield_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3689,7 +3573,6 @@
     },
     {
       "CharacterId": 7010011,
-      "DevName": "Droid_Yoheki_AR_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3705,7 +3588,6 @@
     },
     {
       "CharacterId": 7010012,
-      "DevName": "Droid_Yoheki_AR_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3721,7 +3603,6 @@
     },
     {
       "CharacterId": 7010013,
-      "DevName": "Droid_Yoheki_AR_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3737,7 +3618,6 @@
     },
     {
       "CharacterId": 7010021,
-      "DevName": "Droid_Yoheki_RL_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3753,7 +3633,6 @@
     },
     {
       "CharacterId": 7010022,
-      "DevName": "Droid_Yoheki_RL_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3769,7 +3648,6 @@
     },
     {
       "CharacterId": 7010023,
-      "DevName": "Droid_Yoheki_RL_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3785,7 +3663,6 @@
     },
     {
       "CharacterId": 7010101,
-      "DevName": "Droid_Blackmarket_Shield_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3801,7 +3678,6 @@
     },
     {
       "CharacterId": 7010102,
-      "DevName": "Droid_Blackmarket_Shield_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3821,7 +3697,6 @@
     },
     {
       "CharacterId": 7010103,
-      "DevName": "Droid_Blackmarket_Shield_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3841,7 +3716,6 @@
     },
     {
       "CharacterId": 7010111,
-      "DevName": "Droid_Blackmarket_AR_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3857,7 +3731,6 @@
     },
     {
       "CharacterId": 7010112,
-      "DevName": "Droid_Blackmarket_AR_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3873,7 +3746,6 @@
     },
     {
       "CharacterId": 7010113,
-      "DevName": "Droid_Blackmarket_AR_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3889,7 +3761,6 @@
     },
     {
       "CharacterId": 7010121,
-      "DevName": "Droid_Blackmarket_RL_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3905,7 +3776,6 @@
     },
     {
       "CharacterId": 7010122,
-      "DevName": "Droid_Blackmarket_RL_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3923,7 +3793,6 @@
     },
     {
       "CharacterId": 7010123,
-      "DevName": "Droid_Blackmarket_RL_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3941,7 +3810,6 @@
     },
     {
       "CharacterId": 7010201,
-      "DevName": "Droid_Kaiserpmc_Shield_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3957,7 +3825,6 @@
     },
     {
       "CharacterId": 7010202,
-      "DevName": "Droid_Kaiserpmc_Shield_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3977,7 +3844,6 @@
     },
     {
       "CharacterId": 7010203,
-      "DevName": "Droid_Kaiserpmc_Shield_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -3997,7 +3863,6 @@
     },
     {
       "CharacterId": 7010211,
-      "DevName": "Droid_Kaiserpmc_AR_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4013,7 +3878,6 @@
     },
     {
       "CharacterId": 7010212,
-      "DevName": "Droid_Kaiserpmc_AR_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4029,7 +3893,6 @@
     },
     {
       "CharacterId": 7010213,
-      "DevName": "Droid_Kaiserpmc_AR_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4045,7 +3908,6 @@
     },
     {
       "CharacterId": 7010221,
-      "DevName": "Droid_Kaiserpmc_RL_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4061,7 +3923,6 @@
     },
     {
       "CharacterId": 7010222,
-      "DevName": "Droid_Kaiserpmc_RL_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4079,7 +3940,6 @@
     },
     {
       "CharacterId": 7010223,
-      "DevName": "Droid_Kaiserpmc_RL_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4097,7 +3957,6 @@
     },
     {
       "CharacterId": 7010301,
-      "DevName": "Droid_Decagram_Shield_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4113,7 +3972,6 @@
     },
     {
       "CharacterId": 7010302,
-      "DevName": "Droid_Decagram_Shield_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4133,7 +3991,6 @@
     },
     {
       "CharacterId": 7010303,
-      "DevName": "Droid_Decagram_Shield_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4153,7 +4010,6 @@
     },
     {
       "CharacterId": 7010311,
-      "DevName": "Droid_Decagram_AR_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4169,7 +4025,6 @@
     },
     {
       "CharacterId": 7010312,
-      "DevName": "Droid_Decagram_AR_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4187,7 +4042,6 @@
     },
     {
       "CharacterId": 7010313,
-      "DevName": "Droid_Decagram_AR_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4205,7 +4059,6 @@
     },
     {
       "CharacterId": 7010321,
-      "DevName": "Droid_Decagram_RL_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4221,7 +4074,6 @@
     },
     {
       "CharacterId": 7010322,
-      "DevName": "Droid_Decagram_RL_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4239,7 +4091,6 @@
     },
     {
       "CharacterId": 7010323,
-      "DevName": "Droid_Decagram_RL_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4257,7 +4108,6 @@
     },
     {
       "CharacterId": 7010401,
-      "DevName": "Drone_Yoheki_Vulcan_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4273,7 +4123,6 @@
     },
     {
       "CharacterId": 7010402,
-      "DevName": "Drone_Yoheki_Vulcan_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4291,7 +4140,6 @@
     },
     {
       "CharacterId": 7010403,
-      "DevName": "Drone_Yoheki_Vulcan_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4309,7 +4157,6 @@
     },
     {
       "CharacterId": 7010411,
-      "DevName": "Drone_Yoheki_Missile_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4325,7 +4172,6 @@
     },
     {
       "CharacterId": 7010412,
-      "DevName": "Drone_Yoheki_Missile_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4341,7 +4187,6 @@
     },
     {
       "CharacterId": 7010413,
-      "DevName": "Drone_Yoheki_Missile_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4357,7 +4202,6 @@
     },
     {
       "CharacterId": 7010421,
-      "DevName": "Drone_Blackmarket_Vulcan_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4373,7 +4217,6 @@
     },
     {
       "CharacterId": 7010422,
-      "DevName": "Drone_Blackmarket_Vulcan_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4389,7 +4232,6 @@
     },
     {
       "CharacterId": 7010423,
-      "DevName": "Drone_Blackmarket_Vulcan_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4405,7 +4247,6 @@
     },
     {
       "CharacterId": 7010431,
-      "DevName": "Drone_Blackmarket_Missile_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4421,7 +4262,6 @@
     },
     {
       "CharacterId": 7010432,
-      "DevName": "Drone_Blackmarket_Missile_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4437,7 +4277,6 @@
     },
     {
       "CharacterId": 7010433,
-      "DevName": "Drone_Blackmarket_Missile_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4453,7 +4292,6 @@
     },
     {
       "CharacterId": 7010441,
-      "DevName": "Drone_Kaiserpmc_Vulcan_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4469,7 +4307,6 @@
     },
     {
       "CharacterId": 7010442,
-      "DevName": "Drone_Kaiserpmc_Vulcan_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4485,7 +4322,6 @@
     },
     {
       "CharacterId": 7010443,
-      "DevName": "Drone_Kaiserpmc_Vulcan_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4501,7 +4337,6 @@
     },
     {
       "CharacterId": 7010451,
-      "DevName": "Drone_Kaiserpmc_Missile_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4517,7 +4352,6 @@
     },
     {
       "CharacterId": 7010452,
-      "DevName": "Drone_Kaiserpmc_Missile_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4533,7 +4367,6 @@
     },
     {
       "CharacterId": 7010453,
-      "DevName": "Drone_Kaiserpmc_Missile_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4549,7 +4382,6 @@
     },
     {
       "CharacterId": 7010461,
-      "DevName": "Drone_Decagram_Vulcan_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4565,7 +4397,6 @@
     },
     {
       "CharacterId": 7010462,
-      "DevName": "Drone_Decagram_Vulcan_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4581,7 +4412,6 @@
     },
     {
       "CharacterId": 7010463,
-      "DevName": "Drone_Decagram_Vulcan_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4597,7 +4427,6 @@
     },
     {
       "CharacterId": 7010471,
-      "DevName": "Drone_Decagram_Missile_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4613,7 +4442,6 @@
     },
     {
       "CharacterId": 7010472,
-      "DevName": "Drone_Decagram_Missile_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4629,7 +4457,6 @@
     },
     {
       "CharacterId": 7010473,
-      "DevName": "Drone_Decagram_Missile_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4645,7 +4472,6 @@
     },
     {
       "CharacterId": 7010501,
-      "DevName": "HeavyTank_Yoheki_Cannon_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4661,7 +4487,6 @@
     },
     {
       "CharacterId": 7010502,
-      "DevName": "HeavyTank_Yoheki_Cannon_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4677,7 +4502,6 @@
     },
     {
       "CharacterId": 7010503,
-      "DevName": "HeavyTank_Yoheki_Cannon_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4693,7 +4517,6 @@
     },
     {
       "CharacterId": 7010511,
-      "DevName": "HeavyTank_Yoheki_Railgun_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4709,7 +4532,6 @@
     },
     {
       "CharacterId": 7010512,
-      "DevName": "HeavyTank_Yoheki_Railgun_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4725,7 +4547,6 @@
     },
     {
       "CharacterId": 7010513,
-      "DevName": "HeavyTank_Yoheki_Railgun_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4741,7 +4562,6 @@
     },
     {
       "CharacterId": 7010521,
-      "DevName": "HeavyTank_Blackmarket_Cannon_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4757,7 +4577,6 @@
     },
     {
       "CharacterId": 7010522,
-      "DevName": "HeavyTank_Blackmarket_Cannon_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4775,7 +4594,6 @@
     },
     {
       "CharacterId": 7010523,
-      "DevName": "HeavyTank_Blackmarket_Cannon_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4793,7 +4611,6 @@
     },
     {
       "CharacterId": 7010531,
-      "DevName": "HeavyTank_Blackmarket_Railgun_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4809,7 +4626,6 @@
     },
     {
       "CharacterId": 7010532,
-      "DevName": "HeavyTank_Blackmarket_Railgun_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4825,7 +4641,6 @@
     },
     {
       "CharacterId": 7010533,
-      "DevName": "HeavyTank_Blackmarket_Railgun_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4841,7 +4656,6 @@
     },
     {
       "CharacterId": 7010541,
-      "DevName": "HeavyTank_Kaiserpmc_Cannon_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4857,7 +4671,6 @@
     },
     {
       "CharacterId": 7010542,
-      "DevName": "HeavyTank_Kaiserpmc_Cannon_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4875,7 +4688,6 @@
     },
     {
       "CharacterId": 7010543,
-      "DevName": "HeavyTank_Kaiserpmc_Cannon_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4893,7 +4705,6 @@
     },
     {
       "CharacterId": 7010551,
-      "DevName": "HeavyTank_Kaiserpmc_Railgun_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4909,7 +4720,6 @@
     },
     {
       "CharacterId": 7010552,
-      "DevName": "HeavyTank_Kaiserpmc_Railgun_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4925,7 +4735,6 @@
     },
     {
       "CharacterId": 7010553,
-      "DevName": "HeavyTank_Kaiserpmc_Railgun_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4941,7 +4750,6 @@
     },
     {
       "CharacterId": 7010561,
-      "DevName": "HeavyTank_Decagram_Cannon_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4957,7 +4765,6 @@
     },
     {
       "CharacterId": 7010562,
-      "DevName": "HeavyTank_Decagram_Cannon_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4973,7 +4780,6 @@
     },
     {
       "CharacterId": 7010563,
-      "DevName": "HeavyTank_Decagram_Cannon_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -4989,7 +4795,6 @@
     },
     {
       "CharacterId": 7010571,
-      "DevName": "HeavyTank_Decagram_Railgun_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5005,7 +4810,6 @@
     },
     {
       "CharacterId": 7010572,
-      "DevName": "HeavyTank_Decagram_Railgun_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5023,7 +4827,6 @@
     },
     {
       "CharacterId": 7010573,
-      "DevName": "HeavyTank_Decagram_Railgun_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5041,7 +4844,6 @@
     },
     {
       "CharacterId": 7010603,
-      "DevName": "Goliath_Decagram_Vulcan_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": true,
@@ -5059,7 +4861,6 @@
     },
     {
       "CharacterId": 7010613,
-      "DevName": "EnemyTSS_Crusader_PMC_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5078,7 +4879,6 @@
     },
     {
       "CharacterId": 7010703,
-      "DevName": "EnemyTSS_Aparche_Blackmarket_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5096,13 +4896,30 @@
     },
     {
       "CharacterId": 7010803,
-      "DevName": "EnemyTSS_PowerLoader_PMC_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
       "IsMoveLeftRight": false,
       "NormalSkillGroupId": [
         "EnemyTSSPowerLoader01Normal01"
+      ],
+      "ExSkillGroupId": [
+        "EnemyTSAPowerLoaderEx01",
+        "EnemyTSAPowerLoaderEx02"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7010901,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "KumabotPapaSlumpiaSGNormal01"
       ],
       "ExSkillGroupId": [],
       "PublicSkillGroupId": [],
@@ -5111,8 +4928,90 @@
       "ExtraPassiveSkillGroupId": []
     },
     {
+      "CharacterId": 7010902,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "KumabotPapaSlumpiaSGNormal01"
+      ],
+      "ExSkillGroupId": [
+        "KumabotPapaSlumpiaSGEx01"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7010903,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "KumabotPapaSlumpiaSGNormal01"
+      ],
+      "ExSkillGroupId": [
+        "KumabotPapaSlumpiaSGEx01"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7010911,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "UsagibotSlumpiaARNormal01"
+      ],
+      "ExSkillGroupId": [],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7010912,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "UsagibotSlumpiaARNormal01"
+      ],
+      "ExSkillGroupId": [
+        "UsagibotSlumpiaAREx01"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7010913,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "UsagibotSlumpiaARNormal01"
+      ],
+      "ExSkillGroupId": [
+        "UsagibotSlumpiaAREx01"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
       "CharacterId": 7020001,
-      "DevName": "Terror_Nun_Yustina_SMG_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5128,7 +5027,6 @@
     },
     {
       "CharacterId": 7020002,
-      "DevName": "Terror_Nun_Yustina_SMG_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5146,7 +5044,6 @@
     },
     {
       "CharacterId": 7020003,
-      "DevName": "Terror_Nun_Yustina_SMG_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5164,7 +5061,6 @@
     },
     {
       "CharacterId": 7020011,
-      "DevName": "Terror_Nun_Yustina_AR_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5180,7 +5076,6 @@
     },
     {
       "CharacterId": 7020012,
-      "DevName": "Terror_Nun_Yustina_AR_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5198,7 +5093,6 @@
     },
     {
       "CharacterId": 7020013,
-      "DevName": "Terror_Nun_Yustina_AR_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5216,7 +5110,6 @@
     },
     {
       "CharacterId": 7020021,
-      "DevName": "Terror_Nun_Yustina_SR_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5232,7 +5125,6 @@
     },
     {
       "CharacterId": 7020022,
-      "DevName": "Terror_Nun_Yustina_SR_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5250,7 +5142,6 @@
     },
     {
       "CharacterId": 7020023,
-      "DevName": "Terror_Nun_Yustina_SR_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5268,7 +5159,6 @@
     },
     {
       "CharacterId": 7020101,
-      "DevName": "Terror_GasMask_Arius_SMG_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5284,7 +5174,6 @@
     },
     {
       "CharacterId": 7020102,
-      "DevName": "Terror_GasMask_Arius_SMG_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5302,7 +5191,6 @@
     },
     {
       "CharacterId": 7020103,
-      "DevName": "Terror_GasMask_Arius_SMG_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5320,7 +5208,6 @@
     },
     {
       "CharacterId": 7020111,
-      "DevName": "Terror_GasMask_Arius_GL_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5336,7 +5223,6 @@
     },
     {
       "CharacterId": 7020112,
-      "DevName": "Terror_GasMask_Arius_GL_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5352,7 +5238,6 @@
     },
     {
       "CharacterId": 7020113,
-      "DevName": "Terror_GasMask_Arius_GL_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5368,7 +5253,6 @@
     },
     {
       "CharacterId": 7020121,
-      "DevName": "Terror_GasMask_Arius_MG_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5384,7 +5268,6 @@
     },
     {
       "CharacterId": 7020122,
-      "DevName": "Terror_GasMask_Arius_MG_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5400,7 +5283,6 @@
     },
     {
       "CharacterId": 7020123,
-      "DevName": "Terror_GasMask_Arius_MG_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5416,7 +5298,6 @@
     },
     {
       "CharacterId": 7020201,
-      "DevName": "Terror_Droid_Mimesis_Shield_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5434,7 +5315,6 @@
     },
     {
       "CharacterId": 7020202,
-      "DevName": "Terror_Droid_Mimesis_Shield_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5454,7 +5334,6 @@
     },
     {
       "CharacterId": 7020203,
-      "DevName": "Terror_Droid_Mimesis_Shield_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5474,7 +5353,6 @@
     },
     {
       "CharacterId": 7020211,
-      "DevName": "Terror_Droid_Mimesis_AR_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5490,7 +5368,6 @@
     },
     {
       "CharacterId": 7020212,
-      "DevName": "Terror_Droid_Mimesis_AR_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5506,7 +5383,6 @@
     },
     {
       "CharacterId": 7020213,
-      "DevName": "Terror_Droid_Mimesis_AR_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5522,7 +5398,6 @@
     },
     {
       "CharacterId": 7020221,
-      "DevName": "Terror_Droid_Mimesis_RL_M",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5538,7 +5413,6 @@
     },
     {
       "CharacterId": 7020222,
-      "DevName": "Terror_Droid_Mimesis_RL_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5554,7 +5428,6 @@
     },
     {
       "CharacterId": 7020223,
-      "DevName": "Terror_Droid_Mimesis_RL_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5570,7 +5443,6 @@
     },
     {
       "CharacterId": 7020303,
-      "DevName": "Terror_EnemyTSS_PowerLoader_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5589,7 +5461,6 @@
     },
     {
       "CharacterId": 7020313,
-      "DevName": "Terror_Ambrosius_Communio_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5608,7 +5479,6 @@
     },
     {
       "CharacterId": 7050002,
-      "DevName": "Aru_default_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5632,7 +5502,6 @@
     },
     {
       "CharacterId": 7050003,
-      "DevName": "Aru_default_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5656,7 +5525,6 @@
     },
     {
       "CharacterId": 7050012,
-      "DevName": "Eimi_default_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5680,7 +5548,6 @@
     },
     {
       "CharacterId": 7050022,
-      "DevName": "Haruna_default_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5704,7 +5571,6 @@
     },
     {
       "CharacterId": 7050032,
-      "DevName": "Hihumi_default_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5728,7 +5594,6 @@
     },
     {
       "CharacterId": 7050052,
-      "DevName": "Hoshino_default_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": true,
@@ -5751,8 +5616,30 @@
       ]
     },
     {
+      "CharacterId": 7050062,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "IoriNormal01"
+      ],
+      "ExSkillGroupId": [
+        "IoriEx01"
+      ],
+      "PublicSkillGroupId": [
+        "IoriPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "IoriPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "IoriExtraPassive01"
+      ]
+    },
+    {
       "CharacterId": 7050063,
-      "DevName": "Iori_default_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": true,
@@ -5776,7 +5663,6 @@
     },
     {
       "CharacterId": 7050072,
-      "DevName": "Maki_default_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5800,7 +5686,6 @@
     },
     {
       "CharacterId": 7050092,
-      "DevName": "Nonomi_default_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5824,7 +5709,6 @@
     },
     {
       "CharacterId": 7050102,
-      "DevName": "Shiroko_default_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5848,7 +5732,6 @@
     },
     {
       "CharacterId": 7050112,
-      "DevName": "Shun_default_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5872,7 +5755,6 @@
     },
     {
       "CharacterId": 7050112,
-      "DevName": "Shun_default_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -5894,7 +5776,6 @@
     },
     {
       "CharacterId": 7050142,
-      "DevName": "Akane_default_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5918,7 +5799,6 @@
     },
     {
       "CharacterId": 7050143,
-      "DevName": "Akane_default_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5942,7 +5822,6 @@
     },
     {
       "CharacterId": 7050152,
-      "DevName": "Chise_default_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -5966,7 +5845,6 @@
     },
     {
       "CharacterId": 7050162,
-      "DevName": "Haruka_default_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": true,
@@ -5990,7 +5868,6 @@
     },
     {
       "CharacterId": 7050163,
-      "DevName": "Haruka_default_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": true,
@@ -6014,7 +5891,6 @@
     },
     {
       "CharacterId": 7050172,
-      "DevName": "Hasumi_default_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6038,7 +5914,6 @@
     },
     {
       "CharacterId": 7050182,
-      "DevName": "Izumi_default_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6062,7 +5937,6 @@
     },
     {
       "CharacterId": 7050183,
-      "DevName": "Izumi_default_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6086,7 +5960,6 @@
     },
     {
       "CharacterId": 7050192,
-      "DevName": "Kayoko_default_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6110,7 +5983,6 @@
     },
     {
       "CharacterId": 7050202,
-      "DevName": "Mutsuki_default_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6134,7 +6006,6 @@
     },
     {
       "CharacterId": 7050203,
-      "DevName": "Mutsuki_default_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6158,7 +6029,6 @@
     },
     {
       "CharacterId": 7050212,
-      "DevName": "Pina_default_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6182,7 +6052,6 @@
     },
     {
       "CharacterId": 7050213,
-      "DevName": "Pina_default_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6206,7 +6075,6 @@
     },
     {
       "CharacterId": 7050222,
-      "DevName": "Serika_default_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6230,7 +6098,6 @@
     },
     {
       "CharacterId": 7050232,
-      "DevName": "Tsubaki_default_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6254,7 +6121,6 @@
     },
     {
       "CharacterId": 7050242,
-      "DevName": "Yuuka_default_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6278,7 +6144,6 @@
     },
     {
       "CharacterId": 7050252,
-      "DevName": "Zunko_default_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6302,7 +6167,6 @@
     },
     {
       "CharacterId": 7050253,
-      "DevName": "Zunko_default_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6326,7 +6190,6 @@
     },
     {
       "CharacterId": 7050262,
-      "DevName": "Akari_default_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6350,7 +6213,6 @@
     },
     {
       "CharacterId": 7050263,
-      "DevName": "Akari_default_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6374,7 +6236,6 @@
     },
     {
       "CharacterId": 7050272,
-      "DevName": "Asuna_default_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": true,
@@ -6398,7 +6259,6 @@
     },
     {
       "CharacterId": 7050282,
-      "DevName": "Kotori_default_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6422,7 +6282,6 @@
     },
     {
       "CharacterId": 7050283,
-      "DevName": "Kotori_default_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6446,7 +6305,6 @@
     },
     {
       "CharacterId": 7050292,
-      "DevName": "Suzumi_default_E",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6470,7 +6328,6 @@
     },
     {
       "CharacterId": 7050303,
-      "DevName": "Izuna_default_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": true,
@@ -6494,7 +6351,6 @@
     },
     {
       "CharacterId": 7050423,
-      "DevName": "Wakamo_default_C",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6512,7 +6368,6 @@
     },
     {
       "CharacterId": 7100002,
-      "DevName": "Kaitenranger_Red_AR_C_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6532,7 +6387,6 @@
     },
     {
       "CharacterId": 7100012,
-      "DevName": "Kaitenranger_Black_HG_C_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6552,7 +6406,6 @@
     },
     {
       "CharacterId": 7100022,
-      "DevName": "Kaitenranger_Green_MG_C_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6572,7 +6425,6 @@
     },
     {
       "CharacterId": 7100032,
-      "DevName": "Kaitenranger_Yellow_SR_C_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6592,7 +6444,6 @@
     },
     {
       "CharacterId": 7100042,
-      "DevName": "Kaitenranger_Pink_RL_C_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6612,7 +6463,6 @@
     },
     {
       "CharacterId": 7100101,
-      "DevName": "Soldier_Helmet_SG_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6628,7 +6478,6 @@
     },
     {
       "CharacterId": 7100102,
-      "DevName": "Soldier_Helmet_SG_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6644,7 +6493,6 @@
     },
     {
       "CharacterId": 7100111,
-      "DevName": "Soldier_Helmet_AR_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6660,7 +6508,6 @@
     },
     {
       "CharacterId": 7100112,
-      "DevName": "Soldier_Helmet_AR_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6676,7 +6523,6 @@
     },
     {
       "CharacterId": 7100121,
-      "DevName": "Soldier_Helmet_SR_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6692,7 +6538,6 @@
     },
     {
       "CharacterId": 7100122,
-      "DevName": "Soldier_Helmet_SR_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6708,7 +6553,6 @@
     },
     {
       "CharacterId": 7100201,
-      "DevName": "Soldier_RedHelmet_SG_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6724,7 +6568,6 @@
     },
     {
       "CharacterId": 7100202,
-      "DevName": "Soldier_RedHelmet_SG_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6740,7 +6583,6 @@
     },
     {
       "CharacterId": 7100211,
-      "DevName": "Soldier_RedHelmet_AR_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6756,7 +6598,6 @@
     },
     {
       "CharacterId": 7100212,
-      "DevName": "Soldier_RedHelmet_AR_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6774,7 +6615,6 @@
     },
     {
       "CharacterId": 7100221,
-      "DevName": "Soldier_RedHelmet_SR_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6790,7 +6630,6 @@
     },
     {
       "CharacterId": 7100222,
-      "DevName": "Soldier_RedHelmet_SR_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6808,7 +6647,6 @@
     },
     {
       "CharacterId": 7100301,
-      "DevName": "Soldier_Yoheki_SG_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6824,7 +6662,6 @@
     },
     {
       "CharacterId": 7100302,
-      "DevName": "Soldier_Yoheki_SG_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6842,7 +6679,6 @@
     },
     {
       "CharacterId": 7100311,
-      "DevName": "Soldier_Yoheki_AR_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6858,7 +6694,6 @@
     },
     {
       "CharacterId": 7100312,
-      "DevName": "Soldier_Yoheki_AR_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6874,7 +6709,6 @@
     },
     {
       "CharacterId": 7100321,
-      "DevName": "Soldier_Yoheki_SR_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6890,7 +6724,6 @@
     },
     {
       "CharacterId": 7100322,
-      "DevName": "Soldier_Yoheki_SR_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6906,7 +6739,6 @@
     },
     {
       "CharacterId": 7100401,
-      "DevName": "Soldier_YohekiPink_AR_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6922,7 +6754,6 @@
     },
     {
       "CharacterId": 7100402,
-      "DevName": "Soldier_YohekiPink_AR_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6940,7 +6771,6 @@
     },
     {
       "CharacterId": 7100501,
-      "DevName": "Soldier_Blackmarket_SG_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6956,7 +6786,6 @@
     },
     {
       "CharacterId": 7100502,
-      "DevName": "Soldier_Blackmarket_SG_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6972,7 +6801,6 @@
     },
     {
       "CharacterId": 7100511,
-      "DevName": "Soldier_Blackmarket_AR_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -6988,7 +6816,6 @@
     },
     {
       "CharacterId": 7100512,
-      "DevName": "Soldier_Blackmarket_AR_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7004,7 +6831,6 @@
     },
     {
       "CharacterId": 7100521,
-      "DevName": "Soldier_Blackmarket_SR_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7020,7 +6846,6 @@
     },
     {
       "CharacterId": 7100522,
-      "DevName": "Soldier_Blackmarket_SR_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7038,7 +6863,6 @@
     },
     {
       "CharacterId": 7100601,
-      "DevName": "Soldier_Kaiserpmc_SG_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7054,7 +6878,6 @@
     },
     {
       "CharacterId": 7100602,
-      "DevName": "Soldier_Kaiserpmc_SG_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7070,7 +6893,6 @@
     },
     {
       "CharacterId": 7100611,
-      "DevName": "Soldier_Kaiserpmc_AR_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7086,7 +6908,6 @@
     },
     {
       "CharacterId": 7100612,
-      "DevName": "Soldier_Kaiserpmc_AR_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7104,7 +6925,6 @@
     },
     {
       "CharacterId": 7100621,
-      "DevName": "Soldier_Kaiserpmc_SR_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7120,7 +6940,6 @@
     },
     {
       "CharacterId": 7100622,
-      "DevName": "Soldier_Kaiserpmc_SR_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7136,7 +6955,6 @@
     },
     {
       "CharacterId": 7110001,
-      "DevName": "Droid_Yoheki_Shield_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7152,7 +6970,6 @@
     },
     {
       "CharacterId": 7110002,
-      "DevName": "Droid_Yoheki_Shield_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7172,7 +6989,6 @@
     },
     {
       "CharacterId": 7110011,
-      "DevName": "Droid_Yoheki_AR_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7188,7 +7004,6 @@
     },
     {
       "CharacterId": 7110012,
-      "DevName": "Droid_Yoheki_AR_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7204,7 +7019,6 @@
     },
     {
       "CharacterId": 7110021,
-      "DevName": "Droid_Yoheki_RL_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7220,7 +7034,6 @@
     },
     {
       "CharacterId": 7110022,
-      "DevName": "Droid_Yoheki_RL_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7236,7 +7049,6 @@
     },
     {
       "CharacterId": 7110101,
-      "DevName": "Droid_Blackmarket_Shield_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7252,7 +7064,6 @@
     },
     {
       "CharacterId": 7110102,
-      "DevName": "Droid_Blackmarket_Shield_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7272,7 +7083,6 @@
     },
     {
       "CharacterId": 7110111,
-      "DevName": "Droid_Blackmarket_AR_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7288,7 +7098,6 @@
     },
     {
       "CharacterId": 7110112,
-      "DevName": "Droid_Blackmarket_AR_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7304,7 +7113,6 @@
     },
     {
       "CharacterId": 7110121,
-      "DevName": "Droid_Blackmarket_RL_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7320,7 +7128,6 @@
     },
     {
       "CharacterId": 7110122,
-      "DevName": "Droid_Blackmarket_RL_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7338,7 +7145,6 @@
     },
     {
       "CharacterId": 7110201,
-      "DevName": "Droid_Kaiserpmc_Shield_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7354,7 +7160,6 @@
     },
     {
       "CharacterId": 7110202,
-      "DevName": "Droid_Kaiserpmc_Shield_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7374,7 +7179,6 @@
     },
     {
       "CharacterId": 7110211,
-      "DevName": "Droid_Kaiserpmc_AR_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7390,7 +7194,6 @@
     },
     {
       "CharacterId": 7110212,
-      "DevName": "Droid_Kaiserpmc_AR_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7406,7 +7209,6 @@
     },
     {
       "CharacterId": 7110221,
-      "DevName": "Droid_Kaiserpmc_RL_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7422,7 +7224,6 @@
     },
     {
       "CharacterId": 7110222,
-      "DevName": "Droid_Kaiserpmc_RL_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7438,7 +7239,6 @@
     },
     {
       "CharacterId": 7110401,
-      "DevName": "Drone_Yoheki_Vulcan_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7454,7 +7254,6 @@
     },
     {
       "CharacterId": 7110402,
-      "DevName": "Drone_Yoheki_Vulcan_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7472,7 +7271,6 @@
     },
     {
       "CharacterId": 7110411,
-      "DevName": "Drone_Yoheki_Missile_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7488,7 +7286,6 @@
     },
     {
       "CharacterId": 7110412,
-      "DevName": "Drone_Yoheki_Missile_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7504,7 +7301,6 @@
     },
     {
       "CharacterId": 7110421,
-      "DevName": "Drone_Blackmarket_Vulcan_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7520,7 +7316,6 @@
     },
     {
       "CharacterId": 7110422,
-      "DevName": "Drone_Blackmarket_Vulcan_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7536,7 +7331,6 @@
     },
     {
       "CharacterId": 7110431,
-      "DevName": "Drone_Blackmarket_Missile_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7552,7 +7346,6 @@
     },
     {
       "CharacterId": 7110432,
-      "DevName": "Drone_Blackmarket_Missile_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7568,7 +7361,6 @@
     },
     {
       "CharacterId": 7110441,
-      "DevName": "Drone_Kaiserpmc_Vulcan_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7584,7 +7376,6 @@
     },
     {
       "CharacterId": 7110442,
-      "DevName": "Drone_Kaiserpmc_Vulcan_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7600,7 +7391,6 @@
     },
     {
       "CharacterId": 7110451,
-      "DevName": "Drone_Kaiserpmc_Missile_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7616,7 +7406,6 @@
     },
     {
       "CharacterId": 7110452,
-      "DevName": "Drone_Kaiserpmc_Missile_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7632,7 +7421,6 @@
     },
     {
       "CharacterId": 7110501,
-      "DevName": "HeavyTank_Yoheki_Cannon_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7648,7 +7436,6 @@
     },
     {
       "CharacterId": 7110502,
-      "DevName": "HeavyTank_Yoheki_Cannon_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7664,7 +7451,6 @@
     },
     {
       "CharacterId": 7110511,
-      "DevName": "HeavyTank_Yoheki_Railgun_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7680,7 +7466,6 @@
     },
     {
       "CharacterId": 7110512,
-      "DevName": "HeavyTank_Yoheki_Railgun_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7696,7 +7481,6 @@
     },
     {
       "CharacterId": 7110521,
-      "DevName": "HeavyTank_Blackmarket_Cannon_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7712,7 +7496,6 @@
     },
     {
       "CharacterId": 7110522,
-      "DevName": "HeavyTank_Blackmarket_Cannon_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7728,7 +7511,6 @@
     },
     {
       "CharacterId": 7110531,
-      "DevName": "HeavyTank_Blackmarket_Railgun_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7744,7 +7526,6 @@
     },
     {
       "CharacterId": 7110532,
-      "DevName": "HeavyTank_Blackmarket_Railgun_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7760,7 +7541,6 @@
     },
     {
       "CharacterId": 7110541,
-      "DevName": "HeavyTank_Kaiserpmc_Cannon_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7776,7 +7556,6 @@
     },
     {
       "CharacterId": 7110542,
-      "DevName": "HeavyTank_Kaiserpmc_Cannon_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7794,7 +7573,6 @@
     },
     {
       "CharacterId": 7110551,
-      "DevName": "HeavyTank_Kaiserpmc_Railgun_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7810,7 +7588,6 @@
     },
     {
       "CharacterId": 7110552,
-      "DevName": "HeavyTank_Kaiserpmc_Railgun_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7826,7 +7603,6 @@
     },
     {
       "CharacterId": 7110603,
-      "DevName": "Goliath_Decagram_Vulcan_C_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7840,7 +7616,6 @@
     },
     {
       "CharacterId": 7110753,
-      "DevName": "Boxcat_01_Terror_C_WEEK_Stage01_01",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7854,7 +7629,6 @@
     },
     {
       "CharacterId": 7110763,
-      "DevName": "Boxcat_01_Terror_C_WEEK_Stage01_02",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7868,7 +7642,6 @@
     },
     {
       "CharacterId": 7110773,
-      "DevName": "Boxcat_01_Terror_C_WEEK_Stage01_03",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7882,7 +7655,6 @@
     },
     {
       "CharacterId": 7110783,
-      "DevName": "Boxcat_01_Terror_C_WEEK_Stage01_04",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7896,7 +7668,6 @@
     },
     {
       "CharacterId": 7110793,
-      "DevName": "Boxcat_01_Terror_C_WEEK_Stage01_05",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7910,7 +7681,6 @@
     },
     {
       "CharacterId": 7110801,
-      "DevName": "Sweeper_Decagram_Taser_White_M_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7926,7 +7696,6 @@
     },
     {
       "CharacterId": 7110812,
-      "DevName": "Sweeper_Decagram_Taser_Yellow_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7942,7 +7711,6 @@
     },
     {
       "CharacterId": 7110822,
-      "DevName": "Sweeper_Decagram_Taser_Black_E_WEEK",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7958,7 +7726,6 @@
     },
     {
       "CharacterId": 7120003,
-      "DevName": "Boxcat_01_Terror_C_WEEK_01",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7972,7 +7739,6 @@
     },
     {
       "CharacterId": 7120013,
-      "DevName": "Boxcat_01_Terror_C_WEEK_02",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -7986,7 +7752,6 @@
     },
     {
       "CharacterId": 7120023,
-      "DevName": "Boxcat_01_Terror_C_WEEK_03",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8000,7 +7765,6 @@
     },
     {
       "CharacterId": 7120033,
-      "DevName": "Boxcat_01_Terror_C_WEEK_04",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8014,7 +7778,6 @@
     },
     {
       "CharacterId": 7120043,
-      "DevName": "Boxcat_01_Terror_C_WEEK_05",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8028,7 +7791,6 @@
     },
     {
       "CharacterId": 7120053,
-      "DevName": "Boxcat_01_Terror_C_WEEK_06",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8042,7 +7804,6 @@
     },
     {
       "CharacterId": 7120063,
-      "DevName": "Boxcat_01_Terror_C_WEEK_07",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8056,7 +7817,6 @@
     },
     {
       "CharacterId": 7120073,
-      "DevName": "Boxcat_01_Terror_C_WEEK_08",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8070,7 +7830,6 @@
     },
     {
       "CharacterId": 7120083,
-      "DevName": "Boxcat_01_Terror_C_WEEK_09",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8084,7 +7843,6 @@
     },
     {
       "CharacterId": 7120093,
-      "DevName": "Boxcat_01_Terror_C_WEEK_10",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8098,7 +7856,6 @@
     },
     {
       "CharacterId": 7199998,
-      "DevName": "Boxcat_01_Machine_C_WEEK_StartDummy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8112,7 +7869,6 @@
     },
     {
       "CharacterId": 7199999,
-      "DevName": "Boxcat_01_Terror_C_WEEK_StartDummy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8126,7 +7882,6 @@
     },
     {
       "CharacterId": 7300100,
-      "DevName": "Binah_default_VeryEasy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8146,7 +7901,6 @@
     },
     {
       "CharacterId": 7300200,
-      "DevName": "Binah_default_Easy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8166,7 +7920,6 @@
     },
     {
       "CharacterId": 7300300,
-      "DevName": "Binah_default_Normal",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8186,7 +7939,6 @@
     },
     {
       "CharacterId": 7300400,
-      "DevName": "Binah_default_Hard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8206,7 +7958,6 @@
     },
     {
       "CharacterId": 7300500,
-      "DevName": "Binah_default_VeryHard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8226,7 +7977,6 @@
     },
     {
       "CharacterId": 7300600,
-      "DevName": "Binah_default_Extreme",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8246,7 +7996,6 @@
     },
     {
       "CharacterId": 7301100,
-      "DevName": "Chesed_default_VeryEasy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8267,7 +8016,6 @@
     },
     {
       "CharacterId": 7301101,
-      "DevName": "ChesedDroid_Decagram_AR_VeryEasy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8285,7 +8033,6 @@
     },
     {
       "CharacterId": 7301101,
-      "DevName": "ChesedDroid_Decagram_AR_VeryEasy",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -8303,7 +8050,6 @@
     },
     {
       "CharacterId": 7301102,
-      "DevName": "ChesedDroid_Decagram_AR_Summon_VeryEasy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8323,7 +8069,6 @@
     },
     {
       "CharacterId": 7301102,
-      "DevName": "ChesedDroid_Decagram_AR_Summon_VeryEasy",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -8341,7 +8086,6 @@
     },
     {
       "CharacterId": 7301103,
-      "DevName": "ChesedDrone_Decagram_Missile_VeryEasy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8359,7 +8103,6 @@
     },
     {
       "CharacterId": 7301103,
-      "DevName": "ChesedDrone_Decagram_Missile_VeryEasy",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -8377,7 +8120,6 @@
     },
     {
       "CharacterId": 7301104,
-      "DevName": "ChesedDrone_Decagram_Missile_Summon_VeryEasy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8397,7 +8139,6 @@
     },
     {
       "CharacterId": 7301104,
-      "DevName": "ChesedDrone_Decagram_Missile_Summon_VeryEasy",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -8415,7 +8156,6 @@
     },
     {
       "CharacterId": 7301105,
-      "DevName": "ChesedDrone_Decagram_Vulcan_VeryEasy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8433,7 +8173,6 @@
     },
     {
       "CharacterId": 7301105,
-      "DevName": "ChesedDrone_Decagram_Vulcan_VeryEasy",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -8451,7 +8190,6 @@
     },
     {
       "CharacterId": 7301106,
-      "DevName": "ChesedDrone_Decagram_Vulcan_Summon_VeryEasy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8471,7 +8209,6 @@
     },
     {
       "CharacterId": 7301106,
-      "DevName": "ChesedDrone_Decagram_Vulcan_Summon_VeryEasy",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -8489,7 +8226,6 @@
     },
     {
       "CharacterId": 7301107,
-      "DevName": "ChesedGuardTower_Decagram_Grenade_VeryEasy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8505,7 +8241,6 @@
     },
     {
       "CharacterId": 7301108,
-      "DevName": "ChesedGuardTower_Decagram_Grenade_Summon_VeryEasy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8523,7 +8258,6 @@
     },
     {
       "CharacterId": 7301109,
-      "DevName": "ChesedGoliath_Decagram_Vulcan_VeryEasy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": true,
@@ -8543,7 +8277,6 @@
     },
     {
       "CharacterId": 7301110,
-      "DevName": "ChesedGoliath_Decagram_Vulcan_Summon_VeryEasy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": true,
@@ -8564,7 +8297,6 @@
     },
     {
       "CharacterId": 7301200,
-      "DevName": "Chesed_default_Easy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8585,7 +8317,6 @@
     },
     {
       "CharacterId": 7301201,
-      "DevName": "ChesedDroid_Decagram_AR_Easy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8603,7 +8334,6 @@
     },
     {
       "CharacterId": 7301201,
-      "DevName": "ChesedDroid_Decagram_AR_Easy",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -8621,7 +8351,6 @@
     },
     {
       "CharacterId": 7301202,
-      "DevName": "ChesedDroid_Decagram_AR_Summon_Easy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8641,7 +8370,6 @@
     },
     {
       "CharacterId": 7301202,
-      "DevName": "ChesedDroid_Decagram_AR_Summon_Easy",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -8659,7 +8387,6 @@
     },
     {
       "CharacterId": 7301203,
-      "DevName": "ChesedDrone_Decagram_Missile_Easy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8677,7 +8404,6 @@
     },
     {
       "CharacterId": 7301203,
-      "DevName": "ChesedDrone_Decagram_Missile_Easy",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -8695,7 +8421,6 @@
     },
     {
       "CharacterId": 7301204,
-      "DevName": "ChesedDrone_Decagram_Missile_Summon_Easy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8715,7 +8440,6 @@
     },
     {
       "CharacterId": 7301204,
-      "DevName": "ChesedDrone_Decagram_Missile_Summon_Easy",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -8733,7 +8457,6 @@
     },
     {
       "CharacterId": 7301205,
-      "DevName": "ChesedDrone_Decagram_Vulcan_Easy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8751,7 +8474,6 @@
     },
     {
       "CharacterId": 7301205,
-      "DevName": "ChesedDrone_Decagram_Vulcan_Easy",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -8769,7 +8491,6 @@
     },
     {
       "CharacterId": 7301206,
-      "DevName": "ChesedDrone_Decagram_Vulcan_Summon_Easy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8789,7 +8510,6 @@
     },
     {
       "CharacterId": 7301206,
-      "DevName": "ChesedDrone_Decagram_Vulcan_Summon_Easy",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -8807,7 +8527,6 @@
     },
     {
       "CharacterId": 7301207,
-      "DevName": "ChesedGuardTower_Decagram_Grenade_Easy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8823,7 +8542,6 @@
     },
     {
       "CharacterId": 7301208,
-      "DevName": "ChesedGuardTower_Decagram_Grenade_Summon_Easy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8841,7 +8559,6 @@
     },
     {
       "CharacterId": 7301209,
-      "DevName": "ChesedGoliath_Decagram_Vulcan_Easy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": true,
@@ -8861,7 +8578,6 @@
     },
     {
       "CharacterId": 7301210,
-      "DevName": "ChesedGoliath_Decagram_Vulcan_Summon_Easy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": true,
@@ -8882,7 +8598,6 @@
     },
     {
       "CharacterId": 7301300,
-      "DevName": "Chesed_default_Normal",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8903,7 +8618,6 @@
     },
     {
       "CharacterId": 7301301,
-      "DevName": "ChesedDroid_Decagram_AR_Normal",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8921,7 +8635,6 @@
     },
     {
       "CharacterId": 7301301,
-      "DevName": "ChesedDroid_Decagram_AR_Normal",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -8939,7 +8652,6 @@
     },
     {
       "CharacterId": 7301302,
-      "DevName": "ChesedDroid_Decagram_AR_Summon_Normal",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8959,7 +8671,6 @@
     },
     {
       "CharacterId": 7301302,
-      "DevName": "ChesedDroid_Decagram_AR_Summon_Normal",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -8977,7 +8688,6 @@
     },
     {
       "CharacterId": 7301303,
-      "DevName": "ChesedDrone_Decagram_Missile_Normal",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -8995,7 +8705,6 @@
     },
     {
       "CharacterId": 7301303,
-      "DevName": "ChesedDrone_Decagram_Missile_Normal",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -9013,7 +8722,6 @@
     },
     {
       "CharacterId": 7301304,
-      "DevName": "ChesedDrone_Decagram_Missile_Summon_Normal",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -9033,7 +8741,6 @@
     },
     {
       "CharacterId": 7301304,
-      "DevName": "ChesedDrone_Decagram_Missile_Summon_Normal",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -9051,7 +8758,6 @@
     },
     {
       "CharacterId": 7301305,
-      "DevName": "ChesedDrone_Decagram_Vulcan_Normal",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -9069,7 +8775,6 @@
     },
     {
       "CharacterId": 7301305,
-      "DevName": "ChesedDrone_Decagram_Vulcan_Normal",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -9087,7 +8792,6 @@
     },
     {
       "CharacterId": 7301306,
-      "DevName": "ChesedDrone_Decagram_Vulcan_Summon_Normal",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -9107,7 +8811,6 @@
     },
     {
       "CharacterId": 7301306,
-      "DevName": "ChesedDrone_Decagram_Vulcan_Summon_Normal",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -9125,7 +8828,6 @@
     },
     {
       "CharacterId": 7301307,
-      "DevName": "ChesedGuardTower_Decagram_Grenade_Normal",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -9141,7 +8843,6 @@
     },
     {
       "CharacterId": 7301308,
-      "DevName": "ChesedGuardTower_Decagram_Grenade_Summon_Normal",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -9159,7 +8860,6 @@
     },
     {
       "CharacterId": 7301309,
-      "DevName": "ChesedGoliath_Decagram_Vulcan_Normal",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": true,
@@ -9179,7 +8879,6 @@
     },
     {
       "CharacterId": 7301310,
-      "DevName": "ChesedGoliath_Decagram_Vulcan_Summon_Normal",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": true,
@@ -9200,7 +8899,6 @@
     },
     {
       "CharacterId": 7301400,
-      "DevName": "Chesed_default_Hard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -9221,7 +8919,6 @@
     },
     {
       "CharacterId": 7301401,
-      "DevName": "ChesedDroid_Decagram_AR_Hard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -9239,7 +8936,6 @@
     },
     {
       "CharacterId": 7301401,
-      "DevName": "ChesedDroid_Decagram_AR_Hard",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -9257,7 +8953,6 @@
     },
     {
       "CharacterId": 7301402,
-      "DevName": "ChesedDroid_Decagram_AR_Summon_Hard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -9277,7 +8972,6 @@
     },
     {
       "CharacterId": 7301402,
-      "DevName": "ChesedDroid_Decagram_AR_Summon_Hard",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -9295,7 +8989,6 @@
     },
     {
       "CharacterId": 7301403,
-      "DevName": "ChesedDrone_Decagram_Missile_Hard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -9313,7 +9006,6 @@
     },
     {
       "CharacterId": 7301403,
-      "DevName": "ChesedDrone_Decagram_Missile_Hard",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -9331,7 +9023,6 @@
     },
     {
       "CharacterId": 7301404,
-      "DevName": "ChesedDrone_Decagram_Missile_Summon_Hard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -9351,7 +9042,6 @@
     },
     {
       "CharacterId": 7301404,
-      "DevName": "ChesedDrone_Decagram_Missile_Summon_Hard",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -9369,7 +9059,6 @@
     },
     {
       "CharacterId": 7301405,
-      "DevName": "ChesedDrone_Decagram_Vulcan_Hard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -9387,7 +9076,6 @@
     },
     {
       "CharacterId": 7301405,
-      "DevName": "ChesedDrone_Decagram_Vulcan_Hard",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -9405,7 +9093,6 @@
     },
     {
       "CharacterId": 7301406,
-      "DevName": "ChesedDrone_Decagram_Vulcan_Summon_Hard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -9425,7 +9112,6 @@
     },
     {
       "CharacterId": 7301406,
-      "DevName": "ChesedDrone_Decagram_Vulcan_Summon_Hard",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -9443,7 +9129,6 @@
     },
     {
       "CharacterId": 7301407,
-      "DevName": "ChesedGuardTower_Decagram_Grenade_Hard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -9459,7 +9144,6 @@
     },
     {
       "CharacterId": 7301408,
-      "DevName": "ChesedGuardTower_Decagram_Grenade_Summon_Hard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -9477,7 +9161,6 @@
     },
     {
       "CharacterId": 7301409,
-      "DevName": "ChesedGoliath_Decagram_Vulcan_Hard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": true,
@@ -9497,7 +9180,6 @@
     },
     {
       "CharacterId": 7301410,
-      "DevName": "ChesedGoliath_Decagram_Vulcan_Summon_Hard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": true,
@@ -9518,7 +9200,6 @@
     },
     {
       "CharacterId": 7301500,
-      "DevName": "Chesed_default_VeryHard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -9539,7 +9220,6 @@
     },
     {
       "CharacterId": 7301501,
-      "DevName": "ChesedDroid_Decagram_AR_VeryHard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -9557,7 +9237,6 @@
     },
     {
       "CharacterId": 7301501,
-      "DevName": "ChesedDroid_Decagram_AR_VeryHard",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -9575,7 +9254,6 @@
     },
     {
       "CharacterId": 7301502,
-      "DevName": "ChesedDroid_Decagram_AR_Summon_VeryHard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -9595,7 +9273,6 @@
     },
     {
       "CharacterId": 7301502,
-      "DevName": "ChesedDroid_Decagram_AR_Summon_VeryHard",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -9613,7 +9290,6 @@
     },
     {
       "CharacterId": 7301503,
-      "DevName": "ChesedDrone_Decagram_Missile_VeryHard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -9631,7 +9307,6 @@
     },
     {
       "CharacterId": 7301503,
-      "DevName": "ChesedDrone_Decagram_Missile_VeryHard",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -9649,7 +9324,6 @@
     },
     {
       "CharacterId": 7301504,
-      "DevName": "ChesedDrone_Decagram_Missile_Summon_VeryHard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -9669,7 +9343,6 @@
     },
     {
       "CharacterId": 7301504,
-      "DevName": "ChesedDrone_Decagram_Missile_Summon_VeryHard",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -9687,7 +9360,6 @@
     },
     {
       "CharacterId": 7301505,
-      "DevName": "ChesedDrone_Decagram_Vulcan_VeryHard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -9705,7 +9377,6 @@
     },
     {
       "CharacterId": 7301505,
-      "DevName": "ChesedDrone_Decagram_Vulcan_VeryHard",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -9723,7 +9394,6 @@
     },
     {
       "CharacterId": 7301506,
-      "DevName": "ChesedDrone_Decagram_Vulcan_Summon_VeryHard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -9743,7 +9413,6 @@
     },
     {
       "CharacterId": 7301506,
-      "DevName": "ChesedDrone_Decagram_Vulcan_Summon_VeryHard",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -9761,7 +9430,6 @@
     },
     {
       "CharacterId": 7301507,
-      "DevName": "ChesedGuardTower_Decagram_Grenade_VeryHard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -9777,7 +9445,6 @@
     },
     {
       "CharacterId": 7301508,
-      "DevName": "ChesedGuardTower_Decagram_Grenade_Summon_VeryHard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -9795,7 +9462,6 @@
     },
     {
       "CharacterId": 7301509,
-      "DevName": "ChesedGoliath_Decagram_Vulcan_VeryHard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": true,
@@ -9815,7 +9481,6 @@
     },
     {
       "CharacterId": 7301510,
-      "DevName": "ChesedGoliath_Decagram_Vulcan_Summon_VeryHard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": true,
@@ -9836,7 +9501,6 @@
     },
     {
       "CharacterId": 7301601,
-      "DevName": "ChesedDroid_Decagram_AR_Extreme",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -9854,7 +9518,6 @@
     },
     {
       "CharacterId": 7301601,
-      "DevName": "ChesedDroid_Decagram_AR_Extreme",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -9872,7 +9535,6 @@
     },
     {
       "CharacterId": 7301602,
-      "DevName": "ChesedDroid_Decagram_AR_Summon_Extreme",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -9892,7 +9554,6 @@
     },
     {
       "CharacterId": 7301602,
-      "DevName": "ChesedDroid_Decagram_AR_Summon_Extreme",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -9910,7 +9571,6 @@
     },
     {
       "CharacterId": 7301603,
-      "DevName": "ChesedDrone_Decagram_Missile_Extreme",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -9928,7 +9588,6 @@
     },
     {
       "CharacterId": 7301603,
-      "DevName": "ChesedDrone_Decagram_Missile_Extreme",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -9946,7 +9605,6 @@
     },
     {
       "CharacterId": 7301604,
-      "DevName": "ChesedDrone_Decagram_Missile_Summon_Extreme",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -9966,7 +9624,6 @@
     },
     {
       "CharacterId": 7301604,
-      "DevName": "ChesedDrone_Decagram_Missile_Summon_Extreme",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -9984,7 +9641,6 @@
     },
     {
       "CharacterId": 7301605,
-      "DevName": "ChesedDrone_Decagram_Vulcan_Extreme",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10002,7 +9658,6 @@
     },
     {
       "CharacterId": 7301605,
-      "DevName": "ChesedDrone_Decagram_Vulcan_Extreme",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -10020,7 +9675,6 @@
     },
     {
       "CharacterId": 7301606,
-      "DevName": "ChesedDrone_Decagram_Vulcan_Summon_Extreme",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10040,7 +9694,6 @@
     },
     {
       "CharacterId": 7301606,
-      "DevName": "ChesedDrone_Decagram_Vulcan_Summon_Extreme",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -10058,7 +9711,6 @@
     },
     {
       "CharacterId": 7301607,
-      "DevName": "ChesedGuardTower_Decagram_Grenade_Extreme",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10074,7 +9726,6 @@
     },
     {
       "CharacterId": 7301608,
-      "DevName": "ChesedGuardTower_Decagram_Grenade_Summon_Extreme",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10092,7 +9743,6 @@
     },
     {
       "CharacterId": 7301609,
-      "DevName": "ChesedGoliath_Decagram_Vulcan_Extreme",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": true,
@@ -10112,7 +9762,6 @@
     },
     {
       "CharacterId": 7301610,
-      "DevName": "ChesedGoliath_Decagram_Vulcan_Summon_Extreme",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": true,
@@ -10133,7 +9782,6 @@
     },
     {
       "CharacterId": 7302100,
-      "DevName": "Shiro_default_VeryEasy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10156,7 +9804,6 @@
     },
     {
       "CharacterId": 7302101,
-      "DevName": "Kuro_default_VeryEasy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10182,7 +9829,6 @@
     },
     {
       "CharacterId": 7302102,
-      "DevName": "ShiroKuro_default_VeryEasy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10201,7 +9847,6 @@
     },
     {
       "CharacterId": 7302200,
-      "DevName": "Shiro_default_Easy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10224,7 +9869,6 @@
     },
     {
       "CharacterId": 7302201,
-      "DevName": "Kuro_default_Easy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10250,7 +9894,6 @@
     },
     {
       "CharacterId": 7302202,
-      "DevName": "ShiroKuro_default_Easy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10269,7 +9912,6 @@
     },
     {
       "CharacterId": 7302300,
-      "DevName": "Shiro_default_Normal",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10292,7 +9934,6 @@
     },
     {
       "CharacterId": 7302301,
-      "DevName": "Kuro_default_Normal",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10318,7 +9959,6 @@
     },
     {
       "CharacterId": 7302302,
-      "DevName": "ShiroKuro_default_Normal",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10337,7 +9977,6 @@
     },
     {
       "CharacterId": 7302400,
-      "DevName": "Shiro_default_Hard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10360,7 +9999,6 @@
     },
     {
       "CharacterId": 7302401,
-      "DevName": "Kuro_default_Hard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10386,7 +10024,6 @@
     },
     {
       "CharacterId": 7302402,
-      "DevName": "ShiroKuro_default_Hard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10405,7 +10042,6 @@
     },
     {
       "CharacterId": 7302500,
-      "DevName": "Shiro_default_VeryHard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10428,7 +10064,6 @@
     },
     {
       "CharacterId": 7302501,
-      "DevName": "Kuro_default_VeryHard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10454,7 +10089,6 @@
     },
     {
       "CharacterId": 7302502,
-      "DevName": "ShiroKuro_default_VeryHard",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10473,7 +10107,6 @@
     },
     {
       "CharacterId": 7303100,
-      "DevName": "Hieronymus_default_VeryEasy",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10484,7 +10117,8 @@
       "ExSkillGroupId": [
         "HieronymusEx01",
         "HieronymusEx02",
-        "HieronymusEx03"
+        "HieronymusEx03",
+        "HieronymusEx04"
       ],
       "PublicSkillGroupId": [],
       "PassiveSkillGroupId": [
@@ -10494,8 +10128,220 @@
       "ExtraPassiveSkillGroupId": []
     },
     {
+      "CharacterId": 7304100,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [],
+      "ExSkillGroupId": [],
+      "PublicSkillGroupId": [
+        "HieronymusRelicPublic01",
+        "HieronymusRelicPublic02"
+      ],
+      "PassiveSkillGroupId": [
+        "HieronymusRelicPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7400100,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "BinahNormalSkill01"
+      ],
+      "ExSkillGroupId": [
+        "BinahExSkill01",
+        "BinahExSkill02",
+        "BinahExSkill03"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7400200,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "BinahNormalSkill01"
+      ],
+      "ExSkillGroupId": [
+        "BinahExSkill01",
+        "BinahExSkill02",
+        "BinahExSkill03"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7400300,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "BinahNormalSkill01"
+      ],
+      "ExSkillGroupId": [
+        "BinahExSkill01",
+        "BinahExSkill02",
+        "BinahExSkill03"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7400400,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "BinahNormalSkill01"
+      ],
+      "ExSkillGroupId": [
+        "BinahExSkill01",
+        "BinahExSkill02",
+        "BinahExSkill03"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7400500,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "BinahNormalSkill01"
+      ],
+      "ExSkillGroupId": [
+        "BinahExSkill01",
+        "BinahExSkill02",
+        "BinahExSkill03"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7401100,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [],
+      "ExSkillGroupId": [
+        "ChesedExSkill01_VeryEasy",
+        "ChesedExSkill02",
+        "ChesedExSkill03"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [
+        "ChesedPassive01",
+        "ChesedPassive02"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7401200,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [],
+      "ExSkillGroupId": [
+        "ChesedExSkill01_Easy",
+        "ChesedExSkill02",
+        "ChesedExSkill03"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [
+        "ChesedPassive01",
+        "ChesedPassive02"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7401300,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [],
+      "ExSkillGroupId": [
+        "ChesedExSkill01_Normal",
+        "ChesedExSkill02",
+        "ChesedExSkill03"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [
+        "ChesedPassive01",
+        "ChesedPassive02"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7401400,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [],
+      "ExSkillGroupId": [
+        "ChesedExSkill01_Hard",
+        "ChesedExSkill02",
+        "ChesedExSkill03"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [
+        "ChesedPassive01",
+        "ChesedPassive02"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7401500,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [],
+      "ExSkillGroupId": [
+        "ChesedExSkill01_VeryHard",
+        "ChesedExSkill02",
+        "ChesedExSkill03"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [
+        "ChesedPassive01",
+        "ChesedPassive02"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
       "CharacterId": 7900001,
-      "DevName": "SchoolGirl_Sukeban_SMG_M_TUTORIAL",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10511,7 +10357,6 @@
     },
     {
       "CharacterId": 7900011,
-      "DevName": "SchoolGirl_Sukeban_MG_M_TUTORIAL",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10527,7 +10372,6 @@
     },
     {
       "CharacterId": 7900022,
-      "DevName": "SchoolGirl_Sukeban_SR_E_TUTORIAL",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10544,7 +10388,6 @@
     },
     {
       "CharacterId": 7900022,
-      "DevName": "SchoolGirl_Sukeban_SR_E_TUTORIAL",
       "IsCharacterWeapon": false,
       "IsFormConversion": true,
       "IsRootMotion": false,
@@ -10561,7 +10404,6 @@
     },
     {
       "CharacterId": 7900101,
-      "DevName": "Soldier_Helmet_SG_M_TUTORIAL",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10577,7 +10419,6 @@
     },
     {
       "CharacterId": 7900112,
-      "DevName": "Soldier_Helmet_AR_E_TUTORIAL",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10593,7 +10434,6 @@
     },
     {
       "CharacterId": 7900212,
-      "DevName": "Soldier_RedHelmet_AR_E_TUTORIAL",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10610,7 +10450,6 @@
     },
     {
       "CharacterId": 7900213,
-      "DevName": "Soldier_RedHelmet_AR_C_TUTORIAL",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10627,7 +10466,6 @@
     },
     {
       "CharacterId": 7900401,
-      "DevName": "Soldier_YohekiPink_AR_M_TUTORIAL",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10643,7 +10481,6 @@
     },
     {
       "CharacterId": 7900412,
-      "DevName": "Soldier_YohekiPink_SMG_E_TUTORIAL",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10659,7 +10496,6 @@
     },
     {
       "CharacterId": 7900501,
-      "DevName": "Soldier_Blackmarket_SG_M_TUTORIAL",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10675,7 +10511,6 @@
     },
     {
       "CharacterId": 7900523,
-      "DevName": "Soldier_Blackmarket_SR_C_TUTORIAL",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10692,7 +10527,6 @@
     },
     {
       "CharacterId": 7910122,
-      "DevName": "Droid_Blackmarket_RL_E_TUTORIAL",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10709,7 +10543,6 @@
     },
     {
       "CharacterId": 7910123,
-      "DevName": "Droid_Blackmarket_RL_C_TUTORIAL",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10726,7 +10559,6 @@
     },
     {
       "CharacterId": 7910543,
-      "DevName": "HeavyTank_Kaiserpmc_Cannon_C_TUTORIAL",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10745,7 +10577,6 @@
     },
     {
       "CharacterId": 7910613,
-      "DevName": "EnemyTSS_Crusader_PMC_C_TUTORIAL",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10760,8 +10591,52 @@
       "ExtraPassiveSkillGroupId": []
     },
     {
+      "CharacterId": 7919901,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "SweeperDecagramTaserWhiteNormalSkill01"
+      ],
+      "ExSkillGroupId": [],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7919912,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "SweeperDecagramTaserYellowNormalSkill01"
+      ],
+      "ExSkillGroupId": [],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7919922,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "SweeperDecagramTaserBlackNormalSkill01"
+      ],
+      "ExSkillGroupId": [],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
       "CharacterId": 7920013,
-      "DevName": "Terror_Nun_Yustina_AR_C_TUTORIAL",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,
@@ -10778,7 +10653,6 @@
     },
     {
       "CharacterId": 7920102,
-      "DevName": "Terror_GasMask_Arius_SMG_E_TUTORIAL",
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
       "IsRootMotion": false,

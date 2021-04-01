@@ -3,10 +3,8 @@
     {
       "Id": 1000,
       "LocalizeEtcId": 1134999888,
-      "DevName": "Equipment_0",
       "IsLegacy": false,
       "GoodsId": 1002,
-      "GoodsDevName": null,
       "DisplayOrder": 5,
       "CategoryType": "General",
       "RefreshGroup": 5,
@@ -15,10 +13,8 @@
     {
       "Id": 1001,
       "LocalizeEtcId": 3433802547,
-      "DevName": "Equipment_1",
       "IsLegacy": false,
       "GoodsId": 1003,
-      "GoodsDevName": null,
       "DisplayOrder": 6,
       "CategoryType": "General",
       "RefreshGroup": 6,
@@ -27,10 +23,8 @@
     {
       "Id": 1002,
       "LocalizeEtcId": 1229651923,
-      "DevName": "Equipment_2",
       "IsLegacy": false,
       "GoodsId": 1004,
-      "GoodsDevName": null,
       "DisplayOrder": 7,
       "CategoryType": "General",
       "RefreshGroup": 7,
@@ -39,10 +33,8 @@
     {
       "Id": 1003,
       "LocalizeEtcId": 3562945394,
-      "DevName": "Item_2",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": 1026,
-      "GoodsDevName": null,
       "DisplayOrder": 8,
       "CategoryType": "General",
       "RefreshGroup": 8,
@@ -51,11 +43,9 @@
     {
       "Id": 1004,
       "LocalizeEtcId": 3541905306,
-      "DevName": "Material_Nebra_0",
       "IsLegacy": false,
       "GoodsId": 1006,
-      "GoodsDevName": null,
-      "DisplayOrder": 10,
+      "DisplayOrder": 14,
       "CategoryType": "General",
       "RefreshGroup": 9,
       "Prob": 50
@@ -63,11 +53,9 @@
     {
       "Id": 1005,
       "LocalizeEtcId": 1851017565,
-      "DevName": "Material_Phaistos_0",
       "IsLegacy": false,
       "GoodsId": 1007,
-      "GoodsDevName": null,
-      "DisplayOrder": 11,
+      "DisplayOrder": 20,
       "CategoryType": "General",
       "RefreshGroup": 9,
       "Prob": 50
@@ -75,11 +63,9 @@
     {
       "Id": 1006,
       "LocalizeEtcId": 890047783,
-      "DevName": "Material_Wolfsegg_0",
       "IsLegacy": false,
       "GoodsId": 1008,
-      "GoodsDevName": null,
-      "DisplayOrder": 12,
+      "DisplayOrder": 21,
       "CategoryType": "General",
       "RefreshGroup": 9,
       "Prob": 50
@@ -87,11 +73,9 @@
     {
       "Id": 1007,
       "LocalizeEtcId": 428637820,
-      "DevName": "Material_Nimrud_0",
       "IsLegacy": false,
       "GoodsId": 1009,
-      "GoodsDevName": null,
-      "DisplayOrder": 13,
+      "DisplayOrder": 22,
       "CategoryType": "General",
       "RefreshGroup": 9,
       "Prob": 50
@@ -99,11 +83,9 @@
     {
       "Id": 1008,
       "LocalizeEtcId": 4008312686,
-      "DevName": "Material_Mandragora_0",
       "IsLegacy": false,
       "GoodsId": 1010,
-      "GoodsDevName": null,
-      "DisplayOrder": 14,
+      "DisplayOrder": 23,
       "CategoryType": "General",
       "RefreshGroup": 9,
       "Prob": 50
@@ -111,11 +93,9 @@
     {
       "Id": 1009,
       "LocalizeEtcId": 1929578153,
-      "DevName": "Material_Rohonc_0",
       "IsLegacy": false,
       "GoodsId": 1011,
-      "GoodsDevName": null,
-      "DisplayOrder": 20,
+      "DisplayOrder": 24,
       "CategoryType": "General",
       "RefreshGroup": 10,
       "Prob": 50
@@ -123,11 +103,9 @@
     {
       "Id": 1010,
       "LocalizeEtcId": 1059601629,
-      "DevName": "Material_Ether_0",
       "IsLegacy": false,
       "GoodsId": 1012,
-      "GoodsDevName": null,
-      "DisplayOrder": 21,
+      "DisplayOrder": 30,
       "CategoryType": "General",
       "RefreshGroup": 10,
       "Prob": 50
@@ -135,11 +113,9 @@
     {
       "Id": 1011,
       "LocalizeEtcId": 1770235474,
-      "DevName": "Material_Antikythera_0",
       "IsLegacy": false,
       "GoodsId": 1013,
-      "GoodsDevName": null,
-      "DisplayOrder": 22,
+      "DisplayOrder": 31,
       "CategoryType": "General",
       "RefreshGroup": 10,
       "Prob": 50
@@ -147,11 +123,9 @@
     {
       "Id": 1012,
       "LocalizeEtcId": 1066886482,
-      "DevName": "Material_Voynich_0",
       "IsLegacy": false,
       "GoodsId": 1014,
-      "GoodsDevName": null,
-      "DisplayOrder": 23,
+      "DisplayOrder": 32,
       "CategoryType": "General",
       "RefreshGroup": 10,
       "Prob": 50
@@ -159,11 +133,9 @@
     {
       "Id": 1013,
       "LocalizeEtcId": 4282203720,
-      "DevName": "Material_CrystalHaniwa_0",
       "IsLegacy": false,
       "GoodsId": 1015,
-      "GoodsDevName": null,
-      "DisplayOrder": 24,
+      "DisplayOrder": 33,
       "CategoryType": "General",
       "RefreshGroup": 10,
       "Prob": 15
@@ -171,11 +143,9 @@
     {
       "Id": 1014,
       "LocalizeEtcId": 2136120808,
-      "DevName": "Material_Nebra_1",
       "IsLegacy": false,
       "GoodsId": 1016,
-      "GoodsDevName": null,
-      "DisplayOrder": 30,
+      "DisplayOrder": 34,
       "CategoryType": "General",
       "RefreshGroup": 11,
       "Prob": 50
@@ -183,11 +153,9 @@
     {
       "Id": 1015,
       "LocalizeEtcId": 2924463254,
-      "DevName": "Material_Phaistos_1",
       "IsLegacy": false,
       "GoodsId": 1017,
-      "GoodsDevName": null,
-      "DisplayOrder": 31,
+      "DisplayOrder": 40,
       "CategoryType": "General",
       "RefreshGroup": 11,
       "Prob": 50
@@ -195,11 +163,9 @@
     {
       "Id": 1016,
       "LocalizeEtcId": 2160888131,
-      "DevName": "Material_Wolfsegg_1",
       "IsLegacy": false,
       "GoodsId": 1018,
-      "GoodsDevName": null,
-      "DisplayOrder": 32,
+      "DisplayOrder": 41,
       "CategoryType": "General",
       "RefreshGroup": 11,
       "Prob": 50
@@ -207,11 +173,9 @@
     {
       "Id": 1017,
       "LocalizeEtcId": 1195979536,
-      "DevName": "Material_Nimrud_1",
       "IsLegacy": false,
       "GoodsId": 1019,
-      "GoodsDevName": null,
-      "DisplayOrder": 33,
+      "DisplayOrder": 42,
       "CategoryType": "General",
       "RefreshGroup": 11,
       "Prob": 50
@@ -219,11 +183,9 @@
     {
       "Id": 1018,
       "LocalizeEtcId": 2742210412,
-      "DevName": "Material_Mandragora_1",
       "IsLegacy": false,
       "GoodsId": 1020,
-      "GoodsDevName": null,
-      "DisplayOrder": 34,
+      "DisplayOrder": 43,
       "CategoryType": "General",
       "RefreshGroup": 11,
       "Prob": 50
@@ -231,11 +193,9 @@
     {
       "Id": 1019,
       "LocalizeEtcId": 782923374,
-      "DevName": "Material_Rohonc_1",
       "IsLegacy": false,
       "GoodsId": 1021,
-      "GoodsDevName": null,
-      "DisplayOrder": 40,
+      "DisplayOrder": 44,
       "CategoryType": "General",
       "RefreshGroup": 12,
       "Prob": 50
@@ -243,11 +203,9 @@
     {
       "Id": 1020,
       "LocalizeEtcId": 2792603792,
-      "DevName": "Material_Ether_1",
       "IsLegacy": false,
       "GoodsId": 1022,
-      "GoodsDevName": null,
-      "DisplayOrder": 41,
+      "DisplayOrder": 45,
       "CategoryType": "General",
       "RefreshGroup": 12,
       "Prob": 50
@@ -255,11 +213,9 @@
     {
       "Id": 1021,
       "LocalizeEtcId": 2335488326,
-      "DevName": "Material_Antikythera_1",
       "IsLegacy": false,
       "GoodsId": 1023,
-      "GoodsDevName": null,
-      "DisplayOrder": 42,
+      "DisplayOrder": 46,
       "CategoryType": "General",
       "RefreshGroup": 12,
       "Prob": 50
@@ -267,11 +223,9 @@
     {
       "Id": 1022,
       "LocalizeEtcId": 4263181528,
-      "DevName": "Material_Voynich_1",
       "IsLegacy": false,
       "GoodsId": 1024,
-      "GoodsDevName": null,
-      "DisplayOrder": 43,
+      "DisplayOrder": 47,
       "CategoryType": "General",
       "RefreshGroup": 12,
       "Prob": 50
@@ -279,11 +233,9 @@
     {
       "Id": 1023,
       "LocalizeEtcId": 1767055059,
-      "DevName": "Material_CrystalHaniwa_1",
       "IsLegacy": false,
       "GoodsId": 1025,
-      "GoodsDevName": null,
-      "DisplayOrder": 44,
+      "DisplayOrder": 48,
       "CategoryType": "General",
       "RefreshGroup": 12,
       "Prob": 15
@@ -291,10 +243,8 @@
     {
       "Id": 1024,
       "LocalizeEtcId": 688612979,
-      "DevName": "WeekDungeonChaserATicket",
       "IsLegacy": false,
       "GoodsId": 1027,
-      "GoodsDevName": null,
       "DisplayOrder": 1,
       "CategoryType": "General",
       "RefreshGroup": 1,
@@ -303,10 +253,8 @@
     {
       "Id": 1025,
       "LocalizeEtcId": 2418907277,
-      "DevName": "WeekDungeonChaserBTicket",
       "IsLegacy": false,
       "GoodsId": 1028,
-      "GoodsDevName": null,
       "DisplayOrder": 2,
       "CategoryType": "General",
       "RefreshGroup": 2,
@@ -315,10 +263,8 @@
     {
       "Id": 1026,
       "LocalizeEtcId": 2956594134,
-      "DevName": "WeekDungeonChaserCTicket",
       "IsLegacy": false,
       "GoodsId": 1029,
-      "GoodsDevName": null,
       "DisplayOrder": 3,
       "CategoryType": "General",
       "RefreshGroup": 3,
@@ -327,22 +273,68 @@
     {
       "Id": 1027,
       "LocalizeEtcId": 3625248016,
-      "DevName": "AcademyTicket",
       "IsLegacy": false,
       "GoodsId": 1030,
-      "GoodsDevName": null,
       "DisplayOrder": 4,
       "CategoryType": "General",
       "RefreshGroup": 4,
       "Prob": 50
     },
     {
+      "Id": 1028,
+      "LocalizeEtcId": 1134999888,
+      "IsLegacy": false,
+      "GoodsId": 1031,
+      "DisplayOrder": 10,
+      "CategoryType": "General",
+      "RefreshGroup": 13,
+      "Prob": 50
+    },
+    {
+      "Id": 1029,
+      "LocalizeEtcId": 3433802547,
+      "IsLegacy": false,
+      "GoodsId": 1032,
+      "DisplayOrder": 11,
+      "CategoryType": "General",
+      "RefreshGroup": 14,
+      "Prob": 50
+    },
+    {
+      "Id": 1030,
+      "LocalizeEtcId": 1229651923,
+      "IsLegacy": false,
+      "GoodsId": 1033,
+      "DisplayOrder": 12,
+      "CategoryType": "General",
+      "RefreshGroup": 15,
+      "Prob": 50
+    },
+    {
+      "Id": 1031,
+      "LocalizeEtcId": 596368071,
+      "IsLegacy": false,
+      "GoodsId": 1034,
+      "DisplayOrder": 13,
+      "CategoryType": "General",
+      "RefreshGroup": 16,
+      "Prob": 50
+    },
+    {
+      "Id": 1032,
+      "LocalizeEtcId": 596368071,
+      "IsLegacy": false,
+      "GoodsId": 1005,
+      "DisplayOrder": 9,
+      "CategoryType": "General",
+      "RefreshGroup": 17,
+      "Prob": 50
+    },
+    {
       "Id": 3000,
       "LocalizeEtcId": 2385765972,
-      "DevName": "AP_Buy",
       "IsLegacy": false,
       "GoodsId": 3100,
-      "GoodsDevName": null,
       "DisplayOrder": 30,
       "CategoryType": "Arena",
       "RefreshGroup": 1,
@@ -351,10 +343,8 @@
     {
       "Id": 3001,
       "LocalizeEtcId": 2075834651,
-      "DevName": "AP_Buy",
       "IsLegacy": false,
       "GoodsId": 3101,
-      "GoodsDevName": null,
       "DisplayOrder": 40,
       "CategoryType": "Arena",
       "RefreshGroup": 2,
@@ -363,10 +353,8 @@
     {
       "Id": 3002,
       "LocalizeEtcId": 525535910,
-      "DevName": "Gold",
       "IsLegacy": false,
       "GoodsId": 3110,
-      "GoodsDevName": null,
       "DisplayOrder": 130,
       "CategoryType": "Arena",
       "RefreshGroup": 3,
@@ -375,10 +363,8 @@
     {
       "Id": 3003,
       "LocalizeEtcId": 4037036202,
-      "DevName": "Gold",
       "IsLegacy": false,
       "GoodsId": 3111,
-      "GoodsDevName": null,
       "DisplayOrder": 140,
       "CategoryType": "Arena",
       "RefreshGroup": 4,
@@ -387,10 +373,8 @@
     {
       "Id": 3004,
       "LocalizeEtcId": 2928756764,
-      "DevName": "Gold",
       "IsLegacy": false,
       "GoodsId": 3112,
-      "GoodsDevName": null,
       "DisplayOrder": 150,
       "CategoryType": "Arena",
       "RefreshGroup": 5,
@@ -399,10 +383,8 @@
     {
       "Id": 3005,
       "LocalizeEtcId": 2950679405,
-      "DevName": "Gold",
       "IsLegacy": false,
       "GoodsId": 3113,
-      "GoodsDevName": null,
       "DisplayOrder": 160,
       "CategoryType": "Arena",
       "RefreshGroup": 6,
@@ -411,10 +393,8 @@
     {
       "Id": 3006,
       "LocalizeEtcId": 1688668283,
-      "DevName": "ExpItem_0",
       "IsLegacy": false,
       "GoodsId": 3120,
-      "GoodsDevName": null,
       "DisplayOrder": 50,
       "CategoryType": "Arena",
       "RefreshGroup": 7,
@@ -423,10 +403,8 @@
     {
       "Id": 3007,
       "LocalizeEtcId": 2952503379,
-      "DevName": "ExpItem_1",
       "IsLegacy": false,
       "GoodsId": 3121,
-      "GoodsDevName": null,
       "DisplayOrder": 60,
       "CategoryType": "Arena",
       "RefreshGroup": 8,
@@ -435,10 +413,8 @@
     {
       "Id": 3008,
       "LocalizeEtcId": 2949797158,
-      "DevName": "ExpItem_2",
       "IsLegacy": false,
       "GoodsId": 3122,
-      "GoodsDevName": null,
       "DisplayOrder": 70,
       "CategoryType": "Arena",
       "RefreshGroup": 9,
@@ -447,10 +423,8 @@
     {
       "Id": 3009,
       "LocalizeEtcId": 2795379965,
-      "DevName": "ExpItem_3",
       "IsLegacy": false,
       "GoodsId": 3123,
-      "GoodsDevName": null,
       "DisplayOrder": 80,
       "CategoryType": "Arena",
       "RefreshGroup": 10,
@@ -459,10 +433,8 @@
     {
       "Id": 3010,
       "LocalizeEtcId": 1199243145,
-      "DevName": "전술대회_Saya",
       "IsLegacy": false,
       "GoodsId": 3000,
-      "GoodsDevName": null,
       "DisplayOrder": 10,
       "CategoryType": "Arena",
       "RefreshGroup": 15,
@@ -471,10 +443,8 @@
     {
       "Id": 3011,
       "LocalizeEtcId": 1994063468,
-      "DevName": "전술대회_Fuuka",
       "IsLegacy": false,
       "GoodsId": 3001,
-      "GoodsDevName": null,
       "DisplayOrder": 20,
       "CategoryType": "Arena",
       "RefreshGroup": 16,

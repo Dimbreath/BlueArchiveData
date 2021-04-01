@@ -523,14 +523,16 @@
       "VolumeId": 1,
       "ChapterId": 2,
       "EpisodeId": 1,
-      "Hide": true,
-      "Open": false,
+      "Hide": false,
+      "Open": true,
       "FrontScenarioGroupId": [
         12010
       ],
       "GroundId": 400010201,
       "BattleDuration": 180000,
-      "BackScenarioGroupId": [],
+      "BackScenarioGroupId": [
+        12015
+      ],
       "ClearedModeId": 11200,
       "AccountLevelLimit": 0,
       "ClearedStageId": 0,
@@ -548,8 +550,8 @@
       "VolumeId": 1,
       "ChapterId": 2,
       "EpisodeId": 2,
-      "Hide": true,
-      "Open": false,
+      "Hide": false,
+      "Open": true,
       "FrontScenarioGroupId": [
         12020
       ],
@@ -558,7 +560,7 @@
       "BackScenarioGroupId": [],
       "ClearedModeId": 12010,
       "AccountLevelLimit": 0,
-      "ClearedStageId": 0,
+      "ClearedStageId": 1061102,
       "NeedClub": "None",
       "NeedClubStudentCount": 0,
       "NeedTSS": 0,
@@ -573,8 +575,8 @@
       "VolumeId": 1,
       "ChapterId": 2,
       "EpisodeId": 3,
-      "Hide": true,
-      "Open": false,
+      "Hide": false,
+      "Open": true,
       "FrontScenarioGroupId": [
         12030
       ],
@@ -598,8 +600,8 @@
       "VolumeId": 1,
       "ChapterId": 2,
       "EpisodeId": 4,
-      "Hide": true,
-      "Open": false,
+      "Hide": false,
+      "Open": true,
       "FrontScenarioGroupId": [
         12040
       ],
@@ -608,7 +610,7 @@
       "BackScenarioGroupId": [],
       "ClearedModeId": 12030,
       "AccountLevelLimit": 0,
-      "ClearedStageId": 0,
+      "ClearedStageId": 1061104,
       "NeedClub": "None",
       "NeedClubStudentCount": 0,
       "NeedTSS": 0,
@@ -623,8 +625,8 @@
       "VolumeId": 1,
       "ChapterId": 2,
       "EpisodeId": 5,
-      "Hide": true,
-      "Open": false,
+      "Hide": false,
+      "Open": true,
       "FrontScenarioGroupId": [
         12050
       ],
@@ -648,21 +650,23 @@
       "VolumeId": 1,
       "ChapterId": 2,
       "EpisodeId": 6,
-      "Hide": true,
-      "Open": false,
+      "Hide": false,
+      "Open": true,
       "FrontScenarioGroupId": [
         12060
       ],
       "GroundId": 400010206,
       "BattleDuration": 180000,
-      "BackScenarioGroupId": [],
+      "BackScenarioGroupId": [
+        12065
+      ],
       "ClearedModeId": 12050,
       "AccountLevelLimit": 0,
-      "ClearedStageId": 0,
+      "ClearedStageId": 1071102,
       "NeedClub": "None",
       "NeedClubStudentCount": 0,
       "NeedTSS": 0,
-      "StageTopography": "Street",
+      "StageTopography": "Outdoor",
       "FixedEchelonId": 400010206,
       "CompleteReportEventName": null
     },
@@ -673,21 +677,23 @@
       "VolumeId": 1,
       "ChapterId": 2,
       "EpisodeId": 7,
-      "Hide": true,
-      "Open": false,
+      "Hide": false,
+      "Open": true,
       "FrontScenarioGroupId": [
         12070
       ],
       "GroundId": 400010207,
       "BattleDuration": 180000,
-      "BackScenarioGroupId": [],
+      "BackScenarioGroupId": [
+        12075
+      ],
       "ClearedModeId": 12060,
       "AccountLevelLimit": 0,
       "ClearedStageId": 0,
       "NeedClub": "None",
       "NeedClubStudentCount": 0,
       "NeedTSS": 0,
-      "StageTopography": "Street",
+      "StageTopography": "Outdoor",
       "FixedEchelonId": 400010207,
       "CompleteReportEventName": null
     },
@@ -698,21 +704,23 @@
       "VolumeId": 1,
       "ChapterId": 2,
       "EpisodeId": 8,
-      "Hide": true,
-      "Open": false,
+      "Hide": false,
+      "Open": true,
       "FrontScenarioGroupId": [
         12080
       ],
       "GroundId": 400010208,
       "BattleDuration": 180000,
-      "BackScenarioGroupId": [],
+      "BackScenarioGroupId": [
+        12085
+      ],
       "ClearedModeId": 12070,
       "AccountLevelLimit": 0,
-      "ClearedStageId": 0,
+      "ClearedStageId": 1071104,
       "NeedClub": "None",
       "NeedClubStudentCount": 0,
       "NeedTSS": 0,
-      "StageTopography": "Street",
+      "StageTopography": "Outdoor",
       "FixedEchelonId": 400010208,
       "CompleteReportEventName": null
     },
@@ -723,21 +731,23 @@
       "VolumeId": 1,
       "ChapterId": 2,
       "EpisodeId": 9,
-      "Hide": true,
-      "Open": false,
+      "Hide": false,
+      "Open": true,
       "FrontScenarioGroupId": [
         12090
       ],
       "GroundId": 400010209,
       "BattleDuration": 180000,
-      "BackScenarioGroupId": [],
+      "BackScenarioGroupId": [
+        12095
+      ],
       "ClearedModeId": 12080,
       "AccountLevelLimit": 0,
       "ClearedStageId": 0,
       "NeedClub": "None",
       "NeedClubStudentCount": 0,
       "NeedTSS": 0,
-      "StageTopography": "Street",
+      "StageTopography": "Outdoor",
       "FixedEchelonId": 400010209,
       "CompleteReportEventName": null
     },
@@ -748,8 +758,8 @@
       "VolumeId": 1,
       "ChapterId": 2,
       "EpisodeId": 10,
-      "Hide": true,
-      "Open": false,
+      "Hide": false,
+      "Open": true,
       "FrontScenarioGroupId": [
         12100
       ],
@@ -758,7 +768,7 @@
       "BackScenarioGroupId": [],
       "ClearedModeId": 12090,
       "AccountLevelLimit": 0,
-      "ClearedStageId": 0,
+      "ClearedStageId": 1081102,
       "NeedClub": "None",
       "NeedClubStudentCount": 0,
       "NeedTSS": 0,
@@ -773,13 +783,13 @@
       "VolumeId": 1,
       "ChapterId": 2,
       "EpisodeId": 11,
-      "Hide": true,
-      "Open": false,
+      "Hide": false,
+      "Open": true,
       "FrontScenarioGroupId": [
         12110
       ],
-      "GroundId": 400010211,
-      "BattleDuration": 180000,
+      "GroundId": 0,
+      "BattleDuration": 0,
       "BackScenarioGroupId": [],
       "ClearedModeId": 12100,
       "AccountLevelLimit": 0,
@@ -798,8 +808,8 @@
       "VolumeId": 1,
       "ChapterId": 2,
       "EpisodeId": 12,
-      "Hide": true,
-      "Open": false,
+      "Hide": false,
+      "Open": true,
       "FrontScenarioGroupId": [
         12120
       ],
@@ -808,7 +818,7 @@
       "BackScenarioGroupId": [],
       "ClearedModeId": 12110,
       "AccountLevelLimit": 0,
-      "ClearedStageId": 0,
+      "ClearedStageId": 1081104,
       "NeedClub": "None",
       "NeedClubStudentCount": 0,
       "NeedTSS": 0,
@@ -823,22 +833,24 @@
       "VolumeId": 1,
       "ChapterId": 2,
       "EpisodeId": 13,
-      "Hide": true,
-      "Open": false,
+      "Hide": false,
+      "Open": true,
       "FrontScenarioGroupId": [
         12130
       ],
-      "GroundId": 0,
-      "BattleDuration": 0,
-      "BackScenarioGroupId": [],
+      "GroundId": 400010213,
+      "BattleDuration": 180000,
+      "BackScenarioGroupId": [
+        12135
+      ],
       "ClearedModeId": 12120,
       "AccountLevelLimit": 0,
       "ClearedStageId": 0,
       "NeedClub": "None",
       "NeedClubStudentCount": 0,
       "NeedTSS": 0,
-      "StageTopography": "Street",
-      "FixedEchelonId": 0,
+      "StageTopography": "Indoor",
+      "FixedEchelonId": 400010213,
       "CompleteReportEventName": null
     },
     {
@@ -848,22 +860,24 @@
       "VolumeId": 1,
       "ChapterId": 2,
       "EpisodeId": 14,
-      "Hide": true,
-      "Open": false,
+      "Hide": false,
+      "Open": true,
       "FrontScenarioGroupId": [
         12140
       ],
-      "GroundId": 0,
-      "BattleDuration": 0,
-      "BackScenarioGroupId": [],
+      "GroundId": 400010214,
+      "BattleDuration": 180000,
+      "BackScenarioGroupId": [
+        12145
+      ],
       "ClearedModeId": 12130,
       "AccountLevelLimit": 0,
-      "ClearedStageId": 0,
+      "ClearedStageId": 1091102,
       "NeedClub": "None",
       "NeedClubStudentCount": 0,
       "NeedTSS": 0,
       "StageTopography": "Street",
-      "FixedEchelonId": 0,
+      "FixedEchelonId": 400010214,
       "CompleteReportEventName": null
     },
     {
@@ -873,14 +887,16 @@
       "VolumeId": 1,
       "ChapterId": 2,
       "EpisodeId": 15,
-      "Hide": true,
-      "Open": false,
+      "Hide": false,
+      "Open": true,
       "FrontScenarioGroupId": [
         12150
       ],
       "GroundId": 400010215,
       "BattleDuration": 180000,
-      "BackScenarioGroupId": [],
+      "BackScenarioGroupId": [
+        12155
+      ],
       "ClearedModeId": 12140,
       "AccountLevelLimit": 0,
       "ClearedStageId": 0,
@@ -888,7 +904,7 @@
       "NeedClubStudentCount": 0,
       "NeedTSS": 0,
       "StageTopography": "Street",
-      "FixedEchelonId": 0,
+      "FixedEchelonId": 400010215,
       "CompleteReportEventName": null
     },
     {
@@ -898,17 +914,17 @@
       "VolumeId": 1,
       "ChapterId": 2,
       "EpisodeId": 16,
-      "Hide": true,
-      "Open": false,
+      "Hide": false,
+      "Open": true,
       "FrontScenarioGroupId": [
         12160
       ],
-      "GroundId": 400010216,
-      "BattleDuration": 180000,
+      "GroundId": 0,
+      "BattleDuration": 0,
       "BackScenarioGroupId": [],
       "ClearedModeId": 12150,
       "AccountLevelLimit": 0,
-      "ClearedStageId": 0,
+      "ClearedStageId": 1091104,
       "NeedClub": "None",
       "NeedClubStudentCount": 0,
       "NeedTSS": 0,
@@ -923,22 +939,24 @@
       "VolumeId": 1,
       "ChapterId": 2,
       "EpisodeId": 17,
-      "Hide": true,
-      "Open": false,
+      "Hide": false,
+      "Open": true,
       "FrontScenarioGroupId": [
         12170
       ],
       "GroundId": 400010217,
       "BattleDuration": 180000,
-      "BackScenarioGroupId": [],
+      "BackScenarioGroupId": [
+        12175
+      ],
       "ClearedModeId": 12160,
       "AccountLevelLimit": 0,
       "ClearedStageId": 0,
       "NeedClub": "None",
       "NeedClubStudentCount": 0,
       "NeedTSS": 0,
-      "StageTopography": "Street",
-      "FixedEchelonId": 0,
+      "StageTopography": "Outdoor",
+      "FixedEchelonId": 400010217,
       "CompleteReportEventName": null
     },
     {
@@ -948,22 +966,24 @@
       "VolumeId": 1,
       "ChapterId": 2,
       "EpisodeId": 18,
-      "Hide": true,
-      "Open": false,
+      "Hide": false,
+      "Open": true,
       "FrontScenarioGroupId": [
         12180
       ],
       "GroundId": 400010218,
       "BattleDuration": 180000,
-      "BackScenarioGroupId": [],
+      "BackScenarioGroupId": [
+        12185
+      ],
       "ClearedModeId": 12170,
       "AccountLevelLimit": 0,
-      "ClearedStageId": 0,
+      "ClearedStageId": 1101102,
       "NeedClub": "None",
       "NeedClubStudentCount": 0,
       "NeedTSS": 0,
-      "StageTopography": "Street",
-      "FixedEchelonId": 0,
+      "StageTopography": "Outdoor",
+      "FixedEchelonId": 400010218,
       "CompleteReportEventName": null
     },
     {
@@ -973,22 +993,24 @@
       "VolumeId": 1,
       "ChapterId": 2,
       "EpisodeId": 19,
-      "Hide": true,
-      "Open": false,
+      "Hide": false,
+      "Open": true,
       "FrontScenarioGroupId": [
         12190
       ],
-      "GroundId": 0,
-      "BattleDuration": 0,
-      "BackScenarioGroupId": [],
+      "GroundId": 400010219,
+      "BattleDuration": 180000,
+      "BackScenarioGroupId": [
+        12195
+      ],
       "ClearedModeId": 12180,
       "AccountLevelLimit": 0,
-      "ClearedStageId": 0,
+      "ClearedStageId": 1101104,
       "NeedClub": "None",
       "NeedClubStudentCount": 0,
       "NeedTSS": 0,
-      "StageTopography": "Street",
-      "FixedEchelonId": 0,
+      "StageTopography": "Outdoor",
+      "FixedEchelonId": 400010219,
       "CompleteReportEventName": null
     },
     {
@@ -998,8 +1020,8 @@
       "VolumeId": 1,
       "ChapterId": 2,
       "EpisodeId": 20,
-      "Hide": true,
-      "Open": false,
+      "Hide": false,
+      "Open": true,
       "FrontScenarioGroupId": [
         12200
       ],
@@ -1024,16 +1046,16 @@
       "ChapterId": 1,
       "EpisodeId": 1,
       "Hide": false,
-      "Open": false,
+      "Open": true,
       "FrontScenarioGroupId": [
-        1101
+        21010
       ],
       "GroundId": 0,
       "BattleDuration": 0,
       "BackScenarioGroupId": [],
-      "ClearedModeId": 12200,
+      "ClearedModeId": 11140,
       "AccountLevelLimit": 0,
-      "ClearedStageId": 0,
+      "ClearedStageId": 1041102,
       "NeedClub": "None",
       "NeedClubStudentCount": 0,
       "NeedTSS": 0,
@@ -1049,9 +1071,9 @@
       "ChapterId": 1,
       "EpisodeId": 2,
       "Hide": false,
-      "Open": false,
+      "Open": true,
       "FrontScenarioGroupId": [
-        1101
+        21020
       ],
       "GroundId": 0,
       "BattleDuration": 0,
@@ -1074,21 +1096,23 @@
       "ChapterId": 1,
       "EpisodeId": 3,
       "Hide": false,
-      "Open": false,
+      "Open": true,
       "FrontScenarioGroupId": [
-        1101
+        21030
       ],
-      "GroundId": 0,
-      "BattleDuration": 0,
-      "BackScenarioGroupId": [],
+      "GroundId": 400020103,
+      "BattleDuration": 180000,
+      "BackScenarioGroupId": [
+        21035
+      ],
       "ClearedModeId": 21020,
       "AccountLevelLimit": 0,
-      "ClearedStageId": 0,
+      "ClearedStageId": 1041104,
       "NeedClub": "None",
       "NeedClubStudentCount": 0,
       "NeedTSS": 0,
       "StageTopography": "Street",
-      "FixedEchelonId": 0,
+      "FixedEchelonId": 400020103,
       "CompleteReportEventName": null
     },
     {
@@ -1099,9 +1123,9 @@
       "ChapterId": 1,
       "EpisodeId": 4,
       "Hide": false,
-      "Open": false,
+      "Open": true,
       "FrontScenarioGroupId": [
-        1101
+        21040
       ],
       "GroundId": 0,
       "BattleDuration": 0,
@@ -1124,16 +1148,16 @@
       "ChapterId": 1,
       "EpisodeId": 5,
       "Hide": false,
-      "Open": false,
+      "Open": true,
       "FrontScenarioGroupId": [
-        1101
+        21050
       ],
       "GroundId": 0,
       "BattleDuration": 0,
       "BackScenarioGroupId": [],
       "ClearedModeId": 21040,
       "AccountLevelLimit": 0,
-      "ClearedStageId": 0,
+      "ClearedStageId": 1051102,
       "NeedClub": "None",
       "NeedClubStudentCount": 0,
       "NeedTSS": 0,
@@ -1149,9 +1173,9 @@
       "ChapterId": 1,
       "EpisodeId": 6,
       "Hide": false,
-      "Open": false,
+      "Open": true,
       "FrontScenarioGroupId": [
-        1101
+        21060
       ],
       "GroundId": 0,
       "BattleDuration": 0,
@@ -1174,21 +1198,23 @@
       "ChapterId": 1,
       "EpisodeId": 7,
       "Hide": false,
-      "Open": false,
+      "Open": true,
       "FrontScenarioGroupId": [
-        1101
+        21070
       ],
-      "GroundId": 0,
-      "BattleDuration": 0,
-      "BackScenarioGroupId": [],
+      "GroundId": 400020107,
+      "BattleDuration": 180000,
+      "BackScenarioGroupId": [
+        21075
+      ],
       "ClearedModeId": 21060,
       "AccountLevelLimit": 0,
-      "ClearedStageId": 0,
+      "ClearedStageId": 1051104,
       "NeedClub": "None",
       "NeedClubStudentCount": 0,
       "NeedTSS": 0,
-      "StageTopography": "Street",
-      "FixedEchelonId": 0,
+      "StageTopography": "Indoor",
+      "FixedEchelonId": 400020107,
       "CompleteReportEventName": null
     },
     {
@@ -1199,9 +1225,9 @@
       "ChapterId": 1,
       "EpisodeId": 8,
       "Hide": false,
-      "Open": false,
+      "Open": true,
       "FrontScenarioGroupId": [
-        1101
+        21080
       ],
       "GroundId": 0,
       "BattleDuration": 0,
@@ -1224,16 +1250,16 @@
       "ChapterId": 1,
       "EpisodeId": 9,
       "Hide": false,
-      "Open": false,
+      "Open": true,
       "FrontScenarioGroupId": [
-        1101
+        21090
       ],
       "GroundId": 0,
       "BattleDuration": 0,
       "BackScenarioGroupId": [],
       "ClearedModeId": 21080,
       "AccountLevelLimit": 0,
-      "ClearedStageId": 0,
+      "ClearedStageId": 1061102,
       "NeedClub": "None",
       "NeedClubStudentCount": 0,
       "NeedTSS": 0,
@@ -1249,14 +1275,276 @@
       "ChapterId": 1,
       "EpisodeId": 10,
       "Hide": false,
-      "Open": false,
+      "Open": true,
       "FrontScenarioGroupId": [
-        1101
+        21100
+      ],
+      "GroundId": 400020110,
+      "BattleDuration": 180000,
+      "BackScenarioGroupId": [
+        21105
+      ],
+      "ClearedModeId": 21090,
+      "AccountLevelLimit": 0,
+      "ClearedStageId": 0,
+      "NeedClub": "None",
+      "NeedClubStudentCount": 0,
+      "NeedTSS": 0,
+      "StageTopography": "Street",
+      "FixedEchelonId": 400020110,
+      "CompleteReportEventName": null
+    },
+    {
+      "ModeId": 21110,
+      "ModeType": "Main",
+      "SubType": "None",
+      "VolumeId": 2,
+      "ChapterId": 1,
+      "EpisodeId": 11,
+      "Hide": false,
+      "Open": true,
+      "FrontScenarioGroupId": [
+        21110
+      ],
+      "GroundId": 400020111,
+      "BattleDuration": 180000,
+      "BackScenarioGroupId": [
+        21115
+      ],
+      "ClearedModeId": 21100,
+      "AccountLevelLimit": 0,
+      "ClearedStageId": 1061104,
+      "NeedClub": "None",
+      "NeedClubStudentCount": 0,
+      "NeedTSS": 0,
+      "StageTopography": "Indoor",
+      "FixedEchelonId": 400020111,
+      "CompleteReportEventName": null
+    },
+    {
+      "ModeId": 21120,
+      "ModeType": "Main",
+      "SubType": "None",
+      "VolumeId": 2,
+      "ChapterId": 1,
+      "EpisodeId": 12,
+      "Hide": false,
+      "Open": true,
+      "FrontScenarioGroupId": [
+        21120
       ],
       "GroundId": 0,
       "BattleDuration": 0,
       "BackScenarioGroupId": [],
-      "ClearedModeId": 21090,
+      "ClearedModeId": 21110,
+      "AccountLevelLimit": 0,
+      "ClearedStageId": 0,
+      "NeedClub": "None",
+      "NeedClubStudentCount": 0,
+      "NeedTSS": 0,
+      "StageTopography": "Street",
+      "FixedEchelonId": 0,
+      "CompleteReportEventName": null
+    },
+    {
+      "ModeId": 21130,
+      "ModeType": "Main",
+      "SubType": "None",
+      "VolumeId": 2,
+      "ChapterId": 1,
+      "EpisodeId": 13,
+      "Hide": false,
+      "Open": true,
+      "FrontScenarioGroupId": [
+        21130
+      ],
+      "GroundId": 400020113,
+      "BattleDuration": 180000,
+      "BackScenarioGroupId": [
+        21135
+      ],
+      "ClearedModeId": 21120,
+      "AccountLevelLimit": 0,
+      "ClearedStageId": 1071102,
+      "NeedClub": "None",
+      "NeedClubStudentCount": 0,
+      "NeedTSS": 0,
+      "StageTopography": "Indoor",
+      "FixedEchelonId": 400020113,
+      "CompleteReportEventName": null
+    },
+    {
+      "ModeId": 21140,
+      "ModeType": "Main",
+      "SubType": "None",
+      "VolumeId": 2,
+      "ChapterId": 1,
+      "EpisodeId": 14,
+      "Hide": false,
+      "Open": true,
+      "FrontScenarioGroupId": [
+        21140
+      ],
+      "GroundId": 0,
+      "BattleDuration": 0,
+      "BackScenarioGroupId": [],
+      "ClearedModeId": 21130,
+      "AccountLevelLimit": 0,
+      "ClearedStageId": 0,
+      "NeedClub": "None",
+      "NeedClubStudentCount": 0,
+      "NeedTSS": 0,
+      "StageTopography": "Street",
+      "FixedEchelonId": 0,
+      "CompleteReportEventName": null
+    },
+    {
+      "ModeId": 21150,
+      "ModeType": "Main",
+      "SubType": "None",
+      "VolumeId": 2,
+      "ChapterId": 1,
+      "EpisodeId": 15,
+      "Hide": false,
+      "Open": true,
+      "FrontScenarioGroupId": [
+        21150
+      ],
+      "GroundId": 400020115,
+      "BattleDuration": 180000,
+      "BackScenarioGroupId": [
+        21155
+      ],
+      "ClearedModeId": 21140,
+      "AccountLevelLimit": 0,
+      "ClearedStageId": 1071104,
+      "NeedClub": "None",
+      "NeedClubStudentCount": 0,
+      "NeedTSS": 0,
+      "StageTopography": "Indoor",
+      "FixedEchelonId": 400020115,
+      "CompleteReportEventName": null
+    },
+    {
+      "ModeId": 21160,
+      "ModeType": "Main",
+      "SubType": "None",
+      "VolumeId": 2,
+      "ChapterId": 1,
+      "EpisodeId": 16,
+      "Hide": false,
+      "Open": true,
+      "FrontScenarioGroupId": [
+        21160
+      ],
+      "GroundId": 400020116,
+      "BattleDuration": 180000,
+      "BackScenarioGroupId": [
+        21165
+      ],
+      "ClearedModeId": 21150,
+      "AccountLevelLimit": 0,
+      "ClearedStageId": 0,
+      "NeedClub": "None",
+      "NeedClubStudentCount": 0,
+      "NeedTSS": 0,
+      "StageTopography": "Indoor",
+      "FixedEchelonId": 400020116,
+      "CompleteReportEventName": null
+    },
+    {
+      "ModeId": 21170,
+      "ModeType": "Main",
+      "SubType": "None",
+      "VolumeId": 2,
+      "ChapterId": 1,
+      "EpisodeId": 17,
+      "Hide": false,
+      "Open": true,
+      "FrontScenarioGroupId": [
+        21170
+      ],
+      "GroundId": 0,
+      "BattleDuration": 0,
+      "BackScenarioGroupId": [],
+      "ClearedModeId": 21160,
+      "AccountLevelLimit": 0,
+      "ClearedStageId": 1081102,
+      "NeedClub": "None",
+      "NeedClubStudentCount": 0,
+      "NeedTSS": 0,
+      "StageTopography": "Street",
+      "FixedEchelonId": 0,
+      "CompleteReportEventName": null
+    },
+    {
+      "ModeId": 21180,
+      "ModeType": "Main",
+      "SubType": "None",
+      "VolumeId": 2,
+      "ChapterId": 1,
+      "EpisodeId": 18,
+      "Hide": false,
+      "Open": true,
+      "FrontScenarioGroupId": [
+        21180
+      ],
+      "GroundId": 0,
+      "BattleDuration": 0,
+      "BackScenarioGroupId": [],
+      "ClearedModeId": 21170,
+      "AccountLevelLimit": 0,
+      "ClearedStageId": 0,
+      "NeedClub": "None",
+      "NeedClubStudentCount": 0,
+      "NeedTSS": 0,
+      "StageTopography": "Street",
+      "FixedEchelonId": 0,
+      "CompleteReportEventName": null
+    },
+    {
+      "ModeId": 21190,
+      "ModeType": "Main",
+      "SubType": "None",
+      "VolumeId": 2,
+      "ChapterId": 1,
+      "EpisodeId": 19,
+      "Hide": false,
+      "Open": true,
+      "FrontScenarioGroupId": [
+        21190
+      ],
+      "GroundId": 400020119,
+      "BattleDuration": 180000,
+      "BackScenarioGroupId": [
+        21195
+      ],
+      "ClearedModeId": 21180,
+      "AccountLevelLimit": 0,
+      "ClearedStageId": 1081104,
+      "NeedClub": "None",
+      "NeedClubStudentCount": 0,
+      "NeedTSS": 0,
+      "StageTopography": "Indoor",
+      "FixedEchelonId": 400020119,
+      "CompleteReportEventName": null
+    },
+    {
+      "ModeId": 21200,
+      "ModeType": "Main",
+      "SubType": "None",
+      "VolumeId": 2,
+      "ChapterId": 1,
+      "EpisodeId": 20,
+      "Hide": false,
+      "Open": true,
+      "FrontScenarioGroupId": [
+        21200
+      ],
+      "GroundId": 0,
+      "BattleDuration": 0,
+      "BackScenarioGroupId": [],
+      "ClearedModeId": 21190,
       "AccountLevelLimit": 0,
       "ClearedStageId": 0,
       "NeedClub": "None",
@@ -2028,6 +2316,56 @@
       "BattleDuration": 0,
       "BackScenarioGroupId": [],
       "ClearedModeId": 2401,
+      "AccountLevelLimit": 0,
+      "ClearedStageId": 0,
+      "NeedClub": "None",
+      "NeedClubStudentCount": 0,
+      "NeedTSS": 0,
+      "StageTopography": "Street",
+      "FixedEchelonId": 0,
+      "CompleteReportEventName": null
+    },
+    {
+      "ModeId": 2501,
+      "ModeType": "Sub",
+      "SubType": "Club",
+      "VolumeId": 15,
+      "ChapterId": 1,
+      "EpisodeId": 1,
+      "Hide": false,
+      "Open": true,
+      "FrontScenarioGroupId": [
+        2501
+      ],
+      "GroundId": 0,
+      "BattleDuration": 0,
+      "BackScenarioGroupId": [],
+      "ClearedModeId": 0,
+      "AccountLevelLimit": 0,
+      "ClearedStageId": 0,
+      "NeedClub": "GameDev",
+      "NeedClubStudentCount": 1,
+      "NeedTSS": 0,
+      "StageTopography": "Street",
+      "FixedEchelonId": 0,
+      "CompleteReportEventName": null
+    },
+    {
+      "ModeId": 2502,
+      "ModeType": "Sub",
+      "SubType": "Club",
+      "VolumeId": 15,
+      "ChapterId": 1,
+      "EpisodeId": 2,
+      "Hide": false,
+      "Open": true,
+      "FrontScenarioGroupId": [
+        2502
+      ],
+      "GroundId": 0,
+      "BattleDuration": 0,
+      "BackScenarioGroupId": [],
+      "ClearedModeId": 2501,
       "AccountLevelLimit": 0,
       "ClearedStageId": 0,
       "NeedClub": "None",

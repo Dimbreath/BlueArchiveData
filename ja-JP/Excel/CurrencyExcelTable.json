@@ -2,7 +2,6 @@
   "DataList": [
     {
       "ID": 1,
-      "DevName": "gold",
       "LocalizeEtcId": 2683341399,
       "CurrencyType": "Gold",
       "CurrencyName": "골드",
@@ -20,7 +19,6 @@
     },
     {
       "ID": 2,
-      "DevName": "gem_paid",
       "LocalizeEtcId": 2737369033,
       "CurrencyType": "GemPaid",
       "CurrencyName": "유료 보석",
@@ -38,7 +36,6 @@
     },
     {
       "ID": 3,
-      "DevName": "gem_bonus",
       "LocalizeEtcId": 3756781228,
       "CurrencyType": "GemBonus",
       "CurrencyName": "무료 보석",
@@ -56,7 +53,6 @@
     },
     {
       "ID": 4,
-      "DevName": "gem",
       "LocalizeEtcId": 2124112510,
       "CurrencyType": "Gem",
       "CurrencyName": "보석",
@@ -74,7 +70,6 @@
     },
     {
       "ID": 5,
-      "DevName": "action_point",
       "LocalizeEtcId": 1084067292,
       "CurrencyType": "ActionPoint",
       "CurrencyName": "액션 포인트",
@@ -92,7 +87,6 @@
     },
     {
       "ID": 6,
-      "DevName": "academyTicket",
       "LocalizeEtcId": 3625248016,
       "CurrencyType": "AcademyTicket",
       "CurrencyName": "학원 티켓",
@@ -112,7 +106,6 @@
     },
     {
       "ID": 7,
-      "DevName": "arenaticket",
       "LocalizeEtcId": 792719930,
       "CurrencyType": "ArenaTicket",
       "CurrencyName": "아레나 티켓",
@@ -132,7 +125,6 @@
     },
     {
       "ID": 8,
-      "DevName": "raidticket",
       "LocalizeEtcId": 4109924042,
       "CurrencyType": "RaidTicket",
       "CurrencyName": "레이드 티켓",
@@ -152,7 +144,6 @@
     },
     {
       "ID": 9,
-      "DevName": "weekdungeonchaserAticket",
       "LocalizeEtcId": 688612979,
       "CurrencyType": "WeekDungeonChaserATicket",
       "CurrencyName": "체이서 A 티켓",
@@ -172,7 +163,6 @@
     },
     {
       "ID": 10,
-      "DevName": "weekdungeonfindgiftticket(사용하지 않음. 삭제 X)",
       "LocalizeEtcId": 2241531918,
       "CurrencyType": "WeekDungeonFindGiftTicket",
       "CurrencyName": "선물찾기 티켓",
@@ -190,7 +180,6 @@
     },
     {
       "ID": 11,
-      "DevName": "weekdungeonbloodticket(사용하지 않음. 삭제 X)",
       "LocalizeEtcId": 3790911967,
       "CurrencyType": "WeekDungeonBloodTicket",
       "CurrencyName": "블러드 티켓",
@@ -208,7 +197,6 @@
     },
     {
       "ID": 12,
-      "DevName": "weekdungeonchaserBticket",
       "LocalizeEtcId": 2418907277,
       "CurrencyType": "WeekDungeonChaserBTicket",
       "CurrencyName": "체이서 B 티켓",
@@ -228,7 +216,6 @@
     },
     {
       "ID": 13,
-      "DevName": "weekdungeonchaserCticket",
       "LocalizeEtcId": 2956594134,
       "CurrencyType": "WeekDungeonChaserCTicket",
       "CurrencyName": "체이서 C 티켓",

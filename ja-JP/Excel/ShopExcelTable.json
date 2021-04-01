@@ -3,7 +3,6 @@
     {
       "Id": 21,
       "LocalizeEtcId": 337340670,
-      "DevName": "Goods_AP",
       "CategoryType": "Ap",
       "IsLegacy": false,
       "GoodsId": [
@@ -28,7 +27,6 @@
         218,
         219
       ],
-      "GoodsDevName": "AP_BUY",
       "DisplayOrder": 20,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -39,13 +37,11 @@
     {
       "Id": 41,
       "LocalizeEtcId": 4051465496,
-      "DevName": "Goods_ArenaTicket",
       "CategoryType": "ArenaTicket",
       "IsLegacy": false,
       "GoodsId": [
         40
       ],
-      "GoodsDevName": "ARENATICKET_BUY",
       "DisplayOrder": 10,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -56,13 +52,11 @@
     {
       "Id": 1000,
       "LocalizeEtcId": 1688668283,
-      "DevName": null,
       "CategoryType": "General",
       "IsLegacy": false,
       "GoodsId": [
         1002
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 10,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -73,13 +67,11 @@
     {
       "Id": 1001,
       "LocalizeEtcId": 2952503379,
-      "DevName": null,
       "CategoryType": "General",
       "IsLegacy": false,
       "GoodsId": [
         1003
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 20,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -90,13 +82,11 @@
     {
       "Id": 1002,
       "LocalizeEtcId": 2949797158,
-      "DevName": null,
       "CategoryType": "General",
       "IsLegacy": false,
       "GoodsId": [
         1004
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 30,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -107,13 +97,11 @@
     {
       "Id": 1003,
       "LocalizeEtcId": 2795379965,
-      "DevName": null,
       "CategoryType": "General",
       "IsLegacy": false,
       "GoodsId": [
         1005
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 40,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -124,13 +112,11 @@
     {
       "Id": 2000,
       "LocalizeEtcId": 676678427,
-      "DevName": "레이드상점_Maki",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2000
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 1,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -141,13 +127,11 @@
     {
       "Id": 2001,
       "LocalizeEtcId": 1228759114,
-      "DevName": "레이드상점_Akane",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2001
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 2,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -158,13 +142,11 @@
     {
       "Id": 2002,
       "LocalizeEtcId": 753025034,
-      "DevName": "레이드상점_SkillBook_Ultimate",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2100
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 3,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -175,13 +157,11 @@
     {
       "Id": 2003,
       "LocalizeEtcId": 3562945394,
-      "DevName": "레이드상점_CraftSkipItem",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2101
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 4,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -192,13 +172,11 @@
     {
       "Id": 2004,
       "LocalizeEtcId": 1159231855,
-      "DevName": "하급 백귀야행 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2200
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 5,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -209,13 +187,11 @@
     {
       "Id": 2005,
       "LocalizeEtcId": 763938924,
-      "DevName": "일반 백귀야행 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2201
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 6,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -226,13 +202,11 @@
     {
       "Id": 2006,
       "LocalizeEtcId": 1921674805,
-      "DevName": "상급 백귀야행 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2202
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 7,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -243,13 +217,11 @@
     {
       "Id": 2007,
       "LocalizeEtcId": 571556135,
-      "DevName": "최상급 백귀야행 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2203
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 8,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -260,13 +232,11 @@
     {
       "Id": 2008,
       "LocalizeEtcId": 614148181,
-      "DevName": "하급 트리니티 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2204
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 9,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -277,13 +247,11 @@
     {
       "Id": 2009,
       "LocalizeEtcId": 3735127488,
-      "DevName": "일반 트리니티 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2205
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 10,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -294,13 +262,11 @@
     {
       "Id": 2010,
       "LocalizeEtcId": 4168372872,
-      "DevName": "상급 트리니티 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2206
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 11,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -311,13 +277,11 @@
     {
       "Id": 2011,
       "LocalizeEtcId": 2087583754,
-      "DevName": "최상급 트리니티 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2207
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 12,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -328,13 +292,11 @@
     {
       "Id": 2012,
       "LocalizeEtcId": 3459458286,
-      "DevName": "하급 게헨나 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2208
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 13,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -345,13 +307,11 @@
     {
       "Id": 2013,
       "LocalizeEtcId": 2735840016,
-      "DevName": "일반 게헨나 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2209
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 14,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -362,13 +322,11 @@
     {
       "Id": 2014,
       "LocalizeEtcId": 411492811,
-      "DevName": "상급 게헨나 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2210
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 15,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -379,13 +337,11 @@
     {
       "Id": 2015,
       "LocalizeEtcId": 2992493523,
-      "DevName": "최상급 게헨나 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2211
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 16,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -396,13 +352,11 @@
     {
       "Id": 2016,
       "LocalizeEtcId": 2859688538,
-      "DevName": "하급 아비도스 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2212
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 17,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -413,13 +367,11 @@
     {
       "Id": 2017,
       "LocalizeEtcId": 1069063864,
-      "DevName": "일반 아비도스 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2213
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 18,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -430,13 +382,11 @@
     {
       "Id": 2018,
       "LocalizeEtcId": 2009434811,
-      "DevName": "상급 아비도스 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2214
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 19,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -447,13 +397,11 @@
     {
       "Id": 2019,
       "LocalizeEtcId": 585103263,
-      "DevName": "최상급 아비도스 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2215
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 20,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -464,13 +412,11 @@
     {
       "Id": 2020,
       "LocalizeEtcId": 813764593,
-      "DevName": "하급 밀레니엄 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2216
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 21,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -481,13 +427,11 @@
     {
       "Id": 2021,
       "LocalizeEtcId": 3861705294,
-      "DevName": "일반 밀레니엄 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2217
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 22,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -498,13 +442,11 @@
     {
       "Id": 2022,
       "LocalizeEtcId": 3958214094,
-      "DevName": "상급 밀레니엄 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2218
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 23,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -515,13 +457,11 @@
     {
       "Id": 2023,
       "LocalizeEtcId": 1251226267,
-      "DevName": "최상급 밀레니엄 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2219
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 24,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -532,13 +472,11 @@
     {
       "Id": 2024,
       "LocalizeEtcId": 1471362838,
-      "DevName": "하급 산해경 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2220
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 25,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -549,13 +487,11 @@
     {
       "Id": 2025,
       "LocalizeEtcId": 1473018147,
-      "DevName": "일반 산해경 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2221
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 26,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -566,13 +502,11 @@
     {
       "Id": 2026,
       "LocalizeEtcId": 1596655144,
-      "DevName": "상급 산해경 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2222
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 27,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -583,13 +517,11 @@
     {
       "Id": 2027,
       "LocalizeEtcId": 246830403,
-      "DevName": "최상급 산해경 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2223
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 28,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -600,13 +532,11 @@
     {
       "Id": 2028,
       "LocalizeEtcId": 2461825003,
-      "DevName": "하급 백귀야행 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2400
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 29,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -617,13 +547,11 @@
     {
       "Id": 2029,
       "LocalizeEtcId": 1363899497,
-      "DevName": "일반 백귀야행 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2401
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 30,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -634,13 +562,11 @@
     {
       "Id": 2030,
       "LocalizeEtcId": 2098079145,
-      "DevName": "상급 백귀야행 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2402
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 31,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -651,13 +577,11 @@
     {
       "Id": 2031,
       "LocalizeEtcId": 913043274,
-      "DevName": "최상급 백귀야행 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2403
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 32,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -668,13 +592,11 @@
     {
       "Id": 2032,
       "LocalizeEtcId": 2354822280,
-      "DevName": "하급 트리니티 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2404
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 33,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -685,13 +607,11 @@
     {
       "Id": 2033,
       "LocalizeEtcId": 2892528174,
-      "DevName": "일반 트리니티 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2405
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 34,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -702,13 +622,11 @@
     {
       "Id": 2034,
       "LocalizeEtcId": 3300929466,
-      "DevName": "상급 트리니티 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2406
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 35,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -719,13 +637,11 @@
     {
       "Id": 2035,
       "LocalizeEtcId": 2119703451,
-      "DevName": "최상급 트리니티 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2407
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 36,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -736,13 +652,11 @@
     {
       "Id": 2036,
       "LocalizeEtcId": 745424244,
-      "DevName": "하급 게헨나 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2408
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 37,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -753,13 +667,11 @@
     {
       "Id": 2037,
       "LocalizeEtcId": 509805314,
-      "DevName": "일반 게헨나 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2409
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 38,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -770,13 +682,11 @@
     {
       "Id": 2038,
       "LocalizeEtcId": 1231105257,
-      "DevName": "상급 게헨나 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2410
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 39,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -787,13 +697,11 @@
     {
       "Id": 2039,
       "LocalizeEtcId": 470621344,
-      "DevName": "최상급 게헨나 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2411
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 40,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -804,13 +712,11 @@
     {
       "Id": 2040,
       "LocalizeEtcId": 4076988875,
-      "DevName": "하급 아비도스 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2412
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 41,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -821,13 +727,11 @@
     {
       "Id": 2041,
       "LocalizeEtcId": 1884630595,
-      "DevName": "일반 아비도스 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2413
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 42,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -838,13 +742,11 @@
     {
       "Id": 2042,
       "LocalizeEtcId": 2620371142,
-      "DevName": "상급 아비도스 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2414
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 43,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -855,13 +757,11 @@
     {
       "Id": 2043,
       "LocalizeEtcId": 2648427324,
-      "DevName": "최상급 아비도스 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2415
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 44,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -872,13 +772,11 @@
     {
       "Id": 2044,
       "LocalizeEtcId": 3284152598,
-      "DevName": "하급 밀레니엄 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2416
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 45,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -889,13 +787,11 @@
     {
       "Id": 2045,
       "LocalizeEtcId": 3751799311,
-      "DevName": "일반 밀레니엄 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2417
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 46,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -906,13 +802,11 @@
     {
       "Id": 2046,
       "LocalizeEtcId": 934055887,
-      "DevName": "상급 밀레니엄 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2418
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 47,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -923,13 +817,11 @@
     {
       "Id": 2047,
       "LocalizeEtcId": 2594624525,
-      "DevName": "최상급 밀레니엄 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2419
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 48,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -940,13 +832,11 @@
     {
       "Id": 2048,
       "LocalizeEtcId": 793725088,
-      "DevName": "하급 산해경 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2420
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 49,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -957,13 +847,11 @@
     {
       "Id": 2049,
       "LocalizeEtcId": 2509643561,
-      "DevName": "일반 산해경 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2421
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 50,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -974,13 +862,11 @@
     {
       "Id": 2050,
       "LocalizeEtcId": 2798998823,
-      "DevName": "상급 산해경 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2422
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 51,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -991,13 +877,11 @@
     {
       "Id": 2051,
       "LocalizeEtcId": 1768353332,
-      "DevName": "최상급 산해경 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2423
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 52,
       "SalePeriodFrom": "01/12/2021 04:00:00",
       "SalePeriodTo": "03/11/2021 14:00:00",
@@ -1008,16 +892,14 @@
     {
       "Id": 2100,
       "LocalizeEtcId": 3115017835,
-      "DevName": "레이드상점_hibiki",
       "CategoryType": "Raid",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         2002
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 1,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/11/2021 14:40:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None"
@@ -1025,16 +907,14 @@
     {
       "Id": 2101,
       "LocalizeEtcId": 676678427,
-      "DevName": "레이드상점_Maki",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2000
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 2,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None"
@@ -1042,16 +922,14 @@
     {
       "Id": 2102,
       "LocalizeEtcId": 1228759114,
-      "DevName": "레이드상점_Akane",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2001
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 3,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None"
@@ -1059,16 +937,14 @@
     {
       "Id": 2103,
       "LocalizeEtcId": 753025034,
-      "DevName": "레이드상점_SkillBook_Ultimate",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2100
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 4,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 2,
       "PurchaseCountResetType": "None"
@@ -1076,16 +952,14 @@
     {
       "Id": 2104,
       "LocalizeEtcId": 3562945394,
-      "DevName": "레이드상점_CraftSkipItem",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2101
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 5,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 5,
       "PurchaseCountResetType": "None"
@@ -1093,33 +967,29 @@
     {
       "Id": 2105,
       "LocalizeEtcId": 1159231855,
-      "DevName": "하급 백귀야행 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2200
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 6,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 15,
+      "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None"
     },
     {
       "Id": 2106,
       "LocalizeEtcId": 763938924,
-      "DevName": "일반 백귀야행 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2201
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 7,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -1127,16 +997,14 @@
     {
       "Id": 2107,
       "LocalizeEtcId": 1921674805,
-      "DevName": "상급 백귀야행 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2202
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 8,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None"
@@ -1144,16 +1012,14 @@
     {
       "Id": 2108,
       "LocalizeEtcId": 571556135,
-      "DevName": "최상급 백귀야행 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2203
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 9,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 3,
       "PurchaseCountResetType": "None"
@@ -1161,33 +1027,29 @@
     {
       "Id": 2109,
       "LocalizeEtcId": 614148181,
-      "DevName": "하급 트리니티 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2204
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 10,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 15,
+      "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None"
     },
     {
       "Id": 2110,
       "LocalizeEtcId": 3735127488,
-      "DevName": "일반 트리니티 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2205
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 11,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -1195,16 +1057,14 @@
     {
       "Id": 2111,
       "LocalizeEtcId": 4168372872,
-      "DevName": "상급 트리니티 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2206
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 12,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None"
@@ -1212,16 +1072,14 @@
     {
       "Id": 2112,
       "LocalizeEtcId": 2087583754,
-      "DevName": "최상급 트리니티 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2207
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 13,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 3,
       "PurchaseCountResetType": "None"
@@ -1229,33 +1087,29 @@
     {
       "Id": 2113,
       "LocalizeEtcId": 3459458286,
-      "DevName": "하급 게헨나 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2208
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 14,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 15,
+      "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None"
     },
     {
       "Id": 2114,
       "LocalizeEtcId": 2735840016,
-      "DevName": "일반 게헨나 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2209
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 15,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -1263,16 +1117,14 @@
     {
       "Id": 2115,
       "LocalizeEtcId": 411492811,
-      "DevName": "상급 게헨나 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2210
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 16,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None"
@@ -1280,16 +1132,14 @@
     {
       "Id": 2116,
       "LocalizeEtcId": 2992493523,
-      "DevName": "최상급 게헨나 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2211
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 17,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 3,
       "PurchaseCountResetType": "None"
@@ -1297,33 +1147,29 @@
     {
       "Id": 2117,
       "LocalizeEtcId": 2859688538,
-      "DevName": "하급 아비도스 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2212
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 18,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 15,
+      "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None"
     },
     {
       "Id": 2118,
       "LocalizeEtcId": 1069063864,
-      "DevName": "일반 아비도스 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2213
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 19,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -1331,16 +1177,14 @@
     {
       "Id": 2119,
       "LocalizeEtcId": 2009434811,
-      "DevName": "상급 아비도스 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2214
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 20,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None"
@@ -1348,16 +1192,14 @@
     {
       "Id": 2120,
       "LocalizeEtcId": 585103263,
-      "DevName": "최상급 아비도스 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2215
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 21,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 3,
       "PurchaseCountResetType": "None"
@@ -1365,33 +1207,29 @@
     {
       "Id": 2121,
       "LocalizeEtcId": 813764593,
-      "DevName": "하급 밀레니엄 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2216
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 22,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 15,
+      "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None"
     },
     {
       "Id": 2122,
       "LocalizeEtcId": 3861705294,
-      "DevName": "일반 밀레니엄 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2217
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 23,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -1399,16 +1237,14 @@
     {
       "Id": 2123,
       "LocalizeEtcId": 3958214094,
-      "DevName": "상급 밀레니엄 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2218
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 24,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None"
@@ -1416,16 +1252,14 @@
     {
       "Id": 2124,
       "LocalizeEtcId": 1251226267,
-      "DevName": "최상급 밀레니엄 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2219
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 25,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 3,
       "PurchaseCountResetType": "None"
@@ -1433,33 +1267,29 @@
     {
       "Id": 2125,
       "LocalizeEtcId": 1471362838,
-      "DevName": "하급 산해경 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2220
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 26,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 15,
+      "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None"
     },
     {
       "Id": 2126,
       "LocalizeEtcId": 1473018147,
-      "DevName": "일반 산해경 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2221
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 27,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -1467,16 +1297,14 @@
     {
       "Id": 2127,
       "LocalizeEtcId": 1596655144,
-      "DevName": "상급 산해경 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2222
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 28,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None"
@@ -1484,16 +1312,14 @@
     {
       "Id": 2128,
       "LocalizeEtcId": 246830403,
-      "DevName": "최상급 산해경 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2223
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 29,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 3,
       "PurchaseCountResetType": "None"
@@ -1501,16 +1327,14 @@
     {
       "Id": 2129,
       "LocalizeEtcId": 2461825003,
-      "DevName": "하급 백귀야행 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2400
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 30,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 25,
       "PurchaseCountResetType": "None"
@@ -1518,16 +1342,14 @@
     {
       "Id": 2130,
       "LocalizeEtcId": 1363899497,
-      "DevName": "일반 백귀야행 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2401
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 31,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None"
@@ -1535,16 +1357,14 @@
     {
       "Id": 2131,
       "LocalizeEtcId": 2098079145,
-      "DevName": "상급 백귀야행 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2402
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 32,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -1552,16 +1372,14 @@
     {
       "Id": 2132,
       "LocalizeEtcId": 913043274,
-      "DevName": "최상급 백귀야행 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2403
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 33,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None"
@@ -1569,16 +1387,14 @@
     {
       "Id": 2133,
       "LocalizeEtcId": 2354822280,
-      "DevName": "하급 트리니티 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2404
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 34,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 25,
       "PurchaseCountResetType": "None"
@@ -1586,16 +1402,14 @@
     {
       "Id": 2134,
       "LocalizeEtcId": 2892528174,
-      "DevName": "일반 트리니티 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2405
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 35,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None"
@@ -1603,16 +1417,14 @@
     {
       "Id": 2135,
       "LocalizeEtcId": 3300929466,
-      "DevName": "상급 트리니티 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2406
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 36,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -1620,16 +1432,14 @@
     {
       "Id": 2136,
       "LocalizeEtcId": 2119703451,
-      "DevName": "최상급 트리니티 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2407
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 37,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None"
@@ -1637,16 +1447,14 @@
     {
       "Id": 2137,
       "LocalizeEtcId": 745424244,
-      "DevName": "하급 게헨나 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2408
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 38,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 25,
       "PurchaseCountResetType": "None"
@@ -1654,16 +1462,14 @@
     {
       "Id": 2138,
       "LocalizeEtcId": 509805314,
-      "DevName": "일반 게헨나 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2409
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 39,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None"
@@ -1671,16 +1477,14 @@
     {
       "Id": 2139,
       "LocalizeEtcId": 1231105257,
-      "DevName": "상급 게헨나 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2410
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 40,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -1688,16 +1492,14 @@
     {
       "Id": 2140,
       "LocalizeEtcId": 470621344,
-      "DevName": "최상급 게헨나 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2411
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 41,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None"
@@ -1705,16 +1507,14 @@
     {
       "Id": 2141,
       "LocalizeEtcId": 4076988875,
-      "DevName": "하급 아비도스 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2412
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 42,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 25,
       "PurchaseCountResetType": "None"
@@ -1722,16 +1522,14 @@
     {
       "Id": 2142,
       "LocalizeEtcId": 1884630595,
-      "DevName": "일반 아비도스 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2413
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 43,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None"
@@ -1739,16 +1537,14 @@
     {
       "Id": 2143,
       "LocalizeEtcId": 2620371142,
-      "DevName": "상급 아비도스 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2414
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 44,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -1756,16 +1552,14 @@
     {
       "Id": 2144,
       "LocalizeEtcId": 2648427324,
-      "DevName": "최상급 아비도스 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2415
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 45,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None"
@@ -1773,16 +1567,14 @@
     {
       "Id": 2145,
       "LocalizeEtcId": 3284152598,
-      "DevName": "하급 밀레니엄 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2416
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 46,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 25,
       "PurchaseCountResetType": "None"
@@ -1790,16 +1582,14 @@
     {
       "Id": 2146,
       "LocalizeEtcId": 3751799311,
-      "DevName": "일반 밀레니엄 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2417
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 47,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None"
@@ -1807,16 +1597,14 @@
     {
       "Id": 2147,
       "LocalizeEtcId": 934055887,
-      "DevName": "상급 밀레니엄 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2418
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 48,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -1824,16 +1612,14 @@
     {
       "Id": 2148,
       "LocalizeEtcId": 2594624525,
-      "DevName": "최상급 밀레니엄 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2419
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 49,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None"
@@ -1841,16 +1627,14 @@
     {
       "Id": 2149,
       "LocalizeEtcId": 793725088,
-      "DevName": "하급 산해경 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2420
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 50,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 25,
       "PurchaseCountResetType": "None"
@@ -1858,16 +1642,14 @@
     {
       "Id": 2150,
       "LocalizeEtcId": 2509643561,
-      "DevName": "일반 산해경 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2421
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 51,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None"
@@ -1875,16 +1657,14 @@
     {
       "Id": 2151,
       "LocalizeEtcId": 2798998823,
-      "DevName": "상급 산해경 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2422
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 52,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -1892,33 +1672,29 @@
     {
       "Id": 2152,
       "LocalizeEtcId": 1768353332,
-      "DevName": "최상급 산해경 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2423
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 53,
       "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None"
     },
     {
       "Id": 2200,
-      "LocalizeEtcId": 3115017835,
-      "DevName": "레이드상점_hibiki",
+      "LocalizeEtcId": 673411103,
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
-        2002
+        2003
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 1,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None"
@@ -1926,16 +1702,14 @@
     {
       "Id": 2201,
       "LocalizeEtcId": 676678427,
-      "DevName": "레이드상점_Maki",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2000
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 1,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 2,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None"
@@ -1943,16 +1717,14 @@
     {
       "Id": 2202,
       "LocalizeEtcId": 1228759114,
-      "DevName": "레이드상점_Akane",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2001
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 2,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 3,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None"
@@ -1960,16 +1732,14 @@
     {
       "Id": 2203,
       "LocalizeEtcId": 753025034,
-      "DevName": "레이드상점_SkillBook_Ultimate",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2100
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 3,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 4,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 2,
       "PurchaseCountResetType": "None"
@@ -1977,16 +1747,14 @@
     {
       "Id": 2204,
       "LocalizeEtcId": 3562945394,
-      "DevName": "레이드상점_CraftSkipItem",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2101
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 4,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 5,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 5,
       "PurchaseCountResetType": "None"
@@ -1994,16 +1762,14 @@
     {
       "Id": 2205,
       "LocalizeEtcId": 1159231855,
-      "DevName": "하급 백귀야행 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2200
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 5,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 6,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -2011,16 +1777,14 @@
     {
       "Id": 2206,
       "LocalizeEtcId": 763938924,
-      "DevName": "일반 백귀야행 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2201
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 6,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 7,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -2028,16 +1792,14 @@
     {
       "Id": 2207,
       "LocalizeEtcId": 1921674805,
-      "DevName": "상급 백귀야행 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2202
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 7,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 8,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None"
@@ -2045,16 +1807,14 @@
     {
       "Id": 2208,
       "LocalizeEtcId": 571556135,
-      "DevName": "최상급 백귀야행 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2203
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 8,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 9,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 3,
       "PurchaseCountResetType": "None"
@@ -2062,16 +1822,14 @@
     {
       "Id": 2209,
       "LocalizeEtcId": 614148181,
-      "DevName": "하급 트리니티 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2204
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 9,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 10,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -2079,16 +1837,14 @@
     {
       "Id": 2210,
       "LocalizeEtcId": 3735127488,
-      "DevName": "일반 트리니티 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2205
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 10,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 11,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -2096,16 +1852,14 @@
     {
       "Id": 2211,
       "LocalizeEtcId": 4168372872,
-      "DevName": "상급 트리니티 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2206
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 11,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 12,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None"
@@ -2113,16 +1867,14 @@
     {
       "Id": 2212,
       "LocalizeEtcId": 2087583754,
-      "DevName": "최상급 트리니티 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2207
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 12,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 13,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 3,
       "PurchaseCountResetType": "None"
@@ -2130,16 +1882,14 @@
     {
       "Id": 2213,
       "LocalizeEtcId": 3459458286,
-      "DevName": "하급 게헨나 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2208
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 13,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 14,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -2147,16 +1897,14 @@
     {
       "Id": 2214,
       "LocalizeEtcId": 2735840016,
-      "DevName": "일반 게헨나 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2209
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 14,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 15,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -2164,16 +1912,14 @@
     {
       "Id": 2215,
       "LocalizeEtcId": 411492811,
-      "DevName": "상급 게헨나 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2210
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 15,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 16,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None"
@@ -2181,16 +1927,14 @@
     {
       "Id": 2216,
       "LocalizeEtcId": 2992493523,
-      "DevName": "최상급 게헨나 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2211
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 16,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 17,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 3,
       "PurchaseCountResetType": "None"
@@ -2198,16 +1942,14 @@
     {
       "Id": 2217,
       "LocalizeEtcId": 2859688538,
-      "DevName": "하급 아비도스 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2212
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 17,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 18,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -2215,16 +1957,14 @@
     {
       "Id": 2218,
       "LocalizeEtcId": 1069063864,
-      "DevName": "일반 아비도스 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2213
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 18,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 19,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -2232,16 +1972,14 @@
     {
       "Id": 2219,
       "LocalizeEtcId": 2009434811,
-      "DevName": "상급 아비도스 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2214
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 19,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 20,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None"
@@ -2249,16 +1987,14 @@
     {
       "Id": 2220,
       "LocalizeEtcId": 585103263,
-      "DevName": "최상급 아비도스 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2215
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 20,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 21,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 3,
       "PurchaseCountResetType": "None"
@@ -2266,16 +2002,14 @@
     {
       "Id": 2221,
       "LocalizeEtcId": 813764593,
-      "DevName": "하급 밀레니엄 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2216
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 21,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 22,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -2283,16 +2017,14 @@
     {
       "Id": 2222,
       "LocalizeEtcId": 3861705294,
-      "DevName": "일반 밀레니엄 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2217
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 22,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 23,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -2300,16 +2032,14 @@
     {
       "Id": 2223,
       "LocalizeEtcId": 3958214094,
-      "DevName": "상급 밀레니엄 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2218
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 23,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 24,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None"
@@ -2317,16 +2047,14 @@
     {
       "Id": 2224,
       "LocalizeEtcId": 1251226267,
-      "DevName": "최상급 밀레니엄 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2219
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 24,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 25,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 3,
       "PurchaseCountResetType": "None"
@@ -2334,16 +2062,14 @@
     {
       "Id": 2225,
       "LocalizeEtcId": 1471362838,
-      "DevName": "하급 산해경 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2220
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 25,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 26,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -2351,16 +2077,14 @@
     {
       "Id": 2226,
       "LocalizeEtcId": 1473018147,
-      "DevName": "일반 산해경 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2221
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 26,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 27,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -2368,16 +2092,14 @@
     {
       "Id": 2227,
       "LocalizeEtcId": 1596655144,
-      "DevName": "상급 산해경 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2222
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 27,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 28,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None"
@@ -2385,16 +2107,14 @@
     {
       "Id": 2228,
       "LocalizeEtcId": 246830403,
-      "DevName": "최상급 산해경 Ex스킬 CD",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2223
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 28,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 29,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 3,
       "PurchaseCountResetType": "None"
@@ -2402,16 +2122,14 @@
     {
       "Id": 2229,
       "LocalizeEtcId": 2461825003,
-      "DevName": "하급 백귀야행 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2400
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 29,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 30,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 25,
       "PurchaseCountResetType": "None"
@@ -2419,16 +2137,14 @@
     {
       "Id": 2230,
       "LocalizeEtcId": 1363899497,
-      "DevName": "일반 백귀야행 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2401
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 30,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 31,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None"
@@ -2436,16 +2152,14 @@
     {
       "Id": 2231,
       "LocalizeEtcId": 2098079145,
-      "DevName": "상급 백귀야행 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2402
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 31,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 32,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -2453,16 +2167,14 @@
     {
       "Id": 2232,
       "LocalizeEtcId": 913043274,
-      "DevName": "최상급 백귀야행 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2403
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 32,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 33,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None"
@@ -2470,16 +2182,14 @@
     {
       "Id": 2233,
       "LocalizeEtcId": 2354822280,
-      "DevName": "하급 트리니티 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2404
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 33,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 34,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 25,
       "PurchaseCountResetType": "None"
@@ -2487,16 +2197,14 @@
     {
       "Id": 2234,
       "LocalizeEtcId": 2892528174,
-      "DevName": "일반 트리니티 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2405
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 34,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 35,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None"
@@ -2504,16 +2212,14 @@
     {
       "Id": 2235,
       "LocalizeEtcId": 3300929466,
-      "DevName": "상급 트리니티 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2406
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 35,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 36,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -2521,16 +2227,14 @@
     {
       "Id": 2236,
       "LocalizeEtcId": 2119703451,
-      "DevName": "최상급 트리니티 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2407
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 36,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 37,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None"
@@ -2538,16 +2242,14 @@
     {
       "Id": 2237,
       "LocalizeEtcId": 745424244,
-      "DevName": "하급 게헨나 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2408
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 37,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 38,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 25,
       "PurchaseCountResetType": "None"
@@ -2555,16 +2257,14 @@
     {
       "Id": 2238,
       "LocalizeEtcId": 509805314,
-      "DevName": "일반 게헨나 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2409
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 38,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 39,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None"
@@ -2572,16 +2272,14 @@
     {
       "Id": 2239,
       "LocalizeEtcId": 1231105257,
-      "DevName": "상급 게헨나 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2410
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 39,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 40,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -2589,16 +2287,14 @@
     {
       "Id": 2240,
       "LocalizeEtcId": 470621344,
-      "DevName": "최상급 게헨나 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2411
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 40,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 41,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None"
@@ -2606,16 +2302,14 @@
     {
       "Id": 2241,
       "LocalizeEtcId": 4076988875,
-      "DevName": "하급 아비도스 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2412
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 41,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 42,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 25,
       "PurchaseCountResetType": "None"
@@ -2623,16 +2317,14 @@
     {
       "Id": 2242,
       "LocalizeEtcId": 1884630595,
-      "DevName": "일반 아비도스 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2413
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 42,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 43,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None"
@@ -2640,16 +2332,14 @@
     {
       "Id": 2243,
       "LocalizeEtcId": 2620371142,
-      "DevName": "상급 아비도스 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2414
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 43,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 44,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -2657,16 +2347,14 @@
     {
       "Id": 2244,
       "LocalizeEtcId": 2648427324,
-      "DevName": "최상급 아비도스 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2415
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 44,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 45,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None"
@@ -2674,16 +2362,14 @@
     {
       "Id": 2245,
       "LocalizeEtcId": 3284152598,
-      "DevName": "하급 밀레니엄 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2416
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 45,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 46,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 25,
       "PurchaseCountResetType": "None"
@@ -2691,16 +2377,14 @@
     {
       "Id": 2246,
       "LocalizeEtcId": 3751799311,
-      "DevName": "일반 밀레니엄 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2417
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 46,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 47,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None"
@@ -2708,16 +2392,14 @@
     {
       "Id": 2247,
       "LocalizeEtcId": 934055887,
-      "DevName": "상급 밀레니엄 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2418
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 47,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 48,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -2725,16 +2407,14 @@
     {
       "Id": 2248,
       "LocalizeEtcId": 2594624525,
-      "DevName": "최상급 밀레니엄 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2419
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 48,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 49,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None"
@@ -2742,16 +2422,14 @@
     {
       "Id": 2249,
       "LocalizeEtcId": 793725088,
-      "DevName": "하급 산해경 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2420
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 49,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 50,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 25,
       "PurchaseCountResetType": "None"
@@ -2759,16 +2437,14 @@
     {
       "Id": 2250,
       "LocalizeEtcId": 2509643561,
-      "DevName": "일반 산해경 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2421
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 50,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 51,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None"
@@ -2776,16 +2452,14 @@
     {
       "Id": 2251,
       "LocalizeEtcId": 2798998823,
-      "DevName": "상급 산해경 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2422
       ],
-      "GoodsDevName": null,
-      "DisplayOrder": 51,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "DisplayOrder": 52,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None"
@@ -2793,16 +2467,809 @@
     {
       "Id": 2252,
       "LocalizeEtcId": 1768353332,
-      "DevName": "최상급 산해경 스킬 책",
       "CategoryType": "Raid",
       "IsLegacy": false,
       "GoodsId": [
         2423
       ],
-      "GoodsDevName": null,
+      "DisplayOrder": 53,
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2300,
+      "LocalizeEtcId": 673411103,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2003
+      ],
+      "DisplayOrder": 1,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2301,
+      "LocalizeEtcId": 676678427,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2000
+      ],
+      "DisplayOrder": 2,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2302,
+      "LocalizeEtcId": 1228759114,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2001
+      ],
+      "DisplayOrder": 3,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2303,
+      "LocalizeEtcId": 753025034,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2100
+      ],
+      "DisplayOrder": 4,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 2,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2304,
+      "LocalizeEtcId": 3562945394,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2101
+      ],
+      "DisplayOrder": 5,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 5,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2305,
+      "LocalizeEtcId": 1159231855,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2200
+      ],
+      "DisplayOrder": 6,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 15,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2306,
+      "LocalizeEtcId": 763938924,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2201
+      ],
+      "DisplayOrder": 7,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 15,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2307,
+      "LocalizeEtcId": 1921674805,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2202
+      ],
+      "DisplayOrder": 8,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 12,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2308,
+      "LocalizeEtcId": 571556135,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2203
+      ],
+      "DisplayOrder": 9,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 3,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2309,
+      "LocalizeEtcId": 614148181,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2204
+      ],
+      "DisplayOrder": 10,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 15,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2310,
+      "LocalizeEtcId": 3735127488,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2205
+      ],
+      "DisplayOrder": 11,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 15,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2311,
+      "LocalizeEtcId": 4168372872,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2206
+      ],
+      "DisplayOrder": 12,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 12,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2312,
+      "LocalizeEtcId": 2087583754,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2207
+      ],
+      "DisplayOrder": 13,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 3,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2313,
+      "LocalizeEtcId": 3459458286,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2208
+      ],
+      "DisplayOrder": 14,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 15,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2314,
+      "LocalizeEtcId": 2735840016,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2209
+      ],
+      "DisplayOrder": 15,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 15,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2315,
+      "LocalizeEtcId": 411492811,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2210
+      ],
+      "DisplayOrder": 16,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 12,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2316,
+      "LocalizeEtcId": 2992493523,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2211
+      ],
+      "DisplayOrder": 17,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 3,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2317,
+      "LocalizeEtcId": 2859688538,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2212
+      ],
+      "DisplayOrder": 18,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 15,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2318,
+      "LocalizeEtcId": 1069063864,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2213
+      ],
+      "DisplayOrder": 19,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 15,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2319,
+      "LocalizeEtcId": 2009434811,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2214
+      ],
+      "DisplayOrder": 20,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 12,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2320,
+      "LocalizeEtcId": 585103263,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2215
+      ],
+      "DisplayOrder": 21,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 3,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2321,
+      "LocalizeEtcId": 813764593,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2216
+      ],
+      "DisplayOrder": 22,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 15,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2322,
+      "LocalizeEtcId": 3861705294,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2217
+      ],
+      "DisplayOrder": 23,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 15,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2323,
+      "LocalizeEtcId": 3958214094,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2218
+      ],
+      "DisplayOrder": 24,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 12,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2324,
+      "LocalizeEtcId": 1251226267,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2219
+      ],
+      "DisplayOrder": 25,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 3,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2325,
+      "LocalizeEtcId": 1471362838,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2220
+      ],
+      "DisplayOrder": 26,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 15,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2326,
+      "LocalizeEtcId": 1473018147,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2221
+      ],
+      "DisplayOrder": 27,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 15,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2327,
+      "LocalizeEtcId": 1596655144,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2222
+      ],
+      "DisplayOrder": 28,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 12,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2328,
+      "LocalizeEtcId": 246830403,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2223
+      ],
+      "DisplayOrder": 29,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 3,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2329,
+      "LocalizeEtcId": 2461825003,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2400
+      ],
+      "DisplayOrder": 30,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 25,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2330,
+      "LocalizeEtcId": 1363899497,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2401
+      ],
+      "DisplayOrder": 31,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 20,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2331,
+      "LocalizeEtcId": 2098079145,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2402
+      ],
+      "DisplayOrder": 32,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 15,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2332,
+      "LocalizeEtcId": 913043274,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2403
+      ],
+      "DisplayOrder": 33,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2333,
+      "LocalizeEtcId": 2354822280,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2404
+      ],
+      "DisplayOrder": 34,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 25,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2334,
+      "LocalizeEtcId": 2892528174,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2405
+      ],
+      "DisplayOrder": 35,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 20,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2335,
+      "LocalizeEtcId": 3300929466,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2406
+      ],
+      "DisplayOrder": 36,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 15,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2336,
+      "LocalizeEtcId": 2119703451,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2407
+      ],
+      "DisplayOrder": 37,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2337,
+      "LocalizeEtcId": 745424244,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2408
+      ],
+      "DisplayOrder": 38,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 25,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2338,
+      "LocalizeEtcId": 509805314,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2409
+      ],
+      "DisplayOrder": 39,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 20,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2339,
+      "LocalizeEtcId": 1231105257,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2410
+      ],
+      "DisplayOrder": 40,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 15,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2340,
+      "LocalizeEtcId": 470621344,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2411
+      ],
+      "DisplayOrder": 41,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2341,
+      "LocalizeEtcId": 4076988875,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2412
+      ],
+      "DisplayOrder": 42,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 25,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2342,
+      "LocalizeEtcId": 1884630595,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2413
+      ],
+      "DisplayOrder": 43,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 20,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2343,
+      "LocalizeEtcId": 2620371142,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2414
+      ],
+      "DisplayOrder": 44,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 15,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2344,
+      "LocalizeEtcId": 2648427324,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2415
+      ],
+      "DisplayOrder": 45,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2345,
+      "LocalizeEtcId": 3284152598,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2416
+      ],
+      "DisplayOrder": 46,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 25,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2346,
+      "LocalizeEtcId": 3751799311,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2417
+      ],
+      "DisplayOrder": 47,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 20,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2347,
+      "LocalizeEtcId": 934055887,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2418
+      ],
+      "DisplayOrder": 48,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 15,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2348,
+      "LocalizeEtcId": 2594624525,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2419
+      ],
+      "DisplayOrder": 49,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2349,
+      "LocalizeEtcId": 793725088,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2420
+      ],
+      "DisplayOrder": 50,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 25,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2350,
+      "LocalizeEtcId": 2509643561,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2421
+      ],
+      "DisplayOrder": 51,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 20,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2351,
+      "LocalizeEtcId": 2798998823,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2422
+      ],
       "DisplayOrder": 52,
-      "SalePeriodFrom": "03/25/2021 14:30:00",
-      "SalePeriodTo": "04/08/2021 14:00:00",
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 15,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2352,
+      "LocalizeEtcId": 1768353332,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "GoodsId": [
+        2423
+      ],
+      "DisplayOrder": 53,
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/29/2021 12:00:00",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None"
@@ -2810,14 +3277,12 @@
     {
       "Id": 10000,
       "LocalizeEtcId": 3308377822,
-      "DevName": "가챠 천장 상점 - 릴리즈: 시로코, 호시노",
       "CategoryType": "RecruitSellection",
       "IsLegacy": false,
       "GoodsId": [
         10000,
         10001
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 1,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -2828,13 +3293,11 @@
     {
       "Id": 10001,
       "LocalizeEtcId": 3308377822,
-      "DevName": "가챠 천장 상점 - 시즌1: 마시로",
       "CategoryType": "RecruitSellection",
       "IsLegacy": false,
       "GoodsId": [
         10010
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 2,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -2845,13 +3308,11 @@
     {
       "Id": 10010,
       "LocalizeEtcId": 3308377822,
-      "DevName": "천장 상점 3성 - 시즌2 1차: 이즈나",
       "CategoryType": "RecruitSellection",
       "IsLegacy": false,
       "GoodsId": [
         10020
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 1,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -2862,13 +3323,11 @@
     {
       "Id": 10011,
       "LocalizeEtcId": 3308377822,
-      "DevName": "천장 상점 3성 - 시즌2 2차: 하루나",
       "CategoryType": "RecruitSellection",
       "IsLegacy": false,
       "GoodsId": [
         10030
       ],
-      "GoodsDevName": null,
       "DisplayOrder": 1,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -2879,13 +3338,71 @@
     {
       "Id": 10012,
       "LocalizeEtcId": 3308377822,
-      "DevName": "천장 상점 3성 - 시즌2 3차: 아루",
       "CategoryType": "RecruitSellection",
       "IsLegacy": false,
       "GoodsId": [
         10040
       ],
-      "GoodsDevName": null,
+      "DisplayOrder": 1,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 10020,
+      "LocalizeEtcId": 3308377822,
+      "CategoryType": "RecruitSellection",
+      "IsLegacy": false,
+      "GoodsId": [
+        10050
+      ],
+      "DisplayOrder": 1,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 10021,
+      "LocalizeEtcId": 3308377822,
+      "CategoryType": "RecruitSellection",
+      "IsLegacy": false,
+      "GoodsId": [
+        10060
+      ],
+      "DisplayOrder": 1,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 10022,
+      "LocalizeEtcId": 3308377822,
+      "CategoryType": "RecruitSellection",
+      "IsLegacy": false,
+      "GoodsId": [
+        10071
+      ],
+      "DisplayOrder": 1,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 19999,
+      "LocalizeEtcId": 3308377822,
+      "CategoryType": "RecruitSellection",
+      "IsLegacy": false,
+      "GoodsId": [
+        2
+      ],
       "DisplayOrder": 1,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -2896,13 +3413,11 @@
     {
       "Id": 20000,
       "LocalizeEtcId": 1623415300,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20000
       ],
-      "GoodsDevName": "Aru",
       "DisplayOrder": 1,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -2913,13 +3428,11 @@
     {
       "Id": 20001,
       "LocalizeEtcId": 3138946074,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20001
       ],
-      "GoodsDevName": "Eimi",
       "DisplayOrder": 2,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -2930,13 +3443,11 @@
     {
       "Id": 20002,
       "LocalizeEtcId": 1300650116,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20002
       ],
-      "GoodsDevName": "Haruna",
       "DisplayOrder": 3,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -2947,13 +3458,11 @@
     {
       "Id": 20003,
       "LocalizeEtcId": 1706189698,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20003
       ],
-      "GoodsDevName": "Hihumi",
       "DisplayOrder": 4,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -2964,13 +3473,11 @@
     {
       "Id": 20004,
       "LocalizeEtcId": 4084327095,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20004
       ],
-      "GoodsDevName": "Hina",
       "DisplayOrder": 5,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -2981,13 +3488,11 @@
     {
       "Id": 20005,
       "LocalizeEtcId": 2597708081,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20005
       ],
-      "GoodsDevName": "Hoshino",
       "DisplayOrder": 6,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -2998,13 +3503,11 @@
     {
       "Id": 20006,
       "LocalizeEtcId": 1132224713,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20006
       ],
-      "GoodsDevName": "Neru",
       "DisplayOrder": 7,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3015,13 +3518,11 @@
     {
       "Id": 20007,
       "LocalizeEtcId": 2045795362,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20007
       ],
-      "GoodsDevName": "Nonomi",
       "DisplayOrder": 8,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3032,13 +3533,11 @@
     {
       "Id": 20008,
       "LocalizeEtcId": 4260131856,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20008
       ],
-      "GoodsDevName": "Shiroko",
       "DisplayOrder": 9,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3049,13 +3548,11 @@
     {
       "Id": 20009,
       "LocalizeEtcId": 103420652,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20009
       ],
-      "GoodsDevName": "Shun",
       "DisplayOrder": 10,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3066,13 +3563,11 @@
     {
       "Id": 20010,
       "LocalizeEtcId": 2254787983,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20010
       ],
-      "GoodsDevName": "Tsurugi",
       "DisplayOrder": 11,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3083,13 +3578,11 @@
     {
       "Id": 20011,
       "LocalizeEtcId": 1228759114,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20011
       ],
-      "GoodsDevName": "Akane",
       "DisplayOrder": 12,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3100,13 +3593,11 @@
     {
       "Id": 20012,
       "LocalizeEtcId": 462678327,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20021
       ],
-      "GoodsDevName": "Haruka",
       "DisplayOrder": 13,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3117,13 +3608,11 @@
     {
       "Id": 20013,
       "LocalizeEtcId": 3948170192,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20013
       ],
-      "GoodsDevName": "Hasumi",
       "DisplayOrder": 14,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3134,13 +3623,11 @@
     {
       "Id": 20014,
       "LocalizeEtcId": 2421185332,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20014
       ],
-      "GoodsDevName": "Izumi",
       "DisplayOrder": 15,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3151,13 +3638,11 @@
     {
       "Id": 20015,
       "LocalizeEtcId": 2657023252,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20015
       ],
-      "GoodsDevName": "Kayoko",
       "DisplayOrder": 16,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3168,13 +3653,11 @@
     {
       "Id": 20016,
       "LocalizeEtcId": 1190970559,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20016
       ],
-      "GoodsDevName": "Mutsuki",
       "DisplayOrder": 17,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3185,13 +3668,11 @@
     {
       "Id": 20017,
       "LocalizeEtcId": 2797714306,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20025
       ],
-      "GoodsDevName": "Pina",
       "DisplayOrder": 18,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3202,13 +3683,11 @@
     {
       "Id": 20018,
       "LocalizeEtcId": 3882618652,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20018
       ],
-      "GoodsDevName": "Serika",
       "DisplayOrder": 19,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3219,13 +3698,11 @@
     {
       "Id": 20019,
       "LocalizeEtcId": 416424274,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20019
       ],
-      "GoodsDevName": "Tsubaki",
       "DisplayOrder": 20,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3236,13 +3713,11 @@
     {
       "Id": 20020,
       "LocalizeEtcId": 603097460,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20020
       ],
-      "GoodsDevName": "Yuuka",
       "DisplayOrder": 21,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3253,13 +3728,11 @@
     {
       "Id": 20021,
       "LocalizeEtcId": 1744517710,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20017
       ],
-      "GoodsDevName": "Zunko",
       "DisplayOrder": 22,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3270,13 +3743,11 @@
     {
       "Id": 20022,
       "LocalizeEtcId": 3137846885,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20012
       ],
-      "GoodsDevName": "Akari",
       "DisplayOrder": 23,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3287,13 +3758,11 @@
     {
       "Id": 20023,
       "LocalizeEtcId": 788161606,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20022
       ],
-      "GoodsDevName": "Asuna",
       "DisplayOrder": 24,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3304,13 +3773,11 @@
     {
       "Id": 20024,
       "LocalizeEtcId": 2399224909,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20023
       ],
-      "GoodsDevName": "Kotori",
       "DisplayOrder": 25,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3321,13 +3788,11 @@
     {
       "Id": 20025,
       "LocalizeEtcId": 1480418661,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20024
       ],
-      "GoodsDevName": "Suzumi",
       "DisplayOrder": 26,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3338,13 +3803,11 @@
     {
       "Id": 20026,
       "LocalizeEtcId": 3994691019,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20026
       ],
-      "GoodsDevName": "karin",
       "DisplayOrder": 27,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3355,13 +3818,11 @@
     {
       "Id": 20027,
       "LocalizeEtcId": 1199243145,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20027
       ],
-      "GoodsDevName": "Saya",
       "DisplayOrder": 28,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3372,13 +3833,11 @@
     {
       "Id": 20028,
       "LocalizeEtcId": 89311440,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20028
       ],
-      "GoodsDevName": "Airi",
       "DisplayOrder": 29,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3389,13 +3848,11 @@
     {
       "Id": 20029,
       "LocalizeEtcId": 1994063468,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20029
       ],
-      "GoodsDevName": "Fuuka",
       "DisplayOrder": 30,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3406,13 +3863,11 @@
     {
       "Id": 20030,
       "LocalizeEtcId": 3818943091,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20045
       ],
-      "GoodsDevName": "Mashiro",
       "DisplayOrder": 31,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3423,13 +3878,11 @@
     {
       "Id": 20031,
       "LocalizeEtcId": 2026127122,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20033
       ],
-      "GoodsDevName": "Kotama",
       "DisplayOrder": 32,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3440,13 +3893,11 @@
     {
       "Id": 20032,
       "LocalizeEtcId": 3864028658,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20031
       ],
-      "GoodsDevName": "Utaha",
       "DisplayOrder": 33,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3457,13 +3908,11 @@
     {
       "Id": 20033,
       "LocalizeEtcId": 4099421090,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20032
       ],
-      "GoodsDevName": "Chinatsu",
       "DisplayOrder": 34,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3474,13 +3923,11 @@
     {
       "Id": 20034,
       "LocalizeEtcId": 2146725559,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20030
       ],
-      "GoodsDevName": "Hare",
       "DisplayOrder": 35,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3491,13 +3938,11 @@
     {
       "Id": 20035,
       "LocalizeEtcId": 1947468414,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20034
       ],
-      "GoodsDevName": "Juri",
       "DisplayOrder": 36,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3508,13 +3953,11 @@
     {
       "Id": 20036,
       "LocalizeEtcId": 1340751281,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20035
       ],
-      "GoodsDevName": "Serina",
       "DisplayOrder": 37,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3525,13 +3968,11 @@
     {
       "Id": 20037,
       "LocalizeEtcId": 1321069493,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20036
       ],
-      "GoodsDevName": "Shimiko",
       "DisplayOrder": 38,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3542,13 +3983,11 @@
     {
       "Id": 20038,
       "LocalizeEtcId": 4220695410,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20037
       ],
-      "GoodsDevName": "Yoshimi",
       "DisplayOrder": 39,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3559,13 +3998,11 @@
     {
       "Id": 20039,
       "LocalizeEtcId": 4190619607,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20038
       ],
-      "GoodsDevName": "Sumire",
       "DisplayOrder": 40,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3576,13 +4013,11 @@
     {
       "Id": 20040,
       "LocalizeEtcId": 3115017835,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20039
       ],
-      "GoodsDevName": "Hibiki",
       "DisplayOrder": 41,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3593,13 +4028,11 @@
     {
       "Id": 20041,
       "LocalizeEtcId": 4002976971,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20040
       ],
-      "GoodsDevName": "Iori",
       "DisplayOrder": 42,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3610,13 +4043,11 @@
     {
       "Id": 20042,
       "LocalizeEtcId": 676678427,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20041
       ],
-      "GoodsDevName": "Maki",
       "DisplayOrder": 43,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3627,13 +4058,11 @@
     {
       "Id": 20043,
       "LocalizeEtcId": 4230958326,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20042
       ],
-      "GoodsDevName": "Chise",
       "DisplayOrder": 44,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3644,13 +4073,11 @@
     {
       "Id": 20044,
       "LocalizeEtcId": 2080725429,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20043
       ],
-      "GoodsDevName": "Ayane",
       "DisplayOrder": 45,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3661,13 +4088,11 @@
     {
       "Id": 20045,
       "LocalizeEtcId": 673411103,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20044
       ],
-      "GoodsDevName": "Hanae",
       "DisplayOrder": 46,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3678,13 +4103,11 @@
     {
       "Id": 20046,
       "LocalizeEtcId": 832419743,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20046
       ],
-      "GoodsDevName": "Izuna",
       "DisplayOrder": 47,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -3695,14 +4118,57 @@
     {
       "Id": 20047,
       "LocalizeEtcId": 2942168123,
-      "DevName": "Goods_SecretStone",
       "CategoryType": "SecretStone",
       "IsLegacy": false,
       "GoodsId": [
         20047
       ],
-      "GoodsDevName": "Shizuko",
       "DisplayOrder": 48,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 400,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 20048,
+      "LocalizeEtcId": 1199341966,
+      "CategoryType": "SecretStone",
+      "IsLegacy": false,
+      "GoodsId": [
+        20048
+      ],
+      "DisplayOrder": 49,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 400,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 20049,
+      "LocalizeEtcId": 2609827385,
+      "CategoryType": "SecretStone",
+      "IsLegacy": false,
+      "GoodsId": [
+        20049
+      ],
+      "DisplayOrder": 50,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 400,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 20050,
+      "LocalizeEtcId": 1709372085,
+      "CategoryType": "SecretStone",
+      "IsLegacy": false,
+      "GoodsId": [
+        20050
+      ],
+      "DisplayOrder": 51,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
       "PurchaseCooltimeMin": 0,

@@ -913,6 +913,14 @@
       "Mail": false
     },
     {
+      "Protocol": "Cafe_SummonCharacter",
+      "ContentLockType": "Cafe",
+      "OpenConditionContent": "Cafe_Invite",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
       "Protocol": "Craft_List",
       "ContentLockType": "None",
       "OpenConditionContent": "None",
@@ -1097,6 +1105,14 @@
       "Mail": false
     },
     {
+      "Protocol": "Arena_SyncEchelonSettingTime",
+      "ContentLockType": "Arena",
+      "OpenConditionContent": "Arena",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": true
+    },
+    {
       "Protocol": "WeekDungeon_List",
       "ContentLockType": "None",
       "OpenConditionContent": "None",
@@ -1181,8 +1197,8 @@
       "ContentLockType": "NotUseControlledByOtherSetting",
       "OpenConditionContent": "None",
       "Currency": false,
-      "Inventory": false,
-      "Mail": false
+      "Inventory": true,
+      "Mail": true
     },
     {
       "Protocol": "Clan_Lobby",

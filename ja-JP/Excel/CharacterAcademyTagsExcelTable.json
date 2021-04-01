@@ -212,6 +212,35 @@
       "ForbiddenTags": []
     },
     {
+      "Id": 10015,
+      "FavorTags": [
+        "ArcadeCenter",
+        "Gamer",
+        "Campus"
+      ],
+      "FavorItemTags": [
+        "Game",
+        "F_Aris",
+        "Gift1",
+        "Gift2"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 10016,
+      "FavorTags": [
+        "ArcadeCenter",
+        "Gamer"
+      ],
+      "FavorItemTags": [
+        "Jellyz",
+        "F_Midori",
+        "Gift1",
+        "Gift2"
+      ],
+      "ForbiddenTags": []
+    },
+    {
       "Id": 13000,
       "FavorTags": [
         "Lounge"
@@ -358,6 +387,20 @@
       "FavorItemTags": [
         "Smart",
         "F_Yuuka",
+        "Gift1",
+        "Gift2"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 13011,
+      "FavorTags": [
+        "ArcadeCenter",
+        "Gamer"
+      ],
+      "FavorItemTags": [
+        "Game",
+        "F_Momoi",
         "Gift1",
         "Gift2"
       ],

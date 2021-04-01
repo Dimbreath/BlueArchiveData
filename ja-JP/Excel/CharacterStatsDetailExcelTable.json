@@ -2,8 +2,6 @@
   "DataList": [
     {
       "Id": 1,
-      "Devname": "MAXHP",
-      "DevName2": "공격력",
       "DetailShowStats": [
         "MaxHP",
         "AttackPower"
@@ -15,8 +13,6 @@
     },
     {
       "Id": 2,
-      "Devname": "방어력",
-      "DevName2": "회복력",
       "DetailShowStats": [
         "DefensePower",
         "HealPower"
@@ -28,8 +24,6 @@
     },
     {
       "Id": 3,
-      "Devname": "명중력",
-      "DevName2": "회피력",
       "DetailShowStats": [
         "AccuracyPoint",
         "DodgePoint"
@@ -41,8 +35,6 @@
     },
     {
       "Id": 4,
-      "Devname": "치명타",
-      "DevName2": "치명타배율",
       "DetailShowStats": [
         "CriticalPoint",
         "CriticalDamageRate"
@@ -54,8 +46,6 @@
     },
     {
       "Id": 5,
-      "Devname": "안정성",
-      "DevName2": "사거리",
       "DetailShowStats": [
         "StabilityPoint",
         "WeaponRange"
@@ -67,8 +57,6 @@
     },
     {
       "Id": 6,
-      "Devname": "군중제어강화",
-      "DevName2": "군중제어저항",
       "DetailShowStats": [
         "OppressionPower",
         "OppressionResist"
@@ -80,8 +68,6 @@
     },
     {
       "Id": 7,
-      "Devname": "코스트 리젠",
-      "DevName2": "시가전 적응",
       "DetailShowStats": [
         "RegenCost",
         "StreetBattleAdaptation"
@@ -93,8 +79,6 @@
     },
     {
       "Id": 8,
-      "Devname": "야외전 적응",
-      "DevName2": "실내전 적응",
       "DetailShowStats": [
         "OutdoorBattleAdaptation",
         "IndoorBattleAdaptation"

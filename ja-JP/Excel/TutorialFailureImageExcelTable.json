@@ -2,7 +2,6 @@
   "DataList": [
     {
       "Id": 10001,
-      "DevName": "4-5 핀포인트 패배 튜토리얼",
       "Contents": "Campaign",
       "Type": "1041105",
       "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_kr",
@@ -10,7 +9,6 @@
     },
     {
       "Id": 10002,
-      "DevName": "10-5 핀포인트 패배 튜토리얼",
       "Contents": "Campaign",
       "Type": "1101105",
       "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_kr",
@@ -18,7 +16,6 @@
     },
     {
       "Id": 10003,
-      "DevName": "11-4 핀포인트 패배 튜토리얼",
       "Contents": "Campaign",
       "Type": "1111104",
       "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_kr",
@@ -26,7 +23,6 @@
     },
     {
       "Id": 10004,
-      "DevName": "11-5 핀포인트 패배 튜토리얼",
       "Contents": "Campaign",
       "Type": "1111105",
       "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_kr",
@@ -34,7 +30,6 @@
     },
     {
       "Id": 20101,
-      "DevName": "요일 던전 추격전 안내",
       "Contents": "WeekDungeon",
       "Type": "Chaser",
       "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_Chaser_kr",
@@ -42,7 +37,6 @@
     },
     {
       "Id": 20201,
-      "DevName": "요일 던전 선물 찾기 안내",
       "Contents": "WeekDungeon",
       "Type": "FindGift",
       "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_FindGift_kr",
@@ -50,7 +44,6 @@
     },
     {
       "Id": 20301,
-      "DevName": "요일 던전 블러드 안내",
       "Contents": "WeekDungeon",
       "Type": "Blood",
       "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_Blood_kr",
@@ -58,7 +51,6 @@
     },
     {
       "Id": 30101,
-      "DevName": "레이드 비나 안내",
       "Contents": "Raid",
       "Type": "Binah",
       "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_kr",
@@ -66,7 +58,6 @@
     },
     {
       "Id": 30201,
-      "DevName": "레이드 헤세드 안내 1",
       "Contents": "Raid",
       "Type": "Chesed",
       "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_kr",
@@ -74,7 +65,6 @@
     },
     {
       "Id": 30202,
-      "DevName": "레이드 헤세드 안내 2",
       "Contents": "Raid",
       "Type": "Chesed",
       "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_kr",
@@ -82,7 +72,6 @@
     },
     {
       "Id": 30203,
-      "DevName": "레이드 헤세드 안내 3",
       "Contents": "Raid",
       "Type": "Chesed",
       "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_kr",
@@ -90,7 +79,6 @@
     },
     {
       "Id": 30301,
-      "DevName": "레이드 시로쿠로 안내 1",
       "Contents": "Raid",
       "Type": "ShiroKuro",
       "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_kr",
@@ -98,7 +86,6 @@
     },
     {
       "Id": 30302,
-      "DevName": "레이드 시로쿠로 안내 2",
       "Contents": "Raid",
       "Type": "ShiroKuro",
       "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_kr",
@@ -106,7 +93,6 @@
     },
     {
       "Id": 30303,
-      "DevName": "레이드 시로쿠로 안내 3",
       "Contents": "Raid",
       "Type": "ShiroKuro",
       "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_kr",
@@ -114,7 +100,6 @@
     },
     {
       "Id": 90001,
-      "DevName": "지형 적응 안내",
       "Contents": "None",
       "Type": "None",
       "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Topography_kr",
@@ -122,7 +107,6 @@
     },
     {
       "Id": 90002,
-      "DevName": "상성 안내",
       "Contents": "None",
       "Type": "None",
       "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialType_kr",
@@ -130,7 +114,6 @@
     },
     {
       "Id": 90003,
-      "DevName": "캐릭터 성장 안내",
       "Contents": "None",
       "Type": "None",
       "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CharacterGrowth_kr",
@@ -138,7 +121,6 @@
     },
     {
       "Id": 90004,
-      "DevName": "장비 성장 안내",
       "Contents": "None",
       "Type": "None",
       "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EquipmentGrowth_kr",
@@ -146,7 +128,6 @@
     },
     {
       "Id": 90005,
-      "DevName": "코스트 충전 안내",
       "Contents": "None",
       "Type": "None",
       "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CostCharge_kr",

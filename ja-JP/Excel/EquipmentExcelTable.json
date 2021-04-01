@@ -146,11 +146,28 @@
       "LocalizeEtcId": 1699247498,
       "Wear": false,
       "MaxLevel": 40,
-      "RecipeId": 0,
+      "RecipeId": 103,
       "TierInit": 4,
-      "NextTierEquipment": 0,
+      "NextTierEquipment": 1004,
       "StackableMax": 99999,
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Hat_Tier4",
+      "ImageName": null,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": []
+    },
+    {
+      "Id": 1004,
+      "EquipmentCategory": "Hat",
+      "Rarity": "N",
+      "LocalizeEtcId": 2090555875,
+      "Wear": false,
+      "MaxLevel": 45,
+      "RecipeId": 0,
+      "TierInit": 5,
+      "NextTierEquipment": 0,
+      "StackableMax": 99999,
+      "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Hat_Tier5",
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
@@ -216,11 +233,28 @@
       "LocalizeEtcId": 1759502696,
       "Wear": false,
       "MaxLevel": 40,
-      "RecipeId": 0,
+      "RecipeId": 203,
       "TierInit": 4,
-      "NextTierEquipment": 0,
+      "NextTierEquipment": 2004,
       "StackableMax": 99999,
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Gloves_Tier4",
+      "ImageName": null,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": []
+    },
+    {
+      "Id": 2004,
+      "EquipmentCategory": "Gloves",
+      "Rarity": "N",
+      "LocalizeEtcId": 2952456681,
+      "Wear": false,
+      "MaxLevel": 45,
+      "RecipeId": 0,
+      "TierInit": 5,
+      "NextTierEquipment": 0,
+      "StackableMax": 99999,
+      "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Gloves_Tier5",
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
@@ -286,11 +320,28 @@
       "LocalizeEtcId": 2109585756,
       "Wear": false,
       "MaxLevel": 40,
-      "RecipeId": 0,
+      "RecipeId": 303,
       "TierInit": 4,
-      "NextTierEquipment": 0,
+      "NextTierEquipment": 3004,
       "StackableMax": 99999,
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Shoes_Tier4",
+      "ImageName": null,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": []
+    },
+    {
+      "Id": 3004,
+      "EquipmentCategory": "Shoes",
+      "Rarity": "N",
+      "LocalizeEtcId": 997278570,
+      "Wear": false,
+      "MaxLevel": 45,
+      "RecipeId": 0,
+      "TierInit": 5,
+      "NextTierEquipment": 0,
+      "StackableMax": 99999,
+      "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Shoes_Tier5",
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
@@ -356,11 +407,28 @@
       "LocalizeEtcId": 940066526,
       "Wear": false,
       "MaxLevel": 40,
-      "RecipeId": 0,
+      "RecipeId": 403,
       "TierInit": 4,
-      "NextTierEquipment": 0,
+      "NextTierEquipment": 4004,
       "StackableMax": 99999,
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Bag_Tier4",
+      "ImageName": null,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": []
+    },
+    {
+      "Id": 4004,
+      "EquipmentCategory": "Bag",
+      "Rarity": "N",
+      "LocalizeEtcId": 3539400576,
+      "Wear": false,
+      "MaxLevel": 45,
+      "RecipeId": 0,
+      "TierInit": 5,
+      "NextTierEquipment": 0,
+      "StackableMax": 99999,
+      "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Bag_Tier5",
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
@@ -426,11 +494,28 @@
       "LocalizeEtcId": 344772093,
       "Wear": false,
       "MaxLevel": 40,
-      "RecipeId": 0,
+      "RecipeId": 503,
       "TierInit": 4,
-      "NextTierEquipment": 0,
+      "NextTierEquipment": 5004,
       "StackableMax": 99999,
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Badge_Tier4",
+      "ImageName": null,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": []
+    },
+    {
+      "Id": 5004,
+      "EquipmentCategory": "Badge",
+      "Rarity": "N",
+      "LocalizeEtcId": 2127407973,
+      "Wear": false,
+      "MaxLevel": 45,
+      "RecipeId": 0,
+      "TierInit": 5,
+      "NextTierEquipment": 0,
+      "StackableMax": 99999,
+      "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Badge_Tier5",
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
@@ -496,11 +581,28 @@
       "LocalizeEtcId": 2520092463,
       "Wear": false,
       "MaxLevel": 40,
-      "RecipeId": 0,
+      "RecipeId": 603,
       "TierInit": 4,
-      "NextTierEquipment": 0,
+      "NextTierEquipment": 6004,
       "StackableMax": 99999,
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Hairpin_Tier4",
+      "ImageName": null,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": []
+    },
+    {
+      "Id": 6004,
+      "EquipmentCategory": "Hairpin",
+      "Rarity": "N",
+      "LocalizeEtcId": 765040081,
+      "Wear": false,
+      "MaxLevel": 45,
+      "RecipeId": 0,
+      "TierInit": 5,
+      "NextTierEquipment": 0,
+      "StackableMax": 99999,
+      "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Hairpin_Tier5",
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
@@ -577,6 +679,23 @@
       "ShopCategory": []
     },
     {
+      "Id": 7004,
+      "EquipmentCategory": "Charm",
+      "Rarity": "N",
+      "LocalizeEtcId": 1991164124,
+      "Wear": false,
+      "MaxLevel": 45,
+      "RecipeId": 0,
+      "TierInit": 5,
+      "NextTierEquipment": 0,
+      "StackableMax": 99999,
+      "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Charm_Tier5",
+      "ImageName": null,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": []
+    },
+    {
       "Id": 8000,
       "EquipmentCategory": "Watch",
       "Rarity": "N",
@@ -641,6 +760,23 @@
       "NextTierEquipment": 0,
       "StackableMax": 99999,
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Watch_Tier4",
+      "ImageName": null,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": []
+    },
+    {
+      "Id": 8004,
+      "EquipmentCategory": "Watch",
+      "Rarity": "N",
+      "LocalizeEtcId": 3773560632,
+      "Wear": false,
+      "MaxLevel": 45,
+      "RecipeId": 0,
+      "TierInit": 5,
+      "NextTierEquipment": 0,
+      "StackableMax": 99999,
+      "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Watch_Tier5",
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
@@ -717,6 +853,23 @@
       "ShopCategory": []
     },
     {
+      "Id": 9004,
+      "EquipmentCategory": "Necklace",
+      "Rarity": "N",
+      "LocalizeEtcId": 1517613390,
+      "Wear": false,
+      "MaxLevel": 45,
+      "RecipeId": 0,
+      "TierInit": 5,
+      "NextTierEquipment": 0,
+      "StackableMax": 99999,
+      "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Necklace_Tier5",
+      "ImageName": null,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": []
+    },
+    {
       "Id": 101001,
       "EquipmentCategory": "Hat",
       "Rarity": "N",
@@ -771,6 +924,25 @@
         "Equipment"
       ],
       "CraftQuality": 10,
+      "ShopCategory": []
+    },
+    {
+      "Id": 101004,
+      "EquipmentCategory": "Hat",
+      "Rarity": "N",
+      "LocalizeEtcId": 3422482236,
+      "Wear": false,
+      "MaxLevel": 1,
+      "RecipeId": 0,
+      "TierInit": 5,
+      "NextTierEquipment": 0,
+      "StackableMax": 99999,
+      "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Hat_Tier5_Piece",
+      "ImageName": null,
+      "Tags": [
+        "Equipment"
+      ],
+      "CraftQuality": 11,
       "ShopCategory": []
     },
     {
@@ -831,6 +1003,25 @@
       "ShopCategory": []
     },
     {
+      "Id": 102004,
+      "EquipmentCategory": "Gloves",
+      "Rarity": "N",
+      "LocalizeEtcId": 357415551,
+      "Wear": false,
+      "MaxLevel": 1,
+      "RecipeId": 0,
+      "TierInit": 5,
+      "NextTierEquipment": 0,
+      "StackableMax": 99999,
+      "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Gloves_Tier5_Piece",
+      "ImageName": null,
+      "Tags": [
+        "Equipment"
+      ],
+      "CraftQuality": 11,
+      "ShopCategory": []
+    },
+    {
       "Id": 103001,
       "EquipmentCategory": "Shoes",
       "Rarity": "N",
@@ -885,6 +1076,25 @@
         "Equipment"
       ],
       "CraftQuality": 10,
+      "ShopCategory": []
+    },
+    {
+      "Id": 103004,
+      "EquipmentCategory": "Shoes",
+      "Rarity": "N",
+      "LocalizeEtcId": 2537924982,
+      "Wear": false,
+      "MaxLevel": 1,
+      "RecipeId": 0,
+      "TierInit": 5,
+      "NextTierEquipment": 0,
+      "StackableMax": 99999,
+      "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Shoes_Tier5_Piece",
+      "ImageName": null,
+      "Tags": [
+        "Equipment"
+      ],
+      "CraftQuality": 11,
       "ShopCategory": []
     },
     {
@@ -945,6 +1155,25 @@
       "ShopCategory": []
     },
     {
+      "Id": 104004,
+      "EquipmentCategory": "Bag",
+      "Rarity": "N",
+      "LocalizeEtcId": 2895279924,
+      "Wear": false,
+      "MaxLevel": 1,
+      "RecipeId": 0,
+      "TierInit": 5,
+      "NextTierEquipment": 0,
+      "StackableMax": 99999,
+      "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Bag_Tier5_Piece",
+      "ImageName": null,
+      "Tags": [
+        "Equipment"
+      ],
+      "CraftQuality": 11,
+      "ShopCategory": []
+    },
+    {
       "Id": 105001,
       "EquipmentCategory": "Badge",
       "Rarity": "N",
@@ -999,6 +1228,25 @@
         "Equipment"
       ],
       "CraftQuality": 10,
+      "ShopCategory": []
+    },
+    {
+      "Id": 105004,
+      "EquipmentCategory": "Badge",
+      "Rarity": "N",
+      "LocalizeEtcId": 1774592643,
+      "Wear": false,
+      "MaxLevel": 1,
+      "RecipeId": 0,
+      "TierInit": 5,
+      "NextTierEquipment": 0,
+      "StackableMax": 99999,
+      "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Badge_Tier5_Piece",
+      "ImageName": null,
+      "Tags": [
+        "Equipment"
+      ],
+      "CraftQuality": 11,
       "ShopCategory": []
     },
     {
@@ -1059,6 +1307,25 @@
       "ShopCategory": []
     },
     {
+      "Id": 106004,
+      "EquipmentCategory": "Hairpin",
+      "Rarity": "N",
+      "LocalizeEtcId": 870503797,
+      "Wear": false,
+      "MaxLevel": 1,
+      "RecipeId": 0,
+      "TierInit": 5,
+      "NextTierEquipment": 0,
+      "StackableMax": 99999,
+      "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Hairpin_Tier5_Piece",
+      "ImageName": null,
+      "Tags": [
+        "Equipment"
+      ],
+      "CraftQuality": 11,
+      "ShopCategory": []
+    },
+    {
       "Id": 107001,
       "EquipmentCategory": "Charm",
       "Rarity": "N",
@@ -1113,6 +1380,25 @@
         "Equipment"
       ],
       "CraftQuality": 10,
+      "ShopCategory": []
+    },
+    {
+      "Id": 107004,
+      "EquipmentCategory": "Charm",
+      "Rarity": "N",
+      "LocalizeEtcId": 1526278326,
+      "Wear": false,
+      "MaxLevel": 1,
+      "RecipeId": 0,
+      "TierInit": 5,
+      "NextTierEquipment": 0,
+      "StackableMax": 99999,
+      "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Charm_Tier5_Piece",
+      "ImageName": null,
+      "Tags": [
+        "Equipment"
+      ],
+      "CraftQuality": 11,
       "ShopCategory": []
     },
     {
@@ -1173,6 +1459,25 @@
       "ShopCategory": []
     },
     {
+      "Id": 108004,
+      "EquipmentCategory": "Watch",
+      "Rarity": "N",
+      "LocalizeEtcId": 748088041,
+      "Wear": false,
+      "MaxLevel": 1,
+      "RecipeId": 0,
+      "TierInit": 5,
+      "NextTierEquipment": 0,
+      "StackableMax": 99999,
+      "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Watch_Tier5_Piece",
+      "ImageName": null,
+      "Tags": [
+        "Equipment"
+      ],
+      "CraftQuality": 11,
+      "ShopCategory": []
+    },
+    {
       "Id": 109001,
       "EquipmentCategory": "Necklace",
       "Rarity": "N",
@@ -1227,6 +1532,25 @@
         "Equipment"
       ],
       "CraftQuality": 10,
+      "ShopCategory": []
+    },
+    {
+      "Id": 109004,
+      "EquipmentCategory": "Necklace",
+      "Rarity": "N",
+      "LocalizeEtcId": 2174915880,
+      "Wear": false,
+      "MaxLevel": 1,
+      "RecipeId": 0,
+      "TierInit": 5,
+      "NextTierEquipment": 0,
+      "StackableMax": 99999,
+      "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Necklace_Tier5_Piece",
+      "ImageName": null,
+      "Tags": [
+        "Equipment"
+      ],
+      "CraftQuality": 11,
       "ShopCategory": []
     }
   ]

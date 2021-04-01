@@ -2,7 +2,6 @@
   "DataList": [
     {
       "Id": 1,
-      "DevName": "오픈 사양 출석보상",
       "Type": "Basic",
       "DisplayOrder": 0,
       "AccountType": "Normal",
@@ -23,7 +22,6 @@
     },
     {
       "Id": 2,
-      "DevName": "발렌타인 이벤트",
       "Type": "Event",
       "DisplayOrder": 1,
       "AccountType": "Normal",

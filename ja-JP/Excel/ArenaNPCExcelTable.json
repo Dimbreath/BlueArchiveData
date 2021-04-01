@@ -11,7 +11,10 @@
       "ExceptionCharacterRarities": [
         "R"
       ],
-      "ExceptionMainCharacterIds": [],
+      "ExceptionMainCharacterIds": [
+        10016,
+        13011
+      ],
       "ExceptionSupportCharacterIds": [],
       "ExceptionTSSIds": []
     },
@@ -26,7 +29,10 @@
       "ExceptionCharacterRarities": [
         "R"
       ],
-      "ExceptionMainCharacterIds": [],
+      "ExceptionMainCharacterIds": [
+        10016,
+        13011
+      ],
       "ExceptionSupportCharacterIds": [],
       "ExceptionTSSIds": []
     },
@@ -39,7 +45,10 @@
       "NPCStarGrade": 3,
       "UseTSS": false,
       "ExceptionCharacterRarities": [],
-      "ExceptionMainCharacterIds": [],
+      "ExceptionMainCharacterIds": [
+        10016,
+        13011
+      ],
       "ExceptionSupportCharacterIds": [],
       "ExceptionTSSIds": []
     },
@@ -52,7 +61,10 @@
       "NPCStarGrade": 3,
       "UseTSS": false,
       "ExceptionCharacterRarities": [],
-      "ExceptionMainCharacterIds": [],
+      "ExceptionMainCharacterIds": [
+        10016,
+        13011
+      ],
       "ExceptionSupportCharacterIds": [],
       "ExceptionTSSIds": []
     },
@@ -65,7 +77,10 @@
       "NPCStarGrade": 3,
       "UseTSS": false,
       "ExceptionCharacterRarities": [],
-      "ExceptionMainCharacterIds": [],
+      "ExceptionMainCharacterIds": [
+        10016,
+        13011
+      ],
       "ExceptionSupportCharacterIds": [],
       "ExceptionTSSIds": []
     },
@@ -78,7 +93,10 @@
       "NPCStarGrade": 3,
       "UseTSS": false,
       "ExceptionCharacterRarities": [],
-      "ExceptionMainCharacterIds": [],
+      "ExceptionMainCharacterIds": [
+        10016,
+        13011
+      ],
       "ExceptionSupportCharacterIds": [],
       "ExceptionTSSIds": []
     },
@@ -91,7 +109,10 @@
       "NPCStarGrade": 3,
       "UseTSS": false,
       "ExceptionCharacterRarities": [],
-      "ExceptionMainCharacterIds": [],
+      "ExceptionMainCharacterIds": [
+        10016,
+        13011
+      ],
       "ExceptionSupportCharacterIds": [],
       "ExceptionTSSIds": []
     },
@@ -104,7 +125,10 @@
       "NPCStarGrade": 3,
       "UseTSS": false,
       "ExceptionCharacterRarities": [],
-      "ExceptionMainCharacterIds": [],
+      "ExceptionMainCharacterIds": [
+        10016,
+        13011
+      ],
       "ExceptionSupportCharacterIds": [],
       "ExceptionTSSIds": []
     },
@@ -117,7 +141,10 @@
       "NPCStarGrade": 3,
       "UseTSS": false,
       "ExceptionCharacterRarities": [],
-      "ExceptionMainCharacterIds": [],
+      "ExceptionMainCharacterIds": [
+        10016,
+        13011
+      ],
       "ExceptionSupportCharacterIds": [],
       "ExceptionTSSIds": []
     },
@@ -132,7 +159,10 @@
       "ExceptionCharacterRarities": [
         "SSR"
       ],
-      "ExceptionMainCharacterIds": [],
+      "ExceptionMainCharacterIds": [
+        10016,
+        13011
+      ],
       "ExceptionSupportCharacterIds": [],
       "ExceptionTSSIds": []
     },
@@ -147,7 +177,10 @@
       "ExceptionCharacterRarities": [
         "SSR"
       ],
-      "ExceptionMainCharacterIds": [],
+      "ExceptionMainCharacterIds": [
+        10016,
+        13011
+      ],
       "ExceptionSupportCharacterIds": [],
       "ExceptionTSSIds": []
     },
@@ -162,7 +195,10 @@
       "ExceptionCharacterRarities": [
         "SSR"
       ],
-      "ExceptionMainCharacterIds": [],
+      "ExceptionMainCharacterIds": [
+        10016,
+        13011
+      ],
       "ExceptionSupportCharacterIds": [],
       "ExceptionTSSIds": []
     },
@@ -177,7 +213,10 @@
       "ExceptionCharacterRarities": [
         "SSR"
       ],
-      "ExceptionMainCharacterIds": [],
+      "ExceptionMainCharacterIds": [
+        10016,
+        13011
+      ],
       "ExceptionSupportCharacterIds": [],
       "ExceptionTSSIds": []
     }

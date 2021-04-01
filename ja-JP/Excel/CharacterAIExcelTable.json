@@ -2,7 +2,6 @@
   "DataList": [
     {
       "Id": 1000,
-      "DevName": "(아군)엄폐 선호 매우 높음 (Kneel 엄폐O, Stand 엄폐O)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 1000,
@@ -16,7 +15,6 @@
     },
     {
       "Id": 1001,
-      "DevName": "(아군)엄폐 선호 매우 높음 (Kneel 엄폐O, Stand 엄폐X) ",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 1000,
@@ -30,7 +28,6 @@
     },
     {
       "Id": 1002,
-      "DevName": "(아군)엄폐 선호 매우 높음 (Kneel 엄폐X, Stand 엄폐O)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 1000,
@@ -44,7 +41,6 @@
     },
     {
       "Id": 1010,
-      "DevName": "(아군)엄폐 선호 높음 (Kneel 엄폐O, Stand 엄폐O)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 4000,
@@ -58,7 +54,6 @@
     },
     {
       "Id": 1011,
-      "DevName": "(아군)엄폐 선호 높음 (Kneel 엄폐O, Stand 엄폐X)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 4000,
@@ -72,7 +67,6 @@
     },
     {
       "Id": 1012,
-      "DevName": "(아군)엄폐 선호 높음 (Kneel 엄폐X, Stand 엄폐O)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 4000,
@@ -86,7 +80,6 @@
     },
     {
       "Id": 1020,
-      "DevName": "(아군)엄폐 선호 조금 높음 (Kneel 엄폐O, Stand 엄폐O)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 7000,
@@ -100,7 +93,6 @@
     },
     {
       "Id": 1021,
-      "DevName": "(아군)엄폐 선호 조금 높음 (Kneel 엄폐O, Stand 엄폐X)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 7000,
@@ -114,7 +106,6 @@
     },
     {
       "Id": 1022,
-      "DevName": "(아군)엄폐 선호 조금 높음 (Kneel 엄폐X, Stand 엄폐O)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 7000,
@@ -128,7 +119,6 @@
     },
     {
       "Id": 1300,
-      "DevName": "(아군)엄폐 선호 조금 높음 (Kneel 엄폐O, Stand 엄폐O)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 10000,
@@ -142,7 +132,6 @@
     },
     {
       "Id": 1301,
-      "DevName": "(아군)엄폐 선호 보통 (Kneel 엄폐O, Stand 엄폐X)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 10000,
@@ -156,7 +145,6 @@
     },
     {
       "Id": 1302,
-      "DevName": "(아군)엄폐 선호 보통 (Kneel 엄폐X, Stand 엄폐O)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 10000,
@@ -170,7 +158,6 @@
     },
     {
       "Id": 1600,
-      "DevName": "(아군)엄폐 선호 조금 낮음 (Kneel 엄폐O, Stand 엄폐O)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 13000,
@@ -184,7 +171,6 @@
     },
     {
       "Id": 1601,
-      "DevName": "(아군)엄폐 선호 조금 낮음 (Kneel 엄폐O, Stand 엄폐X)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 13000,
@@ -198,7 +184,6 @@
     },
     {
       "Id": 1602,
-      "DevName": "(아군)엄폐 선호 조금 낮음 (Kneel 엄폐X, Stand 엄폐O)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 13000,
@@ -212,7 +197,6 @@
     },
     {
       "Id": 1610,
-      "DevName": "(아군)엄폐 선호 낮음 (Kneel 엄폐O, Stand 엄폐O)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 16000,
@@ -226,7 +210,6 @@
     },
     {
       "Id": 1611,
-      "DevName": "(아군)엄폐 선호 낮음 (Kneel 엄폐O, Stand 엄폐X)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 16000,
@@ -240,7 +223,6 @@
     },
     {
       "Id": 1612,
-      "DevName": "(아군)엄폐 선호 낮음 (Kneel 엄폐X, Stand 엄폐O)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 16000,
@@ -254,7 +236,6 @@
     },
     {
       "Id": 1620,
-      "DevName": "(아군)엄폐 선호 매우 낮음 (Kneel 엄폐O, Stand 엄폐O)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 20000,
@@ -268,7 +249,6 @@
     },
     {
       "Id": 1621,
-      "DevName": "(아군)엄폐 선호 매우 낮음 (Kneel 엄폐O, Stand 엄폐X)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 20000,
@@ -282,7 +262,6 @@
     },
     {
       "Id": 1622,
-      "DevName": "(아군)엄폐 선호 매우 낮음 (Kneel 엄폐X, Stand 엄폐O)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 20000,
@@ -296,7 +275,6 @@
     },
     {
       "Id": 1700,
-      "DevName": "(아군)엄폐 안함",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 10000,
@@ -306,11 +284,10 @@
       "MinimumPositionGap": 100,
       "CanUseObstacleOfKneelMotion": false,
       "CanUseObstacleOfStandMotion": false,
-      "HasTargetSwitchingMotion": false
+      "HasTargetSwitchingMotion": true
     },
     {
       "Id": 2000,
-      "DevName": "(적군)엄폐 선호 매우 높음 (Kneel 엄폐O, Stand 엄폐O)",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 1000,
@@ -324,7 +301,6 @@
     },
     {
       "Id": 2001,
-      "DevName": "(적군)엄폐 선호 매우 높음 (Kneel 엄폐O, Stand 엄폐X) ",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 1000,
@@ -338,7 +314,6 @@
     },
     {
       "Id": 2002,
-      "DevName": "(적군)엄폐 선호 매우 높음 (Kneel 엄폐X, Stand 엄폐O)",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 1000,
@@ -352,7 +327,6 @@
     },
     {
       "Id": 2010,
-      "DevName": "(적군)엄폐 선호 높음 (Kneel 엄폐O, Stand 엄폐O)",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 4000,
@@ -366,7 +340,6 @@
     },
     {
       "Id": 2011,
-      "DevName": "(적군)엄폐 선호 높음 (Kneel 엄폐O, Stand 엄폐X)",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 4000,
@@ -380,7 +353,6 @@
     },
     {
       "Id": 2012,
-      "DevName": "(적군)엄폐 선호 높음 (Kneel 엄폐X, Stand 엄폐O)",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 4000,
@@ -394,7 +366,6 @@
     },
     {
       "Id": 2020,
-      "DevName": "(적군)엄폐 선호 조금 높음 (Kneel 엄폐O, Stand 엄폐O)",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 7000,
@@ -408,7 +379,6 @@
     },
     {
       "Id": 2021,
-      "DevName": "(적군)엄폐 선호 조금 높음 (Kneel 엄폐O, Stand 엄폐X)",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 7000,
@@ -422,7 +392,6 @@
     },
     {
       "Id": 2022,
-      "DevName": "(적군)엄폐 선호 조금 높음 (Kneel 엄폐X, Stand 엄폐O)",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 7000,
@@ -436,7 +405,6 @@
     },
     {
       "Id": 2300,
-      "DevName": "(적군)엄폐 선호 보통 (Kneel 엄폐O, Stand 엄폐O)",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 10000,
@@ -450,7 +418,6 @@
     },
     {
       "Id": 2301,
-      "DevName": "(적군)엄폐 선호 보통 (Kneel 엄폐O, Stand 엄폐X)",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 10000,
@@ -464,7 +431,6 @@
     },
     {
       "Id": 2302,
-      "DevName": "(적군)엄폐 선호 보통 (Kneel 엄폐X, Stand 엄폐O)",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 10000,
@@ -478,7 +444,6 @@
     },
     {
       "Id": 2600,
-      "DevName": "(적군)엄폐 선호 조금 낮음 (Kneel 엄폐O, Stand 엄폐O)",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 13000,
@@ -492,7 +457,6 @@
     },
     {
       "Id": 2601,
-      "DevName": "(적군)엄폐 선호 조금 낮음 (Kneel 엄폐O, Stand 엄폐X)",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 13000,
@@ -506,7 +470,6 @@
     },
     {
       "Id": 2602,
-      "DevName": "(적군)엄폐 선호 조금 낮음 (Kneel 엄폐X, Stand 엄폐O)",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 13000,
@@ -520,7 +483,6 @@
     },
     {
       "Id": 2610,
-      "DevName": "(적군)엄폐 선호 낮음 (Kneel 엄폐O, Stand 엄폐O)",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 16000,
@@ -534,7 +496,6 @@
     },
     {
       "Id": 2611,
-      "DevName": "(적군)엄폐 선호 낮음 (Kneel 엄폐O, Stand 엄폐X)",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 16000,
@@ -548,7 +509,6 @@
     },
     {
       "Id": 2612,
-      "DevName": "(적군)엄폐 선호 낮음 (Kneel 엄폐X, Stand 엄폐O)",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 16000,
@@ -562,7 +522,6 @@
     },
     {
       "Id": 2620,
-      "DevName": "(적군)엄폐 선호 매우 낮음 (Kneel 엄폐O, Stand 엄폐O)",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 20000,
@@ -576,7 +535,6 @@
     },
     {
       "Id": 2621,
-      "DevName": "(적군)엄폐 선호 매우 낮음 (Kneel 엄폐O, Stand 엄폐X)",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 20000,
@@ -590,7 +548,6 @@
     },
     {
       "Id": 2622,
-      "DevName": "(적군)엄폐 선호 매우 낮음 (Kneel 엄폐X, Stand 엄폐O)",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 20000,
@@ -604,7 +561,6 @@
     },
     {
       "Id": 2700,
-      "DevName": "(적군)엄폐 안함",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 10000,
@@ -618,7 +574,6 @@
     },
     {
       "Id": 4000,
-      "DevName": "(적군) 스위퍼 전용 AI (최단거리, 엄폐안함, 포지션 갭 안함)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 50000,
@@ -632,7 +587,6 @@
     },
     {
       "Id": 5000,
-      "DevName": "(적군) 헤세드 자코, 드론 전용 AI (최단거리, 엄폐안함)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 50000,
@@ -646,7 +600,6 @@
     },
     {
       "Id": 5001,
-      "DevName": "(적군) 중간보스 전용 AI (최단거리, 엄폐안함)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 50000,
@@ -660,7 +613,6 @@
     },
     {
       "Id": 2624,
-      "DevName": "(적군)엄폐 안함",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 20000,
@@ -674,7 +626,6 @@
     },
     {
       "Id": 1624,
-      "DevName": "(아군)엄폐 안함",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 20000,
@@ -688,7 +639,6 @@
     },
     {
       "Id": 1003,
-      "DevName": "(학생)엄폐 우선3(KneelPoint 엄폐X, StandPoint 엄폐X)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 1000,
@@ -702,7 +652,6 @@
     },
     {
       "Id": 1013,
-      "DevName": "(학생)엄폐 우선2(KneelPoint 엄폐X, StandPoint 엄폐X)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 4000,
@@ -716,7 +665,6 @@
     },
     {
       "Id": 1023,
-      "DevName": "(학생)엄폐 우선1(KneelPoint 엄폐X, StandPoint 엄폐X)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 7000,
@@ -730,7 +678,6 @@
     },
     {
       "Id": 1303,
-      "DevName": "(학생)밸런스(KneelPoint 엄폐X, StandPoint 엄폐X)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 10000,
@@ -744,7 +691,6 @@
     },
     {
       "Id": 1603,
-      "DevName": "(학생)최단 거리 우선1(KneelPoint 엄폐X, StandPoint 엄폐X)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 13000,
@@ -758,7 +704,6 @@
     },
     {
       "Id": 1623,
-      "DevName": "(학생)최단 거리 우선3(KneelPoint 엄폐X, StandPoint 엄폐X) - SMG+SHIELD, LMG, MG, RG",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 20000,
@@ -772,7 +717,6 @@
     },
     {
       "Id": 1613,
-      "DevName": "(학생)엄폐 선호 낮음 (Kneel 엄폐X, Stand 엄폐X)",
       "EngageType": "SearchAndMove",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 16000,
@@ -786,7 +730,6 @@
     },
     {
       "Id": 2003,
-      "DevName": "(적군)엄폐 우선3(Kneel 엄폐X, Stand 엄폐X)",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 1000,
@@ -800,7 +743,6 @@
     },
     {
       "Id": 2623,
-      "DevName": "(적군)최단 거리 우선3(Kneel 엄폐X, Stand 엄폐X)",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 20000,
@@ -814,7 +756,6 @@
     },
     {
       "Id": 2603,
-      "DevName": "(적군)최단 거리 우선1(Kneel 엄폐X, Stand 엄폐X)",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 13000,
@@ -828,7 +769,6 @@
     },
     {
       "Id": 2303,
-      "DevName": "(적군)밸런스(Kneel 엄폐X, Stand 엄폐X)",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 10000,
@@ -842,7 +782,6 @@
     },
     {
       "Id": 2023,
-      "DevName": "(적군)엄폐 우선1(Kneel 엄폐X, Stand 엄폐X)",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 7000,
@@ -856,7 +795,6 @@
     },
     {
       "Id": 2013,
-      "DevName": "(적군)엄폐 우선2(Kneel 엄폐X, Stand 엄폐X)",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 4000,
@@ -870,7 +808,6 @@
     },
     {
       "Id": 2613,
-      "DevName": "(적군)최단 거리 우선2(Kneel 엄폐X, Stand 엄폐X)",
       "EngageType": "HoldPosition",
       "Positioning": "CloseToTarget",
       "DistanceReduceRatioObstaclePath": 16000,

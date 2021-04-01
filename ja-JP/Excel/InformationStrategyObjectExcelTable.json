@@ -2,33 +2,33 @@
   "DataList": [
     {
       "Id": 1,
-      "DevName": "아이템가이드",
       "StageId": 1011105,
       "PageName": "UIInformationPopup_StrategyObject01"
     },
     {
       "Id": 2,
-      "DevName": "타일생성가이드",
       "StageId": 1031101,
       "PageName": "UIInformationPopup_StrategyObject03"
     },
     {
       "Id": 3,
-      "DevName": "포탈오브젝트가이드",
       "StageId": 1041101,
       "PageName": "UIInformationPopup_StrategyObject04"
     },
     {
       "Id": 4,
-      "DevName": "타일제거가이드",
       "StageId": 1051101,
       "PageName": "UIInformationPopup_StrategyObject05"
     },
     {
       "Id": 5,
-      "DevName": "시야오브젝트가이드",
       "StageId": 1022101,
       "PageName": "UIInformationPopup_StrategyObject02"
+    },
+    {
+      "Id": 6,
+      "StageId": 1131101,
+      "PageName": "UIInformationPopup_StrategyObject06"
     }
   ]
 }

@@ -144,20 +144,15 @@
       "Id": 15,
       "EventContentId": 10001,
       "Order": 1,
-      "ScenarioGroupId": [
-        10000010
-      ],
-      "ScenarioConditionType": "DayAfter",
+      "ScenarioGroupId": [],
+      "ScenarioConditionType": "None",
       "ConditionAmount": 0
     },
     {
       "Id": 16,
       "EventContentId": 10001,
       "Order": 2,
-      "ScenarioGroupId": [
-        10000030,
-        10000040
-      ],
+      "ScenarioGroupId": [],
       "ScenarioConditionType": "None",
       "ConditionAmount": 0
     },
@@ -165,11 +160,7 @@
       "Id": 17,
       "EventContentId": 10001,
       "Order": 3,
-      "ScenarioGroupId": [
-        10000050,
-        10000060,
-        10000070
-      ],
+      "ScenarioGroupId": [],
       "ScenarioConditionType": "None",
       "ConditionAmount": 0
     },
@@ -177,9 +168,7 @@
       "Id": 18,
       "EventContentId": 10001,
       "Order": 4,
-      "ScenarioGroupId": [
-        10000080
-      ],
+      "ScenarioGroupId": [],
       "ScenarioConditionType": "None",
       "ConditionAmount": 0
     },
@@ -187,9 +176,7 @@
       "Id": 19,
       "EventContentId": 10001,
       "Order": 5,
-      "ScenarioGroupId": [
-        10000090
-      ],
+      "ScenarioGroupId": [],
       "ScenarioConditionType": "None",
       "ConditionAmount": 0
     },
@@ -197,19 +184,15 @@
       "Id": 20,
       "EventContentId": 10001,
       "Order": 6,
-      "ScenarioGroupId": [
-        10000100
-      ],
-      "ScenarioConditionType": "DayAfter",
-      "ConditionAmount": 2
+      "ScenarioGroupId": [],
+      "ScenarioConditionType": "None",
+      "ConditionAmount": 0
     },
     {
       "Id": 21,
       "EventContentId": 10002,
       "Order": 1,
-      "ScenarioGroupId": [
-        10000020
-      ],
+      "ScenarioGroupId": [],
       "ScenarioConditionType": "None",
       "ConditionAmount": 0
     }

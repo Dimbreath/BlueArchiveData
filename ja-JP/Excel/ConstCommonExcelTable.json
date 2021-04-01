@@ -48,7 +48,7 @@
       "MassangerMessageExpireDay": 14,
       "CraftLeafNodeGenerateLv1Count": 5,
       "CraftLeafNodeGenerateLv2Count": 5,
-      "TutorialGachaShopId": 1,
+      "TutorialGachaShopId": 2,
       "TutorialGachaGoodsId": 1,
       "EquipmentSlotOpenLevel": [
         1,
@@ -118,7 +118,8 @@
       "FormationCollider03SizeX": 6000,
       "FormationCollider03SizeY": 2000,
       "FormationCollider03SizeZ": 1000,
-      "ShowFurnitureTag": false
+      "ShowFurnitureTag": false,
+      "CafeSummonCoolTimeFromHour": 20
     }
   ]
 }

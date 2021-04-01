@@ -2,7 +2,6 @@
   "DataList": [
     {
       "Id": 10000,
-      "DevName": "Aru",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2497295575,
       "CharacterId": 10000,
@@ -15,7 +14,6 @@
     },
     {
       "Id": 10001,
-      "DevName": "Eimi",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4182002798,
       "CharacterId": 10001,
@@ -28,7 +26,6 @@
     },
     {
       "Id": 10002,
-      "DevName": "Haruna",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3340348343,
       "CharacterId": 10002,
@@ -41,7 +38,6 @@
     },
     {
       "Id": 10003,
-      "DevName": "Hihumi",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1198572044,
       "CharacterId": 10003,
@@ -54,7 +50,6 @@
     },
     {
       "Id": 10004,
-      "DevName": "Hina",
       "ProductionStep": "Release",
       "LocalizeEtcId": 991378370,
       "CharacterId": 10004,
@@ -67,7 +62,6 @@
     },
     {
       "Id": 10005,
-      "DevName": "Hoshino",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3860861822,
       "CharacterId": 10005,
@@ -80,7 +74,6 @@
     },
     {
       "Id": 10006,
-      "DevName": "Iori",
       "ProductionStep": "Release",
       "LocalizeEtcId": 136683551,
       "CharacterId": 10006,
@@ -93,7 +86,6 @@
     },
     {
       "Id": 10007,
-      "DevName": "Maki",
       "ProductionStep": "Release",
       "LocalizeEtcId": 527408127,
       "CharacterId": 10007,
@@ -106,7 +98,6 @@
     },
     {
       "Id": 10008,
-      "DevName": "Neru",
       "ProductionStep": "Release",
       "LocalizeEtcId": 898689994,
       "CharacterId": 10008,
@@ -119,7 +110,6 @@
     },
     {
       "Id": 10009,
-      "DevName": "Izumi",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2208981432,
       "CharacterId": 10009,
@@ -132,7 +122,6 @@
     },
     {
       "Id": 10010,
-      "DevName": "Shiroko",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2988036139,
       "CharacterId": 10010,
@@ -145,7 +134,6 @@
     },
     {
       "Id": 10011,
-      "DevName": "Shun",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1051454565,
       "CharacterId": 10011,
@@ -158,7 +146,6 @@
     },
     {
       "Id": 10012,
-      "DevName": "Sumire",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3381030288,
       "CharacterId": 10012,
@@ -171,7 +158,6 @@
     },
     {
       "Id": 10013,
-      "DevName": "Tsurugi",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3466307549,
       "CharacterId": 10013,
@@ -184,7 +170,6 @@
     },
     {
       "Id": 10014,
-      "DevName": "Izuna",
       "ProductionStep": "Release",
       "LocalizeEtcId": 574638848,
       "CharacterId": 10014,
@@ -197,20 +182,42 @@
     },
     {
       "Id": 10015,
-      "DevName": "Shiroko",
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "LocalizeEtcId": 601218077,
       "CharacterId": 10015,
-      "PrefabName": "LobbyShiroko",
+      "PrefabName": "LobbyAris",
       "SlotTextureName": null,
-      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Shiroko_01",
-      "BGMId": 9,
+      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Aris_01",
+      "BGMId": 67,
+      "AudioClipJp": null,
+      "AudioClipKr": null
+    },
+    {
+      "Id": 10016,
+      "ProductionStep": "Complete",
+      "LocalizeEtcId": 3847961123,
+      "CharacterId": 10016,
+      "PrefabName": "LobbyMidori",
+      "SlotTextureName": null,
+      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Midori_01",
+      "BGMId": 36,
+      "AudioClipJp": null,
+      "AudioClipKr": null
+    },
+    {
+      "Id": 19017,
+      "ProductionStep": "ToDo",
+      "LocalizeEtcId": 1004201565,
+      "CharacterId": 19017,
+      "PrefabName": "LobbyMimori",
+      "SlotTextureName": null,
+      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Mimori_01",
+      "BGMId": 43,
       "AudioClipJp": null,
       "AudioClipKr": null
     },
     {
       "Id": 13000,
-      "DevName": "Akane",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1860977072,
       "CharacterId": 13000,
@@ -223,7 +230,6 @@
     },
     {
       "Id": 13001,
-      "DevName": "Chise",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3172109122,
       "CharacterId": 13001,
@@ -236,7 +242,6 @@
     },
     {
       "Id": 13002,
-      "DevName": "Akari",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3593666995,
       "CharacterId": 13002,
@@ -249,7 +254,6 @@
     },
     {
       "Id": 13003,
-      "DevName": "Hasumi",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2568405156,
       "CharacterId": 13003,
@@ -262,7 +266,6 @@
     },
     {
       "Id": 13004,
-      "DevName": "Nonomi",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2502292865,
       "CharacterId": 13004,
@@ -275,7 +278,6 @@
     },
     {
       "Id": 13005,
-      "DevName": "Kayoko",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4113505953,
       "CharacterId": 13005,
@@ -288,7 +290,6 @@
     },
     {
       "Id": 13006,
-      "DevName": "Mutsuki",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3058526758,
       "CharacterId": 13006,
@@ -301,7 +302,6 @@
     },
     {
       "Id": 13007,
-      "DevName": "Zunko",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3207969174,
       "CharacterId": 13007,
@@ -314,7 +314,6 @@
     },
     {
       "Id": 13008,
-      "DevName": "Serika",
       "ProductionStep": "Release",
       "LocalizeEtcId": 224176066,
       "CharacterId": 13008,
@@ -327,7 +326,6 @@
     },
     {
       "Id": 13009,
-      "DevName": "Tsubaki",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2950556001,
       "CharacterId": 13009,
@@ -340,7 +338,6 @@
     },
     {
       "Id": 13010,
-      "DevName": "Yuuka",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2519760045,
       "CharacterId": 13010,
@@ -352,47 +349,19 @@
       "AudioClipKr": null
     },
     {
-      "Id": 19000,
-      "DevName": "Shiroko",
+      "Id": 13011,
       "ProductionStep": "Complete",
-      "LocalizeEtcId": 3649011725,
-      "CharacterId": 19000,
-      "PrefabName": "LobbyShiroko",
+      "LocalizeEtcId": 1009419400,
+      "CharacterId": 13011,
+      "PrefabName": "LobbyMomoi",
       "SlotTextureName": null,
-      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Shiroko_01",
-      "BGMId": 9,
-      "AudioClipJp": null,
-      "AudioClipKr": null
-    },
-    {
-      "Id": 19002,
-      "DevName": "Shiroko",
-      "ProductionStep": "Complete",
-      "LocalizeEtcId": 1615444600,
-      "CharacterId": 19002,
-      "PrefabName": "LobbyShiroko",
-      "SlotTextureName": null,
-      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Shiroko_01",
-      "BGMId": 9,
-      "AudioClipJp": null,
-      "AudioClipKr": null
-    },
-    {
-      "Id": 19003,
-      "DevName": "Shiroko",
-      "ProductionStep": "Complete",
-      "LocalizeEtcId": 1266036569,
-      "CharacterId": 19003,
-      "PrefabName": "LobbyShiroko",
-      "SlotTextureName": null,
-      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Shiroko_01",
-      "BGMId": 9,
+      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Momoi_01",
+      "BGMId": 54,
       "AudioClipJp": null,
       "AudioClipKr": null
     },
     {
       "Id": 20000,
-      "DevName": "Hibiki",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2520921399,
       "CharacterId": 20000,
@@ -405,7 +374,6 @@
     },
     {
       "Id": 20001,
-      "DevName": "Karin",
       "ProductionStep": "Release",
       "LocalizeEtcId": 782040502,
       "CharacterId": 20001,
@@ -418,7 +386,6 @@
     },
     {
       "Id": 20002,
-      "DevName": "Saya",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3002853942,
       "CharacterId": 20002,
@@ -431,7 +398,6 @@
     },
     {
       "Id": 20003,
-      "DevName": "Mashiro",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3771197757,
       "CharacterId": 20003,
@@ -444,7 +410,6 @@
     },
     {
       "Id": 23000,
-      "DevName": "Airi",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2764655596,
       "CharacterId": 23000,
@@ -457,7 +422,6 @@
     },
     {
       "Id": 23001,
-      "DevName": "Fuuka",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3979938377,
       "CharacterId": 23001,
@@ -470,7 +434,6 @@
     },
     {
       "Id": 23002,
-      "DevName": "Hanae",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3810923036,
       "CharacterId": 23002,
@@ -483,7 +446,6 @@
     },
     {
       "Id": 23003,
-      "DevName": "Hare",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2477748189,
       "CharacterId": 23003,
@@ -496,7 +458,6 @@
     },
     {
       "Id": 23004,
-      "DevName": "Utaha",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1042500459,
       "CharacterId": 23004,
@@ -509,7 +470,6 @@
     },
     {
       "Id": 23005,
-      "DevName": "Ayane",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1009883533,
       "CharacterId": 23005,
@@ -522,7 +482,6 @@
     },
     {
       "Id": 23006,
-      "DevName": "Shizuko",
       "ProductionStep": "Release",
       "LocalizeEtcId": 768699777,
       "CharacterId": 23006,
@@ -530,6 +489,102 @@
       "SlotTextureName": null,
       "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Shizuko_01",
       "BGMId": 9,
+      "AudioClipJp": null,
+      "AudioClipKr": null
+    },
+    {
+      "Id": 19001,
+      "ProductionStep": "ToDo",
+      "LocalizeEtcId": 780550647,
+      "CharacterId": 19001,
+      "PrefabName": "LobbyAtsuko",
+      "SlotTextureName": null,
+      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Atsuko_01",
+      "BGMId": 0,
+      "AudioClipJp": null,
+      "AudioClipKr": null
+    },
+    {
+      "Id": 19002,
+      "ProductionStep": "ToDo",
+      "LocalizeEtcId": 1615444600,
+      "CharacterId": 19002,
+      "PrefabName": "LobbyAzusa",
+      "SlotTextureName": null,
+      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Azusa_01",
+      "BGMId": 37,
+      "AudioClipJp": null,
+      "AudioClipKr": null
+    },
+    {
+      "Id": 19003,
+      "ProductionStep": "Complete",
+      "LocalizeEtcId": 1266036569,
+      "CharacterId": 19003,
+      "PrefabName": "LobbyCherino",
+      "SlotTextureName": null,
+      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Cherino_01",
+      "BGMId": 62,
+      "AudioClipJp": null,
+      "AudioClipKr": null
+    },
+    {
+      "Id": 19012,
+      "ProductionStep": "ToDo",
+      "LocalizeEtcId": 1620567988,
+      "CharacterId": 19012,
+      "PrefabName": "LobbyWakamo",
+      "SlotTextureName": null,
+      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Wakamo_01",
+      "BGMId": 0,
+      "AudioClipJp": null,
+      "AudioClipKr": null
+    },
+    {
+      "Id": 29005,
+      "ProductionStep": "ToDo",
+      "LocalizeEtcId": 508181224,
+      "CharacterId": 29005,
+      "PrefabName": "LobbyNodoka",
+      "SlotTextureName": null,
+      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Nodoka_01",
+      "BGMId": 0,
+      "AudioClipJp": null,
+      "AudioClipKr": null
+    },
+    {
+      "Id": 19014,
+      "ProductionStep": "ToDo",
+      "LocalizeEtcId": 844743249,
+      "CharacterId": 19014,
+      "PrefabName": "LobbyMiyako",
+      "SlotTextureName": null,
+      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Miyako_01",
+      "BGMId": 0,
+      "AudioClipJp": null,
+      "AudioClipKr": null
+    },
+    {
+      "Id": 19006,
+      "ProductionStep": "ToDo",
+      "LocalizeEtcId": 3436612416,
+      "CharacterId": 19006,
+      "PrefabName": "LobbyKoharu",
+      "SlotTextureName": null,
+      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Koharu_01",
+      "BGMId": 0,
+      "AudioClipJp": null,
+      "AudioClipKr": null
+    },
+    {
+      "Id": 19013,
+      "ProductionStep": "ToDo",
+      "LocalizeEtcId": 1847400992,
+      "CharacterId": 19013,
+      "PrefabName": "LobbyYuzu",
+      "SlotTextureName": null,
+      "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Yuzu_01",
+      "BGMId": 0,
       "AudioClipJp": null,
       "AudioClipKr": null
     }

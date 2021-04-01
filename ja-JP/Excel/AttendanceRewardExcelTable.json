@@ -2,7 +2,6 @@
   "DataList": [
     {
       "AttendanceId": 1,
-      "AttendanceDevName": "기본 출석부",
       "Day": 1,
       "RewardIcon": null,
       "RewardParcelType": [
@@ -11,16 +10,12 @@
       "RewardId": [
         1
       ],
-      "RewardDevName": [
-        "크레딧"
-      ],
       "RewardAmount": [
         10000
       ]
     },
     {
       "AttendanceId": 1,
-      "AttendanceDevName": "기본 출석부",
       "Day": 2,
       "RewardIcon": null,
       "RewardParcelType": [
@@ -29,16 +24,12 @@
       "RewardId": [
         10
       ],
-      "RewardDevName": [
-        "학생 경험치"
-      ],
       "RewardAmount": [
         5
       ]
     },
     {
       "AttendanceId": 1,
-      "AttendanceDevName": "기본 출석부",
       "Day": 3,
       "RewardIcon": null,
       "RewardParcelType": [
@@ -47,16 +38,12 @@
       "RewardId": [
         5
       ],
-      "RewardDevName": [
-        "AP"
-      ],
       "RewardAmount": [
         50
       ]
     },
     {
       "AttendanceId": 1,
-      "AttendanceDevName": "기본 출석부",
       "Day": 4,
       "RewardIcon": null,
       "RewardParcelType": [
@@ -65,16 +52,12 @@
       "RewardId": [
         1
       ],
-      "RewardDevName": [
-        "크레딧"
-      ],
       "RewardAmount": [
         10000
       ]
     },
     {
       "AttendanceId": 1,
-      "AttendanceDevName": "기본 출석부",
       "Day": 5,
       "RewardIcon": null,
       "RewardParcelType": [
@@ -83,16 +66,12 @@
       "RewardId": [
         3
       ],
-      "RewardDevName": [
-        "무료 잼"
-      ],
       "RewardAmount": [
         50
       ]
     },
     {
       "AttendanceId": 1,
-      "AttendanceDevName": "기본 출석부",
       "Day": 6,
       "RewardIcon": null,
       "RewardParcelType": [
@@ -101,16 +80,12 @@
       "RewardId": [
         1
       ],
-      "RewardDevName": [
-        "크레딧"
-      ],
       "RewardAmount": [
         20000
       ]
     },
     {
       "AttendanceId": 1,
-      "AttendanceDevName": "기본 출석부",
       "Day": 7,
       "RewardIcon": null,
       "RewardParcelType": [
@@ -119,16 +94,12 @@
       "RewardId": [
         11
       ],
-      "RewardDevName": [
-        "학생 경험치"
-      ],
       "RewardAmount": [
         3
       ]
     },
     {
       "AttendanceId": 1,
-      "AttendanceDevName": "기본 출석부",
       "Day": 8,
       "RewardIcon": null,
       "RewardParcelType": [
@@ -137,16 +108,12 @@
       "RewardId": [
         5
       ],
-      "RewardDevName": [
-        "AP"
-      ],
       "RewardAmount": [
         100
       ]
     },
     {
       "AttendanceId": 1,
-      "AttendanceDevName": "기본 출석부",
       "Day": 9,
       "RewardIcon": null,
       "RewardParcelType": [
@@ -155,16 +122,12 @@
       "RewardId": [
         1
       ],
-      "RewardDevName": [
-        "크레딧"
-      ],
       "RewardAmount": [
         20000
       ]
     },
     {
       "AttendanceId": 1,
-      "AttendanceDevName": "기본 출석부",
       "Day": 10,
       "RewardIcon": null,
       "RewardParcelType": [
@@ -173,16 +136,12 @@
       "RewardId": [
         3
       ],
-      "RewardDevName": [
-        "무료 잼"
-      ],
       "RewardAmount": [
         100
       ]
     },
     {
       "AttendanceId": 2,
-      "AttendanceDevName": "발렌타인 이벤트",
       "Day": 1,
       "RewardIcon": null,
       "RewardParcelType": [
@@ -191,16 +150,12 @@
       "RewardId": [
         3
       ],
-      "RewardDevName": [
-        "무료 잼"
-      ],
       "RewardAmount": [
         100
       ]
     },
     {
       "AttendanceId": 2,
-      "AttendanceDevName": "발렌타인 이벤트",
       "Day": 2,
       "RewardIcon": null,
       "RewardParcelType": [
@@ -209,16 +164,12 @@
       "RewardId": [
         3
       ],
-      "RewardDevName": [
-        "무료 잼"
-      ],
       "RewardAmount": [
         100
       ]
     },
     {
       "AttendanceId": 2,
-      "AttendanceDevName": "발렌타인 이벤트",
       "Day": 3,
       "RewardIcon": null,
       "RewardParcelType": [
@@ -227,16 +178,12 @@
       "RewardId": [
         3
       ],
-      "RewardDevName": [
-        "무료 잼"
-      ],
       "RewardAmount": [
         100
       ]
     },
     {
       "AttendanceId": 2,
-      "AttendanceDevName": "발렌타인 이벤트",
       "Day": 4,
       "RewardIcon": null,
       "RewardParcelType": [
@@ -245,16 +192,12 @@
       "RewardId": [
         5999
       ],
-      "RewardDevName": [
-        "만능 선물 아이템"
-      ],
       "RewardAmount": [
         1
       ]
     },
     {
       "AttendanceId": 2,
-      "AttendanceDevName": "발렌타인 이벤트",
       "Day": 5,
       "RewardIcon": null,
       "RewardParcelType": [
@@ -263,16 +206,12 @@
       "RewardId": [
         3
       ],
-      "RewardDevName": [
-        "무료 잼"
-      ],
       "RewardAmount": [
         100
       ]
     },
     {
       "AttendanceId": 2,
-      "AttendanceDevName": "발렌타인 이벤트",
       "Day": 6,
       "RewardIcon": null,
       "RewardParcelType": [
@@ -281,16 +220,12 @@
       "RewardId": [
         3
       ],
-      "RewardDevName": [
-        "무료 잼"
-      ],
       "RewardAmount": [
         100
       ]
     },
     {
       "AttendanceId": 2,
-      "AttendanceDevName": "발렌타인 이벤트",
       "Day": 7,
       "RewardIcon": null,
       "RewardParcelType": [
@@ -298,9 +233,6 @@
       ],
       "RewardId": [
         3301
-      ],
-      "RewardDevName": [
-        "발렌타인 티 테이블"
       ],
       "RewardAmount": [
         1

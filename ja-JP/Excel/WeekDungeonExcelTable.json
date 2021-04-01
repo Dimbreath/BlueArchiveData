@@ -2,7 +2,6 @@
   "DataList": [
     {
       "StageId": 30101,
-      "DevName": "WeekDungeon_ChaserA_Stage01",
       "WeekDungeonType": "ChaserA",
       "Difficulty": 1,
       "BattleDuration": 300000,
@@ -32,7 +31,6 @@
     },
     {
       "StageId": 30102,
-      "DevName": "WeekDungeon_ChaserA_Stage02",
       "WeekDungeonType": "ChaserA",
       "Difficulty": 2,
       "BattleDuration": 300000,
@@ -62,7 +60,6 @@
     },
     {
       "StageId": 30103,
-      "DevName": "WeekDungeon_ChaserA_Stage03",
       "WeekDungeonType": "ChaserA",
       "Difficulty": 3,
       "BattleDuration": 300000,
@@ -92,7 +89,6 @@
     },
     {
       "StageId": 30104,
-      "DevName": "WeekDungeon_ChaserA_Stage04",
       "WeekDungeonType": "ChaserA",
       "Difficulty": 4,
       "BattleDuration": 300000,
@@ -122,7 +118,6 @@
     },
     {
       "StageId": 30105,
-      "DevName": "WeekDungeon_ChaserA_Stage05",
       "WeekDungeonType": "ChaserA",
       "Difficulty": 5,
       "BattleDuration": 300000,
@@ -152,7 +147,6 @@
     },
     {
       "StageId": 30106,
-      "DevName": "WeekDungeon_ChaserA_Stage06",
       "WeekDungeonType": "ChaserA",
       "Difficulty": 6,
       "BattleDuration": 300000,
@@ -182,7 +176,6 @@
     },
     {
       "StageId": 30107,
-      "DevName": "WeekDungeon_ChaserA_Stage07",
       "WeekDungeonType": "ChaserA",
       "Difficulty": 7,
       "BattleDuration": 300000,
@@ -212,7 +205,6 @@
     },
     {
       "StageId": 30108,
-      "DevName": "WeekDungeon_ChaserA_Stage08",
       "WeekDungeonType": "ChaserA",
       "Difficulty": 8,
       "BattleDuration": 300000,
@@ -242,7 +234,6 @@
     },
     {
       "StageId": 30201,
-      "DevName": "WeekDungeon_ChaserB_Stage01",
       "WeekDungeonType": "ChaserB",
       "Difficulty": 1,
       "BattleDuration": 300000,
@@ -272,7 +263,6 @@
     },
     {
       "StageId": 30202,
-      "DevName": "WeekDungeon_ChaserB_Stage02",
       "WeekDungeonType": "ChaserB",
       "Difficulty": 2,
       "BattleDuration": 300000,
@@ -302,7 +292,6 @@
     },
     {
       "StageId": 30203,
-      "DevName": "WeekDungeon_ChaserB_Stage03",
       "WeekDungeonType": "ChaserB",
       "Difficulty": 3,
       "BattleDuration": 300000,
@@ -332,7 +321,6 @@
     },
     {
       "StageId": 30204,
-      "DevName": "WeekDungeon_ChaserB_Stage04",
       "WeekDungeonType": "ChaserB",
       "Difficulty": 4,
       "BattleDuration": 300000,
@@ -362,7 +350,6 @@
     },
     {
       "StageId": 30205,
-      "DevName": "WeekDungeon_ChaserB_Stage05",
       "WeekDungeonType": "ChaserB",
       "Difficulty": 5,
       "BattleDuration": 300000,
@@ -392,7 +379,6 @@
     },
     {
       "StageId": 30206,
-      "DevName": "WeekDungeon_ChaserB_Stage06",
       "WeekDungeonType": "ChaserB",
       "Difficulty": 6,
       "BattleDuration": 300000,
@@ -422,7 +408,6 @@
     },
     {
       "StageId": 30207,
-      "DevName": "WeekDungeon_ChaserB_Stage07",
       "WeekDungeonType": "ChaserB",
       "Difficulty": 7,
       "BattleDuration": 300000,
@@ -452,7 +437,6 @@
     },
     {
       "StageId": 30208,
-      "DevName": "WeekDungeon_ChaserB_Stage08",
       "WeekDungeonType": "ChaserB",
       "Difficulty": 8,
       "BattleDuration": 300000,
@@ -482,7 +466,6 @@
     },
     {
       "StageId": 30301,
-      "DevName": "WeekDungeon_ChaserC_Stage01",
       "WeekDungeonType": "ChaserC",
       "Difficulty": 1,
       "BattleDuration": 300000,
@@ -512,7 +495,6 @@
     },
     {
       "StageId": 30302,
-      "DevName": "WeekDungeon_ChaserC_Stage02",
       "WeekDungeonType": "ChaserC",
       "Difficulty": 2,
       "BattleDuration": 300000,
@@ -542,7 +524,6 @@
     },
     {
       "StageId": 30303,
-      "DevName": "WeekDungeon_ChaserC_Stage03",
       "WeekDungeonType": "ChaserC",
       "Difficulty": 3,
       "BattleDuration": 300000,
@@ -572,7 +553,6 @@
     },
     {
       "StageId": 30304,
-      "DevName": "WeekDungeon_ChaserC_Stage04",
       "WeekDungeonType": "ChaserC",
       "Difficulty": 4,
       "BattleDuration": 300000,
@@ -602,7 +582,6 @@
     },
     {
       "StageId": 30305,
-      "DevName": "WeekDungeon_ChaserC_Stage05",
       "WeekDungeonType": "ChaserC",
       "Difficulty": 5,
       "BattleDuration": 300000,
@@ -632,7 +611,6 @@
     },
     {
       "StageId": 30306,
-      "DevName": "WeekDungeon_ChaserC_Stage06",
       "WeekDungeonType": "ChaserC",
       "Difficulty": 6,
       "BattleDuration": 300000,
@@ -662,7 +640,6 @@
     },
     {
       "StageId": 30307,
-      "DevName": "WeekDungeon_ChaserC_Stage07",
       "WeekDungeonType": "ChaserC",
       "Difficulty": 7,
       "BattleDuration": 300000,
@@ -692,7 +669,6 @@
     },
     {
       "StageId": 30308,
-      "DevName": "WeekDungeon_ChaserC_Stage08",
       "WeekDungeonType": "ChaserC",
       "Difficulty": 8,
       "BattleDuration": 300000,
@@ -722,7 +698,6 @@
     },
     {
       "StageId": 31101,
-      "DevName": "WeekDungeon_FindGift_Stage01",
       "WeekDungeonType": "FindGift",
       "Difficulty": 1,
       "BattleDuration": 180000,
@@ -749,7 +724,6 @@
     },
     {
       "StageId": 31102,
-      "DevName": "WeekDungeon_FindGift_Stage02",
       "WeekDungeonType": "FindGift",
       "Difficulty": 2,
       "BattleDuration": 180000,
@@ -776,7 +750,6 @@
     },
     {
       "StageId": 31103,
-      "DevName": "WeekDungeon_FindGift_Stage03",
       "WeekDungeonType": "FindGift",
       "Difficulty": 3,
       "BattleDuration": 180000,
@@ -803,7 +776,6 @@
     },
     {
       "StageId": 31104,
-      "DevName": "WeekDungeon_FindGift_Stage04",
       "WeekDungeonType": "FindGift",
       "Difficulty": 4,
       "BattleDuration": 180000,
@@ -830,7 +802,6 @@
     },
     {
       "StageId": 31105,
-      "DevName": "WeekDungeon_FindGift_Stage05",
       "WeekDungeonType": "FindGift",
       "Difficulty": 5,
       "BattleDuration": 180000,
@@ -857,7 +828,6 @@
     },
     {
       "StageId": 31106,
-      "DevName": "WeekDungeon_FindGift_Stage06",
       "WeekDungeonType": "FindGift",
       "Difficulty": 6,
       "BattleDuration": 180000,
@@ -884,7 +854,6 @@
     },
     {
       "StageId": 31107,
-      "DevName": "WeekDungeon_FindGift_Stage07",
       "WeekDungeonType": "FindGift",
       "Difficulty": 7,
       "BattleDuration": 180000,
@@ -911,7 +880,6 @@
     },
     {
       "StageId": 31108,
-      "DevName": "WeekDungeon_FindGift_Stage08",
       "WeekDungeonType": "FindGift",
       "Difficulty": 8,
       "BattleDuration": 180000,
@@ -938,7 +906,6 @@
     },
     {
       "StageId": 32101,
-      "DevName": "WeekDungeon_Blood_Stage01",
       "WeekDungeonType": "Blood",
       "Difficulty": 1,
       "BattleDuration": 180000,
@@ -965,7 +932,6 @@
     },
     {
       "StageId": 32102,
-      "DevName": "WeekDungeon_Blood_Stage02",
       "WeekDungeonType": "Blood",
       "Difficulty": 2,
       "BattleDuration": 180000,
@@ -992,7 +958,6 @@
     },
     {
       "StageId": 32103,
-      "DevName": "WeekDungeon_Blood_Stage03",
       "WeekDungeonType": "Blood",
       "Difficulty": 3,
       "BattleDuration": 180000,
@@ -1019,7 +984,6 @@
     },
     {
       "StageId": 32104,
-      "DevName": "WeekDungeon_Blood_Stage04",
       "WeekDungeonType": "Blood",
       "Difficulty": 4,
       "BattleDuration": 180000,
@@ -1046,7 +1010,6 @@
     },
     {
       "StageId": 32105,
-      "DevName": "WeekDungeon_Blood_Stage05",
       "WeekDungeonType": "Blood",
       "Difficulty": 5,
       "BattleDuration": 180000,
@@ -1073,7 +1036,6 @@
     },
     {
       "StageId": 32106,
-      "DevName": "WeekDungeon_Blood_Stage06",
       "WeekDungeonType": "Blood",
       "Difficulty": 6,
       "BattleDuration": 180000,
@@ -1100,7 +1062,6 @@
     },
     {
       "StageId": 32107,
-      "DevName": "WeekDungeon_Blood_Stage07",
       "WeekDungeonType": "Blood",
       "Difficulty": 7,
       "BattleDuration": 180000,
@@ -1127,7 +1088,6 @@
     },
     {
       "StageId": 32108,
-      "DevName": "WeekDungeon_Blood_Stage08",
       "WeekDungeonType": "Blood",
       "Difficulty": 8,
       "BattleDuration": 180000,

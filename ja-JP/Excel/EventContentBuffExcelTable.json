@@ -7,7 +7,7 @@
       "WeaponType": "None",
       "School": "None",
       "CharacterId": 0,
-      "SkillGroupId": null,
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower01",
       "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
       "SpriteName": "Combat_Icon_Buff_ATK",
       "BuffDescriptionLocalizeEtcId": "EventContent_Buff_1"
@@ -19,9 +19,9 @@
       "WeaponType": "SG",
       "School": "None",
       "CharacterId": 0,
-      "SkillGroupId": null,
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
-      "SpriteName": "Combat_Icon_Buff_ATK",
+      "SkillGroupId": "EventContent_Buff_StatChange_CriticalPoint01",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_CriticalChance",
+      "SpriteName": "Combat_Icon_Buff_CriticalChance",
       "BuffDescriptionLocalizeEtcId": "EventContent_Buff_2"
     },
     {
@@ -31,9 +31,9 @@
       "WeaponType": "SMG",
       "School": "None",
       "CharacterId": 0,
-      "SkillGroupId": null,
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
-      "SpriteName": "Combat_Icon_Buff_ATK",
+      "SkillGroupId": "EventContent_Buff_StatChange_CriticalDamage01",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_CriticalDamage",
+      "SpriteName": "Combat_Icon_Buff_CriticalDamage",
       "BuffDescriptionLocalizeEtcId": "EventContent_Buff_3"
     },
     {
@@ -43,9 +43,9 @@
       "WeaponType": "AR",
       "School": "None",
       "CharacterId": 0,
-      "SkillGroupId": null,
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
-      "SpriteName": "Combat_Icon_Buff_ATK",
+      "SkillGroupId": "EventContent_Buff_StatChange_AccuracyPoint01",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_HIT",
+      "SpriteName": "Combat_Icon_Buff_HIT",
       "BuffDescriptionLocalizeEtcId": "EventContent_Buff_4"
     },
     {
@@ -55,9 +55,9 @@
       "WeaponType": "None",
       "School": "None",
       "CharacterId": 13010,
-      "SkillGroupId": null,
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
-      "SpriteName": "Combat_Icon_Buff_ATK",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp01",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
       "BuffDescriptionLocalizeEtcId": "EventContent_Buff_5"
     },
     {
@@ -67,9 +67,9 @@
       "WeaponType": "None",
       "School": "None",
       "CharacterId": 13003,
-      "SkillGroupId": null,
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
-      "SpriteName": "Combat_Icon_Buff_ATK",
+      "SkillGroupId": "EventContent_Buff_StatChange_DefensePower01",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_DEF",
+      "SpriteName": "Combat_Icon_Buff_DEF",
       "BuffDescriptionLocalizeEtcId": "EventContent_Buff_6"
     },
     {
@@ -79,9 +79,9 @@
       "WeaponType": "None",
       "School": "None",
       "CharacterId": 16003,
-      "SkillGroupId": null,
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
-      "SpriteName": "Combat_Icon_Buff_ATK",
+      "SkillGroupId": "EventContent_Buff_StatChange_DodgePoint01",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_Dodge",
+      "SpriteName": "Combat_Icon_Buff_Dodge",
       "BuffDescriptionLocalizeEtcId": "EventContent_Buff_7"
     },
     {
@@ -91,7 +91,7 @@
       "WeaponType": "None",
       "School": "None",
       "CharacterId": 13000,
-      "SkillGroupId": null,
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower01",
       "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
       "SpriteName": "Combat_Icon_Buff_ATK",
       "BuffDescriptionLocalizeEtcId": "EventContent_Buff_8"
@@ -103,9 +103,9 @@
       "WeaponType": "None",
       "School": "Abydos",
       "CharacterId": 0,
-      "SkillGroupId": null,
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
-      "SpriteName": "Combat_Icon_Buff_ATK",
+      "SkillGroupId": "EventContent_Buff_StatChange_CriticalPoint01",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_CriticalChance",
+      "SpriteName": "Combat_Icon_Buff_CriticalChance",
       "BuffDescriptionLocalizeEtcId": "EventContent_Buff_9"
     },
     {
@@ -115,9 +115,9 @@
       "WeaponType": "None",
       "School": "Trinity",
       "CharacterId": 0,
-      "SkillGroupId": null,
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
-      "SpriteName": "Combat_Icon_Buff_ATK",
+      "SkillGroupId": "EventContent_Buff_StatChange_CriticalDamage01",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_CriticalDamage",
+      "SpriteName": "Combat_Icon_Buff_CriticalDamage",
       "BuffDescriptionLocalizeEtcId": "EventContent_Buff_10"
     },
     {
@@ -127,7 +127,7 @@
       "WeaponType": "None",
       "School": "None",
       "CharacterId": 0,
-      "SkillGroupId": null,
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower01",
       "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
       "SpriteName": "Combat_Icon_Debuff_ATK",
       "BuffDescriptionLocalizeEtcId": "EventContent_DeBuff_1"
@@ -139,9 +139,9 @@
       "WeaponType": "SG",
       "School": "None",
       "CharacterId": 0,
-      "SkillGroupId": null,
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
-      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "SkillGroupId": "EventContent_Debuff_StatChange_CriticalPoint01",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_CriticalChance",
+      "SpriteName": "Combat_Icon_Debuff_CriticalChance",
       "BuffDescriptionLocalizeEtcId": "EventContent_DeBuff_2"
     },
     {
@@ -151,9 +151,9 @@
       "WeaponType": "SMG",
       "School": "None",
       "CharacterId": 0,
-      "SkillGroupId": null,
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
-      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "SkillGroupId": "EventContent_Debuff_StatChange_CriticalDamage01",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_CriticalDamage",
+      "SpriteName": "Combat_Icon_Debuff_CriticalDamage",
       "BuffDescriptionLocalizeEtcId": "EventContent_DeBuff_3"
     },
     {
@@ -163,9 +163,9 @@
       "WeaponType": "AR",
       "School": "None",
       "CharacterId": 0,
-      "SkillGroupId": null,
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
-      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AccuracyPoint01",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_HIT",
+      "SpriteName": "Combat_Icon_Debuff_HIT",
       "BuffDescriptionLocalizeEtcId": "EventContent_DeBuff_4"
     },
     {
@@ -175,9 +175,9 @@
       "WeaponType": "HG",
       "School": "None",
       "CharacterId": 0,
-      "SkillGroupId": null,
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
-      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp01",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
       "BuffDescriptionLocalizeEtcId": "EventContent_DeBuff_5"
     },
     {
@@ -187,9 +187,9 @@
       "WeaponType": "SR",
       "School": "None",
       "CharacterId": 0,
-      "SkillGroupId": null,
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
-      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "SkillGroupId": "EventContent_Debuff_StatChange_DefensePower01",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_DEF",
+      "SpriteName": "Combat_Icon_Debuff_DEF",
       "BuffDescriptionLocalizeEtcId": "EventContent_DeBuff_6"
     },
     {
@@ -199,9 +199,9 @@
       "WeaponType": "None",
       "School": "Gehenna",
       "CharacterId": 0,
-      "SkillGroupId": null,
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
-      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "SkillGroupId": "EventContent_Debuff_StatChange_DodgePoint01",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_Dodge",
+      "SpriteName": "Combat_Icon_Debuff_Dodge",
       "BuffDescriptionLocalizeEtcId": "EventContent_DeBuff_7"
     },
     {
@@ -211,7 +211,7 @@
       "WeaponType": "None",
       "School": "Millennium",
       "CharacterId": 0,
-      "SkillGroupId": null,
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower01",
       "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
       "SpriteName": "Combat_Icon_Debuff_ATK",
       "BuffDescriptionLocalizeEtcId": "EventContent_DeBuff_8"
@@ -223,9 +223,9 @@
       "WeaponType": "None",
       "School": "Shanhaijing",
       "CharacterId": 0,
-      "SkillGroupId": null,
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
-      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "SkillGroupId": "EventContent_Debuff_StatChange_CriticalPoint01",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_CriticalChance",
+      "SpriteName": "Combat_Icon_Debuff_CriticalChance",
       "BuffDescriptionLocalizeEtcId": "EventContent_DeBuff_9"
     },
     {
@@ -235,9 +235,9 @@
       "WeaponType": "None",
       "School": "RedWinter",
       "CharacterId": 0,
-      "SkillGroupId": null,
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
-      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "SkillGroupId": "EventContent_Debuff_StatChange_CriticalDamage01",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_CriticalDamage",
+      "SpriteName": "Combat_Icon_Debuff_CriticalDamage",
       "BuffDescriptionLocalizeEtcId": "EventContent_DeBuff_10"
     }
   ]

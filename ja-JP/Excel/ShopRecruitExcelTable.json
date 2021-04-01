@@ -2,7 +2,6 @@
   "DataList": [
     {
       "Id": 1,
-      "DevName": "Goods_TutorialGacha",
       "CategoryType": "TutoGacha",
       "IsLegacy": false,
       "GoodsId": [
@@ -11,25 +10,49 @@
       ],
       "GoodsDevName": null,
       "DisplayOrder": 20,
-      "MovieBannerPath": [],
+      "MovieBannerPath": [
+        "Gacha_Banner_Normal.mp4"
+      ],
       "LinkedRobbyBannerId": 0,
       "InfoCharacterId": [],
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
-      "RecruitCoinId": 0,
-      "RecruitSellectionShopId": 0,
+      "RecruitCoinId": 79999,
+      "RecruitSellectionShopId": 19999,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 2,
+      "CategoryType": "TutoGacha",
+      "IsLegacy": false,
+      "GoodsId": [
+        30000,
+        1
+      ],
+      "GoodsDevName": null,
+      "DisplayOrder": 20,
+      "MovieBannerPath": [
+        "Gacha_Banner_Normal.mp4"
+      ],
+      "LinkedRobbyBannerId": 0,
+      "InfoCharacterId": [],
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "RecruitCoinId": 79999,
+      "RecruitSellectionShopId": 19999,
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 0,
       "PurchaseCountResetType": "None"
     },
     {
       "Id": 50000,
-      "DevName": "(테스트)시즌 2 1차 일반 가챠",
       "CategoryType": "NormalGacha",
-      "IsLegacy": true,
+      "IsLegacy": false,
       "GoodsId": [
-        30010,
-        30011
+        30020,
+        30021
       ],
       "GoodsDevName": null,
       "DisplayOrder": 30,
@@ -38,45 +61,41 @@
       ],
       "LinkedRobbyBannerId": 11,
       "InfoCharacterId": [],
-      "SalePeriodFrom": "01/29/2020 12:00:00",
-      "SalePeriodTo": "02/03/2021 14:00:00",
-      "RecruitCoinId": 70002,
-      "RecruitSellectionShopId": 10010,
+      "SalePeriodFrom": "03/07/2021 12:30:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
+      "RecruitCoinId": 70005,
+      "RecruitSellectionShopId": 10020,
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 0,
       "PurchaseCountResetType": "None"
     },
     {
       "Id": 50001,
-      "DevName": "(테스트)시즌 2 1차 픽업 가챠(이즈나,시즈코)",
       "CategoryType": "PickupGacha",
-      "IsLegacy": true,
+      "IsLegacy": false,
       "GoodsId": [
-        35010,
-        35011
+        35020,
+        35021
       ],
       "GoodsDevName": null,
       "DisplayOrder": 10,
       "MovieBannerPath": [
-        "Gacha_Banner_210225_1.mp4",
-        "Gacha_Banner_210225_2.mp4"
+        "Gacha_Banner_210325_1.mp4"
       ],
       "LinkedRobbyBannerId": 12,
       "InfoCharacterId": [
-        10014,
-        23006
+        10015
       ],
-      "SalePeriodFrom": "01/29/2020 12:00:00",
-      "SalePeriodTo": "02/03/2021 14:00:00",
-      "RecruitCoinId": 70002,
-      "RecruitSellectionShopId": 10010,
+      "SalePeriodFrom": "03/07/2021 12:30:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
+      "RecruitCoinId": 70005,
+      "RecruitSellectionShopId": 10020,
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 0,
       "PurchaseCountResetType": "None"
     },
     {
       "Id": 50002,
-      "DevName": "시즌 1 1차 일반 가챠",
       "CategoryType": "NormalGacha",
       "IsLegacy": true,
       "GoodsId": [
@@ -100,7 +119,6 @@
     },
     {
       "Id": 50003,
-      "DevName": "시즌 1 2차 일반 가챠",
       "CategoryType": "NormalGacha",
       "IsLegacy": true,
       "GoodsId": [
@@ -124,7 +142,6 @@
     },
     {
       "Id": 50004,
-      "DevName": "시즌 1 1차 픽업 가챠(시로코+호시노)",
       "CategoryType": "PickupGacha",
       "IsLegacy": true,
       "GoodsId": [
@@ -152,7 +169,6 @@
     },
     {
       "Id": 50005,
-      "DevName": "시즌 1 2차 픽업 가챠(마시로)",
       "CategoryType": "PickupGacha",
       "IsLegacy": true,
       "GoodsId": [
@@ -178,9 +194,8 @@
     },
     {
       "Id": 50010,
-      "DevName": "시즌 2 1차 일반 가챠",
       "CategoryType": "NormalGacha",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         30010,
         30011
@@ -193,7 +208,7 @@
       "LinkedRobbyBannerId": 1,
       "InfoCharacterId": [],
       "SalePeriodFrom": "02/25/2021 14:30:00",
-      "SalePeriodTo": "03/11/2021 14:00:00",
+      "SalePeriodTo": "03/11/2021 12:00:00",
       "RecruitCoinId": 70002,
       "RecruitSellectionShopId": 10010,
       "PurchaseCooltimeMin": 0,
@@ -202,9 +217,8 @@
     },
     {
       "Id": 50011,
-      "DevName": "시즌 2 1차 픽업 가챠(이즈나,시즈코)",
       "CategoryType": "PickupGacha",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         35010,
         35011
@@ -221,7 +235,7 @@
         23006
       ],
       "SalePeriodFrom": "02/25/2021 14:30:00",
-      "SalePeriodTo": "03/11/2021 14:00:00",
+      "SalePeriodTo": "03/11/2021 12:00:00",
       "RecruitCoinId": 70002,
       "RecruitSellectionShopId": 10010,
       "PurchaseCooltimeMin": 0,
@@ -230,9 +244,8 @@
     },
     {
       "Id": 50012,
-      "DevName": "시즌 2 2차 일반 가챠",
       "CategoryType": "NormalGacha",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         30012,
         30013
@@ -244,8 +257,8 @@
       ],
       "LinkedRobbyBannerId": 2,
       "InfoCharacterId": [],
-      "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/18/2021 14:00:00",
+      "SalePeriodFrom": "03/11/2021 12:30:00",
+      "SalePeriodTo": "03/18/2021 12:00:00",
       "RecruitCoinId": 70003,
       "RecruitSellectionShopId": 10011,
       "PurchaseCooltimeMin": 0,
@@ -254,9 +267,8 @@
     },
     {
       "Id": 50013,
-      "DevName": "시즌 2 2차 픽업 가챠(하루나)",
       "CategoryType": "PickupGacha",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         35012,
         35013
@@ -270,8 +282,8 @@
       "InfoCharacterId": [
         10002
       ],
-      "SalePeriodFrom": "03/11/2021 14:30:00",
-      "SalePeriodTo": "03/18/2021 14:00:00",
+      "SalePeriodFrom": "03/11/2021 12:30:00",
+      "SalePeriodTo": "03/18/2021 12:00:00",
       "RecruitCoinId": 70003,
       "RecruitSellectionShopId": 10011,
       "PurchaseCooltimeMin": 0,
@@ -280,9 +292,8 @@
     },
     {
       "Id": 50014,
-      "DevName": "시즌 2 3차 일반 가챠",
       "CategoryType": "NormalGacha",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         30014,
         30015
@@ -294,8 +305,8 @@
       ],
       "LinkedRobbyBannerId": 3,
       "InfoCharacterId": [],
-      "SalePeriodFrom": "03/18/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodFrom": "03/18/2021 12:30:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "RecruitCoinId": 70004,
       "RecruitSellectionShopId": 10012,
       "PurchaseCooltimeMin": 0,
@@ -304,9 +315,8 @@
     },
     {
       "Id": 50015,
-      "DevName": "시즌 2 3차 픽업 가챠(아루)",
       "CategoryType": "PickupGacha",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         35014,
         35015
@@ -320,10 +330,58 @@
       "InfoCharacterId": [
         10000
       ],
-      "SalePeriodFrom": "03/18/2021 14:30:00",
-      "SalePeriodTo": "03/25/2021 14:00:00",
+      "SalePeriodFrom": "03/18/2021 12:30:00",
+      "SalePeriodTo": "03/25/2021 12:00:00",
       "RecruitCoinId": 70004,
       "RecruitSellectionShopId": 10012,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 50020,
+      "CategoryType": "NormalGacha",
+      "IsLegacy": false,
+      "GoodsId": [
+        30020,
+        30021
+      ],
+      "GoodsDevName": null,
+      "DisplayOrder": 30,
+      "MovieBannerPath": [
+        "Gacha_Banner_Normal.mp4"
+      ],
+      "LinkedRobbyBannerId": 20,
+      "InfoCharacterId": [],
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
+      "RecruitCoinId": 70005,
+      "RecruitSellectionShopId": 10020,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 50021,
+      "CategoryType": "PickupGacha",
+      "IsLegacy": false,
+      "GoodsId": [
+        35020,
+        35021
+      ],
+      "GoodsDevName": null,
+      "DisplayOrder": 10,
+      "MovieBannerPath": [
+        "Gacha_Banner_210325_1.mp4"
+      ],
+      "LinkedRobbyBannerId": 21,
+      "InfoCharacterId": [
+        10015
+      ],
+      "SalePeriodFrom": "03/25/2021 12:30:00",
+      "SalePeriodTo": "04/08/2021 12:00:00",
+      "RecruitCoinId": 70005,
+      "RecruitSellectionShopId": 10020,
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 0,
       "PurchaseCountResetType": "None"

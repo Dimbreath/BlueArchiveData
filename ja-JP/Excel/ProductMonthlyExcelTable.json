@@ -2,7 +2,6 @@
   "DataList": [
     {
       "Id": 100,
-      "DevName": "월정액",
       "ProductId": "com.yostarjp.bluearchive.monthlypass980",
       "StoreType": "GooglePlay",
       "Price": 980,
@@ -13,9 +12,6 @@
       ],
       "ParcelId": [
         2
-      ],
-      "ParcelDevName": [
-        "gem_paid 즉시 지급"
       ],
       "ParcelAmount": [
         392
@@ -31,12 +27,6 @@
         9,
         12,
         13
-      ],
-      "DailyParcelDevName": [
-        "gem_bonus 30일간 지급",
-        " WeekDungeonChaserATicket 30일간 지급",
-        " WeekDungeonChaserBTicket 30일간 지급",
-        " WeekDungeonChaserCTicket 30일간 지급"
       ],
       "DailyParcelAmount": [
         40,
@@ -47,7 +37,6 @@
     },
     {
       "Id": 101,
-      "DevName": "하프 월정액",
       "ProductId": "com.yostarjp.bluearchive.monthlypasshalf490",
       "StoreType": "GooglePlay",
       "Price": 490,
@@ -58,9 +47,6 @@
       ],
       "ParcelId": [
         2
-      ],
-      "ParcelDevName": [
-        "gem_paid 즉시 지급"
       ],
       "ParcelAmount": [
         196
@@ -77,12 +63,6 @@
         12,
         13
       ],
-      "DailyParcelDevName": [
-        "gem_bonus 30일간 지급",
-        "WeekDungeonChaserATicket 30일간 지급",
-        "WeekDungeonChaserBTicket 30일간 지급",
-        "WeekDungeonChaserCTicket 30일간 지급"
-      ],
       "DailyParcelAmount": [
         20,
         1,
@@ -92,7 +72,6 @@
     },
     {
       "Id": 500,
-      "DevName": "월정액",
       "ProductId": "com.yostarjp.bluearchive.monthlypass980",
       "StoreType": "AppStore",
       "Price": 980,
@@ -103,9 +82,6 @@
       ],
       "ParcelId": [
         2
-      ],
-      "ParcelDevName": [
-        "gem_paid 즉시 지급"
       ],
       "ParcelAmount": [
         392
@@ -122,12 +98,6 @@
         12,
         13
       ],
-      "DailyParcelDevName": [
-        " gem_bonus 30일간 지급",
-        " WeekDungeonChaserATicket 30일간 지급",
-        " WeekDungeonChaserBTicket 30일간 지급",
-        " WeekDungeonChaserCTicket 30일간 지급"
-      ],
       "DailyParcelAmount": [
         40,
         2,
@@ -137,7 +107,6 @@
     },
     {
       "Id": 501,
-      "DevName": "하프 월정액",
       "ProductId": "com.yostarjp.bluearchive.monthlypasshalf490",
       "StoreType": "AppStore",
       "Price": 490,
@@ -148,9 +117,6 @@
       ],
       "ParcelId": [
         2
-      ],
-      "ParcelDevName": [
-        "gem_paid 즉시 지급"
       ],
       "ParcelAmount": [
         196
@@ -166,12 +132,6 @@
         9,
         12,
         13
-      ],
-      "DailyParcelDevName": [
-        " gem_bonus 30일간 지급",
-        "WeekDungeonChaserATicket 30일간 지급",
-        "WeekDungeonChaserBTicket 30일간 지급",
-        "WeekDungeonChaserCTicket 30일간 지급"
       ],
       "DailyParcelAmount": [
         20,

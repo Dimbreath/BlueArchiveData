@@ -2,7 +2,6 @@
   "DataList": [
     {
       "Id": 0,
-      "DevName": "Student",
       "TacticEntityType": "Student",
       "FloaterOffsetPosX": 0,
       "FloaterOffsetPosY": 0,
@@ -11,7 +10,6 @@
     },
     {
       "Id": 1,
-      "DevName": "Minion",
       "TacticEntityType": "Minion",
       "FloaterOffsetPosX": -1,
       "FloaterOffsetPosY": 0,
@@ -20,7 +18,6 @@
     },
     {
       "Id": 2,
-      "DevName": "Elite",
       "TacticEntityType": "Elite",
       "FloaterOffsetPosX": 0,
       "FloaterOffsetPosY": 0,
@@ -29,7 +26,6 @@
     },
     {
       "Id": 3,
-      "DevName": "Champion",
       "TacticEntityType": "Champion",
       "FloaterOffsetPosX": 0,
       "FloaterOffsetPosY": 0,
@@ -38,7 +34,6 @@
     },
     {
       "Id": 4,
-      "DevName": "Boss",
       "TacticEntityType": "Boss",
       "FloaterOffsetPosX": 0,
       "FloaterOffsetPosY": 0,
@@ -47,7 +42,6 @@
     },
     {
       "Id": 5,
-      "DevName": "Obstacle",
       "TacticEntityType": "Obstacle",
       "FloaterOffsetPosX": 0,
       "FloaterOffsetPosY": 0,
@@ -56,7 +50,6 @@
     },
     {
       "Id": 6,
-      "DevName": "Servant",
       "TacticEntityType": "Servant",
       "FloaterOffsetPosX": 0,
       "FloaterOffsetPosY": 0,
@@ -65,7 +58,6 @@
     },
     {
       "Id": 7,
-      "DevName": "Vehicle",
       "TacticEntityType": "Vehicle",
       "FloaterOffsetPosX": 0,
       "FloaterOffsetPosY": 0,
@@ -74,7 +66,6 @@
     },
     {
       "Id": 8,
-      "DevName": "Summoned",
       "TacticEntityType": "Summoned",
       "FloaterOffsetPosX": 0,
       "FloaterOffsetPosY": 0,

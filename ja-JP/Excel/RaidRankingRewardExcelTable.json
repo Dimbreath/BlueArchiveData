@@ -46,21 +46,280 @@
       "RankingRewardGroupId": 300,
       "Id": 301,
       "RankStart": 1,
+      "RankEnd": 10000,
+      "PercentRankStart": 0,
+      "PercentRankEnd": 0,
+      "Tier": 4,
+      "RewardParcelType": [
+        "Currency",
+        "Item",
+        "Furniture",
+        "Furniture",
+        "Furniture",
+        "Furniture"
+      ],
+      "RewardParcelUniqueId": [
+        3,
+        7,
+        100223,
+        100222,
+        100221,
+        100220
+      ],
+      "RewardParcelUniqueName": [
+        "RaidCoin",
+        "RaidCoin",
+        "Furnitures",
+        "Furnitures",
+        "Furnitures",
+        "Furnitures"
+      ],
+      "RewardParcelAmount": [
+        1200,
+        575,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "RankingRewardGroupId": 300,
+      "Id": 302,
+      "RankStart": 10001,
+      "RankEnd": 50000,
+      "PercentRankStart": 0,
+      "PercentRankEnd": 0,
+      "Tier": 3,
+      "RewardParcelType": [
+        "Currency",
+        "Item",
+        "Furniture",
+        "Furniture",
+        "Furniture"
+      ],
+      "RewardParcelUniqueId": [
+        3,
+        7,
+        100222,
+        100221,
+        100220
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus",
+        "RaidCoin",
+        "Furnitures",
+        "Furnitures",
+        "Furnitures"
+      ],
+      "RewardParcelAmount": [
+        1000,
+        500,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "RankingRewardGroupId": 300,
+      "Id": 303,
+      "RankStart": 50001,
+      "RankEnd": 100000,
+      "PercentRankStart": 0,
+      "PercentRankEnd": 0,
+      "Tier": 2,
+      "RewardParcelType": [
+        "Currency",
+        "Item",
+        "Furniture",
+        "Furniture"
+      ],
+      "RewardParcelUniqueId": [
+        3,
+        7,
+        100221,
+        100220
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus",
+        "RaidCoin",
+        "Furnitures",
+        "Furnitures"
+      ],
+      "RewardParcelAmount": [
+        800,
+        425,
+        1,
+        1
+      ]
+    },
+    {
+      "RankingRewardGroupId": 300,
+      "Id": 304,
+      "RankStart": 100001,
       "RankEnd": 0,
       "PercentRankStart": 0,
       "PercentRankEnd": 10000,
-      "Tier": 4,
+      "Tier": 1,
       "RewardParcelType": [
-        "Item"
+        "Currency",
+        "Item",
+        "Furniture"
       ],
       "RewardParcelUniqueId": [
-        7
+        3,
+        7,
+        100220
       ],
       "RewardParcelUniqueName": [
-        "RaidCoin"
+        "Gem_Bonus",
+        "RaidCoin",
+        "Furnitures"
       ],
       "RewardParcelAmount": [
-        425
+        600,
+        325,
+        1
+      ]
+    },
+    {
+      "RankingRewardGroupId": 400,
+      "Id": 401,
+      "RankStart": 1,
+      "RankEnd": 10000,
+      "PercentRankStart": 0,
+      "PercentRankEnd": 0,
+      "Tier": 4,
+      "RewardParcelType": [
+        "Currency",
+        "Item",
+        "Furniture",
+        "Furniture",
+        "Furniture",
+        "Furniture"
+      ],
+      "RewardParcelUniqueId": [
+        3,
+        7,
+        100023,
+        100022,
+        100021,
+        100020
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus",
+        "RaidCoin",
+        "Furnitures",
+        "Furnitures",
+        "Furnitures",
+        "Furnitures"
+      ],
+      "RewardParcelAmount": [
+        1200,
+        575,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "RankingRewardGroupId": 400,
+      "Id": 402,
+      "RankStart": 10001,
+      "RankEnd": 50000,
+      "PercentRankStart": 0,
+      "PercentRankEnd": 0,
+      "Tier": 3,
+      "RewardParcelType": [
+        "Currency",
+        "Item",
+        "Furniture",
+        "Furniture",
+        "Furniture"
+      ],
+      "RewardParcelUniqueId": [
+        3,
+        7,
+        100022,
+        100021,
+        100020
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus",
+        "RaidCoin",
+        "Furnitures",
+        "Furnitures",
+        "Furnitures"
+      ],
+      "RewardParcelAmount": [
+        1000,
+        500,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "RankingRewardGroupId": 400,
+      "Id": 403,
+      "RankStart": 50001,
+      "RankEnd": 100000,
+      "PercentRankStart": 0,
+      "PercentRankEnd": 0,
+      "Tier": 2,
+      "RewardParcelType": [
+        "Currency",
+        "Item",
+        "Furniture",
+        "Furniture"
+      ],
+      "RewardParcelUniqueId": [
+        3,
+        7,
+        100021,
+        100020
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus",
+        "RaidCoin",
+        "Furnitures",
+        "Furnitures"
+      ],
+      "RewardParcelAmount": [
+        800,
+        425,
+        1,
+        1
+      ]
+    },
+    {
+      "RankingRewardGroupId": 400,
+      "Id": 404,
+      "RankStart": 100001,
+      "RankEnd": 0,
+      "PercentRankStart": 0,
+      "PercentRankEnd": 10000,
+      "Tier": 1,
+      "RewardParcelType": [
+        "Currency",
+        "Item",
+        "Furniture"
+      ],
+      "RewardParcelUniqueId": [
+        3,
+        7,
+        100020
+      ],
+      "RewardParcelUniqueName": [
+        "Gem_Bonus",
+        "RaidCoin",
+        "Furnitures"
+      ],
+      "RewardParcelAmount": [
+        600,
+        325,
+        1
       ]
     }
   ]

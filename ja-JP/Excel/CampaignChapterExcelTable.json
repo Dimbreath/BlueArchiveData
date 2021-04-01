@@ -387,6 +387,38 @@
         1122102,
         1122103
       ]
+    },
+    {
+      "Id": 113,
+      "Name": "CHAPTER_13",
+      "NormalImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_13_Normal",
+      "HardImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_13_Hard",
+      "Order": 13,
+      "PreChapterId": [
+        112
+      ],
+      "ChapterRewardId": 25,
+      "ChapterHardRewardId": 26,
+      "NormalCampaignStageId": [
+        1131101,
+        1131201,
+        1131202,
+        1131102,
+        1131203,
+        1131204,
+        1131103,
+        1131205,
+        1131206,
+        1131104,
+        1131207,
+        1131208,
+        1131105
+      ],
+      "HardCampaignStageId": [
+        1132101,
+        1132102,
+        1132103
+      ]
     }
   ]
 }

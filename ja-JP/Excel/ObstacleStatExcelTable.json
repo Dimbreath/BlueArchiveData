@@ -226,6 +226,15 @@
       "HighlightFloaterHeight": 0.0
     },
     {
+      "StringID": 2212500001,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
       "StringID": 23746232,
       "Name": null,
       "MaxHP1": 700,
@@ -236,6 +245,15 @@
     },
     {
       "StringID": 2614628564,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 2155616733,
       "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
@@ -262,7 +280,25 @@
       "HighlightFloaterHeight": 0.0
     },
     {
+      "StringID": 108011080,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
       "StringID": 1776147339,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 145046924,
       "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,
@@ -425,6 +461,15 @@
     },
     {
       "StringID": 2740719891,
+      "Name": null,
+      "MaxHP1": 700,
+      "MaxHP100": 15000,
+      "BlockRate": 3000,
+      "Dodge": 0,
+      "HighlightFloaterHeight": 0.0
+    },
+    {
+      "StringID": 3159243628,
       "Name": null,
       "MaxHP1": 700,
       "MaxHP100": 15000,

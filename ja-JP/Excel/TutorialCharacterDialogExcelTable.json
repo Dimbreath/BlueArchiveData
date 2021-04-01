@@ -2,7 +2,6 @@
   "DataList": [
     {
       "TalkId": 1,
-      "DevName": "전투- 린",
       "AnimationName": "01",
       "LocalizeKR": "먼저 [c][007eff]스킬 카드 시스템[-][/c]에 대해서 설명드리겠습니다.",
       "LocalizeJP": "まず、[c][007eff]スキルカードシステム[-][/c]についてご説明いたします。",
@@ -11,7 +10,6 @@
     },
     {
       "TalkId": 1,
-      "DevName": "전투- 린",
       "AnimationName": "02",
       "LocalizeKR": "전투에 참가한 학생들은 [c][007eff]EX스킬 카드[-][/c]를 하나씩 가지고 있습니다.",
       "LocalizeJP": "戦闘に参加する生徒たちは、[c][007eff]EXスキルカード[-][/c]を1枚ずつ持っています。",
@@ -20,7 +18,6 @@
     },
     {
       "TalkId": 1,
-      "DevName": "전투- 린",
       "AnimationName": "01",
       "LocalizeKR": "그 중 3장의 스킬 카드가 임의의 순서대로 드로우됩니다.",
       "LocalizeJP": "そのうち3枚のスキルカードが、ランダムにドローされます。",
@@ -29,7 +26,6 @@
     },
     {
       "TalkId": 1,
-      "DevName": "전투- 린",
       "AnimationName": "01",
       "LocalizeKR": "거기서 원하는 카드를 터치하면 스킬을 사용할 수 있습니다.",
       "LocalizeJP": "そして好きなカードをタッチするとスキルが使えます。",
@@ -38,7 +34,6 @@
     },
     {
       "TalkId": 2,
-      "DevName": "전투- 린",
       "AnimationName": "02",
       "LocalizeKR": "스킬을 사용하기 위해선 그만큼의 [c][007eff]코스트[-][/c]가 필요한데,",
       "LocalizeJP": "スキルを使うためには、その分の[c][007eff]コスト[-][/c]が必要ですが、",
@@ -47,7 +42,6 @@
     },
     {
       "TalkId": 2,
-      "DevName": "전투- 린",
       "AnimationName": "01",
       "LocalizeKR": "코스트는 [c][007eff]자동으로 충전[-][/c]되며, 게이지로 표시가 됩니다.",
       "LocalizeJP": "コストは[c][007eff]自動的にチャージ[-][/c]されていき、ゲージに表示されます。",
@@ -56,7 +50,6 @@
     },
     {
       "TalkId": 3,
-      "DevName": "전투- 린",
       "AnimationName": "01",
       "LocalizeKR": "학생들은 [c][007eff]엄폐물[-][/c]을 발견하면 [c][007eff]자동으로 엄폐[-][/c]를 합니다.",
       "LocalizeJP": "生徒たちは[c][007eff]遮蔽物[-][/c]を発見すると、[c][007eff]自動的に隠れ[-][/c]ます。",
@@ -65,7 +58,6 @@
     },
     {
       "TalkId": 3,
-      "DevName": "전투- 린",
       "AnimationName": "02",
       "LocalizeKR": "엄폐를 하는 동안은 적들의 공격을 상당부분 막아낼 수 있기 때문에, ",
       "LocalizeJP": "隠れている間は、敵の攻撃を大幅に防ぐことができるため、",
@@ -74,7 +66,6 @@
     },
     {
       "TalkId": 3,
-      "DevName": "전투- 린",
       "AnimationName": "99",
       "LocalizeKR": "이 엄폐를 효과적으로 활용하는 것이 전투의 핵심입니다.",
       "LocalizeJP": "この遮蔽を効果的に活用することが戦闘のポイントです。",
@@ -83,7 +74,6 @@
     },
     {
       "TalkId": 3,
-      "DevName": "전투- 린",
       "AnimationName": "20",
       "LocalizeKR": "하지만 엄폐를 할 수 없는 학생들도 있고, 엄폐물이 적의 공격으로 부서질 수 있다는 점을 명심해 주십시오",
       "LocalizeJP": "しかし、隠れることができない生徒もいますし、遮蔽物が敵の攻撃で壊れる恐れもあるという点を、覚えておいてください。",
@@ -92,7 +82,6 @@
     },
     {
       "TalkId": 4,
-      "DevName": "전투- 린",
       "AnimationName": "01",
       "LocalizeKR": "전방에 뭉쳐있는 적들이 보이는군요.",
       "LocalizeJP": "前方に敵が集まっているのが見えますね。",
@@ -101,7 +90,6 @@
     },
     {
       "TalkId": 4,
-      "DevName": "전투- 린",
       "AnimationName": "13",
       "LocalizeKR": "[c][007eff]스즈미[-][/c] 씨의 스킬은 [c][007eff]뭉쳐있는 적들[-][/c]에게 사용하면 효과적이니, 사용해보도록 하시죠.",
       "LocalizeJP": "[c][007eff]スズミ[-][/c]さんのスキルは、[c][007eff]集まっている敵[-][/c]に使うと効果的ですので、使ってみましょう。",
@@ -110,7 +98,6 @@
     },
     {
       "TalkId": 4,
-      "DevName": "전투- 린",
       "AnimationName": "02",
       "LocalizeKR": "스킬 카드를 터치 후에, 뭉쳐있는 적들을 선택해 주세요.",
       "LocalizeJP": "スキルカードをタッチした後に、集まっている敵を選択してください。",
@@ -119,7 +106,6 @@
     },
     {
       "TalkId": 5,
-      "DevName": "전투- 린",
       "AnimationName": "01",
       "LocalizeKR": "그럼 유우카 씨의 스킬을 사용해보겠습니다.",
       "LocalizeJP": "では、ユウカさんのスキルを使ってみましょうか。",
@@ -128,7 +114,6 @@
     },
     {
       "TalkId": 5,
-      "DevName": "전투- 린",
       "AnimationName": "03",
       "LocalizeKR": "[c][007eff]유우카[-][/c] 씨의 스킬은 [c][007eff]자기 자신을 강화[-][/c]하는 타입이라, 스킬 카드를 터치 후에 유우카 씨를 터치하면 됩니다.",
       "LocalizeJP": "[c][007eff]ユウカ[-][/c]さんのスキルは[c][007eff]自分自身を強化[-][/c]するタイプですので、スキルカードをタッチした後に、ユウカさんをタッチしてください。",
@@ -137,7 +122,6 @@
     },
     {
       "TalkId": 6,
-      "DevName": "전투- 린",
       "AnimationName": "42",
       "LocalizeKR": "크루세이더 전차를 상대해야 합니다!",
       "LocalizeJP": "クルセイダー戦車の相手をしなければなりません！",
@@ -146,7 +130,6 @@
     },
     {
       "TalkId": 6,
-      "DevName": "전투- 린",
       "AnimationName": "37",
       "LocalizeKR": "크루세이더 전차는 [c][007eff]중장갑 방어 타입[-][/c]이기 때문에, [c][007eff]관통형 스킬[-][/c]에 추가 피해를 받습니다.",
       "LocalizeJP": "クルセイダー戦車は防御タイプが[c][007eff]「重装甲」[-][/c]の敵なので、[c][007eff]貫通型スキル[-][/c]で追加ダメージを与えられます。",
@@ -155,7 +138,6 @@
     },
     {
       "TalkId": 6,
-      "DevName": "전투- 린",
       "AnimationName": "99",
       "LocalizeKR": "[c][007eff]하스미[-][/c] 씨의 스킬이 [c][007eff]관통형[-][/c]이니 참고해주시길.",
       "LocalizeJP": "[c][007eff]ハスミ[-][/c]さんのスキルが[c][007eff]貫通型[-][/c]ですので、ご参考までに。",
@@ -164,7 +146,6 @@
     },
     {
       "TalkId": 7,
-      "DevName": "Tutorial ID 3 가챠 튜토리얼",
       "AnimationName": "12",
       "LocalizeKR": "이제부터 진짜 선생님의 업무가 시작되었어요!",
       "LocalizeJP": "今からあらためて、先生のお仕事が始まります！",
@@ -173,7 +154,6 @@
     },
     {
       "TalkId": 7,
-      "DevName": "Tutorial ID 3 가챠 튜토리얼",
       "AnimationName": "22",
       "LocalizeKR": "음…… 이제 막 시작된 동아리다보니까 \n아직 가입한 학생수가 많지 않은데…….",
       "LocalizeJP": "ただ……まだ始まったばかりの部活なので、生徒さんの数が少ないですね……。",
@@ -182,7 +162,6 @@
     },
     {
       "TalkId": 7,
-      "DevName": "Tutorial ID 3 가챠 튜토리얼",
       "AnimationName": "01",
       "LocalizeKR": "원활한 업무를 위해 샬레에 입부할 학생들을 좀 더 모집하는 편이 좋을 거 같아요!",
       "LocalizeJP": "お仕事を円滑に行うためにも、シャーレに入部してくれる生徒さんたちを募集したほうが良さそうです！",
@@ -191,7 +170,6 @@
     },
     {
       "TalkId": 8,
-      "DevName": "Tutorial ID 4 로비",
       "AnimationName": "12",
       "LocalizeKR": "새로운 학생을 모집했습니다!",
       "LocalizeJP": "新しい生徒さんが来てくれましたね！",
@@ -200,7 +178,6 @@
     },
     {
       "TalkId": 8,
-      "DevName": "Tutorial ID 4 로비",
       "AnimationName": "01",
       "LocalizeKR": "자, 그럼 총학생회가 전달한 업무들을 해결하러 가볼까요?",
       "LocalizeJP": "それでは、連邦生徒会からのお仕事をしに行ってみましょう。",
@@ -209,7 +186,6 @@
     },
     {
       "TalkId": 9,
-      "DevName": "Tutorial ID 4 챕터 선택",
       "AnimationName": "22",
       "LocalizeKR": "이제 평화로운 키보토스를 어지럽히는 악당들을 상대해야 합니다!",
       "LocalizeJP": "これから、キヴォトスの平和を乱す悪党たちを相手しなければなりません！",
@@ -218,7 +194,6 @@
     },
     {
       "TalkId": 10,
-      "DevName": "Tutorial ID 4 전략맵",
       "AnimationName": "01",
       "LocalizeKR": "이곳은 전략 맵입니다. 학생들을 부대 단위로 배치하고 움직여서 보다 큰 작전을 수행할 수 있어요.",
       "LocalizeJP": "ここは戦略マップです。生徒さんたちを部隊単位で配置、命令して、大きな視点で作戦を遂行する場所です。",
@@ -227,7 +202,6 @@
     },
     {
       "TalkId": 10,
-      "DevName": "Tutorial ID 4 전략맵",
       "AnimationName": "01",
       "LocalizeKR": "<Start> 타일을 눌러서 아군 부대를 투입해 보세요!",
       "LocalizeJP": "「Start」のタイルを押して、味方部隊を投入してみてください！",
@@ -236,7 +210,6 @@
     },
     {
       "TalkId": 11,
-      "DevName": "Tutorial ID 4 편성",
       "AnimationName": "01",
       "LocalizeKR": "방금 전 모집한 학생들을 편성해볼까요?",
       "LocalizeJP": "先ほど来てくれた生徒さんを編成してみましょう。",
@@ -245,7 +218,6 @@
     },
     {
       "TalkId": 12,
-      "DevName": "Tutorial ID 4 편성",
       "AnimationName": "02",
       "LocalizeKR": "부대는 직접 전장에서 \n싸우는 스트라이커 부대와,",
       "LocalizeJP": "部隊は、実際に戦場で戦う\nストライカー部隊と、",
@@ -254,7 +226,6 @@
     },
     {
       "TalkId": 13,
-      "DevName": "Tutorial ID 4 편성",
       "AnimationName": "03",
       "LocalizeKR": "후방에서 지원하는 \n스페셜 부대가 존재합니다.",
       "LocalizeJP": "後方から支援する、スペシャル部隊とで構成されています。",
@@ -263,7 +234,6 @@
     },
     {
       "TalkId": 14,
-      "DevName": "Tutorial ID 4 편성",
       "AnimationName": "31",
       "LocalizeKR": "편성이 끝났으니 출격을 해볼까요?",
       "LocalizeJP": "編成が終わったので、出撃してみましょうか。",
@@ -272,7 +242,6 @@
     },
     {
       "TalkId": 15,
-      "DevName": "Tutorial ID 4 전략맵",
       "AnimationName": "02",
       "LocalizeKR": "그럼 임무 개시 버튼을 눌러서 임무를 시작해 주세요!",
       "LocalizeJP": "それでは任務開始ボタンを押して、任務を始めてください！",
@@ -281,7 +250,6 @@
     },
     {
       "TalkId": 16,
-      "DevName": "Tutorial ID 4 전략맵",
       "AnimationName": "01",
       "LocalizeKR": "이동할 타일을 터치하면 그곳으로 부대가 이동합니다.",
       "LocalizeJP": "移動したい隣接タイルをタッチすると、そこへ部隊が移動します。",
@@ -290,7 +258,6 @@
     },
     {
       "TalkId": 16,
-      "DevName": "Tutorial ID 4 전략맵",
       "AnimationName": "01",
       "LocalizeKR": "그럼 적이 위치한 타일로 이동해서 전투를 시작해 보겠습니다!",
       "LocalizeJP": "それでは敵がいるタイルに移動して、戦闘を開始しましょう！",
@@ -299,7 +266,6 @@
     },
     {
       "TalkId": 17,
-      "DevName": "Tutorial ID 4 전략맵",
       "AnimationName": "10",
       "LocalizeKR": "이동을 한 아군 부대는 \n더 이상 움직일 수 없어요.",
       "LocalizeJP": "一度移動した味方部隊は、\nこのターンこれ以上動けません。",
@@ -308,7 +274,6 @@
     },
     {
       "TalkId": 17,
-      "DevName": "Tutorial ID 4 전략맵",
       "AnimationName": "01",
       "LocalizeKR": "<PHASE 종료> 버튼을 눌러서 턴을 넘기겠습니다.",
       "LocalizeJP": "「フェーズ終了」ボタンを押して、私たちの番を終了します。",
@@ -317,7 +282,6 @@
     },
     {
       "TalkId": 18,
-      "DevName": "Tutorial ID 4 전략맵",
       "AnimationName": "01",
       "LocalizeKR": "다시 저희의 턴이에요!",
       "LocalizeJP": "また私たちのターンです！",
@@ -326,7 +290,6 @@
     },
     {
       "TalkId": 18,
-      "DevName": "Tutorial ID 4 전략맵",
       "AnimationName": "22",
       "LocalizeKR": "이제 남은 적은 이곳의 보스뿐입니다!",
       "LocalizeJP": "残す敵は、もうここのボスだけです！",
@@ -335,7 +298,6 @@
     },
     {
       "TalkId": 19,
-      "DevName": "로비",
       "AnimationName": "02",
       "LocalizeKR": "임무를 수행할 때, 어떤 종류의 지형에서 싸우는지가 중요합니다.",
       "LocalizeJP": "任務を遂行する時、どのような種類の地形で戦うのかが重要です。",
@@ -344,7 +306,6 @@
     },
     {
       "TalkId": 20,
-      "DevName": "로비",
       "AnimationName": "01",
       "LocalizeKR": "여기서 현재 전장의 지형 타입을 확인할 수 있어요.",
       "LocalizeJP": "ここで、現在の戦場の地形タイプを確認できます。",
@@ -353,7 +314,6 @@
     },
     {
       "TalkId": 20,
-      "DevName": "로비",
       "AnimationName": "03",
       "LocalizeKR": "학생들 중에는 특정 지형에서 더 강한 힘을 발휘하는 타입이 있으니, 참고해주세요!",
       "LocalizeJP": "生徒さんの中には、特定の地形でさらに強い力を発揮するタイプの人がいますので、参考にしてください！",
@@ -362,7 +322,6 @@
     },
     {
       "TalkId": 21,
-      "DevName": "결과화면",
       "AnimationName": "32",
       "LocalizeKR": "음, 이걸로 기본적인 전투 방법은 전부 설명드린 거 같아요.",
       "LocalizeJP": "さて、これで基本的な戦闘方法は、すべて説明できたかと思います。",
@@ -371,7 +330,6 @@
     },
     {
       "TalkId": 21,
-      "DevName": "결과화면",
       "AnimationName": "31",
       "LocalizeKR": "이제 선생님이 키보토스의 다양한 사건들을 해결해주는 일만 남았습니다!",
       "LocalizeJP": "これからは、あらためて先生に、キヴォトスの様々な事件を解決していただくことになります！",
@@ -380,7 +338,6 @@
     },
     {
       "TalkId": 21,
-      "DevName": "결과화면",
       "AnimationName": "01",
       "LocalizeKR": "그럼 로비로 돌아가볼까요?",
       "LocalizeJP": "それでは、ロビーに戻りましょうか。",
@@ -389,7 +346,6 @@
     },
     {
       "TalkId": 22,
-      "DevName": "편성 코스트",
       "AnimationName": "02",
       "LocalizeKR": "많은 학생을 편성할수록 스킬을 사용하기 위한 코스트가 빠르게 회복됩니다.",
       "LocalizeJP": "生徒さんを多く編成すればするほど、スキルを使用するためのコストが速く回復します。",
@@ -398,7 +354,6 @@
     },
     {
       "TalkId": 22,
-      "DevName": "편성 코스트",
       "AnimationName": "01",
       "LocalizeKR": "스트라이커 부대와 스페셜 부대 모두 인원을 배치할 때마다",
       "LocalizeJP": "ストライカー部隊とスペシャル部隊の両方にそれぞれ人員を配置していくごとに、",
@@ -407,7 +362,6 @@
     },
     {
       "TalkId": 22,
-      "DevName": "편성 코스트",
       "AnimationName": "03",
       "LocalizeKR": "코스트 회복 속도가 증가하니 많은 학생을 배치해 주세요!",
       "LocalizeJP": "コスト回復速度が速くなりますので、生徒さんをいっぱい配置しましょう！",
@@ -416,7 +370,6 @@
     },
     {
       "TalkId": 23,
-      "DevName": "Tutorial ID 5 모모톡",
       "AnimationName": "01",
       "LocalizeKR": "수고하셨어요, 선생님. 여기가 바로 샬레의 로비입니다.",
       "LocalizeJP": "お疲れ様でした、先生。 あらためまして、こちらがシャーレのロビーです。",
@@ -425,7 +378,6 @@
     },
     {
       "TalkId": 23,
-      "DevName": "Tutorial ID 5 모모톡",
       "AnimationName": "03",
       "LocalizeKR": "이제부터 선생님이 다양한 업무를 수행하실 곳이에요.",
       "LocalizeJP": "これから先生が、色々なお仕事をしていく拠点ですね。",
@@ -434,7 +386,6 @@
     },
     {
       "TalkId": 23,
-      "DevName": "Tutorial ID 5 모모톡",
       "AnimationName": "03",
       "LocalizeKR": "어라? 누군가로부터 연락이 와 있네요.",
       "LocalizeJP": "……あれ、誰かから連絡が来てますね？",
@@ -443,7 +394,6 @@
     },
     {
       "TalkId": 24,
-      "DevName": "Tutorial ID 5 모모톡",
       "AnimationName": "01",
       "LocalizeKR": "<모모톡>은 키보토스에서 사용하는 메신저예요.",
       "LocalizeJP": "「モモトーク」はキヴォトスで広く普及しているトークアプリです。",
@@ -452,7 +402,6 @@
     },
     {
       "TalkId": 24,
-      "DevName": "Tutorial ID 5 모모톡",
       "AnimationName": "01",
       "LocalizeKR": "앞으로 선생님은 이걸로 학생들과 대화를 하거나,",
       "LocalizeJP": "これから先生は、このモモトークで生徒さんたちとおしゃべりしたり、",
@@ -461,7 +410,6 @@
     },
     {
       "TalkId": 24,
-      "DevName": "Tutorial ID 5 모모톡",
       "AnimationName": "01",
       "LocalizeKR": "학생들과의 인연 정보를 확인할 수도 있어요.",
       "LocalizeJP": "生徒さんとの絆に関する情報を確認することもできます。",
@@ -470,7 +418,6 @@
     },
     {
       "TalkId": 25,
-      "DevName": "Tutorial ID 5 모모톡",
       "AnimationName": "01",
       "LocalizeKR": "새로 도착한 메시지는 왼쪽에 따로 표시됩니다.",
       "LocalizeJP": "新しく届いたメッセージは、左側に表示されています。",
@@ -479,7 +426,6 @@
     },
     {
       "TalkId": 26,
-      "DevName": "Tutorial ID 5 모모톡",
       "AnimationName": "03",
       "LocalizeKR": "표시된 아이콘을 눌러, 메시지를 확인해보죠!",
       "LocalizeJP": "アイコンをタップして、メッセージを確認してみましょう！",
@@ -488,7 +434,6 @@
     },
     {
       "TalkId": 27,
-      "DevName": "Tutorial ID 5 모모톡",
       "AnimationName": "20",
       "LocalizeKR": "어라, 유우카 씨였네요!",
       "LocalizeJP": "あ、ユウカさんからですね！",
@@ -497,7 +442,6 @@
     },
     {
       "TalkId": 27,
-      "DevName": "Tutorial ID 5 모모톡",
       "AnimationName": "25",
       "LocalizeKR": "무슨 일인지는 선생님이 직접 확인해보셔야 할 거 같아요.",
       "LocalizeJP": "内容についてはもちろん、先生ご自身に確認していただければと……！",
@@ -506,7 +450,6 @@
     },
     {
       "TalkId": 28,
-      "DevName": "Tutorial ID 5 모모톡",
       "AnimationName": "01",
       "LocalizeKR": "어쩌면 뜻밖의 선물을 얻을 수 있을지도……?!",
       "LocalizeJP": "ひょっとしたら、思いがけないものが手に入ったりすることも……！？",
@@ -515,7 +458,6 @@
     },
     {
       "TalkId": 9999,
-      "DevName": "스토리 연결",
       "AnimationName": "01",
       "LocalizeKR": "여기서 스토리를 확인할 수 있습니다.",
       "LocalizeJP": "ここではストーリーが見られます。",
@@ -524,7 +466,6 @@
     },
     {
       "TalkId": 9999,
-      "DevName": "스토리 연결",
       "AnimationName": "02",
       "LocalizeKR": "키보토스에서 벌어지는 다양한 사건을 해결해 나가는 메인 스토리와,",
       "LocalizeJP": "キヴォトスで繰り広げられる、様々な事件を解決していくメインストーリーと、",
@@ -533,7 +474,6 @@
     },
     {
       "TalkId": 9999,
-      "DevName": "스토리 연결",
       "AnimationName": "31",
       "LocalizeKR": "학생들의 일상이 담겨있는 서브 스토리가 존재합니다.",
       "LocalizeJP": "生徒さんたちの日常が垣間見られるサブストーリーが存在します。",
@@ -542,7 +482,6 @@
     },
     {
       "TalkId": 9999,
-      "DevName": "스토리 연결",
       "AnimationName": "32",
       "LocalizeKR": "그 외 다양한 이야기들을 여기서 확인할 수 있으니 체크해주세요!",
       "LocalizeJP": "その他にも、様々なエピソードがここで見ることができますので、チェックしてみてください！",
@@ -551,7 +490,6 @@
     },
     {
       "TalkId": 9999,
-      "DevName": "스케줄 연결",
       "AnimationName": "25",
       "LocalizeKR": "이곳은 선생님의 일과를 결정할 수 있는 곳입니다!",
       "LocalizeJP": "ここは、先生のスケジュールを決められるところです！",
@@ -560,7 +498,6 @@
     },
     {
       "TalkId": 9999,
-      "DevName": "스케줄 연결",
       "AnimationName": "02",
       "LocalizeKR": "학생들과 함께 다양한 스케쥴을 선택하고 수행할 수 있는데요.",
       "LocalizeJP": "生徒の皆さんと一緒に、様々なスケジュールを選択して遂行できます。",
@@ -569,7 +506,6 @@
     },
     {
       "TalkId": 9999,
-      "DevName": "스케줄 연결",
       "AnimationName": "01",
       "LocalizeKR": "음, 일단 샬레 업무관으로 이동을 해볼까요?",
       "LocalizeJP": "さて、まずはシャーレのオフィスに移動してみましょう。",
@@ -578,7 +514,6 @@
     },
     {
       "TalkId": 9999,
-      "DevName": "업무관 설명",
       "AnimationName": "02",
       "LocalizeKR": "준비된 수업을 선택하면, 이 스케쥴에 참가하는 학생들의 인연 포인트가 증가합니다!",
       "LocalizeJP": "準備されている授業を選択すると、このスケジュールに参加した生徒さんたちとの絆ポイントが増加します！",
@@ -587,7 +522,6 @@
     },
     {
       "TalkId": 9999,
-      "DevName": "업무관 설명",
       "AnimationName": "25",
       "LocalizeKR": "스케쥴 수행 횟수에는 제한이 있기 때문에, 잘 생각해서 결정하셔야 해요!",
       "LocalizeJP": "スケジュールの遂行回数には制限がありますので、よく考えて決めてくださいね！",
@@ -596,7 +530,6 @@
     },
     {
       "TalkId": 35,
-      "DevName": "하드 임무 연결",
       "AnimationName": "25",
       "LocalizeKR": "하드 임무가 개방되었어요!",
       "LocalizeJP": "Hard任務が解放されました！",
@@ -605,7 +538,6 @@
     },
     {
       "TalkId": 35,
-      "DevName": "하드 임무 연결",
       "AnimationName": "25",
       "LocalizeKR": "중요한 임무인만큼 같이 한번 확인해보겠습니다.",
       "LocalizeJP": "重要な任務なので、一緒に確認しにいきましょう。",
@@ -614,7 +546,6 @@
     },
     {
       "TalkId": 36,
-      "DevName": "하드 임무 설명",
       "AnimationName": "22",
       "LocalizeKR": "하드 임무에는 더 어려운 만큼 더 좋은 보상을 획득할 수 있습니다.",
       "LocalizeJP": "Hard任務は難しい分、より良い報酬を獲得できます。",
@@ -623,7 +554,6 @@
     },
     {
       "TalkId": 36,
-      "DevName": "하드 임무 설명",
       "AnimationName": "22",
       "LocalizeKR": "하지만 하루에 입장할 수 있는 횟수가 제한되어 있다는 점, 체크해두세요.",
       "LocalizeJP": "ですが、1日の挑戦回数が限られていることを覚えておいてくださいね。",
@@ -632,7 +562,6 @@
     },
     {
       "TalkId": 37,
-      "DevName": "하드 임무 설명",
       "AnimationName": "25",
       "LocalizeKR": "그럼 임무에 들어가볼까요?",
       "LocalizeJP": "それでは任務に行ってみましょう。",
@@ -641,7 +570,6 @@
     },
     {
       "TalkId": 38,
-      "DevName": "하드 밤 설명",
       "AnimationName": "02",
       "LocalizeKR": "하드 임무는 기본적으로 시야 확보가 어려운 전투입니다.",
       "LocalizeJP": "ハード任務は基本的に、視野の確保が難しい戦闘になります。",
@@ -650,7 +578,6 @@
     },
     {
       "TalkId": 39,
-      "DevName": "하드 밤 설명",
       "AnimationName": "05",
       "LocalizeKR": "보이지 않는 지역에는 적이 숨어있을 수도 있고, 중요한 아이템이 놓여있을 수도 있지만 확인하기 전까지는 알 수 없습니다.",
       "LocalizeJP": "見えない場所には敵が隠れているかもしれませんし、重要なアイテムが置いてあるかもしれませんが、それは確認してみるまでわかりません。",
@@ -659,7 +586,6 @@
     },
     {
       "TalkId": 39,
-      "DevName": "하드 밤 설명",
       "AnimationName": "05",
       "LocalizeKR": "그렇기 때문에 좀 더 전략적인 판단이 중요할 거 같아요!",
       "LocalizeJP": "ですので、普段以上に戦略的判断が重要になります！",
@@ -668,7 +594,6 @@
     },
     {
       "TalkId": 39,
-      "DevName": "하드 밤 설명",
       "AnimationName": "25",
       "LocalizeKR": "그럼 시작해보겠습니다!",
       "LocalizeJP": "それでは始めてみましょう！",
@@ -677,7 +602,6 @@
     },
     {
       "TalkId": 40,
-      "DevName": "특별임무 설명",
       "AnimationName": "01",
       "LocalizeKR": "특별임무는 선생님이 원하는 임무를 선택해서 수행할 수 있습니다.",
       "LocalizeJP": "特別任務は、先生の希望する任務を選択して遂行できます。",
@@ -686,7 +610,6 @@
     },
     {
       "TalkId": 40,
-      "DevName": "특별임무 설명",
       "AnimationName": "02",
       "LocalizeKR": "임무마다 다른 전략과 조합이 필요하기 때문에, 각 임무에 맞는 공략법을 찾아내는 것이 핵심입니다!",
       "LocalizeJP": "任務によって異なる戦略の組み合わせが必要ですので、各任務に合った攻略法を見つけることがポイントです！",
@@ -695,7 +618,6 @@
     },
     {
       "TalkId": 41,
-      "DevName": "특별임무 설명",
       "AnimationName": "31",
       "LocalizeKR": "이번에는 <거점 방어>임무를 선택해보겠습니다.",
       "LocalizeJP": "今回は、「拠点防衛」任務を選択してみましょう。",
@@ -704,7 +626,6 @@
     },
     {
       "TalkId": 42,
-      "DevName": "특별임무 설명",
       "AnimationName": "01",
       "LocalizeKR": "임무의 정보는 여기서 확인할 수 있어요.",
       "LocalizeJP": "任務の情報は、ここで確認できます。",
@@ -713,7 +634,6 @@
     },
     {
       "TalkId": 43,
-      "DevName": "지형 설명",
       "AnimationName": "02",
       "LocalizeKR": "현재 전장의 지형 타입을 체크하는 것이 중요합니다.",
       "LocalizeJP": "戦場の地形タイプをチェックすることが重要です。",
@@ -722,7 +642,6 @@
     },
     {
       "TalkId": 43,
-      "DevName": "지형 설명",
       "AnimationName": "31",
       "LocalizeKR": "학생들 중에는 특정 지형에서 더 강한 힘을 발휘하는 타입이 있으니, 거기에 맞게 부대를 편성하는 것이 유리하겠죠?",
       "LocalizeJP": "生徒さんの中には、特定の地形でさらに強い力を発揮するタイプの人がいますので、それに合わせて部隊を編成した方が有利になります。",
@@ -731,7 +650,6 @@
     },
     {
       "TalkId": 44,
-      "DevName": "지형 설명",
       "AnimationName": "32",
       "LocalizeKR": "그럼 특별 임무에 들어가보겠습니다.",
       "LocalizeJP": "それでは特別任務に入ります。",
@@ -740,7 +658,6 @@
     },
     {
       "TalkId": 45,
-      "DevName": "지형 설명",
       "AnimationName": "25",
       "LocalizeKR": "<거점 방어>에는 다수의 뭉쳐있는 적들이 몰려오기 때문에, 광역 공격 스킬이 유리합니다.",
       "LocalizeJP": "「拠点防衛」では多数の敵が押し寄せてくるため、広域を攻撃できるスキルが有効です。",
@@ -749,7 +666,6 @@
     },
     {
       "TalkId": 45,
-      "DevName": "지형 설명",
       "AnimationName": "25",
       "LocalizeKR": "전투 컨셉과 지형을 모두 고려해서 학생들을 편성해 주세요!",
       "LocalizeJP": "戦闘のコンセプトや地形などを考慮して、生徒さんたちを編成してください！",
@@ -758,7 +674,6 @@
     },
     {
       "TalkId": 49,
-      "DevName": "레이드 설명",
       "AnimationName": "05",
       "LocalizeKR": "총력전은 가장 강력한 보스와 싸우는 임무입니다.",
       "LocalizeJP": "総力戦では、とっても強力なボスと戦うことになります。",
@@ -767,7 +682,6 @@
     },
     {
       "TalkId": 49,
-      "DevName": "레이드 설명",
       "AnimationName": "05",
       "LocalizeKR": "하루에 전투할 수 있는 횟수가 제한되어 있기 때문에, 신중하게 전투에 임해야 해요!",
       "LocalizeJP": "また、1日に戦闘できる回数が限られているので、慎重に臨まなければなりません！",
@@ -776,7 +690,6 @@
     },
     {
       "TalkId": 50,
-      "DevName": "레이드 설명",
       "AnimationName": "02",
       "LocalizeKR": "총력전은 여러 난이도로 나누어져 있고, 어려운 난이도일수록 좋은 보상을 획득할 수 있습니다.",
       "LocalizeJP": "総力戦は様々な難易度に分かれていて、高い難易度であればあるほど、より良い報酬を獲得できます。",
@@ -785,7 +698,6 @@
     },
     {
       "TalkId": 51,
-      "DevName": "레이드 설명",
       "AnimationName": "32",
       "LocalizeKR": "그럼 여기까지입니다! 선생님의 활약을 기대할게요!",
       "LocalizeJP": "では私は一旦ここまでです！　先生のご活躍を期待していますね！",
@@ -794,7 +706,6 @@
     },
     {
       "TalkId": 52,
-      "DevName": "전술대회 설명",
       "AnimationName": "01",
       "LocalizeKR": "전술대회는 다른 학생들과 전투를 통해 순위를 경쟁하는 대회입니다.",
       "LocalizeJP": "戦術対抗戦は、他の生徒さんたちとの戦闘を通じて、順位を競う大会です。",
@@ -803,7 +714,6 @@
     },
     {
       "TalkId": 52,
-      "DevName": "전술대회 설명",
       "AnimationName": "02",
       "LocalizeKR": "여기서 대회에 참가한 팀의 리스트를 확인할 수 있어요.",
       "LocalizeJP": "ここでは大会に参加しているチームのリストを確認することができます。",
@@ -812,7 +722,6 @@
     },
     {
       "TalkId": 53,
-      "DevName": "전술대회 설명",
       "AnimationName": "31",
       "LocalizeKR": "먼저 방어 편성을 위해 버튼을 터치해 주세요.",
       "LocalizeJP": "まずは防御編成をするために、このボタンをタッチしてください。",
@@ -821,7 +730,6 @@
     },
     {
       "TalkId": 54,
-      "DevName": "전술대회 설명",
       "AnimationName": "01",
       "LocalizeKR": "방어 편성의 핵심은 선생님에게 유리한 지형으로 맵을 선택할 수 있다는 거예요!",
       "LocalizeJP": "防御編成のポイントは、先生に有利な地形のマップを選択することです！",
@@ -830,7 +738,6 @@
     },
     {
       "TalkId": 54,
-      "DevName": "전술대회 설명",
       "AnimationName": "02",
       "LocalizeKR": "맵 선택과 학생 스킬을 잘 구성하여 방어 편성을 해주세요!",
       "LocalizeJP": "マップ選択と、生徒さんたちのスキル構成を踏まえた上で、防御編成をしてください！",
@@ -839,7 +746,6 @@
     },
     {
       "TalkId": 55,
-      "DevName": "전술대회 설명",
       "AnimationName": "32",
       "LocalizeKR": "전술대회에서 선생님의 멋진 활약을 기대하겠습니다!",
       "LocalizeJP": "戦術対抗戦での、先生の素晴らしいご活躍を期待します！",
@@ -848,7 +754,6 @@
     },
     {
       "TalkId": 56,
-      "DevName": "학생 인벤토리",
       "AnimationName": "01",
       "LocalizeKR": "이번엔 학생들을 성장시키는 방법에 대해 알아보겠습니다.",
       "LocalizeJP": "今回は、生徒の皆さんを成長させる方法について説明します。",
@@ -857,7 +762,6 @@
     },
     {
       "TalkId": 56,
-      "DevName": "학생 인벤토리",
       "AnimationName": "02",
       "LocalizeKR": "우선 성장시킬 학생을 선택해 볼까요?",
       "LocalizeJP": "まずは、成長させる生徒さんを選択してみましょうか？",
@@ -866,7 +770,6 @@
     },
     {
       "TalkId": 57,
-      "DevName": "학생 정보",
       "AnimationName": "01",
       "LocalizeKR": "학생 정보에서는 학생의 기본적인 능력치 정보를 확인 할 수 있어요.",
       "LocalizeJP": "ここでは、生徒さんたちの基本的な能力値の情報を確認できます。",
@@ -875,7 +778,6 @@
     },
     {
       "TalkId": 57,
-      "DevName": "학생 정보",
       "AnimationName": "31",
       "LocalizeKR": "먼저 학생의 장비를 확인할 수 있는 장비 슬롯과,",
       "LocalizeJP": "まずここには、生徒の皆さんの装備を確認できるスロットや、",
@@ -884,7 +786,6 @@
     },
     {
       "TalkId": 58,
-      "DevName": "학생 정보",
       "AnimationName": "02",
       "LocalizeKR": "레벨 업, 신비 해방, 스킬 성장 등 학생을 성장시킬 수 있는",
       "LocalizeJP": "「レベルアップ」「神秘解放」「スキル成長」など、生徒の皆さんを成長させることができる、",
@@ -893,7 +794,6 @@
     },
     {
       "TalkId": 58,
-      "DevName": "학생 정보",
       "AnimationName": "31",
       "LocalizeKR": "다양한 방법들이 준비되어 있습니다.",
       "LocalizeJP": "様々な方法が用意されています。",
@@ -902,7 +802,6 @@
     },
     {
       "TalkId": 59,
-      "DevName": "학생 정보",
       "AnimationName": "25",
       "LocalizeKR": "그럼 먼저 가장 기초가 되는 레벨 업을 해볼까요?",
       "LocalizeJP": "まず、最も基本的な「レベルアップ」をしてみましょう！",
@@ -911,7 +810,6 @@
     },
     {
       "TalkId": 60,
-      "DevName": "학생 레벨업",
       "AnimationName": "02",
       "LocalizeKR": "여기서는 학생이 레벨 업할 때 상승하는 능력치 정보를 확인할 수 있어요.",
       "LocalizeJP": "ここでは、生徒さんたちがレベルアップする際に上昇する、能力値の情報が確認できます。",
@@ -920,7 +818,6 @@
     },
     {
       "TalkId": 61,
-      "DevName": "학생 레벨업",
       "AnimationName": "02",
       "LocalizeKR": "레벨 업에는 <활동 보고서>가 필요한데, ",
       "LocalizeJP": "レベルアップには「レポート」が必要ですが、",
@@ -929,7 +826,6 @@
     },
     {
       "TalkId": 62,
-      "DevName": "학생 레벨업",
       "AnimationName": "01",
       "LocalizeKR": "활동 보고서는 다양한 업무를 수행하면서 획득 할 수 있습니다.",
       "LocalizeJP": "この「レポート」は、様々なお仕事をこなすことで獲得できます。",
@@ -938,7 +834,6 @@
     },
     {
       "TalkId": 62,
-      "DevName": "학생 레벨업",
       "AnimationName": "32",
       "LocalizeKR": "선생님의 레벨만큼 학생들의 레벨을 올릴 수 있기 때문에, 잊지 말고 학생들을 성장시켜주세요!",
       "LocalizeJP": "先生のレベルに応じて、生徒の皆さんのレベルを上げることができます。なので、先生のレベルが上がったら忘れずに、生徒さんたちを成長させてあげてください！",
@@ -947,7 +842,6 @@
     },
     {
       "TalkId": 63,
-      "DevName": "Tutorial ID 8 장비",
       "AnimationName": "01",
       "LocalizeKR": "이번엔 학생들의 장비에 대해 알아보겠습니다.",
       "LocalizeJP": "次は生徒さんたちの装備について見てみましょう。",
@@ -956,7 +850,6 @@
     },
     {
       "TalkId": 63,
-      "DevName": "Tutorial ID 8 장비",
       "AnimationName": "01",
       "LocalizeKR": "장비를 관리할 학생을 선택해 볼까요?",
       "LocalizeJP": "まずは生徒さんを選択してみましょう。",
@@ -965,7 +858,6 @@
     },
     {
       "TalkId": 64,
-      "DevName": "Tutorial ID 8 장비",
       "AnimationName": "01",
       "LocalizeKR": "학생의 장비는 아래의 장비 슬롯에서 확인할 수 있습니다.",
       "LocalizeJP": "生徒さんの装備は、下の装備スロットで確認ができます。",
@@ -974,7 +866,6 @@
     },
     {
       "TalkId": 65,
-      "DevName": "Tutorial ID 8 장비",
       "AnimationName": "01",
       "LocalizeKR": "열려있는 슬롯 수만큼 필요한 장비를 착용할 수 있고",
       "LocalizeJP": "開いているスロットの分だけ装備を身に付けることができ、",
@@ -983,7 +874,6 @@
     },
     {
       "TalkId": 65,
-      "DevName": "Tutorial ID 8 장비",
       "AnimationName": "01",
       "LocalizeKR": "아직 잠겨 있는 슬롯들도 학생의 레벨이 오르면 나중에 개방됩니다.",
       "LocalizeJP": "まだロックされているスロットも、生徒さんのレベルが上がることで順次解放されていきます。",
@@ -992,7 +882,6 @@
     },
     {
       "TalkId": 65,
-      "DevName": "Tutorial ID 8 장비",
       "AnimationName": "01",
       "LocalizeKR": "착용 중인 장비 또한 이 버튼으로 성장시킬 수 있어요.",
       "LocalizeJP": "装備は、このボタンで強化することができます。",
@@ -1001,7 +890,6 @@
     },
     {
       "TalkId": 66,
-      "DevName": "Tutorial ID 8 장비",
       "AnimationName": "25",
       "LocalizeKR": "좋은 장비를 착용하면 학생들도 더 잘 싸울 수 있겠죠?",
       "LocalizeJP": "素敵な装備を身に付ければ、生徒さんたちの能力はもちろん、やる気もアップするはずです！",
@@ -1010,7 +898,6 @@
     },
     {
       "TalkId": 66,
-      "DevName": "Tutorial ID 8 장비",
       "AnimationName": "03",
       "LocalizeKR": "더 좋은 장비들로 학생들을 성장시켜주세요!",
       "LocalizeJP": "より良い装備で、生徒さんたちを成長させてあげてください！",
@@ -1019,7 +906,6 @@
     },
     {
       "TalkId": 67,
-      "DevName": "Tutorial ID 9 카페",
       "AnimationName": "01",
       "LocalizeKR": "어서오세요 선생님, 이곳은 샬레의 부속 카페입니다.",
       "LocalizeJP": "いらっしゃいませ、先生。こちらはシャーレに併設されたカフェです。",
@@ -1028,7 +914,6 @@
     },
     {
       "TalkId": 67,
-      "DevName": "Tutorial ID 9 카페",
       "AnimationName": "03",
       "LocalizeKR": "여기에서는 방문한 학생들과 인사를 나누거나, 카페의 수익을 얻을 수 있어요.",
       "LocalizeJP": "ここでは訪れた生徒さんたちと挨拶を交わしたり、カフェの収益を得ることができます。",
@@ -1037,7 +922,6 @@
     },
     {
       "TalkId": 67,
-      "DevName": "Tutorial ID 9 카페",
       "AnimationName": "01",
       "LocalizeKR": "카페에 방문한 학생들과는 터치로 상호작용이 가능합니다.",
       "LocalizeJP": "カフェを訪問した生徒さんとは、タッチで交流することができます。",
@@ -1046,7 +930,6 @@
     },
     {
       "TalkId": 68,
-      "DevName": "Tutorial ID 9 카페",
       "AnimationName": "01",
       "LocalizeKR": "그럼 이제 카페에서 할 수 있는 일들을 알려드릴게요.",
       "LocalizeJP": "それではこれから、カフェでできることをお伝えしますね。",
@@ -1055,7 +938,6 @@
     },
     {
       "TalkId": 69,
-      "DevName": "Tutorial ID 9 카페",
       "AnimationName": "13",
       "LocalizeKR": "예쁜 가구들로 카페를 꾸미거나, 찾아온 학생들에게 선물을 줄 수도 있어요.",
       "LocalizeJP": "まずはおしゃれな家具でカフェを飾ったり、その他にも、訪れた生徒さんに贈り物をすることができます。",
@@ -1064,7 +946,6 @@
     },
     {
       "TalkId": 69,
-      "DevName": "Tutorial ID 9 카페",
       "AnimationName": "01",
       "LocalizeKR": "그리고 오른쪽에선 카페의 현재 상황을 확인할 수 있습니다.",
       "LocalizeJP": "そしてこの部分で、カフェの現在の状況を見ることができます。",
@@ -1073,7 +954,6 @@
     },
     {
       "TalkId": 70,
-      "DevName": "Tutorial ID 9 카페",
       "AnimationName": "01",
       "LocalizeKR": "카페에 배치된 가구에 따라 카페의 쾌적도가 달라져요.",
       "LocalizeJP": "カフェに配置された家具によって、カフェの快適度は変わってきます。",
@@ -1082,7 +962,6 @@
     },
     {
       "TalkId": 70,
-      "DevName": "Tutorial ID 9 카페",
       "AnimationName": "25",
       "LocalizeKR": "그리고 쾌적도에 따라, 카페의 수익이 달라집니다!",
       "LocalizeJP": "そしてその快適度によって、カフェの収入が左右されます！",
@@ -1091,7 +970,6 @@
     },
     {
       "TalkId": 71,
-      "DevName": "Tutorial ID 9 카페",
       "AnimationName": "22",
       "LocalizeKR": "이곳에서 카페가 얻은 수익을 확인하고, 획득할 수 있습니다.",
       "LocalizeJP": "ここで、カフェの収入を確認することができます。",
@@ -1100,7 +978,6 @@
     },
     {
       "TalkId": 72,
-      "DevName": "Tutorial ID 9 카페",
       "AnimationName": "01",
       "LocalizeKR": "수익의 한도가 다 차기 전에 획득해주세요.",
       "LocalizeJP": "収入は保有限度があり、いっぱいになると超過した分の収入は消えてしまうので、ご注意ください！",
@@ -1109,7 +986,6 @@
     },
     {
       "TalkId": 73,
-      "DevName": "Tutorial ID 10 스킬 성장",
       "AnimationName": "01",
       "LocalizeKR": "이번에는 학생들의 스킬을 확인하고 성장시키는 법을 알아볼까요?",
       "LocalizeJP": "次に、生徒さんたちのスキルを確認して、それを成長させる方法も見てみましょう。",
@@ -1118,7 +994,6 @@
     },
     {
       "TalkId": 73,
-      "DevName": "Tutorial ID 10 스킬 성장",
       "AnimationName": "03",
       "LocalizeKR": "먼저, 확인할 학생을 선택해주세요.",
       "LocalizeJP": "まず、生徒さんを選択してください。",
@@ -1127,7 +1002,6 @@
     },
     {
       "TalkId": 74,
-      "DevName": "Tutorial ID 10 스킬 성장",
       "AnimationName": "01",
       "LocalizeKR": "학생이 가진 스킬들은 이곳에서 확인할 수 있습니다.",
       "LocalizeJP": "生徒さんが持っているスキルは、ここで確認できます。",
@@ -1136,7 +1010,6 @@
     },
     {
       "TalkId": 75,
-      "DevName": "Tutorial ID 10 스킬 성장",
       "AnimationName": "01",
       "LocalizeKR": "좀 더 자세히 살펴볼까요?",
       "LocalizeJP": "もう少し詳しく見てみましょう。",
@@ -1145,7 +1018,6 @@
     },
     {
       "TalkId": 76,
-      "DevName": "Tutorial ID 10 스킬 성장",
       "AnimationName": "01",
       "LocalizeKR": "각 스킬들을 누르면 해당 스킬의 자세한 설명을 보실 수 있어요.",
       "LocalizeJP": "それぞれのスキルをタップすると、そのスキルの詳細説明が確認できます。",
@@ -1154,7 +1026,6 @@
     },
     {
       "TalkId": 76,
-      "DevName": "Tutorial ID 10 스킬 성장",
       "AnimationName": "01",
       "LocalizeKR": "자, 그럼 이제 그 스킬들을 어떻게 성장시키느냐면… ",
       "LocalizeJP": "それでは次に、スキルをどのように成長させるかといいますと……",
@@ -1163,7 +1034,6 @@
     },
     {
       "TalkId": 77,
-      "DevName": "Tutorial ID 10 스킬 성장",
       "AnimationName": "01",
       "LocalizeKR": "이곳에서 원하는 스킬을 선택해서 스킬을 성장시킬 수 있습니다.",
       "LocalizeJP": "ここで、好きなスキルを成長させることができます。",
@@ -1172,7 +1042,6 @@
     },
     {
       "TalkId": 78,
-      "DevName": "Tutorial ID 10 스킬 성장",
       "AnimationName": "01",
       "LocalizeKR": "다음 레벨의 스킬에 대해 미리 알아볼 수도 있고",
       "LocalizeJP": "次のレベルのスキル情報について、事前に確認することもできます。",
@@ -1181,7 +1050,6 @@
     },
     {
       "TalkId": 79,
-      "DevName": "Tutorial ID 10 스킬 성장",
       "AnimationName": "01",
       "LocalizeKR": "성장을 위해 필요한 재료들도 확인할 수 있어요.",
       "LocalizeJP": "成長に必要な材料は、こちらで確認できます。",
@@ -1190,7 +1058,6 @@
     },
     {
       "TalkId": 80,
-      "DevName": "Tutorial ID 10 스킬 성장",
       "AnimationName": "11",
       "LocalizeKR": "재료를 모아 학생들의 스킬을 성장시켜 주세요!",
       "LocalizeJP": "材料を集めて、生徒さんのスキルを成長させてあげてください！",
@@ -1199,7 +1066,6 @@
     },
     {
       "TalkId": 140001,
-      "DevName": "Tutorial ID 14 특별 로비",
       "AnimationName": "25",
       "LocalizeKR": "<메모리얼 로비>를 얻으셨군요! ",
       "LocalizeJP": "「メモリアルロビー」を手に入れましたね！",
@@ -1208,7 +1074,6 @@
     },
     {
       "TalkId": 140001,
-      "DevName": "Tutorial ID 14 특별 로비",
       "AnimationName": "12",
       "LocalizeKR": "학생들과의 특별한 기억이 저장되어 있습니다.",
       "LocalizeJP": "そこには、生徒さんたちとの特別な記憶が保存されています。",
@@ -1217,7 +1082,6 @@
     },
     {
       "TalkId": 140001,
-      "DevName": "Tutorial ID 14 특별 로비",
       "AnimationName": "13",
       "LocalizeKR": "그럼 바로 한 번 확인해 볼까요?",
       "LocalizeJP": "せっかくですし、もう一度見てみましょうか？",
@@ -1226,7 +1090,6 @@
     },
     {
       "TalkId": 140002,
-      "DevName": "Tutorial ID 14 특별 로비",
       "AnimationName": "01",
       "LocalizeKR": "여기서 선생님의 업무를 도와드릴 당번 학생들을 정할 수 있습니다.",
       "LocalizeJP": "まずここでは、先生の仕事をサポートしてくれる当番の生徒さんたちを決められます。",
@@ -1235,7 +1098,6 @@
     },
     {
       "TalkId": 140002,
-      "DevName": "Tutorial ID 14 특별 로비",
       "AnimationName": "01",
       "LocalizeKR": "당번이 된 학생들은 샬레 로비에서 대기하게 됩니다.",
       "LocalizeJP": "当番になった生徒さんたちは、シャーレのロビーで待機していてくれます。",
@@ -1244,7 +1106,6 @@
     },
     {
       "TalkId": 140002,
-      "DevName": "Tutorial ID 14 특별 로비",
       "AnimationName": "01",
       "LocalizeKR": "메모리얼 로비는 여기서 이 아이콘으로 확인하실 수 있어요.",
       "LocalizeJP": "そして、本題のメモリアルロビーについては、こちらで確認ができます。",
@@ -1253,7 +1114,6 @@
     },
     {
       "TalkId": 140003,
-      "DevName": "Tutorial ID 14 특별 로비",
       "AnimationName": "01",
       "LocalizeKR": "이렇게 메모리얼 로비를 가진 학생을 당번으로 설정하면…",
       "LocalizeJP": "こうして先生とのメモリアルロビーがすでにある生徒さんを、当番にすると……",
@@ -1262,7 +1122,6 @@
     },
     {
       "TalkId": 140004,
-      "DevName": "Tutorial ID 14 특별 로비",
       "AnimationName": "01",
       "LocalizeKR": "여기에 이런 모양의 메모리얼 로비 전환 버튼이 등장합니다.",
       "LocalizeJP": "ここに、こんな形の「メモリアルロビー切り替えボタン」が登場します。",
@@ -1271,7 +1130,6 @@
     },
     {
       "TalkId": 140005,
-      "DevName": "Tutorial ID 14 특별 로비",
       "AnimationName": "01",
       "LocalizeKR": "시스템 설정에서 메모리얼 로비 관련 옵션도 있으니, 확인해주세요!",
       "LocalizeJP": "システム設定から、メモリアルロビーに関する様々なオプションも調整できますので、後ほどご確認ください！",
@@ -1280,7 +1138,6 @@
     },
     {
       "TalkId": 150001,
-      "DevName": "Tutorial ID 15 배속 튜토리얼",
       "AnimationName": "01",
       "LocalizeKR": "배속 버튼을 통해 전투의 속도를 조절할 수 있습니다.",
       "LocalizeJP": "倍速ボタンで、戦闘の速度を調節することができます。",
@@ -1289,7 +1146,6 @@
     },
     {
       "TalkId": 150001,
-      "DevName": "Tutorial ID 15 배속 튜토리얼",
       "AnimationName": "01",
       "LocalizeKR": "원하시는 속도로 전투를 지휘해주세요!",
       "LocalizeJP": "お好きな速度で、戦闘を指揮してください！",
@@ -1298,7 +1154,6 @@
     },
     {
       "TalkId": 160001,
-      "DevName": "Tutorial ID 16 제조 튜토리얼",
       "AnimationName": "01",
       "LocalizeKR": "이곳은 크래프트 챔버입니다.",
       "LocalizeJP": "こちらはクラフトチェンバーです。",
@@ -1307,7 +1162,6 @@
     },
     {
       "TalkId": 160001,
-      "DevName": "Tutorial ID 16 제조 튜토리얼",
       "AnimationName": "01",
       "LocalizeKR": "여기서는 각종 재료를 투입해, 다양한 아이템을 얻을 수가 있어요.",
       "LocalizeJP": "ここでは各種素材を投入することで、様々なアイテムを手に入れることができます。",
@@ -1316,7 +1170,6 @@
     },
     {
       "TalkId": 160001,
-      "DevName": "Tutorial ID 16 제조 튜토리얼",
       "AnimationName": "01",
       "LocalizeKR": "제조 시작 버튼을 누르면 크래프트 챔버가 기동됩니다.",
       "LocalizeJP": "製造開始ボタンを押すと、クラフトチェンバーが起動します。",
@@ -1325,7 +1178,6 @@
     },
     {
       "TalkId": 160001,
-      "DevName": "Tutorial ID 16 제조 튜토리얼",
       "AnimationName": "03",
       "LocalizeKR": "제조 시작 버튼을 눌러볼까요?",
       "LocalizeJP": "さっそく押してみましょうか。",
@@ -1334,7 +1186,6 @@
     },
     {
       "TalkId": 160002,
-      "DevName": "Tutorial ID 16 제조 튜토리얼",
       "AnimationName": "01",
       "LocalizeKR": "크래프트 챔버를 통해 제조를 시작하려면 기동석이 필요합니다.",
       "LocalizeJP": "クラフトチェンバーで製造を開始するには、キーストーンが必要です。",
@@ -1343,7 +1194,6 @@
     },
     {
       "TalkId": 160003,
-      "DevName": "Tutorial ID 16 제조 튜토리얼",
       "AnimationName": "01",
       "LocalizeKR": "기동석을 투입하고, 개방 버튼을 누르는 것으로 제조를 할 수 있어요.",
       "LocalizeJP": "キーストーンを投入し、解放ボタンを押すことで製造ができます。",
@@ -1352,7 +1202,6 @@
     },
     {
       "TalkId": 160004,
-      "DevName": "Tutorial ID 16 제조 튜토리얼",
       "AnimationName": "01",
       "LocalizeKR": "제조를 할 때는, 선택지를 통해 최종 결과를 변경할 수 있습니다.",
       "LocalizeJP": "製造の際は、ノードの選択によって最終的な出力を調整できます。",
@@ -1361,7 +1210,6 @@
     },
     {
       "TalkId": 160004,
-      "DevName": "Tutorial ID 16 제조 튜토리얼",
       "AnimationName": "01",
       "LocalizeKR": "모든 선택지를 고르고, 일정 시간을 기다리면 제조가 완료됩니다.",
       "LocalizeJP": "ノードを選択して、一定時間待つと製造が完了します。",
@@ -1370,7 +1218,6 @@
     },
     {
       "TalkId": 160005,
-      "DevName": "Tutorial ID 16 제조 튜토리얼",
       "AnimationName": "25",
       "LocalizeKR": "크래프트 챔버를 통해 다양한 아이템을 제조해보세요!",
       "LocalizeJP": "クラフトチェンバーで、色々なアイテムを製造してみてください！",
@@ -1379,7 +1226,6 @@
     },
     {
       "TalkId": 170001,
-      "DevName": "Tutorial ID 17 스케쥴",
       "AnimationName": "01",
       "LocalizeKR": "이곳은 선생님의 스케쥴을 결정할 수 있는 곳입니다!",
       "LocalizeJP": "ここでは、先生がスケジュールを決められます。",
@@ -1388,7 +1234,6 @@
     },
     {
       "TalkId": 170001,
-      "DevName": "Tutorial ID 17 스케쥴",
       "AnimationName": "01",
       "LocalizeKR": "학생들과 함께 다양한 스케쥴을 선택하고 수행할 수 있는데요.",
       "LocalizeJP": "様々なスケジュールを選択して、生徒さんたちと一緒に時間を過ごすことができるんですよ。",
@@ -1397,7 +1242,6 @@
     },
     {
       "TalkId": 170001,
-      "DevName": "Tutorial ID 17 스케쥴",
       "AnimationName": "01",
       "LocalizeKR": "먼저 샬레 업무관으로 이동을 해볼까요?",
       "LocalizeJP": "まずシャーレのオフィスに移動してみましょうか？",
@@ -1406,7 +1250,6 @@
     },
     {
       "TalkId": 170002,
-      "DevName": "Tutorial ID 17 스케쥴",
       "AnimationName": "01",
       "LocalizeKR": "준비된 스케쥴을 선택하면, 이 스케쥴에 참가하는 학생들의 인연 포인트가 증가합니다!",
       "LocalizeJP": "スケジュールを実行すると、そのスケジュールに参加した生徒さんたちとの絆ポイントが増加します！",
@@ -1415,7 +1258,6 @@
     },
     {
       "TalkId": 170002,
-      "DevName": "Tutorial ID 17 스케쥴",
       "AnimationName": "05",
       "LocalizeKR": "스케쥴 수행 횟수에는 제한이 있기 때문에, 잘 생각해서 결정하셔야 해요!",
       "LocalizeJP": "スケジュールの実行回数には制限がありますので、その点に注意しながら決めましょう！",
@@ -1424,7 +1266,6 @@
     },
     {
       "TalkId": 170003,
-      "DevName": "Tutorial ID 17 스케쥴",
       "AnimationName": "01",
       "LocalizeKR": "처음에는 스케쥴의 수행 횟수가 한정적이지만,",
       "LocalizeJP": "最初はスケジュールを実行できる回数がかなり限られていますが、",
@@ -1433,7 +1274,6 @@
     },
     {
       "TalkId": 170003,
-      "DevName": "Tutorial ID 17 스케쥴",
       "AnimationName": "01",
       "LocalizeKR": "앞으로 지역 랭크가 올라가면 보다 다양한 스케쥴을 진행 할 수 있습니다!",
       "LocalizeJP": "ロケーションランクが上がるにつれて、よりたくさんの、そして様々なスケジュールを進めることができます！",
@@ -1442,7 +1282,6 @@
     },
     {
       "TalkId": 170003,
-      "DevName": "Tutorial ID 17 스케쥴",
       "AnimationName": "01",
       "LocalizeKR": "그럼 지금 진행할 수 있는 스케쥴을 확인해볼까요?",
       "LocalizeJP": "それでは、今実行できそうなスケジュールを確認してみましょうか？",
@@ -1451,7 +1290,6 @@
     },
     {
       "TalkId": 170004,
-      "DevName": "Tutorial ID 17 스케쥴",
       "AnimationName": "01",
       "LocalizeKR": "이곳에서 전체 스케쥴을 확인할 수 있습니다!",
       "LocalizeJP": "ここですべてのスケジュールを確認できます！",
@@ -1460,7 +1298,6 @@
     },
     {
       "TalkId": 170004,
-      "DevName": "Tutorial ID 17 스케쥴",
       "AnimationName": "03",
       "LocalizeKR": "이제 스케쥴을 수행해서 다양한 보상과 인연 포인트를 획득해 보세요!",
       "LocalizeJP": "上手くスケジュールを行って、様々な報酬や絆ポイントを獲得しましょう！",
@@ -1469,7 +1306,6 @@
     },
     {
       "TalkId": 180001,
-      "DevName": "Tutorial ID 18 조각모음",
       "AnimationName": "01",
       "LocalizeKR": "모집하지 못한 학생의 엘레프를 전부 수집했습니다.",
       "LocalizeJP": "まだ受け入れていない生徒さんの神名文字を集められましたね。",
@@ -1478,7 +1314,6 @@
     },
     {
       "TalkId": 180001,
-      "DevName": "Tutorial ID 18 조각모음",
       "AnimationName": "03",
       "LocalizeKR": "이제 엘레프로 학생을 모집해보겠습니다.",
       "LocalizeJP": "今回はこの神名文字で、生徒さんを募集してみましょう。",
@@ -1487,7 +1322,6 @@
     },
     {
       "TalkId": 180002,
-      "DevName": "Tutorial ID 18 조각모음",
       "AnimationName": "01",
       "LocalizeKR": "엘레프를 모두 모은 학생을 선택해주세요.",
       "LocalizeJP": "神名文字を集めた生徒さんを選択してください。",
@@ -1496,7 +1330,6 @@
     },
     {
       "TalkId": 180003,
-      "DevName": "Tutorial ID 18 조각모음",
       "AnimationName": "01",
       "LocalizeKR": "학생의 엘레프를 전부 모으면 <엘레프 교환> 버튼으로 학생을 모집할 수 있습니다.",
       "LocalizeJP": "生徒さんの神名文字を一定数集めると、「神名文字交換」ボタンで神名文字と引き換えに、生徒さんを受け入れることができます。",
@@ -1505,7 +1338,6 @@
     },
     {
       "TalkId": 180004,
-      "DevName": "Tutorial ID 18 조각모음",
       "AnimationName": "25",
       "LocalizeKR": "그럼 앞으로도 힘내주세요, 선생님!",
       "LocalizeJP": "では私は一旦ここまでで。これからも頑張ってください、先生！",
@@ -1514,7 +1346,6 @@
     },
     {
       "TalkId": 190001,
-      "DevName": "Tutorial ID 19 스토리",
       "AnimationName": "01",
       "LocalizeKR": "스토리에서는 키보토스에서 일어나는 다양한 이야기를 확인할 수 있습니다.",
       "LocalizeJP": "ここでは、キヴォトスで起こっている様々なお話を見ることができます。",
@@ -1523,7 +1354,6 @@
     },
     {
       "TalkId": 190001,
-      "DevName": "Tutorial ID 19 스토리",
       "AnimationName": "01",
       "LocalizeKR": "먼저 메인스토리예요.",
       "LocalizeJP": "まずこちらは、メインストーリーです。",
@@ -1532,7 +1362,6 @@
     },
     {
       "TalkId": 190002,
-      "DevName": "Tutorial ID 19 스토리",
       "AnimationName": "01",
       "LocalizeKR": "메인 스토리에서는 키보토스에서 벌어지는 주요한 이야기를 경험할 수 있습니다.",
       "LocalizeJP": "メインストーリーでは、キヴォトスのあちこちで繰り広げられる物語を見ることができます。",
@@ -1541,7 +1370,6 @@
     },
     {
       "TalkId": 190002,
-      "DevName": "Tutorial ID 19 스토리",
       "AnimationName": "32",
       "LocalizeKR": "임무의 진행에 따라 스토리 에피소드가 해금되니, 임무도 잊지않고 진행해주세요!",
       "LocalizeJP": "任務の進行によって徐々にエピソードが解放されていくので、任務も忘れずに進めてください！",
@@ -1550,7 +1378,6 @@
     },
     {
       "TalkId": 190002,
-      "DevName": "Tutorial ID 19 스토리",
       "AnimationName": "25",
       "LocalizeKR": "다음으은 서브 스토리!",
       "LocalizeJP": "次はサブストーリーです！",
@@ -1559,7 +1386,6 @@
     },
     {
       "TalkId": 190003,
-      "DevName": "Tutorial ID 19 스토리",
       "AnimationName": "01",
       "LocalizeKR": "서브 스토리는 각 학원의 동아리 이야기 같은, 짧고 다양한 스토리를 확인할 수 있습니다.",
       "LocalizeJP": "サブストーリーでは、各学園の部活や委員会のお話などのちょっとしたストーリーを見ることができます。",
@@ -1568,7 +1394,6 @@
     },
     {
       "TalkId": 190003,
-      "DevName": "Tutorial ID 19 스토리",
       "AnimationName": "01",
       "LocalizeKR": "이미 확인한 스토리는 다시보기를 통해 언제든지 다시 볼 수 있어요.",
       "LocalizeJP": "最後に、この二つ以外にも、お仕事で見たストーリーなどはこの「アーカイブ」で読み直すことができます。",
@@ -1577,7 +1402,6 @@
     },
     {
       "TalkId": 190004,
-      "DevName": "Tutorial ID 19 스토리",
       "AnimationName": "03",
       "LocalizeKR": "그럼 선생님 앞으로도 힘내주세요!",
       "LocalizeJP": "では先生、引き続き頑張ってください！",
@@ -1586,7 +1410,6 @@
     },
     {
       "TalkId": 200001,
-      "DevName": "Tutorial ID 20 특별 의뢰",
       "AnimationName": "01",
       "LocalizeKR": "특별 의뢰를 수행할 수 있게 되었습니다.",
       "LocalizeJP": "「特別依頼」を行えるようになりました。",
@@ -1595,7 +1418,6 @@
     },
     {
       "TalkId": 200001,
-      "DevName": "Tutorial ID 20 특별 의뢰",
       "AnimationName": "03",
       "LocalizeKR": "잠깐 살펴볼까요?",
       "LocalizeJP": "一緒に詳しく見てみましょうか？",
@@ -1604,7 +1426,6 @@
     },
     {
       "TalkId": 200001,
-      "DevName": "Tutorial ID 20 특별 의뢰",
       "AnimationName": "01",
       "LocalizeKR": "먼저 거점 방어입니다.",
       "LocalizeJP": "まず、「拠点防衛」です。",
@@ -1613,7 +1434,6 @@
     },
     {
       "TalkId": 200002,
-      "DevName": "Tutorial ID 20 특별 의뢰",
       "AnimationName": "01",
       "LocalizeKR": "거점 방어는 몰려오는 적들을 막아내는 임무입니다.",
       "LocalizeJP": "「拠点防衛」とは、押し寄せてくるたくさんの敵を退治する任務です。",
@@ -1622,7 +1442,6 @@
     },
     {
       "TalkId": 200002,
-      "DevName": "Tutorial ID 20 특별 의뢰",
       "AnimationName": "01",
       "LocalizeKR": "보상으로는 <활동 보고서>를 얻을 수 있어요.",
       "LocalizeJP": "報酬として「レポート」を獲得できます。",
@@ -1631,7 +1450,6 @@
     },
     {
       "TalkId": 200002,
-      "DevName": "Tutorial ID 20 특별 의뢰",
       "AnimationName": "01",
       "LocalizeKR": "다음으로는 물건 회수.",
       "LocalizeJP": "そして次は、「クレジット回収」です。",
@@ -1640,7 +1458,6 @@
     },
     {
       "TalkId": 200003,
-      "DevName": "Tutorial ID 20 특별 의뢰",
       "AnimationName": "01",
       "LocalizeKR": "물건 회수는 제한 시간 안에 빠르게 적을 처치해야 하는 임무입니다.",
       "LocalizeJP": "「クレジット回収」は、制限時間内に素早く敵を倒さなければならない任務です。",
@@ -1649,7 +1466,6 @@
     },
     {
       "TalkId": 200003,
-      "DevName": "Tutorial ID 20 특별 의뢰",
       "AnimationName": "01",
       "LocalizeKR": "보상으로는 <크레딧 포인트>를 얻을 수 있어요.",
       "LocalizeJP": "報酬として「クレジットポイント」を獲得できます。",
@@ -1658,7 +1474,6 @@
     },
     {
       "TalkId": 200003,
-      "DevName": "Tutorial ID 20 특별 의뢰",
       "AnimationName": "25",
       "LocalizeKR": "특별 의뢰는 입장 제한 횟수가 없으니 마음껏 수행해주세요!",
       "LocalizeJP": "特別依頼に入場制限などはありませんので、どんどんやってみましょう！",
@@ -1667,7 +1482,6 @@
     },
     {
       "TalkId": 210001,
-      "DevName": "Tutorial ID 21 현상 수배",
       "AnimationName": "01",
       "LocalizeKR": "현상 수배를 수행할 수 있게 되었습니다.",
       "LocalizeJP": "「指名手配」の任務を行えるようになりました。",
@@ -1676,7 +1490,6 @@
     },
     {
       "TalkId": 210002,
-      "DevName": "Tutorial ID 21 현상 수배",
       "AnimationName": "22",
       "LocalizeKR": "현상 수배는 도망치는 악당을 추격해야 하는 임무입니다.",
       "LocalizeJP": "「指名手配」の任務では、逃げていく悪党を追撃しないといけません。",
@@ -1685,7 +1498,6 @@
     },
     {
       "TalkId": 210002,
-      "DevName": "Tutorial ID 21 현상 수배",
       "AnimationName": "22",
       "LocalizeKR": "보상으로는 <스킬 성장 재료>를 얻을 수 있어요.",
       "LocalizeJP": "上手く達成できると、報酬として「スキル成長素材」を獲得できます。",
@@ -1694,7 +1506,6 @@
     },
     {
       "TalkId": 210002,
-      "DevName": "Tutorial ID 21 현상 수배",
       "AnimationName": "01",
       "LocalizeKR": "현상 수배를 수행하기 위해선 입장 티켓이 필요합니다.",
       "LocalizeJP": "それから、指名手配を行うためには、入場チケットが必要です。",
@@ -1703,7 +1514,6 @@
     },
     {
       "TalkId": 210003,
-      "DevName": "Tutorial ID 21 현상 수배",
       "AnimationName": "03",
       "LocalizeKR": "티켓은 매일 정해진 시간에 충전되니, 참고해주세요!",
       "LocalizeJP": "チケット数は毎日決まった時間に回復しますので、ご安心ください！",
@@ -1712,7 +1522,6 @@
     },
     {
       "TalkId": 210003,
-      "DevName": "Tutorial ID 21 현상 수배",
       "AnimationName": "01",
       "LocalizeKR": "아, 가장 중요한 <학원 버프>를 알려드리겠습니다.",
       "LocalizeJP": "あ、もう一つ、とっても重要な「学園効果」についてお教えします。",
@@ -1721,7 +1530,6 @@
     },
     {
       "TalkId": 210004,
-      "DevName": "Tutorial ID 21 현상 수배",
       "AnimationName": "01",
       "LocalizeKR": "현상 수배의 임무마다 보너스를 받는 학원이 있어요.",
       "LocalizeJP": "指名手配の任務の種類によって、ボーナス効果を受けられる学園があります。",
@@ -1730,7 +1538,6 @@
     },
     {
       "TalkId": 210005,
-      "DevName": "Tutorial ID 21 현상 수배",
       "AnimationName": "01",
       "LocalizeKR": "해당 학원의 학생을 부대에 많이 편성할수록,",
       "LocalizeJP": "該当する学園の生徒さんを、部隊にたくさん編成すればするほど、",
@@ -1739,7 +1546,6 @@
     },
     {
       "TalkId": 210005,
-      "DevName": "Tutorial ID 21 현상 수배",
       "AnimationName": "01",
       "LocalizeKR": "임무 수행이 수월해지니, 체크 부탁드립니다!",
       "LocalizeJP": "任務の遂行が容易になるはずです。これは見逃せませんね！",
@@ -1748,7 +1554,6 @@
     },
     {
       "TalkId": 210005,
-      "DevName": "Tutorial ID 21 현상 수배",
       "AnimationName": "03",
       "LocalizeKR": "그럼 현상 수배 임무도 잘 부탁드립니다! ",
       "LocalizeJP": "それでは、引き続きよろしくお願いします！",
@@ -1757,7 +1562,6 @@
     },
     {
       "TalkId": 101130101,
-      "DevName": "튜토리얼 스테이지1",
       "AnimationName": "01",
       "LocalizeKR": "선생님이 앞으로 수행할 임무들을 위해, 특별 훈련을 준비했습니다",
       "LocalizeJP": "先生がこれから作戦を遂行していくに当たって、ちょっとした訓練を準備してみました。",
@@ -1766,7 +1570,6 @@
     },
     {
       "TalkId": 101130101,
-      "DevName": "튜토리얼 스테이지1",
       "AnimationName": "03",
       "LocalizeKR": "그럼 곧바로 훈련을 시작해볼까요?",
       "LocalizeJP": "それではさっそく始めましょう。",
@@ -1775,7 +1578,6 @@
     },
     {
       "TalkId": 101130101,
-      "DevName": "튜토리얼 스테이지1",
       "AnimationName": "01",
       "LocalizeKR": "먼저 전투를 수행하는 장소인 <지형>에 관한 훈련입니다.",
       "LocalizeJP": "まず、作戦が行われる「地形」に関する訓練です。",
@@ -1784,7 +1586,6 @@
     },
     {
       "TalkId": 101130101,
-      "DevName": "튜토리얼 스테이지1",
       "AnimationName": "01",
       "LocalizeKR": "학생들마다 작전을 수행하기 편해 하는 [c][007eff]지형[-][/c]이 각자 달라요.",
       "LocalizeJP": "生徒さんごとに、作戦を遂行しやすい[c][007eff]地形[-][/c]がそれぞれ違います。",
@@ -1793,7 +1594,6 @@
     },
     {
       "TalkId": 101130102,
-      "DevName": "튜토리얼 스테이지1-이미지<지형적응>",
       "AnimationName": "01",
       "LocalizeKR": "특정 지형에서 강해지는 학생도 있고, 약해지는 학생도 있어요.",
       "LocalizeJP": "特定の地形が得意な生徒さんもいれば、苦手な生徒さんもいます。",
@@ -1802,7 +1602,6 @@
     },
     {
       "TalkId": 101130103,
-      "DevName": "튜토리얼 스테이지1",
       "AnimationName": "01",
       "LocalizeKR": "부대를 편성할 때 이 정보를 체크해 주시면, 임무 수행에 큰 도움이 될 거 같아요!",
       "LocalizeJP": "部隊を編成する時はこの情報をチェックすると、作戦の遂行に大きく役立つと思います！",
@@ -1811,7 +1610,6 @@
     },
     {
       "TalkId": 101130104,
-      "DevName": "튜토리얼 스테이지1",
       "AnimationName": "25",
       "LocalizeKR": "[c][007eff]엄폐물[-][/c]이네요! [c][007eff]엄폐물[-][/c]은 적의 공격으로부터 몸을 지켜줍니다.",
       "LocalizeJP": "[c][007eff]遮蔽物[-][/c]です！[c][007eff]遮蔽物[-][/c]は、敵の攻撃から身を守ってくれます。",
@@ -1820,7 +1618,6 @@
     },
     {
       "TalkId": 101130105,
-      "DevName": "튜토리얼 스테이지1-이미지<엄폐>",
       "AnimationName": "01",
       "LocalizeKR": "대부분의 학생들은 엄폐물을 보면 [c][00f0ff]스스로 몸을 숨겨 보호[-][/c]합니다.",
       "LocalizeJP": "ほとんどの生徒さんは、遮蔽物を見つけると、そこで[c][00f0ff]身を隠します。[-][/c]",
@@ -1829,7 +1626,6 @@
     },
     {
       "TalkId": 101130106,
-      "DevName": "튜토리얼 스테이지1",
       "AnimationName": "01",
       "LocalizeKR": "엄폐하지 않는 학생들도 있다는 점 참고 부탁드려요!",
       "LocalizeJP": "ただ、隠れない生徒さんもいますので、その点は注意です。",
@@ -1838,7 +1634,6 @@
     },
     {
       "TalkId": 101130201,
-      "DevName": "튜토리얼 스테이지2",
       "AnimationName": "01",
       "LocalizeKR": "학생들은 각자 가진 특기에 따라, 작전 중 자신의 [c][007eff]역할[-][/c]이 정해져 있어요.",
       "LocalizeJP": "生徒さんたちはそれぞれ、作戦中の[c][007eff]役割[-][/c]が決まっています。",
@@ -1847,7 +1642,6 @@
     },
     {
       "TalkId": 101130202,
-      "DevName": "튜토리얼 스테이지2-이미지<전투역할>",
       "AnimationName": "01",
       "LocalizeKR": "쓸 수 있는 스킬에 따라 [c][00f0ff]탱커, 딜러, 서포터, 힐러[-][/c]로 나뉘어져 있고,",
       "LocalizeJP": "使えるスキルによって[c][00f0ff]タンク、アタッカー、サポーター、ヒーラー[-][/c]に分かれていて、",
@@ -1856,7 +1650,6 @@
     },
     {
       "TalkId": 101130203,
-      "DevName": "튜토리얼 스테이지2",
       "AnimationName": "01",
       "LocalizeKR": "자신이 가진 [c][007eff]역할[-][/c]에 따라, 스스로 [c][007eff]작전을 수행하기 편한 위치[-][/c]로 이동하며 싸웁니다.",
       "LocalizeJP": "自分の[c][007eff]役割[-][/c]に応じて、自ら[c][007eff]作戦を遂行しやすい位置[-][/c]に移動して戦います。",
@@ -1865,7 +1658,6 @@
     },
     {
       "TalkId": 101130203,
-      "DevName": "튜토리얼 스테이지2",
       "AnimationName": "01",
       "LocalizeKR": "[c][007eff]서포터[-][/c]역할은 다양한 방법으로 다른 학생들의 [c][007eff]전투를 도와줍니다.[-][/c]",
       "LocalizeJP": "まず[c][007eff]サポーター[-][/c]の生徒さんは、様々な方法で他の生徒さんの[c][007eff]戦闘をサポートします。[-][/c]",
@@ -1874,7 +1666,6 @@
     },
     {
       "TalkId": 101130203,
-      "DevName": "튜토리얼 스테이지2",
       "AnimationName": "03",
       "LocalizeKR": "[c][007eff]코타마[-][/c] 씨의 스킬은 [c][007eff]아군의 공격력을 상승[-][/c]시켜주는 효과가 있어요.\n스킬을 사용해서 다른 학생들을 도와줘보죠!",
       "LocalizeJP": "[c][007eff]コタマ[-][/c]さんのスキルは、[c][007eff]味方の攻撃力を上昇[-][/c]させる効果があります。\nスキルを使って、他の生徒さんたちをサポートしてもらいましょう！",
@@ -1883,7 +1674,6 @@
     },
     {
       "TalkId": 101130204,
-      "DevName": "튜토리얼 스테이지2",
       "AnimationName": "01",
       "LocalizeKR": "[c][007eff]딜러[-][/c]는 강한 대미지로 [c][007eff]적에게 많은 피해를 줍니다![-][/c]\n대신 체력이 낮은 경우가 많아 보통은 뒤에서 싸워요.",
       "LocalizeJP": "[c][007eff]アタッカー[-][/c]は強力な攻撃で、[c][007eff]敵に大きなダメージを与えます。[-][/c]\nその代わりに体力が低い生徒さんが多いので、普段は後方から戦います。",
@@ -1892,7 +1682,6 @@
     },
     {
       "TalkId": 101130204,
-      "DevName": "튜토리얼 스테이지2",
       "AnimationName": "22",
       "LocalizeKR": "[c][007eff]무츠키[-][/c] 씨가 [c][007eff]딜러[-][/c] 역할이로군요! 스킬카드를 터치하고 적을 선택해주세요!",
       "LocalizeJP": "この中では[c][007eff]ムツキ[-][/c]さんが[c][007eff]アタッカー[-][/c]ですね！スキルカードをタッチして敵を選択してください！",
@@ -1901,7 +1690,6 @@
     },
     {
       "TalkId": 101130205,
-      "DevName": "튜토리얼 스테이지2",
       "AnimationName": "01",
       "LocalizeKR": "[c][007eff]탱커[-][/c] 학생들은 앞에서 [c][007eff]적들의 공격을 막아줍니다.[-][/c]",
       "LocalizeJP": "[c][007eff]タンク[-][/c]の生徒さんは、前方で[c][007eff]敵の攻撃を防いでくれます。[-][/c]",
@@ -1910,7 +1698,6 @@
     },
     {
       "TalkId": 101130205,
-      "DevName": "튜토리얼 스테이지2",
       "AnimationName": "01",
       "LocalizeKR": "[c][007eff]유우카[-][/c] 씨가 [c][007eff]탱커 역할[-][/c]입니다. 스킬을 사용해서 공격받고 있는 유우카 씨를 강화해주세요!",
       "LocalizeJP": "この中では[c][007eff]ユウカ[-][/c]さんが[c][007eff]タンクの役割[-][/c]です。スキルを使って、攻撃を受けているユウカさん自身のことを強化してみてください！",
@@ -1919,7 +1706,6 @@
     },
     {
       "TalkId": 101130206,
-      "DevName": "튜토리얼 스테이지2",
       "AnimationName": "28",
       "LocalizeKR": "적들의 공격으로 학생들의 체력이 떨어지고 있어요!",
       "LocalizeJP": "敵の攻撃で、生徒の皆さんの体力が少なくなっています！",
@@ -1928,7 +1714,6 @@
     },
     {
       "TalkId": 101130206,
-      "DevName": "튜토리얼 스테이지2",
       "AnimationName": "22",
       "LocalizeKR": "[c][007eff]힐러[-][/c]인 [c][007eff]하나에[-][/c] 씨가 나설 때입니다! \n어서 학생들을 [c][007eff]치료해주세요![-][/c]",
       "LocalizeJP": "[c][007eff]ヒーラー[-][/c]の[c][007eff]ハナエ[-][/c]さんの出番ですね。皆さんを[c][007eff]治療してあげてください！[-][/c]",
@@ -1937,7 +1722,6 @@
     },
     {
       "TalkId": 102130301,
-      "DevName": "튜토리얼 스테이지3",
       "AnimationName": "01",
       "LocalizeKR": "모든 학생과 적들은 [c][007eff]공격속성[-][/c]과 [c][007eff]방어타입[-][/c]을 가지고 있습니다.",
       "LocalizeJP": "敵も味方も、それぞれ[c][007eff]攻撃タイプ[-][/c]と[c][007eff]防御タイプ[-][/c]を持っています。",
@@ -1946,7 +1730,6 @@
     },
     {
       "TalkId": 102130302,
-      "DevName": "튜토리얼 스테이지3-이미지<속성1>",
       "AnimationName": "25",
       "LocalizeKR": "적의 [c][00f0ff]방어타입[-][/c]에 [c][00f0ff]유리한 속성[-][/c]의 캐릭터로 공격하면 더 [c][00f0ff]강한 공격[-][/c]을 가할 수 있어요.",
       "LocalizeJP": "敵の[c][00f0ff]防御タイプ[-][/c]に対して[c][00f0ff]有利なタイプ[-][/c]のキャラクターで攻撃すると、より[c][00f0ff]大きなダメージ[-][/c]を与えることができます。",
@@ -1955,7 +1738,6 @@
     },
     {
       "TalkId": 102130303,
-      "DevName": "튜토리얼 스테이지3-이미지<속성2>",
       "AnimationName": "01",
       "LocalizeKR": "적의 [c][00f0ff]HP 막대 색상[-][/c]이 적의 [c][00f0ff]속성[-][/c]을 나타내고,",
       "LocalizeJP": "敵の[c][00f0ff]HPゲージの色[-][/c]が、敵の[c][00f0ff]タイプ[-][/c]を表していまして、",
@@ -1964,7 +1746,6 @@
     },
     {
       "TalkId": 102130304,
-      "DevName": "튜토리얼 스테이지3-이미지<속성3>",
       "AnimationName": "01",
       "LocalizeKR": "[c][00f0ff]스킬카드 색상[-][/c]이 학생의 [c][00f0ff]공격 속성[-][/c]을 나타내는 점 참고해주세요.",
       "LocalizeJP": "[c][00f0ff]スキルカードの色[-][/c]が生徒さん側の[c][00f0ff]攻撃タイプ[-][/c]を表していますので、参考にしてください。",
@@ -1973,7 +1754,6 @@
     },
     {
       "TalkId": 102130305,
-      "DevName": "튜토리얼 스테이지3",
       "AnimationName": "14",
       "LocalizeKR": "[c][007eff]경장갑 타입[-][/c]의 적이 나타났어요!",
       "LocalizeJP": "[c][007eff]軽装備タイプ[-][/c]の敵が出現しました！",
@@ -1982,7 +1762,6 @@
     },
     {
       "TalkId": 102130305,
-      "DevName": "튜토리얼 스테이지3",
       "AnimationName": "01",
       "LocalizeKR": "[c][007eff]경장갑 타입[-][/c]은 [c][007eff]폭발 공격[-][/c]으로 큰 피해를 줄 수 있답니다.",
       "LocalizeJP": "[c][007eff]爆発タイプ[-][/c]の攻撃を成功させれば、[c][007eff]大きなダメージ[-][/c]を与えられます。",
@@ -1991,7 +1770,6 @@
     },
     {
       "TalkId": 102130305,
-      "DevName": "튜토리얼 스테이지3",
       "AnimationName": "22",
       "LocalizeKR": "[c][007eff]아루[-][/c] 씨의 스킬이 [c][007eff]폭발 속성[-][/c]을 가지고 있어요. 아루 씨의 스킬을 사용해볼까요?",
       "LocalizeJP": "[c][007eff]アル[-][/c]さんのスキルが[c][007eff]爆発タイプ[-][/c]ですので、アルさんのスキルを使ってみましょう！",
@@ -2000,7 +1778,6 @@
     },
     {
       "TalkId": 102130306,
-      "DevName": "튜토리얼 스테이지3",
       "AnimationName": "01",
       "LocalizeKR": "이번에는 [c][007eff]중장갑 타입[-][/c]의 적이네요. \n중장갑에겐 [c][007eff]관통[-][/c] 스킬이 유효합니다!",
       "LocalizeJP": "今度は[c][007eff]重装甲タイプ[-][/c]の敵ですね。重装甲タイプには、[c][007eff]貫通タイプ[-][/c]のスキルが有効です！",
@@ -2009,7 +1786,6 @@
     },
     {
       "TalkId": 102130306,
-      "DevName": "튜토리얼 스테이지3",
       "AnimationName": "01",
       "LocalizeKR": "[c][007eff]준코[-][/c] 씨의 스킬이 [c][007eff]관통 속성[-][/c]이에요. \n준코 씨의 스킬을 드래그해서 적을 공격해보세요!",
       "LocalizeJP": "[c][007eff]ジュンコ[-][/c]さんのスキルが[c][007eff]貫通タイプ[-][/c]です。ジュンコさんのスキルを使って、敵を攻撃してみましょう！",
@@ -2018,7 +1794,6 @@
     },
     {
       "TalkId": 102130307,
-      "DevName": "튜토리얼 스테이지3",
       "AnimationName": "05",
       "LocalizeKR": "[c][007eff]특수장갑 타입[-][/c]의 적이에요!",
       "LocalizeJP": "あれは[c][007eff]特殊装甲タイプ[-][/c]の敵です！",
@@ -2027,7 +1802,6 @@
     },
     {
       "TalkId": 102130307,
-      "DevName": "튜토리얼 스테이지3",
       "AnimationName": "01",
       "LocalizeKR": "[c][007eff]특수장갑 타입[-][/c]의 적에겐 [c][007eff]신비 속성[-][/c]의 공격이 효과적입니다.",
       "LocalizeJP": "[c][007eff]特殊装甲タイプ[-][/c]の敵には、[c][007eff]神秘タイプ[-][/c]の攻撃が効果的です。",
@@ -2036,7 +1810,6 @@
     },
     {
       "TalkId": 102130307,
-      "DevName": "튜토리얼 스테이지3",
       "AnimationName": "22",
       "LocalizeKR": "[c][007eff]치세[-][/c] 씨의 스킬이 [c][007eff]신비 속성[-][/c]이니, 스킬 카드를 적에게 드래그해보세요!",
       "LocalizeJP": "[c][007eff]チセ[-][/c]さんのスキルが[c][007eff]神秘タイプ[-][/c]です。スキルカードをタップしてからドラッグし、敵の近くで指を離しましょう！スキルの発動はこの様に、タップでもドラッグでも行うことができます！",
@@ -2045,7 +1818,6 @@
     },
     {
       "TalkId": 102130401,
-      "DevName": "튜토리얼 스테이지4",
       "AnimationName": "01",
       "LocalizeKR": "때로는 학생들의 [c][007eff]스킬[-][/c]을 사용해서, \n선생님이 [c][007eff]전장 상황에 직접 개입[-][/c]할 수 있어요.",
       "LocalizeJP": "生徒さんの[c][007eff]スキル[-][/c]によっては、先生が[c][007eff]戦闘に直接関与[-][/c]することができます。",
@@ -2054,7 +1826,6 @@
     },
     {
       "TalkId": 102130401,
-      "DevName": "튜토리얼 스테이지4",
       "AnimationName": "01",
       "LocalizeKR": "이런 스킬들은 보통 [c][007eff]타이밍[-][/c]과 [c][007eff]스킬사용 위치[-][/c]가 아주 중요한데요.",
       "LocalizeJP": "先生が実際に戦闘に関与するスキルは、[c][007eff]タイミングと位置[-][/c]が非常に重要です。",
@@ -2063,7 +1834,6 @@
     },
     {
       "TalkId": 102130401,
-      "DevName": "튜토리얼 스테이지4",
       "AnimationName": "03",
       "LocalizeKR": "이번 훈련에서는 직접! [c][007eff]적을 유인할 수 있는 스킬[-][/c]을 사용해보도록 해요!",
       "LocalizeJP": "では実際に先生に指示をしてもらいつつ、[c][007eff]敵を引き付けるスキル[-][/c]を使ってみましょう！",
@@ -2072,7 +1842,6 @@
     },
     {
       "TalkId": 102130402,
-      "DevName": "튜토리얼 스테이지4",
       "AnimationName": "01",
       "LocalizeKR": "[c][007eff]주리[-][/c] 씨의 스킬은 [c][007eff]적들을 유인[-][/c]하고, 유인한 적들에게 [c][007eff]피해[-][/c]를 줄 수 있어요.",
       "LocalizeJP": "[c][007eff]ジュリ[-][/c]さんのスキルは、[c][007eff]敵をおびき寄せて[-][/c]から[c][007eff]ダメージ[-][/c]を与えることができます。",
@@ -2081,7 +1850,6 @@
     },
     {
       "TalkId": 102130402,
-      "DevName": "튜토리얼 스테이지4",
       "AnimationName": "25",
       "LocalizeKR": "적들이 유인되어 잘 모여있을 때라면, 범위공격의 효율도 훨씬 좋아지겠죠!",
       "LocalizeJP": "敵がたくさん集まれば集まるほど、もちろん範囲攻撃の効率も良くなります！",
@@ -2090,7 +1858,6 @@
     },
     {
       "TalkId": 102130402,
-      "DevName": "튜토리얼 스테이지4",
       "AnimationName": "01",
       "LocalizeKR": "주리 씨의 스킬카드를 원하는 위치에 드래그해 주세요!",
       "LocalizeJP": "ジュリさんのスキルカードをタップしてから、ドラッグで発動させたい場所を狙い、好きな位置で指を離してみてください！",
@@ -2099,7 +1866,6 @@
     },
     {
       "TalkId": 102130402,
-      "DevName": "튜토리얼 스테이지4",
       "AnimationName": "05",
       "LocalizeKR": "물론 적과 너무 멀리 있으면, 오히려 유인되지 않으니 그점은 주의를!",
       "LocalizeJP": "敵とあまりにも離れた位置ですと、おびき寄せにくくなってしまうので、その点にはご注意ください！",
@@ -2108,7 +1874,6 @@
     },
     {
       "TalkId": 103130501,
-      "DevName": "튜토리얼 스테이지5",
       "AnimationName": "01",
       "LocalizeKR": "일부 학생들은 스스로 [c][007eff]엄폐물을 설치[-][/c]할 수 있습니다.",
       "LocalizeJP": "一部の生徒さんは、自ら[c][007eff]遮蔽物を設置[-][/c]することができます。",
@@ -2117,7 +1882,6 @@
     },
     {
       "TalkId": 103130501,
-      "DevName": "튜토리얼 스테이지5",
       "AnimationName": "01",
       "LocalizeKR": "[c][007eff]시미코[-][/c] 씨의 스킬을 사용해 시로코 씨와 슌 씨를 도와주도록 해볼까요?",
       "LocalizeJP": "[c][007eff]シミコ[-][/c]さんのスキルを使って、シロコさんとシュンさんのサポートをしてもらいましょうか？",
@@ -2126,7 +1890,6 @@
     },
     {
       "TalkId": 103130501,
-      "DevName": "튜토리얼 스테이지5",
       "AnimationName": "25",
       "LocalizeKR": "두 사람 앞에 엄폐물을 설치해서, 적의 공격을 막아내도록 해요!",
       "LocalizeJP": "二人の前に遮蔽物を設置して、敵の攻撃を防ぎましょう！",
@@ -2135,7 +1898,6 @@
     },
     {
       "TalkId": 103130601,
-      "DevName": "튜토리얼 스테이지6",
       "AnimationName": "01",
       "LocalizeKR": "어떤 학생들은 선생님의 지시에 따라 [c][007eff]직접 이동하는 스킬[-][/c]을 가지고 있습니다.",
       "LocalizeJP": "生徒さんによっては、先生の指示に従って[c][007eff]移動するスキル[-][/c]を持っています。",
@@ -2144,7 +1906,6 @@
     },
     {
       "TalkId": 103130601,
-      "DevName": "튜토리얼 스테이지6",
       "AnimationName": "22",
       "LocalizeKR": "그리고 이런 학생들의 스킬을 잘 활용하면, 때론 [c][007eff]적의 공격을 피할 수도 있겠죠![-][/c]",
       "LocalizeJP": "このような生徒さんのスキルを上手く活用すれば、先生の指示通りに[c][007eff]敵の攻撃をかわす[-][/c]こともできるかと！",
@@ -2153,7 +1914,6 @@
     },
     {
       "TalkId": 103130602,
-      "DevName": "튜토리얼 스테이지6",
       "AnimationName": "05",
       "LocalizeKR": "적이 아스나 씨를 노리고 있어요. \n곧 강한 공격이 날아올 것 같습니다!",
       "LocalizeJP": "敵がアスナさんを狙っていますね、それに強力な攻撃が飛んで来そうです！",
@@ -2162,7 +1922,6 @@
     },
     {
       "TalkId": 103130602,
-      "DevName": "튜토리얼 스테이지6",
       "AnimationName": "05",
       "LocalizeKR": "[c][007eff]아스나[-][/c] 씨의 스킬을 사용해서 피하도록 하죠! 공격 범위 밖으로 빠져나가는 거예요!",
       "LocalizeJP": "[c][007eff]アスナ[-][/c]さんのスキルを使って避けてみましょう！攻撃範囲の外を指示して回避です！",
@@ -2171,7 +1930,6 @@
     },
     {
       "TalkId": 103130602,
-      "DevName": "튜토리얼 스테이지6",
       "AnimationName": "22",
       "LocalizeKR": "공격을 피한 뒤에는, 우리도 [c][007eff]카린 씨의 스킬로 반격[-][/c]입니다!",
       "LocalizeJP": "攻撃を避けた後は、[c][007eff]カリンさんのスキルで反撃[-][/c]しましょう！",

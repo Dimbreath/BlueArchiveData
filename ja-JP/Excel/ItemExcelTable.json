@@ -2,7 +2,6 @@
   "DataList": [
     {
       "Id": 1,
-      "DevName": "CraftItem_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1684631727,
@@ -31,7 +30,6 @@
     },
     {
       "Id": 2,
-      "DevName": "CraftSkipItem",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3562945394,
@@ -61,7 +59,6 @@
     },
     {
       "Id": 3,
-      "DevName": "CraftItem_1",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2866605926,
@@ -90,7 +87,6 @@
     },
     {
       "Id": 7,
-      "DevName": "RaidCoin",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3284034061,
@@ -117,7 +113,6 @@
     },
     {
       "Id": 8,
-      "DevName": "ArenaCoin",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3125687171,
@@ -144,7 +139,6 @@
     },
     {
       "Id": 10,
-      "DevName": "ExpItem_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1688668283,
@@ -176,7 +170,6 @@
     },
     {
       "Id": 11,
-      "DevName": "ExpItem_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2952503379,
@@ -208,7 +201,6 @@
     },
     {
       "Id": 12,
-      "DevName": "ExpItem_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2949797158,
@@ -240,7 +232,6 @@
     },
     {
       "Id": 13,
-      "DevName": "ExpItem_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2795379965,
@@ -272,7 +263,6 @@
     },
     {
       "Id": 23,
-      "DevName": "SecretStone",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2930254365,
@@ -299,7 +289,6 @@
     },
     {
       "Id": 30,
-      "DevName": "CafeRank_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 268721547,
@@ -326,7 +315,6 @@
     },
     {
       "Id": 31,
-      "DevName": "CafeRank_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1888678824,
@@ -353,7 +341,6 @@
     },
     {
       "Id": 32,
-      "DevName": "CafeRank_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1473389605,
@@ -380,7 +367,6 @@
     },
     {
       "Id": 33,
-      "DevName": "CafeRank_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1912787928,
@@ -407,7 +393,6 @@
     },
     {
       "Id": 39,
-      "DevName": "CafeRank_9",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2326101217,
@@ -434,7 +419,6 @@
     },
     {
       "Id": 90,
-      "DevName": "Craft_Material_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 611509093,
@@ -463,7 +447,6 @@
     },
     {
       "Id": 91,
-      "DevName": "Craft_Material_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4049829910,
@@ -492,7 +475,6 @@
     },
     {
       "Id": 92,
-      "DevName": "Craft_Material_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3041591625,
@@ -521,7 +503,6 @@
     },
     {
       "Id": 100,
-      "DevName": "Material_Nebra_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3541905306,
@@ -553,7 +534,6 @@
     },
     {
       "Id": 101,
-      "DevName": "Material_Nebra_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2136120808,
@@ -585,7 +565,6 @@
     },
     {
       "Id": 102,
-      "DevName": "Material_Nebra_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 788318352,
@@ -615,7 +594,6 @@
     },
     {
       "Id": 103,
-      "DevName": "Material_Nebra_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2893958235,
@@ -645,7 +623,6 @@
     },
     {
       "Id": 110,
-      "DevName": "Material_Phaistos_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1851017565,
@@ -677,7 +654,6 @@
     },
     {
       "Id": 111,
-      "DevName": "Material_Phaistos_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2924463254,
@@ -709,7 +685,6 @@
     },
     {
       "Id": 112,
-      "DevName": "Material_Phaistos_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1217397088,
@@ -739,7 +714,6 @@
     },
     {
       "Id": 113,
-      "DevName": "Material_Phaistos_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3029916055,
@@ -769,7 +743,6 @@
     },
     {
       "Id": 120,
-      "DevName": "Material_Wolfsegg_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 890047783,
@@ -801,7 +774,6 @@
     },
     {
       "Id": 121,
-      "DevName": "Material_Wolfsegg_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2160888131,
@@ -833,7 +805,6 @@
     },
     {
       "Id": 122,
-      "DevName": "Material_Wolfsegg_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4072420418,
@@ -863,7 +834,6 @@
     },
     {
       "Id": 123,
-      "DevName": "Material_Wolfsegg_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3540869938,
@@ -893,7 +863,6 @@
     },
     {
       "Id": 130,
-      "DevName": "Material_Nimrud_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 428637820,
@@ -925,7 +894,6 @@
     },
     {
       "Id": 131,
-      "DevName": "Material_Nimrud_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1195979536,
@@ -957,7 +925,6 @@
     },
     {
       "Id": 132,
-      "DevName": "Material_Nimrud_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 759961142,
@@ -987,7 +954,6 @@
     },
     {
       "Id": 133,
-      "DevName": "Material_Nimrud_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3964922517,
@@ -1017,7 +983,6 @@
     },
     {
       "Id": 140,
-      "DevName": "Material_Mandragora_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4008312686,
@@ -1049,7 +1014,6 @@
     },
     {
       "Id": 141,
-      "DevName": "Material_Mandragora_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2742210412,
@@ -1081,7 +1045,6 @@
     },
     {
       "Id": 142,
-      "DevName": "Material_Mandragora_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2742161069,
@@ -1111,7 +1074,6 @@
     },
     {
       "Id": 143,
-      "DevName": "Material_Mandragora_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 933585740,
@@ -1141,7 +1103,6 @@
     },
     {
       "Id": 150,
-      "DevName": "Material_Rohonc_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1929578153,
@@ -1173,7 +1134,6 @@
     },
     {
       "Id": 151,
-      "DevName": "Material_Rohonc_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 782923374,
@@ -1205,7 +1165,6 @@
     },
     {
       "Id": 152,
-      "DevName": "Material_Rohonc_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2904876962,
@@ -1235,7 +1194,6 @@
     },
     {
       "Id": 153,
-      "DevName": "Material_Rohonc_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1999113412,
@@ -1265,7 +1223,6 @@
     },
     {
       "Id": 160,
-      "DevName": "Material_Ether_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1059601629,
@@ -1297,7 +1254,6 @@
     },
     {
       "Id": 161,
-      "DevName": "Material_Ether_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2792603792,
@@ -1329,7 +1285,6 @@
     },
     {
       "Id": 162,
-      "DevName": "Material_Ether_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2746570331,
@@ -1359,7 +1314,6 @@
     },
     {
       "Id": 163,
-      "DevName": "Material_Ether_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3158158648,
@@ -1389,7 +1343,6 @@
     },
     {
       "Id": 170,
-      "DevName": "Material_Antikythera_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1770235474,
@@ -1421,7 +1374,6 @@
     },
     {
       "Id": 171,
-      "DevName": "Material_Antikythera_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2335488326,
@@ -1453,7 +1405,6 @@
     },
     {
       "Id": 172,
-      "DevName": "Material_Antikythera_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1872991591,
@@ -1483,7 +1434,6 @@
     },
     {
       "Id": 173,
-      "DevName": "Material_Antikythera_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2649485585,
@@ -1513,7 +1463,6 @@
     },
     {
       "Id": 180,
-      "DevName": "Material_Voynich_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1066886482,
@@ -1545,7 +1494,6 @@
     },
     {
       "Id": 181,
-      "DevName": "Material_Voynich_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4263181528,
@@ -1577,7 +1525,6 @@
     },
     {
       "Id": 182,
-      "DevName": "Material_Voynich_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1731163637,
@@ -1607,7 +1554,6 @@
     },
     {
       "Id": 183,
-      "DevName": "Material_Voynich_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2042390877,
@@ -1637,7 +1583,6 @@
     },
     {
       "Id": 190,
-      "DevName": "Material_CrystalHaniwa_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4282203720,
@@ -1669,7 +1614,6 @@
     },
     {
       "Id": 191,
-      "DevName": "Material_CrystalHaniwa_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1767055059,
@@ -1701,7 +1645,6 @@
     },
     {
       "Id": 192,
-      "DevName": "Material_CrystalHaniwa_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2751697296,
@@ -1731,7 +1674,6 @@
     },
     {
       "Id": 193,
-      "DevName": "Material_CrystalHaniwa_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2344279089,
@@ -1761,7 +1703,6 @@
     },
     {
       "Id": 3000,
-      "DevName": "ExSkill_Hyakkiyako_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2579836564,
@@ -1793,7 +1734,6 @@
     },
     {
       "Id": 3001,
-      "DevName": "ExSkill_Hyakkiyako_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 788632076,
@@ -1825,7 +1765,6 @@
     },
     {
       "Id": 3002,
-      "DevName": "ExSkill_Hyakkiyako_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3829441542,
@@ -1857,7 +1796,6 @@
     },
     {
       "Id": 3003,
-      "DevName": "ExSkill_Hyakkiyako_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 391816722,
@@ -1889,7 +1827,6 @@
     },
     {
       "Id": 3010,
-      "DevName": "ExSkill_RedWinter_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1264526457,
@@ -1921,7 +1858,6 @@
     },
     {
       "Id": 3011,
-      "DevName": "ExSkill_RedWinter_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 23722908,
@@ -1953,7 +1889,6 @@
     },
     {
       "Id": 3012,
-      "DevName": "ExSkill_RedWinter_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1694520143,
@@ -1985,7 +1920,6 @@
     },
     {
       "Id": 3013,
-      "DevName": "ExSkill_RedWinter_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3097064378,
@@ -2017,7 +1951,6 @@
     },
     {
       "Id": 3020,
-      "DevName": "ExSkill_Trinity_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 6443547,
@@ -2049,7 +1982,6 @@
     },
     {
       "Id": 3021,
-      "DevName": "ExSkill_Trinity_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2617257349,
@@ -2081,7 +2013,6 @@
     },
     {
       "Id": 3022,
-      "DevName": "ExSkill_Trinity_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2986442285,
@@ -2113,7 +2044,6 @@
     },
     {
       "Id": 3023,
-      "DevName": "ExSkill_Trinity_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1199826986,
@@ -2145,7 +2075,6 @@
     },
     {
       "Id": 3030,
-      "DevName": "ExSkill_Gehenna_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3845598785,
@@ -2177,7 +2106,6 @@
     },
     {
       "Id": 3031,
-      "DevName": "ExSkill_Gehenna_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 900390661,
@@ -2209,7 +2137,6 @@
     },
     {
       "Id": 3032,
-      "DevName": "ExSkill_Gehenna_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3502659760,
@@ -2241,7 +2168,6 @@
     },
     {
       "Id": 3033,
-      "DevName": "ExSkill_Gehenna_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 306884790,
@@ -2273,7 +2199,6 @@
     },
     {
       "Id": 3040,
-      "DevName": "ExSkill_Abydos_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1080728719,
@@ -2305,7 +2230,6 @@
     },
     {
       "Id": 3041,
-      "DevName": "ExSkill_Abydos_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 39893871,
@@ -2337,7 +2261,6 @@
     },
     {
       "Id": 3042,
-      "DevName": "ExSkill_Abydos_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2662611816,
@@ -2369,7 +2292,6 @@
     },
     {
       "Id": 3043,
-      "DevName": "ExSkill_Abydos_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4143322513,
@@ -2401,7 +2323,6 @@
     },
     {
       "Id": 3050,
-      "DevName": "ExSkill_Millennium_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 963270992,
@@ -2433,7 +2354,6 @@
     },
     {
       "Id": 3051,
-      "DevName": "ExSkill_Millennium_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4116117232,
@@ -2465,7 +2385,6 @@
     },
     {
       "Id": 3052,
-      "DevName": "ExSkill_Millennium_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 773939592,
@@ -2497,7 +2416,6 @@
     },
     {
       "Id": 3053,
-      "DevName": "ExSkill_Millennium_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3401194712,
@@ -2529,7 +2447,6 @@
     },
     {
       "Id": 3060,
-      "DevName": "ExSkill_Arius_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 89617008,
@@ -2561,7 +2478,6 @@
     },
     {
       "Id": 3061,
-      "DevName": "ExSkill_Arius_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1969765550,
@@ -2593,7 +2509,6 @@
     },
     {
       "Id": 3062,
-      "DevName": "ExSkill_Arius_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1912394354,
@@ -2625,7 +2540,6 @@
     },
     {
       "Id": 3063,
-      "DevName": "ExSkill_Arius_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3488216464,
@@ -2657,7 +2571,6 @@
     },
     {
       "Id": 3070,
-      "DevName": "ExSkill_Shanhaijing_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3433794810,
@@ -2689,7 +2602,6 @@
     },
     {
       "Id": 3071,
-      "DevName": "ExSkill_Shanhaijing_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 506616951,
@@ -2721,7 +2633,6 @@
     },
     {
       "Id": 3072,
-      "DevName": "ExSkill_Shanhaijing_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 230325198,
@@ -2753,7 +2664,6 @@
     },
     {
       "Id": 3073,
-      "DevName": "ExSkill_Shanhaijing_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1973297702,
@@ -2785,7 +2695,6 @@
     },
     {
       "Id": 3080,
-      "DevName": "ExSkill_Valkyrie_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3501238234,
@@ -2817,7 +2726,6 @@
     },
     {
       "Id": 3081,
-      "DevName": "ExSkill_Valkyrie_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3514082561,
@@ -2849,7 +2757,6 @@
     },
     {
       "Id": 3082,
-      "DevName": "ExSkill_Valkyrie_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 644961418,
@@ -2881,7 +2788,6 @@
     },
     {
       "Id": 3083,
-      "DevName": "ExSkill_Valkyrie_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4292907309,
@@ -2913,7 +2819,6 @@
     },
     {
       "Id": 4000,
-      "DevName": "SkillBook_Hyakkiyako_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4133921081,
@@ -2945,7 +2850,6 @@
     },
     {
       "Id": 4001,
-      "DevName": "SkillBook_Hyakkiyako_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 35330832,
@@ -2977,7 +2881,6 @@
     },
     {
       "Id": 4002,
-      "DevName": "SkillBook_Hyakkiyako_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4114117805,
@@ -3009,7 +2912,6 @@
     },
     {
       "Id": 4003,
-      "DevName": "SkillBook_Hyakkiyako_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3104370311,
@@ -3041,7 +2943,6 @@
     },
     {
       "Id": 4010,
-      "DevName": "SkillBook_RedWinter_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3502917964,
@@ -3073,7 +2974,6 @@
     },
     {
       "Id": 4011,
-      "DevName": "SkillBook_RedWinter_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3870440815,
@@ -3105,7 +3005,6 @@
     },
     {
       "Id": 4012,
-      "DevName": "SkillBook_RedWinter_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1537137084,
@@ -3137,7 +3036,6 @@
     },
     {
       "Id": 4013,
-      "DevName": "SkillBook_RedWinter_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 991032267,
@@ -3169,7 +3067,6 @@
     },
     {
       "Id": 4020,
-      "DevName": "SkillBook_Trinity_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 487656045,
@@ -3201,7 +3098,6 @@
     },
     {
       "Id": 4021,
-      "DevName": "SkillBook_Trinity_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 930608878,
@@ -3233,7 +3129,6 @@
     },
     {
       "Id": 4022,
-      "DevName": "SkillBook_Trinity_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 466517079,
@@ -3265,7 +3160,6 @@
     },
     {
       "Id": 4023,
-      "DevName": "SkillBook_Trinity_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3451281374,
@@ -3297,7 +3191,6 @@
     },
     {
       "Id": 4030,
-      "DevName": "SkillBook_Gehenna_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3462709848,
@@ -3329,7 +3222,6 @@
     },
     {
       "Id": 4031,
-      "DevName": "SkillBook_Gehenna_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1087187983,
@@ -3361,7 +3253,6 @@
     },
     {
       "Id": 4032,
-      "DevName": "SkillBook_Gehenna_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 574779445,
@@ -3393,7 +3284,6 @@
     },
     {
       "Id": 4033,
-      "DevName": "SkillBook_Gehenna_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4146364185,
@@ -3425,7 +3315,6 @@
     },
     {
       "Id": 4040,
-      "DevName": "SkillBook_Abydos_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1291944740,
@@ -3457,7 +3346,6 @@
     },
     {
       "Id": 4041,
-      "DevName": "SkillBook_Abydos_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 196196410,
@@ -3489,7 +3377,6 @@
     },
     {
       "Id": 4042,
-      "DevName": "SkillBook_Abydos_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3856511577,
@@ -3521,7 +3408,6 @@
     },
     {
       "Id": 4043,
-      "DevName": "SkillBook_Abydos_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2061131365,
@@ -3553,7 +3439,6 @@
     },
     {
       "Id": 4050,
-      "DevName": "SkillBook_Millennium_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 151494972,
@@ -3585,7 +3470,6 @@
     },
     {
       "Id": 4051,
-      "DevName": "SkillBook_Millennium_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3546140085,
@@ -3617,7 +3501,6 @@
     },
     {
       "Id": 4052,
-      "DevName": "SkillBook_Millennium_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3221283925,
@@ -3649,7 +3532,6 @@
     },
     {
       "Id": 4053,
-      "DevName": "SkillBook_Millennium_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1963299364,
@@ -3681,7 +3563,6 @@
     },
     {
       "Id": 4060,
-      "DevName": "SkillBook_Arius_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 997804954,
@@ -3713,7 +3594,6 @@
     },
     {
       "Id": 4061,
-      "DevName": "SkillBook_Arius_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1381874672,
@@ -3745,7 +3625,6 @@
     },
     {
       "Id": 4062,
-      "DevName": "SkillBook_Arius_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1129599792,
@@ -3777,7 +3656,6 @@
     },
     {
       "Id": 4063,
-      "DevName": "SkillBook_Arius_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2952648322,
@@ -3809,7 +3687,6 @@
     },
     {
       "Id": 4070,
-      "DevName": "SkillBook_Shanhaijing_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2844005639,
@@ -3841,7 +3718,6 @@
     },
     {
       "Id": 4071,
-      "DevName": "SkillBook_Shanhaijing_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2891506473,
@@ -3873,7 +3749,6 @@
     },
     {
       "Id": 4072,
-      "DevName": "SkillBook_Shanhaijing_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1110164000,
@@ -3905,7 +3780,6 @@
     },
     {
       "Id": 4073,
-      "DevName": "SkillBook_Shanhaijing_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2494745311,
@@ -3937,7 +3811,6 @@
     },
     {
       "Id": 4080,
-      "DevName": "SkillBook_Valkyrie_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3593783201,
@@ -3969,7 +3842,6 @@
     },
     {
       "Id": 4081,
-      "DevName": "SkillBook_Valkyrie_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3758792514,
@@ -4001,7 +3873,6 @@
     },
     {
       "Id": 4082,
-      "DevName": "SkillBook_Valkyrie_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1232522819,
@@ -4033,7 +3904,6 @@
     },
     {
       "Id": 4083,
-      "DevName": "SkillBook_Valkyrie_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 756559058,
@@ -4065,7 +3935,6 @@
     },
     {
       "Id": 5000,
-      "DevName": "Favor_0",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2157520585,
@@ -4097,7 +3966,6 @@
     },
     {
       "Id": 5001,
-      "DevName": "Favor_1",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3679010773,
@@ -4130,7 +3998,6 @@
     },
     {
       "Id": 5002,
-      "DevName": "Favor_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3417345669,
@@ -4162,7 +4029,6 @@
     },
     {
       "Id": 5003,
-      "DevName": "Favor_3",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1575353856,
@@ -4194,7 +4060,6 @@
     },
     {
       "Id": 5004,
-      "DevName": "Favor_4",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3531188161,
@@ -4218,7 +4083,8 @@
         "FavorItem",
         "Books",
         "Game",
-        "F_Hare"
+        "F_Hare",
+        "F_Aris"
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
@@ -4226,7 +4092,6 @@
     },
     {
       "Id": 5005,
-      "DevName": "Favor_5",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 812933091,
@@ -4258,7 +4123,6 @@
     },
     {
       "Id": 5006,
-      "DevName": "Favor_6",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2902292788,
@@ -4290,7 +4154,6 @@
     },
     {
       "Id": 5007,
-      "DevName": "Favor_7",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 618503547,
@@ -4322,7 +4185,6 @@
     },
     {
       "Id": 5008,
-      "DevName": "Favor_8",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1773086852,
@@ -4355,7 +4217,6 @@
     },
     {
       "Id": 5009,
-      "DevName": "Favor_9",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2238627204,
@@ -4387,7 +4248,6 @@
     },
     {
       "Id": 5010,
-      "DevName": "Favor_10",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 346808410,
@@ -4419,7 +4279,6 @@
     },
     {
       "Id": 5011,
-      "DevName": "Favor_11",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3391000326,
@@ -4442,7 +4301,8 @@
       "Tags": [
         "FavorItem",
         "Electronic",
-        "Game"
+        "Game",
+        "F_Momoi"
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
@@ -4450,7 +4310,6 @@
     },
     {
       "Id": 5012,
-      "DevName": "Favor_12",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2936755317,
@@ -4481,7 +4340,6 @@
     },
     {
       "Id": 5013,
-      "DevName": "Favor_13",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1249782817,
@@ -4512,7 +4370,6 @@
     },
     {
       "Id": 5014,
-      "DevName": "Favor_14",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2902432180,
@@ -4536,7 +4393,8 @@
         "FavorItem",
         "Bedding",
         "Jellyz",
-        "F_Serina"
+        "F_Serina",
+        "F_Midori"
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
@@ -4544,7 +4402,6 @@
     },
     {
       "Id": 5015,
-      "DevName": "Favor_15",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1148052880,
@@ -4576,7 +4433,6 @@
     },
     {
       "Id": 5016,
-      "DevName": "Favor_16",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1561623078,
@@ -4608,7 +4464,6 @@
     },
     {
       "Id": 5017,
-      "DevName": "Favor_17",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 293569137,
@@ -4640,7 +4495,6 @@
     },
     {
       "Id": 5018,
-      "DevName": "Favor_18",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3310161849,
@@ -4673,7 +4527,6 @@
     },
     {
       "Id": 5019,
-      "DevName": "Favor_19",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1301636205,
@@ -4705,7 +4558,6 @@
     },
     {
       "Id": 5020,
-      "DevName": "Favor_20",
       "Rarity": "SR",
       "ProductionStep": "Doing",
       "LocalizeEtcId": 535298119,
@@ -4737,7 +4589,6 @@
     },
     {
       "Id": 5021,
-      "DevName": "Favor_21",
       "Rarity": "SR",
       "ProductionStep": "Doing",
       "LocalizeEtcId": 3961391528,
@@ -4769,7 +4620,6 @@
     },
     {
       "Id": 5022,
-      "DevName": "Favor_22",
       "Rarity": "SR",
       "ProductionStep": "Doing",
       "LocalizeEtcId": 2944986556,
@@ -4801,7 +4651,6 @@
     },
     {
       "Id": 5023,
-      "DevName": "Favor_23",
       "Rarity": "SR",
       "ProductionStep": "Doing",
       "LocalizeEtcId": 4077917950,
@@ -4832,7 +4681,6 @@
     },
     {
       "Id": 5024,
-      "DevName": "Favor_24",
       "Rarity": "SR",
       "ProductionStep": "Doing",
       "LocalizeEtcId": 3946342470,
@@ -4864,7 +4712,6 @@
     },
     {
       "Id": 5025,
-      "DevName": "Favor_25",
       "Rarity": "SR",
       "ProductionStep": "Doing",
       "LocalizeEtcId": 762300502,
@@ -4897,7 +4744,6 @@
     },
     {
       "Id": 5026,
-      "DevName": "Favor_26",
       "Rarity": "SR",
       "ProductionStep": "Doing",
       "LocalizeEtcId": 3238447321,
@@ -4928,7 +4774,6 @@
     },
     {
       "Id": 5027,
-      "DevName": "Favor_27",
       "Rarity": "SR",
       "ProductionStep": "Doing",
       "LocalizeEtcId": 1648390167,
@@ -4960,7 +4805,6 @@
     },
     {
       "Id": 5028,
-      "DevName": "Favor_28",
       "Rarity": "SR",
       "ProductionStep": "Doing",
       "LocalizeEtcId": 1143324025,
@@ -4991,7 +4835,6 @@
     },
     {
       "Id": 5029,
-      "DevName": "Favor_29",
       "Rarity": "SR",
       "ProductionStep": "Doing",
       "LocalizeEtcId": 1569225040,
@@ -5023,7 +4866,6 @@
     },
     {
       "Id": 5030,
-      "DevName": "Favor_30",
       "Rarity": "SR",
       "ProductionStep": "Doing",
       "LocalizeEtcId": 2112008978,
@@ -5054,7 +4896,6 @@
     },
     {
       "Id": 5031,
-      "DevName": "Favor_31",
       "Rarity": "SR",
       "ProductionStep": "Doing",
       "LocalizeEtcId": 2651867463,
@@ -5087,7 +4928,6 @@
     },
     {
       "Id": 5032,
-      "DevName": "Favor_32",
       "Rarity": "SR",
       "ProductionStep": "Doing",
       "LocalizeEtcId": 3408710330,
@@ -5118,7 +4958,6 @@
     },
     {
       "Id": 5033,
-      "DevName": "Favor_33",
       "Rarity": "SR",
       "ProductionStep": "Doing",
       "LocalizeEtcId": 2665872474,
@@ -5150,7 +4989,6 @@
     },
     {
       "Id": 5999,
-      "DevName": "Favor_All",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3401454433,
@@ -5180,7 +5018,6 @@
     },
     {
       "Id": 9999,
-      "DevName": "SkillBook_Ultimate",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 753025034,
@@ -5209,7 +5046,6 @@
     },
     {
       "Id": 10000,
-      "DevName": "Aru",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1623415300,
@@ -5238,7 +5074,6 @@
     },
     {
       "Id": 10001,
-      "DevName": "Eimi",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3138946074,
@@ -5267,7 +5102,6 @@
     },
     {
       "Id": 10002,
-      "DevName": "Haruna",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1300650116,
@@ -5296,7 +5130,6 @@
     },
     {
       "Id": 10003,
-      "DevName": "Hihumi",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1706189698,
@@ -5325,7 +5158,6 @@
     },
     {
       "Id": 10004,
-      "DevName": "Hina",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4084327095,
@@ -5354,7 +5186,6 @@
     },
     {
       "Id": 10005,
-      "DevName": "Hoshino",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2597708081,
@@ -5383,7 +5214,6 @@
     },
     {
       "Id": 10006,
-      "DevName": "Iori",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4002976971,
@@ -5412,7 +5242,6 @@
     },
     {
       "Id": 10007,
-      "DevName": "Maki",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 676678427,
@@ -5442,7 +5271,6 @@
     },
     {
       "Id": 10008,
-      "DevName": "Neru",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1132224713,
@@ -5471,7 +5299,6 @@
     },
     {
       "Id": 10009,
-      "DevName": "Izumi",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2421185332,
@@ -5500,7 +5327,6 @@
     },
     {
       "Id": 10010,
-      "DevName": "Shiroko",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4260131856,
@@ -5529,7 +5355,6 @@
     },
     {
       "Id": 10011,
-      "DevName": "Shun",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 103420652,
@@ -5558,7 +5383,6 @@
     },
     {
       "Id": 10012,
-      "DevName": "Sumire",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4190619607,
@@ -5587,7 +5411,6 @@
     },
     {
       "Id": 10013,
-      "DevName": "Tsurugi",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2254787983,
@@ -5616,7 +5439,6 @@
     },
     {
       "Id": 10014,
-      "DevName": "Izuna",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 832419743,
@@ -5645,13 +5467,12 @@
     },
     {
       "Id": 10015,
-      "DevName": "Dummy_SecretStone",
       "Rarity": "N",
       "ProductionStep": "Release",
-      "LocalizeEtcId": 3393952632,
+      "LocalizeEtcId": 1199341966,
       "ItemCategory": "SecretStone",
       "Quality": 9,
-      "Icon": "UIs/01_Common/03_NonEquipment/Material_Icon_Error",
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Aris",
       "SpriteName": null,
       "StackableMax": 99999,
       "StackableFunction": 0,
@@ -5667,12 +5488,41 @@
       "TierUpgradeRecipeCraftId": 0,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": [],
+      "ShopCategory": [
+        "SecretStone"
+      ],
+      "ExpirationDateTime": null
+    },
+    {
+      "Id": 10016,
+      "Rarity": "N",
+      "ProductionStep": "Complete",
+      "LocalizeEtcId": 2609827385,
+      "ItemCategory": "SecretStone",
+      "Quality": 9,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Midori",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [
+        "SecretStone"
+      ],
       "ExpirationDateTime": null
     },
     {
       "Id": 13000,
-      "DevName": "Akane",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1228759114,
@@ -5702,7 +5552,6 @@
     },
     {
       "Id": 13001,
-      "DevName": "Chise",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4230958326,
@@ -5731,7 +5580,6 @@
     },
     {
       "Id": 13002,
-      "DevName": "Akari",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3137846885,
@@ -5760,7 +5608,6 @@
     },
     {
       "Id": 13003,
-      "DevName": "Hasumi",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3948170192,
@@ -5789,7 +5636,6 @@
     },
     {
       "Id": 13004,
-      "DevName": "Nonomi",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2045795362,
@@ -5818,7 +5664,6 @@
     },
     {
       "Id": 13005,
-      "DevName": "Kayoko",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2657023252,
@@ -5847,7 +5692,6 @@
     },
     {
       "Id": 13006,
-      "DevName": "Mutsuki",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1190970559,
@@ -5876,7 +5720,6 @@
     },
     {
       "Id": 13007,
-      "DevName": "Zunko",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1744517710,
@@ -5905,7 +5748,6 @@
     },
     {
       "Id": 13008,
-      "DevName": "Serika",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3882618652,
@@ -5934,7 +5776,6 @@
     },
     {
       "Id": 13009,
-      "DevName": "Tsubaki",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 416424274,
@@ -5963,7 +5804,6 @@
     },
     {
       "Id": 13010,
-      "DevName": "Yuuka",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 603097460,
@@ -5991,8 +5831,35 @@
       "ExpirationDateTime": null
     },
     {
+      "Id": 13011,
+      "Rarity": "N",
+      "ProductionStep": "Complete",
+      "LocalizeEtcId": 1709372085,
+      "ItemCategory": "SecretStone",
+      "Quality": 9,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Momoi",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [
+        "SecretStone"
+      ],
+      "ExpirationDateTime": null
+    },
+    {
       "Id": 16000,
-      "DevName": "Haruka",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 462678327,
@@ -6021,7 +5888,6 @@
     },
     {
       "Id": 16001,
-      "DevName": "Asuna",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 788161606,
@@ -6050,7 +5916,6 @@
     },
     {
       "Id": 16002,
-      "DevName": "Kotori",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2399224909,
@@ -6079,7 +5944,6 @@
     },
     {
       "Id": 16003,
-      "DevName": "Suzumi",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1480418661,
@@ -6108,7 +5972,6 @@
     },
     {
       "Id": 16004,
-      "DevName": "Pina",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2797714306,
@@ -6137,7 +6000,6 @@
     },
     {
       "Id": 20000,
-      "DevName": "Hibiki",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3115017835,
@@ -6166,7 +6028,6 @@
     },
     {
       "Id": 20001,
-      "DevName": "karin",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3994691019,
@@ -6195,7 +6056,6 @@
     },
     {
       "Id": 20002,
-      "DevName": "Saya",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1199243145,
@@ -6225,7 +6085,6 @@
     },
     {
       "Id": 20003,
-      "DevName": "Mashiro",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3818943091,
@@ -6254,7 +6113,6 @@
     },
     {
       "Id": 23000,
-      "DevName": "Airi",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 89311440,
@@ -6283,7 +6141,6 @@
     },
     {
       "Id": 23001,
-      "DevName": "Fuuka",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1994063468,
@@ -6313,7 +6170,6 @@
     },
     {
       "Id": 23002,
-      "DevName": "Hanae",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 673411103,
@@ -6342,7 +6198,6 @@
     },
     {
       "Id": 23003,
-      "DevName": "Hare",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2146725559,
@@ -6371,7 +6226,6 @@
     },
     {
       "Id": 23004,
-      "DevName": "Utaha",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3864028658,
@@ -6400,7 +6254,6 @@
     },
     {
       "Id": 23005,
-      "DevName": "Ayane",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2080725429,
@@ -6429,7 +6282,6 @@
     },
     {
       "Id": 23006,
-      "DevName": "Shizuko",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2942168123,
@@ -6458,7 +6310,6 @@
     },
     {
       "Id": 26000,
-      "DevName": "Chinatsu",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4099421090,
@@ -6487,7 +6338,6 @@
     },
     {
       "Id": 26001,
-      "DevName": "Kotama",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2026127122,
@@ -6516,7 +6366,6 @@
     },
     {
       "Id": 26002,
-      "DevName": "Juri",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1947468414,
@@ -6545,7 +6394,6 @@
     },
     {
       "Id": 26003,
-      "DevName": "Serina",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1340751281,
@@ -6574,7 +6422,6 @@
     },
     {
       "Id": 26004,
-      "DevName": "Shimiko",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1321069493,
@@ -6603,7 +6450,6 @@
     },
     {
       "Id": 26005,
-      "DevName": "Yoshimi",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4220695410,
@@ -6632,7 +6478,6 @@
     },
     {
       "Id": 30000,
-      "DevName": "Cosumable_Chase_ExSkillbook_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2899887345,
@@ -6659,7 +6504,6 @@
     },
     {
       "Id": 30001,
-      "DevName": "Cosumable_Chase_ExSkillbook_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2570585488,
@@ -6686,7 +6530,6 @@
     },
     {
       "Id": 30002,
-      "DevName": "Cosumable_Chase_ExSkillbook_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 898103643,
@@ -6713,7 +6556,6 @@
     },
     {
       "Id": 30003,
-      "DevName": "Cosumable_Chase_ExSkillbook_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3149164821,
@@ -6740,7 +6582,6 @@
     },
     {
       "Id": 40000,
-      "DevName": "Cosumable_Chase_Skillbook_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1408652644,
@@ -6767,7 +6608,6 @@
     },
     {
       "Id": 40001,
-      "DevName": "Cosumable_Chase_Skillbook_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4198573600,
@@ -6794,7 +6634,6 @@
     },
     {
       "Id": 40002,
-      "DevName": "Cosumable_Chase_Skillbook_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1142627980,
@@ -6821,7 +6660,6 @@
     },
     {
       "Id": 40003,
-      "DevName": "Cosumable_Chase_Skillbook_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2656930896,
@@ -6848,7 +6686,6 @@
     },
     {
       "Id": 50000,
-      "DevName": "게헨나/산해경/트리니티_ExSkillbook_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2704724104,
@@ -6875,7 +6712,6 @@
     },
     {
       "Id": 50001,
-      "DevName": "게헨나/산해경/트리니티_ExSkillbook_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2937489313,
@@ -6902,7 +6738,6 @@
     },
     {
       "Id": 50002,
-      "DevName": "게헨나/산해경/트리니티_ExSkillbook_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1365644160,
@@ -6929,7 +6764,6 @@
     },
     {
       "Id": 50003,
-      "DevName": "게헨나/산해경/트리니티_ExSkillbook_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3355287334,
@@ -6956,7 +6790,6 @@
     },
     {
       "Id": 50004,
-      "DevName": "아비도스/밀레니엄/백귀야행_ExSkillbook_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1488683380,
@@ -6983,7 +6816,6 @@
     },
     {
       "Id": 50005,
-      "DevName": "아비도스/밀레니엄/백귀야행_ExSkillbook_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 222803907,
@@ -7010,7 +6842,6 @@
     },
     {
       "Id": 50006,
-      "DevName": "아비도스/밀레니엄/백귀야행_ExSkillbook_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4029130912,
@@ -7037,7 +6868,6 @@
     },
     {
       "Id": 50007,
-      "DevName": "아비도스/밀레니엄/백귀야행_ExSkillbook_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 103331321,
@@ -7064,7 +6894,6 @@
     },
     {
       "Id": 60000,
-      "DevName": "게헨나/산해경/트리니티_Skillbook_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2053117222,
@@ -7091,7 +6920,6 @@
     },
     {
       "Id": 60001,
-      "DevName": "게헨나/산해경/트리니티_Skillbook_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 572366011,
@@ -7118,7 +6946,6 @@
     },
     {
       "Id": 60002,
-      "DevName": "게헨나/산해경/트리니티_Skillbook_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 871337437,
@@ -7145,7 +6972,6 @@
     },
     {
       "Id": 60003,
-      "DevName": "게헨나/산해경/트리니티_Skillbook_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 317230714,
@@ -7172,7 +6998,6 @@
     },
     {
       "Id": 60004,
-      "DevName": "아비도스/밀레니엄/백귀야행_Skillbook_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4164563020,
@@ -7199,7 +7024,6 @@
     },
     {
       "Id": 60005,
-      "DevName": "아비도스/밀레니엄/백귀야행_Skillbook_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 668634446,
@@ -7226,7 +7050,6 @@
     },
     {
       "Id": 60006,
-      "DevName": "아비도스/밀레니엄/백귀야행_Skillbook_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1198266499,
@@ -7253,7 +7076,6 @@
     },
     {
       "Id": 60007,
-      "DevName": "아비도스/밀레니엄/백귀야행_Skillbook_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3946876494,
@@ -7280,7 +7102,6 @@
     },
     {
       "Id": 70000,
-      "DevName": "RecruitCoin_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -7307,7 +7128,6 @@
     },
     {
       "Id": 70001,
-      "DevName": "RecruitCoin_1",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -7334,7 +7154,6 @@
     },
     {
       "Id": 70002,
-      "DevName": "RecruitCoin_2",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -7361,7 +7180,6 @@
     },
     {
       "Id": 70003,
-      "DevName": "RecruitCoin_3",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -7388,7 +7206,6 @@
     },
     {
       "Id": 70004,
-      "DevName": "RecruitCoin_4",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -7415,7 +7232,6 @@
     },
     {
       "Id": 70005,
-      "DevName": "RecruitCoin_5",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -7438,11 +7254,10 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59"
+      "ExpirationDateTime": "04/08/2021 12:00:00"
     },
     {
       "Id": 70006,
-      "DevName": "RecruitCoin_6",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -7465,11 +7280,10 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59"
+      "ExpirationDateTime": "04/22/2021 12:00:00"
     },
     {
       "Id": 70007,
-      "DevName": "RecruitCoin_7",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -7492,11 +7306,10 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59"
+      "ExpirationDateTime": "04/29/2021 12:00:00"
     },
     {
       "Id": 70008,
-      "DevName": "RecruitCoin_8",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -7523,7 +7336,6 @@
     },
     {
       "Id": 70009,
-      "DevName": "RecruitCoin_9",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -7550,7 +7362,6 @@
     },
     {
       "Id": 70010,
-      "DevName": "RecruitCoin_10",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -7577,7 +7388,6 @@
     },
     {
       "Id": 70011,
-      "DevName": "RecruitCoin_11",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -7604,7 +7414,6 @@
     },
     {
       "Id": 70012,
-      "DevName": "RecruitCoin_12",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -7631,7 +7440,6 @@
     },
     {
       "Id": 70013,
-      "DevName": "RecruitCoin_13",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -7658,7 +7466,6 @@
     },
     {
       "Id": 70014,
-      "DevName": "RecruitCoin_14",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -7685,7 +7492,6 @@
     },
     {
       "Id": 70015,
-      "DevName": "RecruitCoin_15",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -7712,7 +7518,6 @@
     },
     {
       "Id": 70016,
-      "DevName": "RecruitCoin_16",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -7739,7 +7544,6 @@
     },
     {
       "Id": 70017,
-      "DevName": "RecruitCoin_17",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -7766,7 +7570,6 @@
     },
     {
       "Id": 70018,
-      "DevName": "RecruitCoin_18",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -7793,7 +7596,6 @@
     },
     {
       "Id": 70019,
-      "DevName": "RecruitCoin_19",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -7820,7 +7622,6 @@
     },
     {
       "Id": 70020,
-      "DevName": "RecruitCoin_20",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -7847,7 +7648,6 @@
     },
     {
       "Id": 70021,
-      "DevName": "RecruitCoin_21",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -7874,7 +7674,6 @@
     },
     {
       "Id": 70022,
-      "DevName": "RecruitCoin_22",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -7901,7 +7700,6 @@
     },
     {
       "Id": 70023,
-      "DevName": "RecruitCoin_23",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -7928,7 +7726,6 @@
     },
     {
       "Id": 70024,
-      "DevName": "RecruitCoin_24",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -7955,7 +7752,6 @@
     },
     {
       "Id": 70025,
-      "DevName": "RecruitCoin_25",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -7982,7 +7778,6 @@
     },
     {
       "Id": 70026,
-      "DevName": "RecruitCoin_26",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -8009,7 +7804,6 @@
     },
     {
       "Id": 70027,
-      "DevName": "RecruitCoin_27",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -8036,7 +7830,6 @@
     },
     {
       "Id": 70028,
-      "DevName": "RecruitCoin_28",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -8063,7 +7856,32 @@
     },
     {
       "Id": 70029,
-      "DevName": "RecruitCoin_29",
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 3308377822,
+      "ItemCategory": "RecruitCoin",
+      "Quality": 2,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitCoin_0",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "ExpiryChangeItem",
+      "ExpiryChangeParcelType": "Item",
+      "ExpiryChangeId": 1,
+      "ExpiryChangeAmount": 1,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": "2099-12-31 23:59:59"
+    },
+    {
+      "Id": 79999,
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3308377822,
@@ -8090,7 +7908,6 @@
     },
     {
       "Id": 80000,
-      "DevName": "백귀야행 이벤트 포인트",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 284088691,
@@ -8117,7 +7934,6 @@
     },
     {
       "Id": 80001,
-      "DevName": "이벤트 토큰 - 여우여우 센베이",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3146510308,
@@ -8144,7 +7960,6 @@
     },
     {
       "Id": 80002,
-      "DevName": "이벤트 토큰 - 너구리 오코노미야키",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1959694325,
@@ -8171,7 +7986,6 @@
     },
     {
       "Id": 80003,
-      "DevName": "이벤트 토큰 - 벚꽃 찹쌀떡",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2308340710,
@@ -8198,7 +8012,6 @@
     },
     {
       "Id": 90000,
-      "DevName": "지역 특별 상자(전략1회성보상)",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1854765939,
@@ -8225,7 +8038,6 @@
     },
     {
       "Id": 100000,
-      "DevName": "Favor_Random",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2057278413,
@@ -8252,7 +8064,6 @@
     },
     {
       "Id": 100001,
-      "DevName": "Furniture_Random",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3160790417,
@@ -8279,7 +8090,6 @@
     },
     {
       "Id": 150000,
-      "DevName": "SkillBook_Selection_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4136494629,
@@ -8306,7 +8116,6 @@
     },
     {
       "Id": 150001,
-      "DevName": "SkillBook_Selection_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 982012638,
@@ -8333,7 +8142,6 @@
     },
     {
       "Id": 150002,
-      "DevName": "SkillBook_Selection_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2813504783,
@@ -8360,7 +8168,6 @@
     },
     {
       "Id": 150003,
-      "DevName": "SkillBook_Selection_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2495245764,
@@ -8387,7 +8194,6 @@
     },
     {
       "Id": 150004,
-      "DevName": "ExSkillCD_Selection_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4255959692,
@@ -8414,7 +8220,6 @@
     },
     {
       "Id": 150005,
-      "DevName": "ExSkillCD_Selection_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2168371243,
@@ -8441,7 +8246,6 @@
     },
     {
       "Id": 150006,
-      "DevName": "ExSkillCD_Selection_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1920922840,
@@ -8468,7 +8272,6 @@
     },
     {
       "Id": 150007,
-      "DevName": "ExSkillCD_Selection_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3516850279,
@@ -8495,7 +8298,6 @@
     },
     {
       "Id": 150008,
-      "DevName": "Material_Selection_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 665826303,
@@ -8522,7 +8324,6 @@
     },
     {
       "Id": 150009,
-      "DevName": "Material_Selection_1",
       "Rarity": "R",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1685677933,
@@ -8549,7 +8350,6 @@
     },
     {
       "Id": 150010,
-      "DevName": "Material_Selection_2",
       "Rarity": "SR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 1811464415,
@@ -8576,7 +8376,6 @@
     },
     {
       "Id": 150011,
-      "DevName": "Material_Selection_3",
       "Rarity": "SSR",
       "ProductionStep": "Release",
       "LocalizeEtcId": 207033865,
@@ -8603,7 +8402,6 @@
     },
     {
       "Id": 10000000,
-      "DevName": "Consumable_AP_0",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2385765972,
@@ -8630,7 +8428,6 @@
     },
     {
       "Id": 10000001,
-      "DevName": "Consumable_AP_1",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2075834651,
@@ -8657,7 +8454,6 @@
     },
     {
       "Id": 10000002,
-      "DevName": "Consumable_AP_2",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 2017814794,
@@ -8684,7 +8480,6 @@
     },
     {
       "Id": 10000003,
-      "DevName": "Consumable_AP_3",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 4039085262,
@@ -8711,7 +8506,6 @@
     },
     {
       "Id": 20000000,
-      "DevName": "가이드미션 수집 아이템",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3228029479,
@@ -8737,8 +8531,33 @@
       "ExpirationDateTime": null
     },
     {
+      "Id": 20000001,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 3558252378,
+      "ItemCategory": "Collectible",
+      "Quality": 2,
+      "Icon": "UIs/01_Common/03_NonEquipment/Collectible_Icon_GuideMission_S3",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "ExpiryChangeItem",
+      "ExpiryChangeParcelType": "Currency",
+      "ExpiryChangeId": 1,
+      "ExpiryChangeAmount": 5000,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null
+    },
+    {
       "Id": 29999998,
-      "DevName": "시즌 1 수집 아이템 1",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3228029479,
@@ -8765,7 +8584,6 @@
     },
     {
       "Id": 29999999,
-      "DevName": "시즌 1 수집 아이템 2",
       "Rarity": "N",
       "ProductionStep": "Release",
       "LocalizeEtcId": 3228029479,

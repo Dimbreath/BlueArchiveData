@@ -2,7 +2,6 @@
   "DataList": [
     {
       "Id": 1,
-      "DevName": "학생 - 생명력",
       "TacticEntityType": "Student",
       "StatType": "MaxHP",
       "StatMinValue": 0,
@@ -12,7 +11,6 @@
     },
     {
       "Id": 2,
-      "DevName": "학생 - 공격력",
       "TacticEntityType": "Student",
       "StatType": "AttackPower",
       "StatMinValue": 0,
@@ -22,7 +20,6 @@
     },
     {
       "Id": 3,
-      "DevName": "학생 - 방어력",
       "TacticEntityType": "Student",
       "StatType": "DefensePower",
       "StatMinValue": 0,
@@ -32,7 +29,6 @@
     },
     {
       "Id": 4,
-      "DevName": "학생 - 회복력",
       "TacticEntityType": "Student",
       "StatType": "HealPower",
       "StatMinValue": 0,
@@ -42,7 +38,6 @@
     },
     {
       "Id": 5,
-      "DevName": "학생 - 명중 수치",
       "TacticEntityType": "Student",
       "StatType": "AccuracyPoint",
       "StatMinValue": 0,
@@ -52,7 +47,6 @@
     },
     {
       "Id": 6,
-      "DevName": "학생 - 명중률",
       "TacticEntityType": "Student",
       "StatType": "AccuracyRate",
       "StatMinValue": -8000,
@@ -62,7 +56,6 @@
     },
     {
       "Id": 7,
-      "DevName": "학생 - 회피 수치",
       "TacticEntityType": "Student",
       "StatType": "DodgePoint",
       "StatMinValue": 0,
@@ -72,7 +65,6 @@
     },
     {
       "Id": 8,
-      "DevName": "학생 - 회피율",
       "TacticEntityType": "Student",
       "StatType": "DodgeRate",
       "StatMinValue": -8000,
@@ -82,7 +74,6 @@
     },
     {
       "Id": 9,
-      "DevName": "학생 - 치명타 수치",
       "TacticEntityType": "Student",
       "StatType": "CriticalPoint",
       "StatMinValue": 0,
@@ -92,7 +83,6 @@
     },
     {
       "Id": 10,
-      "DevName": "학생 - 치명타율",
       "TacticEntityType": "Student",
       "StatType": "CriticalChanceRate",
       "StatMinValue": -8000,
@@ -102,7 +92,6 @@
     },
     {
       "Id": 11,
-      "DevName": "학생 - 치명타 대미지율",
       "TacticEntityType": "Student",
       "StatType": "CriticalDamageRate",
       "StatMinValue": 10000,
@@ -112,7 +101,6 @@
     },
     {
       "Id": 12,
-      "DevName": "학생 - 이동 속도",
       "TacticEntityType": "Student",
       "StatType": "MoveSpeed",
       "StatMinValue": 40,
@@ -122,7 +110,6 @@
     },
     {
       "Id": 13,
-      "DevName": "학생 - 안정 수치",
       "TacticEntityType": "Student",
       "StatType": "StabilityPoint",
       "StatMinValue": 0,
@@ -132,7 +119,6 @@
     },
     {
       "Id": 14,
-      "DevName": "학생 - 안정률",
       "TacticEntityType": "Student",
       "StatType": "StabilityRate",
       "StatMinValue": 0,
@@ -142,7 +128,6 @@
     },
     {
       "Id": 16,
-      "DevName": "학생 - 회복률",
       "TacticEntityType": "Student",
       "StatType": "HealEffectivenessRate",
       "StatMinValue": 2000,
@@ -152,7 +137,6 @@
     },
     {
       "Id": 17,
-      "DevName": "학생 - 치명타 저항 수치",
       "TacticEntityType": "Student",
       "StatType": "CriticalChanceResistPoint",
       "StatMinValue": 0,
@@ -162,7 +146,6 @@
     },
     {
       "Id": 18,
-      "DevName": "학생 - 치명타 대미지 저항률",
       "TacticEntityType": "Student",
       "StatType": "CriticalDamageResistRate",
       "StatMinValue": -8000,
@@ -172,7 +155,6 @@
     },
     {
       "Id": 19,
-      "DevName": "학생 - 공격 속도",
       "TacticEntityType": "Student",
       "StatType": "NormalAttackSpeed",
       "StatMinValue": 2000,
@@ -182,7 +164,6 @@
     },
     {
       "Id": 20,
-      "DevName": "학생 - 주는 대미지 율",
       "TacticEntityType": "Student",
       "StatType": "DamageRatio",
       "StatMinValue": 2000,
@@ -192,7 +173,6 @@
     },
     {
       "Id": 21,
-      "DevName": "학생 - 받는 대미지 율",
       "TacticEntityType": "Student",
       "StatType": "DamagedRatio",
       "StatMinValue": 2000,
@@ -202,7 +182,6 @@
     },
     {
       "Id": 22,
-      "DevName": "군중제어 강화력",
       "TacticEntityType": "Student",
       "StatType": "OppressionPower",
       "StatMinValue": 0,
@@ -212,7 +191,6 @@
     },
     {
       "Id": 23,
-      "DevName": "군중제어 저항력",
       "TacticEntityType": "Student",
       "StatType": "OppressionResist",
       "StatMinValue": 0,
@@ -222,7 +200,6 @@
     },
     {
       "Id": 24,
-      "DevName": "리젠 코스트",
       "TacticEntityType": "Student",
       "StatType": "RegenCost",
       "StatMinValue": 0,
@@ -232,7 +209,6 @@
     },
     {
       "Id": 101,
-      "DevName": "미니언 - 생명력",
       "TacticEntityType": "Minion",
       "StatType": "MaxHP",
       "StatMinValue": 0,
@@ -242,7 +218,6 @@
     },
     {
       "Id": 102,
-      "DevName": "미니언 - 공격력",
       "TacticEntityType": "Minion",
       "StatType": "AttackPower",
       "StatMinValue": 0,
@@ -252,7 +227,6 @@
     },
     {
       "Id": 103,
-      "DevName": "미니언 - 방어력",
       "TacticEntityType": "Minion",
       "StatType": "DefensePower",
       "StatMinValue": 0,
@@ -262,7 +236,6 @@
     },
     {
       "Id": 104,
-      "DevName": "미니언 - 회복력",
       "TacticEntityType": "Minion",
       "StatType": "HealPower",
       "StatMinValue": 0,
@@ -272,7 +245,6 @@
     },
     {
       "Id": 105,
-      "DevName": "미니언 - 명중 수치",
       "TacticEntityType": "Minion",
       "StatType": "AccuracyPoint",
       "StatMinValue": 0,
@@ -282,7 +254,6 @@
     },
     {
       "Id": 106,
-      "DevName": "미니언 - 명중률",
       "TacticEntityType": "Minion",
       "StatType": "AccuracyRate",
       "StatMinValue": -8000,
@@ -292,7 +263,6 @@
     },
     {
       "Id": 107,
-      "DevName": "미니언 - 회피 수치",
       "TacticEntityType": "Minion",
       "StatType": "DodgePoint",
       "StatMinValue": 0,
@@ -302,7 +272,6 @@
     },
     {
       "Id": 108,
-      "DevName": "미니언 - 회피율",
       "TacticEntityType": "Minion",
       "StatType": "DodgeRate",
       "StatMinValue": -8000,
@@ -312,7 +281,6 @@
     },
     {
       "Id": 109,
-      "DevName": "미니언 - 치명타 수치",
       "TacticEntityType": "Minion",
       "StatType": "CriticalPoint",
       "StatMinValue": 0,
@@ -322,7 +290,6 @@
     },
     {
       "Id": 110,
-      "DevName": "미니언 - 치명타율",
       "TacticEntityType": "Minion",
       "StatType": "CriticalChanceRate",
       "StatMinValue": -8000,
@@ -332,7 +299,6 @@
     },
     {
       "Id": 111,
-      "DevName": "미니언 - 치명타 대미지율",
       "TacticEntityType": "Minion",
       "StatType": "CriticalDamageRate",
       "StatMinValue": 10000,
@@ -342,7 +308,6 @@
     },
     {
       "Id": 112,
-      "DevName": "미니언 - 이동 속도",
       "TacticEntityType": "Minion",
       "StatType": "MoveSpeed",
       "StatMinValue": 40,
@@ -352,7 +317,6 @@
     },
     {
       "Id": 113,
-      "DevName": "미니언 - 안정 수치",
       "TacticEntityType": "Minion",
       "StatType": "StabilityPoint",
       "StatMinValue": 0,
@@ -362,7 +326,6 @@
     },
     {
       "Id": 114,
-      "DevName": "미니언 - 안정률",
       "TacticEntityType": "Minion",
       "StatType": "StabilityRate",
       "StatMinValue": 0,
@@ -372,7 +335,6 @@
     },
     {
       "Id": 116,
-      "DevName": "미니언 - 회복률",
       "TacticEntityType": "Minion",
       "StatType": "HealEffectivenessRate",
       "StatMinValue": 2000,
@@ -382,7 +344,6 @@
     },
     {
       "Id": 117,
-      "DevName": "미니언 - 치명타 저항 수치",
       "TacticEntityType": "Minion",
       "StatType": "CriticalChanceResistPoint",
       "StatMinValue": 0,
@@ -392,7 +353,6 @@
     },
     {
       "Id": 118,
-      "DevName": "미니언 - 치명타 대미지 저항률",
       "TacticEntityType": "Minion",
       "StatType": "CriticalDamageResistRate",
       "StatMinValue": -8000,
@@ -402,7 +362,6 @@
     },
     {
       "Id": 119,
-      "DevName": "미니언 - 공격 속도",
       "TacticEntityType": "Minion",
       "StatType": "NormalAttackSpeed",
       "StatMinValue": 2000,
@@ -412,7 +371,6 @@
     },
     {
       "Id": 120,
-      "DevName": "미니언 - 주는 대미지 율",
       "TacticEntityType": "Minion",
       "StatType": "DamageRatio",
       "StatMinValue": 2000,
@@ -422,7 +380,6 @@
     },
     {
       "Id": 121,
-      "DevName": "미니언 - 받는 대미지 율",
       "TacticEntityType": "Minion",
       "StatType": "DamagedRatio",
       "StatMinValue": 2000,
@@ -432,7 +389,6 @@
     },
     {
       "Id": 122,
-      "DevName": "미니언 - 군중제어 강화력",
       "TacticEntityType": "Minion",
       "StatType": "OppressionPower",
       "StatMinValue": 0,
@@ -442,7 +398,6 @@
     },
     {
       "Id": 123,
-      "DevName": "미니언 - 군중제어 저항력",
       "TacticEntityType": "Minion",
       "StatType": "OppressionResist",
       "StatMinValue": 0,
@@ -452,7 +407,6 @@
     },
     {
       "Id": 124,
-      "DevName": "미니언 - 리젠 코스트",
       "TacticEntityType": "Minion",
       "StatType": "RegenCost",
       "StatMinValue": 0,
@@ -462,7 +416,6 @@
     },
     {
       "Id": 201,
-      "DevName": "엘리트 - 생명력",
       "TacticEntityType": "Elite",
       "StatType": "MaxHP",
       "StatMinValue": 0,
@@ -472,7 +425,6 @@
     },
     {
       "Id": 202,
-      "DevName": "엘리트 - 공격력",
       "TacticEntityType": "Elite",
       "StatType": "AttackPower",
       "StatMinValue": 0,
@@ -482,7 +434,6 @@
     },
     {
       "Id": 203,
-      "DevName": "엘리트 - 방어력",
       "TacticEntityType": "Elite",
       "StatType": "DefensePower",
       "StatMinValue": 0,
@@ -492,7 +443,6 @@
     },
     {
       "Id": 204,
-      "DevName": "엘리트 - 회복력",
       "TacticEntityType": "Elite",
       "StatType": "HealPower",
       "StatMinValue": 0,
@@ -502,7 +452,6 @@
     },
     {
       "Id": 205,
-      "DevName": "엘리트 - 명중 수치",
       "TacticEntityType": "Elite",
       "StatType": "AccuracyPoint",
       "StatMinValue": 0,
@@ -512,7 +461,6 @@
     },
     {
       "Id": 206,
-      "DevName": "엘리트 - 명중률",
       "TacticEntityType": "Elite",
       "StatType": "AccuracyRate",
       "StatMinValue": -8000,
@@ -522,7 +470,6 @@
     },
     {
       "Id": 207,
-      "DevName": "엘리트 - 회피 수치",
       "TacticEntityType": "Elite",
       "StatType": "DodgePoint",
       "StatMinValue": 0,
@@ -532,7 +479,6 @@
     },
     {
       "Id": 208,
-      "DevName": "엘리트 - 회피율",
       "TacticEntityType": "Elite",
       "StatType": "DodgeRate",
       "StatMinValue": -8000,
@@ -542,7 +488,6 @@
     },
     {
       "Id": 209,
-      "DevName": "엘리트 - 치명타 수치",
       "TacticEntityType": "Elite",
       "StatType": "CriticalPoint",
       "StatMinValue": 0,
@@ -552,7 +497,6 @@
     },
     {
       "Id": 210,
-      "DevName": "엘리트 - 치명타율",
       "TacticEntityType": "Elite",
       "StatType": "CriticalChanceRate",
       "StatMinValue": -8000,
@@ -562,7 +506,6 @@
     },
     {
       "Id": 211,
-      "DevName": "엘리트 - 치명타 대미지율",
       "TacticEntityType": "Elite",
       "StatType": "CriticalDamageRate",
       "StatMinValue": 10000,
@@ -572,7 +515,6 @@
     },
     {
       "Id": 212,
-      "DevName": "엘리트 - 이동 속도",
       "TacticEntityType": "Elite",
       "StatType": "MoveSpeed",
       "StatMinValue": 40,
@@ -582,7 +524,6 @@
     },
     {
       "Id": 213,
-      "DevName": "엘리트 - 안정 수치",
       "TacticEntityType": "Elite",
       "StatType": "StabilityPoint",
       "StatMinValue": 0,
@@ -592,7 +533,6 @@
     },
     {
       "Id": 214,
-      "DevName": "엘리트 - 안정률",
       "TacticEntityType": "Elite",
       "StatType": "StabilityRate",
       "StatMinValue": 0,
@@ -602,7 +542,6 @@
     },
     {
       "Id": 216,
-      "DevName": "엘리트 - 회복률",
       "TacticEntityType": "Elite",
       "StatType": "HealEffectivenessRate",
       "StatMinValue": 2000,
@@ -612,7 +551,6 @@
     },
     {
       "Id": 217,
-      "DevName": "엘리트 - 치명타 저항 수치",
       "TacticEntityType": "Elite",
       "StatType": "CriticalChanceResistPoint",
       "StatMinValue": 0,
@@ -622,7 +560,6 @@
     },
     {
       "Id": 218,
-      "DevName": "엘리트 - 치명타 대미지 저항률",
       "TacticEntityType": "Elite",
       "StatType": "CriticalDamageResistRate",
       "StatMinValue": -8000,
@@ -632,7 +569,6 @@
     },
     {
       "Id": 219,
-      "DevName": "엘리트 - 공격 속도",
       "TacticEntityType": "Elite",
       "StatType": "NormalAttackSpeed",
       "StatMinValue": 2000,
@@ -642,7 +578,6 @@
     },
     {
       "Id": 220,
-      "DevName": "엘리트 - 주는 대미지 율",
       "TacticEntityType": "Elite",
       "StatType": "DamageRatio",
       "StatMinValue": 2000,
@@ -652,7 +587,6 @@
     },
     {
       "Id": 221,
-      "DevName": "엘리트 - 받는 대미지 율",
       "TacticEntityType": "Elite",
       "StatType": "DamagedRatio",
       "StatMinValue": 2000,
@@ -662,7 +596,6 @@
     },
     {
       "Id": 222,
-      "DevName": "엘리트 - 군중제어 강화력",
       "TacticEntityType": "Elite",
       "StatType": "OppressionPower",
       "StatMinValue": 0,
@@ -672,7 +605,6 @@
     },
     {
       "Id": 223,
-      "DevName": "엘리트 - 군중제어 저항력",
       "TacticEntityType": "Elite",
       "StatType": "OppressionResist",
       "StatMinValue": 0,
@@ -682,7 +614,6 @@
     },
     {
       "Id": 224,
-      "DevName": "엘리트 - 리젠 코스트",
       "TacticEntityType": "Elite",
       "StatType": "RegenCost",
       "StatMinValue": 0,
@@ -692,7 +623,6 @@
     },
     {
       "Id": 301,
-      "DevName": "챔피언 - 생명력",
       "TacticEntityType": "Champion",
       "StatType": "MaxHP",
       "StatMinValue": 0,
@@ -702,7 +632,6 @@
     },
     {
       "Id": 302,
-      "DevName": "챔피언 - 공격력",
       "TacticEntityType": "Champion",
       "StatType": "AttackPower",
       "StatMinValue": 0,
@@ -712,7 +641,6 @@
     },
     {
       "Id": 303,
-      "DevName": "챔피언 - 방어력",
       "TacticEntityType": "Champion",
       "StatType": "DefensePower",
       "StatMinValue": 0,
@@ -722,7 +650,6 @@
     },
     {
       "Id": 304,
-      "DevName": "챔피언 - 회복력",
       "TacticEntityType": "Champion",
       "StatType": "HealPower",
       "StatMinValue": 0,
@@ -732,7 +659,6 @@
     },
     {
       "Id": 305,
-      "DevName": "챔피언 - 명중 수치",
       "TacticEntityType": "Champion",
       "StatType": "AccuracyPoint",
       "StatMinValue": 0,
@@ -742,7 +668,6 @@
     },
     {
       "Id": 306,
-      "DevName": "챔피언 - 명중률",
       "TacticEntityType": "Champion",
       "StatType": "AccuracyRate",
       "StatMinValue": -8000,
@@ -752,7 +677,6 @@
     },
     {
       "Id": 307,
-      "DevName": "챔피언 - 회피 수치",
       "TacticEntityType": "Champion",
       "StatType": "DodgePoint",
       "StatMinValue": 0,
@@ -762,7 +686,6 @@
     },
     {
       "Id": 308,
-      "DevName": "챔피언 - 회피율",
       "TacticEntityType": "Champion",
       "StatType": "DodgeRate",
       "StatMinValue": -8000,
@@ -772,7 +695,6 @@
     },
     {
       "Id": 309,
-      "DevName": "챔피언 - 치명타 수치",
       "TacticEntityType": "Champion",
       "StatType": "CriticalPoint",
       "StatMinValue": 0,
@@ -782,7 +704,6 @@
     },
     {
       "Id": 310,
-      "DevName": "챔피언 - 치명타율",
       "TacticEntityType": "Champion",
       "StatType": "CriticalChanceRate",
       "StatMinValue": -8000,
@@ -792,7 +713,6 @@
     },
     {
       "Id": 311,
-      "DevName": "챔피언 - 치명타 대미지율",
       "TacticEntityType": "Champion",
       "StatType": "CriticalDamageRate",
       "StatMinValue": 10000,
@@ -802,7 +722,6 @@
     },
     {
       "Id": 312,
-      "DevName": "챔피언 - 이동 속도",
       "TacticEntityType": "Champion",
       "StatType": "MoveSpeed",
       "StatMinValue": 40,
@@ -812,7 +731,6 @@
     },
     {
       "Id": 313,
-      "DevName": "챔피언 - 안정 수치",
       "TacticEntityType": "Champion",
       "StatType": "StabilityPoint",
       "StatMinValue": 0,
@@ -822,7 +740,6 @@
     },
     {
       "Id": 314,
-      "DevName": "챔피언 - 안정률",
       "TacticEntityType": "Champion",
       "StatType": "StabilityRate",
       "StatMinValue": 0,
@@ -832,7 +749,6 @@
     },
     {
       "Id": 316,
-      "DevName": "챔피언 - 회복률",
       "TacticEntityType": "Champion",
       "StatType": "HealEffectivenessRate",
       "StatMinValue": 2000,
@@ -842,7 +758,6 @@
     },
     {
       "Id": 317,
-      "DevName": "챔피언 - 치명타 저항 수치",
       "TacticEntityType": "Champion",
       "StatType": "CriticalChanceResistPoint",
       "StatMinValue": 0,
@@ -852,7 +767,6 @@
     },
     {
       "Id": 318,
-      "DevName": "챔피언 - 치명타 대미지 저항률",
       "TacticEntityType": "Champion",
       "StatType": "CriticalDamageResistRate",
       "StatMinValue": -8000,
@@ -862,7 +776,6 @@
     },
     {
       "Id": 319,
-      "DevName": "챔피언 - 공격 속도",
       "TacticEntityType": "Champion",
       "StatType": "NormalAttackSpeed",
       "StatMinValue": 2000,
@@ -872,7 +785,6 @@
     },
     {
       "Id": 320,
-      "DevName": "챔피언 - 주는 대미지 율",
       "TacticEntityType": "Champion",
       "StatType": "DamageRatio",
       "StatMinValue": 2000,
@@ -882,7 +794,6 @@
     },
     {
       "Id": 321,
-      "DevName": "챔피언 - 받는 대미지 율",
       "TacticEntityType": "Champion",
       "StatType": "DamagedRatio",
       "StatMinValue": 2000,
@@ -892,7 +803,6 @@
     },
     {
       "Id": 322,
-      "DevName": "챔피언 - 군중제어 강화력",
       "TacticEntityType": "Champion",
       "StatType": "OppressionPower",
       "StatMinValue": 0,
@@ -902,7 +812,6 @@
     },
     {
       "Id": 323,
-      "DevName": "챔피언 - 군중제어 저항력",
       "TacticEntityType": "Champion",
       "StatType": "OppressionResist",
       "StatMinValue": 0,
@@ -912,7 +821,6 @@
     },
     {
       "Id": 324,
-      "DevName": "챔피언 - 리젠 코스트",
       "TacticEntityType": "Champion",
       "StatType": "RegenCost",
       "StatMinValue": 0,
@@ -922,7 +830,6 @@
     },
     {
       "Id": 401,
-      "DevName": "보스 - 생명력",
       "TacticEntityType": "Boss",
       "StatType": "MaxHP",
       "StatMinValue": 0,
@@ -932,7 +839,6 @@
     },
     {
       "Id": 402,
-      "DevName": "보스 - 공격력",
       "TacticEntityType": "Boss",
       "StatType": "AttackPower",
       "StatMinValue": 0,
@@ -942,7 +848,6 @@
     },
     {
       "Id": 403,
-      "DevName": "보스 - 방어력",
       "TacticEntityType": "Boss",
       "StatType": "DefensePower",
       "StatMinValue": 0,
@@ -952,7 +857,6 @@
     },
     {
       "Id": 404,
-      "DevName": "보스 - 회복력",
       "TacticEntityType": "Boss",
       "StatType": "HealPower",
       "StatMinValue": 0,
@@ -962,7 +866,6 @@
     },
     {
       "Id": 405,
-      "DevName": "보스 - 명중 수치",
       "TacticEntityType": "Boss",
       "StatType": "AccuracyPoint",
       "StatMinValue": 0,
@@ -972,7 +875,6 @@
     },
     {
       "Id": 406,
-      "DevName": "보스 - 명중률",
       "TacticEntityType": "Boss",
       "StatType": "AccuracyRate",
       "StatMinValue": -8000,
@@ -982,7 +884,6 @@
     },
     {
       "Id": 407,
-      "DevName": "보스 - 회피 수치",
       "TacticEntityType": "Boss",
       "StatType": "DodgePoint",
       "StatMinValue": 0,
@@ -992,7 +893,6 @@
     },
     {
       "Id": 408,
-      "DevName": "보스 - 회피율",
       "TacticEntityType": "Boss",
       "StatType": "DodgeRate",
       "StatMinValue": -8000,
@@ -1002,7 +902,6 @@
     },
     {
       "Id": 409,
-      "DevName": "보스 - 치명타 수치",
       "TacticEntityType": "Boss",
       "StatType": "CriticalPoint",
       "StatMinValue": 0,
@@ -1012,7 +911,6 @@
     },
     {
       "Id": 410,
-      "DevName": "보스 - 치명타율",
       "TacticEntityType": "Boss",
       "StatType": "CriticalChanceRate",
       "StatMinValue": -8000,
@@ -1022,7 +920,6 @@
     },
     {
       "Id": 411,
-      "DevName": "보스 - 치명타 대미지율",
       "TacticEntityType": "Boss",
       "StatType": "CriticalDamageRate",
       "StatMinValue": 10000,
@@ -1032,7 +929,6 @@
     },
     {
       "Id": 412,
-      "DevName": "보스 - 이동 속도",
       "TacticEntityType": "Boss",
       "StatType": "MoveSpeed",
       "StatMinValue": 40,
@@ -1042,7 +938,6 @@
     },
     {
       "Id": 413,
-      "DevName": "보스 - 안정 수치",
       "TacticEntityType": "Boss",
       "StatType": "StabilityPoint",
       "StatMinValue": 0,
@@ -1052,7 +947,6 @@
     },
     {
       "Id": 414,
-      "DevName": "보스 - 안정률",
       "TacticEntityType": "Boss",
       "StatType": "StabilityRate",
       "StatMinValue": 0,
@@ -1062,7 +956,6 @@
     },
     {
       "Id": 416,
-      "DevName": "보스 - 회복률",
       "TacticEntityType": "Boss",
       "StatType": "HealEffectivenessRate",
       "StatMinValue": 2000,
@@ -1072,7 +965,6 @@
     },
     {
       "Id": 417,
-      "DevName": "보스 - 치명타 저항 수치",
       "TacticEntityType": "Boss",
       "StatType": "CriticalChanceResistPoint",
       "StatMinValue": 0,
@@ -1082,7 +974,6 @@
     },
     {
       "Id": 418,
-      "DevName": "보스 - 치명타 대미지 저항률",
       "TacticEntityType": "Boss",
       "StatType": "CriticalDamageResistRate",
       "StatMinValue": -8000,
@@ -1092,7 +983,6 @@
     },
     {
       "Id": 419,
-      "DevName": "보스 - 공격 속도",
       "TacticEntityType": "Boss",
       "StatType": "NormalAttackSpeed",
       "StatMinValue": 2000,
@@ -1102,7 +992,6 @@
     },
     {
       "Id": 420,
-      "DevName": "보스 - 주는 대미지 율",
       "TacticEntityType": "Boss",
       "StatType": "DamageRatio",
       "StatMinValue": 2000,
@@ -1112,7 +1001,6 @@
     },
     {
       "Id": 421,
-      "DevName": "보스 - 받는 대미지 율",
       "TacticEntityType": "Boss",
       "StatType": "DamagedRatio",
       "StatMinValue": 2000,
@@ -1122,7 +1010,6 @@
     },
     {
       "Id": 422,
-      "DevName": "보스 - 군중제어 강화력",
       "TacticEntityType": "Boss",
       "StatType": "OppressionPower",
       "StatMinValue": 0,
@@ -1132,7 +1019,6 @@
     },
     {
       "Id": 423,
-      "DevName": "보스 - 군중제어 저항력",
       "TacticEntityType": "Boss",
       "StatType": "OppressionResist",
       "StatMinValue": 0,
@@ -1142,7 +1028,6 @@
     },
     {
       "Id": 424,
-      "DevName": "보스 - 리젠 코스트",
       "TacticEntityType": "Boss",
       "StatType": "RegenCost",
       "StatMinValue": 0,
@@ -1152,7 +1037,6 @@
     },
     {
       "Id": 501,
-      "DevName": "소환수 - 생명력",
       "TacticEntityType": "Summoned",
       "StatType": "MaxHP",
       "StatMinValue": 0,
@@ -1162,7 +1046,6 @@
     },
     {
       "Id": 502,
-      "DevName": "소환수 - 공격력",
       "TacticEntityType": "Summoned",
       "StatType": "AttackPower",
       "StatMinValue": 0,
@@ -1172,7 +1055,6 @@
     },
     {
       "Id": 503,
-      "DevName": "소환수 - 방어력",
       "TacticEntityType": "Summoned",
       "StatType": "DefensePower",
       "StatMinValue": 0,
@@ -1182,7 +1064,6 @@
     },
     {
       "Id": 504,
-      "DevName": "소환수 - 회복력",
       "TacticEntityType": "Summoned",
       "StatType": "HealPower",
       "StatMinValue": 0,
@@ -1192,7 +1073,6 @@
     },
     {
       "Id": 505,
-      "DevName": "소환수 - 명중 수치",
       "TacticEntityType": "Summoned",
       "StatType": "AccuracyPoint",
       "StatMinValue": 0,
@@ -1202,7 +1082,6 @@
     },
     {
       "Id": 506,
-      "DevName": "소환수 - 명중률",
       "TacticEntityType": "Summoned",
       "StatType": "AccuracyRate",
       "StatMinValue": -8000,
@@ -1212,7 +1091,6 @@
     },
     {
       "Id": 507,
-      "DevName": "소환수 - 회피 수치",
       "TacticEntityType": "Summoned",
       "StatType": "DodgePoint",
       "StatMinValue": 0,
@@ -1222,7 +1100,6 @@
     },
     {
       "Id": 508,
-      "DevName": "소환수 - 회피율",
       "TacticEntityType": "Summoned",
       "StatType": "DodgeRate",
       "StatMinValue": -8000,
@@ -1232,7 +1109,6 @@
     },
     {
       "Id": 509,
-      "DevName": "소환수 - 치명타 수치",
       "TacticEntityType": "Summoned",
       "StatType": "CriticalPoint",
       "StatMinValue": 0,
@@ -1242,7 +1118,6 @@
     },
     {
       "Id": 510,
-      "DevName": "소환수 - 치명타율",
       "TacticEntityType": "Summoned",
       "StatType": "CriticalChanceRate",
       "StatMinValue": -8000,
@@ -1252,7 +1127,6 @@
     },
     {
       "Id": 511,
-      "DevName": "소환수 - 치명타 대미지율",
       "TacticEntityType": "Summoned",
       "StatType": "CriticalDamageRate",
       "StatMinValue": 10000,
@@ -1262,7 +1136,6 @@
     },
     {
       "Id": 512,
-      "DevName": "소환수 - 이동 속도",
       "TacticEntityType": "Summoned",
       "StatType": "MoveSpeed",
       "StatMinValue": 40,
@@ -1272,7 +1145,6 @@
     },
     {
       "Id": 513,
-      "DevName": "소환수 - 안정 수치",
       "TacticEntityType": "Summoned",
       "StatType": "StabilityPoint",
       "StatMinValue": 0,
@@ -1282,7 +1154,6 @@
     },
     {
       "Id": 514,
-      "DevName": "소환수 - 안정률",
       "TacticEntityType": "Summoned",
       "StatType": "StabilityRate",
       "StatMinValue": 0,
@@ -1292,7 +1163,6 @@
     },
     {
       "Id": 516,
-      "DevName": "소환수 - 회복률",
       "TacticEntityType": "Summoned",
       "StatType": "HealEffectivenessRate",
       "StatMinValue": 2000,
@@ -1302,7 +1172,6 @@
     },
     {
       "Id": 517,
-      "DevName": "소환수 - 치명타 저항 수치",
       "TacticEntityType": "Summoned",
       "StatType": "CriticalChanceResistPoint",
       "StatMinValue": 0,
@@ -1312,7 +1181,6 @@
     },
     {
       "Id": 518,
-      "DevName": "소환수 - 치명타 대미지 저항률",
       "TacticEntityType": "Summoned",
       "StatType": "CriticalDamageResistRate",
       "StatMinValue": -8000,
@@ -1322,7 +1190,6 @@
     },
     {
       "Id": 519,
-      "DevName": "소환수 - 공격 속도",
       "TacticEntityType": "Summoned",
       "StatType": "NormalAttackSpeed",
       "StatMinValue": 2000,
@@ -1332,7 +1199,6 @@
     },
     {
       "Id": 520,
-      "DevName": "소환수 - 주는 대미지 율",
       "TacticEntityType": "Summoned",
       "StatType": "DamageRatio",
       "StatMinValue": 2000,
@@ -1342,7 +1208,6 @@
     },
     {
       "Id": 521,
-      "DevName": "소환수 - 받는 대미지 율",
       "TacticEntityType": "Summoned",
       "StatType": "DamagedRatio",
       "StatMinValue": 2000,
@@ -1352,7 +1217,6 @@
     },
     {
       "Id": 522,
-      "DevName": "소환수 - 군중제어 강화력",
       "TacticEntityType": "Summoned",
       "StatType": "OppressionPower",
       "StatMinValue": 0,
@@ -1362,7 +1226,6 @@
     },
     {
       "Id": 523,
-      "DevName": "소환수 - 군중제어 저항력",
       "TacticEntityType": "Summoned",
       "StatType": "OppressionResist",
       "StatMinValue": 0,
@@ -1372,7 +1235,6 @@
     },
     {
       "Id": 524,
-      "DevName": "소환수 - 리젠 코스트",
       "TacticEntityType": "Summoned",
       "StatType": "RegenCost",
       "StatMinValue": 0,
@@ -1382,7 +1244,6 @@
     },
     {
       "Id": 601,
-      "DevName": "옵스타클 - 생명력",
       "TacticEntityType": "Obstacle",
       "StatType": "MaxHP",
       "StatMinValue": 0,
@@ -1392,7 +1253,6 @@
     },
     {
       "Id": 602,
-      "DevName": "옵스타클 - 공격력",
       "TacticEntityType": "Obstacle",
       "StatType": "AttackPower",
       "StatMinValue": 0,
@@ -1402,7 +1262,6 @@
     },
     {
       "Id": 603,
-      "DevName": "옵스타클 - 방어력",
       "TacticEntityType": "Obstacle",
       "StatType": "DefensePower",
       "StatMinValue": 0,
@@ -1412,7 +1271,6 @@
     },
     {
       "Id": 604,
-      "DevName": "옵스타클 - 회복력",
       "TacticEntityType": "Obstacle",
       "StatType": "HealPower",
       "StatMinValue": 0,
@@ -1422,7 +1280,6 @@
     },
     {
       "Id": 605,
-      "DevName": "옵스타클 - 명중 수치",
       "TacticEntityType": "Obstacle",
       "StatType": "AccuracyPoint",
       "StatMinValue": 0,
@@ -1432,7 +1289,6 @@
     },
     {
       "Id": 606,
-      "DevName": "옵스타클 - 명중률",
       "TacticEntityType": "Obstacle",
       "StatType": "AccuracyRate",
       "StatMinValue": -8000,
@@ -1442,7 +1298,6 @@
     },
     {
       "Id": 607,
-      "DevName": "옵스타클 - 회피 수치",
       "TacticEntityType": "Obstacle",
       "StatType": "DodgePoint",
       "StatMinValue": 0,
@@ -1452,7 +1307,6 @@
     },
     {
       "Id": 608,
-      "DevName": "옵스타클 - 회피율",
       "TacticEntityType": "Obstacle",
       "StatType": "DodgeRate",
       "StatMinValue": -8000,
@@ -1462,7 +1316,6 @@
     },
     {
       "Id": 609,
-      "DevName": "옵스타클 - 치명타 수치",
       "TacticEntityType": "Obstacle",
       "StatType": "CriticalPoint",
       "StatMinValue": 0,
@@ -1472,7 +1325,6 @@
     },
     {
       "Id": 610,
-      "DevName": "옵스타클 - 치명타율",
       "TacticEntityType": "Obstacle",
       "StatType": "CriticalChanceRate",
       "StatMinValue": -8000,
@@ -1482,7 +1334,6 @@
     },
     {
       "Id": 611,
-      "DevName": "옵스타클 - 치명타 대미지율",
       "TacticEntityType": "Obstacle",
       "StatType": "CriticalDamageRate",
       "StatMinValue": 10000,
@@ -1492,7 +1343,6 @@
     },
     {
       "Id": 612,
-      "DevName": "옵스타클 - 이동 속도",
       "TacticEntityType": "Obstacle",
       "StatType": "MoveSpeed",
       "StatMinValue": 40,
@@ -1502,7 +1352,6 @@
     },
     {
       "Id": 613,
-      "DevName": "옵스타클 - 안정 수치",
       "TacticEntityType": "Obstacle",
       "StatType": "StabilityPoint",
       "StatMinValue": 0,
@@ -1512,7 +1361,6 @@
     },
     {
       "Id": 614,
-      "DevName": "옵스타클 - 안정률",
       "TacticEntityType": "Obstacle",
       "StatType": "StabilityRate",
       "StatMinValue": 0,
@@ -1522,7 +1370,6 @@
     },
     {
       "Id": 616,
-      "DevName": "옵스타클 - 회복률",
       "TacticEntityType": "Obstacle",
       "StatType": "HealEffectivenessRate",
       "StatMinValue": 2000,
@@ -1532,7 +1379,6 @@
     },
     {
       "Id": 617,
-      "DevName": "옵스타클 - 치명타 저항 수치",
       "TacticEntityType": "Obstacle",
       "StatType": "CriticalChanceResistPoint",
       "StatMinValue": 0,
@@ -1542,7 +1388,6 @@
     },
     {
       "Id": 618,
-      "DevName": "옵스타클 - 치명타 대미지 저항률",
       "TacticEntityType": "Obstacle",
       "StatType": "CriticalDamageResistRate",
       "StatMinValue": -8000,
@@ -1552,7 +1397,6 @@
     },
     {
       "Id": 619,
-      "DevName": "옵스타클 - 공격 속도",
       "TacticEntityType": "Obstacle",
       "StatType": "NormalAttackSpeed",
       "StatMinValue": 2000,
@@ -1562,7 +1406,6 @@
     },
     {
       "Id": 620,
-      "DevName": "옵스타클 - 주는 대미지 율",
       "TacticEntityType": "Obstacle",
       "StatType": "DamageRatio",
       "StatMinValue": 2000,
@@ -1572,7 +1415,6 @@
     },
     {
       "Id": 621,
-      "DevName": "옵스타클 - 받는 대미지 율",
       "TacticEntityType": "Obstacle",
       "StatType": "DamagedRatio",
       "StatMinValue": 2000,
@@ -1582,7 +1424,6 @@
     },
     {
       "Id": 622,
-      "DevName": "옵스타클 - 군중제어 강화력",
       "TacticEntityType": "Obstacle",
       "StatType": "OppressionPower",
       "StatMinValue": 0,
@@ -1592,7 +1433,6 @@
     },
     {
       "Id": 623,
-      "DevName": "옵스타클 - 군중제어 저항력",
       "TacticEntityType": "Obstacle",
       "StatType": "OppressionResist",
       "StatMinValue": 0,
@@ -1602,7 +1442,6 @@
     },
     {
       "Id": 624,
-      "DevName": "옵스타클 - 리젠 코스트",
       "TacticEntityType": "Obstacle",
       "StatType": "RegenCost",
       "StatMinValue": 0,

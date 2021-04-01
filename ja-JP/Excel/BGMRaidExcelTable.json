@@ -1,6 +1,81 @@
 {
   "DataList": [
     {
+      "StageId": 201100001,
+      "PhaseIndex": 0,
+      "BGMId": 101
+    },
+    {
+      "StageId": 201100001,
+      "PhaseIndex": 1,
+      "BGMId": 102
+    },
+    {
+      "StageId": 201100001,
+      "PhaseIndex": 2,
+      "BGMId": 103
+    },
+    {
+      "StageId": 201100002,
+      "PhaseIndex": 0,
+      "BGMId": 101
+    },
+    {
+      "StageId": 201100002,
+      "PhaseIndex": 1,
+      "BGMId": 102
+    },
+    {
+      "StageId": 201100002,
+      "PhaseIndex": 2,
+      "BGMId": 103
+    },
+    {
+      "StageId": 201100003,
+      "PhaseIndex": 0,
+      "BGMId": 101
+    },
+    {
+      "StageId": 201100003,
+      "PhaseIndex": 1,
+      "BGMId": 102
+    },
+    {
+      "StageId": 201100003,
+      "PhaseIndex": 2,
+      "BGMId": 103
+    },
+    {
+      "StageId": 201100004,
+      "PhaseIndex": 0,
+      "BGMId": 101
+    },
+    {
+      "StageId": 201100004,
+      "PhaseIndex": 1,
+      "BGMId": 102
+    },
+    {
+      "StageId": 201100004,
+      "PhaseIndex": 2,
+      "BGMId": 103
+    },
+    {
+      "StageId": 201100005,
+      "PhaseIndex": 0,
+      "BGMId": 101
+    },
+    {
+      "StageId": 201100005,
+      "PhaseIndex": 1,
+      "BGMId": 102
+    },
+    {
+      "StageId": 201100005,
+      "PhaseIndex": 2,
+      "BGMId": 103
+    },
+    {
       "StageId": 201200001,
       "PhaseIndex": 0,
       "BGMId": 101

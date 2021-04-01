@@ -2,7 +2,6 @@
   "DataList": [
     {
       "WeekDungeonBuffId": 1,
-      "DevName": "Abydos_001",
       "School": "Abydos",
       "RecommandLocalizeEtcId": 1199554727,
       "FormationLocalizeEtcId": 4037295363,
@@ -10,7 +9,6 @@
     },
     {
       "WeekDungeonBuffId": 2,
-      "DevName": "Hyakkiyako_001",
       "School": "Hyakkiyako",
       "RecommandLocalizeEtcId": 3834919938,
       "FormationLocalizeEtcId": 4036543830,
@@ -18,7 +16,6 @@
     },
     {
       "WeekDungeonBuffId": 3,
-      "DevName": "RedWinter_001",
       "School": "RedWinter",
       "RecommandLocalizeEtcId": 3481671092,
       "FormationLocalizeEtcId": 3304517091,
@@ -26,7 +23,6 @@
     },
     {
       "WeekDungeonBuffId": 4,
-      "DevName": "Trinity_001",
       "School": "Trinity",
       "RecommandLocalizeEtcId": 1741795497,
       "FormationLocalizeEtcId": 2064128197,
@@ -34,7 +30,6 @@
     },
     {
       "WeekDungeonBuffId": 5,
-      "DevName": "Arius_001",
       "School": "Arius",
       "RecommandLocalizeEtcId": 1228065170,
       "FormationLocalizeEtcId": 3655360459,
@@ -42,7 +37,6 @@
     },
     {
       "WeekDungeonBuffId": 6,
-      "DevName": "Gehenna_001",
       "School": "Gehenna",
       "RecommandLocalizeEtcId": 1449260740,
       "FormationLocalizeEtcId": 2128480930,
@@ -50,7 +44,6 @@
     },
     {
       "WeekDungeonBuffId": 7,
-      "DevName": "Millennium_001",
       "School": "Millennium",
       "RecommandLocalizeEtcId": 540178930,
       "FormationLocalizeEtcId": 2952258675,
@@ -58,7 +51,6 @@
     },
     {
       "WeekDungeonBuffId": 8,
-      "DevName": "Shanhaijing_001",
       "School": "Shanhaijing",
       "RecommandLocalizeEtcId": 2444012102,
       "FormationLocalizeEtcId": 186205459,
@@ -66,7 +58,6 @@
     },
     {
       "WeekDungeonBuffId": 9,
-      "DevName": "Valkyrie_001",
       "School": "Valkyrie",
       "RecommandLocalizeEtcId": 329219768,
       "FormationLocalizeEtcId": 3749550348,
@@ -74,7 +65,6 @@
     },
     {
       "WeekDungeonBuffId": 10,
-      "DevName": "WildHunt_001",
       "School": "WildHunt",
       "RecommandLocalizeEtcId": 303294579,
       "FormationLocalizeEtcId": 2013734204,
@@ -82,7 +72,6 @@
     },
     {
       "WeekDungeonBuffId": 11,
-      "DevName": "SRT_001",
       "School": "SRT",
       "RecommandLocalizeEtcId": 1398971457,
       "FormationLocalizeEtcId": 845353529,

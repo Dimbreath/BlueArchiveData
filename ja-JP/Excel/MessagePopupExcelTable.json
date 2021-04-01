@@ -452,19 +452,13 @@
       "MessageText": 1175249828,
       "DisplayXButton": true,
       "Button": [
-        "Accept",
-        "Cancel"
+        "Accept"
       ],
       "ButtonText": [
-        475331399,
-        521483466
+        475331399
       ],
-      "ButtonCommand": [
-        "OpenUI"
-      ],
-      "ButtonParameter": [
-        "UIMailBox"
-      ]
+      "ButtonCommand": [],
+      "ButtonParameter": []
     },
     {
       "StringId": 1602047548,
@@ -993,6 +987,23 @@
       "Image": null,
       "TitleText": 1739509789,
       "MessageText": 3541578219,
+      "DisplayXButton": true,
+      "Button": [
+        "Accept"
+      ],
+      "ButtonText": [
+        475331399
+      ],
+      "ButtonCommand": [],
+      "ButtonParameter": []
+    },
+    {
+      "StringId": 3414619066,
+      "MessagePopupLayout": "TextOnly",
+      "OrderType": "ImageFirst",
+      "Image": null,
+      "TitleText": 1739509789,
+      "MessageText": 3414619066,
       "DisplayXButton": true,
       "Button": [
         "Accept"

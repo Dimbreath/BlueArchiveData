@@ -17,7 +17,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "Gacha",
@@ -36,7 +37,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "LobbyIllust",
@@ -55,7 +57,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "Raid",
@@ -75,7 +78,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "Cafe",
@@ -94,7 +98,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "Unit_Growth_Skill",
@@ -114,7 +119,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "Unit_Growth_LevelUp",
@@ -134,7 +140,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "Unit_Growth_Transcendence",
@@ -154,7 +161,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "WeekDungeon",
@@ -174,7 +182,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "Arena",
@@ -194,7 +203,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "Academy",
@@ -213,7 +223,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "Equip",
@@ -233,7 +244,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "Item",
@@ -253,7 +265,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "Mission",
@@ -272,7 +285,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "WeekDungeon_Chase",
@@ -292,7 +306,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "__Deprecated_WeekDungeon_FindGift",
@@ -311,7 +326,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "__Deprecated_WeekDungeon_Blood",
@@ -330,7 +346,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "Story_Sub",
@@ -349,7 +366,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "Story_Replay",
@@ -368,7 +386,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "None",
@@ -383,7 +402,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "Shop_Gem",
@@ -400,7 +420,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "Craft",
@@ -419,7 +440,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "Student",
@@ -436,7 +458,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "GuideMission",
@@ -453,7 +476,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "Clan",
@@ -473,7 +497,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "Echelon",
@@ -490,7 +515,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "Campaign",
@@ -507,7 +533,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "EventContent",
@@ -524,7 +551,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "EventStage_1",
@@ -541,7 +569,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "EventStage_2",
@@ -558,7 +587,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "Talk",
@@ -575,7 +605,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "Billing",
@@ -592,7 +623,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "Schedule",
@@ -609,7 +641,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "Story",
@@ -626,7 +659,8 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
     },
     {
       "OpenConditionContentType": "Tactic_Speed",
@@ -641,7 +675,26 @@
       "OpenDayOfWeek": "All",
       "OpenHour": 0,
       "CloseDayOfWeek": "All",
-      "CloseHour": 24
+      "CloseHour": 24,
+      "CafeRank": 0
+    },
+    {
+      "OpenConditionContentType": "Cafe_Invite",
+      "LockUI": [
+        "UICafeStudentInvitePopup"
+      ],
+      "ShortcutPopupPriority": 0,
+      "ShortcutUIName": [],
+      "Scene": null,
+      "HideWhenLocked": false,
+      "AccountLevel": 1,
+      "CampaignStageId": 1021101,
+      "MultipleConditionCheckType": "And",
+      "OpenDayOfWeek": "All",
+      "OpenHour": 0,
+      "CloseDayOfWeek": "All",
+      "CloseHour": 24,
+      "CafeRank": 1
     }
   ]
 }

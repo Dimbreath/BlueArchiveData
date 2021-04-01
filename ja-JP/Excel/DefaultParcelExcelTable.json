@@ -3,61 +3,51 @@
     {
       "ParcelType": "Currency",
       "ParcelId": 1,
-      "ParcelDevName": "Gold",
       "ParcelAmount": 10000
     },
     {
       "ParcelType": "Currency",
       "ParcelId": 3,
-      "ParcelDevName": "GemBonus",
       "ParcelAmount": 600
     },
     {
       "ParcelType": "Currency",
       "ParcelId": 5,
-      "ParcelDevName": "AP",
       "ParcelAmount": 24
     },
     {
       "ParcelType": "Currency",
       "ParcelId": 7,
-      "ParcelDevName": "ArenaTicket",
       "ParcelAmount": 5
     },
     {
       "ParcelType": "Currency",
       "ParcelId": 8,
-      "ParcelDevName": "RaidTicket",
       "ParcelAmount": 3
     },
     {
       "ParcelType": "Currency",
       "ParcelId": 6,
-      "ParcelDevName": "AcademyTicket",
       "ParcelAmount": 3
     },
     {
       "ParcelType": "Currency",
       "ParcelId": 9,
-      "ParcelDevName": "WeekDungeonChaserATicket",
       "ParcelAmount": 2
     },
     {
       "ParcelType": "Currency",
       "ParcelId": 12,
-      "ParcelDevName": "WeekDungeonChaserBTicket",
       "ParcelAmount": 2
     },
     {
       "ParcelType": "Currency",
       "ParcelId": 13,
-      "ParcelDevName": "WeekDungeonChaserCTicket",
       "ParcelAmount": 2
     },
     {
       "ParcelType": "Item",
       "ParcelId": 2,
-      "ParcelDevName": "CraftSkipItem",
       "ParcelAmount": 5
     }
   ]

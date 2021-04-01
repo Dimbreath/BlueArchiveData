@@ -4,13 +4,11 @@
       "EventContentId": 801,
       "Id": 8010001,
       "LocalizeEtcId": 1688668283,
-      "DevName": "이벤트_상점A_하급 활동 보고서",
       "CategoryType": "EventContent_0",
       "IsLegacy": false,
       "GoodsId": [
         40000
       ],
-      "GoodsDevName": "이벤트_상점_A",
       "DisplayOrder": 1,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -22,13 +20,11 @@
       "EventContentId": 801,
       "Id": 8010002,
       "LocalizeEtcId": 2952503379,
-      "DevName": "이벤트_상점A_일반 활동 보고서",
       "CategoryType": "EventContent_0",
       "IsLegacy": false,
       "GoodsId": [
         40001
       ],
-      "GoodsDevName": "이벤트_상점_A",
       "DisplayOrder": 2,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -40,13 +36,11 @@
       "EventContentId": 801,
       "Id": 8010003,
       "LocalizeEtcId": 2949797158,
-      "DevName": "이벤트_상점A_상급 활동 보고서",
       "CategoryType": "EventContent_0",
       "IsLegacy": false,
       "GoodsId": [
         40002
       ],
-      "GoodsDevName": "이벤트_상점_A",
       "DisplayOrder": 3,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -58,13 +52,11 @@
       "EventContentId": 801,
       "Id": 8010004,
       "LocalizeEtcId": 2795379965,
-      "DevName": "이벤트_상점A_최상급 활동 보고서",
       "CategoryType": "EventContent_0",
       "IsLegacy": false,
       "GoodsId": [
         40003
       ],
-      "GoodsDevName": "이벤트_상점_A",
       "DisplayOrder": 4,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -76,13 +68,11 @@
       "EventContentId": 801,
       "Id": 8010005,
       "LocalizeEtcId": 1134999888,
-      "DevName": "이벤트_상점A_하급 강화석",
       "CategoryType": "EventContent_0",
       "IsLegacy": false,
       "GoodsId": [
         40004
       ],
-      "GoodsDevName": "이벤트_상점_A",
       "DisplayOrder": 5,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -94,13 +84,11 @@
       "EventContentId": 801,
       "Id": 8010006,
       "LocalizeEtcId": 3433802547,
-      "DevName": "이벤트_상점A_일반 강화석",
       "CategoryType": "EventContent_0",
       "IsLegacy": false,
       "GoodsId": [
         40005
       ],
-      "GoodsDevName": "이벤트_상점_A",
       "DisplayOrder": 6,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -112,13 +100,11 @@
       "EventContentId": 801,
       "Id": 8010007,
       "LocalizeEtcId": 1229651923,
-      "DevName": "이벤트_상점A_상급 강화석",
       "CategoryType": "EventContent_0",
       "IsLegacy": false,
       "GoodsId": [
         40006
       ],
-      "GoodsDevName": "이벤트_상점_A",
       "DisplayOrder": 7,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -130,13 +116,11 @@
       "EventContentId": 801,
       "Id": 8010008,
       "LocalizeEtcId": 596368071,
-      "DevName": "이벤트_상점A_최상급 강화석",
       "CategoryType": "EventContent_0",
       "IsLegacy": false,
       "GoodsId": [
         40007
       ],
-      "GoodsDevName": "이벤트_상점_A",
       "DisplayOrder": 8,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -148,13 +132,11 @@
       "EventContentId": 801,
       "Id": 8010009,
       "LocalizeEtcId": 1959694325,
-      "DevName": "이벤트_상점A_이벤트 토큰 B",
       "CategoryType": "EventContent_0",
       "IsLegacy": false,
       "GoodsId": [
         40008
       ],
-      "GoodsDevName": "이벤트_상점_A",
       "DisplayOrder": 9,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -166,13 +148,11 @@
       "EventContentId": 801,
       "Id": 8010010,
       "LocalizeEtcId": 2797714306,
-      "DevName": "이벤트_상점B_피나의 엘레프",
       "CategoryType": "EventContent_1",
       "IsLegacy": false,
       "GoodsId": [
         40009
       ],
-      "GoodsDevName": "이벤트_상점_B",
       "DisplayOrder": 1,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -184,13 +164,11 @@
       "EventContentId": 801,
       "Id": 8010011,
       "LocalizeEtcId": 416424274,
-      "DevName": "이벤트_상점B_츠바키의 엘레프",
       "CategoryType": "EventContent_1",
       "IsLegacy": false,
       "GoodsId": [
         40010
       ],
-      "GoodsDevName": "이벤트_상점_B",
       "DisplayOrder": 2,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -202,13 +180,11 @@
       "EventContentId": 801,
       "Id": 8010012,
       "LocalizeEtcId": 4133921081,
-      "DevName": "이벤트_상점B_하급 스킬 책 - 백귀야행",
       "CategoryType": "EventContent_1",
       "IsLegacy": false,
       "GoodsId": [
         40011
       ],
-      "GoodsDevName": "이벤트_상점_B",
       "DisplayOrder": 3,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -220,13 +196,11 @@
       "EventContentId": 801,
       "Id": 8010013,
       "LocalizeEtcId": 35330832,
-      "DevName": "이벤트_상점B_일반 스킬 책 - 백귀야행",
       "CategoryType": "EventContent_1",
       "IsLegacy": false,
       "GoodsId": [
         40012
       ],
-      "GoodsDevName": "이벤트_상점_B",
       "DisplayOrder": 4,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -238,13 +212,11 @@
       "EventContentId": 801,
       "Id": 8010014,
       "LocalizeEtcId": 4114117805,
-      "DevName": "이벤트_상점B_상급 스킬 책 - 백귀야행",
       "CategoryType": "EventContent_1",
       "IsLegacy": false,
       "GoodsId": [
         40013
       ],
-      "GoodsDevName": "이벤트_상점_B",
       "DisplayOrder": 5,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -256,13 +228,11 @@
       "EventContentId": 801,
       "Id": 8010015,
       "LocalizeEtcId": 3104370311,
-      "DevName": "이벤트_상점B_최상급 스킬 책 - 백귀야행",
       "CategoryType": "EventContent_1",
       "IsLegacy": false,
       "GoodsId": [
         40014
       ],
-      "GoodsDevName": "이벤트_상점_B",
       "DisplayOrder": 6,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -274,13 +244,11 @@
       "EventContentId": 801,
       "Id": 8010016,
       "LocalizeEtcId": 2579836564,
-      "DevName": "이벤트_상점B_하급 EX스킬 CD - 백귀야행",
       "CategoryType": "EventContent_1",
       "IsLegacy": false,
       "GoodsId": [
         40015
       ],
-      "GoodsDevName": "이벤트_상점_B",
       "DisplayOrder": 7,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -292,13 +260,11 @@
       "EventContentId": 801,
       "Id": 8010017,
       "LocalizeEtcId": 788632076,
-      "DevName": "이벤트_상점B_일반 EX스킬 CD - 백귀야행",
       "CategoryType": "EventContent_1",
       "IsLegacy": false,
       "GoodsId": [
         40016
       ],
-      "GoodsDevName": "이벤트_상점_B",
       "DisplayOrder": 8,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -310,13 +276,11 @@
       "EventContentId": 801,
       "Id": 8010018,
       "LocalizeEtcId": 3829441542,
-      "DevName": "이벤트_상점B_상급 EX스킬 CD - 백귀야행",
       "CategoryType": "EventContent_1",
       "IsLegacy": false,
       "GoodsId": [
         40017
       ],
-      "GoodsDevName": "이벤트_상점_B",
       "DisplayOrder": 9,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -328,13 +292,11 @@
       "EventContentId": 801,
       "Id": 8010019,
       "LocalizeEtcId": 391816722,
-      "DevName": "이벤트_상점B_최상급 EX스킬 CD - 백귀야행",
       "CategoryType": "EventContent_1",
       "IsLegacy": false,
       "GoodsId": [
         40018
       ],
-      "GoodsDevName": "이벤트_상점_B",
       "DisplayOrder": 10,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -346,13 +308,11 @@
       "EventContentId": 801,
       "Id": 8010020,
       "LocalizeEtcId": 2308340710,
-      "DevName": "이벤트_상점B_이벤트 토큰 C",
       "CategoryType": "EventContent_1",
       "IsLegacy": false,
       "GoodsId": [
         40019
       ],
-      "GoodsDevName": "이벤트_상점_B",
       "DisplayOrder": 11,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -364,13 +324,11 @@
       "EventContentId": 801,
       "Id": 8010021,
       "LocalizeEtcId": 416424274,
-      "DevName": "이벤트_상점C_츠바키의 엘레프",
       "CategoryType": "EventContent_2",
       "IsLegacy": false,
       "GoodsId": [
         40020
       ],
-      "GoodsDevName": "이벤트_상점_C",
       "DisplayOrder": 1,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -382,13 +340,11 @@
       "EventContentId": 801,
       "Id": 8010022,
       "LocalizeEtcId": 2797714306,
-      "DevName": "이벤트_상점C_피나의 엘레프",
       "CategoryType": "EventContent_2",
       "IsLegacy": false,
       "GoodsId": [
         40021
       ],
-      "GoodsDevName": "이벤트_상점_C",
       "DisplayOrder": 2,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -400,13 +356,11 @@
       "EventContentId": 801,
       "Id": 8010023,
       "LocalizeEtcId": 4008312686,
-      "DevName": "이벤트_상점C_하급 공용 재료 - 만드라고라",
       "CategoryType": "EventContent_2",
       "IsLegacy": false,
       "GoodsId": [
         40022
       ],
-      "GoodsDevName": "이벤트_상점_C",
       "DisplayOrder": 3,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -418,13 +372,11 @@
       "EventContentId": 801,
       "Id": 8010024,
       "LocalizeEtcId": 2742210412,
-      "DevName": "이벤트_상점C_중급 공용 재료 - 만드라고라",
       "CategoryType": "EventContent_2",
       "IsLegacy": false,
       "GoodsId": [
         40023
       ],
-      "GoodsDevName": "이벤트_상점_C",
       "DisplayOrder": 4,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -436,13 +388,11 @@
       "EventContentId": 801,
       "Id": 8010025,
       "LocalizeEtcId": 2742161069,
-      "DevName": "이벤트_상점C_상급 공용 재료 - 만드라고라",
       "CategoryType": "EventContent_2",
       "IsLegacy": false,
       "GoodsId": [
         40024
       ],
-      "GoodsDevName": "이벤트_상점_C",
       "DisplayOrder": 5,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -454,13 +404,11 @@
       "EventContentId": 801,
       "Id": 8010026,
       "LocalizeEtcId": 933585740,
-      "DevName": "이벤트_상점C_최상급 공용 재료 - 만드라고라",
       "CategoryType": "EventContent_2",
       "IsLegacy": false,
       "GoodsId": [
         40025
       ],
-      "GoodsDevName": "이벤트_상점_C",
       "DisplayOrder": 6,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -472,13 +420,11 @@
       "EventContentId": 801,
       "Id": 8010027,
       "LocalizeEtcId": 890047783,
-      "DevName": "이벤트_상점C_하급 공용 재료 - 볼프세그",
       "CategoryType": "EventContent_2",
       "IsLegacy": false,
       "GoodsId": [
         40026
       ],
-      "GoodsDevName": "이벤트_상점_C",
       "DisplayOrder": 7,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -490,13 +436,11 @@
       "EventContentId": 801,
       "Id": 8010028,
       "LocalizeEtcId": 2160888131,
-      "DevName": "이벤트_상점C_중급 공용 재료 - 볼프세그",
       "CategoryType": "EventContent_2",
       "IsLegacy": false,
       "GoodsId": [
         40027
       ],
-      "GoodsDevName": "이벤트_상점_C",
       "DisplayOrder": 8,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -508,13 +452,11 @@
       "EventContentId": 801,
       "Id": 8010029,
       "LocalizeEtcId": 4072420418,
-      "DevName": "이벤트_상점C_상급 공용 재료 - 볼프세그",
       "CategoryType": "EventContent_2",
       "IsLegacy": false,
       "GoodsId": [
         40028
       ],
-      "GoodsDevName": "이벤트_상점_C",
       "DisplayOrder": 9,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -526,13 +468,11 @@
       "EventContentId": 801,
       "Id": 8010030,
       "LocalizeEtcId": 3540869938,
-      "DevName": "이벤트_상점C_최상급 공용 재료 - 볼프세그",
       "CategoryType": "EventContent_2",
       "IsLegacy": false,
       "GoodsId": [
         40029
       ],
-      "GoodsDevName": "이벤트_상점_C",
       "DisplayOrder": 10,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -544,13 +484,11 @@
       "EventContentId": 801,
       "Id": 8010031,
       "LocalizeEtcId": 2683341399,
-      "DevName": "이벤트_상점C_크레딧 500",
       "CategoryType": "EventContent_2",
       "IsLegacy": false,
       "GoodsId": [
         40030
       ],
-      "GoodsDevName": "이벤트_상점_C",
       "DisplayOrder": 11,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -562,13 +500,11 @@
       "EventContentId": 10001,
       "Id": 1000101,
       "LocalizeEtcId": 337340670,
-      "DevName": "Goods_AP",
       "CategoryType": "EventContent_0",
       "IsLegacy": false,
       "GoodsId": [
         200
       ],
-      "GoodsDevName": "GOLD_BUY",
       "DisplayOrder": 10,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -580,13 +516,11 @@
       "EventContentId": 10001,
       "Id": 1000102,
       "LocalizeEtcId": 337340670,
-      "DevName": "Goods_AP",
       "CategoryType": "EventContent_1",
       "IsLegacy": false,
       "GoodsId": [
         200
       ],
-      "GoodsDevName": "GOLD_BUY",
       "DisplayOrder": 10,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -598,13 +532,11 @@
       "EventContentId": 10001,
       "Id": 1000103,
       "LocalizeEtcId": 337340670,
-      "DevName": "Goods_AP",
       "CategoryType": "EventContent_2",
       "IsLegacy": false,
       "GoodsId": [
         200
       ],
-      "GoodsDevName": "GOLD_BUY",
       "DisplayOrder": 10,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -616,13 +548,11 @@
       "EventContentId": 10001,
       "Id": 1000104,
       "LocalizeEtcId": 337340670,
-      "DevName": "Goods_AP",
       "CategoryType": "EventContent_3",
       "IsLegacy": false,
       "GoodsId": [
         200
       ],
-      "GoodsDevName": "GOLD_BUY",
       "DisplayOrder": 10,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -634,13 +564,11 @@
       "EventContentId": 10002,
       "Id": 1000201,
       "LocalizeEtcId": 337340670,
-      "DevName": "Goods_AP",
       "CategoryType": "EventContent_0",
       "IsLegacy": false,
       "GoodsId": [
         200
       ],
-      "GoodsDevName": "GOLD_BUY",
       "DisplayOrder": 10,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -652,13 +580,11 @@
       "EventContentId": 10002,
       "Id": 1000202,
       "LocalizeEtcId": 337340670,
-      "DevName": "Goods_AP",
       "CategoryType": "EventContent_1",
       "IsLegacy": false,
       "GoodsId": [
         200
       ],
-      "GoodsDevName": "GOLD_BUY",
       "DisplayOrder": 10,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -670,13 +596,11 @@
       "EventContentId": 10002,
       "Id": 1000203,
       "LocalizeEtcId": 337340670,
-      "DevName": "Goods_AP",
       "CategoryType": "EventContent_2",
       "IsLegacy": false,
       "GoodsId": [
         200
       ],
-      "GoodsDevName": "GOLD_BUY",
       "DisplayOrder": 10,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
@@ -688,13 +612,11 @@
       "EventContentId": 10002,
       "Id": 1000204,
       "LocalizeEtcId": 337340670,
-      "DevName": "Goods_AP",
       "CategoryType": "EventContent_3",
       "IsLegacy": false,
       "GoodsId": [
         200
       ],
-      "GoodsDevName": "GOLD_BUY",
       "DisplayOrder": 10,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,

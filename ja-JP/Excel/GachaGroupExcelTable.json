@@ -662,13 +662,13 @@
     },
     {
       "ID": 100022,
-      "NameKr": "1차 픽업 시즈코",
+      "NameKr": "1차 픽업 SR 더미",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
       "ID": 100023,
-      "NameKr": "1차 픽업 이즈나",
+      "NameKr": "1차 픽업 아리스",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -704,13 +704,13 @@
     },
     {
       "ID": 100042,
-      "NameKr": "2차 픽업 더미",
+      "NameKr": "2차 픽업 모모이",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
       "ID": 100043,
-      "NameKr": "2차 픽업 하루나",
+      "NameKr": "2차 픽업 미도리",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -847,6 +847,12 @@
       "GroupType": "Reward_General"
     },
     {
+      "ID": 601002,
+      "NameKr": "스테이지용 Hat 장비 2티어~3티어 박스",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
       "ID": 602000,
       "NameKr": "스테이지용Gloves장비1티어 박스",
       "IsRecursive": false,
@@ -855,6 +861,12 @@
     {
       "ID": 602001,
       "NameKr": "스테이지용 Gloves 장비 1티어~2티어 박스",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 602002,
+      "NameKr": "스테이지용 Gloves 장비 2티어~3티어 박스",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -871,6 +883,12 @@
       "GroupType": "Reward_General"
     },
     {
+      "ID": 603002,
+      "NameKr": "스테이지용 Shoes 장비 2티어~3티어 박스",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
       "ID": 604000,
       "NameKr": "스테이지용Bag장비1티어 박스",
       "IsRecursive": false,
@@ -879,6 +897,12 @@
     {
       "ID": 604001,
       "NameKr": "스테이지용 Bag 장비 1티어~2티어 박스",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 604002,
+      "NameKr": "스테이지용 Bag 장비 2티어~3티어 박스",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -895,6 +919,12 @@
       "GroupType": "Reward_General"
     },
     {
+      "ID": 605002,
+      "NameKr": "스테이지용 Badge 장비 2티어~3티어 박스",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
       "ID": 606000,
       "NameKr": "스테이지용Hairpin장비1티어 박스",
       "IsRecursive": false,
@@ -903,6 +933,12 @@
     {
       "ID": 606001,
       "NameKr": "스테이지용 Hairpin 장비 1티어~2티어 박스",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 606002,
+      "NameKr": "스테이지용 Hairpin 장비 2티어~3티어 박스",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -919,6 +955,12 @@
       "GroupType": "Reward_General"
     },
     {
+      "ID": 607002,
+      "NameKr": "스테이지용 Charm 장비 2티어~3티어 박스",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
       "ID": 608000,
       "NameKr": "스테이지용Watch장비1티어 박스",
       "IsRecursive": false,
@@ -931,6 +973,12 @@
       "GroupType": "Reward_General"
     },
     {
+      "ID": 608002,
+      "NameKr": "스테이지용 Watch 장비 2티어~3티어 박스",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
       "ID": 609000,
       "NameKr": "스테이지용Necklace장비1티어 박스",
       "IsRecursive": false,
@@ -939,6 +987,12 @@
     {
       "ID": 609001,
       "NameKr": "스테이지용 Necklace 장비 1티어~2티어 박스",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 609002,
+      "NameKr": "스테이지용 Necklace 장비 2티어~3티어 박스",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     }

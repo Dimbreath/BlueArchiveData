@@ -56,7 +56,8 @@
       "MinimumClearTime": 10,
       "MinimumClearLevelGap": 40,
       "CheckCheaterMaxUseCostNonArena": 32,
-      "CheckCheaterMaxUseCostArena": 46
+      "CheckCheaterMaxUseCostArena": 46,
+      "AllowedMaxTimeScale": 20000
     }
   ]
 }

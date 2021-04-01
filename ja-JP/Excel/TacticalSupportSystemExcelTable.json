@@ -190,6 +190,27 @@
       "CharacterInteractionStartDelay": 10,
       "GetOnStartEffectPath": null,
       "GetOnEndEffectPath": "FX_Common_TSS_Ride_Variant"
+    },
+    {
+      "Id": 39009,
+      "SummonedTime": 60000,
+      "DefaultPersonalityId": 0,
+      "CanTargeting": true,
+      "CanCover": false,
+      "ObstacleUniqueName": "Tank_Cover",
+      "ObstacleCoverRange": 100,
+      "SummonSkilllGroupId": "SummonTSSTank01",
+      "CrashObstacleOBBWidth": 150,
+      "CrashObstacleOBBHeight": 250,
+      "IsTSSBlockedNodeCheck": true,
+      "NumberOfUses": 2,
+      "InventoryOffsetX": 0.0,
+      "InventoryOffsetY": 0.0,
+      "InventoryOffsetZ": 0.0,
+      "InteractionChar": [],
+      "CharacterInteractionStartDelay": 10,
+      "GetOnStartEffectPath": null,
+      "GetOnEndEffectPath": "FX_Common_TSS_Ride_Variant"
     }
   ]
 }

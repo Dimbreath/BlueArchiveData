@@ -532,6 +532,15 @@
       "LoopTranstionTime": 1.033963E-13
     },
     {
+      "Id": 60,
+      "ProductionStep": "Release",
+      "Path": "Audio/BGM/Theme_60_Nor_20_SAKURA_PUNCH_Hard_Arrange(-1dB)",
+      "Volume": 1.03390346E-13,
+      "LoopStartTime": 1.03266306E-13,
+      "LoopEndTime": 1.038011E-13,
+      "LoopTranstionTime": 1.033963E-13
+    },
+    {
       "Id": 61,
       "ProductionStep": "Release",
       "Path": "Audio/BGM/Theme_61_Mitsukiyo_21_rolling_beat_(-1dB)",
@@ -560,7 +569,7 @@
     },
     {
       "Id": 64,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "Path": "Audio/BGM/Theme_64_Mitsukiyo_24_Pixel_time_(-1dB)",
       "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
@@ -800,6 +809,15 @@
       "LoopStartTime": 1.0317472E-13,
       "LoopEndTime": 1.0374235E-13,
       "LoopTranstionTime": 1.03390346E-13
+    },
+    {
+      "Id": 10000,
+      "ProductionStep": "Release",
+      "Path": "Audio/BGM/ClearMorning_Short",
+      "Volume": 1.03390346E-13,
+      "LoopStartTime": 0.0,
+      "LoopEndTime": 0.0,
+      "LoopTranstionTime": 1.033963E-13
     }
   ]
 }

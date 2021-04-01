@@ -11,6 +11,54 @@
       "DebuffSelectCount": 2,
       "EventContentItemType": "EventPoint",
       "RewardPercentage": 1000
+    },
+    {
+      "EventContentId": 10001,
+      "DebuffSelectCount": 3,
+      "EventContentItemType": "EventPoint",
+      "RewardPercentage": 1000
+    },
+    {
+      "EventContentId": 10001,
+      "DebuffSelectCount": 4,
+      "EventContentItemType": "EventPoint",
+      "RewardPercentage": 1000
+    },
+    {
+      "EventContentId": 10001,
+      "DebuffSelectCount": 5,
+      "EventContentItemType": "EventPoint",
+      "RewardPercentage": 1000
+    },
+    {
+      "EventContentId": 10001,
+      "DebuffSelectCount": 6,
+      "EventContentItemType": "EventPoint",
+      "RewardPercentage": 1000
+    },
+    {
+      "EventContentId": 10001,
+      "DebuffSelectCount": 7,
+      "EventContentItemType": "EventPoint",
+      "RewardPercentage": 1000
+    },
+    {
+      "EventContentId": 10001,
+      "DebuffSelectCount": 8,
+      "EventContentItemType": "EventPoint",
+      "RewardPercentage": 1000
+    },
+    {
+      "EventContentId": 10001,
+      "DebuffSelectCount": 9,
+      "EventContentItemType": "EventPoint",
+      "RewardPercentage": 1000
+    },
+    {
+      "EventContentId": 10001,
+      "DebuffSelectCount": 10,
+      "EventContentItemType": "EventPoint",
+      "RewardPercentage": 1000
     }
   ]
 }

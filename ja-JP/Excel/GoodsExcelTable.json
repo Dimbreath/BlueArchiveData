@@ -3,7 +3,6 @@
     {
       "Id": 1,
       "Type": 2,
-      "DevName": "튜토리얼 학생 가챠 연차",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -28,19 +27,43 @@
         10,
         13
       ],
-      "ParcelDevName": [
-        "student_gacha",
-        "student_gacha"
-      ],
       "ParcelAmount": [
         9,
         1
       ]
     },
     {
+      "Id": 2,
+      "Type": 1,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        79999
+      ],
+      "ConsumeParcelAmount": [
+        300
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Character"
+      ],
+      "ParcelId": [
+        16003
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
       "Id": 10,
       "Type": 1,
-      "DevName": "HardAdventurePlayCount_Buy",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -59,13 +82,11 @@
       "State": 0,
       "ParcelType": [],
       "ParcelId": [],
-      "ParcelDevName": [],
       "ParcelAmount": []
     },
     {
       "Id": 40,
       "Type": 1,
-      "DevName": "ArenaTicket_Buy",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_ArenaTicket",
       "ConsumeParcelType": [
         "Currency"
@@ -88,9 +109,6 @@
       "ParcelId": [
         7
       ],
-      "ParcelDevName": [
-        "arenaticket"
-      ],
       "ParcelAmount": [
         5
       ]
@@ -98,7 +116,6 @@
     {
       "Id": 100,
       "Type": 1,
-      "DevName": "Refresh",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -117,13 +134,11 @@
       "State": 0,
       "ParcelType": [],
       "ParcelId": [],
-      "ParcelDevName": [],
       "ParcelAmount": []
     },
     {
       "Id": 101,
       "Type": 1,
-      "DevName": "Refresh",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -142,13 +157,11 @@
       "State": 0,
       "ParcelType": [],
       "ParcelId": [],
-      "ParcelDevName": [],
       "ParcelAmount": []
     },
     {
       "Id": 102,
       "Type": 1,
-      "DevName": "Refresh",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -167,13 +180,11 @@
       "State": 0,
       "ParcelType": [],
       "ParcelId": [],
-      "ParcelDevName": [],
       "ParcelAmount": []
     },
     {
       "Id": 103,
       "Type": 1,
-      "DevName": "크레딧 상점 Refresh",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -192,13 +203,11 @@
       "State": 0,
       "ParcelType": [],
       "ParcelId": [],
-      "ParcelDevName": [],
       "ParcelAmount": []
     },
     {
       "Id": 104,
       "Type": 1,
-      "DevName": "크레딧 상점 Refresh",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -217,13 +226,11 @@
       "State": 0,
       "ParcelType": [],
       "ParcelId": [],
-      "ParcelDevName": [],
       "ParcelAmount": []
     },
     {
       "Id": 105,
       "Type": 1,
-      "DevName": "크레딧 상점 Refresh",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -242,13 +249,11 @@
       "State": 0,
       "ParcelType": [],
       "ParcelId": [],
-      "ParcelDevName": [],
       "ParcelAmount": []
     },
     {
       "Id": 106,
       "Type": 1,
-      "DevName": "전술대회 상점 Refresh",
       "IconPath": null,
       "ConsumeParcelType": [
         "Item"
@@ -267,13 +272,11 @@
       "State": 0,
       "ParcelType": [],
       "ParcelId": [],
-      "ParcelDevName": [],
       "ParcelAmount": []
     },
     {
       "Id": 200,
       "Type": 1,
-      "DevName": "AP_Buy",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_AP",
       "ConsumeParcelType": [
         "Currency"
@@ -295,9 +298,6 @@
       ],
       "ParcelId": [
         5
-      ],
-      "ParcelDevName": [
-        "ap"
       ],
       "ParcelAmount": [
         120
@@ -306,7 +306,6 @@
     {
       "Id": 201,
       "Type": 1,
-      "DevName": "AP_Buy",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_AP",
       "ConsumeParcelType": [
         "Currency"
@@ -328,9 +327,6 @@
       ],
       "ParcelId": [
         5
-      ],
-      "ParcelDevName": [
-        "ap"
       ],
       "ParcelAmount": [
         120
@@ -339,7 +335,6 @@
     {
       "Id": 202,
       "Type": 1,
-      "DevName": "AP_Buy",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_AP",
       "ConsumeParcelType": [
         "Currency"
@@ -362,9 +357,6 @@
       "ParcelId": [
         5
       ],
-      "ParcelDevName": [
-        "ap"
-      ],
       "ParcelAmount": [
         120
       ]
@@ -372,7 +364,6 @@
     {
       "Id": 203,
       "Type": 1,
-      "DevName": "AP_Buy",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_AP",
       "ConsumeParcelType": [
         "Currency"
@@ -394,9 +385,6 @@
       ],
       "ParcelId": [
         5
-      ],
-      "ParcelDevName": [
-        "ap"
       ],
       "ParcelAmount": [
         120
@@ -405,7 +393,6 @@
     {
       "Id": 204,
       "Type": 1,
-      "DevName": "AP_Buy",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_AP",
       "ConsumeParcelType": [
         "Currency"
@@ -427,9 +414,6 @@
       ],
       "ParcelId": [
         5
-      ],
-      "ParcelDevName": [
-        "ap"
       ],
       "ParcelAmount": [
         120
@@ -438,7 +422,6 @@
     {
       "Id": 205,
       "Type": 1,
-      "DevName": "AP_Buy",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_AP",
       "ConsumeParcelType": [
         "Currency"
@@ -461,9 +444,6 @@
       "ParcelId": [
         5
       ],
-      "ParcelDevName": [
-        "ap"
-      ],
       "ParcelAmount": [
         120
       ]
@@ -471,7 +451,6 @@
     {
       "Id": 206,
       "Type": 1,
-      "DevName": "AP_Buy",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_AP",
       "ConsumeParcelType": [
         "Currency"
@@ -493,9 +472,6 @@
       ],
       "ParcelId": [
         5
-      ],
-      "ParcelDevName": [
-        "ap"
       ],
       "ParcelAmount": [
         120
@@ -504,7 +480,6 @@
     {
       "Id": 207,
       "Type": 1,
-      "DevName": "AP_Buy",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_AP",
       "ConsumeParcelType": [
         "Currency"
@@ -526,9 +501,6 @@
       ],
       "ParcelId": [
         5
-      ],
-      "ParcelDevName": [
-        "ap"
       ],
       "ParcelAmount": [
         120
@@ -537,7 +509,6 @@
     {
       "Id": 208,
       "Type": 1,
-      "DevName": "AP_Buy",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_AP",
       "ConsumeParcelType": [
         "Currency"
@@ -560,9 +531,6 @@
       "ParcelId": [
         5
       ],
-      "ParcelDevName": [
-        "ap"
-      ],
       "ParcelAmount": [
         120
       ]
@@ -570,7 +538,6 @@
     {
       "Id": 209,
       "Type": 1,
-      "DevName": "AP_Buy",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_AP",
       "ConsumeParcelType": [
         "Currency"
@@ -592,9 +559,6 @@
       ],
       "ParcelId": [
         5
-      ],
-      "ParcelDevName": [
-        "ap"
       ],
       "ParcelAmount": [
         120
@@ -603,7 +567,6 @@
     {
       "Id": 210,
       "Type": 1,
-      "DevName": "AP_Buy",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_AP",
       "ConsumeParcelType": [
         "Currency"
@@ -625,9 +588,6 @@
       ],
       "ParcelId": [
         5
-      ],
-      "ParcelDevName": [
-        "ap"
       ],
       "ParcelAmount": [
         120
@@ -636,7 +596,6 @@
     {
       "Id": 211,
       "Type": 1,
-      "DevName": "AP_Buy",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_AP",
       "ConsumeParcelType": [
         "Currency"
@@ -659,9 +618,6 @@
       "ParcelId": [
         5
       ],
-      "ParcelDevName": [
-        "ap"
-      ],
       "ParcelAmount": [
         120
       ]
@@ -669,7 +625,6 @@
     {
       "Id": 212,
       "Type": 1,
-      "DevName": "AP_Buy",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_AP",
       "ConsumeParcelType": [
         "Currency"
@@ -691,9 +646,6 @@
       ],
       "ParcelId": [
         5
-      ],
-      "ParcelDevName": [
-        "ap"
       ],
       "ParcelAmount": [
         120
@@ -702,7 +654,6 @@
     {
       "Id": 213,
       "Type": 1,
-      "DevName": "AP_Buy",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_AP",
       "ConsumeParcelType": [
         "Currency"
@@ -724,9 +675,6 @@
       ],
       "ParcelId": [
         5
-      ],
-      "ParcelDevName": [
-        "ap"
       ],
       "ParcelAmount": [
         120
@@ -735,7 +683,6 @@
     {
       "Id": 214,
       "Type": 1,
-      "DevName": "AP_Buy",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_AP",
       "ConsumeParcelType": [
         "Currency"
@@ -758,9 +705,6 @@
       "ParcelId": [
         5
       ],
-      "ParcelDevName": [
-        "ap"
-      ],
       "ParcelAmount": [
         120
       ]
@@ -768,7 +712,6 @@
     {
       "Id": 215,
       "Type": 1,
-      "DevName": "AP_Buy",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_AP",
       "ConsumeParcelType": [
         "Currency"
@@ -790,9 +733,6 @@
       ],
       "ParcelId": [
         5
-      ],
-      "ParcelDevName": [
-        "ap"
       ],
       "ParcelAmount": [
         120
@@ -801,7 +741,6 @@
     {
       "Id": 216,
       "Type": 1,
-      "DevName": "AP_Buy",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_AP",
       "ConsumeParcelType": [
         "Currency"
@@ -823,9 +762,6 @@
       ],
       "ParcelId": [
         5
-      ],
-      "ParcelDevName": [
-        "ap"
       ],
       "ParcelAmount": [
         120
@@ -834,7 +770,6 @@
     {
       "Id": 217,
       "Type": 1,
-      "DevName": "AP_Buy",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_AP",
       "ConsumeParcelType": [
         "Currency"
@@ -856,9 +791,6 @@
       ],
       "ParcelId": [
         5
-      ],
-      "ParcelDevName": [
-        "ap"
       ],
       "ParcelAmount": [
         120
@@ -867,7 +799,6 @@
     {
       "Id": 218,
       "Type": 1,
-      "DevName": "AP_Buy",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_AP",
       "ConsumeParcelType": [
         "Currency"
@@ -889,9 +820,6 @@
       ],
       "ParcelId": [
         5
-      ],
-      "ParcelDevName": [
-        "ap"
       ],
       "ParcelAmount": [
         120
@@ -900,7 +828,6 @@
     {
       "Id": 219,
       "Type": 1,
-      "DevName": "AP_Buy",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_AP",
       "ConsumeParcelType": [
         "Currency"
@@ -923,9 +850,6 @@
       "ParcelId": [
         5
       ],
-      "ParcelDevName": [
-        "ap"
-      ],
       "ParcelAmount": [
         120
       ]
@@ -933,7 +857,6 @@
     {
       "Id": 1001,
       "Type": 1,
-      "DevName": "제조 즉시 완료 아이템",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -956,9 +879,6 @@
       "ParcelId": [
         2
       ],
-      "ParcelDevName": [
-        "CraftSkipItem"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -966,7 +886,6 @@
     {
       "Id": 1002,
       "Type": 1,
-      "DevName": "크레딧상점_Equipment_0",
       "IconPath": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_0",
       "ConsumeParcelType": [
         "Currency"
@@ -989,9 +908,6 @@
       "ParcelId": [
         1
       ],
-      "ParcelDevName": [
-        "Equipment_0"
-      ],
       "ParcelAmount": [
         5
       ]
@@ -999,7 +915,6 @@
     {
       "Id": 1003,
       "Type": 1,
-      "DevName": "크레딧상점_Equipment_1",
       "IconPath": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_1",
       "ConsumeParcelType": [
         "Currency"
@@ -1022,9 +937,6 @@
       "ParcelId": [
         2
       ],
-      "ParcelDevName": [
-        "Equipment_1"
-      ],
       "ParcelAmount": [
         5
       ]
@@ -1032,7 +944,6 @@
     {
       "Id": 1004,
       "Type": 1,
-      "DevName": "크레딧상점_Equipment_2",
       "IconPath": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_2",
       "ConsumeParcelType": [
         "Currency"
@@ -1055,9 +966,6 @@
       "ParcelId": [
         3
       ],
-      "ParcelDevName": [
-        "Equipment_2"
-      ],
       "ParcelAmount": [
         3
       ]
@@ -1065,7 +973,6 @@
     {
       "Id": 1005,
       "Type": 1,
-      "DevName": "크레딧상점_Equipment_3",
       "IconPath": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_3",
       "ConsumeParcelType": [
         "Currency"
@@ -1088,9 +995,6 @@
       "ParcelId": [
         4
       ],
-      "ParcelDevName": [
-        "Equipment_3"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -1098,7 +1002,6 @@
     {
       "Id": 1006,
       "Type": 1,
-      "DevName": "크레딧상점_Material_Nebra_0",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Nebra_0",
       "ConsumeParcelType": [
         "Currency"
@@ -1121,9 +1024,6 @@
       "ParcelId": [
         100
       ],
-      "ParcelDevName": [
-        "Material_Nebra_0"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -1131,7 +1031,6 @@
     {
       "Id": 1007,
       "Type": 1,
-      "DevName": "크레딧상점_Material_Phaistos_0",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Phaistos_0",
       "ConsumeParcelType": [
         "Currency"
@@ -1154,9 +1053,6 @@
       "ParcelId": [
         110
       ],
-      "ParcelDevName": [
-        "Material_Phaistos_0"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -1164,7 +1060,6 @@
     {
       "Id": 1008,
       "Type": 1,
-      "DevName": "크레딧상점_Material_Wolfsegg_0",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Wolfsegg_0",
       "ConsumeParcelType": [
         "Currency"
@@ -1187,9 +1082,6 @@
       "ParcelId": [
         120
       ],
-      "ParcelDevName": [
-        "Material_Wolfsegg_0"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -1197,7 +1089,6 @@
     {
       "Id": 1009,
       "Type": 1,
-      "DevName": "크레딧상점_Material_Nimrud_0",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Nimrud_0",
       "ConsumeParcelType": [
         "Currency"
@@ -1220,9 +1111,6 @@
       "ParcelId": [
         130
       ],
-      "ParcelDevName": [
-        "Material_Nimrud_0"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -1230,7 +1118,6 @@
     {
       "Id": 1010,
       "Type": 1,
-      "DevName": "크레딧상점_Material_Mandragora_0",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Mandragora_0",
       "ConsumeParcelType": [
         "Currency"
@@ -1253,9 +1140,6 @@
       "ParcelId": [
         140
       ],
-      "ParcelDevName": [
-        "Material_Mandragora_0"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -1263,7 +1147,6 @@
     {
       "Id": 1011,
       "Type": 1,
-      "DevName": "크레딧상점_Material_Rohonc_0",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Rohonc_0",
       "ConsumeParcelType": [
         "Currency"
@@ -1286,9 +1169,6 @@
       "ParcelId": [
         150
       ],
-      "ParcelDevName": [
-        "Material_Rohonc_0"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -1296,7 +1176,6 @@
     {
       "Id": 1012,
       "Type": 1,
-      "DevName": "크레딧상점_Material_Ether_0",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Ether_0",
       "ConsumeParcelType": [
         "Currency"
@@ -1319,9 +1198,6 @@
       "ParcelId": [
         160
       ],
-      "ParcelDevName": [
-        "Material_Ether_0"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -1329,7 +1205,6 @@
     {
       "Id": 1013,
       "Type": 1,
-      "DevName": "크레딧상점_Material_Antikythera_0",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Antikythera_0",
       "ConsumeParcelType": [
         "Currency"
@@ -1352,9 +1227,6 @@
       "ParcelId": [
         170
       ],
-      "ParcelDevName": [
-        "Material_Antikythera_0"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -1362,7 +1234,6 @@
     {
       "Id": 1014,
       "Type": 1,
-      "DevName": "크레딧상점_Material_Voynich_0",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Voynich_0",
       "ConsumeParcelType": [
         "Currency"
@@ -1385,9 +1256,6 @@
       "ParcelId": [
         180
       ],
-      "ParcelDevName": [
-        "Material_Voynich_0"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -1395,7 +1263,6 @@
     {
       "Id": 1015,
       "Type": 1,
-      "DevName": "크레딧상점_Material_CrystalHaniwa_0",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_CrystalHaniwa_0",
       "ConsumeParcelType": [
         "Currency"
@@ -1418,9 +1285,6 @@
       "ParcelId": [
         190
       ],
-      "ParcelDevName": [
-        "Material_CrystalHaniwa_0"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -1428,7 +1292,6 @@
     {
       "Id": 1016,
       "Type": 1,
-      "DevName": "크레딧상점_Material_Nebra_1",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Nebra_1",
       "ConsumeParcelType": [
         "Currency"
@@ -1451,9 +1314,6 @@
       "ParcelId": [
         101
       ],
-      "ParcelDevName": [
-        "Material_Nebra_1"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -1461,7 +1321,6 @@
     {
       "Id": 1017,
       "Type": 1,
-      "DevName": "크레딧상점_Material_Phaistos_1",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Phaistos_1",
       "ConsumeParcelType": [
         "Currency"
@@ -1484,9 +1343,6 @@
       "ParcelId": [
         111
       ],
-      "ParcelDevName": [
-        "Material_Phaistos_1"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -1494,7 +1350,6 @@
     {
       "Id": 1018,
       "Type": 1,
-      "DevName": "크레딧상점_Material_Wolfsegg_1",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Wolfsegg_1",
       "ConsumeParcelType": [
         "Currency"
@@ -1517,9 +1372,6 @@
       "ParcelId": [
         121
       ],
-      "ParcelDevName": [
-        "Material_Wolfsegg_1"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -1527,7 +1379,6 @@
     {
       "Id": 1019,
       "Type": 1,
-      "DevName": "크레딧상점_Material_Nimrud_1",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Nimrud_1",
       "ConsumeParcelType": [
         "Currency"
@@ -1550,9 +1401,6 @@
       "ParcelId": [
         131
       ],
-      "ParcelDevName": [
-        "Material_Nimrud_1"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -1560,7 +1408,6 @@
     {
       "Id": 1020,
       "Type": 1,
-      "DevName": "크레딧상점_Material_Mandragora_1",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Mandragora_1",
       "ConsumeParcelType": [
         "Currency"
@@ -1583,9 +1430,6 @@
       "ParcelId": [
         141
       ],
-      "ParcelDevName": [
-        "Material_Mandragora_1"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -1593,7 +1437,6 @@
     {
       "Id": 1021,
       "Type": 1,
-      "DevName": "크레딧상점_Material_Rohonc_1",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Rohonc_1",
       "ConsumeParcelType": [
         "Currency"
@@ -1616,9 +1459,6 @@
       "ParcelId": [
         151
       ],
-      "ParcelDevName": [
-        "Material_Rohonc_1"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -1626,7 +1466,6 @@
     {
       "Id": 1022,
       "Type": 1,
-      "DevName": "크레딧상점_Material_Ether_1",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Ether_1",
       "ConsumeParcelType": [
         "Currency"
@@ -1649,9 +1488,6 @@
       "ParcelId": [
         161
       ],
-      "ParcelDevName": [
-        "Material_Ether_1"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -1659,7 +1495,6 @@
     {
       "Id": 1023,
       "Type": 1,
-      "DevName": "크레딧상점_Material_Antikythera_1",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Antikythera_1",
       "ConsumeParcelType": [
         "Currency"
@@ -1682,9 +1517,6 @@
       "ParcelId": [
         171
       ],
-      "ParcelDevName": [
-        "Material_Antikythera_1"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -1692,7 +1524,6 @@
     {
       "Id": 1024,
       "Type": 1,
-      "DevName": "크레딧상점_Material_Voynich_1",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Voynich_1",
       "ConsumeParcelType": [
         "Currency"
@@ -1715,9 +1546,6 @@
       "ParcelId": [
         181
       ],
-      "ParcelDevName": [
-        "Material_Voynich_1"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -1725,7 +1553,6 @@
     {
       "Id": 1025,
       "Type": 1,
-      "DevName": "크레딧상점_Material_CrystalHaniwa_1",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_CrystalHaniwa_1",
       "ConsumeParcelType": [
         "Currency"
@@ -1748,9 +1575,6 @@
       "ParcelId": [
         191
       ],
-      "ParcelDevName": [
-        "Material_CrystalHaniwa_1"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -1758,7 +1582,6 @@
     {
       "Id": 1026,
       "Type": 1,
-      "DevName": "크레딧상점_CraftSkipItem",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_CraftSkipItem",
       "ConsumeParcelType": [
         "Currency"
@@ -1781,9 +1604,6 @@
       "ParcelId": [
         2
       ],
-      "ParcelDevName": [
-        "CraftSkipItem"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -1791,7 +1611,6 @@
     {
       "Id": 1027,
       "Type": 1,
-      "DevName": "크레딧상점_WeekDungeonChaserATicket",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_ChaserATicket",
       "ConsumeParcelType": [
         "Currency"
@@ -1814,9 +1633,6 @@
       "ParcelId": [
         9
       ],
-      "ParcelDevName": [
-        "WeekDungeonChaserATicket"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -1824,7 +1640,6 @@
     {
       "Id": 1028,
       "Type": 1,
-      "DevName": "크레딧상점_WeekDungeonChaserBTicket",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_ChaserBTicket",
       "ConsumeParcelType": [
         "Currency"
@@ -1847,9 +1662,6 @@
       "ParcelId": [
         12
       ],
-      "ParcelDevName": [
-        "WeekDungeonChaserBTicket"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -1857,7 +1669,6 @@
     {
       "Id": 1029,
       "Type": 1,
-      "DevName": "크레딧상점_WeekDungeonChaserCTicket",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_ChaserCTicket",
       "ConsumeParcelType": [
         "Currency"
@@ -1880,9 +1691,6 @@
       "ParcelId": [
         13
       ],
-      "ParcelDevName": [
-        "WeekDungeonChaserCTicket"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -1890,7 +1698,6 @@
     {
       "Id": 1030,
       "Type": 1,
-      "DevName": "크레딧상점_AcademyTicket",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_AcademyTicket",
       "ConsumeParcelType": [
         "Currency"
@@ -1913,8 +1720,121 @@
       "ParcelId": [
         6
       ],
-      "ParcelDevName": [
-        "AcademyTicket"
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 1031,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_0",
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        1
+      ],
+      "ConsumeParcelAmount": [
+        10000
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Equipment"
+      ],
+      "ParcelId": [
+        1
+      ],
+      "ParcelAmount": [
+        5
+      ]
+    },
+    {
+      "Id": 1032,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_1",
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        1
+      ],
+      "ConsumeParcelAmount": [
+        40000
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Equipment"
+      ],
+      "ParcelId": [
+        2
+      ],
+      "ParcelAmount": [
+        5
+      ]
+    },
+    {
+      "Id": 1033,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_2",
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        1
+      ],
+      "ConsumeParcelAmount": [
+        96000
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Equipment"
+      ],
+      "ParcelId": [
+        3
+      ],
+      "ParcelAmount": [
+        3
+      ]
+    },
+    {
+      "Id": 1034,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_3",
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        1
+      ],
+      "ConsumeParcelAmount": [
+        128000
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Equipment"
+      ],
+      "ParcelId": [
+        4
       ],
       "ParcelAmount": [
         1
@@ -1923,7 +1843,6 @@
     {
       "Id": 2000,
       "Type": 1,
-      "DevName": "레이드상점_Maki",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Maki",
       "ConsumeParcelType": [
         "Item"
@@ -1946,9 +1865,6 @@
       "ParcelId": [
         10007
       ],
-      "ParcelDevName": [
-        "Maki"
-      ],
       "ParcelAmount": [
         5
       ]
@@ -1956,7 +1872,6 @@
     {
       "Id": 2001,
       "Type": 1,
-      "DevName": "레이드상점_Akane",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Akane",
       "ConsumeParcelType": [
         "Item"
@@ -1979,9 +1894,6 @@
       "ParcelId": [
         13000
       ],
-      "ParcelDevName": [
-        "Akane"
-      ],
       "ParcelAmount": [
         5
       ]
@@ -1989,7 +1901,6 @@
     {
       "Id": 2002,
       "Type": 1,
-      "DevName": "레이드상점_Hibiki",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Hibiki",
       "ConsumeParcelType": [
         "Item"
@@ -2012,17 +1923,42 @@
       "ParcelId": [
         20000
       ],
-      "ParcelDevName": [
-        "Hibiki"
-      ],
       "ParcelAmount": [
         5
       ]
     },
     {
+      "Id": 2003,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Hanae",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        7
+      ],
+      "ConsumeParcelAmount": [
+        50
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        23002
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
       "Id": 2100,
       "Type": 1,
-      "DevName": "레이드상점_SkillBook_Ultimate",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Ultimate",
       "ConsumeParcelType": [
         "Item"
@@ -2045,9 +1981,6 @@
       "ParcelId": [
         9999
       ],
-      "ParcelDevName": [
-        "SkillBook_Ultimate"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2055,7 +1988,6 @@
     {
       "Id": 2101,
       "Type": 1,
-      "DevName": "레이드상점_CraftSkipItem",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_CraftSkipItem",
       "ConsumeParcelType": [
         "Item"
@@ -2078,9 +2010,6 @@
       "ParcelId": [
         2
       ],
-      "ParcelDevName": [
-        "CraftSkipItem"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2088,7 +2017,6 @@
     {
       "Id": 2200,
       "Type": 1,
-      "DevName": "하급 백귀야행 Ex스킬 CD",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Hyakkiyako_0",
       "ConsumeParcelType": [
         "Item"
@@ -2111,9 +2039,6 @@
       "ParcelId": [
         3000
       ],
-      "ParcelDevName": [
-        "ExSkill_Hyakkiyako_0"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2121,7 +2046,6 @@
     {
       "Id": 2201,
       "Type": 1,
-      "DevName": "일반 백귀야행 Ex스킬 CD",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Hyakkiyako_1",
       "ConsumeParcelType": [
         "Item"
@@ -2144,9 +2068,6 @@
       "ParcelId": [
         3001
       ],
-      "ParcelDevName": [
-        "ExSkill_Hyakkiyako_1"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2154,7 +2075,6 @@
     {
       "Id": 2202,
       "Type": 1,
-      "DevName": "상급 백귀야행 Ex스킬 CD",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Hyakkiyako_2",
       "ConsumeParcelType": [
         "Item"
@@ -2177,9 +2097,6 @@
       "ParcelId": [
         3002
       ],
-      "ParcelDevName": [
-        "ExSkill_Hyakkiyako_2"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2187,7 +2104,6 @@
     {
       "Id": 2203,
       "Type": 1,
-      "DevName": "최상급 백귀야행 Ex스킬 CD",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Hyakkiyako_3",
       "ConsumeParcelType": [
         "Item"
@@ -2210,9 +2126,6 @@
       "ParcelId": [
         3003
       ],
-      "ParcelDevName": [
-        "ExSkill_Hyakkiyako_3"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2220,7 +2133,6 @@
     {
       "Id": 2204,
       "Type": 1,
-      "DevName": "하급 트리니티 Ex스킬 CD",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Trinity_0",
       "ConsumeParcelType": [
         "Item"
@@ -2243,9 +2155,6 @@
       "ParcelId": [
         3020
       ],
-      "ParcelDevName": [
-        "ExSkill_Trinity_0"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2253,7 +2162,6 @@
     {
       "Id": 2205,
       "Type": 1,
-      "DevName": "일반 트리니티 Ex스킬 CD",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Trinity_1",
       "ConsumeParcelType": [
         "Item"
@@ -2276,9 +2184,6 @@
       "ParcelId": [
         3021
       ],
-      "ParcelDevName": [
-        "ExSkill_Trinity_1"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2286,7 +2191,6 @@
     {
       "Id": 2206,
       "Type": 1,
-      "DevName": "상급 트리니티 Ex스킬 CD",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Trinity_2",
       "ConsumeParcelType": [
         "Item"
@@ -2309,9 +2213,6 @@
       "ParcelId": [
         3022
       ],
-      "ParcelDevName": [
-        "ExSkill_Trinity_2"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2319,7 +2220,6 @@
     {
       "Id": 2207,
       "Type": 1,
-      "DevName": "최상급 트리니티 Ex스킬 CD",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Trinity_3",
       "ConsumeParcelType": [
         "Item"
@@ -2342,9 +2242,6 @@
       "ParcelId": [
         3023
       ],
-      "ParcelDevName": [
-        "ExSkill_Trinity_3"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2352,7 +2249,6 @@
     {
       "Id": 2208,
       "Type": 1,
-      "DevName": "하급 게헨나 Ex스킬 CD",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Gehenna_0",
       "ConsumeParcelType": [
         "Item"
@@ -2375,9 +2271,6 @@
       "ParcelId": [
         3030
       ],
-      "ParcelDevName": [
-        "ExSkill_Gehenna_0"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2385,7 +2278,6 @@
     {
       "Id": 2209,
       "Type": 1,
-      "DevName": "일반 게헨나 Ex스킬 CD",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Gehenna_1",
       "ConsumeParcelType": [
         "Item"
@@ -2408,9 +2300,6 @@
       "ParcelId": [
         3031
       ],
-      "ParcelDevName": [
-        "ExSkill_Gehenna_1"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2418,7 +2307,6 @@
     {
       "Id": 2210,
       "Type": 1,
-      "DevName": "상급 게헨나 Ex스킬 CD",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Gehenna_2",
       "ConsumeParcelType": [
         "Item"
@@ -2441,9 +2329,6 @@
       "ParcelId": [
         3032
       ],
-      "ParcelDevName": [
-        "ExSkill_Gehenna_2"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2451,7 +2336,6 @@
     {
       "Id": 2211,
       "Type": 1,
-      "DevName": "최상급 게헨나 Ex스킬 CD",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Gehenna_3",
       "ConsumeParcelType": [
         "Item"
@@ -2474,9 +2358,6 @@
       "ParcelId": [
         3033
       ],
-      "ParcelDevName": [
-        "ExSkill_Gehenna_3"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2484,7 +2365,6 @@
     {
       "Id": 2212,
       "Type": 1,
-      "DevName": "하급 아비도스 Ex스킬 CD",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Abydos_0",
       "ConsumeParcelType": [
         "Item"
@@ -2507,9 +2387,6 @@
       "ParcelId": [
         3040
       ],
-      "ParcelDevName": [
-        "ExSkill_Abydos_0"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2517,7 +2394,6 @@
     {
       "Id": 2213,
       "Type": 1,
-      "DevName": "일반 아비도스 Ex스킬 CD",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Abydos_1",
       "ConsumeParcelType": [
         "Item"
@@ -2540,9 +2416,6 @@
       "ParcelId": [
         3041
       ],
-      "ParcelDevName": [
-        "ExSkill_Abydos_1"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2550,7 +2423,6 @@
     {
       "Id": 2214,
       "Type": 1,
-      "DevName": "상급 아비도스 Ex스킬 CD",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Abydos_2",
       "ConsumeParcelType": [
         "Item"
@@ -2573,9 +2445,6 @@
       "ParcelId": [
         3042
       ],
-      "ParcelDevName": [
-        "ExSkill_Abydos_2"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2583,7 +2452,6 @@
     {
       "Id": 2215,
       "Type": 1,
-      "DevName": "최상급 아비도스 Ex스킬 CD",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Abydos_3",
       "ConsumeParcelType": [
         "Item"
@@ -2606,9 +2474,6 @@
       "ParcelId": [
         3043
       ],
-      "ParcelDevName": [
-        "ExSkill_Abydos_3"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2616,7 +2481,6 @@
     {
       "Id": 2216,
       "Type": 1,
-      "DevName": "하급 밀레니엄 Ex스킬 CD",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Millennium_0",
       "ConsumeParcelType": [
         "Item"
@@ -2639,9 +2503,6 @@
       "ParcelId": [
         3050
       ],
-      "ParcelDevName": [
-        "ExSkill_Millennium_0"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2649,7 +2510,6 @@
     {
       "Id": 2217,
       "Type": 1,
-      "DevName": "일반 밀레니엄 Ex스킬 CD",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Millennium_1",
       "ConsumeParcelType": [
         "Item"
@@ -2672,9 +2532,6 @@
       "ParcelId": [
         3051
       ],
-      "ParcelDevName": [
-        "ExSkill_Millennium_1"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2682,7 +2539,6 @@
     {
       "Id": 2218,
       "Type": 1,
-      "DevName": "상급 밀레니엄 Ex스킬 CD",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Millennium_2",
       "ConsumeParcelType": [
         "Item"
@@ -2705,9 +2561,6 @@
       "ParcelId": [
         3052
       ],
-      "ParcelDevName": [
-        "ExSkill_Millennium_2"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2715,7 +2568,6 @@
     {
       "Id": 2219,
       "Type": 1,
-      "DevName": "최상급 밀레니엄 Ex스킬 CD",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Millennium_3",
       "ConsumeParcelType": [
         "Item"
@@ -2738,9 +2590,6 @@
       "ParcelId": [
         3053
       ],
-      "ParcelDevName": [
-        "ExSkill_Millennium_3"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2748,7 +2597,6 @@
     {
       "Id": 2220,
       "Type": 1,
-      "DevName": "하급 산해경 Ex스킬 CD",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Shanhaijing_0",
       "ConsumeParcelType": [
         "Item"
@@ -2771,9 +2619,6 @@
       "ParcelId": [
         3070
       ],
-      "ParcelDevName": [
-        "ExSkill_Shanhaijing_0"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2781,7 +2626,6 @@
     {
       "Id": 2221,
       "Type": 1,
-      "DevName": "일반 산해경 Ex스킬 CD",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Shanhaijing_1",
       "ConsumeParcelType": [
         "Item"
@@ -2804,9 +2648,6 @@
       "ParcelId": [
         3071
       ],
-      "ParcelDevName": [
-        "ExSkill_Shanhaijing_1"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2814,7 +2655,6 @@
     {
       "Id": 2222,
       "Type": 1,
-      "DevName": "상급 산해경 Ex스킬 CD",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Shanhaijing_2",
       "ConsumeParcelType": [
         "Item"
@@ -2837,9 +2677,6 @@
       "ParcelId": [
         3072
       ],
-      "ParcelDevName": [
-        "ExSkill_Shanhaijing_2"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2847,7 +2684,6 @@
     {
       "Id": 2223,
       "Type": 1,
-      "DevName": "최상급 산해경 Ex스킬 CD",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Shanhaijing_3",
       "ConsumeParcelType": [
         "Item"
@@ -2870,9 +2706,6 @@
       "ParcelId": [
         3073
       ],
-      "ParcelDevName": [
-        "ExSkill_Shanhaijing_3"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2880,7 +2713,6 @@
     {
       "Id": 2400,
       "Type": 1,
-      "DevName": "하급 백귀야행 스킬 책",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Hyakkiyako_0",
       "ConsumeParcelType": [
         "Item"
@@ -2903,9 +2735,6 @@
       "ParcelId": [
         4000
       ],
-      "ParcelDevName": [
-        "SkillBook_Hyakkiyako_0"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2913,7 +2742,6 @@
     {
       "Id": 2401,
       "Type": 1,
-      "DevName": "일반 백귀야행 스킬 책",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Hyakkiyako_1",
       "ConsumeParcelType": [
         "Item"
@@ -2936,9 +2764,6 @@
       "ParcelId": [
         4001
       ],
-      "ParcelDevName": [
-        "SkillBook_Hyakkiyako_1"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2946,7 +2771,6 @@
     {
       "Id": 2402,
       "Type": 1,
-      "DevName": "상급 백귀야행 스킬 책",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Hyakkiyako_2",
       "ConsumeParcelType": [
         "Item"
@@ -2969,9 +2793,6 @@
       "ParcelId": [
         4002
       ],
-      "ParcelDevName": [
-        "SkillBook_Hyakkiyako_2"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -2979,7 +2800,6 @@
     {
       "Id": 2403,
       "Type": 1,
-      "DevName": "최상급 백귀야행 스킬 책",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Hyakkiyako_3",
       "ConsumeParcelType": [
         "Item"
@@ -3002,9 +2822,6 @@
       "ParcelId": [
         4003
       ],
-      "ParcelDevName": [
-        "SkillBook_Hyakkiyako_3"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -3012,7 +2829,6 @@
     {
       "Id": 2404,
       "Type": 1,
-      "DevName": "하급 트리니티 스킬 책",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Trinity_0",
       "ConsumeParcelType": [
         "Item"
@@ -3035,9 +2851,6 @@
       "ParcelId": [
         4020
       ],
-      "ParcelDevName": [
-        "SkillBook_Trinity_0"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -3045,7 +2858,6 @@
     {
       "Id": 2405,
       "Type": 1,
-      "DevName": "일반 트리니티 스킬 책",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Trinity_1",
       "ConsumeParcelType": [
         "Item"
@@ -3068,9 +2880,6 @@
       "ParcelId": [
         4021
       ],
-      "ParcelDevName": [
-        "SkillBook_Trinity_1"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -3078,7 +2887,6 @@
     {
       "Id": 2406,
       "Type": 1,
-      "DevName": "상급 트리니티 스킬 책",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Trinity_2",
       "ConsumeParcelType": [
         "Item"
@@ -3101,9 +2909,6 @@
       "ParcelId": [
         4022
       ],
-      "ParcelDevName": [
-        "SkillBook_Trinity_2"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -3111,7 +2916,6 @@
     {
       "Id": 2407,
       "Type": 1,
-      "DevName": "최상급 트리니티 스킬 책",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Trinity_3",
       "ConsumeParcelType": [
         "Item"
@@ -3134,9 +2938,6 @@
       "ParcelId": [
         4023
       ],
-      "ParcelDevName": [
-        "SkillBook_Trinity_3"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -3144,7 +2945,6 @@
     {
       "Id": 2408,
       "Type": 1,
-      "DevName": "하급 게헨나 스킬 책",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Gehenna_0",
       "ConsumeParcelType": [
         "Item"
@@ -3167,9 +2967,6 @@
       "ParcelId": [
         4030
       ],
-      "ParcelDevName": [
-        "SkillBook_Gehenna_0"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -3177,7 +2974,6 @@
     {
       "Id": 2409,
       "Type": 1,
-      "DevName": "일반 게헨나 스킬 책",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Gehenna_1",
       "ConsumeParcelType": [
         "Item"
@@ -3200,9 +2996,6 @@
       "ParcelId": [
         4031
       ],
-      "ParcelDevName": [
-        "SkillBook_Gehenna_1"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -3210,7 +3003,6 @@
     {
       "Id": 2410,
       "Type": 1,
-      "DevName": "상급 게헨나 스킬 책",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Gehenna_2",
       "ConsumeParcelType": [
         "Item"
@@ -3233,9 +3025,6 @@
       "ParcelId": [
         4032
       ],
-      "ParcelDevName": [
-        "SkillBook_Gehenna_2"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -3243,7 +3032,6 @@
     {
       "Id": 2411,
       "Type": 1,
-      "DevName": "최상급 게헨나 스킬 책",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Gehenna_3",
       "ConsumeParcelType": [
         "Item"
@@ -3266,9 +3054,6 @@
       "ParcelId": [
         4033
       ],
-      "ParcelDevName": [
-        "SkillBook_Gehenna_3"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -3276,7 +3061,6 @@
     {
       "Id": 2412,
       "Type": 1,
-      "DevName": "하급 아비도스 스킬 책",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Abydos_0",
       "ConsumeParcelType": [
         "Item"
@@ -3299,9 +3083,6 @@
       "ParcelId": [
         4040
       ],
-      "ParcelDevName": [
-        "SkillBook_Abydos_0"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -3309,7 +3090,6 @@
     {
       "Id": 2413,
       "Type": 1,
-      "DevName": "일반 아비도스 스킬 책",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Abydos_1",
       "ConsumeParcelType": [
         "Item"
@@ -3332,9 +3112,6 @@
       "ParcelId": [
         4041
       ],
-      "ParcelDevName": [
-        "SkillBook_Abydos_1"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -3342,7 +3119,6 @@
     {
       "Id": 2414,
       "Type": 1,
-      "DevName": "상급 아비도스 스킬 책",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Abydos_2",
       "ConsumeParcelType": [
         "Item"
@@ -3365,9 +3141,6 @@
       "ParcelId": [
         4042
       ],
-      "ParcelDevName": [
-        "SkillBook_Abydos_2"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -3375,7 +3148,6 @@
     {
       "Id": 2415,
       "Type": 1,
-      "DevName": "최상급 아비도스 스킬 책",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Abydos_3",
       "ConsumeParcelType": [
         "Item"
@@ -3398,9 +3170,6 @@
       "ParcelId": [
         4043
       ],
-      "ParcelDevName": [
-        "SkillBook_Abydos_3"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -3408,7 +3177,6 @@
     {
       "Id": 2416,
       "Type": 1,
-      "DevName": "하급 밀레니엄 스킬 책",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Millennium_0",
       "ConsumeParcelType": [
         "Item"
@@ -3431,9 +3199,6 @@
       "ParcelId": [
         4050
       ],
-      "ParcelDevName": [
-        "SkillBook_Millennium_0"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -3441,7 +3206,6 @@
     {
       "Id": 2417,
       "Type": 1,
-      "DevName": "일반 밀레니엄 스킬 책",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Millennium_1",
       "ConsumeParcelType": [
         "Item"
@@ -3464,9 +3228,6 @@
       "ParcelId": [
         4051
       ],
-      "ParcelDevName": [
-        "SkillBook_Millennium_1"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -3474,7 +3235,6 @@
     {
       "Id": 2418,
       "Type": 1,
-      "DevName": "상급 밀레니엄 스킬 책",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Millennium_2",
       "ConsumeParcelType": [
         "Item"
@@ -3497,9 +3257,6 @@
       "ParcelId": [
         4052
       ],
-      "ParcelDevName": [
-        "SkillBook_Millennium_2"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -3507,7 +3264,6 @@
     {
       "Id": 2419,
       "Type": 1,
-      "DevName": "최상급 밀레니엄 스킬 책",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Millennium_3",
       "ConsumeParcelType": [
         "Item"
@@ -3530,9 +3286,6 @@
       "ParcelId": [
         4053
       ],
-      "ParcelDevName": [
-        "SkillBook_Millennium_3"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -3540,7 +3293,6 @@
     {
       "Id": 2420,
       "Type": 1,
-      "DevName": "하급 산해경 스킬 책",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Shanhaijing_0",
       "ConsumeParcelType": [
         "Item"
@@ -3563,9 +3315,6 @@
       "ParcelId": [
         4070
       ],
-      "ParcelDevName": [
-        "SkillBook_Shanhaijing_0"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -3573,7 +3322,6 @@
     {
       "Id": 2421,
       "Type": 1,
-      "DevName": "일반 산해경 스킬 책",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Shanhaijing_1",
       "ConsumeParcelType": [
         "Item"
@@ -3596,9 +3344,6 @@
       "ParcelId": [
         4071
       ],
-      "ParcelDevName": [
-        "SkillBook_Shanhaijing_1"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -3606,7 +3351,6 @@
     {
       "Id": 2422,
       "Type": 1,
-      "DevName": "상급 산해경 스킬 책",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Shanhaijing_2",
       "ConsumeParcelType": [
         "Item"
@@ -3629,9 +3373,6 @@
       "ParcelId": [
         4072
       ],
-      "ParcelDevName": [
-        "SkillBook_Shanhaijing_2"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -3639,7 +3380,6 @@
     {
       "Id": 2423,
       "Type": 1,
-      "DevName": "최상급 산해경 스킬 책",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Shanhaijing_3",
       "ConsumeParcelType": [
         "Item"
@@ -3662,9 +3402,6 @@
       "ParcelId": [
         4073
       ],
-      "ParcelDevName": [
-        "SkillBook_Shanhaijing_3"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -3672,7 +3409,6 @@
     {
       "Id": 3000,
       "Type": 1,
-      "DevName": "PvP 상점 Saya",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Saya",
       "ConsumeParcelType": [
         "Item"
@@ -3695,9 +3431,6 @@
       "ParcelId": [
         20002
       ],
-      "ParcelDevName": [
-        "Saya"
-      ],
       "ParcelAmount": [
         5
       ]
@@ -3705,7 +3438,6 @@
     {
       "Id": 3001,
       "Type": 1,
-      "DevName": "PvP 상점 Fuuka",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Fuuka",
       "ConsumeParcelType": [
         "Item"
@@ -3728,9 +3460,6 @@
       "ParcelId": [
         23001
       ],
-      "ParcelDevName": [
-        "Fuuka"
-      ],
       "ParcelAmount": [
         5
       ]
@@ -3738,7 +3467,6 @@
     {
       "Id": 3100,
       "Type": 1,
-      "DevName": "PvP 상점 AP_1",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Consumable_AP_0",
       "ConsumeParcelType": [
         "Item"
@@ -3761,9 +3489,6 @@
       "ParcelId": [
         10000000
       ],
-      "ParcelDevName": [
-        "Consumable_AP_0"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -3771,7 +3496,6 @@
     {
       "Id": 3101,
       "Type": 1,
-      "DevName": "PvP 상점 AP_2",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Consumable_AP_1",
       "ConsumeParcelType": [
         "Item"
@@ -3794,9 +3518,6 @@
       "ParcelId": [
         10000001
       ],
-      "ParcelDevName": [
-        "Consumable_AP_1"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -3804,7 +3525,6 @@
     {
       "Id": 3110,
       "Type": 1,
-      "DevName": "PvP 상점 Gold",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
       "ConsumeParcelType": [
         "Item"
@@ -3827,9 +3547,6 @@
       "ParcelId": [
         1
       ],
-      "ParcelDevName": [
-        "Gold"
-      ],
       "ParcelAmount": [
         5000
       ]
@@ -3837,7 +3554,6 @@
     {
       "Id": 3111,
       "Type": 1,
-      "DevName": "PvP 상점 Gold",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
       "ConsumeParcelType": [
         "Item"
@@ -3860,9 +3576,6 @@
       "ParcelId": [
         1
       ],
-      "ParcelDevName": [
-        "Gold"
-      ],
       "ParcelAmount": [
         25000
       ]
@@ -3870,7 +3583,6 @@
     {
       "Id": 3112,
       "Type": 1,
-      "DevName": "PvP 상점 Gold",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
       "ConsumeParcelType": [
         "Item"
@@ -3893,9 +3605,6 @@
       "ParcelId": [
         1
       ],
-      "ParcelDevName": [
-        "Gold"
-      ],
       "ParcelAmount": [
         75000
       ]
@@ -3903,7 +3612,6 @@
     {
       "Id": 3113,
       "Type": 1,
-      "DevName": "PvP 상점 Gold",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
       "ConsumeParcelType": [
         "Item"
@@ -3926,9 +3634,6 @@
       "ParcelId": [
         1
       ],
-      "ParcelDevName": [
-        "Gold"
-      ],
       "ParcelAmount": [
         125000
       ]
@@ -3936,7 +3641,6 @@
     {
       "Id": 3120,
       "Type": 1,
-      "DevName": "PvP 상점 ExpItem_0",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_0",
       "ConsumeParcelType": [
         "Item"
@@ -3959,9 +3663,6 @@
       "ParcelId": [
         10
       ],
-      "ParcelDevName": [
-        "ExpItem_0"
-      ],
       "ParcelAmount": [
         10
       ]
@@ -3969,7 +3670,6 @@
     {
       "Id": 3121,
       "Type": 1,
-      "DevName": "PvP 상점 ExpItem_1",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_1",
       "ConsumeParcelType": [
         "Item"
@@ -3992,9 +3692,6 @@
       "ParcelId": [
         11
       ],
-      "ParcelDevName": [
-        "ExpItem_1"
-      ],
       "ParcelAmount": [
         5
       ]
@@ -4002,7 +3699,6 @@
     {
       "Id": 3122,
       "Type": 1,
-      "DevName": "PvP 상점 ExpItem_2",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_2",
       "ConsumeParcelType": [
         "Item"
@@ -4025,9 +3721,6 @@
       "ParcelId": [
         12
       ],
-      "ParcelDevName": [
-        "ExpItem_2"
-      ],
       "ParcelAmount": [
         3
       ]
@@ -4035,7 +3728,6 @@
     {
       "Id": 3123,
       "Type": 1,
-      "DevName": "PvP 상점 ExpItem_3",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_3",
       "ConsumeParcelType": [
         "Item"
@@ -4058,9 +3750,6 @@
       "ParcelId": [
         13
       ],
-      "ParcelDevName": [
-        "ExpItem_3"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -4068,7 +3757,6 @@
     {
       "Id": 10000,
       "Type": 1,
-      "DevName": "천장 상점 3성 - 시즌 1 릴리즈: 시로코",
       "IconPath": null,
       "ConsumeParcelType": [
         "Item"
@@ -4091,9 +3779,6 @@
       "ParcelId": [
         10010
       ],
-      "ParcelDevName": [
-        "Shiroko_default"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -4101,7 +3786,6 @@
     {
       "Id": 10001,
       "Type": 1,
-      "DevName": "천장 상점 3성 - 시즌 1 릴리즈: 호시노",
       "IconPath": null,
       "ConsumeParcelType": [
         "Item"
@@ -4124,9 +3808,6 @@
       "ParcelId": [
         10005
       ],
-      "ParcelDevName": [
-        "Hoshino_default"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -4134,7 +3815,6 @@
     {
       "Id": 10010,
       "Type": 1,
-      "DevName": "천장 상점 3성 - 시즌1 2차: 마시로",
       "IconPath": null,
       "ConsumeParcelType": [
         "Item"
@@ -4157,9 +3837,6 @@
       "ParcelId": [
         20003
       ],
-      "ParcelDevName": [
-        "Mashiro_default"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -4167,7 +3844,6 @@
     {
       "Id": 10020,
       "Type": 1,
-      "DevName": "천장 상점 3성 - 시즌2 1차: 이즈나",
       "IconPath": null,
       "ConsumeParcelType": [
         "Item"
@@ -4190,9 +3866,6 @@
       "ParcelId": [
         10014
       ],
-      "ParcelDevName": [
-        "Izuna_default"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -4200,7 +3873,6 @@
     {
       "Id": 10030,
       "Type": 1,
-      "DevName": "천장 상점 3성 - 시즌2 2차: 하루나",
       "IconPath": null,
       "ConsumeParcelType": [
         "Item"
@@ -4223,9 +3895,6 @@
       "ParcelId": [
         10002
       ],
-      "ParcelDevName": [
-        "Haruna_default"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -4233,7 +3902,6 @@
     {
       "Id": 10040,
       "Type": 1,
-      "DevName": "천장 상점 3성 - 시즌2 3차: 아루",
       "IconPath": null,
       "ConsumeParcelType": [
         "Item"
@@ -4256,8 +3924,121 @@
       "ParcelId": [
         10000
       ],
-      "ParcelDevName": [
-        "Aru_default"
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 10050,
+      "Type": 1,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        70005
+      ],
+      "ConsumeParcelAmount": [
+        300
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Character"
+      ],
+      "ParcelId": [
+        10015
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 10060,
+      "Type": 1,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        70006
+      ],
+      "ConsumeParcelAmount": [
+        300
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Character"
+      ],
+      "ParcelId": [
+        10016
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 10070,
+      "Type": 1,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        70007
+      ],
+      "ConsumeParcelAmount": [
+        300
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Character"
+      ],
+      "ParcelId": [
+        10008
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 10071,
+      "Type": 1,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        70007
+      ],
+      "ConsumeParcelAmount": [
+        300
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Character"
+      ],
+      "ParcelId": [
+        20001
       ],
       "ParcelAmount": [
         1
@@ -4266,7 +4047,6 @@
     {
       "Id": 20000,
       "Type": 1,
-      "DevName": "Aru",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Aru",
       "ConsumeParcelType": [
         "Item"
@@ -4301,9 +4081,6 @@
       "ParcelId": [
         10000
       ],
-      "ParcelDevName": [
-        "Aru"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -4311,7 +4088,6 @@
     {
       "Id": 20001,
       "Type": 1,
-      "DevName": "Eimi",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Eimi",
       "ConsumeParcelType": [
         "Item"
@@ -4346,9 +4122,6 @@
       "ParcelId": [
         10001
       ],
-      "ParcelDevName": [
-        "Eimi"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -4356,7 +4129,6 @@
     {
       "Id": 20002,
       "Type": 1,
-      "DevName": "Haruna",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Haruna",
       "ConsumeParcelType": [
         "Item"
@@ -4391,9 +4163,6 @@
       "ParcelId": [
         10002
       ],
-      "ParcelDevName": [
-        "Haruna"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -4401,7 +4170,6 @@
     {
       "Id": 20003,
       "Type": 1,
-      "DevName": "Hihumi",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Hihumi",
       "ConsumeParcelType": [
         "Item"
@@ -4436,9 +4204,6 @@
       "ParcelId": [
         10003
       ],
-      "ParcelDevName": [
-        "Hihumi"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -4446,7 +4211,6 @@
     {
       "Id": 20004,
       "Type": 1,
-      "DevName": "Hina",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Hina",
       "ConsumeParcelType": [
         "Item"
@@ -4481,9 +4245,6 @@
       "ParcelId": [
         10004
       ],
-      "ParcelDevName": [
-        "Hina"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -4491,7 +4252,6 @@
     {
       "Id": 20005,
       "Type": 1,
-      "DevName": "Hoshino",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Hoshino",
       "ConsumeParcelType": [
         "Item"
@@ -4526,9 +4286,6 @@
       "ParcelId": [
         10005
       ],
-      "ParcelDevName": [
-        "Hoshino"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -4536,7 +4293,6 @@
     {
       "Id": 20006,
       "Type": 1,
-      "DevName": "Neru",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Neru",
       "ConsumeParcelType": [
         "Item"
@@ -4571,9 +4327,6 @@
       "ParcelId": [
         10008
       ],
-      "ParcelDevName": [
-        "Neru"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -4581,7 +4334,6 @@
     {
       "Id": 20007,
       "Type": 1,
-      "DevName": "Nonomi",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Nonomi",
       "ConsumeParcelType": [
         "Item"
@@ -4616,9 +4368,6 @@
       "ParcelId": [
         13004
       ],
-      "ParcelDevName": [
-        "Nonomi"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -4626,7 +4375,6 @@
     {
       "Id": 20008,
       "Type": 1,
-      "DevName": "Shiroko",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Shiroko",
       "ConsumeParcelType": [
         "Item"
@@ -4661,9 +4409,6 @@
       "ParcelId": [
         10010
       ],
-      "ParcelDevName": [
-        "Shiroko"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -4671,7 +4416,6 @@
     {
       "Id": 20009,
       "Type": 1,
-      "DevName": "Shun",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Shun",
       "ConsumeParcelType": [
         "Item"
@@ -4706,9 +4450,6 @@
       "ParcelId": [
         10011
       ],
-      "ParcelDevName": [
-        "Shun"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -4716,7 +4457,6 @@
     {
       "Id": 20010,
       "Type": 1,
-      "DevName": "Tsurugi",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Tsurugi",
       "ConsumeParcelType": [
         "Item"
@@ -4751,9 +4491,6 @@
       "ParcelId": [
         10013
       ],
-      "ParcelDevName": [
-        "Tsurugi"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -4761,7 +4498,6 @@
     {
       "Id": 20011,
       "Type": 1,
-      "DevName": "Akane",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Akane",
       "ConsumeParcelType": [
         "Item"
@@ -4796,9 +4532,6 @@
       "ParcelId": [
         13000
       ],
-      "ParcelDevName": [
-        "Akane"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -4806,7 +4539,6 @@
     {
       "Id": 20012,
       "Type": 1,
-      "DevName": "Akari",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Akari",
       "ConsumeParcelType": [
         "Item"
@@ -4841,9 +4573,6 @@
       "ParcelId": [
         13002
       ],
-      "ParcelDevName": [
-        "Akari"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -4851,7 +4580,6 @@
     {
       "Id": 20013,
       "Type": 1,
-      "DevName": "Hasumi",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Hasumi",
       "ConsumeParcelType": [
         "Item"
@@ -4886,9 +4614,6 @@
       "ParcelId": [
         13003
       ],
-      "ParcelDevName": [
-        "Hasumi"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -4896,7 +4621,6 @@
     {
       "Id": 20014,
       "Type": 1,
-      "DevName": "Izumi",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Izumi",
       "ConsumeParcelType": [
         "Item"
@@ -4931,9 +4655,6 @@
       "ParcelId": [
         10009
       ],
-      "ParcelDevName": [
-        "Izumi"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -4941,7 +4662,6 @@
     {
       "Id": 20015,
       "Type": 1,
-      "DevName": "Kayoko",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Kayoko",
       "ConsumeParcelType": [
         "Item"
@@ -4976,9 +4696,6 @@
       "ParcelId": [
         13005
       ],
-      "ParcelDevName": [
-        "Kayoko"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -4986,7 +4703,6 @@
     {
       "Id": 20016,
       "Type": 1,
-      "DevName": "Mutsuki",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Mutsuki",
       "ConsumeParcelType": [
         "Item"
@@ -5021,9 +4737,6 @@
       "ParcelId": [
         13006
       ],
-      "ParcelDevName": [
-        "Mutsuki"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -5031,7 +4744,6 @@
     {
       "Id": 20017,
       "Type": 1,
-      "DevName": "Zunko",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Zunko",
       "ConsumeParcelType": [
         "Item"
@@ -5066,9 +4778,6 @@
       "ParcelId": [
         13007
       ],
-      "ParcelDevName": [
-        "Zunko"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -5076,7 +4785,6 @@
     {
       "Id": 20018,
       "Type": 1,
-      "DevName": "Serika",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Serika",
       "ConsumeParcelType": [
         "Item"
@@ -5111,9 +4819,6 @@
       "ParcelId": [
         13008
       ],
-      "ParcelDevName": [
-        "Serika"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -5121,7 +4826,6 @@
     {
       "Id": 20019,
       "Type": 1,
-      "DevName": "Tsubaki",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Tsubaki",
       "ConsumeParcelType": [
         "Item"
@@ -5156,9 +4860,6 @@
       "ParcelId": [
         13009
       ],
-      "ParcelDevName": [
-        "Tsubaki"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -5166,7 +4867,6 @@
     {
       "Id": 20020,
       "Type": 1,
-      "DevName": "Yuuka",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Yuuka",
       "ConsumeParcelType": [
         "Item"
@@ -5201,9 +4901,6 @@
       "ParcelId": [
         13010
       ],
-      "ParcelDevName": [
-        "Yuuka"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -5211,7 +4908,6 @@
     {
       "Id": 20021,
       "Type": 1,
-      "DevName": "Haruka",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Haruka",
       "ConsumeParcelType": [
         "Item"
@@ -5246,9 +4942,6 @@
       "ParcelId": [
         16000
       ],
-      "ParcelDevName": [
-        "Haruka"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -5256,7 +4949,6 @@
     {
       "Id": 20022,
       "Type": 1,
-      "DevName": "Asuna",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Asuna",
       "ConsumeParcelType": [
         "Item"
@@ -5291,9 +4983,6 @@
       "ParcelId": [
         16001
       ],
-      "ParcelDevName": [
-        "Asuna"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -5301,7 +4990,6 @@
     {
       "Id": 20023,
       "Type": 1,
-      "DevName": "Kotori",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Kotori",
       "ConsumeParcelType": [
         "Item"
@@ -5336,9 +5024,6 @@
       "ParcelId": [
         16002
       ],
-      "ParcelDevName": [
-        "Kotori"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -5346,7 +5031,6 @@
     {
       "Id": 20024,
       "Type": 1,
-      "DevName": "Suzumi",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Suzumi",
       "ConsumeParcelType": [
         "Item"
@@ -5381,9 +5065,6 @@
       "ParcelId": [
         16003
       ],
-      "ParcelDevName": [
-        "Suzumi"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -5391,7 +5072,6 @@
     {
       "Id": 20025,
       "Type": 1,
-      "DevName": "Pina",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Pina",
       "ConsumeParcelType": [
         "Item"
@@ -5426,9 +5106,6 @@
       "ParcelId": [
         16004
       ],
-      "ParcelDevName": [
-        "Pina"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -5436,7 +5113,6 @@
     {
       "Id": 20026,
       "Type": 1,
-      "DevName": "karin",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Karin",
       "ConsumeParcelType": [
         "Item"
@@ -5471,9 +5147,6 @@
       "ParcelId": [
         20001
       ],
-      "ParcelDevName": [
-        "karin"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -5481,7 +5154,6 @@
     {
       "Id": 20027,
       "Type": 1,
-      "DevName": "Saya",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Saya",
       "ConsumeParcelType": [
         "Item"
@@ -5516,9 +5188,6 @@
       "ParcelId": [
         20002
       ],
-      "ParcelDevName": [
-        "Saya"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -5526,7 +5195,6 @@
     {
       "Id": 20028,
       "Type": 1,
-      "DevName": "Airi",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Airi",
       "ConsumeParcelType": [
         "Item"
@@ -5561,9 +5229,6 @@
       "ParcelId": [
         23000
       ],
-      "ParcelDevName": [
-        "Airi"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -5571,7 +5236,6 @@
     {
       "Id": 20029,
       "Type": 1,
-      "DevName": "Fuuka",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Fuuka",
       "ConsumeParcelType": [
         "Item"
@@ -5606,9 +5270,6 @@
       "ParcelId": [
         23001
       ],
-      "ParcelDevName": [
-        "Fuuka"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -5616,7 +5277,6 @@
     {
       "Id": 20030,
       "Type": 1,
-      "DevName": "Hare",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Hare",
       "ConsumeParcelType": [
         "Item"
@@ -5651,9 +5311,6 @@
       "ParcelId": [
         23003
       ],
-      "ParcelDevName": [
-        "Hare"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -5661,7 +5318,6 @@
     {
       "Id": 20031,
       "Type": 1,
-      "DevName": "Utaha",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Utaha",
       "ConsumeParcelType": [
         "Item"
@@ -5696,9 +5352,6 @@
       "ParcelId": [
         23004
       ],
-      "ParcelDevName": [
-        "Utaha"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -5706,7 +5359,6 @@
     {
       "Id": 20032,
       "Type": 1,
-      "DevName": "Chinatsu",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Chinatsu",
       "ConsumeParcelType": [
         "Item"
@@ -5741,9 +5393,6 @@
       "ParcelId": [
         26000
       ],
-      "ParcelDevName": [
-        "Chinatsu"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -5751,7 +5400,6 @@
     {
       "Id": 20033,
       "Type": 1,
-      "DevName": "Kotama",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Kotama",
       "ConsumeParcelType": [
         "Item"
@@ -5786,9 +5434,6 @@
       "ParcelId": [
         26001
       ],
-      "ParcelDevName": [
-        "Kotama"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -5796,7 +5441,6 @@
     {
       "Id": 20034,
       "Type": 1,
-      "DevName": "Juri",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Juri",
       "ConsumeParcelType": [
         "Item"
@@ -5831,9 +5475,6 @@
       "ParcelId": [
         26002
       ],
-      "ParcelDevName": [
-        "Juri"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -5841,7 +5482,6 @@
     {
       "Id": 20035,
       "Type": 1,
-      "DevName": "Serina",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Serina",
       "ConsumeParcelType": [
         "Item"
@@ -5876,9 +5516,6 @@
       "ParcelId": [
         26003
       ],
-      "ParcelDevName": [
-        "Serina"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -5886,7 +5523,6 @@
     {
       "Id": 20036,
       "Type": 1,
-      "DevName": "Shimiko",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Shimiko",
       "ConsumeParcelType": [
         "Item"
@@ -5921,9 +5557,6 @@
       "ParcelId": [
         26004
       ],
-      "ParcelDevName": [
-        "Shimiko"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -5931,7 +5564,6 @@
     {
       "Id": 20037,
       "Type": 1,
-      "DevName": "Yoshimi",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Yoshimi",
       "ConsumeParcelType": [
         "Item"
@@ -5966,9 +5598,6 @@
       "ParcelId": [
         26005
       ],
-      "ParcelDevName": [
-        "Yoshimi"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -5976,7 +5605,6 @@
     {
       "Id": 20038,
       "Type": 1,
-      "DevName": "Sumire",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Sumire",
       "ConsumeParcelType": [
         "Item"
@@ -6011,9 +5639,6 @@
       "ParcelId": [
         10012
       ],
-      "ParcelDevName": [
-        "Sumire"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -6021,7 +5646,6 @@
     {
       "Id": 20039,
       "Type": 1,
-      "DevName": "Hibiki",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Hibiki",
       "ConsumeParcelType": [
         "Item"
@@ -6056,9 +5680,6 @@
       "ParcelId": [
         20000
       ],
-      "ParcelDevName": [
-        "Hibiki"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -6066,7 +5687,6 @@
     {
       "Id": 20040,
       "Type": 1,
-      "DevName": "Iori",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Iori",
       "ConsumeParcelType": [
         "Item"
@@ -6101,9 +5721,6 @@
       "ParcelId": [
         10006
       ],
-      "ParcelDevName": [
-        "Iori"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -6111,7 +5728,6 @@
     {
       "Id": 20041,
       "Type": 1,
-      "DevName": "Maki",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Maki",
       "ConsumeParcelType": [
         "Item"
@@ -6146,9 +5762,6 @@
       "ParcelId": [
         10007
       ],
-      "ParcelDevName": [
-        "Maki"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -6156,7 +5769,6 @@
     {
       "Id": 20042,
       "Type": 1,
-      "DevName": "Chise",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Chise",
       "ConsumeParcelType": [
         "Item"
@@ -6191,9 +5803,6 @@
       "ParcelId": [
         13001
       ],
-      "ParcelDevName": [
-        "Chise"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -6201,7 +5810,6 @@
     {
       "Id": 20043,
       "Type": 1,
-      "DevName": "Ayane",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Ayane",
       "ConsumeParcelType": [
         "Item"
@@ -6236,9 +5844,6 @@
       "ParcelId": [
         23005
       ],
-      "ParcelDevName": [
-        "Ayane"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -6246,7 +5851,6 @@
     {
       "Id": 20044,
       "Type": 1,
-      "DevName": "Hanae",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Hanae",
       "ConsumeParcelType": [
         "Item"
@@ -6281,9 +5885,6 @@
       "ParcelId": [
         23002
       ],
-      "ParcelDevName": [
-        "Hanae"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -6291,7 +5892,6 @@
     {
       "Id": 20045,
       "Type": 1,
-      "DevName": "mashiro",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Mashiro",
       "ConsumeParcelType": [
         "Item"
@@ -6326,9 +5926,6 @@
       "ParcelId": [
         20003
       ],
-      "ParcelDevName": [
-        "mashiro"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -6336,7 +5933,6 @@
     {
       "Id": 20046,
       "Type": 1,
-      "DevName": "Izuna",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Izuna",
       "ConsumeParcelType": [
         "Item"
@@ -6371,9 +5967,6 @@
       "ParcelId": [
         10014
       ],
-      "ParcelDevName": [
-        "Izuna"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -6381,7 +5974,6 @@
     {
       "Id": 20047,
       "Type": 1,
-      "DevName": "Shizuko",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Shizuko",
       "ConsumeParcelType": [
         "Item"
@@ -6416,8 +6008,128 @@
       "ParcelId": [
         23006
       ],
-      "ParcelDevName": [
-        "Shizuko"
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 20048,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Aris",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        23
+      ],
+      "ConsumeParcelAmount": [
+        1
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "ConsumeExtraAmount": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        10015
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 20049,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Midori",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        23
+      ],
+      "ConsumeParcelAmount": [
+        1
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "ConsumeExtraAmount": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        10016
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 20050,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Momoi",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        23
+      ],
+      "ConsumeParcelAmount": [
+        1
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "ConsumeExtraAmount": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        13011
       ],
       "ParcelAmount": [
         1
@@ -6426,7 +6138,6 @@
     {
       "Id": 30000,
       "Type": 2,
-      "DevName": "시즌1 1차 일반 학생 가챠 단차",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -6448,9 +6159,6 @@
       ],
       "ParcelId": [
         20
-      ],
-      "ParcelDevName": [
-        "레거시 시즌용 더미 학생모집(스즈미)"
       ],
       "ParcelAmount": [
         1
@@ -6459,7 +6167,6 @@
     {
       "Id": 30001,
       "Type": 2,
-      "DevName": "시즌1 1차 일반 학생 가챠 연차",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -6481,9 +6188,6 @@
       ],
       "ParcelId": [
         20
-      ],
-      "ParcelDevName": [
-        "레거시 시즌용 더미 학생모집(스즈미)"
       ],
       "ParcelAmount": [
         1
@@ -6492,7 +6196,6 @@
     {
       "Id": 30002,
       "Type": 2,
-      "DevName": "시즌1 2차 일반 학생 가챠 단차",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -6514,9 +6217,6 @@
       ],
       "ParcelId": [
         20
-      ],
-      "ParcelDevName": [
-        "레거시 시즌용 더미 학생모집(스즈미)"
       ],
       "ParcelAmount": [
         1
@@ -6525,7 +6225,6 @@
     {
       "Id": 30003,
       "Type": 2,
-      "DevName": "시즌1 2차 일반 학생 가챠 연차",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -6548,9 +6247,6 @@
       "ParcelId": [
         20
       ],
-      "ParcelDevName": [
-        "레거시 시즌용 더미 학생모집(스즈미)"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -6558,7 +6254,6 @@
     {
       "Id": 30010,
       "Type": 2,
-      "DevName": "시즌2 1차 일반 학생 가챠 단차",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -6576,26 +6271,18 @@
       "ConsumeExtraAmount": [],
       "State": 1,
       "ParcelType": [
-        "Item",
         "GachaGroup"
       ],
       "ParcelId": [
-        70002,
-        50
-      ],
-      "ParcelDevName": [
-        "RecruitCoin ",
-        "student_gacha"
+        20
       ],
       "ParcelAmount": [
-        1,
         1
       ]
     },
     {
       "Id": 30011,
       "Type": 2,
-      "DevName": "시즌2 1차 일반 학생 가챠 연차",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -6613,30 +6300,134 @@
       "ConsumeExtraAmount": [],
       "State": 1,
       "ParcelType": [
-        "Item",
-        "GachaGroup",
         "GachaGroup"
       ],
       "ParcelId": [
-        70002,
-        50,
-        59
-      ],
-      "ParcelDevName": [
-        "RecruitCoin ",
-        "student_gacha",
-        "student_gacha"
+        20
       ],
       "ParcelAmount": [
-        10,
-        9,
         1
       ]
     },
     {
       "Id": 30012,
       "Type": 2,
-      "DevName": "시즌2 2차 일반 학생 가챠 단차",
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        120
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        20
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 30013,
+      "Type": 2,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        1200
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        20
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 30014,
+      "Type": 2,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        120
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        20
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 30015,
+      "Type": 2,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        1200
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        20
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 30020,
+      "Type": 2,
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -6658,12 +6449,8 @@
         "GachaGroup"
       ],
       "ParcelId": [
-        70003,
-        60
-      ],
-      "ParcelDevName": [
-        "RecruitCoin ",
-        "student_gacha"
+        70005,
+        50
       ],
       "ParcelAmount": [
         1,
@@ -6671,9 +6458,8 @@
       ]
     },
     {
-      "Id": 30013,
+      "Id": 30021,
       "Type": 2,
-      "DevName": "시즌2 2차 일반 학생 가챠 연차",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -6696,14 +6482,9 @@
         "GachaGroup"
       ],
       "ParcelId": [
-        70003,
-        60,
-        69
-      ],
-      "ParcelDevName": [
-        "RecruitCoin ",
-        "student_gacha",
-        "student_gacha"
+        70005,
+        50,
+        59
       ],
       "ParcelAmount": [
         10,
@@ -6712,9 +6493,8 @@
       ]
     },
     {
-      "Id": 30014,
+      "Id": 30022,
       "Type": 2,
-      "DevName": "시즌2 3차 일반 학생 가챠 단차",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -6736,12 +6516,8 @@
         "GachaGroup"
       ],
       "ParcelId": [
-        70004,
-        70
-      ],
-      "ParcelDevName": [
-        "RecruitCoin ",
-        "student_gacha"
+        70006,
+        60
       ],
       "ParcelAmount": [
         1,
@@ -6749,9 +6525,8 @@
       ]
     },
     {
-      "Id": 30015,
+      "Id": 30023,
       "Type": 2,
-      "DevName": "시즌2 3차 일반 학생 가챠 연차",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -6774,14 +6549,76 @@
         "GachaGroup"
       ],
       "ParcelId": [
-        70004,
+        70006,
+        60,
+        69
+      ],
+      "ParcelAmount": [
+        10,
+        9,
+        1
+      ]
+    },
+    {
+      "Id": 30024,
+      "Type": 2,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        120
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item",
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        70007,
+        70
+      ],
+      "ParcelAmount": [
+        1,
+        1
+      ]
+    },
+    {
+      "Id": 30025,
+      "Type": 2,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        1200
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item",
+        "GachaGroup",
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        70007,
         70,
         79
-      ],
-      "ParcelDevName": [
-        "RecruitCoin ",
-        "student_gacha",
-        "student_gacha"
       ],
       "ParcelAmount": [
         10,
@@ -6792,7 +6629,6 @@
     {
       "Id": 35000,
       "Type": 2,
-      "DevName": "시즌1 1차 픽업 가챠 통상 단차",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -6814,9 +6650,6 @@
       ],
       "ParcelId": [
         20
-      ],
-      "ParcelDevName": [
-        "레거시 시즌용 더미 학생모집(스즈미)"
       ],
       "ParcelAmount": [
         1
@@ -6825,7 +6658,6 @@
     {
       "Id": 35001,
       "Type": 2,
-      "DevName": "시즌1 1차 픽업 가챠 통상 연차",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -6847,9 +6679,6 @@
       ],
       "ParcelId": [
         20
-      ],
-      "ParcelDevName": [
-        "레거시 시즌용 더미 학생모집(스즈미)"
       ],
       "ParcelAmount": [
         1
@@ -6858,7 +6687,6 @@
     {
       "Id": 35002,
       "Type": 2,
-      "DevName": "시즌1 2차 픽업 가챠 통상 단차",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -6880,9 +6708,6 @@
       ],
       "ParcelId": [
         20
-      ],
-      "ParcelDevName": [
-        "레거시 시즌용 더미 학생모집(스즈미)"
       ],
       "ParcelAmount": [
         1
@@ -6891,7 +6716,6 @@
     {
       "Id": 35003,
       "Type": 2,
-      "DevName": "시즌1 2차 픽업 가챠 통상 연차",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -6914,9 +6738,6 @@
       "ParcelId": [
         20
       ],
-      "ParcelDevName": [
-        "레거시 시즌용 더미 학생모집(스즈미)"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -6924,7 +6745,6 @@
     {
       "Id": 35010,
       "Type": 2,
-      "DevName": "시즌2 1차 픽업 가챠 통상 단차",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -6942,26 +6762,18 @@
       "ConsumeExtraAmount": [],
       "State": 1,
       "ParcelType": [
-        "Item",
         "GachaGroup"
       ],
       "ParcelId": [
-        70002,
-        100010
-      ],
-      "ParcelDevName": [
-        "RecruitCoin ",
-        "student_gacha"
+        20
       ],
       "ParcelAmount": [
-        1,
         1
       ]
     },
     {
       "Id": 35011,
       "Type": 2,
-      "DevName": "시즌2 1차 픽업 가챠 통상 연차",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -6979,30 +6791,134 @@
       "ConsumeExtraAmount": [],
       "State": 1,
       "ParcelType": [
-        "Item",
-        "GachaGroup",
         "GachaGroup"
       ],
       "ParcelId": [
-        70002,
-        100010,
-        100019
-      ],
-      "ParcelDevName": [
-        "RecruitCoin ",
-        "student_gacha",
-        "student_gacha"
+        20
       ],
       "ParcelAmount": [
-        10,
-        9,
         1
       ]
     },
     {
       "Id": 35012,
       "Type": 2,
-      "DevName": "시즌2 2차 픽업 가챠 통상 단차",
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        120
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        20
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 35013,
+      "Type": 2,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        1200
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        20
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 35014,
+      "Type": 2,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        120
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        20
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 35015,
+      "Type": 2,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        1200
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        20
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 35020,
+      "Type": 2,
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -7024,12 +6940,8 @@
         "GachaGroup"
       ],
       "ParcelId": [
-        70003,
-        100030
-      ],
-      "ParcelDevName": [
-        "RecruitCoin ",
-        "student_gacha"
+        70005,
+        100010
       ],
       "ParcelAmount": [
         1,
@@ -7037,9 +6949,8 @@
       ]
     },
     {
-      "Id": 35013,
+      "Id": 35021,
       "Type": 2,
-      "DevName": "시즌2 2차 픽업 가챠 통상 연차",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -7062,14 +6973,9 @@
         "GachaGroup"
       ],
       "ParcelId": [
-        70003,
-        100030,
-        100039
-      ],
-      "ParcelDevName": [
-        "RecruitCoin ",
-        "student_gacha",
-        "student_gacha"
+        70005,
+        100010,
+        100019
       ],
       "ParcelAmount": [
         10,
@@ -7078,9 +6984,8 @@
       ]
     },
     {
-      "Id": 35014,
+      "Id": 35022,
       "Type": 2,
-      "DevName": "시즌2 3차 픽업 가챠 통상 단차",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -7102,12 +7007,8 @@
         "GachaGroup"
       ],
       "ParcelId": [
-        70004,
-        100050
-      ],
-      "ParcelDevName": [
-        "RecruitCoin ",
-        "student_gacha"
+        70006,
+        100030
       ],
       "ParcelAmount": [
         1,
@@ -7115,9 +7016,8 @@
       ]
     },
     {
-      "Id": 35015,
+      "Id": 35023,
       "Type": 2,
-      "DevName": "시즌2 3차 픽업 가챠 통상 연차",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -7140,14 +7040,76 @@
         "GachaGroup"
       ],
       "ParcelId": [
-        70004,
+        70006,
+        100030,
+        100039
+      ],
+      "ParcelAmount": [
+        10,
+        9,
+        1
+      ]
+    },
+    {
+      "Id": 35024,
+      "Type": 2,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        120
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item",
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        70007,
+        100050
+      ],
+      "ParcelAmount": [
+        1,
+        1
+      ]
+    },
+    {
+      "Id": 35025,
+      "Type": 2,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        1200
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item",
+        "GachaGroup",
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        70007,
         100050,
         100059
-      ],
-      "ParcelDevName": [
-        "RecruitCoin ",
-        "student_gacha",
-        "student_gacha"
       ],
       "ParcelAmount": [
         10,
@@ -7158,7 +7120,6 @@
     {
       "Id": 40000,
       "Type": 1,
-      "DevName": "이벤트_상점A_하급 활동 보고서",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_0",
       "ConsumeParcelType": [
         "Item"
@@ -7181,9 +7142,6 @@
       "ParcelId": [
         10
       ],
-      "ParcelDevName": [
-        "ExpItem_0"
-      ],
       "ParcelAmount": [
         10
       ]
@@ -7191,7 +7149,6 @@
     {
       "Id": 40001,
       "Type": 1,
-      "DevName": "이벤트_상점A_일반 활동 보고서",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_1",
       "ConsumeParcelType": [
         "Item"
@@ -7214,9 +7171,6 @@
       "ParcelId": [
         11
       ],
-      "ParcelDevName": [
-        "ExpItem_1"
-      ],
       "ParcelAmount": [
         5
       ]
@@ -7224,7 +7178,6 @@
     {
       "Id": 40002,
       "Type": 1,
-      "DevName": "이벤트_상점A_상급 활동 보고서",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_2",
       "ConsumeParcelType": [
         "Item"
@@ -7247,9 +7200,6 @@
       "ParcelId": [
         12
       ],
-      "ParcelDevName": [
-        "ExpItem_2"
-      ],
       "ParcelAmount": [
         3
       ]
@@ -7257,7 +7207,6 @@
     {
       "Id": 40003,
       "Type": 1,
-      "DevName": "이벤트_상점A_최상급 활동 보고서",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_3",
       "ConsumeParcelType": [
         "Item"
@@ -7280,9 +7229,6 @@
       "ParcelId": [
         13
       ],
-      "ParcelDevName": [
-        "ExpItem_3"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -7290,7 +7236,6 @@
     {
       "Id": 40004,
       "Type": 1,
-      "DevName": "이벤트_상점A_하급 강화석",
       "IconPath": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_0",
       "ConsumeParcelType": [
         "Item"
@@ -7313,9 +7258,6 @@
       "ParcelId": [
         1
       ],
-      "ParcelDevName": [
-        "Equipment_0"
-      ],
       "ParcelAmount": [
         5
       ]
@@ -7323,7 +7265,6 @@
     {
       "Id": 40005,
       "Type": 1,
-      "DevName": "이벤트_상점A_일반 강화석",
       "IconPath": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_1",
       "ConsumeParcelType": [
         "Item"
@@ -7346,9 +7287,6 @@
       "ParcelId": [
         2
       ],
-      "ParcelDevName": [
-        "Equipment_1"
-      ],
       "ParcelAmount": [
         5
       ]
@@ -7356,7 +7294,6 @@
     {
       "Id": 40006,
       "Type": 1,
-      "DevName": "이벤트_상점A_상급 강화석",
       "IconPath": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_2",
       "ConsumeParcelType": [
         "Item"
@@ -7379,9 +7316,6 @@
       "ParcelId": [
         3
       ],
-      "ParcelDevName": [
-        "Equipment_2"
-      ],
       "ParcelAmount": [
         3
       ]
@@ -7389,7 +7323,6 @@
     {
       "Id": 40007,
       "Type": 1,
-      "DevName": "이벤트_상점A_최상급 강화석",
       "IconPath": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_3",
       "ConsumeParcelType": [
         "Item"
@@ -7412,9 +7345,6 @@
       "ParcelId": [
         4
       ],
-      "ParcelDevName": [
-        "Equipment_3"
-      ],
       "ParcelAmount": [
         2
       ]
@@ -7422,7 +7352,6 @@
     {
       "Id": 40008,
       "Type": 1,
-      "DevName": "이벤트_상점A_이벤트 토큰 B",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_1",
       "ConsumeParcelType": [
         "Item"
@@ -7445,9 +7374,6 @@
       "ParcelId": [
         80002
       ],
-      "ParcelDevName": [
-        "이벤트 토큰 - 너구리 오코노미야키"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -7455,7 +7381,6 @@
     {
       "Id": 40009,
       "Type": 1,
-      "DevName": "이벤트_상점B_피나의 엘레프",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Pina",
       "ConsumeParcelType": [
         "Item"
@@ -7478,9 +7403,6 @@
       "ParcelId": [
         16004
       ],
-      "ParcelDevName": [
-        "Pina"
-      ],
       "ParcelAmount": [
         5
       ]
@@ -7488,7 +7410,6 @@
     {
       "Id": 40010,
       "Type": 1,
-      "DevName": "이벤트_상점B_츠바키의 엘레프",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Tsubaki",
       "ConsumeParcelType": [
         "Item"
@@ -7511,9 +7432,6 @@
       "ParcelId": [
         13009
       ],
-      "ParcelDevName": [
-        "Tsubaki"
-      ],
       "ParcelAmount": [
         5
       ]
@@ -7521,7 +7439,6 @@
     {
       "Id": 40011,
       "Type": 1,
-      "DevName": "이벤트_상점B_하급 스킬 책 - 백귀야행",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Hyakkiyako_0",
       "ConsumeParcelType": [
         "Item"
@@ -7544,9 +7461,6 @@
       "ParcelId": [
         4000
       ],
-      "ParcelDevName": [
-        "SkillBook_Hyakkiyako_0"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -7554,7 +7468,6 @@
     {
       "Id": 40012,
       "Type": 1,
-      "DevName": "이벤트_상점B_일반 스킬 책 - 백귀야행",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Hyakkiyako_1",
       "ConsumeParcelType": [
         "Item"
@@ -7577,9 +7490,6 @@
       "ParcelId": [
         4001
       ],
-      "ParcelDevName": [
-        "SkillBook_Hyakkiyako_1"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -7587,7 +7497,6 @@
     {
       "Id": 40013,
       "Type": 1,
-      "DevName": "이벤트_상점B_상급 스킬 책 - 백귀야행",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Hyakkiyako_2",
       "ConsumeParcelType": [
         "Item"
@@ -7610,9 +7519,6 @@
       "ParcelId": [
         4002
       ],
-      "ParcelDevName": [
-        "SkillBook_Hyakkiyako_2"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -7620,7 +7526,6 @@
     {
       "Id": 40014,
       "Type": 1,
-      "DevName": "이벤트_상점B_최상급 스킬 책 - 백귀야행",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Hyakkiyako_3",
       "ConsumeParcelType": [
         "Item"
@@ -7643,9 +7548,6 @@
       "ParcelId": [
         4003
       ],
-      "ParcelDevName": [
-        "SkillBook_Hyakkiyako_3"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -7653,7 +7555,6 @@
     {
       "Id": 40015,
       "Type": 1,
-      "DevName": "이벤트_상점B_하급 EX스킬 CD - 백귀야행",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Hyakkiyako_0",
       "ConsumeParcelType": [
         "Item"
@@ -7676,9 +7577,6 @@
       "ParcelId": [
         3000
       ],
-      "ParcelDevName": [
-        "ExSkill_Hyakkiyako_0"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -7686,7 +7584,6 @@
     {
       "Id": 40016,
       "Type": 1,
-      "DevName": "이벤트_상점B_일반 EX스킬 CD - 백귀야행",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Hyakkiyako_1",
       "ConsumeParcelType": [
         "Item"
@@ -7709,9 +7606,6 @@
       "ParcelId": [
         3001
       ],
-      "ParcelDevName": [
-        "ExSkill_Hyakkiyako_1"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -7719,7 +7613,6 @@
     {
       "Id": 40017,
       "Type": 1,
-      "DevName": "이벤트_상점B_상급 EX스킬 CD - 백귀야행",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Hyakkiyako_2",
       "ConsumeParcelType": [
         "Item"
@@ -7742,9 +7635,6 @@
       "ParcelId": [
         3002
       ],
-      "ParcelDevName": [
-        "ExSkill_Hyakkiyako_2"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -7752,7 +7642,6 @@
     {
       "Id": 40018,
       "Type": 1,
-      "DevName": "이벤트_상점B_최상급 EX스킬 CD - 백귀야행",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Hyakkiyako_3",
       "ConsumeParcelType": [
         "Item"
@@ -7775,9 +7664,6 @@
       "ParcelId": [
         3003
       ],
-      "ParcelDevName": [
-        "ExSkill_Hyakkiyako_3"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -7785,7 +7671,6 @@
     {
       "Id": 40019,
       "Type": 1,
-      "DevName": "이벤트_상점B_이벤트 토큰 C",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_2",
       "ConsumeParcelType": [
         "Item"
@@ -7808,9 +7693,6 @@
       "ParcelId": [
         80003
       ],
-      "ParcelDevName": [
-        "이벤트 토큰 - 벚꽃 찹쌀떡"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -7818,7 +7700,6 @@
     {
       "Id": 40020,
       "Type": 1,
-      "DevName": "이벤트_상점C_츠바키의 엘레프",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Tsubaki",
       "ConsumeParcelType": [
         "Item"
@@ -7841,9 +7722,6 @@
       "ParcelId": [
         13009
       ],
-      "ParcelDevName": [
-        "Tsubaki"
-      ],
       "ParcelAmount": [
         5
       ]
@@ -7851,7 +7729,6 @@
     {
       "Id": 40021,
       "Type": 1,
-      "DevName": "이벤트_상점C_피나의 엘레프",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Pina",
       "ConsumeParcelType": [
         "Item"
@@ -7874,9 +7751,6 @@
       "ParcelId": [
         16004
       ],
-      "ParcelDevName": [
-        "Pina"
-      ],
       "ParcelAmount": [
         5
       ]
@@ -7884,7 +7758,6 @@
     {
       "Id": 40022,
       "Type": 1,
-      "DevName": "이벤트_상점C_하급 공용 재료 - 만드라고라",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Mandragora_0",
       "ConsumeParcelType": [
         "Item"
@@ -7907,9 +7780,6 @@
       "ParcelId": [
         140
       ],
-      "ParcelDevName": [
-        "Material_Mandragora_0"
-      ],
       "ParcelAmount": [
         5
       ]
@@ -7917,7 +7787,6 @@
     {
       "Id": 40023,
       "Type": 1,
-      "DevName": "이벤트_상점C_중급 공용 재료 - 만드라고라",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Mandragora_1",
       "ConsumeParcelType": [
         "Item"
@@ -7940,9 +7809,6 @@
       "ParcelId": [
         141
       ],
-      "ParcelDevName": [
-        "Material_Mandragora_1"
-      ],
       "ParcelAmount": [
         2
       ]
@@ -7950,7 +7816,6 @@
     {
       "Id": 40024,
       "Type": 1,
-      "DevName": "이벤트_상점C_상급 공용 재료 - 만드라고라",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Mandragora_2",
       "ConsumeParcelType": [
         "Item"
@@ -7973,9 +7838,6 @@
       "ParcelId": [
         142
       ],
-      "ParcelDevName": [
-        "Material_Mandragora_2"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -7983,7 +7845,6 @@
     {
       "Id": 40025,
       "Type": 1,
-      "DevName": "이벤트_상점C_최상급 공용 재료 - 만드라고라",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Mandragora_3",
       "ConsumeParcelType": [
         "Item"
@@ -8006,9 +7867,6 @@
       "ParcelId": [
         143
       ],
-      "ParcelDevName": [
-        "Material_Mandragora_3"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -8016,7 +7874,6 @@
     {
       "Id": 40026,
       "Type": 1,
-      "DevName": "이벤트_상점C_하급 공용 재료 - 볼프세그",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Wolfsegg_0",
       "ConsumeParcelType": [
         "Item"
@@ -8039,9 +7896,6 @@
       "ParcelId": [
         120
       ],
-      "ParcelDevName": [
-        "Material_Wolfsegg_0"
-      ],
       "ParcelAmount": [
         5
       ]
@@ -8049,7 +7903,6 @@
     {
       "Id": 40027,
       "Type": 1,
-      "DevName": "이벤트_상점C_중급 공용 재료 - 볼프세그",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Wolfsegg_1",
       "ConsumeParcelType": [
         "Item"
@@ -8072,9 +7925,6 @@
       "ParcelId": [
         121
       ],
-      "ParcelDevName": [
-        "Material_Wolfsegg_1"
-      ],
       "ParcelAmount": [
         2
       ]
@@ -8082,7 +7932,6 @@
     {
       "Id": 40028,
       "Type": 1,
-      "DevName": "이벤트_상점C_상급 공용 재료 - 볼프세그",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Wolfsegg_2",
       "ConsumeParcelType": [
         "Item"
@@ -8105,9 +7954,6 @@
       "ParcelId": [
         122
       ],
-      "ParcelDevName": [
-        "Material_Wolfsegg_2"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -8115,7 +7961,6 @@
     {
       "Id": 40029,
       "Type": 1,
-      "DevName": "이벤트_상점C_최상급 공용 재료 - 볼프세그",
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Wolfsegg_3",
       "ConsumeParcelType": [
         "Item"
@@ -8138,9 +7983,6 @@
       "ParcelId": [
         123
       ],
-      "ParcelDevName": [
-        "Material_Wolfsegg_3"
-      ],
       "ParcelAmount": [
         1
       ]
@@ -8148,7 +7990,6 @@
     {
       "Id": 40030,
       "Type": 1,
-      "DevName": "이벤트_상점C_크레딧 500",
       "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
       "ConsumeParcelType": [
         "Item"
@@ -8171,9 +8012,6 @@
       "ParcelId": [
         1
       ],
-      "ParcelDevName": [
-        "Gold"
-      ],
       "ParcelAmount": [
         500
       ]
@@ -8181,7 +8019,6 @@
     {
       "Id": 100000,
       "Type": 1,
-      "DevName": "클랜 창설",
       "IconPath": null,
       "ConsumeParcelType": [
         "Currency"
@@ -8200,7 +8037,6 @@
       "State": 0,
       "ParcelType": [],
       "ParcelId": [],
-      "ParcelDevName": [],
       "ParcelAmount": []
     }
   ]
