@@ -194,7 +194,7 @@
     },
     {
       "Id": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "LocalizeEtcId": 3847961123,
       "CharacterId": 10016,
       "PrefabName": "LobbyMidori",
@@ -350,7 +350,7 @@
     },
     {
       "Id": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "LocalizeEtcId": 1009419400,
       "CharacterId": 13011,
       "PrefabName": "LobbyMomoi",

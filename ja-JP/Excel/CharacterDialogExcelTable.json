@@ -17432,7 +17432,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UITitle",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -17443,8 +17443,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "블루 아카이브!",
+      "LocalizeJP": "ブルーアーカイブ！",
       "VoiceClipsKr": [
         "Momoi_Title"
       ],
@@ -17454,7 +17454,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "CharacterGet",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -17465,8 +17465,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": "00",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "재미있는 이야기가!\n지금부터 시작될거야!",
+      "LocalizeJP": "これから、すっごく面白い物語が始まるよ！",
       "VoiceClipsKr": [
         "Momoi_Gachaget"
       ],
@@ -17476,7 +17476,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "Cafe",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -17487,8 +17487,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "게임~ 게임~\n게임이 하고 싶어~",
+      "LocalizeJP": "ゲーム～ゲーム～\nゲームがやりたい～",
       "VoiceClipsKr": [
         "Momoi_Cafe_monolog_1"
       ],
@@ -17498,7 +17498,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "Cafe",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -17509,8 +17509,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "어라? 이거 어렸을때\n봤던 그 시리즈인데?!",
+      "LocalizeJP": "あれ？これちっちゃ\nい時にやったあの\nシリーズじゃん！？",
       "VoiceClipsKr": [
         "Momoi_Cafe_monolog_2"
       ],
@@ -17520,7 +17520,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "Cafe",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -17531,8 +17531,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "으음. 아무래도 부원들\n간식비가 부족한데.\n아르바이트라도 할까.",
+      "LocalizeJP": "うーん、これじゃ部員たちの\nおやつ代が足りない。\nアルバイトでもしようかな。",
       "VoiceClipsKr": [
         "Momoi_Cafe_monolog_3"
       ],
@@ -17542,7 +17542,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "Cafe",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -17553,8 +17553,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "앗! 갑자기 근사한\n시나리오가 떠올랐어!",
+      "LocalizeJP": "あっ！\n唐突に良いシナリオの\nアイデアが浮かんだ！",
       "VoiceClipsKr": [
         "Momoi_Cafe_Act_1"
       ],
@@ -17564,7 +17564,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "Cafe",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -17575,8 +17575,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "좋았어!\n클리어다!!",
+      "LocalizeJP": "やった！\nクリア！！",
       "VoiceClipsKr": [
         "Momoi_Cafe_Act_2"
       ],
@@ -17586,7 +17586,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Enter",
       "Anniversary": "None",
@@ -17597,8 +17597,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": "03",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "어서와 선생님!\n빨리 임무를 시작하자!",
+      "LocalizeJP": "おかえり、先生！\n早く任務を始めよう！",
       "VoiceClipsKr": [
         "Momoi_LogIn_1"
       ],
@@ -17608,7 +17608,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Enter",
       "Anniversary": "None",
@@ -17619,8 +17619,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": "00",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "준비는 끝났어!\n가자 선생님! 퀘스트를\n클리어 하는거야!",
+      "LocalizeJP": "準備完了！行こう、先生！\n次のクエストをクリアしに！",
       "VoiceClipsKr": [
         "Momoi_LogIn_2"
       ],
@@ -17630,7 +17630,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -17641,8 +17641,8 @@
       "ActionName": null,
       "Duration": 5150,
       "AnimationName": "99",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "게임을 즐기는 사람과\n잘하는 사람은 달라.",
+      "LocalizeJP": "ゲームを楽しめる人とゲームが\n上手い人は別なことも多いよ。",
       "VoiceClipsKr": [
         "Momoi_Lobby_1"
       ],
@@ -17652,7 +17652,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -17663,14 +17663,14 @@
       "ActionName": null,
       "Duration": 3250,
       "AnimationName": "01",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "선생님은 어떤 사람이야?",
+      "LocalizeJP": "先生はどっち？",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -17681,8 +17681,8 @@
       "ActionName": "stiff",
       "Duration": 0,
       "AnimationName": "04",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "앗! 오늘 신작 게임\n발매하는 날인데",
+      "LocalizeJP": "あっ！今日新作の\nゲームの発売日だった！",
       "VoiceClipsKr": [
         "Momoi_Lobby_2"
       ],
@@ -17692,7 +17692,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -17703,8 +17703,8 @@
       "ActionName": null,
       "Duration": 6150,
       "AnimationName": "02",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "원래 오늘 레이드\n가기로 한 날인데!\n당번을 맡게 됐잖아!",
+      "LocalizeJP": "元々今日はレイドに\n行こうと思ってたのに！\n当番になっちゃうなんて……！",
       "VoiceClipsKr": [
         "Momoi_Lobby_3"
       ],
@@ -17714,7 +17714,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -17725,14 +17725,14 @@
       "ActionName": null,
       "Duration": 4000,
       "AnimationName": "01",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "… 뭐, 이것도 괜찮지만.",
+      "LocalizeJP": "……まあ、\nこっちも好きだからいいけど。",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -17743,8 +17743,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": "00",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "선생님! 임무 같은건\n나중에 해도 좋으니까\n일단 게임이나 하러 가자!",
+      "LocalizeJP": "先生！任務とかは後でいいから\nとりあえずゲームしに行こう！",
       "VoiceClipsKr": [
         "Momoi_Lobby_4"
       ],
@@ -17754,7 +17754,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -17765,8 +17765,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": "02",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "선생님은 좋겠다…….\n갖고 싶은 게임 있으면\n언제든 살 수 있고.",
+      "LocalizeJP": "先生はいいな……。\n欲しいゲームがあったら\nいつでも買えるんでしょ？",
       "VoiceClipsKr": [
         "Momoi_Lobby_5"
       ],
@@ -17776,7 +17776,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "UserBDay",
@@ -17787,8 +17787,8 @@
       "ActionName": "hophop",
       "Duration": 0,
       "AnimationName": "03",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "선생님! 생일 축하해!\n오늘 게임개발부랑\n맛있는거 먹으러 가자!",
+      "LocalizeJP": "先生！お誕生日おめでとう！\n今日はゲーム開発部の\nみんなと一緒に美味しい\nもの食べに行こう！",
       "VoiceClipsKr": [
         "Momoi_Season_Birthday_Player"
       ],
@@ -17798,7 +17798,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "StudentBDay",
@@ -17809,8 +17809,8 @@
       "ActionName": null,
       "Duration": 4550,
       "AnimationName": "00",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "선생님! 오늘은\n나와 미도리의 생일이야!",
+      "LocalizeJP": "先生！今日は私と\nミドリの誕生日なの！",
       "VoiceClipsKr": [
         "Momoi_Season_Birthday"
       ],
@@ -17820,7 +17820,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "StudentBDay",
@@ -17831,14 +17831,14 @@
       "ActionName": null,
       "Duration": 5300,
       "AnimationName": "03",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "같이 할 수 있는\n2인용 게임 사줘~",
+      "LocalizeJP": "一緒にできる2人用\nゲーム買って～。",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -17849,8 +17849,8 @@
       "ActionName": "greeting",
       "Duration": 0,
       "AnimationName": "03",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "해 피 뉴 이 어!\n올 한해도 즐겁게 게임하자!",
+      "LocalizeJP": "ハッピーニューイヤー！\n今年も楽しくゲームやろ！",
       "VoiceClipsKr": [
         "Momoi_Season_NewYear"
       ],
@@ -17860,7 +17860,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -17871,8 +17871,8 @@
       "ActionName": null,
       "Duration": 3700,
       "AnimationName": "99",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "크리스마스라……\n하아. ",
+      "LocalizeJP": "クリスマスか……\nうーん、",
       "VoiceClipsKr": [
         "Momoi_Season_Xmas"
       ],
@@ -17882,7 +17882,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -17893,14 +17893,14 @@
       "ActionName": null,
       "Duration": 8200,
       "AnimationName": "00",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "선생님이 빨간 옷 입고\n게임기 선물해주면\n최고의 성탄일텐데!",
+      "LocalizeJP": "先生が赤い服を\n着て、ゲーム機を\nプレゼントしてくれたら\n最高のクリスマスなのに！",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -17911,8 +17911,8 @@
       "ActionName": "hophop",
       "Duration": 0,
       "AnimationName": "03",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "와아! 할로윈이다!\n어쩐지 설레! 선생님!\n어서 사탕 사줘!",
+      "LocalizeJP": "わあ！ハロウィンだ！\nなんだかワクワクする！\n先生！早く飴ちょうだい！",
       "VoiceClipsKr": [
         "Momoi_Season_Halloween"
       ],
@@ -17922,7 +17922,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobbySpecial",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -17933,8 +17933,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "이거 봐봐! 선생님!\n스탬프, 다 채웠어!",
+      "LocalizeJP": "見て、先生！\nこっち側のスタンプ、\n全部集められたよ！",
       "VoiceClipsKr": [
         "Momoi_MemorialLobby_1_1"
       ],
@@ -17944,7 +17944,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobbySpecial",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -17955,8 +17955,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "엣-헴! 이걸로 퀘스트 클리어!",
+      "LocalizeJP": "これでクエストクリア、だね！\nやった！",
       "VoiceClipsKr": [
         "Momoi_MemorialLobby_1_2"
       ],
@@ -17966,7 +17966,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobbySpecial",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -17977,8 +17977,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "불가능해보일 것만\n같던 퀘스트였지만.",
+      "LocalizeJP": "最初はどうなるか\nと思ったけど……。",
       "VoiceClipsKr": [
         "Momoi_MemorialLobby_2_1"
       ],
@@ -17988,7 +17988,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobbySpecial",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -17999,8 +17999,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "응!\n역시 선생님과 나,\n환상의 콤비네!",
+      "LocalizeJP": "やっぱり先生と私、\n相性バッチリだね！",
       "VoiceClipsKr": [
         "Momoi_MemorialLobby_2_2"
       ],
@@ -18010,7 +18010,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobbySpecial",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18021,8 +18021,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "우와아앗! 선생님!",
+      "LocalizeJP": "って、うわぁっ！？\n先生！？",
       "VoiceClipsKr": [
         "Momoi_MemorialLobby_3_1"
       ],
@@ -18032,7 +18032,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobbySpecial",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18043,8 +18043,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "얼굴이 땀으로 범벅이네?!\n괜찮아?",
+      "LocalizeJP": "汗まみれじゃん！\n大丈夫！？",
       "VoiceClipsKr": [
         "Momoi_MemorialLobby_3_2"
       ],
@@ -18054,7 +18054,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobbySpecial",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18065,8 +18065,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "아하핫! 그래도 오늘-\n선생님 덕분에\n엄청 재미있었어!",
+      "LocalizeJP": "あはっ、大丈夫なら良かった。\n今日も先生のおかげで、\nすっごく楽しかったよ！",
       "VoiceClipsKr": [
         "Momoi_MemorialLobby_4"
       ],
@@ -18076,7 +18076,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobbySpecial",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18087,8 +18087,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "다음에 또 이런\n이벤트가 있다면…….",
+      "LocalizeJP": "もしまたこういう\nイベントがあったら、",
       "VoiceClipsKr": [
         "Momoi_MemorialLobby_5_1"
       ],
@@ -18098,7 +18098,7 @@
     },
     {
       "CharacterId": 13011,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobbySpecial",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18109,8 +18109,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "응, 그때 다시\n같이 참가하자!\n선생님!",
+      "LocalizeJP": "その時もまた、\n一緒に参加しようね！\n先生！",
       "VoiceClipsKr": [
         "Momoi_MemorialLobby_5_2"
       ],
@@ -18120,7 +18120,7 @@
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UITitle",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18131,8 +18131,8 @@
       "ActionName": null,
       "Duration": 3000,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "블루 아카이브.",
+      "LocalizeJP": "ブルーアーカイブ。",
       "VoiceClipsKr": [
         "Midori_Title"
       ],
@@ -18142,7 +18142,7 @@
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "CharacterGet",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18153,8 +18153,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": "00",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "최고의 플레이로 선생님을 도울게요.",
+      "LocalizeJP": "最高のプレイで先生をお手伝いしますね。",
       "VoiceClipsKr": [
         "Midori_Gachaget"
       ],
@@ -18164,7 +18164,7 @@
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "Cafe",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18175,8 +18175,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "흐음……\n이 게임, 재미있네.",
+      "LocalizeJP": "へえ……\nこのゲーム、\n面白い。",
       "VoiceClipsKr": [
         "Midori_Cafe_monolog_1"
       ],
@@ -18186,7 +18186,7 @@
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "Cafe",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18197,8 +18197,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "으음. 이 게임\n후속작이 나왔다는데…….\n좋아. 아르바이트 하자.",
+      "LocalizeJP": "うーん、あのゲームの\n続編が出たらしいけど……\nよし！アルバイトしよう！",
       "VoiceClipsKr": [
         "Midori_Cafe_monolog_2"
       ],
@@ -18208,7 +18208,7 @@
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "Cafe",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18219,8 +18219,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "좀 더 어른이 되면…….\n머리를 길러볼까.",
+      "LocalizeJP": "もう少し大人に\nなったら……\n髪を伸ばして\nみようかな。",
       "VoiceClipsKr": [
         "Midori_Cafe_monolog_3"
       ],
@@ -18230,7 +18230,7 @@
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "Cafe",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18241,8 +18241,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "제발……나와라……\n나와라……나왔다!",
+      "LocalizeJP": "お願いだから\n……出て……\n出て……出た！",
       "VoiceClipsKr": [
         "Midori_Cafe_Act_1"
       ],
@@ -18252,7 +18252,7 @@
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "Cafe",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18263,8 +18263,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "좋아. \n이대로만 가면……\n클리어!",
+      "LocalizeJP": "よし。\nこのままいけば\n……クリア！",
       "VoiceClipsKr": [
         "Midori_Cafe_Act_2"
       ],
@@ -18274,7 +18274,7 @@
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Enter",
       "Anniversary": "None",
@@ -18285,8 +18285,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": "01",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "어서오세요 선생님.\n오늘도 잘 부탁 드려요.",
+      "LocalizeJP": "ようこそ、先生。\n今日もよろしくお願いします。",
       "VoiceClipsKr": [
         "Midori_LogIn_1"
       ],
@@ -18296,7 +18296,7 @@
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Enter",
       "Anniversary": "None",
@@ -18307,8 +18307,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": "02",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "최선을 다할게요.\n선생님과 저의 오늘이\n의미 있도록.",
+      "LocalizeJP": "ベストを尽くします。\n先生と私の今日が、\n意味のある一日になるように。",
       "VoiceClipsKr": [
         "Midori_LogIn_2"
       ],
@@ -18318,7 +18318,7 @@
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18329,8 +18329,8 @@
       "ActionName": null,
       "Duration": 3750,
       "AnimationName": "99",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "게임개발부 애들이 걱정이네요.",
+      "LocalizeJP": "ゲーム開発部の\n子たちが心配ですね。",
       "VoiceClipsKr": [
         "Midori_Lobby_1"
       ],
@@ -18340,7 +18340,7 @@
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18351,14 +18351,14 @@
       "ActionName": null,
       "Duration": 5200,
       "AnimationName": "01",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "저야 선생님이랑\n있어서……좋지만.",
+      "LocalizeJP": "私は先生と一緒に\nいるから……いいですけど。",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18369,8 +18369,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": "02",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "앗, 선생님도\n저희 게임 해보셨죠?\n어떤 점이 가장\n재미있으셨나요?",
+      "LocalizeJP": "あっ、先生もうちの\nゲームやってみたんですよね？\nどこが一番面白かったですか？",
       "VoiceClipsKr": [
         "Midori_Lobby_2"
       ],
@@ -18380,7 +18380,7 @@
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18391,8 +18391,8 @@
       "ActionName": null,
       "Duration": 8750,
       "AnimationName": "07",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "더 아름다운 것들을\n그리고 싶어요. 그러기 위해선….\n많은 경험이 필요해요.",
+      "LocalizeJP": "もっと美しいものを\n描きたいです。そのためには……\nたくさんの経験が必要です。",
       "VoiceClipsKr": [
         "Midori_Lobby_3"
       ],
@@ -18402,7 +18402,7 @@
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18413,14 +18413,14 @@
       "ActionName": null,
       "Duration": 4700,
       "AnimationName": "01",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "선생님이 도와주실거죠?",
+      "LocalizeJP": "先生も、手伝ってくれますか？",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18431,8 +18431,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": "03",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "저도 그림을 그릴때\n'모에' 뿐만 아니라\n'사랑스러움'을 담고 싶어요.",
+      "LocalizeJP": "私は絵を描く時、\n「萌え」だけではなく\n「愛おしさ」も込めたいです。",
       "VoiceClipsKr": [
         "Midori_Lobby_4"
       ],
@@ -18442,7 +18442,7 @@
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18453,8 +18453,8 @@
       "ActionName": null,
       "Duration": 5850,
       "AnimationName": "04",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "으음. 이번 달도\n용돈이 간당간당 한데.",
+      "LocalizeJP": "うーん。今月もお小遣いが\nギリギリ……。",
       "VoiceClipsKr": [
         "Midori_Lobby_5"
       ],
@@ -18464,7 +18464,7 @@
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18475,14 +18475,14 @@
       "ActionName": "stiff",
       "Duration": 7000,
       "AnimationName": "02",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "당번 학생이 되면\n급여가 나오나요?",
+      "LocalizeJP": "当番の生徒に\nなったら給料が出るんですか？",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "UserBDay",
@@ -18493,8 +18493,8 @@
       "ActionName": "greeting",
       "Duration": 5200,
       "AnimationName": "03",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "선생님. 생일 진심으로\n축하드려요. ",
+      "LocalizeJP": "先生。心から、お誕生日\nおめでとうございます。",
       "VoiceClipsKr": [
         "Midori_Season_Birthday_Player"
       ],
@@ -18504,7 +18504,7 @@
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "UserBDay",
@@ -18515,14 +18515,14 @@
       "ActionName": null,
       "Duration": 4450,
       "AnimationName": "07",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "근데 뭘 좋아하실지 몰라서…",
+      "LocalizeJP": "でも何が好きか\n分からなくて……",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "UserBDay",
@@ -18533,14 +18533,14 @@
       "ActionName": null,
       "Duration": 3800,
       "AnimationName": "02",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "같이 고르러 가실래요?",
+      "LocalizeJP": "一緒に選びに行きませんか？",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "StudentBDay",
@@ -18551,8 +18551,8 @@
       "ActionName": null,
       "Duration": 4350,
       "AnimationName": "01",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "생일은 가족과\n함께 보내야해요.",
+      "LocalizeJP": "お誕生日は家族と一緒に\n過ごさなくちゃいけません。",
       "VoiceClipsKr": [
         "Midori_Season_Birthday"
       ],
@@ -18562,7 +18562,7 @@
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "StudentBDay",
@@ -18573,14 +18573,14 @@
       "ActionName": null,
       "Duration": 7700,
       "AnimationName": "02",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "언니랑……선생님도\n함께……어떠세요?",
+      "LocalizeJP": "お姉ちゃんと……先生も\n一緒に……いかがですか？",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18591,8 +18591,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "새해 복 많이 받으세요.\n올 한해도, 잘 부탁 드려요!",
+      "LocalizeJP": "明けまして\nおめでとうございます。\n今年も一年、\nよろしくお願いします！",
       "VoiceClipsKr": [
         "Midori_Season_NewYear"
       ],
@@ -18602,7 +18602,7 @@
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18613,8 +18613,8 @@
       "ActionName": null,
       "Duration": 8200,
       "AnimationName": "02",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "메리 크리스마스!\n그……. 오늘은\n연인들을 위한 날이래요.",
+      "LocalizeJP": "メリークリスマス！\nその……今日は\n恋人たちの日らしいです。",
       "VoiceClipsKr": [
         "Midori_Season_Xmas"
       ],
@@ -18624,7 +18624,7 @@
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18635,14 +18635,14 @@
       "ActionName": "stiff",
       "Duration": 3900,
       "AnimationName": "07",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "그, 그냥 그렇다고요!",
+      "LocalizeJP": "た、ただそれだけです！",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18653,8 +18653,8 @@
       "ActionName": null,
       "Duration": 8650,
       "AnimationName": "01",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "할로윈은 그렇게\n좋아하진 않지만\n올해부터는, 선생님과\n모두가 있으니까…….",
+      "LocalizeJP": "ハロウィンはそんなに好きじゃ\nないですけど今年からは、\n先生とみんながいるから……",
       "VoiceClipsKr": [
         "Midori_Season_Halloween"
       ],
@@ -18664,7 +18664,7 @@
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18675,14 +18675,14 @@
       "ActionName": null,
       "Duration": 3000,
       "AnimationName": "03",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "즐거울 것 같아\n기대가 되요.",
+      "LocalizeJP": "楽しいです。",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobbySpecial",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18693,8 +18693,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "이제까지 도트 게임 외에는\n별로 관심을 갖지 않았는데….",
+      "LocalizeJP": "今までドット絵の\nゲーム以外にはあまり興味が\nなかったんですけど……",
       "VoiceClipsKr": [
         "Midori_MemorialLobby_1_1"
       ],
@@ -18704,7 +18704,7 @@
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobbySpecial",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18715,8 +18715,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "오락실에는 이런\n게임도 있는 거네요.",
+      "LocalizeJP": "ゲームセンターにはこう\nいったゲームもあるんですね。",
       "VoiceClipsKr": [
         "Midori_MemorialLobby_1_2"
       ],
@@ -18726,7 +18726,7 @@
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobbySpecial",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18737,8 +18737,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "시야가 넓어지는 것 같아요.\n공부가 되었어요.",
+      "LocalizeJP": "視野が広がった気がします、\n勉強になりました。",
       "VoiceClipsKr": [
         "Midori_MemorialLobby_2"
       ],
@@ -18748,7 +18748,7 @@
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobbySpecial",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18759,8 +18759,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "……고마워요. 선생님.\n이곳에 데려와 주셔서…….",
+      "LocalizeJP": "……ありがとうございます、\n先生、ここに連れて来て\nくださって。",
       "VoiceClipsKr": [
         "Midori_MemorialLobby_3_1"
       ],
@@ -18770,7 +18770,7 @@
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobbySpecial",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18781,8 +18781,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "덕분에 지금 저 엄청 즐거워요.",
+      "LocalizeJP": "……そのお陰で私、\n今、すごく楽しいです。",
       "VoiceClipsKr": [
         "Midori_MemorialLobby_3_2"
       ],
@@ -18792,7 +18792,7 @@
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobbySpecial",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18803,8 +18803,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "아, 맞다…….",
+      "LocalizeJP": "あ、そうだ……",
       "VoiceClipsKr": [
         "Midori_MemorialLobby_4_1"
       ],
@@ -18814,7 +18814,7 @@
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobbySpecial",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18825,8 +18825,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "그리고……오늘 일은,\n언니에게는……비밀이에요?",
+      "LocalizeJP": "今日のこと、\nお姉ちゃんには……\n内緒ですよ？",
       "VoiceClipsKr": [
         "Midori_MemorialLobby_4_2"
       ],
@@ -18836,7 +18836,7 @@
     },
     {
       "CharacterId": 10016,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "DialogCategory": "UILobbySpecial",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -18847,8 +18847,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "절대로, 절대로요! ",
+      "LocalizeJP": "絶対、絶対ですからね！",
       "VoiceClipsKr": [
         "Midori_MemorialLobby_4_3"
       ],

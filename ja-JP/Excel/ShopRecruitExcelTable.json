@@ -49,7 +49,7 @@
     {
       "Id": 50000,
       "CategoryType": "NormalGacha",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         30020,
         30021
@@ -63,8 +63,8 @@
       "InfoCharacterId": [],
       "SalePeriodFrom": "03/07/2021 12:30:00",
       "SalePeriodTo": "03/25/2021 12:00:00",
-      "RecruitCoinId": 70005,
-      "RecruitSellectionShopId": 10020,
+      "RecruitCoinId": 70006,
+      "RecruitSellectionShopId": 10021,
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 0,
       "PurchaseCountResetType": "None"
@@ -72,7 +72,7 @@
     {
       "Id": 50001,
       "CategoryType": "PickupGacha",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         35020,
         35021
@@ -88,8 +88,8 @@
       ],
       "SalePeriodFrom": "03/07/2021 12:30:00",
       "SalePeriodTo": "03/25/2021 12:00:00",
-      "RecruitCoinId": 70005,
-      "RecruitSellectionShopId": 10020,
+      "RecruitCoinId": 70006,
+      "RecruitSellectionShopId": 10021,
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 0,
       "PurchaseCountResetType": "None"
@@ -341,7 +341,7 @@
     {
       "Id": 50020,
       "CategoryType": "NormalGacha",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         30020,
         30021
@@ -364,7 +364,7 @@
     {
       "Id": 50021,
       "CategoryType": "PickupGacha",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         35020,
         35021
@@ -382,6 +382,56 @@
       "SalePeriodTo": "04/08/2021 12:00:00",
       "RecruitCoinId": 70005,
       "RecruitSellectionShopId": 10020,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 50022,
+      "CategoryType": "NormalGacha",
+      "IsLegacy": false,
+      "GoodsId": [
+        30022,
+        30023
+      ],
+      "GoodsDevName": null,
+      "DisplayOrder": 30,
+      "MovieBannerPath": [
+        "Gacha_Banner_Normal.mp4"
+      ],
+      "LinkedRobbyBannerId": 22,
+      "InfoCharacterId": [],
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/22/2021 12:00:00",
+      "RecruitCoinId": 70006,
+      "RecruitSellectionShopId": 10021,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 50023,
+      "CategoryType": "PickupGacha",
+      "IsLegacy": false,
+      "GoodsId": [
+        35022,
+        35023
+      ],
+      "GoodsDevName": null,
+      "DisplayOrder": 10,
+      "MovieBannerPath": [
+        "Gacha_Banner_210408_1.mp4",
+        "Gacha_Banner_210408_2.mp4"
+      ],
+      "LinkedRobbyBannerId": 23,
+      "InfoCharacterId": [
+        10016,
+        13011
+      ],
+      "SalePeriodFrom": "04/08/2021 12:30:00",
+      "SalePeriodTo": "04/22/2021 12:00:00",
+      "RecruitCoinId": 70006,
+      "RecruitSellectionShopId": 10021,
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 0,
       "PurchaseCountResetType": "None"

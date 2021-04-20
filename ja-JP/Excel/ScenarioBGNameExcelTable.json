@@ -2290,7 +2290,7 @@
     },
     {
       "Name": 2373458047,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyMidori",
       "BGType": "Spine",
       "AnimationRoot": null,
@@ -2301,7 +2301,7 @@
     },
     {
       "Name": 3707073624,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyMidori",
       "BGType": "Spine",
       "AnimationRoot": "MidoriLobbySpine",
@@ -2312,7 +2312,7 @@
     },
     {
       "Name": 1093695832,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyMomoi",
       "BGType": "Spine",
       "AnimationRoot": null,
@@ -2323,7 +2323,7 @@
     },
     {
       "Name": 3912246510,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyMomoi",
       "BGType": "Spine",
       "AnimationRoot": "MomoiLobbySpine",

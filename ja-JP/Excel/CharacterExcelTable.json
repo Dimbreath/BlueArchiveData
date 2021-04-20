@@ -1207,7 +1207,7 @@
       "Id": 10016,
       "DevName": "Midori_default",
       "ProductionStep": "Release",
-      "CollectionVisible": false,
+      "CollectionVisible": true,
       "LocalizeEtcId": 2658574978,
       "Rarity": "SSR",
       "TacticEntityType": "Student",
@@ -2108,7 +2108,7 @@
       "Id": 13011,
       "DevName": "Momoi_default",
       "ProductionStep": "Release",
-      "CollectionVisible": false,
+      "CollectionVisible": true,
       "LocalizeEtcId": 4220925493,
       "Rarity": "SR",
       "TacticEntityType": "Student",
@@ -21005,7 +21005,7 @@
       "Tags": [
         "EnemyMedium",
         "Automata",
-        "TagName0204"
+        "AmuseDoll"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -21071,7 +21071,7 @@
       "Tags": [
         "EnemyMedium",
         "Automata",
-        "TagName0204"
+        "AmuseDoll"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -21138,7 +21138,7 @@
         "EnemyMedium",
         "ChampionHeavyArmor",
         "Automata",
-        "TagName0204"
+        "AmuseDoll"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -21204,7 +21204,7 @@
       "Tags": [
         "EnemyMedium",
         "Automata",
-        "TagName0204"
+        "AmuseDoll"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -21270,7 +21270,7 @@
       "Tags": [
         "EnemyMedium",
         "Automata",
-        "TagName0204"
+        "AmuseDoll"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -21337,7 +21337,7 @@
         "EnemyMedium",
         "ChampionHeavyArmor",
         "Automata",
-        "TagName0204"
+        "AmuseDoll"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -21731,8 +21731,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyMedium",
-        "TagName0200",
-        "TagName0203"
+        "Mimesis",
+        "Yustina"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -21797,8 +21797,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyMedium",
-        "TagName0200",
-        "TagName0203"
+        "Mimesis",
+        "Yustina"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -21863,8 +21863,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyMedium",
-        "TagName0200",
-        "TagName0203"
+        "Mimesis",
+        "Yustina"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -21929,8 +21929,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyMedium",
-        "TagName0200",
-        "TagName0203"
+        "Mimesis",
+        "Yustina"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -21995,8 +21995,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyMedium",
-        "TagName0200",
-        "TagName0203"
+        "Mimesis",
+        "Yustina"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -22061,8 +22061,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyMedium",
-        "TagName0200",
-        "TagName0203"
+        "Mimesis",
+        "Yustina"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -22127,8 +22127,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyMedium",
-        "TagName0200",
-        "TagName0203"
+        "Mimesis",
+        "Yustina"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -22193,8 +22193,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyMedium",
-        "TagName0200",
-        "TagName0203"
+        "Mimesis",
+        "Yustina"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -22259,8 +22259,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyMedium",
-        "TagName0200",
-        "TagName0203"
+        "Mimesis",
+        "Yustina"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -22326,7 +22326,7 @@
       "Tags": [
         "EnemyMedium",
         "Arius",
-        "TagName0200"
+        "Mimesis"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -22392,7 +22392,7 @@
       "Tags": [
         "EnemyMedium",
         "Arius",
-        "TagName0200"
+        "Mimesis"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -22458,7 +22458,7 @@
       "Tags": [
         "EnemyMedium",
         "Arius",
-        "TagName0200"
+        "Mimesis"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -22524,7 +22524,7 @@
       "Tags": [
         "EnemyMedium",
         "Arius",
-        "TagName0200"
+        "Mimesis"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -22590,7 +22590,7 @@
       "Tags": [
         "EnemyMedium",
         "Arius",
-        "TagName0200"
+        "Mimesis"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -22656,7 +22656,7 @@
       "Tags": [
         "EnemyMedium",
         "Arius",
-        "TagName0200"
+        "Mimesis"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -22722,7 +22722,7 @@
       "Tags": [
         "EnemyMedium",
         "Arius",
-        "TagName0200"
+        "Mimesis"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -22788,7 +22788,7 @@
       "Tags": [
         "EnemyMedium",
         "Arius",
-        "TagName0200"
+        "Mimesis"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -22854,7 +22854,7 @@
       "Tags": [
         "EnemyMedium",
         "Arius",
-        "TagName0200"
+        "Mimesis"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -22920,7 +22920,7 @@
       "Tags": [
         "EnemyMedium",
         "Shield",
-        "TagName0200"
+        "Mimesis"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -22986,7 +22986,7 @@
       "Tags": [
         "EnemyMedium",
         "Shield",
-        "TagName0200"
+        "Mimesis"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -23052,7 +23052,7 @@
       "Tags": [
         "EnemyMedium",
         "Shield",
-        "TagName0200"
+        "Mimesis"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -23117,7 +23117,7 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyMedium",
-        "TagName0200"
+        "Mimesis"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -23182,7 +23182,7 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyMedium",
-        "TagName0200"
+        "Mimesis"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -23247,7 +23247,7 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyMedium",
-        "TagName0200"
+        "Mimesis"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -23312,7 +23312,7 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyMedium",
-        "TagName0200"
+        "Mimesis"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -23377,7 +23377,7 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyMedium",
-        "TagName0200"
+        "Mimesis"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -23442,7 +23442,7 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyMedium",
-        "TagName0200"
+        "Mimesis"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -23507,7 +23507,7 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200"
+        "Mimesis"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -23572,8 +23572,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0205"
+        "Mimesis",
+        "Communio"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -26411,7 +26411,7 @@
         "EnemyMedium",
         "Helmet",
         "RedHelmet",
-        "TagName0202"
+        "Kaitenranger"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -26477,7 +26477,7 @@
       "Tags": [
         "EnemyMedium",
         "Helmet",
-        "TagName0202"
+        "Kaitenranger"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -26543,7 +26543,7 @@
       "Tags": [
         "EnemyMedium",
         "Helmet",
-        "TagName0202"
+        "Kaitenranger"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -26609,7 +26609,7 @@
       "Tags": [
         "EnemyMedium",
         "Helmet",
-        "TagName0202"
+        "Kaitenranger"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -26675,7 +26675,7 @@
       "Tags": [
         "EnemyMedium",
         "Helmet",
-        "TagName0202"
+        "Kaitenranger"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -31743,8 +31743,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -31809,8 +31809,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -31875,8 +31875,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -31941,8 +31941,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -32007,8 +32007,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -32281,8 +32281,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -32347,8 +32347,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -32413,8 +32413,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -32479,8 +32479,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -32545,8 +32545,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -32611,8 +32611,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -32677,8 +32677,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -32743,8 +32743,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -32809,8 +32809,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -32875,8 +32875,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -32941,8 +32941,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -33007,8 +33007,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -37719,8 +37719,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -37785,8 +37785,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -37851,8 +37851,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -37917,8 +37917,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -37983,8 +37983,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -38049,8 +38049,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -38115,8 +38115,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -38181,8 +38181,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -38247,8 +38247,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -38313,8 +38313,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -38379,8 +38379,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -38445,8 +38445,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -38511,8 +38511,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -38577,8 +38577,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -38643,8 +38643,8 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0200",
-        "TagName0201"
+        "Mimesis",
+        "Slumpia"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -38709,7 +38709,7 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyLarge",
-        "TagName0205"
+        "Communio"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -40680,7 +40680,7 @@
       "AirUnitHeight": 0,
       "Tags": [
         "EnemyMedium",
-        "TagName0200"
+        "Mimesis"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],
@@ -40746,7 +40746,7 @@
       "Tags": [
         "EnemyMedium",
         "Arius",
-        "TagName0200"
+        "Mimesis"
       ],
       "SecretStoneItemId": [],
       "SecretStoneItemAmount": [],

@@ -2292,9 +2292,9 @@
       "IsLegacy": false,
       "LoginCount": 1,
       "PreMissionId": [],
-      "Description": "MISSION_DAILY_LOGIN_SUM",
+      "Description": "MISSION_DAILY_LOGIN",
       "ShortcutUI": [],
-      "CompleteConditionType": "DailyLoginCount",
+      "CompleteConditionType": "TotalLoginCount",
       "CompleteConditionCount": 1,
       "CompleteConditionParameter": [],
       "CompleteConditionParameterName": null,
@@ -2457,13 +2457,11 @@
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 2,
-      "PreMissionId": [
-        1000210
-      ],
-      "Description": "MISSION_DAILY_LOGIN_SUM",
+      "PreMissionId": [],
+      "Description": "MISSION_DAILY_LOGIN",
       "ShortcutUI": [],
-      "CompleteConditionType": "DailyLoginCount",
-      "CompleteConditionCount": 2,
+      "CompleteConditionType": "TotalLoginCount",
+      "CompleteConditionCount": 1,
       "CompleteConditionParameter": [],
       "CompleteConditionParameterName": null,
       "MissionRewardParcelType": [
@@ -2485,9 +2483,7 @@
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 2,
-      "PreMissionId": [
-        1000211
-      ],
+      "PreMissionId": [],
       "Description": "MISSION_CLEAR_SPECIFIC_SCENARIO_MAIN_02",
       "ShortcutUI": [
         "UIScenarioMode_Volume|21020"
@@ -2629,13 +2625,11 @@
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 3,
-      "PreMissionId": [
-        1000220
-      ],
-      "Description": "MISSION_DAILY_LOGIN_SUM",
+      "PreMissionId": [],
+      "Description": "MISSION_DAILY_LOGIN",
       "ShortcutUI": [],
-      "CompleteConditionType": "DailyLoginCount",
-      "CompleteConditionCount": 3,
+      "CompleteConditionType": "TotalLoginCount",
+      "CompleteConditionCount": 1,
       "CompleteConditionParameter": [],
       "CompleteConditionParameterName": null,
       "MissionRewardParcelType": [
@@ -2657,9 +2651,7 @@
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 3,
-      "PreMissionId": [
-        1000221
-      ],
+      "PreMissionId": [],
       "Description": "MISSION_CLEAR_SPECIFIC_SCENARIO_MAIN_02",
       "ShortcutUI": [
         "UIScenarioMode_Volume|21030"
@@ -2799,13 +2791,11 @@
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 4,
-      "PreMissionId": [
-        1000231
-      ],
-      "Description": "MISSION_DAILY_LOGIN_SUM",
+      "PreMissionId": [],
+      "Description": "MISSION_DAILY_LOGIN",
       "ShortcutUI": [],
-      "CompleteConditionType": "DailyLoginCount",
-      "CompleteConditionCount": 4,
+      "CompleteConditionType": "TotalLoginCount",
+      "CompleteConditionCount": 1,
       "CompleteConditionParameter": [],
       "CompleteConditionParameterName": null,
       "MissionRewardParcelType": [
@@ -2827,9 +2817,7 @@
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 4,
-      "PreMissionId": [
-        1000232
-      ],
+      "PreMissionId": [],
       "Description": "MISSION_CLEAR_SPECIFIC_SCENARIO_MAIN_02",
       "ShortcutUI": [
         "UIScenarioMode_Volume|21040"
@@ -2969,13 +2957,11 @@
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 5,
-      "PreMissionId": [
-        1000255
-      ],
-      "Description": "MISSION_DAILY_LOGIN_SUM",
+      "PreMissionId": [],
+      "Description": "MISSION_DAILY_LOGIN",
       "ShortcutUI": [],
-      "CompleteConditionType": "DailyLoginCount",
-      "CompleteConditionCount": 5,
+      "CompleteConditionType": "TotalLoginCount",
+      "CompleteConditionCount": 1,
       "CompleteConditionParameter": [],
       "CompleteConditionParameterName": null,
       "MissionRewardParcelType": [
@@ -2997,9 +2983,7 @@
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 5,
-      "PreMissionId": [
-        1000240
-      ],
+      "PreMissionId": [],
       "Description": "MISSION_CLEAR_SPECIFIC_SCENARIO_MAIN_02",
       "ShortcutUI": [
         "UIScenarioMode_Volume|21050"
@@ -3029,9 +3013,7 @@
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 5,
-      "PreMissionId": [
-        1000212
-      ],
+      "PreMissionId": [],
       "Description": "MISSION_CLEAR_EQUIPMENT_LEVEL_UP_COUNT",
       "ShortcutUI": [
         "UICharacterCollection"
@@ -3143,13 +3125,11 @@
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 6,
-      "PreMissionId": [
-        1000250
-      ],
-      "Description": "MISSION_DAILY_LOGIN_SUM",
+      "PreMissionId": [],
+      "Description": "MISSION_DAILY_LOGIN",
       "ShortcutUI": [],
-      "CompleteConditionType": "DailyLoginCount",
-      "CompleteConditionCount": 6,
+      "CompleteConditionType": "TotalLoginCount",
+      "CompleteConditionCount": 1,
       "CompleteConditionParameter": [],
       "CompleteConditionParameterName": null,
       "MissionRewardParcelType": [
@@ -3171,9 +3151,7 @@
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 6,
-      "PreMissionId": [
-        1000251
-      ],
+      "PreMissionId": [],
       "Description": "MISSION_CLEAR_SPECIFIC_SCENARIO_MAIN_02",
       "ShortcutUI": [
         "UIScenarioMode_Volume|21060"
@@ -3313,13 +3291,11 @@
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 7,
-      "PreMissionId": [
-        1000260
-      ],
-      "Description": "MISSION_DAILY_LOGIN_SUM",
+      "PreMissionId": [],
+      "Description": "MISSION_DAILY_LOGIN",
       "ShortcutUI": [],
-      "CompleteConditionType": "DailyLoginCount",
-      "CompleteConditionCount": 7,
+      "CompleteConditionType": "TotalLoginCount",
+      "CompleteConditionCount": 1,
       "CompleteConditionParameter": [],
       "CompleteConditionParameterName": null,
       "MissionRewardParcelType": [
@@ -3341,9 +3317,7 @@
       "Category": "GuideMission",
       "IsLegacy": false,
       "LoginCount": 7,
-      "PreMissionId": [
-        1000261
-      ],
+      "PreMissionId": [],
       "Description": "MISSION_CLEAR_SPECIFIC_SCENARIO_MAIN_02",
       "ShortcutUI": [
         "UIScenarioMode_Volume|21070"
