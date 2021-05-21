@@ -434,6 +434,52 @@
       ]
     },
     {
+      "CharacterId": 10017,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "CherinoNormal01"
+      ],
+      "ExSkillGroupId": [
+        "CherinoEx01"
+      ],
+      "PublicSkillGroupId": [
+        "CherinoPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "CherinoPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "CherinoExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 10018,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "YuzuNormal01"
+      ],
+      "ExSkillGroupId": [
+        "YuzuEx01"
+      ],
+      "PublicSkillGroupId": [
+        "YuzuPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "YuzuPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "YuzuExtraPassive01"
+      ]
+    },
+    {
       "CharacterId": 13000,
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
@@ -854,16 +900,16 @@
       "IsRootMotion": false,
       "IsMoveLeftRight": false,
       "NormalSkillGroupId": [
-        "AtsukoNormal01"
+        "CH0104Normal01"
       ],
       "ExSkillGroupId": [
-        "AtsukoEx01"
+        "CH0104Ex01"
       ],
       "PublicSkillGroupId": [
-        "AtsukoPublic01"
+        "CH0104Public01"
       ],
       "PassiveSkillGroupId": [
-        "AtsukoPassive01"
+        "CH0104Passive01"
       ],
       "LeaderSkillGroupId": [],
       "ExtraPassiveSkillGroupId": []
@@ -875,20 +921,20 @@
       "IsRootMotion": false,
       "IsMoveLeftRight": false,
       "NormalSkillGroupId": [
-        "AzusaNormal01"
+        "CH0056Normal01"
       ],
       "ExSkillGroupId": [
-        "AzusaEx01"
+        "CH0056Ex01"
       ],
       "PublicSkillGroupId": [
-        "AzusaPublic01"
+        "CH0056Public01"
       ],
       "PassiveSkillGroupId": [
-        "AzusaPassive01"
+        "CH0056Passive01"
       ],
       "LeaderSkillGroupId": [],
       "ExtraPassiveSkillGroupId": [
-        "AzusaExtraPassive01"
+        "CH0056ExtraPassive01"
       ]
     },
     {
@@ -921,20 +967,20 @@
       "IsRootMotion": false,
       "IsMoveLeftRight": false,
       "NormalSkillGroupId": [
-        "ErikaNormal01"
+        "CH0076Normal01"
       ],
       "ExSkillGroupId": [
-        "ErikaEx01"
+        "CH0076Ex01"
       ],
       "PublicSkillGroupId": [
-        "ErikaPublic01"
+        "CH0076Public01"
       ],
       "PassiveSkillGroupId": [
-        "ErikaPassive01"
+        "CH0076Passive01"
       ],
       "LeaderSkillGroupId": [],
       "ExtraPassiveSkillGroupId": [
-        "ErikaExtraPassive01"
+        "CH0076ExtraPassive01"
       ]
     },
     {
@@ -944,18 +990,18 @@
       "IsRootMotion": false,
       "IsMoveLeftRight": false,
       "NormalSkillGroupId": [
-        "ErikaNormal02"
+        "CH0076Normal02"
       ],
       "ExSkillGroupId": [
-        "ErikaEx01"
+        "CH0076Ex01"
       ],
       "PublicSkillGroupId": [
-        "ErikaPublic01"
+        "CH0076Public01"
       ],
       "PassiveSkillGroupId": [],
       "LeaderSkillGroupId": [],
       "ExtraPassiveSkillGroupId": [
-        "ErikaExtraPassive01"
+        "CH0076ExtraPassive01"
       ]
     },
     {
@@ -965,20 +1011,20 @@
       "IsRootMotion": false,
       "IsMoveLeftRight": false,
       "NormalSkillGroupId": [
-        "KirinoNormal01"
+        "CH0140Normal01"
       ],
       "ExSkillGroupId": [
-        "KirinoEx01"
+        "CH0140Ex01"
       ],
       "PublicSkillGroupId": [
-        "KirinoPublic01"
+        "CH0140Public01"
       ],
       "PassiveSkillGroupId": [
-        "KirinoPassive01"
+        "CH0140Passive01"
       ],
       "LeaderSkillGroupId": [],
       "ExtraPassiveSkillGroupId": [
-        "KirinoExtraPassive01"
+        "CH0140ExtraPassive01"
       ]
     },
     {
@@ -988,20 +1034,20 @@
       "IsRootMotion": false,
       "IsMoveLeftRight": false,
       "NormalSkillGroupId": [
-        "KoharuNormal01"
+        "CH0057Normal01"
       ],
       "ExSkillGroupId": [
-        "KoharuEx01"
+        "CH0057Ex01"
       ],
       "PublicSkillGroupId": [
-        "KoharuPublic01"
+        "CH0057Public01"
       ],
       "PassiveSkillGroupId": [
-        "KoharuPassive01"
+        "CH0057Passive01"
       ],
       "LeaderSkillGroupId": [],
       "ExtraPassiveSkillGroupId": [
-        "KoharuExtraPassive01"
+        "CH0057ExtraPassive01"
       ]
     },
     {
@@ -1103,20 +1149,20 @@
       "IsRootMotion": false,
       "IsMoveLeftRight": false,
       "NormalSkillGroupId": [
-        "MimoriNormal01"
+        "CH0115Normal01"
       ],
       "ExSkillGroupId": [
-        "MimoriEx01"
+        "CH0115Ex01"
       ],
       "PublicSkillGroupId": [
-        "MimoriPublic01"
+        "CH0115Public01"
       ],
       "PassiveSkillGroupId": [
-        "MimoriPassive01"
+        "CH0115Passive01"
       ],
       "LeaderSkillGroupId": [],
       "ExtraPassiveSkillGroupId": [
-        "MimoriExtraPassive01"
+        "CH0115ExtraPassive01"
       ]
     },
     {
@@ -1496,6 +1542,27 @@
       ]
     },
     {
+      "CharacterId": 26006,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [],
+      "ExSkillGroupId": [
+        "NodokaEx01"
+      ],
+      "PublicSkillGroupId": [
+        "NodokaPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "NodokaPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "NodokaExtraPassive01"
+      ]
+    },
+    {
       "CharacterId": 29001,
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
@@ -1503,13 +1570,13 @@
       "IsMoveLeftRight": false,
       "NormalSkillGroupId": [],
       "ExSkillGroupId": [
-        "HanakoEx01"
+        "CH0055Ex01"
       ],
       "PublicSkillGroupId": [
-        "HanakoPublic01"
+        "CH0055Public01"
       ],
       "PassiveSkillGroupId": [
-        "HanakoPassive01"
+        "CH0055Passive01"
       ],
       "LeaderSkillGroupId": [],
       "ExtraPassiveSkillGroupId": []
@@ -1522,13 +1589,13 @@
       "IsMoveLeftRight": false,
       "NormalSkillGroupId": [],
       "ExSkillGroupId": [
-        "HiyoriEx01"
+        "CH0106Ex01"
       ],
       "PublicSkillGroupId": [
-        "HiyoriPublic01"
+        "CH0106Public01"
       ],
       "PassiveSkillGroupId": [
-        "HiyoriPassive01"
+        "CH0106Passive01"
       ],
       "LeaderSkillGroupId": [],
       "ExtraPassiveSkillGroupId": []
@@ -1541,17 +1608,17 @@
       "IsMoveLeftRight": false,
       "NormalSkillGroupId": [],
       "ExSkillGroupId": [
-        "MariEx01"
+        "CH0072Ex01"
       ],
       "PublicSkillGroupId": [
-        "MariPublic01"
+        "CH0072Public01"
       ],
       "PassiveSkillGroupId": [
-        "MariPassive01"
+        "CH0072Passive01"
       ],
       "LeaderSkillGroupId": [],
       "ExtraPassiveSkillGroupId": [
-        "MariExtraPassive01"
+        "CH0072ExtraPassive01"
       ]
     },
     {
@@ -1585,16 +1652,10 @@
       "ExSkillGroupId": [
         "NodokaEx01"
       ],
-      "PublicSkillGroupId": [
-        "NodokaPublic01"
-      ],
-      "PassiveSkillGroupId": [
-        "NodokaPassive01"
-      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
       "LeaderSkillGroupId": [],
-      "ExtraPassiveSkillGroupId": [
-        "NodokaExtraPassive01"
-      ]
+      "ExtraPassiveSkillGroupId": []
     },
     {
       "CharacterId": 29006,
@@ -1604,14 +1665,12 @@
       "IsMoveLeftRight": false,
       "NormalSkillGroupId": [],
       "ExSkillGroupId": [
-        "SayaEx01"
+        "CH0133Ex01"
       ],
       "PublicSkillGroupId": [],
       "PassiveSkillGroupId": [],
       "LeaderSkillGroupId": [],
-      "ExtraPassiveSkillGroupId": [
-        "SayaExtraPassive01"
-      ]
+      "ExtraPassiveSkillGroupId": []
     },
     {
       "CharacterId": 29007,
@@ -1621,13 +1680,13 @@
       "IsMoveLeftRight": false,
       "NormalSkillGroupId": [],
       "ExSkillGroupId": [
-        "SerinaEx01"
+        "CH0153Ex01"
       ],
       "PublicSkillGroupId": [
-        "SerinaPublic01"
+        "CH0153Public01"
       ],
       "PassiveSkillGroupId": [
-        "SerinaPassive01"
+        "CH0153Passive01"
       ],
       "LeaderSkillGroupId": [],
       "ExtraPassiveSkillGroupId": []
@@ -3519,6 +3578,310 @@
       "ExtraPassiveSkillGroupId": []
     },
     {
+      "CharacterId": 7001001,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "SoldierRedWinterYohekiSGNormal01"
+      ],
+      "ExSkillGroupId": [],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7001002,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "SoldierRedWinterYohekiSGNormal01"
+      ],
+      "ExSkillGroupId": [],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7001003,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "SoldierRedWinterYohekiSGNormal01"
+      ],
+      "ExSkillGroupId": [],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7001011,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "SoldierRedWinterYohekiARNormal01"
+      ],
+      "ExSkillGroupId": [],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7001012,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "SoldierRedWinterYohekiARNormal01"
+      ],
+      "ExSkillGroupId": [
+        "SoldierRedWinterYohekiAREx01"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7001013,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "SoldierRedWinterYohekiARNormal01"
+      ],
+      "ExSkillGroupId": [
+        "SoldierRedWinterYohekiAREx01"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7001021,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "SoldierRedWinterYohekiSRNormal01"
+      ],
+      "ExSkillGroupId": [],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7001022,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "SoldierRedWinterYohekiSRNormal01"
+      ],
+      "ExSkillGroupId": [
+        "SoldierRedWinterYohekiSREx01"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7001023,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "SoldierRedWinterYohekiSRNormal01"
+      ],
+      "ExSkillGroupId": [
+        "SoldierRedWinterYohekiSREx01"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7001101,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "RoyalGuardRedWinterSMGNormal01"
+      ],
+      "ExSkillGroupId": [],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7001102,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "RoyalGuardRedWinterSMGNormal01"
+      ],
+      "ExSkillGroupId": [],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7001103,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "RoyalGuardRedWinterSMGNormal01"
+      ],
+      "ExSkillGroupId": [],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7001111,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "RoyalGuardRedWinterGLNormal01"
+      ],
+      "ExSkillGroupId": [],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7001112,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "RoyalGuardRedWinterGLNormal01"
+      ],
+      "ExSkillGroupId": [
+        "RoyalGuardRedWinterGLEx01"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7001113,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "RoyalGuardRedWinterGLNormal01"
+      ],
+      "ExSkillGroupId": [
+        "RoyalGuardRedWinterGLEx01"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7001131,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "RoyalGuardRedWinterARNormal01"
+      ],
+      "ExSkillGroupId": [],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7001132,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "RoyalGuardRedWinterARNormal01"
+      ],
+      "ExSkillGroupId": [
+        "RoyalGuardRedWinterAREx01"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7001133,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "RoyalGuardRedWinterARNormal01"
+      ],
+      "ExSkillGroupId": [
+        "RoyalGuardRedWinterAREx01"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7001143,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "RoyalGuardRedWinterSergeantARNormal01"
+      ],
+      "ExSkillGroupId": [
+        "RoyalGuardRedWinterSergeantAREx01",
+        "RoyalGuardRedWinterSergeantAREx02"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
       "CharacterId": 7010001,
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
@@ -5004,6 +5367,40 @@
       ],
       "ExSkillGroupId": [
         "UsagibotSlumpiaAREx01"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7011102,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "LightTankHelmetVulcanNormalSkill01"
+      ],
+      "ExSkillGroupId": [
+        "LightTankHelmetVulcanExSkill01"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7011202,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "HeavyTank01HelmetCannon01NormalSkill01"
+      ],
+      "ExSkillGroupId": [
+        "HeavyTank01HelmetCannonExSkill01"
       ],
       "PublicSkillGroupId": [],
       "PassiveSkillGroupId": [],
@@ -8002,7 +8399,7 @@
       "IsMoveLeftRight": false,
       "NormalSkillGroupId": [],
       "ExSkillGroupId": [
-        "ChesedExSkill01_VeryEasy",
+        "ChesedExSkill01_Normal",
         "ChesedExSkill02",
         "ChesedExSkill03"
       ],
@@ -8303,7 +8700,7 @@
       "IsMoveLeftRight": false,
       "NormalSkillGroupId": [],
       "ExSkillGroupId": [
-        "ChesedExSkill01_Easy",
+        "ChesedExSkill01_Hard",
         "ChesedExSkill02",
         "ChesedExSkill03"
       ],
@@ -8604,7 +9001,7 @@
       "IsMoveLeftRight": false,
       "NormalSkillGroupId": [],
       "ExSkillGroupId": [
-        "ChesedExSkill01_Normal",
+        "ChesedExSkill01_VeryHard",
         "ChesedExSkill02",
         "ChesedExSkill03"
       ],
@@ -8905,7 +9302,7 @@
       "IsMoveLeftRight": false,
       "NormalSkillGroupId": [],
       "ExSkillGroupId": [
-        "ChesedExSkill01_Hard",
+        "ChesedExSkill01_HardCore",
         "ChesedExSkill02",
         "ChesedExSkill03"
       ],
@@ -9206,7 +9603,7 @@
       "IsMoveLeftRight": false,
       "NormalSkillGroupId": [],
       "ExSkillGroupId": [
-        "ChesedExSkill01_VeryHard",
+        "ChesedExSkill01_Extreme",
         "ChesedExSkill02",
         "ChesedExSkill03"
       ],
@@ -10146,6 +10543,166 @@
       "ExtraPassiveSkillGroupId": []
     },
     {
+      "CharacterId": 7303200,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "HieronymusNormal01"
+      ],
+      "ExSkillGroupId": [
+        "HieronymusEx01",
+        "HieronymusEx02",
+        "HieronymusEx03",
+        "HieronymusEx04"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [
+        "HieronymusPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7304200,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [],
+      "ExSkillGroupId": [],
+      "PublicSkillGroupId": [
+        "HieronymusRelicPublic01",
+        "HieronymusRelicPublic02"
+      ],
+      "PassiveSkillGroupId": [
+        "HieronymusRelicPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7303300,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "HieronymusNormal01"
+      ],
+      "ExSkillGroupId": [
+        "HieronymusEx01",
+        "HieronymusEx02",
+        "HieronymusEx03",
+        "HieronymusEx04"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [
+        "HieronymusPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7304300,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [],
+      "ExSkillGroupId": [],
+      "PublicSkillGroupId": [
+        "HieronymusRelicPublic01",
+        "HieronymusRelicPublic02"
+      ],
+      "PassiveSkillGroupId": [
+        "HieronymusRelicPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7303400,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "HieronymusNormal01"
+      ],
+      "ExSkillGroupId": [
+        "HieronymusEx01",
+        "HieronymusEx02",
+        "HieronymusEx03",
+        "HieronymusEx04"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [
+        "HieronymusPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7304400,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [],
+      "ExSkillGroupId": [],
+      "PublicSkillGroupId": [
+        "HieronymusRelicPublic01",
+        "HieronymusRelicPublic02"
+      ],
+      "PassiveSkillGroupId": [
+        "HieronymusRelicPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7303500,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "HieronymusNormal01"
+      ],
+      "ExSkillGroupId": [
+        "HieronymusEx01",
+        "HieronymusEx02",
+        "HieronymusEx03",
+        "HieronymusEx04"
+      ],
+      "PublicSkillGroupId": [],
+      "PassiveSkillGroupId": [
+        "HieronymusPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 7304500,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [],
+      "ExSkillGroupId": [],
+      "PublicSkillGroupId": [
+        "HieronymusRelicPublic01",
+        "HieronymusRelicPublic02"
+      ],
+      "PassiveSkillGroupId": [
+        "HieronymusRelicPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": []
+    },
+    {
       "CharacterId": 7400100,
       "IsCharacterWeapon": false,
       "IsFormConversion": false,
@@ -10248,7 +10805,7 @@
       "IsMoveLeftRight": false,
       "NormalSkillGroupId": [],
       "ExSkillGroupId": [
-        "ChesedExSkill01_VeryEasy",
+        "ChesedExSkill01_Normal",
         "ChesedExSkill02",
         "ChesedExSkill03"
       ],
@@ -10268,7 +10825,7 @@
       "IsMoveLeftRight": false,
       "NormalSkillGroupId": [],
       "ExSkillGroupId": [
-        "ChesedExSkill01_Easy",
+        "ChesedExSkill01_Hard",
         "ChesedExSkill02",
         "ChesedExSkill03"
       ],
@@ -10288,7 +10845,7 @@
       "IsMoveLeftRight": false,
       "NormalSkillGroupId": [],
       "ExSkillGroupId": [
-        "ChesedExSkill01_Normal",
+        "ChesedExSkill01_VeryHard",
         "ChesedExSkill02",
         "ChesedExSkill03"
       ],
@@ -10308,7 +10865,7 @@
       "IsMoveLeftRight": false,
       "NormalSkillGroupId": [],
       "ExSkillGroupId": [
-        "ChesedExSkill01_Hard",
+        "ChesedExSkill01_HardCore",
         "ChesedExSkill02",
         "ChesedExSkill03"
       ],
@@ -10328,7 +10885,7 @@
       "IsMoveLeftRight": false,
       "NormalSkillGroupId": [],
       "ExSkillGroupId": [
-        "ChesedExSkill01_VeryHard",
+        "ChesedExSkill01_Extreme",
         "ChesedExSkill02",
         "ChesedExSkill03"
       ],
@@ -10666,6 +11223,634 @@
       "PassiveSkillGroupId": [],
       "LeaderSkillGroupId": [],
       "ExtraPassiveSkillGroupId": []
+    },
+    {
+      "CharacterId": 9010000,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "AruNormal01"
+      ],
+      "ExSkillGroupId": [
+        "AruEx01"
+      ],
+      "PublicSkillGroupId": [
+        "AruPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "AruPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "AruExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 9010001,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "HihumiNormal01"
+      ],
+      "ExSkillGroupId": [
+        "HihumiEx01"
+      ],
+      "PublicSkillGroupId": [
+        "HihumiPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "HihumiPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "HihumiExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 9010002,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "HinaNormal01"
+      ],
+      "ExSkillGroupId": [
+        "HinaEx01"
+      ],
+      "PublicSkillGroupId": [
+        "HinaPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "HinaPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "HinaExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 9010003,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "HoshinoNormal01"
+      ],
+      "ExSkillGroupId": [
+        "HoshinoEx01"
+      ],
+      "PublicSkillGroupId": [
+        "HoshinoPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "HoshinoPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "HoshinoExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 9010004,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "NeruNormal01"
+      ],
+      "ExSkillGroupId": [
+        "NeruEx01"
+      ],
+      "PublicSkillGroupId": [
+        "NeruPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "NeruPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "NeruExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 9010005,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "ShirokoNormal01"
+      ],
+      "ExSkillGroupId": [
+        "ShirokoEx01"
+      ],
+      "PublicSkillGroupId": [
+        "ShirokoPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "ShirokoPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "ShirokoExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 9010006,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "ShunNormal01"
+      ],
+      "ExSkillGroupId": [
+        "ShunEx01"
+      ],
+      "PublicSkillGroupId": [
+        "ShunPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "ShunPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "ShunExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 9010006,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": true,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "ShunNormal02"
+      ],
+      "ExSkillGroupId": [
+        "ShunEx01"
+      ],
+      "PublicSkillGroupId": [
+        "ShunPublic01"
+      ],
+      "PassiveSkillGroupId": [],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "ShunExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 9010007,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "ArisNormal01"
+      ],
+      "ExSkillGroupId": [
+        "ArisEx01"
+      ],
+      "PublicSkillGroupId": [
+        "ArisPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "ArisPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "ArisExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 9010008,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "MidoriNormal01"
+      ],
+      "ExSkillGroupId": [
+        "MidoriEx01"
+      ],
+      "PublicSkillGroupId": [
+        "MidoriPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "MidoriPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "MidoriExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 9010009,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "ChiseNormal01"
+      ],
+      "ExSkillGroupId": [
+        "ChiseEx01"
+      ],
+      "PublicSkillGroupId": [
+        "ChisePublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "ChisePassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "ChiseExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 9010010,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "NonomiNormal01"
+      ],
+      "ExSkillGroupId": [
+        "NonomiEx01"
+      ],
+      "PublicSkillGroupId": [
+        "NonomiPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "NonomiPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "NonomiExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 9010011,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "KayokoNormal01"
+      ],
+      "ExSkillGroupId": [
+        "KayokoEx01"
+      ],
+      "PublicSkillGroupId": [
+        "KayokoPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "KayokoPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "KayokoExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 9010012,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "MutsukiNormal01"
+      ],
+      "ExSkillGroupId": [
+        "MutsukiEx01"
+      ],
+      "PublicSkillGroupId": [
+        "MutsukiPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "MutsukiPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "MutsukiExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 9010013,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "ZunkoNormal01"
+      ],
+      "ExSkillGroupId": [
+        "ZunkoEx01"
+      ],
+      "PublicSkillGroupId": [
+        "ZunkoPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "ZunkoPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "ZunkoExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 9010014,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "SerikaNormal01"
+      ],
+      "ExSkillGroupId": [
+        "SerikaEx01"
+      ],
+      "PublicSkillGroupId": [
+        "SerikaPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "SerikaPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "SerikaExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 9010015,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "YuukaNormal01"
+      ],
+      "ExSkillGroupId": [
+        "YuukaEx01"
+      ],
+      "PublicSkillGroupId": [
+        "YuukaPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "YuukaPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "YuukaExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 9010016,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "MomoiNormal01"
+      ],
+      "ExSkillGroupId": [
+        "MomoiEx01"
+      ],
+      "PublicSkillGroupId": [
+        "MomoiPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "MomoiPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "MomoiExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 9010017,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "HarukaNormal01"
+      ],
+      "ExSkillGroupId": [
+        "HarukaEx01"
+      ],
+      "PublicSkillGroupId": [
+        "HarukaPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "HarukaPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "HarukaExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 9010018,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": true,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "AsunaNormal01"
+      ],
+      "ExSkillGroupId": [
+        "AsunaEx01"
+      ],
+      "PublicSkillGroupId": [
+        "AsunaPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "AsunaPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "AsunaExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 9010019,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [
+        "YuzuNormal01"
+      ],
+      "ExSkillGroupId": [
+        "YuzuEx01"
+      ],
+      "PublicSkillGroupId": [
+        "YuzuPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "YuzuPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "YuzuExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 9020000,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [],
+      "ExSkillGroupId": [
+        "KarinEx01"
+      ],
+      "PublicSkillGroupId": [
+        "KarinPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "KarinPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "KarinExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 9020001,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [],
+      "ExSkillGroupId": [
+        "HanaeEx01"
+      ],
+      "PublicSkillGroupId": [
+        "HanaePublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "HanaePassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "HanaeExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 9020002,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [],
+      "ExSkillGroupId": [
+        "AyaneEx01"
+      ],
+      "PublicSkillGroupId": [
+        "AyanePublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "AyanePassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "AyaneExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 9020003,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [],
+      "ExSkillGroupId": [
+        "ChinatsuEx01"
+      ],
+      "PublicSkillGroupId": [
+        "ChinatsuPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "ChinatsuPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "ChinatsuExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 9020004,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [],
+      "ExSkillGroupId": [
+        "KotamaEx01"
+      ],
+      "PublicSkillGroupId": [
+        "KotamaPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "KotamaPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "KotamaExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 9020005,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [],
+      "ExSkillGroupId": [
+        "JuriEx01"
+      ],
+      "PublicSkillGroupId": [
+        "JuriPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "JuriPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "JuriExtraPassive01"
+      ]
+    },
+    {
+      "CharacterId": 9020006,
+      "IsCharacterWeapon": false,
+      "IsFormConversion": false,
+      "IsRootMotion": false,
+      "IsMoveLeftRight": false,
+      "NormalSkillGroupId": [],
+      "ExSkillGroupId": [
+        "ShimikoEx01"
+      ],
+      "PublicSkillGroupId": [
+        "ShimikoPublic01"
+      ],
+      "PassiveSkillGroupId": [
+        "ShimikoPassive01"
+      ],
+      "LeaderSkillGroupId": [],
+      "ExtraPassiveSkillGroupId": [
+        "ShimikoExtraPassive01"
+      ]
     }
   ]
 }

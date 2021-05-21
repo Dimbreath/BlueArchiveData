@@ -25,6 +25,70 @@
       "GuideText": "UI_Event_PlayGuide_Text_801_2"
     },
     {
+      "Id": 3,
+      "EventContentId": 802,
+      "DisplayOrder": 0,
+      "GuideTitle": "UI_Event_PlayGuide_Title_802_2",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_802_6",
+      "GuideText": "UI_Event_PlayGuide_Text_802_6"
+    },
+    {
+      "Id": 4,
+      "EventContentId": 802,
+      "DisplayOrder": 1,
+      "GuideTitle": "UI_Event_PlayGuide_Title_802_2",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_802_2",
+      "GuideText": "UI_Event_PlayGuide_Text_802_2"
+    },
+    {
+      "Id": 5,
+      "EventContentId": 802,
+      "DisplayOrder": 2,
+      "GuideTitle": "UI_Event_PlayGuide_Title_802_2",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_802_7",
+      "GuideText": "UI_Event_PlayGuide_Text_802_7"
+    },
+    {
+      "Id": 6,
+      "EventContentId": 802,
+      "DisplayOrder": 3,
+      "GuideTitle": "UI_Event_PlayGuide_Title_802_0",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_802_0",
+      "GuideText": "UI_Event_PlayGuide_Text_802_0"
+    },
+    {
+      "Id": 7,
+      "EventContentId": 802,
+      "DisplayOrder": 4,
+      "GuideTitle": "UI_Event_PlayGuide_Title_802_1",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_802_1",
+      "GuideText": "UI_Event_PlayGuide_Text_802_1"
+    },
+    {
+      "Id": 8,
+      "EventContentId": 802,
+      "DisplayOrder": 5,
+      "GuideTitle": "UI_Event_PlayGuide_Title_802_3",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_802_3",
+      "GuideText": "UI_Event_PlayGuide_Text_802_3"
+    },
+    {
+      "Id": 9,
+      "EventContentId": 802,
+      "DisplayOrder": 6,
+      "GuideTitle": "UI_Event_PlayGuide_Title_802_4",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_802_4",
+      "GuideText": "UI_Event_PlayGuide_Text_802_4"
+    },
+    {
+      "Id": 10,
+      "EventContentId": 802,
+      "DisplayOrder": 7,
+      "GuideTitle": "UI_Event_PlayGuide_Title_802_5",
+      "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_802_5",
+      "GuideText": "UI_Event_PlayGuide_Text_802_5"
+    },
+    {
       "Id": 9998,
       "EventContentId": 10001,
       "DisplayOrder": 0,

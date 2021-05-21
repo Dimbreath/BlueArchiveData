@@ -8013,8 +8013,8 @@
       "VoiceClipsJp": []
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UITitle",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -8035,8 +8035,8 @@
       ]
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "CharacterGet",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -8047,8 +8047,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": "00",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "붉은겨울 학원 서기장의 행차다!\n영광으로 알도록, 콤라드!",
+      "LocalizeJP": "レッドウィンター連邦学園、書記長のお出ましだ！\n光栄に思うがいい、カムラッド！",
       "VoiceClipsKr": [
         "Cherino_Gachaget"
       ],
@@ -8057,8 +8057,8 @@
       ]
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "Cafe",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -8069,8 +8069,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "음, 좋아좋아.\n서기장은\n만족했다.",
+      "LocalizeJP": "うむ、よしよし。\n書記長は満足だ。",
       "VoiceClipsKr": [
         "Cherino_Cafe_Act_1"
       ],
@@ -8079,8 +8079,8 @@
       ]
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "Cafe",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -8091,8 +8091,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "음, 별 이상없군.",
+      "LocalizeJP": "うむ、異常なし。",
       "VoiceClipsKr": [
         "Cherino_Cafe_Act_2"
       ],
@@ -8101,8 +8101,8 @@
       ]
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "Cafe",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -8113,8 +8113,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "에헴.\n이 몸의\n행차시다.",
+      "LocalizeJP": "えっへん、\n書記長の\nお出ましだぞ。",
       "VoiceClipsKr": [
         "Cherino_Cafe_Act_3"
       ],
@@ -8123,8 +8123,8 @@
       ]
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "Cafe",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -8135,8 +8135,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "오늘도 평화롭군.\n좋아. 이게 다\n이 몸의 덕인 거야!",
+      "LocalizeJP": "今日も平和だな、よし！\nこれも全て、\nおいらのおかげだ！",
       "VoiceClipsKr": [
         "Cherino_Cafe_Act_4"
       ],
@@ -8145,8 +8145,8 @@
       ]
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "Cafe",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -8157,8 +8157,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "(수염…\n잘 붙어있지?)",
+      "LocalizeJP": "（髭……\n取れてないよな？）",
       "VoiceClipsKr": [
         "Cherino_Cafe_Act_5"
       ],
@@ -8167,8 +8167,8 @@
       ]
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Enter",
       "Anniversary": "None",
@@ -8179,8 +8179,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": "01",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "기다리고 있었다! 콤라드!\n할일이 태산이야!\n게으름은 용서하지 않는다!",
+      "LocalizeJP": "待っていたぞ、カムラッド！\nやることがたくさんある！\n怠けることは許さん！",
       "VoiceClipsKr": [
         "Cherino_LogIn_1"
       ],
@@ -8189,8 +8189,8 @@
       ]
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Enter",
       "Anniversary": "None",
@@ -8201,8 +8201,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": "05",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "왔는가! 콤라드!\n너와 함께 해결해야 할 임무가\n잔뜩 있으니 각오해 둬라!",
+      "LocalizeJP": "来たか、カムラッド！\n一緒に片づけなきゃいけない\n任務がいっぱいあるんだから、\n覚悟しとけよ！",
       "VoiceClipsKr": [
         "Cherino_LogIn_2"
       ],
@@ -8211,8 +8211,8 @@
       ]
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -8223,8 +8223,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": "01",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "나를 불렀나, 콤라드?",
+      "LocalizeJP": "おいらを呼んだか、\nカムラッド？",
       "VoiceClipsKr": [
         "Cherino_Lobby_1"
       ],
@@ -8233,8 +8233,8 @@
       ]
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -8245,8 +8245,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": "03",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "오늘도 이 몸과 함께!\n열심히 혁명에 동참하는 거다!",
+      "LocalizeJP": "今日もおいらと共に、\n革命を起こそうではないか！",
       "VoiceClipsKr": [
         "Cherino_Lobby_2"
       ],
@@ -8255,8 +8255,8 @@
       ]
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -8265,10 +8265,10 @@
       "GroupId": 3,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 0,
-      "AnimationName": "02",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "Duration": 3200,
+      "AnimationName": "01",
+      "LocalizeKR": "나의 권위가 느껴지지?",
+      "LocalizeJP": "ようやくおいらの権威を\n理解できたか？",
       "VoiceClipsKr": [
         "Cherino_Lobby_3"
       ],
@@ -8277,48 +8277,84 @@
       ]
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
       "StartDate": null,
       "EndDate": null,
-      "GroupId": 4,
+      "GroupId": 3,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 10000,
-      "AnimationName": "04",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
-      "VoiceClipsKr": [
-        "Cherino_Lobby_4"
-      ],
-      "VoiceClipsJp": [
-        "Cherino_Lobby_4"
-      ]
-    },
-    {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
-      "DialogCategory": "UILobby",
-      "DialogCondition": "Idle",
-      "Anniversary": "None",
-      "StartDate": null,
-      "EndDate": null,
-      "GroupId": 4,
-      "DialogType": "Talk",
-      "ActionName": null,
-      "Duration": 7200,
-      "AnimationName": "05",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "Duration": 6300,
+      "AnimationName": "03",
+      "LocalizeKR": "그치만 두려워하지 않아도 돼.\n이 몸은 관대하니까.",
+      "LocalizeJP": "なに、恐れることは無い。\nおいらは寛大だからな！",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 4,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 3000,
+      "AnimationName": "02",
+      "LocalizeKR": "응?\n수염이 떨어졌다고?",
+      "LocalizeJP": "ん、\n髭が取れてる……？",
+      "VoiceClipsKr": [
+        "Cherino_Lobby_4"
+      ],
+      "VoiceClipsJp": [
+        "Cherino_Lobby_4"
+      ]
+    },
+    {
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 4,
+      "DialogType": "Talk",
+      "ActionName": "stiff",
+      "Duration": 5500,
+      "AnimationName": "04",
+      "LocalizeKR": "히, 히야아아아?! 아, 안돼.\n내 권위가…?",
+      "LocalizeJP": "ひゃぁぁっ！？\nだ、だめっ、\nおいらの権威が……！？",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 4,
+      "DialogType": "Talk",
+      "ActionName": "hophop",
+      "Duration": 8000,
+      "AnimationName": "05",
+      "LocalizeKR": "…뭐야아- 잘 붙어있잖아!\n장난치면 숙청해버릴 거야?",
+      "LocalizeJP": "……って、取れてないじゃん！\nそうやって何度もからかうと、\n粛清するぞ！？",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -8329,8 +8365,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": "03",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "헤헤… 에헤헤헤…\n콤라드, 오늘도 같이\n있으니까 좋아.",
+      "LocalizeJP": "ふふふ、ふふふふっ……\n今日も一日、\nカムラッドと一緒に\nいられるなんてな。",
       "VoiceClipsKr": [
         "Cherino_Lobby_5"
       ],
@@ -8339,52 +8375,8 @@
       ]
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
-      "DialogCategory": "UILobby",
-      "DialogCondition": "Idle",
-      "Anniversary": "None",
-      "StartDate": null,
-      "EndDate": null,
-      "GroupId": 6,
-      "DialogType": "Talk",
-      "ActionName": null,
-      "Duration": 0,
-      "AnimationName": "S2_02",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
-      "VoiceClipsKr": [
-        "Cherino_Lobby_6"
-      ],
-      "VoiceClipsJp": [
-        "Cherino_Lobby_6"
-      ]
-    },
-    {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
-      "DialogCategory": "UILobby",
-      "DialogCondition": "Idle",
-      "Anniversary": "None",
-      "StartDate": null,
-      "EndDate": null,
-      "GroupId": 6,
-      "DialogType": "Talk",
-      "ActionName": null,
-      "Duration": 0,
-      "AnimationName": "S2_04",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
-      "VoiceClipsKr": [
-        "Cherino_Lobby_7"
-      ],
-      "VoiceClipsJp": [
-        "Cherino_Lobby_7"
-      ]
-    },
-    {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "UserBDay",
@@ -8393,10 +8385,10 @@
       "GroupId": 100,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 2800,
-      "AnimationName": "05",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "Duration": 4500,
+      "AnimationName": "02",
+      "LocalizeKR": "생일이라고?\n정말?",
+      "LocalizeJP": "お誕生日？\nそうだったのか？",
       "VoiceClipsKr": [
         "Cherino_Season_Birthday_Player"
       ],
@@ -8405,8 +8397,8 @@
       ]
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "UserBDay",
@@ -8415,16 +8407,16 @@
       "GroupId": 100,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 5900,
+      "Duration": 8000,
       "AnimationName": "03",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "좋아, 콤라드의 탄생일을\n학원기념일로 지정해야겠어!",
+      "LocalizeJP": "よし、ではカムラッドの\n誕生日である今日を、\nレッドウィンターの\n記念日とする！",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "StudentBDay",
@@ -8433,10 +8425,10 @@
       "GroupId": 200,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 5600,
+      "Duration": 5300,
       "AnimationName": "04",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "아, 으, 으응….\n어쩐지 부끄러워….",
+      "LocalizeJP": "あ、うう……\n何だか恥ずかしいな、",
       "VoiceClipsKr": [
         "Cherino_Season_Birthday"
       ],
@@ -8445,8 +8437,8 @@
       ]
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "StudentBDay",
@@ -8455,16 +8447,16 @@
       "GroupId": 200,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 5700,
+      "Duration": 3700,
       "AnimationName": "06",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "생일 축하라니,\n권위가 떨어지는 느낌이야….",
+      "LocalizeJP": "お祝いなんてされると、\n権威が……",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "StudentBDay",
@@ -8473,16 +8465,16 @@
       "GroupId": 200,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 5000,
+      "Duration": 6500,
       "AnimationName": "03",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "무, 물론 고마워,\n콤라드! ",
+      "LocalizeJP": "い、いや、もちろん嬉しい！\nありがとう、カムラッド！",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -8493,8 +8485,8 @@
       "ActionName": null,
       "Duration": 6500,
       "AnimationName": "01",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "새해가 밝았다네, 콤라드.\n이번 한해의 계획은 세웠는가?",
+      "LocalizeJP": "あけましておめでとう、\nカムラッド。\nこの一年の計画は立てたか？",
       "VoiceClipsKr": [
         "Cherino_Season_NewYear"
       ],
@@ -8503,8 +8495,8 @@
       ]
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -8513,16 +8505,16 @@
       "GroupId": 300,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 4700,
+      "Duration": 5000,
       "AnimationName": "03",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "딱히 없다면 나와 같이\n논의해보아도 좋아!",
+      "LocalizeJP": "もしまだなら、\nおいらと一緒に決めるとしよう！",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -8531,50 +8523,50 @@
       "GroupId": 400,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 5900,
-      "AnimationName": "05",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
-      "VoiceClipsKr": [
-        "Cherino_Season_Xmas"
-      ],
-      "VoiceClipsJp": [
-        "Cherino_Season_Xmas"
-      ]
-    },
-    {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
-      "DialogCategory": "UILobby",
-      "DialogCondition": "Idle",
-      "Anniversary": "None",
-      "StartDate": "12/24",
-      "EndDate": "12/25",
-      "GroupId": 400,
-      "DialogType": "Talk",
-      "ActionName": null,
-      "Duration": 4700,
-      "AnimationName": "03",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": []
-    },
-    {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
-      "DialogCategory": "UILobby",
-      "DialogCondition": "Idle",
-      "Anniversary": "None",
-      "StartDate": "10/30",
-      "EndDate": "10/31",
-      "GroupId": 500,
-      "DialogType": "Talk",
-      "ActionName": null,
-      "Duration": 3400,
+      "Duration": 8000,
       "AnimationName": "02",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "크리스마스!\n큰 수염의 붉은 뚱보가\n선물을 인민들에게 나눠 준다니,",
+      "LocalizeJP": "今日はクリスマスだ！\n大きな髭の真っ赤な老人が\nプレゼントを配ると聞いたが……",
+      "VoiceClipsKr": [
+        "Cherino_Season_Xmas"
+      ],
+      "VoiceClipsJp": [
+        "Cherino_Season_Xmas"
+      ]
+    },
+    {
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": "12/24",
+      "EndDate": "12/25",
+      "GroupId": 400,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 5500,
+      "AnimationName": "03",
+      "LocalizeKR": "이거 굉장해!\n나도 선물 받고 싶어!",
+      "LocalizeJP": "良いな！\nおいらもプレゼントほしい！",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": "10/30",
+      "EndDate": "10/31",
+      "GroupId": 500,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 7000,
+      "AnimationName": "02",
+      "LocalizeKR": "할로윈이라면,\n다들 뭔가 요란한 분장을\n해대서 말야.",
+      "LocalizeJP": "皆が派手な仮装を……\nなるほど、ハロウィンか。",
       "VoiceClipsKr": [
         "Cherino_Season_Halloween"
       ],
@@ -8583,8 +8575,8 @@
       ]
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -8592,17 +8584,17 @@
       "EndDate": "10/31",
       "GroupId": 500,
       "DialogType": "Talk",
-      "ActionName": null,
-      "Duration": 4900,
+      "ActionName": "stiff",
+      "Duration": 5500,
       "AnimationName": "04",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "아, 이 수염은\n할로윈 분장이 아니라니까!",
+      "LocalizeJP": "ん？いや、この髭は\nハロウィンの仮装\nなんかじゃない！",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -8610,17 +8602,17 @@
       "EndDate": "10/31",
       "GroupId": 500,
       "DialogType": "Talk",
-      "ActionName": null,
-      "Duration": 4200,
+      "ActionName": "hophop",
+      "Duration": 5000,
       "AnimationName": "05",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "물어보지마!\n숙청해버린다?",
+      "LocalizeJP": "そ、それ以上からかうと\n粛清するぞ！？",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby2",
       "DialogCondition": "Enter",
       "Anniversary": "None",
@@ -8631,8 +8623,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": "S2_01",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "기다리고 있었다! 콤라드!\n할일이 태산이야!\n게으름은 용서하지 않는다!",
+      "LocalizeJP": "待っていたぞ、カムラッド！\nやることがたくさんある！\n怠けることは許さん！",
       "VoiceClipsKr": [
         "Cherino_LogIn_1"
       ],
@@ -8641,8 +8633,8 @@
       ]
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby2",
       "DialogCondition": "Enter",
       "Anniversary": "None",
@@ -8653,8 +8645,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": "S2_05",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "왔는가! 콤라드!\n너와 함께 해결해야 할 임무가\n잔뜩 있으니 각오해 둬라!",
+      "LocalizeJP": "来たか、カムラッド！\n一緒に片づけなきゃいけない\n任務がいっぱいあるんだから、\n覚悟しとけよ！",
       "VoiceClipsKr": [
         "Cherino_LogIn_2"
       ],
@@ -8663,8 +8655,8 @@
       ]
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby2",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -8675,8 +8667,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": "S2_01",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "나를 불렀나, 콤라드?",
+      "LocalizeJP": "おいらを呼んだか、\nカムラッド？",
       "VoiceClipsKr": [
         "Cherino_Lobby_1"
       ],
@@ -8685,8 +8677,8 @@
       ]
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby2",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -8697,8 +8689,8 @@
       "ActionName": null,
       "Duration": 0,
       "AnimationName": "S2_03",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "오늘도 이 몸과 함께!\n열심히 혁명에 동참하는 거다!",
+      "LocalizeJP": "今日もおいらと共に、\n革命を起こそうではないか！",
       "VoiceClipsKr": [
         "Cherino_Lobby_2"
       ],
@@ -8707,8 +8699,8 @@
       ]
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby2",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -8717,10 +8709,10 @@
       "GroupId": 3,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 0,
-      "AnimationName": "S2_02",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "Duration": 3200,
+      "AnimationName": "S2_01",
+      "LocalizeKR": "나의 권위가 느껴지지?",
+      "LocalizeJP": "ようやくおいらの権威を\n理解できたか？",
       "VoiceClipsKr": [
         "Cherino_Lobby_3"
       ],
@@ -8729,48 +8721,48 @@
       ]
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby2",
       "DialogCondition": "Idle",
       "Anniversary": "None",
       "StartDate": null,
       "EndDate": null,
-      "GroupId": 4,
+      "GroupId": 3,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 10000,
-      "AnimationName": "S2_04",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
-      "VoiceClipsKr": [
-        "Cherino_Lobby_4"
-      ],
-      "VoiceClipsJp": [
-        "Cherino_Lobby_4"
-      ]
-    },
-    {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
-      "DialogCategory": "UILobby2",
-      "DialogCondition": "Idle",
-      "Anniversary": "None",
-      "StartDate": null,
-      "EndDate": null,
-      "GroupId": 4,
-      "DialogType": "Talk",
-      "ActionName": null,
-      "Duration": 7200,
-      "AnimationName": "S2_05",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "Duration": 6300,
+      "AnimationName": "S2_03",
+      "LocalizeKR": "그치만 두려워하지 않아도 돼.\n이 몸은 관대하니까.",
+      "LocalizeJP": "なに、恐れることは無い。\nおいらは寛大だからな！",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby2",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 4,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 0,
+      "AnimationName": "S2_03",
+      "LocalizeKR": "헤헤… 에헤헤헤…\n콤라드, 오늘도 같이\n있으니까 좋아.",
+      "LocalizeJP": "ふふふ、ふふふふっ……\n今日も一日、\nカムラッドと一緒に\nいられるなんてな。",
+      "VoiceClipsKr": [
+        "Cherino_Lobby_5"
+      ],
+      "VoiceClipsJp": [
+        "Cherino_Lobby_5"
+      ]
+    },
+    {
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby2",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -8779,144 +8771,118 @@
       "GroupId": 5,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 0,
-      "AnimationName": "S2_03",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
-      "VoiceClipsKr": [
-        "Cherino_Lobby_5"
-      ],
-      "VoiceClipsJp": [
-        "Cherino_Lobby_5"
-      ]
-    },
-    {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
-      "DialogCategory": "UILobby2",
-      "DialogCondition": "Idle",
-      "Anniversary": "None",
-      "StartDate": null,
-      "EndDate": null,
-      "GroupId": 6,
-      "DialogType": "Talk",
-      "ActionName": null,
-      "Duration": 0,
-      "AnimationName": "S2_02",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
-      "VoiceClipsKr": [
-        "Cherino_Lobby_6"
-      ],
-      "VoiceClipsJp": [
-        "Cherino_Lobby_6"
-      ]
-    },
-    {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
-      "DialogCategory": "UILobby2",
-      "DialogCondition": "Idle",
-      "Anniversary": "None",
-      "StartDate": null,
-      "EndDate": null,
-      "GroupId": 6,
-      "DialogType": "Talk",
-      "ActionName": null,
-      "Duration": 0,
-      "AnimationName": "S2_04",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
-      "VoiceClipsKr": [
-        "Cherino_Lobby_7"
-      ],
-      "VoiceClipsJp": [
-        "Cherino_Lobby_7"
-      ]
-    },
-    {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
-      "DialogCategory": "UILobby2",
-      "DialogCondition": "Idle",
-      "Anniversary": "UserBDay",
-      "StartDate": null,
-      "EndDate": null,
-      "GroupId": 100,
-      "DialogType": "Talk",
-      "ActionName": null,
-      "Duration": 2800,
-      "AnimationName": "S2_05",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
-      "VoiceClipsKr": [
-        "Cherino_Season_Birthday_Player"
-      ],
-      "VoiceClipsJp": [
-        "Cherino_Season_Birthday_Player"
-      ]
-    },
-    {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
-      "DialogCategory": "UILobby2",
-      "DialogCondition": "Idle",
-      "Anniversary": "UserBDay",
-      "StartDate": null,
-      "EndDate": null,
-      "GroupId": 100,
-      "DialogType": "Talk",
-      "ActionName": null,
-      "Duration": 5900,
-      "AnimationName": "S2_03",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": []
-    },
-    {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
-      "DialogCategory": "UILobby2",
-      "DialogCondition": "Idle",
-      "Anniversary": "StudentBDay",
-      "StartDate": null,
-      "EndDate": null,
-      "GroupId": 200,
-      "DialogType": "Talk",
-      "ActionName": null,
-      "Duration": 5600,
-      "AnimationName": "S2_04",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
-      "VoiceClipsKr": [
-        "Cherino_Season_Birthday"
-      ],
-      "VoiceClipsJp": [
-        "Cherino_Season_Birthday"
-      ]
-    },
-    {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
-      "DialogCategory": "UILobby2",
-      "DialogCondition": "Idle",
-      "Anniversary": "StudentBDay",
-      "StartDate": null,
-      "EndDate": null,
-      "GroupId": 200,
-      "DialogType": "Talk",
-      "ActionName": null,
-      "Duration": 5700,
+      "Duration": 6000,
       "AnimationName": "S2_06",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "어…. 콤라드 앞에서만\n맨얼굴 보, 보여주는 거니까!",
+      "LocalizeJP": "こ、こうしてリラックスした\n状態でいるのは、\nカムラッドの前でだけだ！",
+      "VoiceClipsKr": [
+        "Cherino_Lobby_6"
+      ],
+      "VoiceClipsJp": [
+        "Cherino_Lobby_6"
+      ]
+    },
+    {
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby2",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 5,
+      "DialogType": "Talk",
+      "ActionName": "hophop",
+      "Duration": 4500,
+      "AnimationName": "S2_05",
+      "LocalizeKR": "놀리면 안돼!\n숙청할 거야?",
+      "LocalizeJP": "か、からかうな！\n粛清するぞ！？",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby2",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 6,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 4300,
+      "AnimationName": "S2_04",
+      "LocalizeKR": "아, 아아…. 이제 슬슬\n수염을 붙이게 해줘어-",
+      "LocalizeJP": "そ、そろそろ髭、\nつけさせて……",
+      "VoiceClipsKr": [
+        "Cherino_Lobby_7"
+      ],
+      "VoiceClipsJp": [
+        "Cherino_Lobby_7"
+      ]
+    },
+    {
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby2",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 6,
+      "DialogType": "Talk",
+      "ActionName": "stiff",
+      "Duration": 5200,
+      "AnimationName": "S2_06",
+      "LocalizeKR": "맨얼굴은 부끄럽단 말야아-",
+      "LocalizeJP": "このままは何だか、\n恥ずかしい……",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby2",
+      "DialogCondition": "Idle",
+      "Anniversary": "UserBDay",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 100,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 4500,
+      "AnimationName": "S2_02",
+      "LocalizeKR": "생일이라고?\n정말?",
+      "LocalizeJP": "お誕生日？\nそうだったのか？",
+      "VoiceClipsKr": [
+        "Cherino_Season_Birthday_Player"
+      ],
+      "VoiceClipsJp": [
+        "Cherino_Season_Birthday_Player"
+      ]
+    },
+    {
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby2",
+      "DialogCondition": "Idle",
+      "Anniversary": "UserBDay",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 100,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 8000,
+      "AnimationName": "S2_03",
+      "LocalizeKR": "좋아, 콤라드의 탄생일을\n학원기념일로 지정해야겠어!",
+      "LocalizeJP": "よし、ではカムラッドの\n誕生日である今日を、\nレッドウィンターの\n記念日とする！",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby2",
       "DialogCondition": "Idle",
       "Anniversary": "StudentBDay",
@@ -8925,16 +8891,56 @@
       "GroupId": 200,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 5000,
-      "AnimationName": "S2_03",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "Duration": 5300,
+      "AnimationName": "S2_04",
+      "LocalizeKR": "아, 으, 으응….\n어쩐지 부끄러워….",
+      "LocalizeJP": "あ、うう……\n何だか恥ずかしいな、",
+      "VoiceClipsKr": [
+        "Cherino_Season_Birthday"
+      ],
+      "VoiceClipsJp": [
+        "Cherino_Season_Birthday"
+      ]
+    },
+    {
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby2",
+      "DialogCondition": "Idle",
+      "Anniversary": "StudentBDay",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 200,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 3700,
+      "AnimationName": "S2_06",
+      "LocalizeKR": "생일 축하라니,\n권위가 떨어지는 느낌이야….",
+      "LocalizeJP": "お祝いなんてされると、\n権威が……",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby2",
+      "DialogCondition": "Idle",
+      "Anniversary": "StudentBDay",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 200,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 6500,
+      "AnimationName": "S2_03",
+      "LocalizeKR": "무, 물론 고마워,\n콤라드! ",
+      "LocalizeJP": "い、いや、もちろん嬉しい！\nありがとう、カムラッド！",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby2",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -8945,8 +8951,8 @@
       "ActionName": null,
       "Duration": 6500,
       "AnimationName": "S2_01",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "새해가 밝았다네, 콤라드.\n이번 한해의 계획은 세웠는가?",
+      "LocalizeJP": "あけましておめでとう、\nカムラッド。\nこの一年の計画は立てたか？",
       "VoiceClipsKr": [
         "Cherino_Season_NewYear"
       ],
@@ -8955,8 +8961,8 @@
       ]
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby2",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -8965,16 +8971,16 @@
       "GroupId": 300,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 4700,
+      "Duration": 5000,
       "AnimationName": "S2_03",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "딱히 없다면 나와 같이\n논의해보아도 좋아!",
+      "LocalizeJP": "もしまだなら、\nおいらと一緒に決めるとしよう！",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby2",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -8983,96 +8989,38 @@
       "GroupId": 400,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 5900,
-      "AnimationName": "S2_05",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
-      "VoiceClipsKr": [
-        "Cherino_Season_Xmas"
-      ],
-      "VoiceClipsJp": [
-        "Cherino_Season_Xmas"
-      ]
-    },
-    {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
-      "DialogCategory": "UILobby2",
-      "DialogCondition": "Idle",
-      "Anniversary": "None",
-      "StartDate": "12/24",
-      "EndDate": "12/25",
-      "GroupId": 400,
-      "DialogType": "Talk",
-      "ActionName": null,
-      "Duration": 4700,
-      "AnimationName": "S2_03",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": []
-    },
-    {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
-      "DialogCategory": "UILobby2",
-      "DialogCondition": "Idle",
-      "Anniversary": "None",
-      "StartDate": "10/30",
-      "EndDate": "10/31",
-      "GroupId": 500,
-      "DialogType": "Talk",
-      "ActionName": null,
-      "Duration": 3400,
+      "Duration": 8000,
       "AnimationName": "S2_02",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "크리스마스!\n큰 수염의 붉은 뚱보가\n선물을 인민들에게 나눠 준다니,",
+      "LocalizeJP": "今日はクリスマスだ！\n大きな髭の真っ赤な老人が\nプレゼントを配ると聞いたが……",
       "VoiceClipsKr": [
-        "Cherino_Season_Halloween"
+        "Cherino_Season_Xmas"
       ],
       "VoiceClipsJp": [
-        "Cherino_Season_Halloween"
+        "Cherino_Season_Xmas"
       ]
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobby2",
       "DialogCondition": "Idle",
       "Anniversary": "None",
-      "StartDate": "10/30",
-      "EndDate": "10/31",
-      "GroupId": 500,
+      "StartDate": "12/24",
+      "EndDate": "12/25",
+      "GroupId": 400,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 4900,
-      "AnimationName": "S2_04",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "Duration": 5500,
+      "AnimationName": "S2_03",
+      "LocalizeKR": "이거 굉장해!\n나도 선물 받고 싶어!",
+      "LocalizeJP": "良いな！\nおいらもプレゼントほしい！",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
-      "DialogCategory": "UILobby2",
-      "DialogCondition": "Idle",
-      "Anniversary": "None",
-      "StartDate": "10/30",
-      "EndDate": "10/31",
-      "GroupId": 500,
-      "DialogType": "Talk",
-      "ActionName": null,
-      "Duration": 4200,
-      "AnimationName": "S2_05",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": []
-    },
-    {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobbySpecial",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -9081,16 +9029,16 @@
       "GroupId": 1,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 7333,
+      "Duration": 13833,
       "AnimationName": "Talk_01_M",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "꺄하하하하-,\n그 정도로는 안돼, 좀 더 크게,\n더 크게 해야지.",
+      "LocalizeJP": "あはははは！\n……うん、まだ足りないな！\nもっともーっと大きくしよう！",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobbySpecial",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -9099,16 +9047,16 @@
       "GroupId": 2,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 7667,
+      "Duration": 7833,
       "AnimationName": "Talk_02_M",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "에, 에, 엣-취!\n…훌쩍.",
+      "LocalizeJP": "は、は……はっくしょん！\n……くすん。",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobbySpecial",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -9117,16 +9065,16 @@
       "GroupId": 3,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 5500,
+      "Duration": 6633,
       "AnimationName": "Talk_03_M",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "에잇, 방해하지 말고\n기다려 보라고!\n지금 엄청 집중하고 있으니까!",
+      "LocalizeJP": "ええいっ、構うな！\n今は集中しているんだ！",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobbySpecial",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -9135,34 +9083,106 @@
       "GroupId": 4,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 7500,
+      "Duration": 8000,
       "AnimationName": "Talk_04_M",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "춥지 않냐고?\n몸이 허약하군, 콤라드!\n이 정도는 끄떡 없어-!",
+      "LocalizeJP": "寒くないか……って？\nひ弱だな、カムラッド！\nおいらはこれぐらい\nなんともない！",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobbySpecial",
       "DialogCondition": "Idle",
       "Anniversary": "None",
       "StartDate": null,
       "EndDate": null,
       "GroupId": 4,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 6500,
+      "AnimationName": null,
+      "LocalizeKR": "아직 3시간은\n더 놀 수 있단 말이다!",
+      "LocalizeJP": "まだまだ、\nあと3時間は遊べるぞ！",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobbySpecial",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 5,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 6000,
+      "AnimationName": "Talk_05_M",
+      "LocalizeKR": "콤라드에겐 아빠 눈사람을\n만들 기회를 주겠네!",
+      "LocalizeJP": "良いことを思いついたぞ、\nカムラッドはそこに\n雪だるまを作れ！",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobbySpecial",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 5,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 4500,
+      "AnimationName": null,
+      "LocalizeKR": "이거?\n내가 만드는 건 당연히….\n엄마 눈사람이지!",
+      "LocalizeJP": "こっちでおいらが作ったのを、\nその横に添えよう！",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobbySpecial",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 5,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 5000,
+      "AnimationName": null,
+      "LocalizeKR": "응? 왜?\n당연한 거 아닌가?",
+      "LocalizeJP": "ん？何でって？\n良いと思わないか？",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobbySpecial",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 5,
       "DialogType": "Talk",
       "ActionName": null,
       "Duration": 5500,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "나는 딸 눈사람도\n괘, 괜찮은데….",
+      "LocalizeJP": "……その二つの間に、\n小さい雪だるまも作ろうか……",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
     {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
+      "CharacterId": 10017,
+      "ProductionStep": "Release",
       "DialogCategory": "UILobbySpecial",
       "DialogCondition": "Idle",
       "Anniversary": "None",
@@ -9171,64 +9191,10 @@
       "GroupId": 5,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 10000,
-      "AnimationName": "Talk_05_M",
-      "LocalizeKR": null,
-      "LocalizeJP": null,
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": []
-    },
-    {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
-      "DialogCategory": "UILobbySpecial",
-      "DialogCondition": "Idle",
-      "Anniversary": "None",
-      "StartDate": null,
-      "EndDate": null,
-      "GroupId": 5,
-      "DialogType": "Talk",
-      "ActionName": null,
-      "Duration": 7300,
+      "Duration": 7000,
       "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": []
-    },
-    {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
-      "DialogCategory": "UILobbySpecial",
-      "DialogCondition": "Idle",
-      "Anniversary": "None",
-      "StartDate": null,
-      "EndDate": null,
-      "GroupId": 5,
-      "DialogType": "Talk",
-      "ActionName": null,
-      "Duration": 3500,
-      "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
-      "VoiceClipsKr": [],
-      "VoiceClipsJp": []
-    },
-    {
-      "CharacterId": 19003,
-      "ProductionStep": "Doing",
-      "DialogCategory": "UILobbySpecial",
-      "DialogCondition": "Idle",
-      "Anniversary": "None",
-      "StartDate": null,
-      "EndDate": null,
-      "GroupId": 5,
-      "DialogType": "Talk",
-      "ActionName": null,
-      "Duration": 5767,
-      "AnimationName": null,
-      "LocalizeKR": null,
-      "LocalizeJP": null,
+      "LocalizeKR": "무, 물론\n콤라드가 괜찮다면 말이야!",
+      "LocalizeJP": "あっ、も、もちろんそれで\nカムラッドが良いならね！？",
       "VoiceClipsKr": [],
       "VoiceClipsJp": []
     },
@@ -26317,7 +26283,7 @@
         "Eimi_Cafe_monolog_3"
       ],
       "VoiceClipsJp": [
-        "Eimi_Cafe_monolog3"
+        "Eimi_Cafe_monolog_3"
       ]
     },
     {
@@ -26339,7 +26305,7 @@
         "Eimi_Cafe_monolog_2"
       ],
       "VoiceClipsJp": [
-        "Eimi_Cafe_monolog2"
+        "Eimi_Cafe_monolog_2"
       ]
     },
     {
@@ -26383,7 +26349,7 @@
         "Eimi_Cafe_monolog_1"
       ],
       "VoiceClipsJp": [
-        "Eimi_Cafe_monolog1"
+        "Eimi_Cafe_monolog_1"
       ]
     },
     {
@@ -33618,9 +33584,7 @@
       "LocalizeKR": "올해는,\n어쩐지 선생님의 강의를\n더 많이 듣고 싶네요.",
       "LocalizeJP": "今年は、なんだか先生の\n授業をもっとたくさん\n受けたい気持ちですね。",
       "VoiceClipsKr": [],
-      "VoiceClipsJp": [
-        "Kotori_Season_NewYear"
-      ]
+      "VoiceClipsJp": []
     },
     {
       "CharacterId": 16002,
@@ -37513,16 +37477,12 @@
       "GroupId": 1,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 0,
-      "AnimationName": null,
+      "Duration": 7000,
+      "AnimationName": "Talk_01_M",
       "LocalizeKR": "응? 선생님?\n거기 계시죠?",
       "LocalizeJP": "…？…先生？\nそこにいらっしゃいます、よね？",
-      "VoiceClipsKr": [
-        "Ayane_MemorialLobby_1_1"
-      ],
-      "VoiceClipsJp": [
-        "Ayane_MemorialLobby_1_1"
-      ]
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
     },
     {
       "CharacterId": 23005,
@@ -37535,16 +37495,12 @@
       "GroupId": 1,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 0,
+      "Duration": 7000,
       "AnimationName": null,
       "LocalizeKR": "눈이 나빠서…\n잘 안보여요.",
       "LocalizeJP": "メガネが無いと…\nちょっとよく見えなくて。",
-      "VoiceClipsKr": [
-        "Ayane_MemorialLobby_1_2"
-      ],
-      "VoiceClipsJp": [
-        "Ayane_MemorialLobby_1_2"
-      ]
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
     },
     {
       "CharacterId": 23005,
@@ -37557,16 +37513,12 @@
       "GroupId": 2,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 0,
-      "AnimationName": null,
+      "Duration": 8000,
+      "AnimationName": "Talk_02_M",
       "LocalizeKR": "네? 아. 확실히 저,\n평소엔 벗을 일이\n거의 없으니까요.",
       "LocalizeJP": "え？あ、はい。確かに私、\nほとんどずっと付けて\nますもんね。",
-      "VoiceClipsKr": [
-        "Ayane_MemorialLobby_2_1"
-      ],
-      "VoiceClipsJp": [
-        "Ayane_MemorialLobby_2_1"
-      ]
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
     },
     {
       "CharacterId": 23005,
@@ -37579,16 +37531,12 @@
       "GroupId": 2,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 0,
+      "Duration": 8000,
       "AnimationName": null,
       "LocalizeKR": "아, 아하하…\n아무리 그래도 씻을 때도\n안경을 끼진 않아요.",
       "LocalizeJP": "あ、あはは…流石に、\n顔を洗う時は外しますから。",
-      "VoiceClipsKr": [
-        "Ayane_MemorialLobby_2_2"
-      ],
-      "VoiceClipsJp": [
-        "Ayane_MemorialLobby_2_2"
-      ]
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
     },
     {
       "CharacterId": 23005,
@@ -37601,16 +37549,12 @@
       "GroupId": 3,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 0,
-      "AnimationName": null,
+      "Duration": 4200,
+      "AnimationName": "Talk_03_M",
       "LocalizeKR": "뭔가 얼굴이 뜨거워요….",
       "LocalizeJP": "な、なんだか顔が\n熱いです…。",
-      "VoiceClipsKr": [
-        "Ayane_MemorialLobby_3_1"
-      ],
-      "VoiceClipsJp": [
-        "Ayane_MemorialLobby_3_1"
-      ]
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
     },
     {
       "CharacterId": 23005,
@@ -37623,16 +37567,12 @@
       "GroupId": 3,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 0,
+      "Duration": 7000,
       "AnimationName": null,
       "LocalizeKR": "선생님께 굉장히 실례되고\n부끄러운 모습만\n보여준 거 같아서…. ",
       "LocalizeJP": "先生に、恥ずかしいところを\n見られてしまって…。",
-      "VoiceClipsKr": [
-        "Ayane_MemorialLobby_3_2"
-      ],
-      "VoiceClipsJp": [
-        "Ayane_MemorialLobby_3_2"
-      ]
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
     },
     {
       "CharacterId": 23005,
@@ -37645,16 +37585,12 @@
       "GroupId": 4,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 0,
-      "AnimationName": null,
+      "Duration": 5000,
+      "AnimationName": "Talk_04_M",
       "LocalizeKR": "네?! 귀, 귀엽다니…\n그런…",
       "LocalizeJP": "はいっ？！か、可愛いって…\nそんな…",
-      "VoiceClipsKr": [
-        "Ayane_MemorialLobby_4_1"
-      ],
-      "VoiceClipsJp": [
-        "Ayane_MemorialLobby_4_1"
-      ]
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
     },
     {
       "CharacterId": 23005,
@@ -37667,16 +37603,12 @@
       "GroupId": 4,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 0,
+      "Duration": 5500,
       "AnimationName": null,
       "LocalizeKR": " 아, 아우아….",
       "LocalizeJP": "あ、あぅぅ…。",
-      "VoiceClipsKr": [
-        "Ayane_MemorialLobby_4_2"
-      ],
-      "VoiceClipsJp": [
-        "Ayane_MemorialLobby_4_2"
-      ]
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
     },
     {
       "CharacterId": 23005,
@@ -37689,16 +37621,12 @@
       "GroupId": 5,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 0,
-      "AnimationName": null,
+      "Duration": 4700,
+      "AnimationName": "Talk_05_M",
       "LocalizeKR": "그, 그렇게 쳐다보시면….",
       "LocalizeJP": "そ、そんなに\n見つめられますと…。",
-      "VoiceClipsKr": [
-        "Ayane_MemorialLobby_5_1"
-      ],
-      "VoiceClipsJp": [
-        "Ayane_MemorialLobby_5_1"
-      ]
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
     },
     {
       "CharacterId": 23005,
@@ -37711,16 +37639,12 @@
       "GroupId": 5,
       "DialogType": "Talk",
       "ActionName": null,
-      "Duration": 0,
+      "Duration": 5500,
       "AnimationName": null,
       "LocalizeKR": "부…끄러운데….",
       "LocalizeJP": "は…恥ずかしいです…。",
-      "VoiceClipsKr": [
-        "Ayane_MemorialLobby_5_2"
-      ],
-      "VoiceClipsJp": [
-        "Ayane_MemorialLobby_5_2"
-      ]
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
     },
     {
       "CharacterId": 26004,
@@ -43369,6 +43293,1346 @@
       "VoiceClipsJp": [
         "Izuna_MemorialLobby_5_2"
       ]
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UITitle",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 1,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 0,
+      "AnimationName": null,
+      "LocalizeKR": null,
+      "LocalizeJP": null,
+      "VoiceClipsKr": [
+        "Nodoka_Title"
+      ],
+      "VoiceClipsJp": [
+        "Nodoka_Title"
+      ]
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "CharacterGet",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 1,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 0,
+      "AnimationName": "00",
+      "LocalizeKR": "망원경 너머로만 지켜보던 \n그 선생님이 맞으신가요…?\n저, 감격했어요…!",
+      "LocalizeJP": "ずっと望遠鏡越しで見ていた、\nあの先生で合ってますか……？\n私、感激です……！",
+      "VoiceClipsKr": [
+        "Nodoka_Gachaget"
+      ],
+      "VoiceClipsJp": [
+        "Nodoka_Gachaget"
+      ]
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "Cafe",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 1,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 0,
+      "AnimationName": null,
+      "LocalizeKR": "후후,\n멋진 가구 발견!",
+      "LocalizeJP": "ふふ、\n素敵な家具を\n発見しました！",
+      "VoiceClipsKr": [
+        "Nodoka_Cafe_monolog_1"
+      ],
+      "VoiceClipsJp": [
+        "Nodoka_Cafe_monolog_1"
+      ]
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "Cafe",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 2,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 0,
+      "AnimationName": null,
+      "LocalizeKR": "저 너머에는\n뭐가 있으려나…?",
+      "LocalizeJP": "あの向こうには\n何があるのかな……？",
+      "VoiceClipsKr": [
+        "Nodoka_Cafe_monolog_2"
+      ],
+      "VoiceClipsJp": [
+        "Nodoka_Cafe_monolog_2"
+      ]
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "Cafe",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 3,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 0,
+      "AnimationName": null,
+      "LocalizeKR": "빨리 특별반에서\n도망치지 않으면…",
+      "LocalizeJP": "早く特別クラスから\n抜け出さないと……。",
+      "VoiceClipsKr": [
+        "Nodoka_Cafe_monolog_3"
+      ],
+      "VoiceClipsJp": [
+        "Nodoka_Cafe_monolog_3"
+      ]
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "Cafe",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 4,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 0,
+      "AnimationName": null,
+      "LocalizeKR": "이곳의 풍경은\n아름답네요~",
+      "LocalizeJP": "ここは綺麗な\nところですね～",
+      "VoiceClipsKr": [
+        "Nodoka_Cafe_Act_1"
+      ],
+      "VoiceClipsJp": [
+        "Nodoka_Cafe_Act_1"
+      ]
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "Cafe",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 5,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 0,
+      "AnimationName": null,
+      "LocalizeKR": "선생님은…\n어디 계시려나?",
+      "LocalizeJP": "先生は……\nどこにいるのかな？",
+      "VoiceClipsKr": [
+        "Nodoka_Cafe_Act_2"
+      ],
+      "VoiceClipsJp": [
+        "Nodoka_Cafe_Act_2"
+      ]
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Enter",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 1,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 2500,
+      "AnimationName": "03",
+      "LocalizeKR": "금방 돌아오실 줄 알았어요!",
+      "LocalizeJP": "すぐにお戻りになると\n思ってました！",
+      "VoiceClipsKr": [
+        "Nodoka_LogIn_1"
+      ],
+      "VoiceClipsJp": [
+        "Nodoka_LogIn_1"
+      ]
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Enter",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 1,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 5000,
+      "AnimationName": "01",
+      "LocalizeKR": "줄곧…\n지켜보고 있었거든요!",
+      "LocalizeJP": "ずっと……\nずっと見守ってましたから！",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Enter",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 2,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 4500,
+      "AnimationName": "02",
+      "LocalizeKR": "어라?\n선생님이 방금 전까지 여기에…",
+      "LocalizeJP": "あれ？\nさっきまで先生がそこに……。",
+      "VoiceClipsKr": [
+        "Nodoka_LogIn_2"
+      ],
+      "VoiceClipsJp": [
+        "Nodoka_LogIn_2"
+      ]
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Enter",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 2,
+      "DialogType": "Talk",
+      "ActionName": "stiff",
+      "Duration": 7500,
+      "AnimationName": "04",
+      "LocalizeKR": "우앗, 깜짝이야!\n어, 언제 오셨나요?\n가, 가, 감시하고\n있었던 건 아녜요!",
+      "LocalizeJP": "うわっ、び、びっくりしました！\nい、いつからこちらに？\nい、いえ、監視してたわけでは\nありません！",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 1,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 0,
+      "AnimationName": "07",
+      "LocalizeKR": "하아, 하아…\n역시 선생님을 지켜보는 게\n가장 즐겁네요.",
+      "LocalizeJP": "はあ、はあ……\nやっぱり先生を見ているのが\n一番楽しいですね。",
+      "VoiceClipsKr": [
+        "Nodoka_Lobby_1"
+      ],
+      "VoiceClipsJp": [
+        "Nodoka_Lobby_1"
+      ]
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 2,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 0,
+      "AnimationName": "00",
+      "LocalizeKR": "후후…\n선생님의 얼굴은 아무리 봐도\n질리지가 않아요!",
+      "LocalizeJP": "ふふ……\n先生の顔はどれだけ\n見ていても飽きません！",
+      "VoiceClipsKr": [
+        "Nodoka_Lobby_2"
+      ],
+      "VoiceClipsJp": [
+        "Nodoka_Lobby_2"
+      ]
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 3,
+      "DialogType": "Talk",
+      "ActionName": "jump",
+      "Duration": 0,
+      "AnimationName": "05",
+      "LocalizeKR": "웃…\n아무한테나 하악대는 게\n아니거든요?",
+      "LocalizeJP": "うっ……\n誰に対してもこういうことを\nしてるわけじゃないんですよ？",
+      "VoiceClipsKr": [
+        "Nodoka_Lobby_3"
+      ],
+      "VoiceClipsJp": [
+        "Nodoka_Lobby_3"
+      ]
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 4,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 2500,
+      "AnimationName": "99",
+      "LocalizeKR": "이 드넓은 우주를\n보고 있노라면…",
+      "LocalizeJP": "この広い宇宙を\n見ていると……",
+      "VoiceClipsKr": [
+        "Nodoka_Lobby_4"
+      ],
+      "VoiceClipsJp": [
+        "Nodoka_Lobby_4"
+      ]
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 4,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 8500,
+      "AnimationName": "01",
+      "LocalizeKR": "사람의 삶이란\n참으로 덧없는 것임을\n새삼 느끼네요.",
+      "LocalizeJP": "人の人生って、\n本当に儚いなあって、\n改めて感じますね。",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 5,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 0,
+      "AnimationName": "03",
+      "LocalizeKR": "후후, 언젠가 선생님과 함께\n밤하늘을 같이 관찰하러\n가면 좋겠네요.",
+      "LocalizeJP": "ふふ、いつか先生と一緒に、\n夜空を観察しに\n行きたいですね。",
+      "VoiceClipsKr": [
+        "Nodoka_Lobby_5"
+      ],
+      "VoiceClipsJp": [
+        "Nodoka_Lobby_5"
+      ]
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "UserBDay",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 100,
+      "DialogType": "Talk",
+      "ActionName": "greeting",
+      "Duration": 2800,
+      "AnimationName": "03",
+      "LocalizeKR": "생신 축하드려요,\n선생님!",
+      "LocalizeJP": "お誕生日おめでとう\nございます、先生！",
+      "VoiceClipsKr": [
+        "Nodoka_Season_Birthday_Player"
+      ],
+      "VoiceClipsJp": [
+        "Nodoka_Season_Birthday_Player"
+      ]
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "UserBDay",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 100,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 7700,
+      "AnimationName": "01",
+      "LocalizeKR": "오늘 하루는 나쁜 일이\n생기지 않도록 제가 열심히\n지켜봐 드릴게요!",
+      "LocalizeJP": "今日一日、悪いことが\n起きないように私がしっかり\n見守っていてあげます！",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "StudentBDay",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 200,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 6300,
+      "AnimationName": "00",
+      "LocalizeKR": "선생님, 그거 아세요?\n제 생일날에 밤하늘을\n올려다보면 ",
+      "LocalizeJP": "先生、知ってますか？\n私の誕生日の晩に、\n夜空を見上げると",
+      "VoiceClipsKr": [
+        "Nodoka_Season_Birthday"
+      ],
+      "VoiceClipsJp": [
+        "Nodoka_Season_Birthday"
+      ]
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "StudentBDay",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 200,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 8700,
+      "AnimationName": "99",
+      "LocalizeKR": "사이좋은 쌍둥이 별이\n남쪽 하늘을 지나가는 것을\n볼 수 있답니다.\n그 날이 바로…",
+      "LocalizeJP": "仲のいい双子の星が、\n南の空を通過するのが\n見られるんですよ。\nその日がなんと……",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "StudentBDay",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 200,
+      "DialogType": "Talk",
+      "ActionName": "hophop",
+      "Duration": 3000,
+      "AnimationName": "07",
+      "LocalizeKR": "오늘이에요!",
+      "LocalizeJP": "今日なんです！",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": "01/01",
+      "EndDate": "01/03",
+      "GroupId": 300,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 0,
+      "AnimationName": "99",
+      "LocalizeKR": "올해는 꼭,\n여기에서 벗어나\n본교사로 돌아가기를…",
+      "LocalizeJP": "今年こそどうにか、\nここを抜け出して本校舎に\n戻れますように……。",
+      "VoiceClipsKr": [
+        "Nodoka_Season_NewYear"
+      ],
+      "VoiceClipsJp": [
+        "Nodoka_Season_NewYear"
+      ]
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": "12/24",
+      "EndDate": "12/25",
+      "GroupId": 400,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 2700,
+      "AnimationName": "00",
+      "LocalizeKR": "크리스마스의 야경은\n멀리서 바라보면",
+      "LocalizeJP": "クリスマスの夜景は\n遠くから見ると、",
+      "VoiceClipsKr": [
+        "Nodoka_Season_Xmas"
+      ],
+      "VoiceClipsJp": [
+        "Nodoka_Season_Xmas"
+      ]
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": "12/24",
+      "EndDate": "12/25",
+      "GroupId": 400,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 5000,
+      "AnimationName": "03",
+      "LocalizeKR": "밤하늘처럼 반짝거려서\n예쁘답니다.",
+      "LocalizeJP": "夜空みたいに\nキラキラしていて、\n綺麗なんです。",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": "10/30",
+      "EndDate": "10/31",
+      "GroupId": 500,
+      "DialogType": "Talk",
+      "ActionName": "stiff",
+      "Duration": 0,
+      "AnimationName": "06",
+      "LocalizeKR": "이번 할로윈에는\n과연 저희한테도\n사탕이 보급될까요…",
+      "LocalizeJP": "今年のハロウィーンは\n果たして、私たちにも飴が\n支給されるのでしょうか……。",
+      "VoiceClipsKr": [
+        "Nodoka_Season_Halloween"
+      ],
+      "VoiceClipsJp": [
+        "Nodoka_Season_Halloween"
+      ]
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobbySpecial",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 1,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 8833,
+      "AnimationName": "Talk_01_M",
+      "LocalizeKR": "어머나, 별똥별이에요!\n앗… 저기도! 또 저기도!",
+      "LocalizeJP": "うわっ、流れ星です！\nあっ……あそこにも！\nそっちにも！",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobbySpecial",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 2,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 8167,
+      "AnimationName": "Talk_02_M",
+      "LocalizeKR": "하늘에 별똥별이 가득해요!\n정말 유성이 비처럼 내리네요!",
+      "LocalizeJP": "空に流れ星がいっぱいです！\n流星が本当に、\n雨のように降ってますね！",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobbySpecial",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 2,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 10500,
+      "AnimationName": null,
+      "LocalizeKR": "이렇게 아름다운 광경을\n직접 눈으로 볼 수 있다니…\n정말 꿈만 같네요.",
+      "LocalizeJP": "こんなに美しい光景を\n実際に見られるなんて……\n本当に、夢みたいです。",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobbySpecial",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 3,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 3500,
+      "AnimationName": "Talk_03_M",
+      "LocalizeKR": "소원이요?",
+      "LocalizeJP": "願い事ですか？",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobbySpecial",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 3,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 7000,
+      "AnimationName": null,
+      "LocalizeKR": "아니…\n오늘은 괜찮아요.",
+      "LocalizeJP": "いえ……\n今日は、大丈夫です。",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobbySpecial",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 4,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 5500,
+      "AnimationName": "Talk_04_M",
+      "LocalizeKR": "좋아하는 사람과\n아름다운 광경을\n함께 지켜볼 수 있는데,",
+      "LocalizeJP": "好きな人と一緒に、\nこんなに綺麗な星空を\n見ることができているのに、",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobbySpecial",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 4,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 6500,
+      "AnimationName": null,
+      "LocalizeKR": "여기서 더한 소원을 빌면\n어쩐지 별님에게\n혼이 날 것 같아서…",
+      "LocalizeJP": "これ以上願い事をしたら、\nなんだかお星様に\n叱られてしまいそうで……。",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 26006,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobbySpecial",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 4,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 6833,
+      "AnimationName": null,
+      "LocalizeKR": "오늘은 이것으로\n만족할래요.",
+      "LocalizeJP": "今日はこれだけで、\n満足です。",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "UITitle",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 1,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 0,
+      "AnimationName": null,
+      "LocalizeKR": null,
+      "LocalizeJP": null,
+      "VoiceClipsKr": [
+        "Yuzu_Title"
+      ],
+      "VoiceClipsJp": [
+        "Yuzu_Title"
+      ]
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "CharacterGet",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 1,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 0,
+      "AnimationName": "01",
+      "LocalizeKR": "게임개발부 부장…… 유즈예요.\n저, 정말로…… 저를 데려가주시겠어요?",
+      "LocalizeJP": "ゲーム開発部、部長……ユズです。\nほ、本当に……わたしを連れてってくれるんですか？",
+      "VoiceClipsKr": [
+        "Yuzu_Gachaget"
+      ],
+      "VoiceClipsJp": [
+        "Yuzu_Gachaget"
+      ]
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "Cafe",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 1,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 0,
+      "AnimationName": null,
+      "LocalizeKR": "역시 선생님도……\n성숙한 타입을\n좋아하겠지?",
+      "LocalizeJP": "きっと先生も……\nオトナな女性が\n好きなはず、だよね？",
+      "VoiceClipsKr": [
+        "Yuzu_Cafe_monolog_1"
+      ],
+      "VoiceClipsJp": [
+        "Yuzu_Cafe_monolog_1"
+      ]
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "Cafe",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 2,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 0,
+      "AnimationName": null,
+      "LocalizeKR": "게임을 본격적으로\n공부하고 싶어.",
+      "LocalizeJP": "本格的に\nゲームを勉強したい。",
+      "VoiceClipsKr": [
+        "Yuzu_Cafe_monolog_2"
+      ],
+      "VoiceClipsJp": [
+        "Yuzu_Cafe_monolog_2"
+      ]
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "Cafe",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 3,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 0,
+      "AnimationName": null,
+      "LocalizeKR": "편안해 보이는 공간이네.\n이런 곳에서\n코~ 하고 싶다.",
+      "LocalizeJP": "ゆったりとした空間\nだね。こんなところで\nすやすやしたいな。",
+      "VoiceClipsKr": [
+        "Yuzu_Cafe_monolog_3"
+      ],
+      "VoiceClipsJp": [
+        "Yuzu_Cafe_monolog_3"
+      ]
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "Cafe",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 4,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 0,
+      "AnimationName": null,
+      "LocalizeKR": "으음.\n숨을 곳은 없으려나.",
+      "LocalizeJP": "うーん。\n隠れられる場所は\nないのかな。",
+      "VoiceClipsKr": [
+        "Yuzu_Cafe_Act_1"
+      ],
+      "VoiceClipsJp": [
+        "Yuzu_Cafe_Act_1"
+      ]
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "Cafe",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 5,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 0,
+      "AnimationName": null,
+      "LocalizeKR": "히익!\n어째서 여기에!",
+      "LocalizeJP": "ひゃっ！\nど、どうしてここに！",
+      "VoiceClipsKr": [
+        "Yuzu_Cafe_Act_2"
+      ],
+      "VoiceClipsJp": [
+        "Yuzu_Cafe_Act_2"
+      ]
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Enter",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 1,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 0,
+      "AnimationName": "03",
+      "LocalizeKR": "서, 선생님. 오셨군요.\n기다리고 있었어요.",
+      "LocalizeJP": "せ、先生。いらっしゃい。\n待ってました。",
+      "VoiceClipsKr": [
+        "Yuzu_LogIn_1"
+      ],
+      "VoiceClipsJp": [
+        "Yuzu_LogIn_1"
+      ]
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Enter",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 2,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 0,
+      "AnimationName": "01",
+      "LocalizeKR": "선생님…… \n어서 오세요.",
+      "LocalizeJP": "先生……\nお帰りなさい。",
+      "VoiceClipsKr": [
+        "Yuzu_LogIn_2"
+      ],
+      "VoiceClipsJp": [
+        "Yuzu_LogIn_2"
+      ]
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 1,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 0,
+      "AnimationName": "03",
+      "LocalizeKR": "선생님의 부탁이라면……\n기쁘게 받아들일게요.",
+      "LocalizeJP": "先生の頼みなら……\n喜んでお受けします。",
+      "VoiceClipsKr": [
+        "Yuzu_Lobby_1"
+      ],
+      "VoiceClipsJp": [
+        "Yuzu_Lobby_1"
+      ]
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 2,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 3500,
+      "AnimationName": "03",
+      "LocalizeKR": "네. 무슨 일이든\n말씀해 주세요.",
+      "LocalizeJP": "はい。どんなことでも\nおっしゃってください。",
+      "VoiceClipsKr": [
+        "Yuzu_Lobby_2"
+      ],
+      "VoiceClipsJp": [
+        "Yuzu_Lobby_2"
+      ]
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 2,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 4000,
+      "AnimationName": "05",
+      "LocalizeKR": "최선을……\n다할게요!",
+      "LocalizeJP": "ベストを……\n尽くします！",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 3,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 3200,
+      "AnimationName": "02",
+      "LocalizeKR": "아.\n고양이도 키우고 싶어요.",
+      "LocalizeJP": "あ。\n猫も飼いたいです。",
+      "VoiceClipsKr": [
+        "Yuzu_Lobby_3"
+      ],
+      "VoiceClipsJp": [
+        "Yuzu_Lobby_3"
+      ]
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 3,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 5300,
+      "AnimationName": "03",
+      "LocalizeKR": "게임과 고양이만 있어도\n세상은 살만하거든요.",
+      "LocalizeJP": "ゲームと猫さえあれば、\n世の中を生きていけます。",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 4,
+      "DialogType": "Talk",
+      "ActionName": "greeting",
+      "Duration": 5500,
+      "AnimationName": "05",
+      "LocalizeKR": "……네. 선생님.\n저도, 강해질게요.",
+      "LocalizeJP": "……はい。先生。\nわたしも、強くなります。",
+      "VoiceClipsKr": [
+        "Yuzu_Lobby_4"
+      ],
+      "VoiceClipsJp": [
+        "Yuzu_Lobby_4"
+      ]
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 4,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 10500,
+      "AnimationName": "03",
+      "LocalizeKR": "선생님과 모두가……\n저를 지켜준만큼.\n저도 모두에게\n힘이 되고 싶어요.",
+      "LocalizeJP": "先生とみんなが……\nわたしを守ってくれたように、\nわたしもみんなの\n力になりたいです。",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 5,
+      "DialogType": "Think",
+      "ActionName": null,
+      "Duration": 0,
+      "AnimationName": "00",
+      "LocalizeKR": "(이 사람에게……\n어울리는 내가 되고 싶어.)",
+      "LocalizeJP": "（この人に……\n相応しいわたしになりたい。）",
+      "VoiceClipsKr": [
+        "Yuzu_Lobby_5"
+      ],
+      "VoiceClipsJp": [
+        "Yuzu_Lobby_5"
+      ]
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "UserBDay",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 100,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 4500,
+      "AnimationName": "03",
+      "LocalizeKR": "생일 축하드려요 선생님.",
+      "LocalizeJP": "お誕生日おめでとう\nございます、先生。",
+      "VoiceClipsKr": [
+        "Yuzu_Season_Birthday_Player"
+      ],
+      "VoiceClipsJp": [
+        "Yuzu_Season_Birthday_Player"
+      ]
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "UserBDay",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 100,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 4500,
+      "AnimationName": "07",
+      "LocalizeKR": "진심으로……\n진심으로요!",
+      "LocalizeJP": "本当に……\n本当に……！",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "StudentBDay",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 200,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 4500,
+      "AnimationName": "00",
+      "LocalizeKR": "오, 오늘은\n제 생일이에요.",
+      "LocalizeJP": "きょ、今日はわたしの\n誕生日です。",
+      "VoiceClipsKr": [
+        "Yuzu_Season_Birthday"
+      ],
+      "VoiceClipsJp": [
+        "Yuzu_Season_Birthday"
+      ]
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "StudentBDay",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 200,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 7000,
+      "AnimationName": "02",
+      "LocalizeKR": "키보토스 문화의 날이니까……\n잊으시면 안 돼요.",
+      "LocalizeJP": "キヴォトスの文化の\n日ですからね……\n忘れちゃダメですよ。",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": "01/01",
+      "EndDate": "01/03",
+      "GroupId": 300,
+      "DialogType": "Talk",
+      "ActionName": "greeting",
+      "Duration": 3800,
+      "AnimationName": "07",
+      "LocalizeKR": "새해 복 많이 받으세요.",
+      "LocalizeJP": "明けまして\nおめでとうございます。",
+      "VoiceClipsKr": [
+        "Yuzu_Season_NewYear"
+      ],
+      "VoiceClipsJp": [
+        "Yuzu_Season_NewYear"
+      ]
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": "01/01",
+      "EndDate": "01/03",
+      "GroupId": 300,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 6000,
+      "AnimationName": "03",
+      "LocalizeKR": "저도 더 성장한 모습,\n보여드릴테니까.",
+      "LocalizeJP": "わたし、もっと成長した姿を、\nお見せしますから。",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": "12/24",
+      "EndDate": "12/25",
+      "GroupId": 400,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 4200,
+      "AnimationName": "02",
+      "LocalizeKR": "메, 메리 크리스마스\n선생님.",
+      "LocalizeJP": "メ、メリークリスマス……\n先生。",
+      "VoiceClipsKr": [
+        "Yuzu_Season_Xmas"
+      ],
+      "VoiceClipsJp": [
+        "Yuzu_Season_Xmas"
+      ]
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": "12/24",
+      "EndDate": "12/25",
+      "GroupId": 400,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 9800,
+      "AnimationName": "03",
+      "LocalizeKR": "산타랑 게임은……\n닮은 것 같아요.\n둘 다 설레임을\n선물해주니까요.",
+      "LocalizeJP": "サンタとゲームは……\n似ています。\nどちらもトキメキを\nプレゼントしてくれるので。",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": "10/30",
+      "EndDate": "10/31",
+      "GroupId": 500,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 5500,
+      "AnimationName": "03",
+      "LocalizeKR": "거리에 빛나는 호박과\n사탕이 가득하네요.",
+      "LocalizeJP": "街が、光るカボチャと\n飴で溢れていますね。",
+      "VoiceClipsKr": [
+        "Yuzu_Season_Halloween"
+      ],
+      "VoiceClipsJp": [
+        "Yuzu_Season_Halloween"
+      ]
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobby",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": "10/30",
+      "EndDate": "10/31",
+      "GroupId": 500,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 7000,
+      "AnimationName": "00",
+      "LocalizeKR": "저, 저도 가보고 싶어요. \n선생님과 함께……",
+      "LocalizeJP": "わ、わたしも行ってみたいです。\n先生と一緒に……。",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobbySpecial",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 1,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 8500,
+      "AnimationName": "Talk_01_M",
+      "LocalizeKR": "선생님이 아니었다면……\n할 수 없었을거에요.",
+      "LocalizeJP": "先生とじゃなかったら……\nできなかったと思います。",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobbySpecial",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 2,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 8833,
+      "AnimationName": "Talk_02_M",
+      "LocalizeKR": "모두에게 선물을\n할 수 있었던건,\n선생님 덕분이에요.",
+      "LocalizeJP": "みんなにプレゼントが\nできたのは、\n先生のおかげです。",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobbySpecial",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 3,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 4500,
+      "AnimationName": "Talk_03_M",
+      "LocalizeKR": "선생님이\n도와주셨던 것처럼……",
+      "LocalizeJP": "先生が助けて\nくれたように……",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobbySpecial",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 3,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 11333,
+      "AnimationName": null,
+      "LocalizeKR": "제가 선생님께 필요한\n순간이 온다면,\n뭐든지 말씀 하세요.",
+      "LocalizeJP": "先生にわたしが必要な\n瞬間が来たら、\n何でも言ってくださいね。",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
+    },
+    {
+      "CharacterId": 10018,
+      "ProductionStep": "Release",
+      "DialogCategory": "UILobbySpecial",
+      "DialogCondition": "Idle",
+      "Anniversary": "None",
+      "StartDate": null,
+      "EndDate": null,
+      "GroupId": 4,
+      "DialogType": "Talk",
+      "ActionName": null,
+      "Duration": 8833,
+      "AnimationName": "Talk_04_M",
+      "LocalizeKR": "……\n꼭 보답할게요.",
+      "LocalizeJP": "……必ず、\n恩返しします。",
+      "VoiceClipsKr": [],
+      "VoiceClipsJp": []
     }
   ]
 }

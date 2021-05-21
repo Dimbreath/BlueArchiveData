@@ -30,10 +30,10 @@
     },
     {
       "WeekDungeonBuffId": 5,
-      "School": "Arius",
-      "RecommandLocalizeEtcId": 1228065170,
-      "FormationLocalizeEtcId": 3655360459,
-      "SkillGroupId": "GroupBuff_Arius"
+      "School": "Abydos",
+      "RecommandLocalizeEtcId": 1199554727,
+      "FormationLocalizeEtcId": 4037295363,
+      "SkillGroupId": "GroupBuff_Abydos"
     },
     {
       "WeekDungeonBuffId": 6,
@@ -58,24 +58,24 @@
     },
     {
       "WeekDungeonBuffId": 9,
-      "School": "Valkyrie",
-      "RecommandLocalizeEtcId": 329219768,
-      "FormationLocalizeEtcId": 3749550348,
-      "SkillGroupId": "GroupBuff_Valkyrie"
+      "School": "Abydos",
+      "RecommandLocalizeEtcId": 1199554727,
+      "FormationLocalizeEtcId": 4037295363,
+      "SkillGroupId": "GroupBuff_Abydos"
     },
     {
       "WeekDungeonBuffId": 10,
-      "School": "WildHunt",
-      "RecommandLocalizeEtcId": 303294579,
-      "FormationLocalizeEtcId": 2013734204,
-      "SkillGroupId": "GroupBuff_WildHunt"
+      "School": "Abydos",
+      "RecommandLocalizeEtcId": 1199554727,
+      "FormationLocalizeEtcId": 4037295363,
+      "SkillGroupId": "GroupBuff_Abydos"
     },
     {
       "WeekDungeonBuffId": 11,
-      "School": "SRT",
-      "RecommandLocalizeEtcId": 1398971457,
-      "FormationLocalizeEtcId": 845353529,
-      "SkillGroupId": "GroupBuff_SRT"
+      "School": "Abydos",
+      "RecommandLocalizeEtcId": 1199554727,
+      "FormationLocalizeEtcId": 4037295363,
+      "SkillGroupId": "GroupBuff_Abydos"
     }
   ]
 }

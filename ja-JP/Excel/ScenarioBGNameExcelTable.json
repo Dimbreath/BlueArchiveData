@@ -1,39 +1,6 @@
 {
   "DataList": [
     {
-      "Name": 2662831737,
-      "ProductionStep": "Doing",
-      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyWakamo",
-      "BGType": "Spine",
-      "AnimationRoot": null,
-      "AnimationName": "Idle_01",
-      "SpineScale": 3.8530424E-25,
-      "SpineLocalPosX": 0,
-      "SpineLocalPosY": 0
-    },
-    {
-      "Name": 612171255,
-      "ProductionStep": "Doing",
-      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyWakamo",
-      "BGType": "Spine",
-      "AnimationRoot": "WakamoLobbySpine",
-      "AnimationName": "Talk_01",
-      "SpineScale": 3.8530424E-25,
-      "SpineLocalPosX": 0,
-      "SpineLocalPosY": 0
-    },
-    {
-      "Name": 2531440451,
-      "ProductionStep": "Doing",
-      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyWakamo",
-      "BGType": "Spine",
-      "AnimationRoot": "WakamoLobbySpine",
-      "AnimationName": "Touch_01",
-      "SpineScale": 3.8530424E-25,
-      "SpineLocalPosX": 0,
-      "SpineLocalPosY": 0
-    },
-    {
       "Name": 3634244870,
       "ProductionStep": "Release",
       "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyHoshino",
@@ -409,7 +376,7 @@
     },
     {
       "Name": 1144855161,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCherino",
       "BGType": "Spine",
       "AnimationRoot": null,
@@ -420,7 +387,7 @@
     },
     {
       "Name": 1347163254,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCherino",
       "BGType": "Spine",
       "AnimationRoot": "CherinoLobbySpine",
@@ -431,7 +398,7 @@
     },
     {
       "Name": 3645804062,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCherino",
       "BGType": "Spine",
       "AnimationRoot": "CherinoLobbySpine",
@@ -442,7 +409,7 @@
     },
     {
       "Name": 2351873267,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCherino",
       "BGType": "Spine",
       "AnimationRoot": "CherinoLobbySpine",
@@ -453,7 +420,7 @@
     },
     {
       "Name": 2133286058,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCherino",
       "BGType": "Spine",
       "AnimationRoot": "CherinoLobbySpine",
@@ -464,7 +431,7 @@
     },
     {
       "Name": 3772153547,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCherino",
       "BGType": "Spine",
       "AnimationRoot": "CherinoLobbySpine",
@@ -475,7 +442,7 @@
     },
     {
       "Name": 2799420869,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyCherino",
       "BGType": "Spine",
       "AnimationRoot": "CherinoLobbySpine",
@@ -1684,11 +1651,66 @@
       "SpineLocalPosY": 0
     },
     {
+      "Name": 365846643,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyAyane",
+      "BGType": "Spine",
+      "AnimationRoot": "AyaneLobbySpine",
+      "AnimationName": "Talk_01_M",
+      "SpineScale": 3.8530424E-25,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2595137769,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyAyane",
+      "BGType": "Spine",
+      "AnimationRoot": "AyaneLobbySpine",
+      "AnimationName": "Talk_02_M",
+      "SpineScale": 3.8530424E-25,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3899866567,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyAyane",
+      "BGType": "Spine",
+      "AnimationRoot": "AyaneLobbySpine",
+      "AnimationName": "Talk_03_M",
+      "SpineScale": 3.8530424E-25,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 628485305,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyAyane",
+      "BGType": "Spine",
+      "AnimationRoot": "AyaneLobbySpine",
+      "AnimationName": "Talk_04_M",
+      "SpineScale": 3.8530424E-25,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1712113989,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyAyane",
+      "BGType": "Spine",
+      "AnimationRoot": "AyaneLobbySpine",
+      "AnimationName": "Talk_05_M",
+      "SpineScale": 3.8530424E-25,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
       "Name": 3955506890,
       "ProductionStep": "Release",
       "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyMutsuki",
       "BGType": "Spine",
-      "AnimationRoot": null,
+      "AnimationRoot": "MutsukiLobbySpine",
       "AnimationName": "Idle_01",
       "SpineScale": 3.8530424E-25,
       "SpineLocalPosX": 0,
@@ -2267,28 +2289,6 @@
       "SpineLocalPosY": 0
     },
     {
-      "Name": 2279683180,
-      "ProductionStep": "Complete",
-      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyMimori",
-      "BGType": "Spine",
-      "AnimationRoot": null,
-      "AnimationName": "Idle_01",
-      "SpineScale": 3.8530424E-25,
-      "SpineLocalPosX": 0,
-      "SpineLocalPosY": 0
-    },
-    {
-      "Name": 1319447397,
-      "ProductionStep": "Complete",
-      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyMimori",
-      "BGType": "Spine",
-      "AnimationRoot": "MimoriLobbySpine",
-      "AnimationName": "Idle_01",
-      "SpineScale": 3.8530424E-25,
-      "SpineLocalPosX": 0,
-      "SpineLocalPosY": 0
-    },
-    {
       "Name": 2373458047,
       "ProductionStep": "Release",
       "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyMidori",
@@ -2405,6 +2405,138 @@
       "BGType": "Spine",
       "AnimationRoot": "ArisLobbySpine",
       "AnimationName": "Talk_05_M",
+      "SpineScale": 3.8530424E-25,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1507619128,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyYuzu",
+      "BGType": "Spine",
+      "AnimationRoot": null,
+      "AnimationName": "Idle_01",
+      "SpineScale": 3.8530424E-25,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3313256073,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyYuzu",
+      "BGType": "Spine",
+      "AnimationRoot": "Yuzu_LobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 3.8530424E-25,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2204661376,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyYuzu",
+      "BGType": "Spine",
+      "AnimationRoot": "Yuzu_LobbySpine",
+      "AnimationName": "Talk_01_M",
+      "SpineScale": 3.8530424E-25,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 264495177,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyYuzu",
+      "BGType": "Spine",
+      "AnimationRoot": "Yuzu_LobbySpine",
+      "AnimationName": "Talk_02_M",
+      "SpineScale": 3.8530424E-25,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3352777256,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyYuzu",
+      "BGType": "Spine",
+      "AnimationRoot": "Yuzu_LobbySpine",
+      "AnimationName": "Talk_03_M",
+      "SpineScale": 3.8530424E-25,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 720720731,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyYuzu",
+      "BGType": "Spine",
+      "AnimationRoot": "Yuzu_LobbySpine",
+      "AnimationName": "Talk_04_M",
+      "SpineScale": 3.8530424E-25,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3530270387,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyNodoka",
+      "BGType": "Spine",
+      "AnimationRoot": null,
+      "AnimationName": "Idle_01",
+      "SpineScale": 3.8530424E-25,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 1807923750,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyNodoka",
+      "BGType": "Spine",
+      "AnimationRoot": "NodokaLobbySpine",
+      "AnimationName": "Idle_01",
+      "SpineScale": 3.8530424E-25,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3973694492,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyNodoka",
+      "BGType": "Spine",
+      "AnimationRoot": "NodokaLobbySpine",
+      "AnimationName": "Talk_01_M",
+      "SpineScale": 3.8530424E-25,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2320403200,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyNodoka",
+      "BGType": "Spine",
+      "AnimationRoot": "NodokaLobbySpine",
+      "AnimationName": "Talk_02_M",
+      "SpineScale": 3.8530424E-25,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 3293612793,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyNodoka",
+      "BGType": "Spine",
+      "AnimationRoot": "NodokaLobbySpine",
+      "AnimationName": "Talk_03_M",
+      "SpineScale": 3.8530424E-25,
+      "SpineLocalPosX": 0,
+      "SpineLocalPosY": 0
+    },
+    {
+      "Name": 2970702417,
+      "ProductionStep": "Release",
+      "BGFileName": "UIs/03_Scenario/01_Background/SpineBG_LobbyNodoka",
+      "BGType": "Spine",
+      "AnimationRoot": "NodokaLobbySpine",
+      "AnimationName": "Talk_04_M",
       "SpineScale": 3.8530424E-25,
       "SpineLocalPosX": 0,
       "SpineLocalPosY": 0
@@ -4732,7 +4864,7 @@
     },
     {
       "Name": 3611603034,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "BGFileName": "UIs/03_Scenario/01_Background/BG_RedWinterStreet",
       "BGType": "Image",
       "AnimationRoot": null,
@@ -4743,7 +4875,7 @@
     },
     {
       "Name": 1736150242,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "BGFileName": "UIs/03_Scenario/01_Background/BG_RedWinterStreet_Night",
       "BGType": "Image",
       "AnimationRoot": null,
@@ -4798,7 +4930,7 @@
     },
     {
       "Name": 1276569362,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "BGFileName": "UIs/03_Scenario/01_Background/BG_CherinoOffice",
       "BGType": "Image",
       "AnimationRoot": null,
@@ -4809,7 +4941,7 @@
     },
     {
       "Name": 3418464175,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "BGFileName": "UIs/03_Scenario/01_Background/BG_CherinoOffice_Night",
       "BGType": "Image",
       "AnimationRoot": null,
@@ -4996,7 +5128,7 @@
     },
     {
       "Name": 1415075745,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "BGFileName": "UIs/03_Scenario/01_Background/BG_RedWinterCampus",
       "BGType": "Image",
       "AnimationRoot": null,
@@ -5007,7 +5139,7 @@
     },
     {
       "Name": 3122883816,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "BGFileName": "UIs/03_Scenario/01_Background/BG_RedWinterCampus_Night",
       "BGType": "Image",
       "AnimationRoot": null,
@@ -5018,7 +5150,7 @@
     },
     {
       "Name": 2102820287,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "BGFileName": "UIs/03_Scenario/01_Background/BG_RedWinterCampus2",
       "BGType": "Image",
       "AnimationRoot": null,
@@ -5029,7 +5161,7 @@
     },
     {
       "Name": 3261999362,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "BGFileName": "UIs/03_Scenario/01_Background/BG_RedWinterCampus2_Night",
       "BGType": "Image",
       "AnimationRoot": null,

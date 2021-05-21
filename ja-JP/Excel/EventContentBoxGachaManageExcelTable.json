@@ -1,0 +1,46 @@
+{
+  "DataList": [
+    {
+      "EventContentId": 802,
+      "Round": 1,
+      "GoodsId": 110000,
+      "IsLoop": false
+    },
+    {
+      "EventContentId": 802,
+      "Round": 2,
+      "GoodsId": 110000,
+      "IsLoop": false
+    },
+    {
+      "EventContentId": 802,
+      "Round": 3,
+      "GoodsId": 110000,
+      "IsLoop": false
+    },
+    {
+      "EventContentId": 802,
+      "Round": 4,
+      "GoodsId": 110000,
+      "IsLoop": false
+    },
+    {
+      "EventContentId": 802,
+      "Round": 5,
+      "GoodsId": 110000,
+      "IsLoop": false
+    },
+    {
+      "EventContentId": 802,
+      "Round": 6,
+      "GoodsId": 110000,
+      "IsLoop": false
+    },
+    {
+      "EventContentId": 802,
+      "Round": 7,
+      "GoodsId": 110000,
+      "IsLoop": true
+    }
+  ]
+}

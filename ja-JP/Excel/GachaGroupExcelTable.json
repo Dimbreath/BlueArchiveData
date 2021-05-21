@@ -97,36 +97,6 @@
       "GroupType": "Reward_General"
     },
     {
-      "ID": 70,
-      "NameKr": "3차 일반 가챠",
-      "IsRecursive": true,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 71,
-      "NameKr": "3차 일반 가챠 R",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 72,
-      "NameKr": "3차 일반 가챠 SR",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 73,
-      "NameKr": "3차 일반 가챠 SSR",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 79,
-      "NameKr": "3차 일반 가챠 SSR + SSR (10번째)",
-      "IsRecursive": true,
-      "GroupType": "Reward_General"
-    },
-    {
       "ID": 100,
       "NameKr": "N 활동 보고서",
       "IsRecursive": false,
@@ -253,6 +223,12 @@
       "GroupType": "Reward_General"
     },
     {
+      "ID": 1001,
+      "NameKr": "붉은겨울",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
       "ID": 1002,
       "NameKr": "트리니티",
       "IsRecursive": false,
@@ -327,6 +303,36 @@
     {
       "ID": 1107,
       "NameKr": "Curios - 선물 타입",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 1108,
+      "NameKr": "Reservation - 선물 타입",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 1109,
+      "NameKr": "Household - 선물 타입",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 1110,
+      "NameKr": "Horticulture - 선물 타입",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 1111,
+      "NameKr": "Fashion - 선물 타입",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 1112,
+      "NameKr": "Functional - 선물 타입",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -668,7 +674,7 @@
     },
     {
       "ID": 100023,
-      "NameKr": "1차 픽업 아리스",
+      "NameKr": "1차 픽업 체리노",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -704,55 +710,13 @@
     },
     {
       "ID": 100042,
-      "NameKr": "2차 픽업 모모이",
+      "NameKr": "2차 픽업 SR 더미",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
       "ID": 100043,
-      "NameKr": "2차 픽업 미도리",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 100050,
-      "NameKr": "3차 픽업",
-      "IsRecursive": true,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 100051,
-      "NameKr": "3차 픽업 R",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 100052,
-      "NameKr": "3차 픽업 SR",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 100053,
-      "NameKr": "3차 픽업 SSR",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 100059,
-      "NameKr": "3차 픽업 SR + SSR (10번째)",
-      "IsRecursive": true,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 100062,
-      "NameKr": "3차 픽업 SR 더미",
-      "IsRecursive": false,
-      "GroupType": "Reward_General"
-    },
-    {
-      "ID": 100063,
-      "NameKr": "3차 픽업 네루 + 카린",
+      "NameKr": "2차 픽업 유즈",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -778,6 +742,36 @@
       "ID": 210012,
       "NameKr": "월간 제조 팩 B - 가구 랜덤 상자 SSR",
       "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 300000,
+      "NameKr": "붉은겨울 박스 가챠 - 랜덤 장비 상자 1티어",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 300001,
+      "NameKr": "붉은겨울 박스 가챠 - 랜덤 장비 상자 2티어",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 300002,
+      "NameKr": "붉은겨울 박스 가챠 - 랜덤 장비 상자 3티어",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 300003,
+      "NameKr": "붉은겨울 박스 가챠 - 랜덤 장비 상자 4티어",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 310000,
+      "NameKr": "붉은겨울 박스 가챠 - 랜덤 장비 상자",
+      "IsRecursive": true,
       "GroupType": "Reward_General"
     },
     {

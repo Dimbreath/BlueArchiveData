@@ -53,11 +53,12 @@
       "SlowTimeScale": 10000,
       "AimIKMinDegree": -2.3456158E+36,
       "AimIKMaxDegree": 2.3456165E+36,
-      "MinimumClearTime": 10,
-      "MinimumClearLevelGap": 40,
-      "CheckCheaterMaxUseCostNonArena": 32,
-      "CheckCheaterMaxUseCostArena": 46,
-      "AllowedMaxTimeScale": 20000
+      "MinimumClearTime": 0,
+      "MinimumClearLevelGap": 0,
+      "CheckCheaterMaxUseCostNonArena": 0,
+      "CheckCheaterMaxUseCostArena": 0,
+      "AllowedMaxTimeScale": 0,
+      "RandomAnimationOutput": 5000
     }
   ]
 }

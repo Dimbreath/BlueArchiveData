@@ -14,6 +14,16 @@
       "GroupId": 30101,
       "DungeonType": "ChaserA",
       "RewardParcelType": "Item",
+      "RewardParcelId": 3010,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 10,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": null
+    },
+    {
+      "GroupId": 30101,
+      "DungeonType": "ChaserA",
+      "RewardParcelType": "Item",
       "RewardParcelId": 3020,
       "RewardParcelAmount": 1,
       "RewardParcelProbability": 10,
@@ -66,7 +76,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 30000,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 3300,
+      "RewardParcelProbability": 9930,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -94,6 +104,16 @@
       "GroupId": 30102,
       "DungeonType": "ChaserA",
       "RewardParcelType": "Item",
+      "RewardParcelId": 3010,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 10,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": null
+    },
+    {
+      "GroupId": 30102,
+      "DungeonType": "ChaserA",
+      "RewardParcelType": "Item",
       "RewardParcelId": 3020,
       "RewardParcelAmount": 1,
       "RewardParcelProbability": 10,
@@ -145,8 +165,8 @@
       "DungeonType": "ChaserA",
       "RewardParcelType": "Item",
       "RewardParcelId": 30000,
-      "RewardParcelAmount": 1,
-      "RewardParcelProbability": 4980,
+      "RewardParcelAmount": 2,
+      "RewardParcelProbability": 6965,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -174,6 +194,16 @@
       "GroupId": 30103,
       "DungeonType": "ChaserA",
       "RewardParcelType": "Item",
+      "RewardParcelId": 3011,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 10,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": null
+    },
+    {
+      "GroupId": 30103,
+      "DungeonType": "ChaserA",
+      "RewardParcelType": "Item",
       "RewardParcelId": 3021,
       "RewardParcelAmount": 1,
       "RewardParcelProbability": 10,
@@ -226,7 +256,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 30001,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 2880,
+      "RewardParcelProbability": 3130,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -236,7 +266,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 30000,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 3360,
+      "RewardParcelProbability": 10000,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -264,6 +294,16 @@
       "GroupId": 30104,
       "DungeonType": "ChaserA",
       "RewardParcelType": "Item",
+      "RewardParcelId": 3011,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 10,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": null
+    },
+    {
+      "GroupId": 30104,
+      "DungeonType": "ChaserA",
+      "RewardParcelType": "Item",
       "RewardParcelId": 3021,
       "RewardParcelAmount": 1,
       "RewardParcelProbability": 10,
@@ -316,7 +356,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 30001,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 4140,
+      "RewardParcelProbability": 5130,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -326,7 +366,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 30000,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 3360,
+      "RewardParcelProbability": 10000,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -354,6 +394,16 @@
       "GroupId": 30105,
       "DungeonType": "ChaserA",
       "RewardParcelType": "Item",
+      "RewardParcelId": 3012,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 10,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": null
+    },
+    {
+      "GroupId": 30105,
+      "DungeonType": "ChaserA",
+      "RewardParcelType": "Item",
       "RewardParcelId": 3022,
       "RewardParcelAmount": 1,
       "RewardParcelProbability": 10,
@@ -406,7 +456,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 30002,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 2340,
+      "RewardParcelProbability": 2330,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -416,7 +466,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 30001,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 2940,
+      "RewardParcelProbability": 3200,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -426,7 +476,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 30000,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 3360,
+      "RewardParcelProbability": 10000,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -454,6 +504,16 @@
       "GroupId": 30106,
       "DungeonType": "ChaserA",
       "RewardParcelType": "Item",
+      "RewardParcelId": 3012,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 10,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": null
+    },
+    {
+      "GroupId": 30106,
+      "DungeonType": "ChaserA",
+      "RewardParcelType": "Item",
       "RewardParcelId": 3022,
       "RewardParcelAmount": 1,
       "RewardParcelProbability": 10,
@@ -506,7 +566,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 30002,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 2940,
+      "RewardParcelProbability": 2930,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -516,7 +576,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 30001,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 2940,
+      "RewardParcelProbability": 3200,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -526,7 +586,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 30000,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 3360,
+      "RewardParcelProbability": 10000,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -554,6 +614,16 @@
       "GroupId": 30107,
       "DungeonType": "ChaserA",
       "RewardParcelType": "Item",
+      "RewardParcelId": 3013,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 1,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": null
+    },
+    {
+      "GroupId": 30107,
+      "DungeonType": "ChaserA",
+      "RewardParcelType": "Item",
       "RewardParcelId": 3023,
       "RewardParcelAmount": 1,
       "RewardParcelProbability": 1,
@@ -606,7 +676,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 30003,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 269,
+      "RewardParcelProbability": 268,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -626,7 +696,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 30001,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 2940,
+      "RewardParcelProbability": 3200,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -636,7 +706,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 30000,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 3360,
+      "RewardParcelProbability": 10000,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -664,6 +734,16 @@
       "GroupId": 30108,
       "DungeonType": "ChaserA",
       "RewardParcelType": "Item",
+      "RewardParcelId": 3013,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 1,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": null
+    },
+    {
+      "GroupId": 30108,
+      "DungeonType": "ChaserA",
+      "RewardParcelType": "Item",
       "RewardParcelId": 3023,
       "RewardParcelAmount": 1,
       "RewardParcelProbability": 1,
@@ -716,7 +796,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 30003,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 394,
+      "RewardParcelProbability": 393,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -736,7 +816,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 30001,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 2940,
+      "RewardParcelProbability": 3200,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -746,7 +826,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 30000,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 3360,
+      "RewardParcelProbability": 10000,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -766,7 +846,17 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 4000,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 200,
+      "RewardParcelProbability": 580,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": null
+    },
+    {
+      "GroupId": 30201,
+      "DungeonType": "ChaserB",
+      "RewardParcelType": "Item",
+      "RewardParcelId": 4010,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 580,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -776,7 +866,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 4020,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 200,
+      "RewardParcelProbability": 580,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -786,7 +876,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 4030,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 200,
+      "RewardParcelProbability": 580,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -796,7 +886,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 4040,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 200,
+      "RewardParcelProbability": 580,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -806,7 +896,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 4050,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 200,
+      "RewardParcelProbability": 580,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -816,7 +906,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 4070,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 200,
+      "RewardParcelProbability": 580,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -825,8 +915,8 @@
       "DungeonType": "ChaserB",
       "RewardParcelType": "Item",
       "RewardParcelId": 40000,
-      "RewardParcelAmount": 1,
-      "RewardParcelProbability": 10000,
+      "RewardParcelAmount": 2,
+      "RewardParcelProbability": 9970,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -846,7 +936,17 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 4000,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 200,
+      "RewardParcelProbability": 1580,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": null
+    },
+    {
+      "GroupId": 30202,
+      "DungeonType": "ChaserB",
+      "RewardParcelType": "Item",
+      "RewardParcelId": 4010,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 1580,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -856,7 +956,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 4020,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 200,
+      "RewardParcelProbability": 1580,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -866,7 +966,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 4030,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 200,
+      "RewardParcelProbability": 1580,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -876,7 +976,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 4040,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 200,
+      "RewardParcelProbability": 1580,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -886,7 +986,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 4050,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 200,
+      "RewardParcelProbability": 1580,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -896,7 +996,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 4070,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 200,
+      "RewardParcelProbability": 1580,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -906,7 +1006,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 40000,
       "RewardParcelAmount": 2,
-      "RewardParcelProbability": 9900,
+      "RewardParcelProbability": 9970,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -934,6 +1034,16 @@
       "GroupId": 30203,
       "DungeonType": "ChaserB",
       "RewardParcelType": "Item",
+      "RewardParcelId": 4011,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 500,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": null
+    },
+    {
+      "GroupId": 30203,
+      "DungeonType": "ChaserB",
+      "RewardParcelType": "Item",
       "RewardParcelId": 4021,
       "RewardParcelAmount": 1,
       "RewardParcelProbability": 500,
@@ -986,7 +1096,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 40001,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 6100,
+      "RewardParcelProbability": 8000,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -995,8 +1105,8 @@
       "DungeonType": "ChaserB",
       "RewardParcelType": "Item",
       "RewardParcelId": 40000,
-      "RewardParcelAmount": 2,
-      "RewardParcelProbability": 5600,
+      "RewardParcelAmount": 3,
+      "RewardParcelProbability": 8000,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -1016,7 +1126,17 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 4001,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 500,
+      "RewardParcelProbability": 1000,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": null
+    },
+    {
+      "GroupId": 30204,
+      "DungeonType": "ChaserB",
+      "RewardParcelType": "Item",
+      "RewardParcelId": 4011,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 1000,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -1026,7 +1146,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 4021,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 500,
+      "RewardParcelProbability": 1000,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -1036,7 +1156,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 4031,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 500,
+      "RewardParcelProbability": 1000,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -1046,7 +1166,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 4041,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 500,
+      "RewardParcelProbability": 1000,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -1056,7 +1176,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 4051,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 500,
+      "RewardParcelProbability": 1000,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -1066,7 +1186,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 4071,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 500,
+      "RewardParcelProbability": 1000,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -1076,7 +1196,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 40001,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 9600,
+      "RewardParcelProbability": 9000,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -1085,8 +1205,8 @@
       "DungeonType": "ChaserB",
       "RewardParcelType": "Item",
       "RewardParcelId": 40000,
-      "RewardParcelAmount": 2,
-      "RewardParcelProbability": 5600,
+      "RewardParcelAmount": 3,
+      "RewardParcelProbability": 8000,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -1114,6 +1234,16 @@
       "GroupId": 30205,
       "DungeonType": "ChaserB",
       "RewardParcelType": "Item",
+      "RewardParcelId": 4012,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 500,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": null
+    },
+    {
+      "GroupId": 30205,
+      "DungeonType": "ChaserB",
+      "RewardParcelType": "Item",
       "RewardParcelId": 4022,
       "RewardParcelAmount": 1,
       "RewardParcelProbability": 500,
@@ -1166,7 +1296,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 40002,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 5600,
+      "RewardParcelProbability": 5100,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -1175,8 +1305,8 @@
       "DungeonType": "ChaserB",
       "RewardParcelType": "Item",
       "RewardParcelId": 40001,
-      "RewardParcelAmount": 1,
-      "RewardParcelProbability": 9100,
+      "RewardParcelAmount": 2,
+      "RewardParcelProbability": 5750,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -1185,8 +1315,8 @@
       "DungeonType": "ChaserB",
       "RewardParcelType": "Item",
       "RewardParcelId": 40000,
-      "RewardParcelAmount": 2,
-      "RewardParcelProbability": 5600,
+      "RewardParcelAmount": 3,
+      "RewardParcelProbability": 8000,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -1214,6 +1344,16 @@
       "GroupId": 30206,
       "DungeonType": "ChaserB",
       "RewardParcelType": "Item",
+      "RewardParcelId": 4012,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 500,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": null
+    },
+    {
+      "GroupId": 30206,
+      "DungeonType": "ChaserB",
+      "RewardParcelType": "Item",
       "RewardParcelId": 4022,
       "RewardParcelAmount": 1,
       "RewardParcelProbability": 500,
@@ -1266,7 +1406,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 40002,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 9000,
+      "RewardParcelProbability": 8500,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -1275,8 +1415,8 @@
       "DungeonType": "ChaserB",
       "RewardParcelType": "Item",
       "RewardParcelId": 40001,
-      "RewardParcelAmount": 1,
-      "RewardParcelProbability": 9100,
+      "RewardParcelAmount": 2,
+      "RewardParcelProbability": 5750,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -1285,8 +1425,8 @@
       "DungeonType": "ChaserB",
       "RewardParcelType": "Item",
       "RewardParcelId": 40000,
-      "RewardParcelAmount": 2,
-      "RewardParcelProbability": 5600,
+      "RewardParcelAmount": 3,
+      "RewardParcelProbability": 8000,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -1314,6 +1454,16 @@
       "GroupId": 30207,
       "DungeonType": "ChaserB",
       "RewardParcelType": "Item",
+      "RewardParcelId": 4013,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 100,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": null
+    },
+    {
+      "GroupId": 30207,
+      "DungeonType": "ChaserB",
+      "RewardParcelType": "Item",
       "RewardParcelId": 4023,
       "RewardParcelAmount": 1,
       "RewardParcelProbability": 100,
@@ -1366,7 +1516,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 40003,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 1780,
+      "RewardParcelProbability": 1680,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -1385,8 +1535,8 @@
       "DungeonType": "ChaserB",
       "RewardParcelType": "Item",
       "RewardParcelId": 40001,
-      "RewardParcelAmount": 1,
-      "RewardParcelProbability": 9100,
+      "RewardParcelAmount": 2,
+      "RewardParcelProbability": 5750,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -1395,8 +1545,8 @@
       "DungeonType": "ChaserB",
       "RewardParcelType": "Item",
       "RewardParcelId": 40000,
-      "RewardParcelAmount": 2,
-      "RewardParcelProbability": 5600,
+      "RewardParcelAmount": 3,
+      "RewardParcelProbability": 8000,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -1424,6 +1574,16 @@
       "GroupId": 30208,
       "DungeonType": "ChaserB",
       "RewardParcelType": "Item",
+      "RewardParcelId": 4013,
+      "RewardParcelAmount": 1,
+      "RewardParcelProbability": 100,
+      "IsDisplayed": true,
+      "DropItemModelPrefabPath": null
+    },
+    {
+      "GroupId": 30208,
+      "DungeonType": "ChaserB",
+      "RewardParcelType": "Item",
       "RewardParcelId": 4023,
       "RewardParcelAmount": 1,
       "RewardParcelProbability": 100,
@@ -1476,7 +1636,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 40003,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 2900,
+      "RewardParcelProbability": 2800,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -1495,8 +1655,8 @@
       "DungeonType": "ChaserB",
       "RewardParcelType": "Item",
       "RewardParcelId": 40001,
-      "RewardParcelAmount": 1,
-      "RewardParcelProbability": 9100,
+      "RewardParcelAmount": 2,
+      "RewardParcelProbability": 5750,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -1505,8 +1665,8 @@
       "DungeonType": "ChaserB",
       "RewardParcelType": "Item",
       "RewardParcelId": 40000,
-      "RewardParcelAmount": 2,
-      "RewardParcelProbability": 5600,
+      "RewardParcelAmount": 3,
+      "RewardParcelProbability": 8000,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -1526,7 +1686,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 100,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 870,
+      "RewardParcelProbability": 1150,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -1536,7 +1696,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 110,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 870,
+      "RewardParcelProbability": 1150,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -1546,7 +1706,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 120,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 870,
+      "RewardParcelProbability": 1150,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -1556,7 +1716,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 130,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 870,
+      "RewardParcelProbability": 1150,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -1566,7 +1726,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 140,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 870,
+      "RewardParcelProbability": 1150,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -1576,7 +1736,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 150,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 870,
+      "RewardParcelProbability": 1150,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -1586,7 +1746,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 160,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 870,
+      "RewardParcelProbability": 1150,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -1596,7 +1756,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 170,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 870,
+      "RewardParcelProbability": 1150,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -1606,7 +1766,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 180,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 870,
+      "RewardParcelProbability": 1150,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -1616,7 +1776,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 190,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 870,
+      "RewardParcelProbability": 1150,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -1625,7 +1785,7 @@
       "DungeonType": "ChaserC",
       "RewardParcelType": "GachaGroup",
       "RewardParcelId": 10100,
-      "RewardParcelAmount": 1,
+      "RewardParcelAmount": 2,
       "RewardParcelProbability": 10000,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
@@ -1646,7 +1806,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 100,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 990,
+      "RewardParcelProbability": 1100,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -1656,7 +1816,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 110,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 990,
+      "RewardParcelProbability": 1100,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -1666,7 +1826,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 120,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 990,
+      "RewardParcelProbability": 1100,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -1676,7 +1836,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 130,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 990,
+      "RewardParcelProbability": 1100,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -1686,7 +1846,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 140,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 990,
+      "RewardParcelProbability": 1100,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -1696,7 +1856,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 150,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 990,
+      "RewardParcelProbability": 1100,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -1706,7 +1866,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 160,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 990,
+      "RewardParcelProbability": 1100,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -1716,7 +1876,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 170,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 990,
+      "RewardParcelProbability": 1100,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -1726,7 +1886,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 180,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 990,
+      "RewardParcelProbability": 1100,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -1736,7 +1896,7 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 190,
       "RewardParcelAmount": 1,
-      "RewardParcelProbability": 990,
+      "RewardParcelProbability": 1100,
       "IsDisplayed": true,
       "DropItemModelPrefabPath": null
     },
@@ -1745,7 +1905,7 @@
       "DungeonType": "ChaserC",
       "RewardParcelType": "GachaGroup",
       "RewardParcelId": 10100,
-      "RewardParcelAmount": 2,
+      "RewardParcelAmount": 3,
       "RewardParcelProbability": 10000,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
@@ -1875,8 +2035,8 @@
       "DungeonType": "ChaserC",
       "RewardParcelType": "GachaGroup",
       "RewardParcelId": 10100,
-      "RewardParcelAmount": 2,
-      "RewardParcelProbability": 9350,
+      "RewardParcelAmount": 4,
+      "RewardParcelProbability": 7875,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -2005,8 +2165,8 @@
       "DungeonType": "ChaserC",
       "RewardParcelType": "GachaGroup",
       "RewardParcelId": 10100,
-      "RewardParcelAmount": 2,
-      "RewardParcelProbability": 9350,
+      "RewardParcelAmount": 4,
+      "RewardParcelProbability": 7875,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -2145,8 +2305,8 @@
       "DungeonType": "ChaserC",
       "RewardParcelType": "GachaGroup",
       "RewardParcelId": 10100,
-      "RewardParcelAmount": 2,
-      "RewardParcelProbability": 9350,
+      "RewardParcelAmount": 4,
+      "RewardParcelProbability": 7875,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -2285,8 +2445,8 @@
       "DungeonType": "ChaserC",
       "RewardParcelType": "GachaGroup",
       "RewardParcelId": 10100,
-      "RewardParcelAmount": 2,
-      "RewardParcelProbability": 9350,
+      "RewardParcelAmount": 4,
+      "RewardParcelProbability": 7875,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -2435,8 +2595,8 @@
       "DungeonType": "ChaserC",
       "RewardParcelType": "GachaGroup",
       "RewardParcelId": 10100,
-      "RewardParcelAmount": 2,
-      "RewardParcelProbability": 9350,
+      "RewardParcelAmount": 4,
+      "RewardParcelProbability": 7875,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },
@@ -2585,8 +2745,8 @@
       "DungeonType": "ChaserC",
       "RewardParcelType": "GachaGroup",
       "RewardParcelId": 10100,
-      "RewardParcelAmount": 2,
-      "RewardParcelProbability": 9350,
+      "RewardParcelAmount": 4,
+      "RewardParcelProbability": 7875,
       "IsDisplayed": false,
       "DropItemModelPrefabPath": null
     },

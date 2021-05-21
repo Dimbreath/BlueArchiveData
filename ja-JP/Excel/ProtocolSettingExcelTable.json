@@ -844,9 +844,9 @@
       "Protocol": "Cafe_Interact",
       "ContentLockType": "Cafe",
       "OpenConditionContent": "Cafe",
-      "Currency": true,
-      "Inventory": true,
-      "Mail": true
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
     },
     {
       "Protocol": "Cafe_ListPreset",
@@ -1551,6 +1551,30 @@
       "Currency": false,
       "Inventory": false,
       "Mail": true
+    },
+    {
+      "Protocol": "EventContent_BoxGachaShopList",
+      "ContentLockType": "EventContent",
+      "OpenConditionContent": "EventContent",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "EventContent_BoxGachaShopPurchase",
+      "ContentLockType": "EventContent",
+      "OpenConditionContent": "EventContent",
+      "Currency": false,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "EventContent_BoxGachaShopRefresh",
+      "ContentLockType": "EventContent",
+      "OpenConditionContent": "EventContent",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
     },
     {
       "Protocol": "TTS_GetFile",

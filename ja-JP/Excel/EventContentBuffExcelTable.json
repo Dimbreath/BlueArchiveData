@@ -1,244 +1,1156 @@
 {
   "DataList": [
     {
-      "EventContentBuffId": 1,
+      "EventContentBuffId": 100101030,
       "IsBuff": true,
-      "BuffConditionType": "All",
-      "WeaponType": "None",
-      "School": "None",
-      "CharacterId": 0,
-      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower01",
+      "CharacterTag": "Abydos",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower03",
       "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
       "SpriteName": "Combat_Icon_Buff_ATK",
-      "BuffDescriptionLocalizeEtcId": "EventContent_Buff_1"
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_100101030"
     },
     {
-      "EventContentBuffId": 2,
+      "EventContentBuffId": 100102030,
       "IsBuff": true,
-      "BuffConditionType": "Weapon",
-      "WeaponType": "SG",
-      "School": "None",
-      "CharacterId": 0,
-      "SkillGroupId": "EventContent_Buff_StatChange_CriticalPoint01",
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_CriticalChance",
-      "SpriteName": "Combat_Icon_Buff_CriticalChance",
-      "BuffDescriptionLocalizeEtcId": "EventContent_Buff_2"
-    },
-    {
-      "EventContentBuffId": 3,
-      "IsBuff": true,
-      "BuffConditionType": "Weapon",
-      "WeaponType": "SMG",
-      "School": "None",
-      "CharacterId": 0,
-      "SkillGroupId": "EventContent_Buff_StatChange_CriticalDamage01",
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_CriticalDamage",
-      "SpriteName": "Combat_Icon_Buff_CriticalDamage",
-      "BuffDescriptionLocalizeEtcId": "EventContent_Buff_3"
-    },
-    {
-      "EventContentBuffId": 4,
-      "IsBuff": true,
-      "BuffConditionType": "Weapon",
-      "WeaponType": "AR",
-      "School": "None",
-      "CharacterId": 0,
-      "SkillGroupId": "EventContent_Buff_StatChange_AccuracyPoint01",
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_HIT",
-      "SpriteName": "Combat_Icon_Buff_HIT",
-      "BuffDescriptionLocalizeEtcId": "EventContent_Buff_4"
-    },
-    {
-      "EventContentBuffId": 5,
-      "IsBuff": true,
-      "BuffConditionType": "Character",
-      "WeaponType": "None",
-      "School": "None",
-      "CharacterId": 13010,
-      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp01",
+      "CharacterTag": "Abydos",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp03",
       "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
       "SpriteName": "Combat_Icon_Buff_MAXHP",
-      "BuffDescriptionLocalizeEtcId": "EventContent_Buff_5"
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_100102030"
     },
     {
-      "EventContentBuffId": 6,
+      "EventContentBuffId": 100201030,
       "IsBuff": true,
-      "BuffConditionType": "Character",
-      "WeaponType": "None",
-      "School": "None",
-      "CharacterId": 13003,
-      "SkillGroupId": "EventContent_Buff_StatChange_DefensePower01",
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_DEF",
-      "SpriteName": "Combat_Icon_Buff_DEF",
-      "BuffDescriptionLocalizeEtcId": "EventContent_Buff_6"
+      "CharacterTag": "Trinity",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower03",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_100201030"
     },
     {
-      "EventContentBuffId": 7,
+      "EventContentBuffId": 100202030,
       "IsBuff": true,
-      "BuffConditionType": "Character",
-      "WeaponType": "None",
-      "School": "None",
-      "CharacterId": 16003,
-      "SkillGroupId": "EventContent_Buff_StatChange_DodgePoint01",
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_Dodge",
-      "SpriteName": "Combat_Icon_Buff_Dodge",
-      "BuffDescriptionLocalizeEtcId": "EventContent_Buff_7"
+      "CharacterTag": "Trinity",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp03",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_100202030"
     },
     {
-      "EventContentBuffId": 8,
+      "EventContentBuffId": 100301030,
       "IsBuff": true,
-      "BuffConditionType": "Character",
-      "WeaponType": "None",
-      "School": "None",
-      "CharacterId": 13000,
+      "CharacterTag": "Gehenna",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower03",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_100301030"
+    },
+    {
+      "EventContentBuffId": 100302030,
+      "IsBuff": true,
+      "CharacterTag": "Gehenna",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp03",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_100302030"
+    },
+    {
+      "EventContentBuffId": 100401050,
+      "IsBuff": true,
+      "CharacterTag": "RedWinter",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower07",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_100401050"
+    },
+    {
+      "EventContentBuffId": 100402050,
+      "IsBuff": true,
+      "CharacterTag": "RedWinter",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp07",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_100402050"
+    },
+    {
+      "EventContentBuffId": 100501025,
+      "IsBuff": true,
+      "CharacterTag": "Millennium",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_100501025"
+    },
+    {
+      "EventContentBuffId": 100502025,
+      "IsBuff": true,
+      "CharacterTag": "Millennium",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_100502025"
+    },
+    {
+      "EventContentBuffId": 100601050,
+      "IsBuff": true,
+      "CharacterTag": "Shanhaijing",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower07",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_100601050"
+    },
+    {
+      "EventContentBuffId": 100602050,
+      "IsBuff": true,
+      "CharacterTag": "Shanhaijing",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp07",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_100602050"
+    },
+    {
+      "EventContentBuffId": 100701040,
+      "IsBuff": true,
+      "CharacterTag": "Hyakkiyako",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower05",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_100701040"
+    },
+    {
+      "EventContentBuffId": 100702040,
+      "IsBuff": true,
+      "CharacterTag": "Hyakkiyako",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp05",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_100702040"
+    },
+    {
+      "EventContentBuffId": 103001025,
+      "IsBuff": true,
+      "CharacterTag": "Main",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_103001025"
+    },
+    {
+      "EventContentBuffId": 103002025,
+      "IsBuff": true,
+      "CharacterTag": "Main",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_103002025"
+    },
+    {
+      "EventContentBuffId": 103101045,
+      "IsBuff": true,
+      "CharacterTag": "Support",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower06",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_103101045"
+    },
+    {
+      "EventContentBuffId": 103102045,
+      "IsBuff": true,
+      "CharacterTag": "Support",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp06",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_103102045"
+    },
+    {
+      "EventContentBuffId": 103201025,
+      "IsBuff": true,
+      "CharacterTag": "Cover",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_103201025"
+    },
+    {
+      "EventContentBuffId": 103202025,
+      "IsBuff": true,
+      "CharacterTag": "Cover",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_103202025"
+    },
+    {
+      "EventContentBuffId": 103301025,
+      "IsBuff": true,
+      "CharacterTag": "Uncover",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_103301025"
+    },
+    {
+      "EventContentBuffId": 103302025,
+      "IsBuff": true,
+      "CharacterTag": "Uncover",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_103302025"
+    },
+    {
+      "EventContentBuffId": 105001035,
+      "IsBuff": true,
+      "CharacterTag": "HG",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower04",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_105001035"
+    },
+    {
+      "EventContentBuffId": 105002035,
+      "IsBuff": true,
+      "CharacterTag": "HG",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp04",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_105002035"
+    },
+    {
+      "EventContentBuffId": 105101035,
+      "IsBuff": true,
+      "CharacterTag": "SG",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower04",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_105101035"
+    },
+    {
+      "EventContentBuffId": 105102035,
+      "IsBuff": true,
+      "CharacterTag": "SG",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp04",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_105102035"
+    },
+    {
+      "EventContentBuffId": 105201035,
+      "IsBuff": true,
+      "CharacterTag": "SMG",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower04",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_105201035"
+    },
+    {
+      "EventContentBuffId": 105202035,
+      "IsBuff": true,
+      "CharacterTag": "SMG",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp04",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_105202035"
+    },
+    {
+      "EventContentBuffId": 105301030,
+      "IsBuff": true,
+      "CharacterTag": "AR",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower03",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_105301030"
+    },
+    {
+      "EventContentBuffId": 105302030,
+      "IsBuff": true,
+      "CharacterTag": "AR",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp03",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_105302030"
+    },
+    {
+      "EventContentBuffId": 105401035,
+      "IsBuff": true,
+      "CharacterTag": "SR",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower04",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_105401035"
+    },
+    {
+      "EventContentBuffId": 105402035,
+      "IsBuff": true,
+      "CharacterTag": "SR",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp04",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_105402035"
+    },
+    {
+      "EventContentBuffId": 105501035,
+      "IsBuff": true,
+      "CharacterTag": "MG",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower04",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_105501035"
+    },
+    {
+      "EventContentBuffId": 105502035,
+      "IsBuff": true,
+      "CharacterTag": "MG",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp04",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_105502035"
+    },
+    {
+      "EventContentBuffId": 108001030,
+      "IsBuff": true,
+      "CharacterTag": "Front",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower03",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_108001030"
+    },
+    {
+      "EventContentBuffId": 108002030,
+      "IsBuff": true,
+      "CharacterTag": "Front",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp03",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_108002030"
+    },
+    {
+      "EventContentBuffId": 108101030,
+      "IsBuff": true,
+      "CharacterTag": "Middle",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower03",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_108101030"
+    },
+    {
+      "EventContentBuffId": 108102030,
+      "IsBuff": true,
+      "CharacterTag": "Middle",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp03",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_108102030"
+    },
+    {
+      "EventContentBuffId": 108201030,
+      "IsBuff": true,
+      "CharacterTag": "Back",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower03",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_108201030"
+    },
+    {
+      "EventContentBuffId": 108202030,
+      "IsBuff": true,
+      "CharacterTag": "Back",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp03",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_108202030"
+    },
+    {
+      "EventContentBuffId": 110101020,
+      "IsBuff": true,
+      "CharacterTag": "StreetBattle_Over_A",
       "SkillGroupId": "EventContent_Buff_StatChange_AttackPower01",
       "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
       "SpriteName": "Combat_Icon_Buff_ATK",
-      "BuffDescriptionLocalizeEtcId": "EventContent_Buff_8"
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_110101020"
     },
     {
-      "EventContentBuffId": 9,
+      "EventContentBuffId": 110101025,
       "IsBuff": true,
-      "BuffConditionType": "School",
-      "WeaponType": "None",
-      "School": "Abydos",
-      "CharacterId": 0,
-      "SkillGroupId": "EventContent_Buff_StatChange_CriticalPoint01",
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_CriticalChance",
-      "SpriteName": "Combat_Icon_Buff_CriticalChance",
-      "BuffDescriptionLocalizeEtcId": "EventContent_Buff_9"
+      "CharacterTag": "StreetBattle_Over_A",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_110101025"
     },
     {
-      "EventContentBuffId": 10,
+      "EventContentBuffId": 110102025,
       "IsBuff": true,
-      "BuffConditionType": "School",
-      "WeaponType": "None",
-      "School": "Trinity",
-      "CharacterId": 0,
-      "SkillGroupId": "EventContent_Buff_StatChange_CriticalDamage01",
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_CriticalDamage",
-      "SpriteName": "Combat_Icon_Buff_CriticalDamage",
-      "BuffDescriptionLocalizeEtcId": "EventContent_Buff_10"
+      "CharacterTag": "StreetBattle_Over_A",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_110102025"
     },
     {
-      "EventContentBuffId": 11,
+      "EventContentBuffId": 110201020,
+      "IsBuff": true,
+      "CharacterTag": "OutdoorBattle_Over_A",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower01",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_110201020"
+    },
+    {
+      "EventContentBuffId": 110201025,
+      "IsBuff": true,
+      "CharacterTag": "OutdoorBattle_Over_A",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_110201025"
+    },
+    {
+      "EventContentBuffId": 110202025,
+      "IsBuff": true,
+      "CharacterTag": "OutdoorBattle_Over_A",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_110202025"
+    },
+    {
+      "EventContentBuffId": 110301020,
+      "IsBuff": true,
+      "CharacterTag": "IndoorBattle_Over_A",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower01",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_110301020"
+    },
+    {
+      "EventContentBuffId": 110301025,
+      "IsBuff": true,
+      "CharacterTag": "IndoorBattle_Over_A",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_110301025"
+    },
+    {
+      "EventContentBuffId": 110302025,
+      "IsBuff": true,
+      "CharacterTag": "IndoorBattle_Over_A",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_110302025"
+    },
+    {
+      "EventContentBuffId": 110401020,
+      "IsBuff": true,
+      "CharacterTag": "StreetBattle_Under_B",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower01",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_110401020"
+    },
+    {
+      "EventContentBuffId": 110401025,
+      "IsBuff": true,
+      "CharacterTag": "StreetBattle_Under_B",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_110401025"
+    },
+    {
+      "EventContentBuffId": 110402025,
+      "IsBuff": true,
+      "CharacterTag": "StreetBattle_Under_B",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_110402025"
+    },
+    {
+      "EventContentBuffId": 110501020,
+      "IsBuff": true,
+      "CharacterTag": "OutdoorBattle_Under_B",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower01",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_110501020"
+    },
+    {
+      "EventContentBuffId": 110501025,
+      "IsBuff": true,
+      "CharacterTag": "OutdoorBattle_Under_B",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_110501025"
+    },
+    {
+      "EventContentBuffId": 110502025,
+      "IsBuff": true,
+      "CharacterTag": "OutdoorBattle_Under_B",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_110502025"
+    },
+    {
+      "EventContentBuffId": 110601020,
+      "IsBuff": true,
+      "CharacterTag": "IndoorBattle_Under_B",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower01",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_110601020"
+    },
+    {
+      "EventContentBuffId": 110601025,
+      "IsBuff": true,
+      "CharacterTag": "IndoorBattle_Under_B",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_110601025"
+    },
+    {
+      "EventContentBuffId": 110602025,
+      "IsBuff": true,
+      "CharacterTag": "IndoorBattle_Under_B",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_110602025"
+    },
+    {
+      "EventContentBuffId": 110701025,
+      "IsBuff": true,
+      "CharacterTag": "Explosion",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_110701025"
+    },
+    {
+      "EventContentBuffId": 110702025,
+      "IsBuff": true,
+      "CharacterTag": "Explosion",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_110702025"
+    },
+    {
+      "EventContentBuffId": 110801025,
+      "IsBuff": true,
+      "CharacterTag": "Pierce",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_110801025"
+    },
+    {
+      "EventContentBuffId": 110802025,
+      "IsBuff": true,
+      "CharacterTag": "Pierce",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_110802025"
+    },
+    {
+      "EventContentBuffId": 110901035,
+      "IsBuff": true,
+      "CharacterTag": "Mystic",
+      "SkillGroupId": "EventContent_Buff_StatChange_AttackPower04",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "SpriteName": "Combat_Icon_Buff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_110901035"
+    },
+    {
+      "EventContentBuffId": 110902035,
+      "IsBuff": true,
+      "CharacterTag": "Mystic",
+      "SkillGroupId": "EventContent_Buff_StatChange_MaxHp04",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "SpriteName": "Combat_Icon_Buff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_Buff_110902035"
+    },
+    {
+      "EventContentBuffId": 200101050,
       "IsBuff": false,
-      "BuffConditionType": "All",
-      "WeaponType": "None",
-      "School": "None",
-      "CharacterId": 0,
-      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower01",
+      "CharacterTag": "Abydos",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower05",
       "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
       "SpriteName": "Combat_Icon_Debuff_ATK",
-      "BuffDescriptionLocalizeEtcId": "EventContent_DeBuff_1"
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_200101050"
     },
     {
-      "EventContentBuffId": 12,
+      "EventContentBuffId": 200102050,
       "IsBuff": false,
-      "BuffConditionType": "Weapon",
-      "WeaponType": "SG",
-      "School": "None",
-      "CharacterId": 0,
-      "SkillGroupId": "EventContent_Debuff_StatChange_CriticalPoint01",
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_CriticalChance",
-      "SpriteName": "Combat_Icon_Debuff_CriticalChance",
-      "BuffDescriptionLocalizeEtcId": "EventContent_DeBuff_2"
-    },
-    {
-      "EventContentBuffId": 13,
-      "IsBuff": false,
-      "BuffConditionType": "Weapon",
-      "WeaponType": "SMG",
-      "School": "None",
-      "CharacterId": 0,
-      "SkillGroupId": "EventContent_Debuff_StatChange_CriticalDamage01",
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_CriticalDamage",
-      "SpriteName": "Combat_Icon_Debuff_CriticalDamage",
-      "BuffDescriptionLocalizeEtcId": "EventContent_DeBuff_3"
-    },
-    {
-      "EventContentBuffId": 14,
-      "IsBuff": false,
-      "BuffConditionType": "Weapon",
-      "WeaponType": "AR",
-      "School": "None",
-      "CharacterId": 0,
-      "SkillGroupId": "EventContent_Debuff_StatChange_AccuracyPoint01",
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_HIT",
-      "SpriteName": "Combat_Icon_Debuff_HIT",
-      "BuffDescriptionLocalizeEtcId": "EventContent_DeBuff_4"
-    },
-    {
-      "EventContentBuffId": 15,
-      "IsBuff": false,
-      "BuffConditionType": "Weapon",
-      "WeaponType": "HG",
-      "School": "None",
-      "CharacterId": 0,
-      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp01",
+      "CharacterTag": "Abydos",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp05",
       "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
       "SpriteName": "Combat_Icon_Debuff_MAXHP",
-      "BuffDescriptionLocalizeEtcId": "EventContent_DeBuff_5"
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_200102050"
     },
     {
-      "EventContentBuffId": 16,
+      "EventContentBuffId": 200201040,
       "IsBuff": false,
-      "BuffConditionType": "Weapon",
-      "WeaponType": "SR",
-      "School": "None",
-      "CharacterId": 0,
-      "SkillGroupId": "EventContent_Debuff_StatChange_DefensePower01",
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_DEF",
-      "SpriteName": "Combat_Icon_Debuff_DEF",
-      "BuffDescriptionLocalizeEtcId": "EventContent_DeBuff_6"
+      "CharacterTag": "Trinity",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower03",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_200201040"
     },
     {
-      "EventContentBuffId": 17,
+      "EventContentBuffId": 200202040,
       "IsBuff": false,
-      "BuffConditionType": "School",
-      "WeaponType": "None",
-      "School": "Gehenna",
-      "CharacterId": 0,
-      "SkillGroupId": "EventContent_Debuff_StatChange_DodgePoint01",
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_Dodge",
-      "SpriteName": "Combat_Icon_Debuff_Dodge",
-      "BuffDescriptionLocalizeEtcId": "EventContent_DeBuff_7"
+      "CharacterTag": "Trinity",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp03",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_200202040"
     },
     {
-      "EventContentBuffId": 18,
+      "EventContentBuffId": 200301040,
       "IsBuff": false,
-      "BuffConditionType": "School",
-      "WeaponType": "None",
-      "School": "Millennium",
-      "CharacterId": 0,
+      "CharacterTag": "Gehenna",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower03",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_200301040"
+    },
+    {
+      "EventContentBuffId": 200302040,
+      "IsBuff": false,
+      "CharacterTag": "Gehenna",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp03",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_200302040"
+    },
+    {
+      "EventContentBuffId": 200401050,
+      "IsBuff": false,
+      "CharacterTag": "RedWinter",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower05",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_200401050"
+    },
+    {
+      "EventContentBuffId": 200402050,
+      "IsBuff": false,
+      "CharacterTag": "RedWinter",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp05",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_200402050"
+    },
+    {
+      "EventContentBuffId": 200501035,
+      "IsBuff": false,
+      "CharacterTag": "Millennium",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_200501035"
+    },
+    {
+      "EventContentBuffId": 200502035,
+      "IsBuff": false,
+      "CharacterTag": "Millennium",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_200502035"
+    },
+    {
+      "EventContentBuffId": 200601050,
+      "IsBuff": false,
+      "CharacterTag": "Shanhaijing",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower05",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_200601050"
+    },
+    {
+      "EventContentBuffId": 200602050,
+      "IsBuff": false,
+      "CharacterTag": "Shanhaijing",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp05",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_200602050"
+    },
+    {
+      "EventContentBuffId": 200701050,
+      "IsBuff": false,
+      "CharacterTag": "Hyakkiyako",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower05",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_200701050"
+    },
+    {
+      "EventContentBuffId": 200702050,
+      "IsBuff": false,
+      "CharacterTag": "Hyakkiyako",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp05",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_200702050"
+    },
+    {
+      "EventContentBuffId": 203001035,
+      "IsBuff": false,
+      "CharacterTag": "Main",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_203001035"
+    },
+    {
+      "EventContentBuffId": 203002035,
+      "IsBuff": false,
+      "CharacterTag": "Main",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_203002035"
+    },
+    {
+      "EventContentBuffId": 203101050,
+      "IsBuff": false,
+      "CharacterTag": "Support",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower05",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_203101050"
+    },
+    {
+      "EventContentBuffId": 203102050,
+      "IsBuff": false,
+      "CharacterTag": "Support",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp05",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_203102050"
+    },
+    {
+      "EventContentBuffId": 203201035,
+      "IsBuff": false,
+      "CharacterTag": "Cover",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_203201035"
+    },
+    {
+      "EventContentBuffId": 203202035,
+      "IsBuff": false,
+      "CharacterTag": "Cover",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_203202035"
+    },
+    {
+      "EventContentBuffId": 203301035,
+      "IsBuff": false,
+      "CharacterTag": "Uncover",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_203301035"
+    },
+    {
+      "EventContentBuffId": 203302035,
+      "IsBuff": false,
+      "CharacterTag": "Uncover",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_203302035"
+    },
+    {
+      "EventContentBuffId": 205001045,
+      "IsBuff": false,
+      "CharacterTag": "HG",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower04",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_205001045"
+    },
+    {
+      "EventContentBuffId": 205002045,
+      "IsBuff": false,
+      "CharacterTag": "HG",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp04",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_205002045"
+    },
+    {
+      "EventContentBuffId": 205101045,
+      "IsBuff": false,
+      "CharacterTag": "SG",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower04",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_205101045"
+    },
+    {
+      "EventContentBuffId": 205102045,
+      "IsBuff": false,
+      "CharacterTag": "SG",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp04",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_205102045"
+    },
+    {
+      "EventContentBuffId": 205201045,
+      "IsBuff": false,
+      "CharacterTag": "SMG",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower04",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_205201045"
+    },
+    {
+      "EventContentBuffId": 205202045,
+      "IsBuff": false,
+      "CharacterTag": "SMG",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp04",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_205202045"
+    },
+    {
+      "EventContentBuffId": 205301040,
+      "IsBuff": false,
+      "CharacterTag": "AR",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower03",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_205301040"
+    },
+    {
+      "EventContentBuffId": 205302040,
+      "IsBuff": false,
+      "CharacterTag": "AR",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp03",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_205302040"
+    },
+    {
+      "EventContentBuffId": 205401045,
+      "IsBuff": false,
+      "CharacterTag": "SR",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower04",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_205401045"
+    },
+    {
+      "EventContentBuffId": 205402045,
+      "IsBuff": false,
+      "CharacterTag": "SR",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp04",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_205402045"
+    },
+    {
+      "EventContentBuffId": 205501045,
+      "IsBuff": false,
+      "CharacterTag": "MG",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower04",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_205501045"
+    },
+    {
+      "EventContentBuffId": 205502045,
+      "IsBuff": false,
+      "CharacterTag": "MG",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp04",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_205502045"
+    },
+    {
+      "EventContentBuffId": 208001040,
+      "IsBuff": false,
+      "CharacterTag": "Front",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower03",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_208001040"
+    },
+    {
+      "EventContentBuffId": 208002040,
+      "IsBuff": false,
+      "CharacterTag": "Front",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp03",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_208002040"
+    },
+    {
+      "EventContentBuffId": 208101040,
+      "IsBuff": false,
+      "CharacterTag": "Middle",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower03",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_208101040"
+    },
+    {
+      "EventContentBuffId": 208102040,
+      "IsBuff": false,
+      "CharacterTag": "Middle",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp03",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_208102040"
+    },
+    {
+      "EventContentBuffId": 208201040,
+      "IsBuff": false,
+      "CharacterTag": "Back",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower03",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_208201040"
+    },
+    {
+      "EventContentBuffId": 208202040,
+      "IsBuff": false,
+      "CharacterTag": "Back",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp03",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_208202040"
+    },
+    {
+      "EventContentBuffId": 210101030,
+      "IsBuff": false,
+      "CharacterTag": "StreetBattle_Over_A",
       "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower01",
       "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
       "SpriteName": "Combat_Icon_Debuff_ATK",
-      "BuffDescriptionLocalizeEtcId": "EventContent_DeBuff_8"
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_210101030"
     },
     {
-      "EventContentBuffId": 19,
+      "EventContentBuffId": 210101035,
       "IsBuff": false,
-      "BuffConditionType": "School",
-      "WeaponType": "None",
-      "School": "Shanhaijing",
-      "CharacterId": 0,
-      "SkillGroupId": "EventContent_Debuff_StatChange_CriticalPoint01",
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_CriticalChance",
-      "SpriteName": "Combat_Icon_Debuff_CriticalChance",
-      "BuffDescriptionLocalizeEtcId": "EventContent_DeBuff_9"
+      "CharacterTag": "StreetBattle_Over_A",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_210101035"
     },
     {
-      "EventContentBuffId": 20,
+      "EventContentBuffId": 210102035,
       "IsBuff": false,
-      "BuffConditionType": "School",
-      "WeaponType": "None",
-      "School": "RedWinter",
-      "CharacterId": 0,
-      "SkillGroupId": "EventContent_Debuff_StatChange_CriticalDamage01",
-      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_CriticalDamage",
-      "SpriteName": "Combat_Icon_Debuff_CriticalDamage",
-      "BuffDescriptionLocalizeEtcId": "EventContent_DeBuff_10"
+      "CharacterTag": "StreetBattle_Over_A",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_210102035"
+    },
+    {
+      "EventContentBuffId": 210201030,
+      "IsBuff": false,
+      "CharacterTag": "OutdoorBattle_Over_A",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower01",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_210201030"
+    },
+    {
+      "EventContentBuffId": 210201035,
+      "IsBuff": false,
+      "CharacterTag": "OutdoorBattle_Over_A",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_210201035"
+    },
+    {
+      "EventContentBuffId": 210202035,
+      "IsBuff": false,
+      "CharacterTag": "OutdoorBattle_Over_A",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_210202035"
+    },
+    {
+      "EventContentBuffId": 210301030,
+      "IsBuff": false,
+      "CharacterTag": "IndoorBattle_Over_A",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower01",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_210301030"
+    },
+    {
+      "EventContentBuffId": 210301035,
+      "IsBuff": false,
+      "CharacterTag": "IndoorBattle_Over_A",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_210301035"
+    },
+    {
+      "EventContentBuffId": 210302035,
+      "IsBuff": false,
+      "CharacterTag": "IndoorBattle_Over_A",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_210302035"
+    },
+    {
+      "EventContentBuffId": 210401030,
+      "IsBuff": false,
+      "CharacterTag": "StreetBattle_Under_B",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower01",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_210401030"
+    },
+    {
+      "EventContentBuffId": 210401035,
+      "IsBuff": false,
+      "CharacterTag": "StreetBattle_Under_B",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_210401035"
+    },
+    {
+      "EventContentBuffId": 210402035,
+      "IsBuff": false,
+      "CharacterTag": "StreetBattle_Under_B",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_210402035"
+    },
+    {
+      "EventContentBuffId": 210501030,
+      "IsBuff": false,
+      "CharacterTag": "OutdoorBattle_Under_B",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower01",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_210501030"
+    },
+    {
+      "EventContentBuffId": 210501035,
+      "IsBuff": false,
+      "CharacterTag": "OutdoorBattle_Under_B",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_210501035"
+    },
+    {
+      "EventContentBuffId": 210502035,
+      "IsBuff": false,
+      "CharacterTag": "OutdoorBattle_Under_B",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_210502035"
+    },
+    {
+      "EventContentBuffId": 210601030,
+      "IsBuff": false,
+      "CharacterTag": "IndoorBattle_Under_B",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower01",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_210601030"
+    },
+    {
+      "EventContentBuffId": 210601035,
+      "IsBuff": false,
+      "CharacterTag": "IndoorBattle_Under_B",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_210601035"
+    },
+    {
+      "EventContentBuffId": 210602035,
+      "IsBuff": false,
+      "CharacterTag": "IndoorBattle_Under_B",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_210602035"
+    },
+    {
+      "EventContentBuffId": 210701035,
+      "IsBuff": false,
+      "CharacterTag": "Explosion",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_210701035"
+    },
+    {
+      "EventContentBuffId": 210702035,
+      "IsBuff": false,
+      "CharacterTag": "Explosion",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_210702035"
+    },
+    {
+      "EventContentBuffId": 210801035,
+      "IsBuff": false,
+      "CharacterTag": "Pierce",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_210801035"
+    },
+    {
+      "EventContentBuffId": 210802035,
+      "IsBuff": false,
+      "CharacterTag": "Pierce",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp02",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_210802035"
+    },
+    {
+      "EventContentBuffId": 210901045,
+      "IsBuff": false,
+      "CharacterTag": "Mystic",
+      "SkillGroupId": "EventContent_Debuff_StatChange_AttackPower04",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "SpriteName": "Combat_Icon_Debuff_ATK",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_210901045"
+    },
+    {
+      "EventContentBuffId": 210902045,
+      "IsBuff": false,
+      "CharacterTag": "Mystic",
+      "SkillGroupId": "EventContent_Debuff_StatChange_MaxHp04",
+      "IconPath": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "SpriteName": "Combat_Icon_Debuff_MAXHP",
+      "BuffDescriptionLocalizeCodeId": "EventContent_DeBuff_210902045"
     }
   ]
 }

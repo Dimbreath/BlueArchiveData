@@ -9,6 +9,7 @@
       "PreChapterId": [],
       "ChapterRewardId": 1,
       "ChapterHardRewardId": 2,
+      "ChapterVeryHardRewardId": 0,
       "NormalCampaignStageId": [
         1011101,
         1011201,
@@ -31,7 +32,8 @@
         1012101,
         1012102,
         1012103
-      ]
+      ],
+      "VeryHardCampaignStageId": []
     },
     {
       "Id": 102,
@@ -44,6 +46,7 @@
       ],
       "ChapterRewardId": 3,
       "ChapterHardRewardId": 4,
+      "ChapterVeryHardRewardId": 0,
       "NormalCampaignStageId": [
         1021101,
         1021201,
@@ -64,7 +67,8 @@
         1022101,
         1022102,
         1022103
-      ]
+      ],
+      "VeryHardCampaignStageId": []
     },
     {
       "Id": 103,
@@ -77,6 +81,7 @@
       ],
       "ChapterRewardId": 5,
       "ChapterHardRewardId": 6,
+      "ChapterVeryHardRewardId": 0,
       "NormalCampaignStageId": [
         1031305,
         1031101,
@@ -98,7 +103,8 @@
         1032101,
         1032102,
         1032103
-      ]
+      ],
+      "VeryHardCampaignStageId": []
     },
     {
       "Id": 104,
@@ -111,6 +117,7 @@
       ],
       "ChapterRewardId": 7,
       "ChapterHardRewardId": 8,
+      "ChapterVeryHardRewardId": 0,
       "NormalCampaignStageId": [
         1041101,
         1041201,
@@ -130,7 +137,8 @@
         1042101,
         1042102,
         1042103
-      ]
+      ],
+      "VeryHardCampaignStageId": []
     },
     {
       "Id": 105,
@@ -143,6 +151,7 @@
       ],
       "ChapterRewardId": 9,
       "ChapterHardRewardId": 10,
+      "ChapterVeryHardRewardId": 0,
       "NormalCampaignStageId": [
         1051101,
         1051201,
@@ -162,7 +171,8 @@
         1052101,
         1052102,
         1052103
-      ]
+      ],
+      "VeryHardCampaignStageId": []
     },
     {
       "Id": 106,
@@ -175,6 +185,7 @@
       ],
       "ChapterRewardId": 11,
       "ChapterHardRewardId": 12,
+      "ChapterVeryHardRewardId": 0,
       "NormalCampaignStageId": [
         1061101,
         1061201,
@@ -194,7 +205,8 @@
         1062101,
         1062102,
         1062103
-      ]
+      ],
+      "VeryHardCampaignStageId": []
     },
     {
       "Id": 107,
@@ -207,6 +219,7 @@
       ],
       "ChapterRewardId": 13,
       "ChapterHardRewardId": 14,
+      "ChapterVeryHardRewardId": 0,
       "NormalCampaignStageId": [
         1071101,
         1071201,
@@ -226,7 +239,8 @@
         1072101,
         1072102,
         1072103
-      ]
+      ],
+      "VeryHardCampaignStageId": []
     },
     {
       "Id": 108,
@@ -239,6 +253,7 @@
       ],
       "ChapterRewardId": 15,
       "ChapterHardRewardId": 16,
+      "ChapterVeryHardRewardId": 0,
       "NormalCampaignStageId": [
         1081101,
         1081201,
@@ -258,7 +273,8 @@
         1082101,
         1082102,
         1082103
-      ]
+      ],
+      "VeryHardCampaignStageId": []
     },
     {
       "Id": 109,
@@ -271,6 +287,7 @@
       ],
       "ChapterRewardId": 17,
       "ChapterHardRewardId": 18,
+      "ChapterVeryHardRewardId": 0,
       "NormalCampaignStageId": [
         1091101,
         1091201,
@@ -290,7 +307,8 @@
         1092101,
         1092102,
         1092103
-      ]
+      ],
+      "VeryHardCampaignStageId": []
     },
     {
       "Id": 110,
@@ -303,6 +321,7 @@
       ],
       "ChapterRewardId": 19,
       "ChapterHardRewardId": 20,
+      "ChapterVeryHardRewardId": 0,
       "NormalCampaignStageId": [
         1101101,
         1101201,
@@ -322,7 +341,8 @@
         1102101,
         1102102,
         1102103
-      ]
+      ],
+      "VeryHardCampaignStageId": []
     },
     {
       "Id": 111,
@@ -335,6 +355,7 @@
       ],
       "ChapterRewardId": 21,
       "ChapterHardRewardId": 22,
+      "ChapterVeryHardRewardId": 0,
       "NormalCampaignStageId": [
         1111101,
         1111201,
@@ -354,7 +375,8 @@
         1112101,
         1112102,
         1112103
-      ]
+      ],
+      "VeryHardCampaignStageId": []
     },
     {
       "Id": 112,
@@ -367,6 +389,7 @@
       ],
       "ChapterRewardId": 23,
       "ChapterHardRewardId": 24,
+      "ChapterVeryHardRewardId": 0,
       "NormalCampaignStageId": [
         1121101,
         1121201,
@@ -386,7 +409,8 @@
         1122101,
         1122102,
         1122103
-      ]
+      ],
+      "VeryHardCampaignStageId": []
     },
     {
       "Id": 113,
@@ -399,6 +423,7 @@
       ],
       "ChapterRewardId": 25,
       "ChapterHardRewardId": 26,
+      "ChapterVeryHardRewardId": 0,
       "NormalCampaignStageId": [
         1131101,
         1131201,
@@ -418,7 +443,8 @@
         1132101,
         1132102,
         1132103
-      ]
+      ],
+      "VeryHardCampaignStageId": []
     }
   ]
 }

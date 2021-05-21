@@ -430,6 +430,37 @@
       "MissionRewardAmount": [
         10
       ]
+    },
+    {
+      "Id": 100,
+      "EventContentId": 10001,
+      "GroupId": 0,
+      "GroupName": null,
+      "Category": "Achievement",
+      "Description": "Event_Mission_Clear_Specific_Campaign_Stage_Timelimit",
+      "ResetType": "None",
+      "ViewFlag": true,
+      "DisplayOrder": 12,
+      "PreMissionId": [],
+      "AccountType": "Normal",
+      "AccountLevel": 1,
+      "ShortcutUI": [],
+      "CompleteConditionType": "ClearEventStageTimeLimitFromSecond",
+      "CompleteConditionCount": 60,
+      "CompleteConditionParameter": [
+        8021101
+      ],
+      "CompleteConditionParameterName": [],
+      "RewardIcon": null,
+      "MissionRewardParcelType": [
+        "Currency"
+      ],
+      "MissionRewardParcelId": [
+        3
+      ],
+      "MissionRewardAmount": [
+        10
+      ]
     }
   ]
 }

@@ -199,6 +199,56 @@
       "StageId": 202300005,
       "PhaseIndex": 1,
       "BGMId": 203
+    },
+    {
+      "StageId": 202200001,
+      "PhaseIndex": 0,
+      "BGMId": 204
+    },
+    {
+      "StageId": 202200001,
+      "PhaseIndex": 1,
+      "BGMId": 203
+    },
+    {
+      "StageId": 202200002,
+      "PhaseIndex": 0,
+      "BGMId": 204
+    },
+    {
+      "StageId": 202200002,
+      "PhaseIndex": 1,
+      "BGMId": 203
+    },
+    {
+      "StageId": 202200003,
+      "PhaseIndex": 0,
+      "BGMId": 204
+    },
+    {
+      "StageId": 202200003,
+      "PhaseIndex": 1,
+      "BGMId": 203
+    },
+    {
+      "StageId": 202200004,
+      "PhaseIndex": 0,
+      "BGMId": 204
+    },
+    {
+      "StageId": 202200004,
+      "PhaseIndex": 1,
+      "BGMId": 203
+    },
+    {
+      "StageId": 202200005,
+      "PhaseIndex": 0,
+      "BGMId": 204
+    },
+    {
+      "StageId": 202200005,
+      "PhaseIndex": 1,
+      "BGMId": 203
     }
   ]
 }

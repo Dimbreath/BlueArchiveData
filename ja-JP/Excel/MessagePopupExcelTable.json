@@ -370,29 +370,6 @@
       "ButtonParameter": []
     },
     {
-      "StringId": 3584117782,
-      "MessagePopupLayout": "TextOnly",
-      "OrderType": "ImageFirst",
-      "Image": null,
-      "TitleText": 1739509789,
-      "MessageText": 2067845205,
-      "DisplayXButton": true,
-      "Button": [
-        "Accept",
-        "Cancel"
-      ],
-      "ButtonText": [
-        475331399,
-        521483466
-      ],
-      "ButtonCommand": [
-        "OpenUI"
-      ],
-      "ButtonParameter": [
-        "UIScenarioMode_Chapter|DecideDefaultVolumeId"
-      ]
-    },
-    {
       "StringId": 2565776678,
       "MessagePopupLayout": "TextOnly",
       "OrderType": "ImageFirst",
@@ -1010,6 +987,61 @@
       ],
       "ButtonText": [
         475331399
+      ],
+      "ButtonCommand": [],
+      "ButtonParameter": []
+    },
+    {
+      "StringId": 1517093943,
+      "MessagePopupLayout": "TextOnly",
+      "OrderType": "ImageFirst",
+      "Image": null,
+      "TitleText": 1739509789,
+      "MessageText": 4171131501,
+      "DisplayXButton": true,
+      "Button": [
+        "Accept"
+      ],
+      "ButtonText": [
+        475331399
+      ],
+      "ButtonCommand": [],
+      "ButtonParameter": []
+    },
+    {
+      "StringId": 1786186857,
+      "MessagePopupLayout": "ImageBig",
+      "OrderType": "ImageFirst",
+      "Image": "UIs/01_Common/09_PopupImage/Popup_Image_Arona",
+      "TitleText": 1739509789,
+      "MessageText": 3814071398,
+      "DisplayXButton": true,
+      "Button": [
+        "Accept",
+        "Cancel"
+      ],
+      "ButtonText": [
+        475331399,
+        521483466
+      ],
+      "ButtonCommand": [],
+      "ButtonParameter": []
+    },
+    {
+      "StringId": 2683774216,
+      "MessagePopupLayout": "TextOnly",
+      "OrderType": "ImageFirst",
+      "Image": null,
+      "TitleText": 1739509789,
+      "MessageText": 3814071398,
+      "DisplayXButton": true,
+      "Button": [
+        "Accept",
+        "Cancel"
+      ],
+      "ButtonText": [
+        475331399,
+        521483466
       ],
       "ButtonCommand": [],
       "ButtonParameter": []

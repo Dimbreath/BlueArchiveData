@@ -1,0 +1,194 @@
+{
+  "DataList": [
+    {
+      "Id": 1,
+      "EventContentId": 10001,
+      "GroupId": 1000,
+      "UnlockConditionType": "ClearSpecificEventScenario",
+      "UnlockConditionParameter": 9002,
+      "UnlockConditionCount": 1,
+      "ThumbResource": null,
+      "FullResource": null
+    },
+    {
+      "Id": 2,
+      "EventContentId": 10001,
+      "GroupId": 1000,
+      "UnlockConditionType": "ClearSpecificEventMission",
+      "UnlockConditionParameter": 8,
+      "UnlockConditionCount": 1,
+      "ThumbResource": null,
+      "FullResource": null
+    },
+    {
+      "Id": 3,
+      "EventContentId": 10001,
+      "GroupId": 1000,
+      "UnlockConditionType": "ClearSpecificEventStage",
+      "UnlockConditionParameter": 3011101,
+      "UnlockConditionCount": 1,
+      "ThumbResource": null,
+      "FullResource": null
+    },
+    {
+      "Id": 4,
+      "EventContentId": 10001,
+      "GroupId": 1000,
+      "UnlockConditionType": "PurchaseSpecificItemCount",
+      "UnlockConditionParameter": 80000,
+      "UnlockConditionCount": 100,
+      "ThumbResource": null,
+      "FullResource": null
+    },
+    {
+      "Id": 5,
+      "EventContentId": 803,
+      "GroupId": 1000,
+      "UnlockConditionType": "PurchaseSpecificItemCount",
+      "UnlockConditionParameter": 80000,
+      "UnlockConditionCount": 1,
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01"
+    },
+    {
+      "Id": 6,
+      "EventContentId": 803,
+      "GroupId": 1000,
+      "UnlockConditionType": "PurchaseSpecificItemCount",
+      "UnlockConditionParameter": 80000,
+      "UnlockConditionCount": 2,
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01"
+    },
+    {
+      "Id": 7,
+      "EventContentId": 803,
+      "GroupId": 1000,
+      "UnlockConditionType": "PurchaseSpecificItemCount",
+      "UnlockConditionParameter": 80000,
+      "UnlockConditionCount": 3,
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01"
+    },
+    {
+      "Id": 8,
+      "EventContentId": 803,
+      "GroupId": 1000,
+      "UnlockConditionType": "PurchaseSpecificItemCount",
+      "UnlockConditionParameter": 80000,
+      "UnlockConditionCount": 4,
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01"
+    },
+    {
+      "Id": 9,
+      "EventContentId": 803,
+      "GroupId": 1000,
+      "UnlockConditionType": "PurchaseSpecificItemCount",
+      "UnlockConditionParameter": 80000,
+      "UnlockConditionCount": 5,
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01"
+    },
+    {
+      "Id": 10,
+      "EventContentId": 803,
+      "GroupId": 1000,
+      "UnlockConditionType": "PurchaseSpecificItemCount",
+      "UnlockConditionParameter": 80000,
+      "UnlockConditionCount": 6,
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01"
+    },
+    {
+      "Id": 11,
+      "EventContentId": 803,
+      "GroupId": 1000,
+      "UnlockConditionType": "PurchaseSpecificItemCount",
+      "UnlockConditionParameter": 80000,
+      "UnlockConditionCount": 7,
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy02",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy02"
+    },
+    {
+      "Id": 12,
+      "EventContentId": 803,
+      "GroupId": 1000,
+      "UnlockConditionType": "PurchaseSpecificItemCount",
+      "UnlockConditionParameter": 80000,
+      "UnlockConditionCount": 8,
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy02",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy02"
+    },
+    {
+      "Id": 13,
+      "EventContentId": 803,
+      "GroupId": 1000,
+      "UnlockConditionType": "PurchaseSpecificItemCount",
+      "UnlockConditionParameter": 80000,
+      "UnlockConditionCount": 9,
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01"
+    },
+    {
+      "Id": 14,
+      "EventContentId": 803,
+      "GroupId": 2000,
+      "UnlockConditionType": "PurchaseSpecificItemCount",
+      "UnlockConditionParameter": 80000,
+      "UnlockConditionCount": 1,
+      "ThumbResource": null,
+      "FullResource": null
+    },
+    {
+      "Id": 15,
+      "EventContentId": 803,
+      "GroupId": 2000,
+      "UnlockConditionType": "PurchaseSpecificItemCount",
+      "UnlockConditionParameter": 80000,
+      "UnlockConditionCount": 2,
+      "ThumbResource": null,
+      "FullResource": null
+    },
+    {
+      "Id": 16,
+      "EventContentId": 803,
+      "GroupId": 2000,
+      "UnlockConditionType": "PurchaseSpecificItemCount",
+      "UnlockConditionParameter": 80000,
+      "UnlockConditionCount": 3,
+      "ThumbResource": null,
+      "FullResource": null
+    },
+    {
+      "Id": 17,
+      "EventContentId": 803,
+      "GroupId": 2000,
+      "UnlockConditionType": "PurchaseSpecificItemCount",
+      "UnlockConditionParameter": 80000,
+      "UnlockConditionCount": 4,
+      "ThumbResource": null,
+      "FullResource": null
+    },
+    {
+      "Id": 18,
+      "EventContentId": 803,
+      "GroupId": 2000,
+      "UnlockConditionType": "PurchaseSpecificItemCount",
+      "UnlockConditionParameter": 80000,
+      "UnlockConditionCount": 5,
+      "ThumbResource": null,
+      "FullResource": null
+    },
+    {
+      "Id": 19,
+      "EventContentId": 803,
+      "GroupId": 2000,
+      "UnlockConditionType": "PurchaseSpecificItemCount",
+      "UnlockConditionParameter": 80000,
+      "UnlockConditionCount": 6,
+      "ThumbResource": null,
+      "FullResource": null
+    }
+  ]
+}

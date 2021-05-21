@@ -5,7 +5,7 @@
       "Id": 8010001,
       "LocalizeEtcId": 1688668283,
       "CategoryType": "EventContent_0",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40000
       ],
@@ -21,7 +21,7 @@
       "Id": 8010002,
       "LocalizeEtcId": 2952503379,
       "CategoryType": "EventContent_0",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40001
       ],
@@ -37,7 +37,7 @@
       "Id": 8010003,
       "LocalizeEtcId": 2949797158,
       "CategoryType": "EventContent_0",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40002
       ],
@@ -53,7 +53,7 @@
       "Id": 8010004,
       "LocalizeEtcId": 2795379965,
       "CategoryType": "EventContent_0",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40003
       ],
@@ -69,7 +69,7 @@
       "Id": 8010005,
       "LocalizeEtcId": 1134999888,
       "CategoryType": "EventContent_0",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40004
       ],
@@ -85,7 +85,7 @@
       "Id": 8010006,
       "LocalizeEtcId": 3433802547,
       "CategoryType": "EventContent_0",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40005
       ],
@@ -101,7 +101,7 @@
       "Id": 8010007,
       "LocalizeEtcId": 1229651923,
       "CategoryType": "EventContent_0",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40006
       ],
@@ -117,7 +117,7 @@
       "Id": 8010008,
       "LocalizeEtcId": 596368071,
       "CategoryType": "EventContent_0",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40007
       ],
@@ -133,7 +133,7 @@
       "Id": 8010009,
       "LocalizeEtcId": 1959694325,
       "CategoryType": "EventContent_0",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40008
       ],
@@ -149,7 +149,7 @@
       "Id": 8010010,
       "LocalizeEtcId": 2797714306,
       "CategoryType": "EventContent_1",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40009
       ],
@@ -165,7 +165,7 @@
       "Id": 8010011,
       "LocalizeEtcId": 416424274,
       "CategoryType": "EventContent_1",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40010
       ],
@@ -181,7 +181,7 @@
       "Id": 8010012,
       "LocalizeEtcId": 4133921081,
       "CategoryType": "EventContent_1",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40011
       ],
@@ -197,7 +197,7 @@
       "Id": 8010013,
       "LocalizeEtcId": 35330832,
       "CategoryType": "EventContent_1",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40012
       ],
@@ -213,7 +213,7 @@
       "Id": 8010014,
       "LocalizeEtcId": 4114117805,
       "CategoryType": "EventContent_1",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40013
       ],
@@ -229,7 +229,7 @@
       "Id": 8010015,
       "LocalizeEtcId": 3104370311,
       "CategoryType": "EventContent_1",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40014
       ],
@@ -245,7 +245,7 @@
       "Id": 8010016,
       "LocalizeEtcId": 2579836564,
       "CategoryType": "EventContent_1",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40015
       ],
@@ -261,7 +261,7 @@
       "Id": 8010017,
       "LocalizeEtcId": 788632076,
       "CategoryType": "EventContent_1",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40016
       ],
@@ -277,7 +277,7 @@
       "Id": 8010018,
       "LocalizeEtcId": 3829441542,
       "CategoryType": "EventContent_1",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40017
       ],
@@ -293,7 +293,7 @@
       "Id": 8010019,
       "LocalizeEtcId": 391816722,
       "CategoryType": "EventContent_1",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40018
       ],
@@ -309,7 +309,7 @@
       "Id": 8010020,
       "LocalizeEtcId": 2308340710,
       "CategoryType": "EventContent_1",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40019
       ],
@@ -325,7 +325,7 @@
       "Id": 8010021,
       "LocalizeEtcId": 416424274,
       "CategoryType": "EventContent_2",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40020
       ],
@@ -341,7 +341,7 @@
       "Id": 8010022,
       "LocalizeEtcId": 2797714306,
       "CategoryType": "EventContent_2",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40021
       ],
@@ -357,7 +357,7 @@
       "Id": 8010023,
       "LocalizeEtcId": 4008312686,
       "CategoryType": "EventContent_2",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40022
       ],
@@ -373,7 +373,7 @@
       "Id": 8010024,
       "LocalizeEtcId": 2742210412,
       "CategoryType": "EventContent_2",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40023
       ],
@@ -389,7 +389,7 @@
       "Id": 8010025,
       "LocalizeEtcId": 2742161069,
       "CategoryType": "EventContent_2",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40024
       ],
@@ -405,7 +405,7 @@
       "Id": 8010026,
       "LocalizeEtcId": 933585740,
       "CategoryType": "EventContent_2",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40025
       ],
@@ -421,7 +421,7 @@
       "Id": 8010027,
       "LocalizeEtcId": 890047783,
       "CategoryType": "EventContent_2",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40026
       ],
@@ -437,7 +437,7 @@
       "Id": 8010028,
       "LocalizeEtcId": 2160888131,
       "CategoryType": "EventContent_2",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40027
       ],
@@ -453,7 +453,7 @@
       "Id": 8010029,
       "LocalizeEtcId": 4072420418,
       "CategoryType": "EventContent_2",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40028
       ],
@@ -469,7 +469,7 @@
       "Id": 8010030,
       "LocalizeEtcId": 3540869938,
       "CategoryType": "EventContent_2",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40029
       ],
@@ -485,11 +485,555 @@
       "Id": 8010031,
       "LocalizeEtcId": 2683341399,
       "CategoryType": "EventContent_2",
-      "IsLegacy": false,
+      "IsLegacy": true,
       "GoodsId": [
         40030
       ],
       "DisplayOrder": 11,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020001,
+      "LocalizeEtcId": 1688668283,
+      "CategoryType": "EventContent_0",
+      "IsLegacy": false,
+      "GoodsId": [
+        40100
+      ],
+      "DisplayOrder": 1,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 150,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020002,
+      "LocalizeEtcId": 2952503379,
+      "CategoryType": "EventContent_0",
+      "IsLegacy": false,
+      "GoodsId": [
+        40101
+      ],
+      "DisplayOrder": 2,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 75,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020003,
+      "LocalizeEtcId": 2949797158,
+      "CategoryType": "EventContent_0",
+      "IsLegacy": false,
+      "GoodsId": [
+        40102
+      ],
+      "DisplayOrder": 3,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 25,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020004,
+      "LocalizeEtcId": 2795379965,
+      "CategoryType": "EventContent_0",
+      "IsLegacy": false,
+      "GoodsId": [
+        40103
+      ],
+      "DisplayOrder": 4,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020005,
+      "LocalizeEtcId": 1264526457,
+      "CategoryType": "EventContent_0",
+      "IsLegacy": false,
+      "GoodsId": [
+        40104
+      ],
+      "DisplayOrder": 5,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 8,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020006,
+      "LocalizeEtcId": 23722908,
+      "CategoryType": "EventContent_0",
+      "IsLegacy": false,
+      "GoodsId": [
+        40105
+      ],
+      "DisplayOrder": 6,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 6,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020007,
+      "LocalizeEtcId": 1694520143,
+      "CategoryType": "EventContent_0",
+      "IsLegacy": false,
+      "GoodsId": [
+        40106
+      ],
+      "DisplayOrder": 7,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 4,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020008,
+      "LocalizeEtcId": 3097064378,
+      "CategoryType": "EventContent_0",
+      "IsLegacy": false,
+      "GoodsId": [
+        40107
+      ],
+      "DisplayOrder": 8,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 1,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020009,
+      "LocalizeEtcId": 1059601629,
+      "CategoryType": "EventContent_0",
+      "IsLegacy": false,
+      "GoodsId": [
+        40108
+      ],
+      "DisplayOrder": 9,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 70,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020010,
+      "LocalizeEtcId": 2792603792,
+      "CategoryType": "EventContent_0",
+      "IsLegacy": false,
+      "GoodsId": [
+        40109
+      ],
+      "DisplayOrder": 10,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 35,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020011,
+      "LocalizeEtcId": 2746570331,
+      "CategoryType": "EventContent_0",
+      "IsLegacy": false,
+      "GoodsId": [
+        40110
+      ],
+      "DisplayOrder": 11,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 20,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020012,
+      "LocalizeEtcId": 3158158648,
+      "CategoryType": "EventContent_0",
+      "IsLegacy": false,
+      "GoodsId": [
+        40111
+      ],
+      "DisplayOrder": 12,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020013,
+      "LocalizeEtcId": 2871602548,
+      "CategoryType": "EventContent_0",
+      "IsLegacy": false,
+      "GoodsId": [
+        40112
+      ],
+      "DisplayOrder": 13,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020014,
+      "LocalizeEtcId": 1134999888,
+      "CategoryType": "EventContent_1",
+      "IsLegacy": false,
+      "GoodsId": [
+        40113
+      ],
+      "DisplayOrder": 1,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 150,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020015,
+      "LocalizeEtcId": 3433802547,
+      "CategoryType": "EventContent_1",
+      "IsLegacy": false,
+      "GoodsId": [
+        40114
+      ],
+      "DisplayOrder": 2,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 75,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020016,
+      "LocalizeEtcId": 1229651923,
+      "CategoryType": "EventContent_1",
+      "IsLegacy": false,
+      "GoodsId": [
+        40115
+      ],
+      "DisplayOrder": 3,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 25,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020017,
+      "LocalizeEtcId": 596368071,
+      "CategoryType": "EventContent_1",
+      "IsLegacy": false,
+      "GoodsId": [
+        40116
+      ],
+      "DisplayOrder": 4,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020018,
+      "LocalizeEtcId": 3502917964,
+      "CategoryType": "EventContent_1",
+      "IsLegacy": false,
+      "GoodsId": [
+        40117
+      ],
+      "DisplayOrder": 5,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 25,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020019,
+      "LocalizeEtcId": 3870440815,
+      "CategoryType": "EventContent_1",
+      "IsLegacy": false,
+      "GoodsId": [
+        40118
+      ],
+      "DisplayOrder": 6,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 20,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020020,
+      "LocalizeEtcId": 1537137084,
+      "CategoryType": "EventContent_1",
+      "IsLegacy": false,
+      "GoodsId": [
+        40119
+      ],
+      "DisplayOrder": 7,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 15,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020021,
+      "LocalizeEtcId": 991032267,
+      "CategoryType": "EventContent_1",
+      "IsLegacy": false,
+      "GoodsId": [
+        40120
+      ],
+      "DisplayOrder": 8,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020022,
+      "LocalizeEtcId": 4282203720,
+      "CategoryType": "EventContent_1",
+      "IsLegacy": false,
+      "GoodsId": [
+        40121
+      ],
+      "DisplayOrder": 9,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 70,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020023,
+      "LocalizeEtcId": 1767055059,
+      "CategoryType": "EventContent_1",
+      "IsLegacy": false,
+      "GoodsId": [
+        40122
+      ],
+      "DisplayOrder": 10,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 35,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020024,
+      "LocalizeEtcId": 2751697296,
+      "CategoryType": "EventContent_1",
+      "IsLegacy": false,
+      "GoodsId": [
+        40123
+      ],
+      "DisplayOrder": 11,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 20,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020025,
+      "LocalizeEtcId": 2344279089,
+      "CategoryType": "EventContent_1",
+      "IsLegacy": false,
+      "GoodsId": [
+        40124
+      ],
+      "DisplayOrder": 12,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020026,
+      "LocalizeEtcId": 2683341399,
+      "CategoryType": "EventContent_1",
+      "IsLegacy": false,
+      "GoodsId": [
+        40125
+      ],
+      "DisplayOrder": 13,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020027,
+      "LocalizeEtcId": 1947468414,
+      "CategoryType": "EventContent_2",
+      "IsLegacy": false,
+      "GoodsId": [
+        40126
+      ],
+      "DisplayOrder": 1,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 40,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020028,
+      "LocalizeEtcId": 3756781228,
+      "CategoryType": "EventContent_2",
+      "IsLegacy": false,
+      "GoodsId": [
+        40127
+      ],
+      "DisplayOrder": 2,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020029,
+      "LocalizeEtcId": 2930254365,
+      "CategoryType": "EventContent_2",
+      "IsLegacy": false,
+      "GoodsId": [
+        40128
+      ],
+      "DisplayOrder": 3,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 20,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020030,
+      "LocalizeEtcId": 753025034,
+      "CategoryType": "EventContent_2",
+      "IsLegacy": false,
+      "GoodsId": [
+        40129
+      ],
+      "DisplayOrder": 4,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 1,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020031,
+      "LocalizeEtcId": 2683341399,
+      "CategoryType": "EventContent_2",
+      "IsLegacy": false,
+      "GoodsId": [
+        40130
+      ],
+      "DisplayOrder": 5,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 5,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020032,
+      "LocalizeEtcId": 2683341399,
+      "CategoryType": "EventContent_2",
+      "IsLegacy": false,
+      "GoodsId": [
+        40131
+      ],
+      "DisplayOrder": 6,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020033,
+      "LocalizeEtcId": 2683341399,
+      "CategoryType": "EventContent_2",
+      "IsLegacy": false,
+      "GoodsId": [
+        40132
+      ],
+      "DisplayOrder": 7,
+      "SalePeriodFrom": null,
+      "SalePeriodTo": null,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 25,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "EventContentId": 802,
+      "Id": 8020034,
+      "LocalizeEtcId": 2683341399,
+      "CategoryType": "EventContent_2",
+      "IsLegacy": false,
+      "GoodsId": [
+        40133
+      ],
+      "DisplayOrder": 8,
       "SalePeriodFrom": null,
       "SalePeriodTo": null,
       "PurchaseCooltimeMin": 0,

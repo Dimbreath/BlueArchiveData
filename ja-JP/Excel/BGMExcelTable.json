@@ -551,7 +551,7 @@
     },
     {
       "Id": 62,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "Path": "Audio/BGM/Theme_62_Mitsukiyo_22_merry_blue_(-1dB)",
       "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
@@ -706,6 +706,24 @@
       "Id": 82,
       "ProductionStep": "Release",
       "Path": "Audio/BGM/Theme_82_Mitsukiyo_M25_Hifumi_Daisuki_(-1dB)",
+      "Volume": 1.03390346E-13,
+      "LoopStartTime": 0.0,
+      "LoopEndTime": 0.0,
+      "LoopTranstionTime": 1.033963E-13
+    },
+    {
+      "Id": 83,
+      "ProductionStep": "Release",
+      "Path": "Audio/BGM/Theme_83_Mitsukiyo_32_PRST_Academy(-1dB)",
+      "Volume": 1.03390346E-13,
+      "LoopStartTime": 0.0,
+      "LoopEndTime": 0.0,
+      "LoopTranstionTime": 1.033963E-13
+    },
+    {
+      "Id": 84,
+      "ProductionStep": "Release",
+      "Path": "Audio/BGM/Theme_84_Mitsukiyo_33_PRST_Marching(-1dB)",
       "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,

@@ -1,63 +1,99 @@
 {
   "DataList": [
     {
+      "EventContentId": 802,
+      "EventStageId": 8021101,
+      "EventContentItemType": "EventToken1",
+      "RewardPercentage": 4000
+    },
+    {
+      "EventContentId": 802,
+      "EventStageId": 8021102,
+      "EventContentItemType": "EventToken1",
+      "RewardPercentage": 2000
+    },
+    {
+      "EventContentId": 802,
+      "EventStageId": 8021103,
+      "EventContentItemType": "EventToken1",
+      "RewardPercentage": 2000
+    },
+    {
+      "EventContentId": 802,
+      "EventStageId": 8021104,
+      "EventContentItemType": "EventToken1",
+      "RewardPercentage": 2000
+    },
+    {
+      "EventContentId": 802,
+      "EventStageId": 8021105,
+      "EventContentItemType": "EventToken1",
+      "RewardPercentage": 2000
+    },
+    {
+      "EventContentId": 802,
+      "EventStageId": 8022101,
+      "EventContentItemType": "EventToken1",
+      "RewardPercentage": 2000
+    },
+    {
+      "EventContentId": 802,
+      "EventStageId": 8022102,
+      "EventContentItemType": "EventToken2",
+      "RewardPercentage": 2000
+    },
+    {
+      "EventContentId": 802,
+      "EventStageId": 8022103,
+      "EventContentItemType": "EventToken3",
+      "RewardPercentage": 2000
+    },
+    {
+      "EventContentId": 802,
+      "EventStageId": 8022104,
+      "EventContentItemType": "EventToken1",
+      "RewardPercentage": 800
+    },
+    {
+      "EventContentId": 802,
+      "EventStageId": 8022105,
+      "EventContentItemType": "EventToken2",
+      "RewardPercentage": 800
+    },
+    {
+      "EventContentId": 802,
+      "EventStageId": 8022106,
+      "EventContentItemType": "EventToken3",
+      "RewardPercentage": 800
+    },
+    {
+      "EventContentId": 802,
+      "EventStageId": 8022107,
+      "EventContentItemType": "EventToken1",
+      "RewardPercentage": 800
+    },
+    {
       "EventContentId": 10001,
-      "DebuffSelectCount": 1,
+      "EventStageId": 3011101,
       "EventContentItemType": "EventPoint",
       "RewardPercentage": 1000
     },
     {
       "EventContentId": 10001,
-      "DebuffSelectCount": 2,
-      "EventContentItemType": "EventPoint",
+      "EventStageId": 3012101,
+      "EventContentItemType": "EventToken1",
       "RewardPercentage": 1000
     },
     {
       "EventContentId": 10001,
-      "DebuffSelectCount": 3,
-      "EventContentItemType": "EventPoint",
+      "EventStageId": 3012102,
+      "EventContentItemType": "EventToken2",
       "RewardPercentage": 1000
     },
     {
       "EventContentId": 10001,
-      "DebuffSelectCount": 4,
-      "EventContentItemType": "EventPoint",
-      "RewardPercentage": 1000
-    },
-    {
-      "EventContentId": 10001,
-      "DebuffSelectCount": 5,
-      "EventContentItemType": "EventPoint",
-      "RewardPercentage": 1000
-    },
-    {
-      "EventContentId": 10001,
-      "DebuffSelectCount": 6,
-      "EventContentItemType": "EventPoint",
-      "RewardPercentage": 1000
-    },
-    {
-      "EventContentId": 10001,
-      "DebuffSelectCount": 7,
-      "EventContentItemType": "EventPoint",
-      "RewardPercentage": 1000
-    },
-    {
-      "EventContentId": 10001,
-      "DebuffSelectCount": 8,
-      "EventContentItemType": "EventPoint",
-      "RewardPercentage": 1000
-    },
-    {
-      "EventContentId": 10001,
-      "DebuffSelectCount": 9,
-      "EventContentItemType": "EventPoint",
-      "RewardPercentage": 1000
-    },
-    {
-      "EventContentId": 10001,
-      "DebuffSelectCount": 10,
-      "EventContentItemType": "EventPoint",
+      "EventStageId": 3012103,
+      "EventContentItemType": "EventToken3",
       "RewardPercentage": 1000
     }
   ]

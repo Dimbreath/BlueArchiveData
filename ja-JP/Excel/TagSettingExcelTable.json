@@ -711,7 +711,7 @@
       "LocalizeEtcId": 0
     },
     {
-      "Id": "TagName0003",
+      "Id": "F_Cherino",
       "IsOpen": true,
       "LocalizeEtcId": 0
     },
@@ -836,6 +836,16 @@
       "LocalizeEtcId": 0
     },
     {
+      "Id": "F_Nodoka",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "F_Yuzu",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
       "Id": "Shield",
       "IsOpen": true,
       "LocalizeEtcId": 0
@@ -901,7 +911,7 @@
       "LocalizeEtcId": 0
     },
     {
-      "Id": "Droid",
+      "Id": "Piece",
       "IsOpen": true,
       "LocalizeEtcId": 0
     },
@@ -1006,213 +1016,213 @@
       "LocalizeEtcId": 0
     },
     {
-      "Id": "Mimesis",
+      "Id": "Hat",
       "IsOpen": true,
       "LocalizeEtcId": 0
     },
     {
-      "Id": "Slumpia",
+      "Id": "Gloves",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "Shoes",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "Bag",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "Badge",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "Hairpin",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "Charm",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "Watch",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "Necklace",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "Cafe",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "GameCenter",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "ChocolateCafe",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "Main",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "Support",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "Explosion",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "Pierce",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "Mystic",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "LightArmor",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "HeavyArmor",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "Unarmed",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "Cover",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "Uncover",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "AR",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "SR",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "DSG",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "SMG",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "MG",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "HG",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "GL",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "SG",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "MT",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "RG",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "Front",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "Middle",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "Back",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "StreetBattle_Over_A",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "OutdoorBattle_Over_A",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "IndoorBattle_Over_A",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "StreetBattle_Under_B",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "OutdoorBattle_Under_B",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "IndoorBattle_Under_B",
       "IsOpen": true,
       "LocalizeEtcId": 0
     },
     {
       "Id": "Kaitenranger",
       "IsOpen": true,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "Yustina",
-      "IsOpen": true,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "AmuseDoll",
-      "IsOpen": true,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "Communio",
-      "IsOpen": true,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0207",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0208",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0209",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0210",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0211",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0212",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0213",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0214",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0215",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0216",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0217",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0218",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0219",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0220",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0221",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0222",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0223",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0224",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0225",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0226",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0227",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0228",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0229",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0230",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0231",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0232",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0233",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0234",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0235",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0236",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0237",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0238",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0239",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0240",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0241",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0242",
-      "IsOpen": false,
       "LocalizeEtcId": 0
     },
     {

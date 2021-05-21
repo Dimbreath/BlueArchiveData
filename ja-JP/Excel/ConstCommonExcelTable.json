@@ -15,7 +15,7 @@
       "CafeMonologueDefaultDuration": 4000,
       "CafeBubbleIdleDurationMilliSec": 5500,
       "FindGiftTimeLimit": 30000,
-      "CafeVisitProbabilityBase": 1000,
+      "CafeVisitProbabilityBase": 20000,
       "CafeVisitProbabilityTagBonus": 100,
       "CafeAutoChargePeriodInMsc": 3600000,
       "CafeProductionDecimalPosition": 2,
@@ -87,7 +87,7 @@
       "PostExpiredDayInventoryOverflow": 7,
       "PostExpiredDayGameManager": 7,
       "UILabelCharacterWrap": ".,。,、…~\"-!?！？―<>()（）ー☆★♡♥♧♣♤♠♩♪♬々っッ",
-      "RequestTimeOut": 4.1906234E-30,
+      "RequestTimeOut": 4.1875856E-30,
       "MailStorageSoftCap": 200,
       "MailStorageHardCap": 1000,
       "ClearDeckStorageSize": 20,
@@ -119,7 +119,8 @@
       "FormationCollider03SizeY": 2000,
       "FormationCollider03SizeZ": 1000,
       "ShowFurnitureTag": false,
-      "CafeSummonCoolTimeFromHour": 20
+      "CafeSummonCoolTimeFromHour": 20,
+      "EventContentBoxGachaPurchaseMaxCount": 10
     }
   ]
 }

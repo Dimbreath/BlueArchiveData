@@ -2711,6 +2711,122 @@
       ]
     },
     {
+      "Id": 2224,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_RedWinter_0",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        7
+      ],
+      "ConsumeParcelAmount": [
+        10
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        3010
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 2225,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_RedWinter_1",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        7
+      ],
+      "ConsumeParcelAmount": [
+        20
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        3011
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 2226,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_RedWinter_2",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        7
+      ],
+      "ConsumeParcelAmount": [
+        50
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        3012
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 2227,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_RedWinter_3",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        7
+      ],
+      "ConsumeParcelAmount": [
+        100
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        3013
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
       "Id": 2400,
       "Type": 1,
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Hyakkiyako_0",
@@ -3407,6 +3523,122 @@
       ]
     },
     {
+      "Id": 2424,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_RedWinter_0",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        7
+      ],
+      "ConsumeParcelAmount": [
+        3
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        4010
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 2425,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_RedWinter_1",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        7
+      ],
+      "ConsumeParcelAmount": [
+        5
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        4011
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 2426,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_RedWinter_2",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        7
+      ],
+      "ConsumeParcelAmount": [
+        10
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        4012
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 2427,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_RedWinter_3",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        7
+      ],
+      "ConsumeParcelAmount": [
+        25
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        4013
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
       "Id": 3000,
       "Type": 1,
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Saya",
@@ -4039,6 +4271,64 @@
       ],
       "ParcelId": [
         20001
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 10080,
+      "Type": 1,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        70008
+      ],
+      "ConsumeParcelAmount": [
+        200
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Character"
+      ],
+      "ParcelId": [
+        10017
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 10090,
+      "Type": 1,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        70009
+      ],
+      "ConsumeParcelAmount": [
+        200
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Character"
+      ],
+      "ParcelId": [
+        10018
       ],
       "ParcelAmount": [
         1
@@ -6136,6 +6426,129 @@
       ]
     },
     {
+      "Id": 20051,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Cherino",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        23
+      ],
+      "ConsumeParcelAmount": [
+        1
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "ConsumeExtraAmount": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        10017
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 20052,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Yuzu",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        23
+      ],
+      "ConsumeParcelAmount": [
+        1
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "ConsumeExtraAmount": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        10018
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 20053,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Nodoka",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        23
+      ],
+      "ConsumeParcelAmount": [
+        1
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "ConsumeExtraAmount": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        26006
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
       "Id": 30000,
       "Type": 2,
       "IconPath": null,
@@ -6445,15 +6858,12 @@
       "ConsumeExtraAmount": [],
       "State": 1,
       "ParcelType": [
-        "Item",
         "GachaGroup"
       ],
       "ParcelId": [
-        70005,
-        50
+        20
       ],
       "ParcelAmount": [
-        1,
         1
       ]
     },
@@ -6477,18 +6887,12 @@
       "ConsumeExtraAmount": [],
       "State": 1,
       "ParcelType": [
-        "Item",
-        "GachaGroup",
         "GachaGroup"
       ],
       "ParcelId": [
-        70005,
-        50,
-        59
+        20
       ],
       "ParcelAmount": [
-        10,
-        9,
         1
       ]
     },
@@ -6512,15 +6916,12 @@
       "ConsumeExtraAmount": [],
       "State": 1,
       "ParcelType": [
-        "Item",
         "GachaGroup"
       ],
       "ParcelId": [
-        70006,
-        60
+        20
       ],
       "ParcelAmount": [
-        1,
         1
       ]
     },
@@ -6544,18 +6945,12 @@
       "ConsumeExtraAmount": [],
       "State": 1,
       "ParcelType": [
-        "Item",
-        "GachaGroup",
         "GachaGroup"
       ],
       "ParcelId": [
-        70006,
-        60,
-        69
+        20
       ],
       "ParcelAmount": [
-        10,
-        9,
         1
       ]
     },
@@ -6579,15 +6974,12 @@
       "ConsumeExtraAmount": [],
       "State": 1,
       "ParcelType": [
-        "Item",
         "GachaGroup"
       ],
       "ParcelId": [
-        70007,
-        70
+        20
       ],
       "ParcelAmount": [
-        1,
         1
       ]
     },
@@ -6611,14 +7003,142 @@
       "ConsumeExtraAmount": [],
       "State": 1,
       "ParcelType": [
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        20
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 30030,
+      "Type": 2,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        120
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item",
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        70008,
+        50
+      ],
+      "ParcelAmount": [
+        1,
+        1
+      ]
+    },
+    {
+      "Id": 30031,
+      "Type": 2,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        1200
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
         "Item",
         "GachaGroup",
         "GachaGroup"
       ],
       "ParcelId": [
-        70007,
-        70,
-        79
+        70008,
+        50,
+        59
+      ],
+      "ParcelAmount": [
+        10,
+        9,
+        1
+      ]
+    },
+    {
+      "Id": 30032,
+      "Type": 2,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        120
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item",
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        70009,
+        60
+      ],
+      "ParcelAmount": [
+        1,
+        1
+      ]
+    },
+    {
+      "Id": 30033,
+      "Type": 2,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        1200
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item",
+        "GachaGroup",
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        70009,
+        60,
+        69
       ],
       "ParcelAmount": [
         10,
@@ -6936,15 +7456,12 @@
       "ConsumeExtraAmount": [],
       "State": 1,
       "ParcelType": [
-        "Item",
         "GachaGroup"
       ],
       "ParcelId": [
-        70005,
-        100010
+        20
       ],
       "ParcelAmount": [
-        1,
         1
       ]
     },
@@ -6968,18 +7485,12 @@
       "ConsumeExtraAmount": [],
       "State": 1,
       "ParcelType": [
-        "Item",
-        "GachaGroup",
         "GachaGroup"
       ],
       "ParcelId": [
-        70005,
-        100010,
-        100019
+        20
       ],
       "ParcelAmount": [
-        10,
-        9,
         1
       ]
     },
@@ -7003,15 +7514,12 @@
       "ConsumeExtraAmount": [],
       "State": 1,
       "ParcelType": [
-        "Item",
         "GachaGroup"
       ],
       "ParcelId": [
-        70006,
-        100030
+        20
       ],
       "ParcelAmount": [
-        1,
         1
       ]
     },
@@ -7035,18 +7543,12 @@
       "ConsumeExtraAmount": [],
       "State": 1,
       "ParcelType": [
-        "Item",
-        "GachaGroup",
         "GachaGroup"
       ],
       "ParcelId": [
-        70006,
-        100030,
-        100039
+        20
       ],
       "ParcelAmount": [
-        10,
-        9,
         1
       ]
     },
@@ -7070,15 +7572,12 @@
       "ConsumeExtraAmount": [],
       "State": 1,
       "ParcelType": [
-        "Item",
         "GachaGroup"
       ],
       "ParcelId": [
-        70007,
-        100050
+        20
       ],
       "ParcelAmount": [
-        1,
         1
       ]
     },
@@ -7102,14 +7601,142 @@
       "ConsumeExtraAmount": [],
       "State": 1,
       "ParcelType": [
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        20
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 35030,
+      "Type": 2,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        120
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item",
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        70008,
+        100010
+      ],
+      "ParcelAmount": [
+        1,
+        1
+      ]
+    },
+    {
+      "Id": 35031,
+      "Type": 2,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        1200
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
         "Item",
         "GachaGroup",
         "GachaGroup"
       ],
       "ParcelId": [
-        70007,
-        100050,
-        100059
+        70008,
+        100010,
+        100019
+      ],
+      "ParcelAmount": [
+        10,
+        9,
+        1
+      ]
+    },
+    {
+      "Id": 35032,
+      "Type": 2,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        120
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item",
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        70009,
+        100030
+      ],
+      "ParcelAmount": [
+        1,
+        1
+      ]
+    },
+    {
+      "Id": 35033,
+      "Type": 2,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        1200
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item",
+        "GachaGroup",
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        70009,
+        100030,
+        100039
       ],
       "ParcelAmount": [
         10,
@@ -8017,6 +8644,992 @@
       ]
     },
     {
+      "Id": 40100,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_0",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80011
+      ],
+      "ConsumeParcelAmount": [
+        1
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        10
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40101,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_1",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80011
+      ],
+      "ConsumeParcelAmount": [
+        10
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        11
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40102,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_2",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80011
+      ],
+      "ConsumeParcelAmount": [
+        40
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        12
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40103,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_3",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80011
+      ],
+      "ConsumeParcelAmount": [
+        200
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        13
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40104,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_RedWinter_0",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80011
+      ],
+      "ConsumeParcelAmount": [
+        10
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        3010
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40105,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_RedWinter_1",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80011
+      ],
+      "ConsumeParcelAmount": [
+        30
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        3011
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40106,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_RedWinter_2",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80011
+      ],
+      "ConsumeParcelAmount": [
+        100
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        3012
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40107,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_RedWinter_3",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80011
+      ],
+      "ConsumeParcelAmount": [
+        300
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        3013
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40108,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Ether_0",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80011
+      ],
+      "ConsumeParcelAmount": [
+        5
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        160
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40109,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Ether_1",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80011
+      ],
+      "ConsumeParcelAmount": [
+        15
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        161
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40110,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Ether_2",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80011
+      ],
+      "ConsumeParcelAmount": [
+        50
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        162
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40111,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Ether_3",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80011
+      ],
+      "ConsumeParcelAmount": [
+        200
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        163
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40112,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_1_S4",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80011
+      ],
+      "ConsumeParcelAmount": [
+        5
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        80012
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40113,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_0",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80012
+      ],
+      "ConsumeParcelAmount": [
+        1
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Equipment"
+      ],
+      "ParcelId": [
+        1
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40114,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_1",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80012
+      ],
+      "ConsumeParcelAmount": [
+        4
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Equipment"
+      ],
+      "ParcelId": [
+        2
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40115,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_2",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80012
+      ],
+      "ConsumeParcelAmount": [
+        15
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Equipment"
+      ],
+      "ParcelId": [
+        3
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40116,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_3",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80012
+      ],
+      "ConsumeParcelAmount": [
+        60
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Equipment"
+      ],
+      "ParcelId": [
+        4
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40117,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_RedWinter_0",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80012
+      ],
+      "ConsumeParcelAmount": [
+        5
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        4010
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40118,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_RedWinter_1",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80012
+      ],
+      "ConsumeParcelAmount": [
+        15
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        4011
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40119,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_RedWinter_2",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80012
+      ],
+      "ConsumeParcelAmount": [
+        50
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        4012
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40120,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_RedWinter_3",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80012
+      ],
+      "ConsumeParcelAmount": [
+        200
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        4013
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40121,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_CrystalHaniwa_0",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80012
+      ],
+      "ConsumeParcelAmount": [
+        5
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        190
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40122,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_CrystalHaniwa_1",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80012
+      ],
+      "ConsumeParcelAmount": [
+        15
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        191
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40123,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_CrystalHaniwa_2",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80012
+      ],
+      "ConsumeParcelAmount": [
+        50
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        192
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40124,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_CrystalHaniwa_3",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80012
+      ],
+      "ConsumeParcelAmount": [
+        200
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        193
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40125,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80012
+      ],
+      "ConsumeParcelAmount": [
+        2
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Currency"
+      ],
+      "ParcelId": [
+        1
+      ],
+      "ParcelAmount": [
+        5000
+      ]
+    },
+    {
+      "Id": 40126,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Juri",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80013
+      ],
+      "ConsumeParcelAmount": [
+        1
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        26002
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40127,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gem",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80013
+      ],
+      "ConsumeParcelAmount": [
+        4
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Currency"
+      ],
+      "ParcelId": [
+        3
+      ],
+      "ParcelAmount": [
+        120
+      ]
+    },
+    {
+      "Id": 40128,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80013
+      ],
+      "ConsumeParcelAmount": [
+        2
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        23
+      ],
+      "ParcelAmount": [
+        5
+      ]
+    },
+    {
+      "Id": 40129,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Ultimate",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80013
+      ],
+      "ConsumeParcelAmount": [
+        20
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        9999
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 40130,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80013
+      ],
+      "ConsumeParcelAmount": [
+        5
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Currency"
+      ],
+      "ParcelId": [
+        1
+      ],
+      "ParcelAmount": [
+        750000
+      ]
+    },
+    {
+      "Id": 40131,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80013
+      ],
+      "ConsumeParcelAmount": [
+        3
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Currency"
+      ],
+      "ParcelId": [
+        1
+      ],
+      "ParcelAmount": [
+        350000
+      ]
+    },
+    {
+      "Id": 40132,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80013
+      ],
+      "ConsumeParcelAmount": [
+        1
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Currency"
+      ],
+      "ParcelId": [
+        1
+      ],
+      "ParcelAmount": [
+        100000
+      ]
+    },
+    {
+      "Id": 40133,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80013
+      ],
+      "ConsumeParcelAmount": [
+        1
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Currency"
+      ],
+      "ParcelId": [
+        1
+      ],
+      "ParcelAmount": [
+        50000
+      ]
+    },
+    {
       "Id": 100000,
       "Type": 1,
       "IconPath": null,
@@ -8038,6 +9651,1189 @@
       "ParcelType": [],
       "ParcelId": [],
       "ParcelAmount": []
+    },
+    {
+      "Id": 110000,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_3_S4",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 0,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ParcelAmount": []
+    },
+    {
+      "Id": 110001,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Nodoka",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        26006
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110002,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_2_S4",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        80013
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110003,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_0",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        10
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110004,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_1",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        11
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110005,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_2",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        12
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110006,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_3",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        13
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110007,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Currency"
+      ],
+      "ParcelId": [
+        1
+      ],
+      "ParcelAmount": [
+        1000
+      ]
+    },
+    {
+      "Id": 110008,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Currency"
+      ],
+      "ParcelId": [
+        1
+      ],
+      "ParcelAmount": [
+        5000
+      ]
+    },
+    {
+      "Id": 110009,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Currency"
+      ],
+      "ParcelId": [
+        1
+      ],
+      "ParcelAmount": [
+        25000
+      ]
+    },
+    {
+      "Id": 110010,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Currency"
+      ],
+      "ParcelId": [
+        1
+      ],
+      "ParcelAmount": [
+        100000
+      ]
+    },
+    {
+      "Id": 110011,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Wolfsegg_0",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        120
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110012,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Wolfsegg_1",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        121
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110013,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Wolfsegg_2",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        122
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110014,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Wolfsegg_3",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        123
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110015,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Equipment_Random",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        100002
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110016,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Nodoka",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        26006
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110017,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_2_S4",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        80013
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110018,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_0",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Equipment"
+      ],
+      "ParcelId": [
+        1
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110019,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_1",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Equipment"
+      ],
+      "ParcelId": [
+        2
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110020,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_2",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Equipment"
+      ],
+      "ParcelId": [
+        3
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110021,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_3",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Equipment"
+      ],
+      "ParcelId": [
+        4
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110022,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Currency"
+      ],
+      "ParcelId": [
+        1
+      ],
+      "ParcelAmount": [
+        1000
+      ]
+    },
+    {
+      "Id": 110023,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Currency"
+      ],
+      "ParcelId": [
+        1
+      ],
+      "ParcelAmount": [
+        5000
+      ]
+    },
+    {
+      "Id": 110024,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Currency"
+      ],
+      "ParcelId": [
+        1
+      ],
+      "ParcelAmount": [
+        25000
+      ]
+    },
+    {
+      "Id": 110025,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Currency"
+      ],
+      "ParcelId": [
+        1
+      ],
+      "ParcelAmount": [
+        100000
+      ]
+    },
+    {
+      "Id": 110026,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Ether_0",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        160
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110027,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Ether_1",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        161
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110028,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Ether_2",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        162
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110029,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Ether_3",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        163
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110030,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Equipment_Random",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        100002
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110031,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Nodoka",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        26006
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110032,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_2_S4",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        80013
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110033,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_0",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        10
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110034,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_1",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        11
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110035,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_2",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        12
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110036,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Equipment_Random",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        100002
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110037,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Wolfsegg_0",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        120
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110038,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Wolfsegg_1",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        121
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110039,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Wolfsegg_2",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        122
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
+      "Id": 110040,
+      "Type": 1,
+      "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Wolfsegg_3",
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        80010
+      ],
+      "ConsumeParcelAmount": [
+        6
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item"
+      ],
+      "ParcelId": [
+        123
+      ],
+      "ParcelAmount": [
+        1
+      ]
     }
   ]
 }

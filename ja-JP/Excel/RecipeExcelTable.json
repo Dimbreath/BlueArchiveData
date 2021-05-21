@@ -713,6 +713,40 @@
       ]
     },
     {
+      "Id": 10017,
+      "RecipeType": "Craft",
+      "RecipeIngredientId": 10017,
+      "ParcelType": [
+        "Character"
+      ],
+      "ParcelId": [
+        10017
+      ],
+      "ResultAmountMin": [
+        1
+      ],
+      "ResultAmountMax": [
+        1
+      ]
+    },
+    {
+      "Id": 10018,
+      "RecipeType": "Craft",
+      "RecipeIngredientId": 10018,
+      "ParcelType": [
+        "Character"
+      ],
+      "ParcelId": [
+        10018
+      ],
+      "ResultAmountMin": [
+        1
+      ],
+      "ResultAmountMax": [
+        1
+      ]
+    },
+    {
       "Id": 13000,
       "RecipeType": "Craft",
       "RecipeIngredientId": 13000,
@@ -1291,6 +1325,23 @@
       ]
     },
     {
+      "Id": 26006,
+      "RecipeType": "Craft",
+      "RecipeIngredientId": 26006,
+      "ParcelType": [
+        "Character"
+      ],
+      "ParcelId": [
+        26006
+      ],
+      "ResultAmountMin": [
+        1
+      ],
+      "ResultAmountMax": [
+        1
+      ]
+    },
+    {
       "Id": 1000000,
       "RecipeType": "SelectionItem",
       "RecipeIngredientId": 0,
@@ -1300,10 +1351,12 @@
         "Item",
         "Item",
         "Item",
+        "Item",
         "Item"
       ],
       "ParcelId": [
         4000,
+        4010,
         4020,
         4030,
         4040,
@@ -1316,9 +1369,11 @@
         1,
         1,
         1,
+        1,
         1
       ],
       "ResultAmountMax": [
+        1,
         1,
         1,
         1,
@@ -1337,10 +1392,12 @@
         "Item",
         "Item",
         "Item",
+        "Item",
         "Item"
       ],
       "ParcelId": [
         4001,
+        4011,
         4021,
         4031,
         4041,
@@ -1353,9 +1410,11 @@
         1,
         1,
         1,
+        1,
         1
       ],
       "ResultAmountMax": [
+        1,
         1,
         1,
         1,
@@ -1374,10 +1433,12 @@
         "Item",
         "Item",
         "Item",
+        "Item",
         "Item"
       ],
       "ParcelId": [
         4002,
+        4012,
         4022,
         4032,
         4042,
@@ -1390,9 +1451,11 @@
         1,
         1,
         1,
+        1,
         1
       ],
       "ResultAmountMax": [
+        1,
         1,
         1,
         1,
@@ -1411,10 +1474,12 @@
         "Item",
         "Item",
         "Item",
+        "Item",
         "Item"
       ],
       "ParcelId": [
         4003,
+        4013,
         4023,
         4033,
         4043,
@@ -1427,9 +1492,11 @@
         1,
         1,
         1,
+        1,
         1
       ],
       "ResultAmountMax": [
+        1,
         1,
         1,
         1,
@@ -1448,10 +1515,12 @@
         "Item",
         "Item",
         "Item",
+        "Item",
         "Item"
       ],
       "ParcelId": [
         3000,
+        3010,
         3020,
         3030,
         3040,
@@ -1464,9 +1533,11 @@
         1,
         1,
         1,
+        1,
         1
       ],
       "ResultAmountMax": [
+        1,
         1,
         1,
         1,
@@ -1485,10 +1556,12 @@
         "Item",
         "Item",
         "Item",
+        "Item",
         "Item"
       ],
       "ParcelId": [
         3001,
+        3011,
         3021,
         3031,
         3041,
@@ -1501,9 +1574,11 @@
         1,
         1,
         1,
+        1,
         1
       ],
       "ResultAmountMax": [
+        1,
         1,
         1,
         1,
@@ -1522,10 +1597,12 @@
         "Item",
         "Item",
         "Item",
+        "Item",
         "Item"
       ],
       "ParcelId": [
         3002,
+        3012,
         3022,
         3032,
         3042,
@@ -1538,9 +1615,11 @@
         1,
         1,
         1,
+        1,
         1
       ],
       "ResultAmountMax": [
+        1,
         1,
         1,
         1,
@@ -1559,10 +1638,12 @@
         "Item",
         "Item",
         "Item",
+        "Item",
         "Item"
       ],
       "ParcelId": [
         3003,
+        3013,
         3023,
         3033,
         3043,
@@ -1575,9 +1656,11 @@
         1,
         1,
         1,
+        1,
         1
       ],
       "ResultAmountMax": [
+        1,
         1,
         1,
         1,
@@ -4241,6 +4324,294 @@
       "Id": 10016207,
       "RecipeType": "SkillLevelUp",
       "RecipeIngredientId": 10016207,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10017000,
+      "RecipeType": "CharacterTranscendence",
+      "RecipeIngredientId": 10017000,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10017001,
+      "RecipeType": "CharacterTranscendence",
+      "RecipeIngredientId": 10017001,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10017002,
+      "RecipeType": "CharacterTranscendence",
+      "RecipeIngredientId": 10017002,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10017003,
+      "RecipeType": "CharacterTranscendence",
+      "RecipeIngredientId": 10017003,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10017100,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10017100,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10017101,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10017101,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10017102,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10017102,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10017103,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10017103,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10017200,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10017200,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10017201,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10017201,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10017202,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10017202,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10017203,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10017203,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10017204,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10017204,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10017205,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10017205,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10017206,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10017206,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10017207,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10017207,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10018000,
+      "RecipeType": "CharacterTranscendence",
+      "RecipeIngredientId": 10018000,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10018001,
+      "RecipeType": "CharacterTranscendence",
+      "RecipeIngredientId": 10018001,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10018002,
+      "RecipeType": "CharacterTranscendence",
+      "RecipeIngredientId": 10018002,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10018003,
+      "RecipeType": "CharacterTranscendence",
+      "RecipeIngredientId": 10018003,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10018100,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10018100,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10018101,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10018101,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10018102,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10018102,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10018103,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10018103,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10018200,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10018200,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10018201,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10018201,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10018202,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10018202,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10018203,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10018203,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10018204,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10018204,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10018205,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10018205,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10018206,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10018206,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 10018207,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 10018207,
       "ParcelType": [],
       "ParcelId": [],
       "ResultAmountMin": [],
@@ -9137,6 +9508,150 @@
       "Id": 26005207,
       "RecipeType": "SkillLevelUp",
       "RecipeIngredientId": 26005207,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 26006000,
+      "RecipeType": "CharacterTranscendence",
+      "RecipeIngredientId": 26006000,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 26006001,
+      "RecipeType": "CharacterTranscendence",
+      "RecipeIngredientId": 26006001,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 26006002,
+      "RecipeType": "CharacterTranscendence",
+      "RecipeIngredientId": 26006002,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 26006003,
+      "RecipeType": "CharacterTranscendence",
+      "RecipeIngredientId": 26006003,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 26006100,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 26006100,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 26006101,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 26006101,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 26006102,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 26006102,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 26006103,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 26006103,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 26006200,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 26006200,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 26006201,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 26006201,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 26006202,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 26006202,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 26006203,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 26006203,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 26006204,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 26006204,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 26006205,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 26006205,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 26006206,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 26006206,
+      "ParcelType": [],
+      "ParcelId": [],
+      "ResultAmountMin": [],
+      "ResultAmountMax": []
+    },
+    {
+      "Id": 26006207,
+      "RecipeType": "SkillLevelUp",
+      "RecipeIngredientId": 26006207,
       "ParcelType": [],
       "ParcelId": [],
       "ResultAmountMin": [],

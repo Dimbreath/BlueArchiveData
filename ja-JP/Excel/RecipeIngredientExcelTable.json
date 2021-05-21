@@ -1452,6 +1452,40 @@
       "CostTimeInSecond": 0
     },
     {
+      "Id": 10017,
+      "RecipeType": "Craft",
+      "CostParcelType": [],
+      "CostId": [],
+      "CostAmount": [],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        10017
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10018,
+      "RecipeType": "Craft",
+      "CostParcelType": [],
+      "CostId": [],
+      "CostAmount": [],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        10018
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
       "Id": 13000,
       "RecipeType": "Craft",
       "CostParcelType": [],
@@ -2023,6 +2057,23 @@
       ],
       "IngredientId": [
         26005
+      ],
+      "IngredientAmount": [
+        10
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26006,
+      "RecipeType": "Craft",
+      "CostParcelType": [],
+      "CostId": [],
+      "CostAmount": [],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        26006
       ],
       "IngredientAmount": [
         10
@@ -9506,6 +9557,886 @@
         12,
         8,
         12
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10017000,
+      "RecipeType": "CharacterTranscendence",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        10017
+      ],
+      "IngredientAmount": [
+        30
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10017001,
+      "RecipeType": "CharacterTranscendence",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        40000
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        10017
+      ],
+      "IngredientAmount": [
+        80
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10017002,
+      "RecipeType": "CharacterTranscendence",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        200000
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        10017
+      ],
+      "IngredientAmount": [
+        100
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10017003,
+      "RecipeType": "CharacterTranscendence",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        10017
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10017100,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        80000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        3010,
+        160
+      ],
+      "IngredientAmount": [
+        12,
+        15
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10017101,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        500000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        3011,
+        3010,
+        161,
+        190
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        13,
+        30
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10017102,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        3000000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        3012,
+        3011,
+        162,
+        191
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        10,
+        25
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10017103,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        3013,
+        3012,
+        163,
+        192
+      ],
+      "IngredientAmount": [
+        8,
+        18,
+        8,
+        20
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10017200,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        5000
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        4010
+      ],
+      "IngredientAmount": [
+        5
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10017201,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        7500
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        4010
+      ],
+      "IngredientAmount": [
+        8
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10017202,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        60000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4011,
+        4010,
+        160
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        7
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10017203,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        90000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4011,
+        161,
+        190
+      ],
+      "IngredientAmount": [
+        8,
+        6,
+        10
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10017204,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        300000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4012,
+        4011,
+        161,
+        190
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        11,
+        20
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10017205,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        450000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4012,
+        162,
+        191
+      ],
+      "IngredientAmount": [
+        8,
+        4,
+        17
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10017206,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4013,
+        4012,
+        163,
+        192
+      ],
+      "IngredientAmount": [
+        8,
+        12,
+        5,
+        10
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10017207,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2400000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4013,
+        163,
+        192
+      ],
+      "IngredientAmount": [
+        12,
+        9,
+        16
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10018000,
+      "RecipeType": "CharacterTranscendence",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        10018
+      ],
+      "IngredientAmount": [
+        30
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10018001,
+      "RecipeType": "CharacterTranscendence",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        40000
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        10018
+      ],
+      "IngredientAmount": [
+        80
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10018002,
+      "RecipeType": "CharacterTranscendence",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        200000
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        10018
+      ],
+      "IngredientAmount": [
+        100
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10018003,
+      "RecipeType": "CharacterTranscendence",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        10018
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10018100,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        80000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        3050,
+        110
+      ],
+      "IngredientAmount": [
+        12,
+        14
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10018101,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        500000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        3051,
+        3050,
+        111,
+        100
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        12,
+        30
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10018102,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        3000000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        3052,
+        3051,
+        112,
+        101
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        12,
+        24
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10018103,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        3053,
+        3052,
+        113,
+        102
+      ],
+      "IngredientAmount": [
+        8,
+        18,
+        9,
+        23
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10018200,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        5000
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        4050
+      ],
+      "IngredientAmount": [
+        5
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10018201,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        7500
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        4050
+      ],
+      "IngredientAmount": [
+        8
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10018202,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        60000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4051,
+        4050,
+        110
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        5
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10018203,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        90000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4051,
+        111,
+        100
+      ],
+      "IngredientAmount": [
+        8,
+        5,
+        10
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10018204,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        300000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4052,
+        4051,
+        111,
+        100
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        9,
+        16
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10018205,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        450000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4052,
+        112,
+        101
+      ],
+      "IngredientAmount": [
+        8,
+        2,
+        16
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10018206,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4053,
+        4052,
+        113,
+        102
+      ],
+      "IngredientAmount": [
+        8,
+        12,
+        6,
+        10
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 10018207,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2400000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4053,
+        113,
+        102
+      ],
+      "IngredientAmount": [
+        12,
+        10,
+        15
       ],
       "CostTimeInSecond": 0
     },
@@ -24465,6 +25396,446 @@
       "IngredientAmount": [
         12,
         8,
+        14
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26006000,
+      "RecipeType": "CharacterTranscendence",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        26006
+      ],
+      "IngredientAmount": [
+        30
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26006001,
+      "RecipeType": "CharacterTranscendence",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        40000
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        26006
+      ],
+      "IngredientAmount": [
+        80
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26006002,
+      "RecipeType": "CharacterTranscendence",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        200000
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        26006
+      ],
+      "IngredientAmount": [
+        100
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26006003,
+      "RecipeType": "CharacterTranscendence",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1000000
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        26006
+      ],
+      "IngredientAmount": [
+        120
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26006100,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        80000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        3010,
+        160
+      ],
+      "IngredientAmount": [
+        12,
+        15
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26006101,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        500000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        3011,
+        3010,
+        161,
+        110
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        12,
+        30
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26006102,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        3000000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        3012,
+        3011,
+        162,
+        111
+      ],
+      "IngredientAmount": [
+        12,
+        18,
+        10,
+        23
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26006103,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        10000000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        3013,
+        3012,
+        163,
+        112
+      ],
+      "IngredientAmount": [
+        8,
+        18,
+        7,
+        19
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26006200,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        5000
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        4010
+      ],
+      "IngredientAmount": [
+        5
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26006201,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        7500
+      ],
+      "IngredientParcelType": [
+        "Item"
+      ],
+      "IngredientId": [
+        4010
+      ],
+      "IngredientAmount": [
+        8
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26006202,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        60000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4011,
+        4010,
+        160
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        5
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26006203,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        90000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4011,
+        161,
+        110
+      ],
+      "IngredientAmount": [
+        8,
+        3,
+        12
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26006204,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        300000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4012,
+        4011,
+        161,
+        110
+      ],
+      "IngredientAmount": [
+        5,
+        12,
+        8,
+        17
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26006205,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        450000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4012,
+        162,
+        111
+      ],
+      "IngredientAmount": [
+        8,
+        2,
+        14
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26006206,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        1500000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4013,
+        4012,
+        163,
+        112
+      ],
+      "IngredientAmount": [
+        8,
+        12,
+        4,
+        9
+      ],
+      "CostTimeInSecond": 0
+    },
+    {
+      "Id": 26006207,
+      "RecipeType": "SkillLevelUp",
+      "CostParcelType": [
+        "Currency"
+      ],
+      "CostId": [
+        1
+      ],
+      "CostAmount": [
+        2400000
+      ],
+      "IngredientParcelType": [
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "IngredientId": [
+        4013,
+        163,
+        112
+      ],
+      "IngredientAmount": [
+        12,
+        7,
         14
       ],
       "CostTimeInSecond": 0

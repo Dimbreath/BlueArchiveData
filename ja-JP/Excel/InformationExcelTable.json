@@ -564,6 +564,24 @@
       "PageName": "UIInformationPopup_Academy04",
       "TutorialParentName": [],
       "UIName": []
+    },
+    {
+      "GroupID": 119001,
+      "PageName": "UIInformationPopup_BoxGachaShop01",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 119001,
+      "PageName": "UIInformationPopup_BoxGachaShop02",
+      "TutorialParentName": [],
+      "UIName": []
+    },
+    {
+      "GroupID": 119001,
+      "PageName": "UIInformationPopup_BoxGachaShop03",
+      "TutorialParentName": [],
+      "UIName": []
     }
   ]
 }

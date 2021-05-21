@@ -987,6 +987,122 @@
       ]
     },
     {
+      "CharacterId": 10017,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10017000,
+        10017001,
+        10017002,
+        10017003
+      ],
+      "SkillGroupIdA": [
+        "CherinoEx01",
+        "CherinoPassive01",
+        "CherinoExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "CherinoPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 10018,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10018000,
+        10018001,
+        10018002,
+        10018003
+      ],
+      "SkillGroupIdA": [
+        "YuzuEx01",
+        "YuzuPassive01",
+        "YuzuExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "YuzuPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
       "CharacterId": 13000,
       "MaxFavorLevel": [
         10,
@@ -2057,14 +2173,14 @@
       ],
       "RecipeId": [],
       "SkillGroupIdA": [
-        "AtsukoEx01",
-        "AtsukoPassive01",
-        "AtsukoExtraPassive01",
+        "CH0104Ex01",
+        "CH0104Passive01",
+        "CH0104ExtraPassive01",
         "None",
         "None"
       ],
       "SkillGroupIdB": [
-        "AtsukoPublic01",
+        "CH0104Public01",
         "None",
         "None",
         "None",
@@ -2110,14 +2226,14 @@
       ],
       "RecipeId": [],
       "SkillGroupIdA": [
-        "AzusaEx01",
-        "AzusaPassive01",
-        "AzusaExtraPassive01",
+        "CH0056Ex01",
+        "CH0056Passive01",
+        "CH0056ExtraPassive01",
         "None",
         "None"
       ],
       "SkillGroupIdB": [
-        "AzusaPublic01",
+        "CH0056Public01",
         "None",
         "None",
         "None",
@@ -2163,14 +2279,14 @@
       ],
       "RecipeId": [],
       "SkillGroupIdA": [
-        "CherinoEx01",
-        "CherinoPassive01",
-        "CherinoExtraPassive01",
+        "None",
+        "None",
+        "None",
         "None",
         "None"
       ],
       "SkillGroupIdB": [
-        "CherinoPublic01",
+        "None",
         "None",
         "None",
         "None",
@@ -2216,14 +2332,14 @@
       ],
       "RecipeId": [],
       "SkillGroupIdA": [
-        "ErikaEx01",
-        "ErikaPassive01",
-        "ErikaExtraPassive01",
+        "CH0076Ex01",
+        "CH0076Passive01",
+        "CH0076ExtraPassive01",
         "None",
         "None"
       ],
       "SkillGroupIdB": [
-        "ErikaPublic01",
+        "CH0076Public01",
         "None",
         "None",
         "None",
@@ -2269,14 +2385,14 @@
       ],
       "RecipeId": [],
       "SkillGroupIdA": [
-        "KirinoEx01",
-        "KirinoPassive01",
-        "KirinoExtraPassive01",
+        "CH0140Ex01",
+        "CH0140Passive01",
+        "CH0140ExtraPassive01",
         "None",
         "None"
       ],
       "SkillGroupIdB": [
-        "KirinoPublic01",
+        "CH0140Public01",
         "None",
         "None",
         "None",
@@ -2322,14 +2438,14 @@
       ],
       "RecipeId": [],
       "SkillGroupIdA": [
-        "KoharuEx01",
-        "KoharuPassive01",
-        "KoharuExtraPassive01",
+        "CH0057Ex01",
+        "CH0057Passive01",
+        "CH0057ExtraPassive01",
         "None",
         "None"
       ],
       "SkillGroupIdB": [
-        "KoharuPublic01",
+        "CH0057Public01",
         "None",
         "None",
         "None",
@@ -2905,14 +3021,14 @@
       ],
       "RecipeId": [],
       "SkillGroupIdA": [
-        "MimoriEx01",
-        "MimoriPassive01",
-        "MimoriExtraPassive01",
+        "CH0115Ex01",
+        "CH0115Passive01",
+        "CH0115ExtraPassive01",
         "None",
         "None"
       ],
       "SkillGroupIdB": [
-        "MimoriPublic01",
+        "CH0115Public01",
         "None",
         "None",
         "None",
@@ -4019,6 +4135,64 @@
       ]
     },
     {
+      "CharacterId": 26006,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        26006000,
+        26006001,
+        26006002,
+        26006003
+      ],
+      "SkillGroupIdA": [
+        "NodokaEx01",
+        "NodokaPassive01",
+        "NodokaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "NodokaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
       "CharacterId": 29000,
       "MaxFavorLevel": [
         10,
@@ -4103,14 +4277,14 @@
       ],
       "RecipeId": [],
       "SkillGroupIdA": [
-        "HanakoEx01",
-        "HanakoPassive01",
-        "HanakoExtraPassive01",
+        "CH0055Ex01",
+        "CH0055Passive01",
+        "CH0055ExtraPassive01",
         "None",
         "None"
       ],
       "SkillGroupIdB": [
-        "HanakoPublic01",
+        "CH0055Public01",
         "None",
         "None",
         "None",
@@ -4156,14 +4330,14 @@
       ],
       "RecipeId": [],
       "SkillGroupIdA": [
-        "HiyoriEx01",
-        "HiyoriPassive01",
-        "HiyoriExtraPassive01",
+        "CH0106Ex01",
+        "CH0106Passive01",
+        "CH0106ExtraPassive01",
         "None",
         "None"
       ],
       "SkillGroupIdB": [
-        "HiyoriPublic01",
+        "CH0106Public01",
         "None",
         "None",
         "None",
@@ -4209,14 +4383,14 @@
       ],
       "RecipeId": [],
       "SkillGroupIdA": [
-        "MariEx01",
-        "MariPassive01",
-        "MariExtraPassive01",
+        "CH0072Ex01",
+        "CH0072Passive01",
+        "CH0072ExtraPassive01",
         "None",
         "None"
       ],
       "SkillGroupIdB": [
-        "MariPublic01",
+        "CH0072Public01",
         "None",
         "None",
         "None",
@@ -4315,14 +4489,14 @@
       ],
       "RecipeId": [],
       "SkillGroupIdA": [
-        "NodokaEx01",
-        "NodokaPassive01",
-        "NodokaExtraPassive01",
+        "None",
+        "None",
+        "None",
         "None",
         "None"
       ],
       "SkillGroupIdB": [
-        "NodokaPublic01",
+        "None",
         "None",
         "None",
         "None",
@@ -4368,7 +4542,7 @@
       ],
       "RecipeId": [],
       "SkillGroupIdA": [
-        "None",
+        "CH0133Ex01",
         "None",
         "None",
         "None",
@@ -4421,14 +4595,14 @@
       ],
       "RecipeId": [],
       "SkillGroupIdA": [
-        "HihumiGUPEx01",
-        "None",
+        "CH0153Ex01",
+        "CH0153Passive01",
         "None",
         "None",
         "None"
       ],
       "SkillGroupIdB": [
-        "SerinaNursePublic01",
+        "CH0153Public01",
         "None",
         "None",
         "None",
@@ -4550,6 +4724,59 @@
     },
     {
       "CharacterId": 29010,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 29011,
       "MaxFavorLevel": [
         10,
         10,
@@ -5132,6 +5359,59 @@
       ]
     },
     {
+      "CharacterId": 39010,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
       "CharacterId": 7000993,
       "MaxFavorLevel": [
         10,
@@ -5176,6 +5456,122 @@
       ],
       "SkillGroupIdB": [
         "YukataHanyaStreetGhostesSREx02",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7001143,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        2000,
+        0,
+        0,
+        0
+      ],
+      "StatBonusRateHP": [
+        0,
+        32000,
+        0,
+        0,
+        0
+      ],
+      "StatBonusRateHeal": [
+        0,
+        6000,
+        0,
+        0,
+        0
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "RoyalGuardRedWinterSergeantAREx01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "RoyalGuardRedWinterSergeantAREx02",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "CharacterId": 7010603,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        3000,
+        0,
+        0,
+        0
+      ],
+      "StatBonusRateHP": [
+        0,
+        40000,
+        0,
+        0,
+        0
+      ],
+      "StatBonusRateHeal": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "RecipeId": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "SkillGroupIdA": [
+        "GoliathDecagramVulcanPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "None",
         "None",
         "None",
         "None",
@@ -7333,6 +7729,1572 @@
         100,
         100,
         100
+      ]
+    },
+    {
+      "CharacterId": 9010000,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10000000,
+        10000001,
+        10000002,
+        10000003
+      ],
+      "SkillGroupIdA": [
+        "AruEx01",
+        "AruPassive01",
+        "AruExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "AruPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 9010001,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10003000,
+        10003001,
+        10003002,
+        10003003
+      ],
+      "SkillGroupIdA": [
+        "HihumiEx01",
+        "HihumiPassive01",
+        "HihumiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "HihumiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 9010002,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10004000,
+        10004001,
+        10004002,
+        10004003
+      ],
+      "SkillGroupIdA": [
+        "HinaEx01",
+        "HinaPassive01",
+        "HinaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "HinaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 9010003,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10005000,
+        10005001,
+        10005002,
+        10005003
+      ],
+      "SkillGroupIdA": [
+        "HoshinoEx01",
+        "HoshinoPassive01",
+        "HoshinoExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "HoshinoPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 9010004,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10008000,
+        10008001,
+        10008002,
+        10008003
+      ],
+      "SkillGroupIdA": [
+        "NeruEx01",
+        "NeruPassive01",
+        "NeruExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "NeruPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 9010005,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10010000,
+        10010001,
+        10010002,
+        10010003
+      ],
+      "SkillGroupIdA": [
+        "ShirokoEx01",
+        "ShirokoPassive01",
+        "ShirokoExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "ShirokoPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 9010006,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10011000,
+        10011001,
+        10011002,
+        10011003
+      ],
+      "SkillGroupIdA": [
+        "ShunEx01",
+        "ShunPassive01",
+        "ShunExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "ShunPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 9010007,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10015000,
+        10015001,
+        10015002,
+        10015003
+      ],
+      "SkillGroupIdA": [
+        "ArisEx01",
+        "ArisPassive01",
+        "ArisExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "ArisPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 9010008,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10016000,
+        10016001,
+        10016002,
+        10016003
+      ],
+      "SkillGroupIdA": [
+        "MidoriEx01",
+        "MidoriPassive01",
+        "MidoriExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "MidoriPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 9010009,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        13001000,
+        13001001,
+        13001002,
+        13001003
+      ],
+      "SkillGroupIdA": [
+        "ChiseEx01",
+        "ChisePassive01",
+        "ChiseExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "ChisePublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 9010010,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        13004000,
+        13004001,
+        13004002,
+        13004003
+      ],
+      "SkillGroupIdA": [
+        "NonomiEx01",
+        "NonomiPassive01",
+        "NonomiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "NonomiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 9010011,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        13005000,
+        13005001,
+        13005002,
+        13005003
+      ],
+      "SkillGroupIdA": [
+        "KayokoEx01",
+        "KayokoPassive01",
+        "KayokoExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "KayokoPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 9010012,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        13006000,
+        13006001,
+        13006002,
+        13006003
+      ],
+      "SkillGroupIdA": [
+        "MutsukiEx01",
+        "MutsukiPassive01",
+        "MutsukiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "MutsukiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 9010013,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        13007000,
+        13007001,
+        13007002,
+        13007003
+      ],
+      "SkillGroupIdA": [
+        "ZunkoEx01",
+        "ZunkoPassive01",
+        "ZunkoExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "ZunkoPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 9010014,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        13008000,
+        13008001,
+        13008002,
+        13008003
+      ],
+      "SkillGroupIdA": [
+        "SerikaEx01",
+        "SerikaPassive01",
+        "SerikaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "SerikaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 9010015,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        13010000,
+        13010001,
+        13010002,
+        13010003
+      ],
+      "SkillGroupIdA": [
+        "YuukaEx01",
+        "YuukaPassive01",
+        "YuukaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "YuukaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 9010016,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        13011000,
+        13011001,
+        13011002,
+        13011003
+      ],
+      "SkillGroupIdA": [
+        "MomoiEx01",
+        "MomoiPassive01",
+        "MomoiExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "MomoiPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 9010017,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        16000000,
+        16000001,
+        16000002,
+        16000003
+      ],
+      "SkillGroupIdA": [
+        "HarukaEx01",
+        "HarukaPassive01",
+        "HarukaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "HarukaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 9010018,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        16001000,
+        16001001,
+        16001002,
+        16001003
+      ],
+      "SkillGroupIdA": [
+        "AsunaEx01",
+        "AsunaPassive01",
+        "AsunaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "AsunaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 9010019,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10018000,
+        10018001,
+        10018002,
+        10018003
+      ],
+      "SkillGroupIdA": [
+        "YuzuEx01",
+        "YuzuPassive01",
+        "YuzuExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "YuzuPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 9020000,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        20001000,
+        20001001,
+        20001002,
+        20001003
+      ],
+      "SkillGroupIdA": [
+        "KarinEx01",
+        "KarinPassive01",
+        "KarinExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "KarinPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 9020001,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        23002000,
+        23002001,
+        23002002,
+        23002003
+      ],
+      "SkillGroupIdA": [
+        "HanaeEx01",
+        "HanaePassive01",
+        "HanaeExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "HanaePublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 9020002,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        23005000,
+        23005001,
+        23005002,
+        23005003
+      ],
+      "SkillGroupIdA": [
+        "AyaneEx01",
+        "AyanePassive01",
+        "AyaneExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "AyanePublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 9020003,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        26000000,
+        26000001,
+        26000002,
+        26000003
+      ],
+      "SkillGroupIdA": [
+        "ChinatsuEx01",
+        "ChinatsuPassive01",
+        "ChinatsuExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "ChinatsuPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 9020004,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        26001000,
+        26001001,
+        26001002,
+        26001003
+      ],
+      "SkillGroupIdA": [
+        "KotamaEx01",
+        "KotamaPassive01",
+        "KotamaExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "KotamaPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 9020005,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        26002000,
+        26002001,
+        26002002,
+        26002003
+      ],
+      "SkillGroupIdA": [
+        "JuriEx01",
+        "JuriPassive01",
+        "JuriExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "JuriPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 9020006,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        26004000,
+        26004001,
+        26004002,
+        26004003
+      ],
+      "SkillGroupIdA": [
+        "ShimikoEx01",
+        "ShimikoPassive01",
+        "ShimikoExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "ShimikoPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
       ]
     }
   ]

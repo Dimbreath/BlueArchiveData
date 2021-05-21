@@ -570,7 +570,7 @@
       "MinimumPositionGap": 100,
       "CanUseObstacleOfKneelMotion": false,
       "CanUseObstacleOfStandMotion": false,
-      "HasTargetSwitchingMotion": false
+      "HasTargetSwitchingMotion": true
     },
     {
       "Id": 4000,
@@ -607,6 +607,19 @@
       "DistanceReduceRatioFormationPath": 10000,
       "DistanceReduceFormationPath": 0,
       "MinimumPositionGap": 50,
+      "CanUseObstacleOfKneelMotion": false,
+      "CanUseObstacleOfStandMotion": false,
+      "HasTargetSwitchingMotion": true
+    },
+    {
+      "Id": 5002,
+      "EngageType": "SearchAndMove",
+      "Positioning": "CloseToTarget",
+      "DistanceReduceRatioObstaclePath": 50000,
+      "DistanceReduceObstaclePath": 500,
+      "DistanceReduceRatioFormationPath": 10000,
+      "DistanceReduceFormationPath": 0,
+      "MinimumPositionGap": 0,
       "CanUseObstacleOfKneelMotion": false,
       "CanUseObstacleOfStandMotion": false,
       "HasTargetSwitchingMotion": true

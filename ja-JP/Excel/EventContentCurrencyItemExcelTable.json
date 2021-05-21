@@ -21,6 +21,21 @@
       "ItemUniqueId": 80003
     },
     {
+      "EventContentId": 802,
+      "EventContentItemType": "EventToken1",
+      "ItemUniqueId": 80010
+    },
+    {
+      "EventContentId": 802,
+      "EventContentItemType": "EventToken2",
+      "ItemUniqueId": 80011
+    },
+    {
+      "EventContentId": 802,
+      "EventContentItemType": "EventToken3",
+      "ItemUniqueId": 80012
+    },
+    {
       "EventContentId": 10001,
       "EventContentItemType": "EventPoint",
       "ItemUniqueId": 23

@@ -1,0 +1,1204 @@
+{
+  "DataList": [
+    {
+      "EventContentId": 802,
+      "GroupId": 1,
+      "GroupElementAmount": 20,
+      "Round": 1,
+      "IsLegacy": false,
+      "IsPrize": true,
+      "GoodsId": [
+        110001
+      ],
+      "DisplayOrder": 1
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 2,
+      "GroupElementAmount": 20,
+      "Round": 1,
+      "IsLegacy": false,
+      "IsPrize": true,
+      "GoodsId": [
+        110002
+      ],
+      "DisplayOrder": 2
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 3,
+      "GroupElementAmount": 40,
+      "Round": 1,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110003
+      ],
+      "DisplayOrder": 3
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 4,
+      "GroupElementAmount": 16,
+      "Round": 1,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110004
+      ],
+      "DisplayOrder": 4
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 5,
+      "GroupElementAmount": 8,
+      "Round": 1,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110005
+      ],
+      "DisplayOrder": 5
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 6,
+      "GroupElementAmount": 2,
+      "Round": 1,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110006
+      ],
+      "DisplayOrder": 6
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 7,
+      "GroupElementAmount": 35,
+      "Round": 1,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110007
+      ],
+      "DisplayOrder": 7
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 8,
+      "GroupElementAmount": 25,
+      "Round": 1,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110008
+      ],
+      "DisplayOrder": 8
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 9,
+      "GroupElementAmount": 15,
+      "Round": 1,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110009
+      ],
+      "DisplayOrder": 9
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 10,
+      "GroupElementAmount": 5,
+      "Round": 1,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110010
+      ],
+      "DisplayOrder": 10
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 11,
+      "GroupElementAmount": 24,
+      "Round": 1,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110011
+      ],
+      "DisplayOrder": 11
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 12,
+      "GroupElementAmount": 12,
+      "Round": 1,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110012
+      ],
+      "DisplayOrder": 12
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 13,
+      "GroupElementAmount": 6,
+      "Round": 1,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110013
+      ],
+      "DisplayOrder": 13
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 14,
+      "GroupElementAmount": 2,
+      "Round": 1,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110014
+      ],
+      "DisplayOrder": 14
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 15,
+      "GroupElementAmount": 70,
+      "Round": 1,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110015
+      ],
+      "DisplayOrder": 15
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 1,
+      "GroupElementAmount": 20,
+      "Round": 2,
+      "IsLegacy": false,
+      "IsPrize": true,
+      "GoodsId": [
+        110016
+      ],
+      "DisplayOrder": 1
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 2,
+      "GroupElementAmount": 20,
+      "Round": 2,
+      "IsLegacy": false,
+      "IsPrize": true,
+      "GoodsId": [
+        110017
+      ],
+      "DisplayOrder": 2
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 3,
+      "GroupElementAmount": 40,
+      "Round": 2,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110018
+      ],
+      "DisplayOrder": 3
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 4,
+      "GroupElementAmount": 16,
+      "Round": 2,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110019
+      ],
+      "DisplayOrder": 4
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 5,
+      "GroupElementAmount": 8,
+      "Round": 2,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110020
+      ],
+      "DisplayOrder": 5
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 6,
+      "GroupElementAmount": 2,
+      "Round": 2,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110021
+      ],
+      "DisplayOrder": 6
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 7,
+      "GroupElementAmount": 35,
+      "Round": 2,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110022
+      ],
+      "DisplayOrder": 7
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 8,
+      "GroupElementAmount": 25,
+      "Round": 2,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110023
+      ],
+      "DisplayOrder": 8
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 9,
+      "GroupElementAmount": 15,
+      "Round": 2,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110024
+      ],
+      "DisplayOrder": 9
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 10,
+      "GroupElementAmount": 5,
+      "Round": 2,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110025
+      ],
+      "DisplayOrder": 10
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 11,
+      "GroupElementAmount": 24,
+      "Round": 2,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110026
+      ],
+      "DisplayOrder": 11
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 12,
+      "GroupElementAmount": 12,
+      "Round": 2,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110027
+      ],
+      "DisplayOrder": 12
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 13,
+      "GroupElementAmount": 6,
+      "Round": 2,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110028
+      ],
+      "DisplayOrder": 13
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 14,
+      "GroupElementAmount": 2,
+      "Round": 2,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110029
+      ],
+      "DisplayOrder": 14
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 15,
+      "GroupElementAmount": 70,
+      "Round": 2,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110030
+      ],
+      "DisplayOrder": 15
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 1,
+      "GroupElementAmount": 20,
+      "Round": 3,
+      "IsLegacy": false,
+      "IsPrize": true,
+      "GoodsId": [
+        110001
+      ],
+      "DisplayOrder": 1
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 2,
+      "GroupElementAmount": 20,
+      "Round": 3,
+      "IsLegacy": false,
+      "IsPrize": true,
+      "GoodsId": [
+        110002
+      ],
+      "DisplayOrder": 2
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 3,
+      "GroupElementAmount": 40,
+      "Round": 3,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110003
+      ],
+      "DisplayOrder": 3
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 4,
+      "GroupElementAmount": 16,
+      "Round": 3,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110004
+      ],
+      "DisplayOrder": 4
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 5,
+      "GroupElementAmount": 8,
+      "Round": 3,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110005
+      ],
+      "DisplayOrder": 5
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 6,
+      "GroupElementAmount": 2,
+      "Round": 3,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110006
+      ],
+      "DisplayOrder": 6
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 7,
+      "GroupElementAmount": 35,
+      "Round": 3,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110007
+      ],
+      "DisplayOrder": 7
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 8,
+      "GroupElementAmount": 25,
+      "Round": 3,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110008
+      ],
+      "DisplayOrder": 8
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 9,
+      "GroupElementAmount": 15,
+      "Round": 3,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110009
+      ],
+      "DisplayOrder": 9
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 10,
+      "GroupElementAmount": 5,
+      "Round": 3,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110010
+      ],
+      "DisplayOrder": 10
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 11,
+      "GroupElementAmount": 24,
+      "Round": 3,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110011
+      ],
+      "DisplayOrder": 11
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 12,
+      "GroupElementAmount": 12,
+      "Round": 3,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110012
+      ],
+      "DisplayOrder": 12
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 13,
+      "GroupElementAmount": 6,
+      "Round": 3,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110013
+      ],
+      "DisplayOrder": 13
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 14,
+      "GroupElementAmount": 2,
+      "Round": 3,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110014
+      ],
+      "DisplayOrder": 14
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 15,
+      "GroupElementAmount": 70,
+      "Round": 3,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110015
+      ],
+      "DisplayOrder": 15
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 1,
+      "GroupElementAmount": 20,
+      "Round": 4,
+      "IsLegacy": false,
+      "IsPrize": true,
+      "GoodsId": [
+        110016
+      ],
+      "DisplayOrder": 1
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 2,
+      "GroupElementAmount": 20,
+      "Round": 4,
+      "IsLegacy": false,
+      "IsPrize": true,
+      "GoodsId": [
+        110017
+      ],
+      "DisplayOrder": 2
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 3,
+      "GroupElementAmount": 40,
+      "Round": 4,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110018
+      ],
+      "DisplayOrder": 3
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 4,
+      "GroupElementAmount": 16,
+      "Round": 4,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110019
+      ],
+      "DisplayOrder": 4
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 5,
+      "GroupElementAmount": 8,
+      "Round": 4,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110020
+      ],
+      "DisplayOrder": 5
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 6,
+      "GroupElementAmount": 2,
+      "Round": 4,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110021
+      ],
+      "DisplayOrder": 6
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 7,
+      "GroupElementAmount": 35,
+      "Round": 4,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110022
+      ],
+      "DisplayOrder": 7
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 8,
+      "GroupElementAmount": 25,
+      "Round": 4,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110023
+      ],
+      "DisplayOrder": 8
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 9,
+      "GroupElementAmount": 15,
+      "Round": 4,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110024
+      ],
+      "DisplayOrder": 9
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 10,
+      "GroupElementAmount": 5,
+      "Round": 4,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110025
+      ],
+      "DisplayOrder": 10
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 11,
+      "GroupElementAmount": 24,
+      "Round": 4,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110026
+      ],
+      "DisplayOrder": 11
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 12,
+      "GroupElementAmount": 12,
+      "Round": 4,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110027
+      ],
+      "DisplayOrder": 12
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 13,
+      "GroupElementAmount": 6,
+      "Round": 4,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110028
+      ],
+      "DisplayOrder": 13
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 14,
+      "GroupElementAmount": 2,
+      "Round": 4,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110029
+      ],
+      "DisplayOrder": 14
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 15,
+      "GroupElementAmount": 70,
+      "Round": 4,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110030
+      ],
+      "DisplayOrder": 15
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 1,
+      "GroupElementAmount": 20,
+      "Round": 5,
+      "IsLegacy": false,
+      "IsPrize": true,
+      "GoodsId": [
+        110001
+      ],
+      "DisplayOrder": 1
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 2,
+      "GroupElementAmount": 20,
+      "Round": 5,
+      "IsLegacy": false,
+      "IsPrize": true,
+      "GoodsId": [
+        110002
+      ],
+      "DisplayOrder": 2
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 3,
+      "GroupElementAmount": 40,
+      "Round": 5,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110003
+      ],
+      "DisplayOrder": 3
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 4,
+      "GroupElementAmount": 16,
+      "Round": 5,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110004
+      ],
+      "DisplayOrder": 4
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 5,
+      "GroupElementAmount": 8,
+      "Round": 5,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110005
+      ],
+      "DisplayOrder": 5
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 6,
+      "GroupElementAmount": 2,
+      "Round": 5,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110006
+      ],
+      "DisplayOrder": 6
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 7,
+      "GroupElementAmount": 35,
+      "Round": 5,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110007
+      ],
+      "DisplayOrder": 7
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 8,
+      "GroupElementAmount": 25,
+      "Round": 5,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110008
+      ],
+      "DisplayOrder": 8
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 9,
+      "GroupElementAmount": 15,
+      "Round": 5,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110009
+      ],
+      "DisplayOrder": 9
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 10,
+      "GroupElementAmount": 5,
+      "Round": 5,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110010
+      ],
+      "DisplayOrder": 10
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 11,
+      "GroupElementAmount": 24,
+      "Round": 5,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110011
+      ],
+      "DisplayOrder": 11
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 12,
+      "GroupElementAmount": 12,
+      "Round": 5,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110012
+      ],
+      "DisplayOrder": 12
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 13,
+      "GroupElementAmount": 6,
+      "Round": 5,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110013
+      ],
+      "DisplayOrder": 13
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 14,
+      "GroupElementAmount": 2,
+      "Round": 5,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110014
+      ],
+      "DisplayOrder": 14
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 15,
+      "GroupElementAmount": 70,
+      "Round": 5,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110015
+      ],
+      "DisplayOrder": 15
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 1,
+      "GroupElementAmount": 20,
+      "Round": 6,
+      "IsLegacy": false,
+      "IsPrize": true,
+      "GoodsId": [
+        110016
+      ],
+      "DisplayOrder": 1
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 2,
+      "GroupElementAmount": 20,
+      "Round": 6,
+      "IsLegacy": false,
+      "IsPrize": true,
+      "GoodsId": [
+        110017
+      ],
+      "DisplayOrder": 2
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 3,
+      "GroupElementAmount": 40,
+      "Round": 6,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110018
+      ],
+      "DisplayOrder": 3
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 4,
+      "GroupElementAmount": 16,
+      "Round": 6,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110019
+      ],
+      "DisplayOrder": 4
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 5,
+      "GroupElementAmount": 8,
+      "Round": 6,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110020
+      ],
+      "DisplayOrder": 5
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 6,
+      "GroupElementAmount": 2,
+      "Round": 6,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110021
+      ],
+      "DisplayOrder": 6
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 7,
+      "GroupElementAmount": 35,
+      "Round": 6,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110022
+      ],
+      "DisplayOrder": 7
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 8,
+      "GroupElementAmount": 25,
+      "Round": 6,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110023
+      ],
+      "DisplayOrder": 8
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 9,
+      "GroupElementAmount": 15,
+      "Round": 6,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110024
+      ],
+      "DisplayOrder": 9
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 10,
+      "GroupElementAmount": 5,
+      "Round": 6,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110025
+      ],
+      "DisplayOrder": 10
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 11,
+      "GroupElementAmount": 24,
+      "Round": 6,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110026
+      ],
+      "DisplayOrder": 11
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 12,
+      "GroupElementAmount": 12,
+      "Round": 6,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110027
+      ],
+      "DisplayOrder": 12
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 13,
+      "GroupElementAmount": 6,
+      "Round": 6,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110028
+      ],
+      "DisplayOrder": 13
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 14,
+      "GroupElementAmount": 2,
+      "Round": 6,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110029
+      ],
+      "DisplayOrder": 14
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 15,
+      "GroupElementAmount": 70,
+      "Round": 6,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110030
+      ],
+      "DisplayOrder": 15
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 1,
+      "GroupElementAmount": 3,
+      "Round": 7,
+      "IsLegacy": false,
+      "IsPrize": true,
+      "GoodsId": [
+        110031
+      ],
+      "DisplayOrder": 1
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 2,
+      "GroupElementAmount": 10,
+      "Round": 7,
+      "IsLegacy": false,
+      "IsPrize": true,
+      "GoodsId": [
+        110032
+      ],
+      "DisplayOrder": 2
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 3,
+      "GroupElementAmount": 170,
+      "Round": 7,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110033
+      ],
+      "DisplayOrder": 3
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 4,
+      "GroupElementAmount": 40,
+      "Round": 7,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110034
+      ],
+      "DisplayOrder": 4
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 5,
+      "GroupElementAmount": 10,
+      "Round": 7,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110035
+      ],
+      "DisplayOrder": 5
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 6,
+      "GroupElementAmount": 49,
+      "Round": 7,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110036
+      ],
+      "DisplayOrder": 10
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 7,
+      "GroupElementAmount": 10,
+      "Round": 7,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110037
+      ],
+      "DisplayOrder": 6
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 8,
+      "GroupElementAmount": 5,
+      "Round": 7,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110038
+      ],
+      "DisplayOrder": 7
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 9,
+      "GroupElementAmount": 2,
+      "Round": 7,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110039
+      ],
+      "DisplayOrder": 8
+    },
+    {
+      "EventContentId": 802,
+      "GroupId": 10,
+      "GroupElementAmount": 1,
+      "Round": 7,
+      "IsLegacy": false,
+      "IsPrize": false,
+      "GoodsId": [
+        110040
+      ],
+      "DisplayOrder": 9
+    }
+  ]
+}

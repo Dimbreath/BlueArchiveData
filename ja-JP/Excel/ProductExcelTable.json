@@ -292,6 +292,27 @@
       ]
     },
     {
+      "Id": 1206,
+      "ProductId": "com.yostarjp.bluearchive.aokisekimonthly10000",
+      "StoreType": "GooglePlay",
+      "Price": 10000,
+      "PriceReference": null,
+      "PurchasePeriodType": "Month",
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        "Currency",
+        "Currency"
+      ],
+      "ParcelId": [
+        2,
+        3
+      ],
+      "ParcelAmount": [
+        4000,
+        2600
+      ]
+    },
+    {
       "Id": 1500,
       "ProductId": "com.yostarjp.bluearchive.packagebeginner120",
       "StoreType": "GooglePlay",
@@ -421,6 +442,27 @@
         10,
         5,
         1
+      ]
+    },
+    {
+      "Id": 1504,
+      "ProductId": "com.yostarjp.bluearchive.aokisekispecial120",
+      "StoreType": "GooglePlay",
+      "Price": 120,
+      "PriceReference": null,
+      "PurchasePeriodType": "None",
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        "Currency",
+        "Currency"
+      ],
+      "ParcelId": [
+        2,
+        3
+      ],
+      "ParcelAmount": [
+        48,
+        352
       ]
     },
     {
@@ -715,6 +757,27 @@
       ]
     },
     {
+      "Id": 5206,
+      "ProductId": "com.yostarjp.bluearchive.aokisekimonthly10000",
+      "StoreType": "AppStore",
+      "Price": 10000,
+      "PriceReference": null,
+      "PurchasePeriodType": "Month",
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        "Currency",
+        "Currency"
+      ],
+      "ParcelId": [
+        2,
+        3
+      ],
+      "ParcelAmount": [
+        4000,
+        2600
+      ]
+    },
+    {
       "Id": 5500,
       "ProductId": "com.yostarjp.bluearchive.packagebeginner120",
       "StoreType": "AppStore",
@@ -844,6 +907,27 @@
         10,
         5,
         1
+      ]
+    },
+    {
+      "Id": 5504,
+      "ProductId": "com.yostarjp.bluearchive.aokisekispecial120",
+      "StoreType": "AppStore",
+      "Price": 120,
+      "PriceReference": null,
+      "PurchasePeriodType": "None",
+      "PurchasePeriodLimit": 3,
+      "ParcelType": [
+        "Currency",
+        "Currency"
+      ],
+      "ParcelId": [
+        2,
+        3
+      ],
+      "ParcelAmount": [
+        48,
+        352
       ]
     }
   ]

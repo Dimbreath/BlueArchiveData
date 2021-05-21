@@ -4540,6 +4540,540 @@
       "RewardAmount": []
     },
     {
+      "CharacterId": 10017,
+      "FavorLevel": 2,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        2
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10017,
+      "FavorLevel": 3,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        2
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10017,
+      "FavorLevel": 4,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        2
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10017,
+      "FavorLevel": 5,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        2
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10017,
+      "FavorLevel": 6,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        3
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10017,
+      "FavorLevel": 7,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        3
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10017,
+      "FavorLevel": 8,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        3
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10017,
+      "FavorLevel": 9,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        3
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10017,
+      "FavorLevel": 10,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        3
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10017,
+      "FavorLevel": 11,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        64
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10017,
+      "FavorLevel": 12,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        64
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10017,
+      "FavorLevel": 13,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        64
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10017,
+      "FavorLevel": 14,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        64
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10017,
+      "FavorLevel": 15,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        4,
+        64
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10017,
+      "FavorLevel": 16,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        5,
+        77
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10017,
+      "FavorLevel": 17,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        5,
+        77
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10017,
+      "FavorLevel": 18,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        5,
+        77
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10017,
+      "FavorLevel": 19,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        5,
+        77
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10017,
+      "FavorLevel": 20,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        5,
+        77
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10018,
+      "FavorLevel": 2,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        4
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10018,
+      "FavorLevel": 3,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        4
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10018,
+      "FavorLevel": 4,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        4
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10018,
+      "FavorLevel": 5,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        4
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10018,
+      "FavorLevel": 6,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        5
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10018,
+      "FavorLevel": 7,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        5
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10018,
+      "FavorLevel": 8,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        5
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10018,
+      "FavorLevel": 9,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        5
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10018,
+      "FavorLevel": 10,
+      "StatType": [
+        "AttackPower_Base"
+      ],
+      "StatValue": [
+        5
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10018,
+      "FavorLevel": 11,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        7,
+        55
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10018,
+      "FavorLevel": 12,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        7,
+        55
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10018,
+      "FavorLevel": 13,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        7,
+        55
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10018,
+      "FavorLevel": 14,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        7,
+        55
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10018,
+      "FavorLevel": 15,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        7,
+        55
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10018,
+      "FavorLevel": 16,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        9,
+        66
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10018,
+      "FavorLevel": 17,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        9,
+        66
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10018,
+      "FavorLevel": 18,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        9,
+        66
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10018,
+      "FavorLevel": 19,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        9,
+        66
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
+      "CharacterId": 10018,
+      "FavorLevel": 20,
+      "StatType": [
+        "AttackPower_Base",
+        "MaxHP_Base"
+      ],
+      "StatValue": [
+        9,
+        66
+      ],
+      "RewardParcelType": [],
+      "RewardParcelId": [],
+      "RewardAmount": []
+    },
+    {
       "CharacterId": 13000,
       "FavorLevel": 2,
       "StatType": [
@@ -9073,1341 +9607,6 @@
       "StatValue": [
         6,
         60
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19002,
-      "FavorLevel": 2,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        1
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19002,
-      "FavorLevel": 3,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        1
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19002,
-      "FavorLevel": 4,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        1
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19002,
-      "FavorLevel": 5,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        1
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19002,
-      "FavorLevel": 6,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        2
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19002,
-      "FavorLevel": 7,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        2
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19002,
-      "FavorLevel": 8,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        2
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19002,
-      "FavorLevel": 9,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        2
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19002,
-      "FavorLevel": 10,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        2
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19002,
-      "FavorLevel": 11,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        3,
-        60
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19002,
-      "FavorLevel": 12,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        3,
-        60
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19002,
-      "FavorLevel": 13,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        3,
-        60
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19002,
-      "FavorLevel": 14,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        3,
-        60
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19002,
-      "FavorLevel": 15,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        3,
-        60
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19002,
-      "FavorLevel": 16,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        3,
-        72
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19002,
-      "FavorLevel": 17,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        3,
-        72
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19002,
-      "FavorLevel": 18,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        3,
-        72
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19002,
-      "FavorLevel": 19,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        3,
-        72
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19002,
-      "FavorLevel": 20,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        3,
-        72
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19003,
-      "FavorLevel": 2,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        2
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19003,
-      "FavorLevel": 3,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        2
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19003,
-      "FavorLevel": 4,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        2
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19003,
-      "FavorLevel": 5,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        2
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19003,
-      "FavorLevel": 6,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        3
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19003,
-      "FavorLevel": 7,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        3
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19003,
-      "FavorLevel": 8,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        3
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19003,
-      "FavorLevel": 9,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        3
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19003,
-      "FavorLevel": 10,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        3
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19003,
-      "FavorLevel": 11,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        3,
-        71
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19003,
-      "FavorLevel": 12,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        3,
-        71
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19003,
-      "FavorLevel": 13,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        3,
-        71
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19003,
-      "FavorLevel": 14,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        3,
-        71
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19003,
-      "FavorLevel": 15,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        3,
-        71
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19003,
-      "FavorLevel": 16,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        4,
-        85
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19003,
-      "FavorLevel": 17,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        4,
-        85
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19003,
-      "FavorLevel": 18,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        4,
-        85
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19003,
-      "FavorLevel": 19,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        4,
-        85
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19003,
-      "FavorLevel": 20,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        4,
-        85
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19004,
-      "FavorLevel": 2,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        2
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19004,
-      "FavorLevel": 3,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        2
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19004,
-      "FavorLevel": 4,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        2
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19004,
-      "FavorLevel": 5,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        2
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19004,
-      "FavorLevel": 6,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        2
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19004,
-      "FavorLevel": 7,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        2
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19004,
-      "FavorLevel": 8,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        2
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19004,
-      "FavorLevel": 9,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        2
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19004,
-      "FavorLevel": 10,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        2
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19004,
-      "FavorLevel": 11,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        3,
-        105
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19004,
-      "FavorLevel": 12,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        3,
-        105
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19004,
-      "FavorLevel": 13,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        3,
-        105
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19004,
-      "FavorLevel": 14,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        3,
-        105
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19004,
-      "FavorLevel": 15,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        3,
-        105
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19004,
-      "FavorLevel": 16,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        4,
-        126
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19004,
-      "FavorLevel": 17,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        4,
-        126
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19004,
-      "FavorLevel": 18,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        4,
-        126
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19004,
-      "FavorLevel": 19,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        4,
-        126
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19004,
-      "FavorLevel": 20,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        4,
-        126
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19005,
-      "FavorLevel": 2,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        1
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19005,
-      "FavorLevel": 3,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        1
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19005,
-      "FavorLevel": 4,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        1
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19005,
-      "FavorLevel": 5,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        1
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19005,
-      "FavorLevel": 6,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        1
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19005,
-      "FavorLevel": 7,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        1
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19005,
-      "FavorLevel": 8,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        1
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19005,
-      "FavorLevel": 9,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        1
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19005,
-      "FavorLevel": 10,
-      "StatType": [
-        "AttackPower_Base"
-      ],
-      "StatValue": [
-        1
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19005,
-      "FavorLevel": 11,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        2,
-        71
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19005,
-      "FavorLevel": 12,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        2,
-        71
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19005,
-      "FavorLevel": 13,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        2,
-        71
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19005,
-      "FavorLevel": 14,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        2,
-        71
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19005,
-      "FavorLevel": 15,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        2,
-        71
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19005,
-      "FavorLevel": 16,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        2,
-        85
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19005,
-      "FavorLevel": 17,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        2,
-        85
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19005,
-      "FavorLevel": 18,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        2,
-        85
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19005,
-      "FavorLevel": 19,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        2,
-        85
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19005,
-      "FavorLevel": 20,
-      "StatType": [
-        "AttackPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        2,
-        85
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19006,
-      "FavorLevel": 2,
-      "StatType": [
-        "HealPower_Base"
-      ],
-      "StatValue": [
-        16
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19006,
-      "FavorLevel": 3,
-      "StatType": [
-        "HealPower_Base"
-      ],
-      "StatValue": [
-        16
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19006,
-      "FavorLevel": 4,
-      "StatType": [
-        "HealPower_Base"
-      ],
-      "StatValue": [
-        16
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19006,
-      "FavorLevel": 5,
-      "StatType": [
-        "HealPower_Base"
-      ],
-      "StatValue": [
-        16
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19006,
-      "FavorLevel": 6,
-      "StatType": [
-        "HealPower_Base"
-      ],
-      "StatValue": [
-        24
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19006,
-      "FavorLevel": 7,
-      "StatType": [
-        "HealPower_Base"
-      ],
-      "StatValue": [
-        24
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19006,
-      "FavorLevel": 8,
-      "StatType": [
-        "HealPower_Base"
-      ],
-      "StatValue": [
-        24
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19006,
-      "FavorLevel": 9,
-      "StatType": [
-        "HealPower_Base"
-      ],
-      "StatValue": [
-        24
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19006,
-      "FavorLevel": 10,
-      "StatType": [
-        "HealPower_Base"
-      ],
-      "StatValue": [
-        24
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19006,
-      "FavorLevel": 11,
-      "StatType": [
-        "HealPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        32,
-        50
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19006,
-      "FavorLevel": 12,
-      "StatType": [
-        "HealPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        32,
-        50
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19006,
-      "FavorLevel": 13,
-      "StatType": [
-        "HealPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        32,
-        50
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19006,
-      "FavorLevel": 14,
-      "StatType": [
-        "HealPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        32,
-        50
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19006,
-      "FavorLevel": 15,
-      "StatType": [
-        "HealPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        32,
-        50
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19006,
-      "FavorLevel": 16,
-      "StatType": [
-        "HealPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        40,
-        61
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19006,
-      "FavorLevel": 17,
-      "StatType": [
-        "HealPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        40,
-        61
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19006,
-      "FavorLevel": 18,
-      "StatType": [
-        "HealPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        40,
-        61
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19006,
-      "FavorLevel": 19,
-      "StatType": [
-        "HealPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        40,
-        61
-      ],
-      "RewardParcelType": [],
-      "RewardParcelId": [],
-      "RewardAmount": []
-    },
-    {
-      "CharacterId": 19006,
-      "FavorLevel": 20,
-      "StatType": [
-        "HealPower_Base",
-        "MaxHP_Base"
-      ],
-      "StatValue": [
-        40,
-        61
       ],
       "RewardParcelType": [],
       "RewardParcelId": [],
@@ -14953,59 +14152,59 @@
       "RewardAmount": []
     },
     {
-      "CharacterId": 29003,
+      "CharacterId": 26006,
       "FavorLevel": 2,
       "StatType": [
         "AttackPower_Base"
       ],
       "StatValue": [
-        1
+        2
       ],
       "RewardParcelType": [],
       "RewardParcelId": [],
       "RewardAmount": []
     },
     {
-      "CharacterId": 29003,
+      "CharacterId": 26006,
       "FavorLevel": 3,
       "StatType": [
         "AttackPower_Base"
       ],
       "StatValue": [
-        1
+        2
       ],
       "RewardParcelType": [],
       "RewardParcelId": [],
       "RewardAmount": []
     },
     {
-      "CharacterId": 29003,
+      "CharacterId": 26006,
       "FavorLevel": 4,
       "StatType": [
         "AttackPower_Base"
       ],
       "StatValue": [
-        1
+        2
       ],
       "RewardParcelType": [],
       "RewardParcelId": [],
       "RewardAmount": []
     },
     {
-      "CharacterId": 29003,
+      "CharacterId": 26006,
       "FavorLevel": 5,
       "StatType": [
         "AttackPower_Base"
       ],
       "StatValue": [
-        1
+        2
       ],
       "RewardParcelType": [],
       "RewardParcelId": [],
       "RewardAmount": []
     },
     {
-      "CharacterId": 29003,
+      "CharacterId": 26006,
       "FavorLevel": 6,
       "StatType": [
         "AttackPower_Base"
@@ -15018,7 +14217,7 @@
       "RewardAmount": []
     },
     {
-      "CharacterId": 29003,
+      "CharacterId": 26006,
       "FavorLevel": 7,
       "StatType": [
         "AttackPower_Base"
@@ -15031,7 +14230,7 @@
       "RewardAmount": []
     },
     {
-      "CharacterId": 29003,
+      "CharacterId": 26006,
       "FavorLevel": 8,
       "StatType": [
         "AttackPower_Base"
@@ -15044,7 +14243,7 @@
       "RewardAmount": []
     },
     {
-      "CharacterId": 29003,
+      "CharacterId": 26006,
       "FavorLevel": 9,
       "StatType": [
         "AttackPower_Base"
@@ -15057,7 +14256,7 @@
       "RewardAmount": []
     },
     {
-      "CharacterId": 29003,
+      "CharacterId": 26006,
       "FavorLevel": 10,
       "StatType": [
         "AttackPower_Base"
@@ -15070,7 +14269,7 @@
       "RewardAmount": []
     },
     {
-      "CharacterId": 29003,
+      "CharacterId": 26006,
       "FavorLevel": 11,
       "StatType": [
         "AttackPower_Base",
@@ -15078,14 +14277,14 @@
       ],
       "StatValue": [
         3,
-        82
+        43
       ],
       "RewardParcelType": [],
       "RewardParcelId": [],
       "RewardAmount": []
     },
     {
-      "CharacterId": 29003,
+      "CharacterId": 26006,
       "FavorLevel": 12,
       "StatType": [
         "AttackPower_Base",
@@ -15093,14 +14292,14 @@
       ],
       "StatValue": [
         3,
-        82
+        43
       ],
       "RewardParcelType": [],
       "RewardParcelId": [],
       "RewardAmount": []
     },
     {
-      "CharacterId": 29003,
+      "CharacterId": 26006,
       "FavorLevel": 13,
       "StatType": [
         "AttackPower_Base",
@@ -15108,14 +14307,14 @@
       ],
       "StatValue": [
         3,
-        82
+        43
       ],
       "RewardParcelType": [],
       "RewardParcelId": [],
       "RewardAmount": []
     },
     {
-      "CharacterId": 29003,
+      "CharacterId": 26006,
       "FavorLevel": 14,
       "StatType": [
         "AttackPower_Base",
@@ -15123,14 +14322,14 @@
       ],
       "StatValue": [
         3,
-        82
+        43
       ],
       "RewardParcelType": [],
       "RewardParcelId": [],
       "RewardAmount": []
     },
     {
-      "CharacterId": 29003,
+      "CharacterId": 26006,
       "FavorLevel": 15,
       "StatType": [
         "AttackPower_Base",
@@ -15138,14 +14337,14 @@
       ],
       "StatValue": [
         3,
-        82
+        43
       ],
       "RewardParcelType": [],
       "RewardParcelId": [],
       "RewardAmount": []
     },
     {
-      "CharacterId": 29003,
+      "CharacterId": 26006,
       "FavorLevel": 16,
       "StatType": [
         "AttackPower_Base",
@@ -15153,14 +14352,14 @@
       ],
       "StatValue": [
         4,
-        98
+        51
       ],
       "RewardParcelType": [],
       "RewardParcelId": [],
       "RewardAmount": []
     },
     {
-      "CharacterId": 29003,
+      "CharacterId": 26006,
       "FavorLevel": 17,
       "StatType": [
         "AttackPower_Base",
@@ -15168,14 +14367,14 @@
       ],
       "StatValue": [
         4,
-        98
+        51
       ],
       "RewardParcelType": [],
       "RewardParcelId": [],
       "RewardAmount": []
     },
     {
-      "CharacterId": 29003,
+      "CharacterId": 26006,
       "FavorLevel": 18,
       "StatType": [
         "AttackPower_Base",
@@ -15183,14 +14382,14 @@
       ],
       "StatValue": [
         4,
-        98
+        51
       ],
       "RewardParcelType": [],
       "RewardParcelId": [],
       "RewardAmount": []
     },
     {
-      "CharacterId": 29003,
+      "CharacterId": 26006,
       "FavorLevel": 19,
       "StatType": [
         "AttackPower_Base",
@@ -15198,14 +14397,14 @@
       ],
       "StatValue": [
         4,
-        98
+        51
       ],
       "RewardParcelType": [],
       "RewardParcelId": [],
       "RewardAmount": []
     },
     {
-      "CharacterId": 29003,
+      "CharacterId": 26006,
       "FavorLevel": 20,
       "StatType": [
         "AttackPower_Base",
@@ -15213,7 +14412,7 @@
       ],
       "StatValue": [
         4,
-        98
+        51
       ],
       "RewardParcelType": [],
       "RewardParcelId": [],

@@ -307,6 +307,23 @@
       "Disposable": false
     },
     {
+      "Id": 902101,
+      "Key": 409068191,
+      "Name": "타일 생성_5월 이벤트",
+      "PrefabName": "TileSpawnObject_Event_01",
+      "StrategyObjectType": "BeaconOneTime",
+      "StrategyRewardParcelType": "None",
+      "StrategyRewardID": 0,
+      "StrategyRewardName": null,
+      "StrategyRewardAmount": 0,
+      "StrategySightRange": 0,
+      "PortalId": 0,
+      "HealValue": 0,
+      "SwithId": 0,
+      "BuffId": 0,
+      "Disposable": true
+    },
+    {
       "Id": 1012101,
       "Key": 3417393760,
       "Name": "1-1 (H) 1회성 보상",

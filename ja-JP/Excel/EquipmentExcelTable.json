@@ -100,7 +100,8 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Hat_Tier1",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Hat"
       ],
       "CraftQuality": 5,
       "ShopCategory": []
@@ -187,7 +188,8 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Gloves_Tier1",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Gloves"
       ],
       "CraftQuality": 5,
       "ShopCategory": []
@@ -274,7 +276,8 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Shoes_Tier1",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Shoes"
       ],
       "CraftQuality": 5,
       "ShopCategory": []
@@ -361,7 +364,8 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Bag_Tier1",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Bag"
       ],
       "CraftQuality": 5,
       "ShopCategory": []
@@ -448,7 +452,8 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Badge_Tier1",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Badge"
       ],
       "CraftQuality": 5,
       "ShopCategory": []
@@ -535,7 +540,8 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Hairpin_Tier1",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Hairpin"
       ],
       "CraftQuality": 5,
       "ShopCategory": []
@@ -622,7 +628,8 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Charm_Tier1",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Charm"
       ],
       "CraftQuality": 5,
       "ShopCategory": []
@@ -709,7 +716,8 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Watch_Tier1",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Watch"
       ],
       "CraftQuality": 5,
       "ShopCategory": []
@@ -796,7 +804,8 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Necklace_Tier1",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Necklace"
       ],
       "CraftQuality": 5,
       "ShopCategory": []
@@ -883,7 +892,8 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Hat_Tier2_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
       "CraftQuality": 5,
       "ShopCategory": []
@@ -902,7 +912,8 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Hat_Tier3_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
       "CraftQuality": 5,
       "ShopCategory": []
@@ -921,9 +932,10 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Hat_Tier4_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
-      "CraftQuality": 10,
+      "CraftQuality": 5,
       "ShopCategory": []
     },
     {
@@ -940,9 +952,10 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Hat_Tier5_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
-      "CraftQuality": 11,
+      "CraftQuality": 5,
       "ShopCategory": []
     },
     {
@@ -959,7 +972,8 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Gloves_Tier2_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
       "CraftQuality": 5,
       "ShopCategory": []
@@ -978,7 +992,8 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Gloves_Tier3_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
       "CraftQuality": 5,
       "ShopCategory": []
@@ -997,9 +1012,10 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Gloves_Tier4_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
-      "CraftQuality": 10,
+      "CraftQuality": 5,
       "ShopCategory": []
     },
     {
@@ -1016,9 +1032,10 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Gloves_Tier5_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
-      "CraftQuality": 11,
+      "CraftQuality": 5,
       "ShopCategory": []
     },
     {
@@ -1035,7 +1052,8 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Shoes_Tier2_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
       "CraftQuality": 5,
       "ShopCategory": []
@@ -1054,7 +1072,8 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Shoes_Tier3_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
       "CraftQuality": 5,
       "ShopCategory": []
@@ -1073,9 +1092,10 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Shoes_Tier4_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
-      "CraftQuality": 10,
+      "CraftQuality": 5,
       "ShopCategory": []
     },
     {
@@ -1092,9 +1112,10 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Shoes_Tier5_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
-      "CraftQuality": 11,
+      "CraftQuality": 5,
       "ShopCategory": []
     },
     {
@@ -1111,7 +1132,8 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Bag_Tier2_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
       "CraftQuality": 5,
       "ShopCategory": []
@@ -1130,7 +1152,8 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Bag_Tier3_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
       "CraftQuality": 5,
       "ShopCategory": []
@@ -1149,9 +1172,10 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Bag_Tier4_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
-      "CraftQuality": 10,
+      "CraftQuality": 5,
       "ShopCategory": []
     },
     {
@@ -1168,9 +1192,10 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Bag_Tier5_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
-      "CraftQuality": 11,
+      "CraftQuality": 5,
       "ShopCategory": []
     },
     {
@@ -1187,7 +1212,8 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Badge_Tier2_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
       "CraftQuality": 5,
       "ShopCategory": []
@@ -1206,7 +1232,8 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Badge_Tier3_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
       "CraftQuality": 5,
       "ShopCategory": []
@@ -1225,9 +1252,10 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Badge_Tier4_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
-      "CraftQuality": 10,
+      "CraftQuality": 5,
       "ShopCategory": []
     },
     {
@@ -1244,9 +1272,10 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Badge_Tier5_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
-      "CraftQuality": 11,
+      "CraftQuality": 5,
       "ShopCategory": []
     },
     {
@@ -1263,7 +1292,8 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Hairpin_Tier2_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
       "CraftQuality": 5,
       "ShopCategory": []
@@ -1282,7 +1312,8 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Hairpin_Tier3_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
       "CraftQuality": 5,
       "ShopCategory": []
@@ -1301,9 +1332,10 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Hairpin_Tier4_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
-      "CraftQuality": 10,
+      "CraftQuality": 5,
       "ShopCategory": []
     },
     {
@@ -1320,9 +1352,10 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Hairpin_Tier5_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
-      "CraftQuality": 11,
+      "CraftQuality": 5,
       "ShopCategory": []
     },
     {
@@ -1339,7 +1372,8 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Charm_Tier2_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
       "CraftQuality": 5,
       "ShopCategory": []
@@ -1358,7 +1392,8 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Charm_Tier3_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
       "CraftQuality": 5,
       "ShopCategory": []
@@ -1377,9 +1412,10 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Charm_Tier4_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
-      "CraftQuality": 10,
+      "CraftQuality": 5,
       "ShopCategory": []
     },
     {
@@ -1396,9 +1432,10 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Charm_Tier5_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
-      "CraftQuality": 11,
+      "CraftQuality": 5,
       "ShopCategory": []
     },
     {
@@ -1415,7 +1452,8 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Watch_Tier2_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
       "CraftQuality": 5,
       "ShopCategory": []
@@ -1434,7 +1472,8 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Watch_Tier3_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
       "CraftQuality": 5,
       "ShopCategory": []
@@ -1453,9 +1492,10 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Watch_Tier4_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
-      "CraftQuality": 10,
+      "CraftQuality": 5,
       "ShopCategory": []
     },
     {
@@ -1472,9 +1512,10 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Watch_Tier5_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
-      "CraftQuality": 11,
+      "CraftQuality": 5,
       "ShopCategory": []
     },
     {
@@ -1491,7 +1532,8 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Necklace_Tier2_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
       "CraftQuality": 5,
       "ShopCategory": []
@@ -1510,7 +1552,8 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Necklace_Tier3_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
       "CraftQuality": 5,
       "ShopCategory": []
@@ -1529,9 +1572,10 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Necklace_Tier4_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
-      "CraftQuality": 10,
+      "CraftQuality": 5,
       "ShopCategory": []
     },
     {
@@ -1548,9 +1592,10 @@
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Necklace_Tier5_Piece",
       "ImageName": null,
       "Tags": [
-        "Equipment"
+        "Equipment",
+        "Piece"
       ],
-      "CraftQuality": 11,
+      "CraftQuality": 5,
       "ShopCategory": []
     }
   ]

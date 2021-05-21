@@ -1937,6 +1937,1247 @@
         false,
         false
       ]
+    },
+    {
+      "Id": 7303200,
+      "AIPhase": 0,
+      "NormalAttackSkillUniqueName": "HieronymusNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "Id": 7303200,
+      "AIPhase": 1,
+      "NormalAttackSkillUniqueName": "HieronymusNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "Id": 7303300,
+      "AIPhase": 0,
+      "NormalAttackSkillUniqueName": "HieronymusNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "Id": 7303300,
+      "AIPhase": 1,
+      "NormalAttackSkillUniqueName": "HieronymusNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "Id": 7303400,
+      "AIPhase": 0,
+      "NormalAttackSkillUniqueName": "HieronymusNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "Id": 7303400,
+      "AIPhase": 1,
+      "NormalAttackSkillUniqueName": "HieronymusNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "Id": 7303500,
+      "AIPhase": 0,
+      "NormalAttackSkillUniqueName": "HieronymusNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "Id": 7303500,
+      "AIPhase": 1,
+      "NormalAttackSkillUniqueName": "HieronymusNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "Id": 7402100,
+      "AIPhase": 0,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402200,
+      "AIPhase": 0,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402300,
+      "AIPhase": 0,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402400,
+      "AIPhase": 0,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402500,
+      "AIPhase": 0,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402100,
+      "AIPhase": 1,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402200,
+      "AIPhase": 1,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402300,
+      "AIPhase": 1,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402400,
+      "AIPhase": 1,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402500,
+      "AIPhase": 1,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402100,
+      "AIPhase": 2,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402200,
+      "AIPhase": 2,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402300,
+      "AIPhase": 2,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402400,
+      "AIPhase": 2,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402500,
+      "AIPhase": 2,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402100,
+      "AIPhase": 3,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402200,
+      "AIPhase": 3,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402300,
+      "AIPhase": 3,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402400,
+      "AIPhase": 3,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402500,
+      "AIPhase": 3,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402100,
+      "AIPhase": 4,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402200,
+      "AIPhase": 4,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402300,
+      "AIPhase": 4,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402400,
+      "AIPhase": 4,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402500,
+      "AIPhase": 4,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402100,
+      "AIPhase": 5,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402200,
+      "AIPhase": 5,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402300,
+      "AIPhase": 5,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402400,
+      "AIPhase": 5,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402500,
+      "AIPhase": 5,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402100,
+      "AIPhase": 6,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402200,
+      "AIPhase": 6,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402300,
+      "AIPhase": 6,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402400,
+      "AIPhase": 6,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402500,
+      "AIPhase": 6,
+      "NormalAttackSkillUniqueName": "ShiroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "Id": 7402101,
+      "AIPhase": 0,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "Id": 7402201,
+      "AIPhase": 0,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "Id": 7402301,
+      "AIPhase": 0,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "Id": 7402401,
+      "AIPhase": 0,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "Id": 7402501,
+      "AIPhase": 0,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "Id": 7402101,
+      "AIPhase": 7,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "Id": 7402201,
+      "AIPhase": 7,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "Id": 7402301,
+      "AIPhase": 7,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "Id": 7402401,
+      "AIPhase": 7,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "Id": 7402501,
+      "AIPhase": 7,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "Id": 7402101,
+      "AIPhase": 8,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "Id": 7402201,
+      "AIPhase": 8,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "Id": 7402301,
+      "AIPhase": 8,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "Id": 7402401,
+      "AIPhase": 8,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "Id": 7402501,
+      "AIPhase": 8,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "Id": 7402101,
+      "AIPhase": 9,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "Id": 7402201,
+      "AIPhase": 9,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "Id": 7402301,
+      "AIPhase": 9,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "Id": 7402401,
+      "AIPhase": 9,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "Id": 7402501,
+      "AIPhase": 9,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "Id": 7402101,
+      "AIPhase": 10,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "Id": 7402201,
+      "AIPhase": 10,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "Id": 7402301,
+      "AIPhase": 10,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "Id": 7402401,
+      "AIPhase": 10,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "Id": 7402501,
+      "AIPhase": 10,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "Id": 7402101,
+      "AIPhase": 11,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "Id": 7402201,
+      "AIPhase": 11,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "Id": 7402301,
+      "AIPhase": 11,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "Id": 7402401,
+      "AIPhase": 11,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "Id": 7402501,
+      "AIPhase": 11,
+      "NormalAttackSkillUniqueName": "KuroNormal01",
+      "UseExSkill": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ]
     }
   ]
 }

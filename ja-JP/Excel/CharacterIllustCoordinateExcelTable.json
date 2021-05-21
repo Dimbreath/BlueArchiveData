@@ -137,6 +137,22 @@
       "MaxScale": 1231.4248
     },
     {
+      "Id": 10017,
+      "CharacterBodyCenterX": 1224.8396,
+      "CharacterBodyCenterY": 1227.5608,
+      "DefaultScale": 1230.9375,
+      "MinScale": 1230.2749,
+      "MaxScale": 1231.4248
+    },
+    {
+      "Id": 10018,
+      "CharacterBodyCenterX": 1224.6719,
+      "CharacterBodyCenterY": 1224.4482,
+      "DefaultScale": 1230.9375,
+      "MinScale": 1230.2749,
+      "MaxScale": 1231.4248
+    },
+    {
       "Id": 13000,
       "CharacterBodyCenterX": 1224.5641,
       "CharacterBodyCenterY": 1227.082,
@@ -404,6 +420,14 @@
       "Id": 26005,
       "CharacterBodyCenterX": 1224.3104,
       "CharacterBodyCenterY": 1227.545,
+      "DefaultScale": 1230.9375,
+      "MinScale": 1230.2749,
+      "MaxScale": 1231.4248
+    },
+    {
+      "Id": 26006,
+      "CharacterBodyCenterX": 1224.924,
+      "CharacterBodyCenterY": 1226.9608,
       "DefaultScale": 1230.9375,
       "MinScale": 1230.2749,
       "MaxScale": 1231.4248
