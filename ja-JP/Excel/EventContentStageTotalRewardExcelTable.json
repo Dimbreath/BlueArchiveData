@@ -655,6 +655,88 @@
       "RewardParcelAmount": [
         1
       ]
+    },
+    {
+      "Id": 101,
+      "EventContentId": 803,
+      "RequiredEventItemAmount": 100,
+      "RewardParcelType": [
+        "Currency",
+        "Currency"
+      ],
+      "RewardParcelId": [
+        3,
+        1
+      ],
+      "RewardParcelAmount": [
+        100,
+        100000
+      ]
+    },
+    {
+      "Id": 102,
+      "EventContentId": 803,
+      "RequiredEventItemAmount": 200,
+      "RewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "RewardParcelId": [
+        10,
+        140
+      ],
+      "RewardParcelAmount": [
+        30,
+        20
+      ]
+    },
+    {
+      "Id": 103,
+      "EventContentId": 803,
+      "RequiredEventItemAmount": 400,
+      "RewardParcelType": [
+        "Currency",
+        "Item"
+      ],
+      "RewardParcelId": [
+        1,
+        180
+      ],
+      "RewardParcelAmount": [
+        200000,
+        20
+      ]
+    },
+    {
+      "Id": 104,
+      "EventContentId": 803,
+      "RequiredEventItemAmount": 700,
+      "RewardParcelType": [
+        "Currency",
+        "Item"
+      ],
+      "RewardParcelId": [
+        3,
+        141
+      ],
+      "RewardParcelAmount": [
+        100,
+        15
+      ]
+    },
+    {
+      "Id": 105,
+      "EventContentId": 803,
+      "RequiredEventItemAmount": 1000,
+      "RewardParcelType": [
+        "Item"
+      ],
+      "RewardParcelId": [
+        13001
+      ],
+      "RewardParcelAmount": [
+        10
+      ]
     }
   ]
 }

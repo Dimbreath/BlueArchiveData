@@ -925,6 +925,94 @@
       "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Tomoe"
     },
     {
+      "CharacterName": 2583993424,
+      "ProductionStep": "Release",
+      "NameKR": "미카",
+      "NicknameKR": "티파티",
+      "NameJP": "ミカ",
+      "NicknameJP": "ティーパーティー",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0069",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0069"
+    },
+    {
+      "CharacterName": 3486651750,
+      "ProductionStep": "Release",
+      "NameKR": "하나코",
+      "NicknameKR": "보충수업부",
+      "NameJP": "ハナコ",
+      "NicknameJP": "補習授業部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_hanako",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Hanako"
+    },
+    {
+      "CharacterName": 3972500147,
+      "ProductionStep": "Release",
+      "NameKR": "하나코",
+      "NicknameKR": "보충수업부",
+      "NameJP": "ハナコ",
+      "NicknameJP": "補習授業部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0004",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Hanako"
+    },
+    {
+      "CharacterName": 1994093906,
+      "ProductionStep": "Release",
+      "NameKR": "코하루",
+      "NicknameKR": "보충수업부",
+      "NameJP": "コハル",
+      "NicknameJP": "補習授業部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_koharu",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Koharu"
+    },
+    {
+      "CharacterName": 1085433943,
+      "ProductionStep": "Release",
+      "NameKR": "코하루",
+      "NicknameKR": null,
+      "NameJP": "コハル",
+      "NicknameJP": null,
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_koharu",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Koharu"
+    },
+    {
+      "CharacterName": 3561930684,
+      "ProductionStep": "Release",
+      "NameKR": "코하루",
+      "NicknameKR": "정의실현부",
+      "NameJP": "コハル",
+      "NicknameJP": "正義実現委員会",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_koharu",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Koharu"
+    },
+    {
+      "CharacterName": 2402650919,
+      "ProductionStep": "Release",
+      "NameKR": "아즈사",
+      "NicknameKR": "보충수업부",
+      "NameJP": "アズサ",
+      "NicknameJP": "補習授業部",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_azusa",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_Azusa"
+    },
+    {
+      "CharacterName": 1557377981,
+      "ProductionStep": "Release",
+      "NameKR": "세이아",
+      "NicknameKR": "티파티",
+      "NameJP": "セイア",
+      "NicknameJP": "ティーパーティー",
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0070",
+      "SmallPortrait": "UIs/01_Common/01_Character/Student_Portrait_CH0070"
+    },
+    {
       "CharacterName": 2582659095,
       "ProductionStep": "ToDo",
       "NameKR": null,
@@ -955,17 +1043,6 @@
       "NicknameJP": null,
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0003",
-      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
-    },
-    {
-      "CharacterName": 2124516650,
-      "ProductionStep": "ToDo",
-      "NameKR": null,
-      "NicknameKR": null,
-      "NameJP": null,
-      "NicknameJP": null,
-      "Shape": "None",
-      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0004",
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
     },
     {
@@ -1010,6 +1087,72 @@
       "NicknameJP": null,
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_NP0008",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 2667229140,
+      "ProductionStep": "ToDo",
+      "NameKR": null,
+      "NicknameKR": null,
+      "NameJP": null,
+      "NicknameJP": null,
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0079",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 2864852139,
+      "ProductionStep": "ToDo",
+      "NameKR": null,
+      "NicknameKR": null,
+      "NameJP": null,
+      "NicknameJP": null,
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0156",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 1774264799,
+      "ProductionStep": "ToDo",
+      "NameKR": null,
+      "NicknameKR": null,
+      "NameJP": null,
+      "NicknameJP": null,
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0058",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 692896263,
+      "ProductionStep": "ToDo",
+      "NameKR": null,
+      "NicknameKR": null,
+      "NameJP": null,
+      "NicknameJP": null,
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0058ND",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 3952713974,
+      "ProductionStep": "ToDo",
+      "NameKR": null,
+      "NicknameKR": null,
+      "NameJP": null,
+      "NicknameJP": null,
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0060",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 61095853,
+      "ProductionStep": "ToDo",
+      "NameKR": null,
+      "NicknameKR": null,
+      "NameJP": null,
+      "NicknameJP": null,
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_CH0060ND",
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
     },
     {
@@ -3684,6 +3827,17 @@
       "Shape": "None",
       "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_schoolGirl02_SukebanSwim_SMG",
       "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "CharacterName": 699137168,
+      "ProductionStep": "Release",
+      "NameKR": "경비원",
+      "NicknameKR": null,
+      "NameJP": "ガード",
+      "NicknameJP": null,
+      "Shape": "None",
+      "SpinePrefabName": "UIs/03_Scenario/02_Character/CharacterSpine_citizen_borot1",
+      "SmallPortrait": "UIs/01_Common/01_Character/NPC_Portrait_Citizen_Borot1"
     }
   ]
 }

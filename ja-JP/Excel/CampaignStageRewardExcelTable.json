@@ -10691,6 +10691,996 @@
       "StageRewardId": 500100,
       "StageRewardAmount": 2,
       "IsDisplayed": false
+    },
+    {
+      "GroupId": 1141101,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 107004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141101,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 109004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141101,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 108004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141101,
+      "RewardTag": "ThreeStar",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Currency",
+      "StageRewardId": 3,
+      "StageRewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141101,
+      "RewardTag": "Default",
+      "StageRewardProb": 3440,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 107004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141101,
+      "RewardTag": "Default",
+      "StageRewardProb": 2580,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 109004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141101,
+      "RewardTag": "Default",
+      "StageRewardProb": 2580,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 108004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141101,
+      "RewardTag": "Default",
+      "StageRewardProb": 3000,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 607002,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1141101,
+      "RewardTag": "Default",
+      "StageRewardProb": 2250,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 609002,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1141101,
+      "RewardTag": "Default",
+      "StageRewardProb": 2250,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 608002,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1141101,
+      "RewardTag": "Default",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 500000,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1141101,
+      "RewardTag": "Default",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 500100,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1141102,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 106004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141102,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 108004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141102,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 107004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141102,
+      "RewardTag": "ThreeStar",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Currency",
+      "StageRewardId": 3,
+      "StageRewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141102,
+      "RewardTag": "Default",
+      "StageRewardProb": 3440,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 106004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141102,
+      "RewardTag": "Default",
+      "StageRewardProb": 2580,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 108004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141102,
+      "RewardTag": "Default",
+      "StageRewardProb": 2580,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 107004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141102,
+      "RewardTag": "Default",
+      "StageRewardProb": 3000,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 606002,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1141102,
+      "RewardTag": "Default",
+      "StageRewardProb": 2250,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 608002,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1141102,
+      "RewardTag": "Default",
+      "StageRewardProb": 2250,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 607002,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1141102,
+      "RewardTag": "Default",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 500000,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1141102,
+      "RewardTag": "Default",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 500100,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1141103,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 104004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141103,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 109004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141103,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 108004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141103,
+      "RewardTag": "ThreeStar",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Currency",
+      "StageRewardId": 3,
+      "StageRewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141103,
+      "RewardTag": "Default",
+      "StageRewardProb": 3440,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 104004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141103,
+      "RewardTag": "Default",
+      "StageRewardProb": 2580,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 109004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141103,
+      "RewardTag": "Default",
+      "StageRewardProb": 2580,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 108004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141103,
+      "RewardTag": "Default",
+      "StageRewardProb": 3000,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 604002,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1141103,
+      "RewardTag": "Default",
+      "StageRewardProb": 2250,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 609002,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1141103,
+      "RewardTag": "Default",
+      "StageRewardProb": 2250,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 608002,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1141103,
+      "RewardTag": "Default",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 500000,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1141103,
+      "RewardTag": "Default",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 500100,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1141104,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 108004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141104,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 107004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141104,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 105004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141104,
+      "RewardTag": "ThreeStar",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Currency",
+      "StageRewardId": 3,
+      "StageRewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141104,
+      "RewardTag": "Default",
+      "StageRewardProb": 3440,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 108004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141104,
+      "RewardTag": "Default",
+      "StageRewardProb": 2580,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 107004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141104,
+      "RewardTag": "Default",
+      "StageRewardProb": 2580,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 105004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141104,
+      "RewardTag": "Default",
+      "StageRewardProb": 3000,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 608002,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1141104,
+      "RewardTag": "Default",
+      "StageRewardProb": 2250,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 607002,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1141104,
+      "RewardTag": "Default",
+      "StageRewardProb": 2250,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 605002,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1141104,
+      "RewardTag": "Default",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 500000,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1141104,
+      "RewardTag": "Default",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 500100,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1141105,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 109004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141105,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 106004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141105,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 104004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141105,
+      "RewardTag": "ThreeStar",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Currency",
+      "StageRewardId": 3,
+      "StageRewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141105,
+      "RewardTag": "Default",
+      "StageRewardProb": 3440,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 109004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141105,
+      "RewardTag": "Default",
+      "StageRewardProb": 2580,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 106004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141105,
+      "RewardTag": "Default",
+      "StageRewardProb": 2580,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 104004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141105,
+      "RewardTag": "Default",
+      "StageRewardProb": 3000,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 609002,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1141105,
+      "RewardTag": "Default",
+      "StageRewardProb": 2250,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 606002,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1141105,
+      "RewardTag": "Default",
+      "StageRewardProb": 2250,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 604002,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1141105,
+      "RewardTag": "Default",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 500000,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1141105,
+      "RewardTag": "Default",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 500100,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1141201,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Currency",
+      "StageRewardId": 3,
+      "StageRewardAmount": 20,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141202,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Currency",
+      "StageRewardId": 3,
+      "StageRewardAmount": 20,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141203,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Currency",
+      "StageRewardId": 3,
+      "StageRewardAmount": 20,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141204,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Currency",
+      "StageRewardId": 3,
+      "StageRewardAmount": 20,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141205,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Currency",
+      "StageRewardId": 3,
+      "StageRewardAmount": 20,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141206,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Currency",
+      "StageRewardId": 3,
+      "StageRewardAmount": 20,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141207,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Currency",
+      "StageRewardId": 3,
+      "StageRewardAmount": 20,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1141208,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Currency",
+      "StageRewardId": 3,
+      "StageRewardAmount": 20,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142101,
+      "RewardTag": "Default",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 500001,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1142101,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Item",
+      "StageRewardId": 13005,
+      "StageRewardAmount": 5,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142101,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 105004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142101,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 108004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142101,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 107004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142101,
+      "RewardTag": "ThreeStar",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Currency",
+      "StageRewardId": 3,
+      "StageRewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142101,
+      "RewardTag": "Default",
+      "StageRewardProb": 4000,
+      "StageRewardParcelType": "Item",
+      "StageRewardId": 13005,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142101,
+      "RewardTag": "Default",
+      "StageRewardProb": 6880,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 105004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142101,
+      "RewardTag": "Default",
+      "StageRewardProb": 5160,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 108004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142101,
+      "RewardTag": "Default",
+      "StageRewardProb": 5160,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 107004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142101,
+      "RewardTag": "Default",
+      "StageRewardProb": 6000,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 605002,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1142101,
+      "RewardTag": "Default",
+      "StageRewardProb": 4500,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 608002,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1142101,
+      "RewardTag": "Default",
+      "StageRewardProb": 4500,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 607002,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1142101,
+      "RewardTag": "Default",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 500100,
+      "StageRewardAmount": 2,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1142102,
+      "RewardTag": "Default",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 500001,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1142102,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Item",
+      "StageRewardId": 13001,
+      "StageRewardAmount": 5,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142102,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 106004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142102,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 107004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142102,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 109004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142102,
+      "RewardTag": "ThreeStar",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Currency",
+      "StageRewardId": 3,
+      "StageRewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142102,
+      "RewardTag": "Default",
+      "StageRewardProb": 4000,
+      "StageRewardParcelType": "Item",
+      "StageRewardId": 13001,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142102,
+      "RewardTag": "Default",
+      "StageRewardProb": 6880,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 106004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142102,
+      "RewardTag": "Default",
+      "StageRewardProb": 5160,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 107004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142102,
+      "RewardTag": "Default",
+      "StageRewardProb": 5160,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 109004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142102,
+      "RewardTag": "Default",
+      "StageRewardProb": 6000,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 606002,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1142102,
+      "RewardTag": "Default",
+      "StageRewardProb": 4500,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 607002,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1142102,
+      "RewardTag": "Default",
+      "StageRewardProb": 4500,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 609002,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1142102,
+      "RewardTag": "Default",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 500100,
+      "StageRewardAmount": 2,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1142103,
+      "RewardTag": "Default",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 500001,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1142103,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Item",
+      "StageRewardId": 10006,
+      "StageRewardAmount": 5,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142103,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 104004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142103,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 109004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142103,
+      "RewardTag": "FirstClear",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 108004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142103,
+      "RewardTag": "ThreeStar",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "Currency",
+      "StageRewardId": 3,
+      "StageRewardAmount": 30,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142103,
+      "RewardTag": "Default",
+      "StageRewardProb": 4000,
+      "StageRewardParcelType": "Item",
+      "StageRewardId": 10006,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142103,
+      "RewardTag": "Default",
+      "StageRewardProb": 6880,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 104004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142103,
+      "RewardTag": "Default",
+      "StageRewardProb": 5160,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 109004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142103,
+      "RewardTag": "Default",
+      "StageRewardProb": 5160,
+      "StageRewardParcelType": "Equipment",
+      "StageRewardId": 108004,
+      "StageRewardAmount": 1,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 1142103,
+      "RewardTag": "Default",
+      "StageRewardProb": 6000,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 604002,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1142103,
+      "RewardTag": "Default",
+      "StageRewardProb": 4500,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 609002,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1142103,
+      "RewardTag": "Default",
+      "StageRewardProb": 4500,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 608002,
+      "StageRewardAmount": 1,
+      "IsDisplayed": false
+    },
+    {
+      "GroupId": 1142103,
+      "RewardTag": "Default",
+      "StageRewardProb": 10000,
+      "StageRewardParcelType": "GachaGroup",
+      "StageRewardId": 500100,
+      "StageRewardAmount": 2,
+      "IsDisplayed": false
     }
   ]
 }

@@ -17,7 +17,8 @@
     {
       "Id": 10001,
       "FavorTags": [
-        "Scientific"
+        "Scientific",
+        "Millennium"
       ],
       "FavorItemTags": [
         "Curios",
@@ -172,7 +173,8 @@
     {
       "Id": 10012,
       "FavorTags": [
-        "Healthy"
+        "Healthy",
+        "Gym"
       ],
       "FavorItemTags": [
         "Sports",
@@ -267,7 +269,42 @@
         "Gift1",
         "Gift2"
       ],
+      "ForbiddenTags": [
+        "Sociable"
+      ]
+    },
+    {
+      "Id": 10019,
+      "FavorTags": [
+        "ShootingRange",
+        "Military"
+      ],
+      "FavorItemTags": [
+        "Fashion",
+        "MomoFriends",
+        "Doll",
+        "F_Azusa",
+        "Gift1",
+        "Gift2"
+      ],
       "ForbiddenTags": []
+    },
+    {
+      "Id": 10020,
+      "FavorTags": [
+        "Library"
+      ],
+      "FavorItemTags": [
+        "Cosmetics",
+        "LoveStory",
+        "Girlish",
+        "F_Koharu",
+        "Gift1",
+        "Gift2"
+      ],
+      "ForbiddenTags": [
+        "Gehenna"
+      ]
     },
     {
       "Id": 13000,
@@ -285,7 +322,8 @@
     {
       "Id": 13001,
       "FavorTags": [
-        "Farmer"
+        "Farmer",
+        "Transport"
       ],
       "FavorItemTags": [
         "Books",
@@ -411,7 +449,9 @@
     {
       "Id": 13010,
       "FavorTags": [
-        "Officer"
+        "Officer",
+        "Itcenter",
+        "Millennium"
       ],
       "FavorItemTags": [
         "Smart",
@@ -466,7 +506,8 @@
       "Id": 16002,
       "FavorTags": [
         "Machine",
-        "Scientific"
+        "Scientific",
+        "Itcenter"
       ],
       "FavorItemTags": [
         "Books",
@@ -479,7 +520,9 @@
     },
     {
       "Id": 16003,
-      "FavorTags": [],
+      "FavorTags": [
+        "Transport"
+      ],
       "FavorItemTags": [
         "Doll",
         "F_Suzumi",
@@ -506,7 +549,9 @@
     {
       "Id": 20000,
       "FavorTags": [
-        "Scientific"
+        "Scientific",
+        "Itcenter",
+        "Powerplant"
       ],
       "FavorItemTags": [
         "Electronic",
@@ -600,7 +645,8 @@
     {
       "Id": 23003,
       "FavorTags": [
-        "Scientific"
+        "Scientific",
+        "Itcenter"
       ],
       "FavorItemTags": [
         "Game",
@@ -613,7 +659,9 @@
     {
       "Id": 23004,
       "FavorTags": [
-        "Scientific"
+        "Scientific",
+        "Powerplant",
+        "Hanger"
       ],
       "FavorItemTags": [
         "Observational",
@@ -668,7 +716,8 @@
       "Id": 26001,
       "FavorTags": [
         "Machine",
-        "Scientific"
+        "Scientific",
+        "Itcenter"
       ],
       "FavorItemTags": [
         "Toy",
@@ -695,7 +744,9 @@
     },
     {
       "Id": 26003,
-      "FavorTags": [],
+      "FavorTags": [
+        "Transport"
+      ],
       "FavorItemTags": [
         "Jellyz",
         "F_Serina",
@@ -737,6 +788,23 @@
         "Dessert",
         "Observational",
         "F_Nodoka",
+        "Gift1",
+        "Gift2"
+      ],
+      "ForbiddenTags": []
+    },
+    {
+      "Id": 23007,
+      "FavorTags": [
+        "Plaza",
+        "Campus",
+        "SchoolYard"
+      ],
+      "FavorItemTags": [
+        "Books",
+        "LoveStory",
+        "F_Hanako",
+        "Mystery",
         "Gift1",
         "Gift2"
       ],

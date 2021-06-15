@@ -311,6 +311,30 @@
       "ChapterRewardAmount": [
         250
       ]
+    },
+    {
+      "Id": 27,
+      "ChapterRewardParcelType": [
+        "Currency"
+      ],
+      "ChapterRewardId": [
+        3
+      ],
+      "ChapterRewardAmount": [
+        200
+      ]
+    },
+    {
+      "Id": 28,
+      "ChapterRewardParcelType": [
+        "Currency"
+      ],
+      "ChapterRewardId": [
+        3
+      ],
+      "ChapterRewardAmount": [
+        250
+      ]
     }
   ]
 }

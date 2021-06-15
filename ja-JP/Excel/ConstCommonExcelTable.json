@@ -76,7 +76,7 @@
       "EventStrategyPlayTimeLimitInSeconds": 86400,
       "WeekDungoenTacticPlayTimeLimitInSeconds": 86400,
       "RaidTacticPlayTimeLimitInSeconds": 86400,
-      "RaidOpponentListAmount": 100,
+      "RaidOpponentListAmount": 30,
       "CraftBaseGoldRequired": [
         2000,
         5000,
@@ -120,7 +120,14 @@
       "FormationCollider03SizeZ": 1000,
       "ShowFurnitureTag": false,
       "CafeSummonCoolTimeFromHour": 20,
-      "EventContentBoxGachaPurchaseMaxCount": 10
+      "LimitedStageDailyClearCount": 5,
+      "LimitedStageEntryTimeLimit": 29000,
+      "LimitedStageEntryTimeBuffer": 200,
+      "LimitedStagePointAmount": 500,
+      "LimitedStagePointPerApMin": 3,
+      "LimitedStagePointPerApMax": 7,
+      "AccountLinkReward": 360,
+      "MonthlyProductCheckDays": 7
     }
   ]
 }

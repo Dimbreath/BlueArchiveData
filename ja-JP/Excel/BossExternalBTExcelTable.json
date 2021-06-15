@@ -641,6 +641,166 @@
       "BehaviorArgument": "0"
     },
     {
+      "CharacterId": 7300500,
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "HPUnder",
+      "TriggerArgument": "3500000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7300500,
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "HPUnder",
+      "TriggerArgument": "1000000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7300500,
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7300500,
+      "AIPhase": 0,
+      "ExternalBTNodeType": "SubNode",
+      "ExternalBTTrigger": "None",
+      "TriggerArgument": null,
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7300500,
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7300500,
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "10"
+    },
+    {
+      "CharacterId": 7300500,
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckActiveGaugeOver",
+      "TriggerArgument": "100",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7300500,
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "HPUnder",
+      "TriggerArgument": "1000000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ChangePhase",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7300500,
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7300500,
+      "AIPhase": 0,
+      "ExternalBTNodeType": "SubNode",
+      "ExternalBTTrigger": "None",
+      "TriggerArgument": null,
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7300500,
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7300500,
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1000",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "30"
+    },
+    {
+      "CharacterId": 7300500,
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckActiveGaugeOver",
+      "TriggerArgument": "100",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
+    },
+    {
+      "CharacterId": 7300500,
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7300500,
+      "AIPhase": 0,
+      "ExternalBTNodeType": "SubNode",
+      "ExternalBTTrigger": "None",
+      "TriggerArgument": null,
+      "BehaviorRate": 5000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7300500,
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Sequence",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
       "CharacterId": 7301100,
       "AIPhase": 0,
       "ExternalBTNodeType": "Instant",
@@ -8385,30 +8545,10 @@
       "AIPhase": 0,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "HPUnder",
-      "TriggerArgument": "160000",
+      "TriggerArgument": "200000",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "1"
-    },
-    {
-      "CharacterId": 7303100,
-      "AIPhase": 0,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7303100,
-      "AIPhase": 0,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
     },
     {
       "CharacterId": 7303100,
@@ -8426,9 +8566,19 @@
       "ExternalBTNodeType": "Selector",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
-      "BehaviorRate": 2500,
+      "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7303100,
+      "AIPhase": 0,
+      "ExternalBTNodeType": "SubNode",
+      "ExternalBTTrigger": "None",
+      "TriggerArgument": null,
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
     },
     {
       "CharacterId": 7303100,
@@ -8453,22 +8603,12 @@
     {
       "CharacterId": 7303100,
       "AIPhase": 1,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1000",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7303100,
-      "AIPhase": 1,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "1"
     },
     {
       "CharacterId": 7303100,
@@ -8485,8 +8625,8 @@
       "AIPhase": 1,
       "ExternalBTNodeType": "Selector",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
-      "BehaviorRate": 3500,
+      "TriggerArgument": "4",
+      "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "1"
     },
@@ -8496,7 +8636,7 @@
       "ExternalBTNodeType": "SubNode",
       "ExternalBTTrigger": "None",
       "TriggerArgument": null,
-      "BehaviorRate": 2500,
+      "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
     },
@@ -8515,7 +8655,7 @@
       "AIPhase": 1,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
+      "TriggerArgument": "4",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ClearNormalSkill",
       "BehaviorArgument": "0"
@@ -8525,30 +8665,10 @@
       "AIPhase": 0,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "HPUnder",
-      "TriggerArgument": "320000",
+      "TriggerArgument": "450000",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "1"
-    },
-    {
-      "CharacterId": 7303200,
-      "AIPhase": 0,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7303200,
-      "AIPhase": 0,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
     },
     {
       "CharacterId": 7303200,
@@ -8566,9 +8686,19 @@
       "ExternalBTNodeType": "Selector",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
-      "BehaviorRate": 2500,
+      "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7303200,
+      "AIPhase": 0,
+      "ExternalBTNodeType": "SubNode",
+      "ExternalBTTrigger": "None",
+      "TriggerArgument": null,
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
     },
     {
       "CharacterId": 7303200,
@@ -8593,22 +8723,12 @@
     {
       "CharacterId": 7303200,
       "AIPhase": 1,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1000",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7303200,
-      "AIPhase": 1,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "1"
     },
     {
       "CharacterId": 7303200,
@@ -8625,8 +8745,8 @@
       "AIPhase": 1,
       "ExternalBTNodeType": "Selector",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
-      "BehaviorRate": 3500,
+      "TriggerArgument": "4",
+      "BehaviorRate": 5500,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "1"
     },
@@ -8636,7 +8756,7 @@
       "ExternalBTNodeType": "SubNode",
       "ExternalBTTrigger": "None",
       "TriggerArgument": null,
-      "BehaviorRate": 2500,
+      "BehaviorRate": 5500,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
     },
@@ -8655,7 +8775,7 @@
       "AIPhase": 1,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
+      "TriggerArgument": "4",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ClearNormalSkill",
       "BehaviorArgument": "0"
@@ -8665,30 +8785,10 @@
       "AIPhase": 0,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "HPUnder",
-      "TriggerArgument": "520000",
+      "TriggerArgument": "675000",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "1"
-    },
-    {
-      "CharacterId": 7303300,
-      "AIPhase": 0,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7303300,
-      "AIPhase": 0,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
     },
     {
       "CharacterId": 7303300,
@@ -8706,9 +8806,19 @@
       "ExternalBTNodeType": "Selector",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
-      "BehaviorRate": 2500,
+      "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7303300,
+      "AIPhase": 0,
+      "ExternalBTNodeType": "SubNode",
+      "ExternalBTTrigger": "None",
+      "TriggerArgument": null,
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
     },
     {
       "CharacterId": 7303300,
@@ -8733,22 +8843,12 @@
     {
       "CharacterId": 7303300,
       "AIPhase": 1,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1000",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7303300,
-      "AIPhase": 1,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "1"
     },
     {
       "CharacterId": 7303300,
@@ -8765,8 +8865,8 @@
       "AIPhase": 1,
       "ExternalBTNodeType": "Selector",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
-      "BehaviorRate": 3500,
+      "TriggerArgument": "4",
+      "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "1"
     },
@@ -8776,7 +8876,7 @@
       "ExternalBTNodeType": "SubNode",
       "ExternalBTTrigger": "None",
       "TriggerArgument": null,
-      "BehaviorRate": 2500,
+      "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
     },
@@ -8795,7 +8895,7 @@
       "AIPhase": 1,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
+      "TriggerArgument": "4",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ClearNormalSkill",
       "BehaviorArgument": "0"
@@ -8805,30 +8905,10 @@
       "AIPhase": 0,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "HPUnder",
-      "TriggerArgument": "760000",
+      "TriggerArgument": "1250000",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "1"
-    },
-    {
-      "CharacterId": 7303400,
-      "AIPhase": 0,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7303400,
-      "AIPhase": 0,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
     },
     {
       "CharacterId": 7303400,
@@ -8846,9 +8926,19 @@
       "ExternalBTNodeType": "Selector",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
-      "BehaviorRate": 2500,
+      "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7303400,
+      "AIPhase": 0,
+      "ExternalBTNodeType": "SubNode",
+      "ExternalBTTrigger": "None",
+      "TriggerArgument": null,
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
     },
     {
       "CharacterId": 7303400,
@@ -8873,22 +8963,12 @@
     {
       "CharacterId": 7303400,
       "AIPhase": 1,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1000",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7303400,
-      "AIPhase": 1,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "1"
     },
     {
       "CharacterId": 7303400,
@@ -8905,8 +8985,8 @@
       "AIPhase": 1,
       "ExternalBTNodeType": "Selector",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
-      "BehaviorRate": 3500,
+      "TriggerArgument": "4",
+      "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "1"
     },
@@ -8916,7 +8996,7 @@
       "ExternalBTNodeType": "SubNode",
       "ExternalBTTrigger": "None",
       "TriggerArgument": null,
-      "BehaviorRate": 2500,
+      "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
     },
@@ -8935,7 +9015,7 @@
       "AIPhase": 1,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
+      "TriggerArgument": "4",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ClearNormalSkill",
       "BehaviorArgument": "0"
@@ -8945,30 +9025,10 @@
       "AIPhase": 0,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "HPUnder",
-      "TriggerArgument": "1060000",
+      "TriggerArgument": "3000000",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "1"
-    },
-    {
-      "CharacterId": 7303500,
-      "AIPhase": 0,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7303500,
-      "AIPhase": 0,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
     },
     {
       "CharacterId": 7303500,
@@ -8986,9 +9046,19 @@
       "ExternalBTNodeType": "Selector",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
-      "BehaviorRate": 2500,
+      "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "1"
+    },
+    {
+      "CharacterId": 7303500,
+      "AIPhase": 0,
+      "ExternalBTNodeType": "SubNode",
+      "ExternalBTTrigger": "None",
+      "TriggerArgument": null,
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
     },
     {
       "CharacterId": 7303500,
@@ -9013,22 +9083,12 @@
     {
       "CharacterId": 7303500,
       "AIPhase": 1,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
+      "ExternalBTNodeType": "Selector",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1000",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "UseSelectExSkill",
-      "BehaviorArgument": "0"
-    },
-    {
-      "CharacterId": 7303500,
-      "AIPhase": 1,
-      "ExternalBTNodeType": "Instant",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
+      "ExternalBehavior": "AddActiveGauge",
+      "BehaviorArgument": "1"
     },
     {
       "CharacterId": 7303500,
@@ -9045,8 +9105,8 @@
       "AIPhase": 1,
       "ExternalBTNodeType": "Selector",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
-      "BehaviorRate": 3500,
+      "TriggerArgument": "4",
+      "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "1"
     },
@@ -9056,7 +9116,7 @@
       "ExternalBTNodeType": "SubNode",
       "ExternalBTTrigger": "None",
       "TriggerArgument": null,
-      "BehaviorRate": 2500,
+      "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
     },
@@ -9075,7 +9135,7 @@
       "AIPhase": 1,
       "ExternalBTNodeType": "Sequence",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "2",
+      "TriggerArgument": "4",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ClearNormalSkill",
       "BehaviorArgument": "0"
@@ -9133,7 +9193,17 @@
     {
       "CharacterId": 7402100,
       "AIPhase": 0,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402100,
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
@@ -9143,11 +9213,11 @@
     {
       "CharacterId": 7402100,
       "AIPhase": 0,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "6",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
+      "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "0"
     },
     {
@@ -9204,6 +9274,16 @@
       "CharacterId": 7402100,
       "AIPhase": 1,
       "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402100,
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
@@ -9213,12 +9293,12 @@
     {
       "CharacterId": 7402100,
       "AIPhase": 1,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "6",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "4"
     },
     {
       "CharacterId": 7402100,
@@ -9277,15 +9357,25 @@
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402100,
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
       "ExternalBehavior": "MoveRight",
       "BehaviorArgument": "-3.2,32.06"
     },
     {
       "CharacterId": 7402100,
       "AIPhase": 2,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "5",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "1"
@@ -9293,12 +9383,12 @@
     {
       "CharacterId": 7402100,
       "AIPhase": 2,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "8",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "1"
     },
     {
       "CharacterId": 7402100,
@@ -9354,21 +9444,21 @@
       "CharacterId": 7402100,
       "AIPhase": 3,
       "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402100,
+      "AIPhase": 3,
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "3"
-    },
-    {
-      "CharacterId": 7402100,
-      "AIPhase": 3,
-      "ExternalBTNodeType": "Sequence",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
     },
     {
       "CharacterId": 7402100,
@@ -9427,15 +9517,25 @@
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402100,
+      "AIPhase": 4,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
       "ExternalBehavior": "MoveLeft",
       "BehaviorArgument": "3.6,32.06"
     },
     {
       "CharacterId": 7402100,
       "AIPhase": 4,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "5",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -9443,12 +9543,12 @@
     {
       "CharacterId": 7402100,
       "AIPhase": 4,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "8",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
     },
     {
       "CharacterId": 7402100,
@@ -9494,6 +9594,16 @@
       "CharacterId": 7402100,
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402100,
+      "AIPhase": 5,
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
@@ -9505,7 +9615,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "4",
+      "TriggerArgument": "5",
       "BehaviorRate": 10000,
       "ExternalBehavior": "MoveRight",
       "BehaviorArgument": "0.1,32.06"
@@ -9515,7 +9625,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "7",
+      "TriggerArgument": "8",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -9525,7 +9635,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "10",
+      "TriggerArgument": "11",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -9535,7 +9645,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "13",
+      "TriggerArgument": "14",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -9545,7 +9655,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "16",
+      "TriggerArgument": "17",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -9555,7 +9665,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "19",
+      "TriggerArgument": "20",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -9565,7 +9675,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "22",
+      "TriggerArgument": "23",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -9575,7 +9685,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "25",
+      "TriggerArgument": "26",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -9585,7 +9695,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "28",
+      "TriggerArgument": "29",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -9595,7 +9705,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "31",
+      "TriggerArgument": "32",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -9605,7 +9715,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "34",
+      "TriggerArgument": "35",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -9677,6 +9787,16 @@
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402100,
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
       "ExternalBehavior": "MoveLeft",
       "BehaviorArgument": "3.6,32.06"
     },
@@ -9685,7 +9805,7 @@
       "AIPhase": 6,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "5",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "0"
@@ -9695,7 +9815,7 @@
       "AIPhase": 6,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "6",
+      "TriggerArgument": "8",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "0"
@@ -9705,7 +9825,7 @@
       "AIPhase": 6,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "9",
+      "TriggerArgument": "11",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "5"
@@ -10273,7 +10393,17 @@
     {
       "CharacterId": 7402200,
       "AIPhase": 0,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402200,
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
@@ -10283,11 +10413,11 @@
     {
       "CharacterId": 7402200,
       "AIPhase": 0,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "6",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
+      "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "0"
     },
     {
@@ -10344,6 +10474,16 @@
       "CharacterId": 7402200,
       "AIPhase": 1,
       "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402200,
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
@@ -10353,12 +10493,12 @@
     {
       "CharacterId": 7402200,
       "AIPhase": 1,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "6",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "4"
     },
     {
       "CharacterId": 7402200,
@@ -10417,15 +10557,25 @@
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402200,
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
       "ExternalBehavior": "MoveRight",
       "BehaviorArgument": "-3.2,32.06"
     },
     {
       "CharacterId": 7402200,
       "AIPhase": 2,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "5",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "1"
@@ -10433,12 +10583,12 @@
     {
       "CharacterId": 7402200,
       "AIPhase": 2,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "8",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "1"
     },
     {
       "CharacterId": 7402200,
@@ -10494,21 +10644,21 @@
       "CharacterId": 7402200,
       "AIPhase": 3,
       "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402200,
+      "AIPhase": 3,
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "3"
-    },
-    {
-      "CharacterId": 7402200,
-      "AIPhase": 3,
-      "ExternalBTNodeType": "Sequence",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
     },
     {
       "CharacterId": 7402200,
@@ -10567,15 +10717,25 @@
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402200,
+      "AIPhase": 4,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
       "ExternalBehavior": "MoveLeft",
       "BehaviorArgument": "3.6,32.06"
     },
     {
       "CharacterId": 7402200,
       "AIPhase": 4,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "5",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -10583,12 +10743,12 @@
     {
       "CharacterId": 7402200,
       "AIPhase": 4,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "8",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
     },
     {
       "CharacterId": 7402200,
@@ -10634,6 +10794,16 @@
       "CharacterId": 7402200,
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402200,
+      "AIPhase": 5,
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
@@ -10645,7 +10815,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "4",
+      "TriggerArgument": "5",
       "BehaviorRate": 10000,
       "ExternalBehavior": "MoveRight",
       "BehaviorArgument": "0.1,32.06"
@@ -10655,7 +10825,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "7",
+      "TriggerArgument": "8",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -10665,7 +10835,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "10",
+      "TriggerArgument": "11",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -10675,7 +10845,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "13",
+      "TriggerArgument": "14",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -10685,7 +10855,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "16",
+      "TriggerArgument": "17",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -10695,7 +10865,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "19",
+      "TriggerArgument": "20",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -10705,7 +10875,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "22",
+      "TriggerArgument": "23",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -10715,7 +10885,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "25",
+      "TriggerArgument": "26",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -10725,7 +10895,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "28",
+      "TriggerArgument": "29",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -10735,7 +10905,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "31",
+      "TriggerArgument": "32",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -10745,7 +10915,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "34",
+      "TriggerArgument": "35",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -10817,6 +10987,16 @@
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402200,
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
       "ExternalBehavior": "MoveLeft",
       "BehaviorArgument": "3.6,32.06"
     },
@@ -10825,7 +11005,7 @@
       "AIPhase": 6,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "5",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "0"
@@ -10835,7 +11015,7 @@
       "AIPhase": 6,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "6",
+      "TriggerArgument": "8",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "0"
@@ -10845,7 +11025,7 @@
       "AIPhase": 6,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "9",
+      "TriggerArgument": "11",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "5"
@@ -11413,7 +11593,17 @@
     {
       "CharacterId": 7402300,
       "AIPhase": 0,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402300,
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
@@ -11423,11 +11613,11 @@
     {
       "CharacterId": 7402300,
       "AIPhase": 0,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "6",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
+      "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "0"
     },
     {
@@ -11484,6 +11674,16 @@
       "CharacterId": 7402300,
       "AIPhase": 1,
       "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402300,
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
@@ -11493,12 +11693,12 @@
     {
       "CharacterId": 7402300,
       "AIPhase": 1,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "6",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "4"
     },
     {
       "CharacterId": 7402300,
@@ -11557,15 +11757,25 @@
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402300,
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
       "ExternalBehavior": "MoveRight",
       "BehaviorArgument": "-3.2,32.06"
     },
     {
       "CharacterId": 7402300,
       "AIPhase": 2,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "5",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "1"
@@ -11573,12 +11783,12 @@
     {
       "CharacterId": 7402300,
       "AIPhase": 2,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "8",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "1"
     },
     {
       "CharacterId": 7402300,
@@ -11634,21 +11844,21 @@
       "CharacterId": 7402300,
       "AIPhase": 3,
       "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402300,
+      "AIPhase": 3,
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "3"
-    },
-    {
-      "CharacterId": 7402300,
-      "AIPhase": 3,
-      "ExternalBTNodeType": "Sequence",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
     },
     {
       "CharacterId": 7402300,
@@ -11707,15 +11917,25 @@
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402300,
+      "AIPhase": 4,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
       "ExternalBehavior": "MoveLeft",
       "BehaviorArgument": "3.6,32.06"
     },
     {
       "CharacterId": 7402300,
       "AIPhase": 4,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "5",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -11723,12 +11943,12 @@
     {
       "CharacterId": 7402300,
       "AIPhase": 4,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "8",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
     },
     {
       "CharacterId": 7402300,
@@ -11774,6 +11994,16 @@
       "CharacterId": 7402300,
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402300,
+      "AIPhase": 5,
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
@@ -11785,7 +12015,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "4",
+      "TriggerArgument": "5",
       "BehaviorRate": 10000,
       "ExternalBehavior": "MoveRight",
       "BehaviorArgument": "0.1,32.06"
@@ -11795,7 +12025,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "7",
+      "TriggerArgument": "8",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -11805,7 +12035,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "10",
+      "TriggerArgument": "11",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -11815,7 +12045,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "13",
+      "TriggerArgument": "14",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -11825,7 +12055,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "16",
+      "TriggerArgument": "17",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -11835,7 +12065,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "19",
+      "TriggerArgument": "20",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -11845,7 +12075,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "22",
+      "TriggerArgument": "23",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -11855,7 +12085,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "25",
+      "TriggerArgument": "26",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -11865,7 +12095,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "28",
+      "TriggerArgument": "29",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -11875,7 +12105,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "31",
+      "TriggerArgument": "32",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -11885,7 +12115,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "34",
+      "TriggerArgument": "35",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -11957,6 +12187,16 @@
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402300,
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
       "ExternalBehavior": "MoveLeft",
       "BehaviorArgument": "3.6,32.06"
     },
@@ -11965,7 +12205,7 @@
       "AIPhase": 6,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "5",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "0"
@@ -11975,7 +12215,7 @@
       "AIPhase": 6,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "6",
+      "TriggerArgument": "8",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "0"
@@ -11985,7 +12225,7 @@
       "AIPhase": 6,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "9",
+      "TriggerArgument": "11",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "5"
@@ -12553,7 +12793,17 @@
     {
       "CharacterId": 7402400,
       "AIPhase": 0,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402400,
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
@@ -12563,11 +12813,11 @@
     {
       "CharacterId": 7402400,
       "AIPhase": 0,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "6",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
+      "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "0"
     },
     {
@@ -12624,6 +12874,16 @@
       "CharacterId": 7402400,
       "AIPhase": 1,
       "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402400,
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
@@ -12633,12 +12893,12 @@
     {
       "CharacterId": 7402400,
       "AIPhase": 1,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "6",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "4"
     },
     {
       "CharacterId": 7402400,
@@ -12697,15 +12957,25 @@
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402400,
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
       "ExternalBehavior": "MoveRight",
       "BehaviorArgument": "-3.2,32.06"
     },
     {
       "CharacterId": 7402400,
       "AIPhase": 2,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "5",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "1"
@@ -12713,12 +12983,12 @@
     {
       "CharacterId": 7402400,
       "AIPhase": 2,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "8",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "1"
     },
     {
       "CharacterId": 7402400,
@@ -12774,21 +13044,21 @@
       "CharacterId": 7402400,
       "AIPhase": 3,
       "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402400,
+      "AIPhase": 3,
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "3"
-    },
-    {
-      "CharacterId": 7402400,
-      "AIPhase": 3,
-      "ExternalBTNodeType": "Sequence",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
     },
     {
       "CharacterId": 7402400,
@@ -12847,15 +13117,25 @@
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402400,
+      "AIPhase": 4,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
       "ExternalBehavior": "MoveLeft",
       "BehaviorArgument": "3.6,32.06"
     },
     {
       "CharacterId": 7402400,
       "AIPhase": 4,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "5",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -12863,12 +13143,12 @@
     {
       "CharacterId": 7402400,
       "AIPhase": 4,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "8",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
     },
     {
       "CharacterId": 7402400,
@@ -12914,6 +13194,16 @@
       "CharacterId": 7402400,
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402400,
+      "AIPhase": 5,
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
@@ -12925,7 +13215,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "4",
+      "TriggerArgument": "5",
       "BehaviorRate": 10000,
       "ExternalBehavior": "MoveRight",
       "BehaviorArgument": "0.1,32.06"
@@ -12935,7 +13225,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "7",
+      "TriggerArgument": "8",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -12945,7 +13235,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "10",
+      "TriggerArgument": "11",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -12955,7 +13245,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "13",
+      "TriggerArgument": "14",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -12965,7 +13255,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "16",
+      "TriggerArgument": "17",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -12975,7 +13265,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "19",
+      "TriggerArgument": "20",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -12985,7 +13275,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "22",
+      "TriggerArgument": "23",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -12995,7 +13285,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "25",
+      "TriggerArgument": "26",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -13005,7 +13295,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "28",
+      "TriggerArgument": "29",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -13015,7 +13305,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "31",
+      "TriggerArgument": "32",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -13025,7 +13315,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "34",
+      "TriggerArgument": "35",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -13097,6 +13387,16 @@
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402400,
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
       "ExternalBehavior": "MoveLeft",
       "BehaviorArgument": "3.6,32.06"
     },
@@ -13105,7 +13405,7 @@
       "AIPhase": 6,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "5",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "0"
@@ -13115,7 +13415,7 @@
       "AIPhase": 6,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "6",
+      "TriggerArgument": "8",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "0"
@@ -13125,7 +13425,7 @@
       "AIPhase": 6,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "9",
+      "TriggerArgument": "11",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "5"
@@ -13693,7 +13993,17 @@
     {
       "CharacterId": 7402500,
       "AIPhase": 0,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402500,
+      "AIPhase": 0,
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
@@ -13703,11 +14013,11 @@
     {
       "CharacterId": 7402500,
       "AIPhase": 0,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "6",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
+      "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "0"
     },
     {
@@ -13764,6 +14074,16 @@
       "CharacterId": 7402500,
       "AIPhase": 1,
       "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402500,
+      "AIPhase": 1,
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
@@ -13773,12 +14093,12 @@
     {
       "CharacterId": 7402500,
       "AIPhase": 1,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "6",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "4"
     },
     {
       "CharacterId": 7402500,
@@ -13837,15 +14157,25 @@
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402500,
+      "AIPhase": 2,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
       "ExternalBehavior": "MoveRight",
       "BehaviorArgument": "-3.2,32.06"
     },
     {
       "CharacterId": 7402500,
       "AIPhase": 2,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "5",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "1"
@@ -13853,12 +14183,12 @@
     {
       "CharacterId": 7402500,
       "AIPhase": 2,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "8",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "1"
     },
     {
       "CharacterId": 7402500,
@@ -13914,21 +14244,21 @@
       "CharacterId": 7402500,
       "AIPhase": 3,
       "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402500,
+      "AIPhase": 3,
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "3"
-    },
-    {
-      "CharacterId": 7402500,
-      "AIPhase": 3,
-      "ExternalBTNodeType": "Sequence",
-      "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
-      "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
     },
     {
       "CharacterId": 7402500,
@@ -13987,15 +14317,25 @@
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402500,
+      "AIPhase": 4,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
       "ExternalBehavior": "MoveLeft",
       "BehaviorArgument": "3.6,32.06"
     },
     {
       "CharacterId": 7402500,
       "AIPhase": 4,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "5",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -14003,12 +14343,12 @@
     {
       "CharacterId": 7402500,
       "AIPhase": 4,
-      "ExternalBTNodeType": "Sequence",
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "8",
       "BehaviorRate": 10000,
-      "ExternalBehavior": "ClearNormalSkill",
-      "BehaviorArgument": "0"
+      "ExternalBehavior": "UseSelectExSkill",
+      "BehaviorArgument": "2"
     },
     {
       "CharacterId": 7402500,
@@ -14054,6 +14394,16 @@
       "CharacterId": 7402500,
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "CheckPeriod",
+      "TriggerArgument": "1",
+      "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402500,
+      "AIPhase": 5,
+      "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
       "TriggerArgument": "3",
       "BehaviorRate": 10000,
@@ -14065,7 +14415,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "4",
+      "TriggerArgument": "5",
       "BehaviorRate": 10000,
       "ExternalBehavior": "MoveRight",
       "BehaviorArgument": "0.1,32.06"
@@ -14075,7 +14425,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "7",
+      "TriggerArgument": "8",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -14085,7 +14435,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "10",
+      "TriggerArgument": "11",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -14095,7 +14445,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "13",
+      "TriggerArgument": "14",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -14105,7 +14455,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "16",
+      "TriggerArgument": "17",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -14115,7 +14465,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "19",
+      "TriggerArgument": "20",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -14125,7 +14475,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "22",
+      "TriggerArgument": "23",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -14135,7 +14485,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "25",
+      "TriggerArgument": "26",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -14145,7 +14495,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "28",
+      "TriggerArgument": "29",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -14155,7 +14505,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "31",
+      "TriggerArgument": "32",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -14165,7 +14515,7 @@
       "AIPhase": 5,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "34",
+      "TriggerArgument": "35",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "2"
@@ -14237,6 +14587,16 @@
       "ExternalBTTrigger": "CheckPeriod",
       "TriggerArgument": "1",
       "BehaviorRate": 10000,
+      "ExternalBehavior": "ClearNormalSkill",
+      "BehaviorArgument": "0"
+    },
+    {
+      "CharacterId": 7402500,
+      "AIPhase": 6,
+      "ExternalBTNodeType": "Instant",
+      "ExternalBTTrigger": "UseNormalSkill",
+      "TriggerArgument": "2",
+      "BehaviorRate": 10000,
       "ExternalBehavior": "MoveLeft",
       "BehaviorArgument": "3.6,32.06"
     },
@@ -14245,7 +14605,7 @@
       "AIPhase": 6,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "3",
+      "TriggerArgument": "5",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "0"
@@ -14255,7 +14615,7 @@
       "AIPhase": 6,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "6",
+      "TriggerArgument": "8",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "0"
@@ -14265,7 +14625,7 @@
       "AIPhase": 6,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "UseNormalSkill",
-      "TriggerArgument": "9",
+      "TriggerArgument": "11",
       "BehaviorRate": 10000,
       "ExternalBehavior": "UseSelectExSkill",
       "BehaviorArgument": "5"
@@ -14275,7 +14635,7 @@
       "AIPhase": 0,
       "ExternalBTNodeType": "Instant",
       "ExternalBTTrigger": "HPUnder",
-      "TriggerArgument": "6999999",
+      "TriggerArgument": "4499999",
       "BehaviorRate": 10000,
       "ExternalBehavior": "ChangePhase",
       "BehaviorArgument": "7"

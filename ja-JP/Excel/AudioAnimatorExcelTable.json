@@ -3872,7 +3872,7 @@
     },
     {
       "ControllerNameHash": 1934449310,
-      "VoiceNamePrefix": "Shun01",
+      "VoiceNamePrefix": "Shun",
       "StateNameHash": 1047306432,
       "StateName": "Base Layer.VitalDyingIng",
       "IgnoreInterruptDelay": false,
@@ -3887,7 +3887,7 @@
     },
     {
       "ControllerNameHash": 1934449310,
-      "VoiceNamePrefix": "Shun01",
+      "VoiceNamePrefix": "Shun",
       "StateNameHash": 4198288525,
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
@@ -3906,7 +3906,7 @@
     },
     {
       "ControllerNameHash": 1934449310,
-      "VoiceNamePrefix": "Shun01",
+      "VoiceNamePrefix": "Shun",
       "StateNameHash": 2495071527,
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
@@ -3924,7 +3924,7 @@
     },
     {
       "ControllerNameHash": 1934449310,
-      "VoiceNamePrefix": "Shun01",
+      "VoiceNamePrefix": "Shun",
       "StateNameHash": 199563541,
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
@@ -3943,7 +3943,7 @@
     },
     {
       "ControllerNameHash": 1934449310,
-      "VoiceNamePrefix": "Shun01",
+      "VoiceNamePrefix": "Shun",
       "StateNameHash": 3226339727,
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,
@@ -3961,7 +3961,7 @@
     },
     {
       "ControllerNameHash": 2322724829,
-      "VoiceNamePrefix": "Shun02",
+      "VoiceNamePrefix": "Shun",
       "StateNameHash": 1047306432,
       "StateName": "Base Layer.VitalDyingIng",
       "IgnoreInterruptDelay": false,
@@ -3976,7 +3976,7 @@
     },
     {
       "ControllerNameHash": 2322724829,
-      "VoiceNamePrefix": "Shun02",
+      "VoiceNamePrefix": "Shun",
       "StateNameHash": 4198288525,
       "StateName": "Base Layer.Normal.AttackIng",
       "IgnoreInterruptDelay": false,
@@ -3995,7 +3995,7 @@
     },
     {
       "ControllerNameHash": 2322724829,
-      "VoiceNamePrefix": "Shun02",
+      "VoiceNamePrefix": "Shun",
       "StateNameHash": 2495071527,
       "StateName": "Base Layer.Normal.Reload",
       "IgnoreInterruptDelay": false,
@@ -4013,7 +4013,7 @@
     },
     {
       "ControllerNameHash": 2322724829,
-      "VoiceNamePrefix": "Shun02",
+      "VoiceNamePrefix": "Shun",
       "StateNameHash": 199563541,
       "StateName": "Base Layer.Kneel.AttackIng",
       "IgnoreInterruptDelay": false,
@@ -4032,7 +4032,7 @@
     },
     {
       "ControllerNameHash": 2322724829,
-      "VoiceNamePrefix": "Shun02",
+      "VoiceNamePrefix": "Shun",
       "StateNameHash": 3226339727,
       "StateName": "Base Layer.Kneel.Reload",
       "IgnoreInterruptDelay": false,

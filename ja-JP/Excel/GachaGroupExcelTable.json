@@ -560,25 +560,25 @@
     },
     {
       "ID": 20004,
-      "NameKr": "아비도스/밀레니엄/백귀야행_ExSkillbook_0",
+      "NameKr": "아비도스/밀레니엄/백귀야행/붉은겨울_ExSkillbook_0",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
       "ID": 20005,
-      "NameKr": "아비도스/밀레니엄/백귀야행_ExSkillbook_1",
+      "NameKr": "아비도스/밀레니엄/백귀야행/붉은겨울_ExSkillbook_1",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
       "ID": 20006,
-      "NameKr": "아비도스/밀레니엄/백귀야행_ExSkillbook_2",
+      "NameKr": "아비도스/밀레니엄/백귀야행/붉은겨울_ExSkillbook_2",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
       "ID": 20007,
-      "NameKr": "아비도스/밀레니엄/백귀야행_ExSkillbook_3",
+      "NameKr": "아비도스/밀레니엄/백귀야행/붉은겨울_ExSkillbook_3",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -608,25 +608,61 @@
     },
     {
       "ID": 21004,
-      "NameKr": "아비도스/밀레니엄/백귀야행_Skillbook_0",
+      "NameKr": "아비도스/밀레니엄/백귀야행/붉은겨울_Skillbook_0",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
       "ID": 21005,
-      "NameKr": "아비도스/밀레니엄/백귀야행_Skillbook_1",
+      "NameKr": "아비도스/밀레니엄/백귀야행/붉은겨울_Skillbook_1",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
       "ID": 21006,
-      "NameKr": "아비도스/밀레니엄/백귀야행_Skillbook_2",
+      "NameKr": "아비도스/밀레니엄/백귀야행/붉은겨울_Skillbook_2",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
       "ID": 21007,
-      "NameKr": "아비도스/밀레니엄/백귀야행_Skillbook_3",
+      "NameKr": "아비도스/밀레니엄/백귀야행/붉은겨울_Skillbook_3",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 60000,
+      "NameKr": "스케쥴 - 게헨나 5레벨 일반 스킬북",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 60001,
+      "NameKr": "스케쥴 - 게헨나 6레벨 일반 스킬북",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 60010,
+      "NameKr": "스케쥴 - 아비도스 5레벨 일반 스킬북",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 60011,
+      "NameKr": "스케쥴 - 아비도스 6레벨 일반 스킬북",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 60020,
+      "NameKr": "스케쥴 - 밀레니엄 5레벨 일반 스킬북",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 60021,
+      "NameKr": "스케쥴 - 밀레니엄 6레벨 일반 스킬북",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -668,13 +704,13 @@
     },
     {
       "ID": 100022,
-      "NameKr": "1차 픽업 SR 더미",
+      "NameKr": "1차 픽업 하나코",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
     {
       "ID": 100023,
-      "NameKr": "1차 픽업 체리노",
+      "NameKr": "1차 픽업 아즈사",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
@@ -716,7 +752,7 @@
     },
     {
       "ID": 100043,
-      "NameKr": "2차 픽업 유즈",
+      "NameKr": "2차 픽업 코하루",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },

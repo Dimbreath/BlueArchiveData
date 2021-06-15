@@ -1774,6 +1774,42 @@
       "IsDisplayed": true
     },
     {
+      "GroupId": 8031101,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8031101,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80000,
+      "RewardAmount": 50,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8031102,
+      "RewardTag": "FirstClear",
+      "RewardProb": 10000,
+      "RewardParcelType": "Currency",
+      "RewardId": 3,
+      "RewardAmount": 10,
+      "IsDisplayed": true
+    },
+    {
+      "GroupId": 8031102,
+      "RewardTag": "Event",
+      "RewardProb": 10000,
+      "RewardParcelType": "Item",
+      "RewardId": 80000,
+      "RewardAmount": 50,
+      "IsDisplayed": true
+    },
+    {
       "GroupId": 8999997,
       "RewardTag": "Default",
       "RewardProb": 10000,

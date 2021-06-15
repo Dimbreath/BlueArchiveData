@@ -445,6 +445,40 @@
         1132103
       ],
       "VeryHardCampaignStageId": []
+    },
+    {
+      "Id": 114,
+      "Name": "CHAPTER_14",
+      "NormalImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_14_Normal",
+      "HardImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_14_Hard",
+      "Order": 14,
+      "PreChapterId": [
+        113
+      ],
+      "ChapterRewardId": 27,
+      "ChapterHardRewardId": 28,
+      "ChapterVeryHardRewardId": 0,
+      "NormalCampaignStageId": [
+        1141101,
+        1141201,
+        1141202,
+        1141102,
+        1141203,
+        1141204,
+        1141103,
+        1141205,
+        1141206,
+        1141104,
+        1141207,
+        1141208,
+        1141105
+      ],
+      "HardCampaignStageId": [
+        1142101,
+        1142102,
+        1142103
+      ],
+      "VeryHardCampaignStageId": []
     }
   ]
 }

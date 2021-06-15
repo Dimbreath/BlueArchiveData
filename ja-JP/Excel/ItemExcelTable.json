@@ -26,7 +26,8 @@
       ],
       "CraftQuality": 10,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 2,
@@ -55,7 +56,8 @@
         "General",
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 3,
@@ -83,7 +85,8 @@
       ],
       "CraftQuality": 100,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 7,
@@ -109,7 +112,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 8,
@@ -135,7 +139,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 10,
@@ -166,7 +171,8 @@
       "ShopCategory": [
         "Arena"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 11,
@@ -197,7 +203,8 @@
       "ShopCategory": [
         "Arena"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 12,
@@ -228,7 +235,8 @@
       "ShopCategory": [
         "Arena"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 13,
@@ -259,7 +267,8 @@
       "ShopCategory": [
         "Arena"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 23,
@@ -285,7 +294,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 30,
@@ -311,7 +321,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 31,
@@ -337,7 +348,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 32,
@@ -363,7 +375,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 33,
@@ -389,7 +402,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 39,
@@ -415,7 +429,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 90,
@@ -443,7 +458,8 @@
       ],
       "CraftQuality": 10,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 91,
@@ -471,7 +487,8 @@
       ],
       "CraftQuality": 40,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 92,
@@ -499,7 +516,8 @@
       ],
       "CraftQuality": 150,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 100,
@@ -530,7 +548,8 @@
       "ShopCategory": [
         "General"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 101,
@@ -561,7 +580,8 @@
       "ShopCategory": [
         "General"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 102,
@@ -590,7 +610,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 103,
@@ -619,7 +640,8 @@
       ],
       "CraftQuality": 50,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 110,
@@ -650,7 +672,8 @@
       "ShopCategory": [
         "General"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 111,
@@ -681,7 +704,8 @@
       "ShopCategory": [
         "General"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 112,
@@ -710,7 +734,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 113,
@@ -739,7 +764,8 @@
       ],
       "CraftQuality": 50,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 120,
@@ -770,7 +796,8 @@
       "ShopCategory": [
         "General"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 121,
@@ -801,7 +828,8 @@
       "ShopCategory": [
         "General"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 122,
@@ -830,7 +858,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 123,
@@ -859,7 +888,8 @@
       ],
       "CraftQuality": 50,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 130,
@@ -890,7 +920,8 @@
       "ShopCategory": [
         "General"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 131,
@@ -921,7 +952,8 @@
       "ShopCategory": [
         "General"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 132,
@@ -950,7 +982,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 133,
@@ -979,7 +1012,8 @@
       ],
       "CraftQuality": 50,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 140,
@@ -1010,7 +1044,8 @@
       "ShopCategory": [
         "General"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 141,
@@ -1041,7 +1076,8 @@
       "ShopCategory": [
         "General"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 142,
@@ -1070,7 +1106,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 143,
@@ -1099,7 +1136,8 @@
       ],
       "CraftQuality": 50,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 150,
@@ -1130,7 +1168,8 @@
       "ShopCategory": [
         "General"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 151,
@@ -1161,7 +1200,8 @@
       "ShopCategory": [
         "General"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 152,
@@ -1190,7 +1230,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 153,
@@ -1219,7 +1260,8 @@
       ],
       "CraftQuality": 50,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 160,
@@ -1250,7 +1292,8 @@
       "ShopCategory": [
         "General"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 161,
@@ -1281,7 +1324,8 @@
       "ShopCategory": [
         "General"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 162,
@@ -1310,7 +1354,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 163,
@@ -1339,7 +1384,8 @@
       ],
       "CraftQuality": 50,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 170,
@@ -1370,7 +1416,8 @@
       "ShopCategory": [
         "General"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 171,
@@ -1401,7 +1448,8 @@
       "ShopCategory": [
         "General"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 172,
@@ -1430,7 +1478,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 173,
@@ -1459,7 +1508,8 @@
       ],
       "CraftQuality": 50,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 180,
@@ -1490,7 +1540,8 @@
       "ShopCategory": [
         "General"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 181,
@@ -1521,7 +1572,8 @@
       "ShopCategory": [
         "General"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 182,
@@ -1550,7 +1602,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 183,
@@ -1579,7 +1632,8 @@
       ],
       "CraftQuality": 50,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 190,
@@ -1610,7 +1664,8 @@
       "ShopCategory": [
         "General"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 191,
@@ -1641,7 +1696,8 @@
       "ShopCategory": [
         "General"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 192,
@@ -1670,7 +1726,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 193,
@@ -1699,7 +1756,8 @@
       ],
       "CraftQuality": 50,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 3000,
@@ -1730,7 +1788,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3001,
@@ -1761,7 +1820,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3002,
@@ -1792,7 +1852,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3003,
@@ -1823,7 +1884,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3010,
@@ -1854,7 +1916,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3011,
@@ -1885,7 +1948,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3012,
@@ -1916,7 +1980,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3013,
@@ -1947,7 +2012,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3020,
@@ -1978,7 +2044,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3021,
@@ -2009,7 +2076,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3022,
@@ -2040,7 +2108,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3023,
@@ -2071,7 +2140,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3030,
@@ -2102,7 +2172,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3031,
@@ -2133,7 +2204,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3032,
@@ -2164,7 +2236,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3033,
@@ -2195,7 +2268,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3040,
@@ -2226,7 +2300,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3041,
@@ -2257,7 +2332,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3042,
@@ -2288,7 +2364,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3043,
@@ -2319,7 +2396,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3050,
@@ -2350,7 +2428,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3051,
@@ -2381,7 +2460,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3052,
@@ -2412,7 +2492,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3053,
@@ -2443,7 +2524,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3060,
@@ -2474,7 +2556,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3061,
@@ -2505,7 +2588,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3062,
@@ -2536,7 +2620,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3063,
@@ -2567,7 +2652,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3070,
@@ -2598,7 +2684,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3071,
@@ -2629,7 +2716,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3072,
@@ -2660,7 +2748,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3073,
@@ -2691,7 +2780,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3080,
@@ -2722,7 +2812,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3081,
@@ -2753,7 +2844,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3082,
@@ -2784,7 +2876,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 3083,
@@ -2815,7 +2908,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4000,
@@ -2846,7 +2940,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4001,
@@ -2877,7 +2972,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4002,
@@ -2908,7 +3004,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4003,
@@ -2939,7 +3036,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4010,
@@ -2970,7 +3068,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4011,
@@ -3001,7 +3100,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4012,
@@ -3032,7 +3132,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4013,
@@ -3063,7 +3164,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4020,
@@ -3094,7 +3196,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4021,
@@ -3125,7 +3228,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4022,
@@ -3156,7 +3260,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4023,
@@ -3187,7 +3292,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4030,
@@ -3218,7 +3324,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4031,
@@ -3249,7 +3356,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4032,
@@ -3280,7 +3388,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4033,
@@ -3311,7 +3420,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4040,
@@ -3342,7 +3452,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4041,
@@ -3373,7 +3484,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4042,
@@ -3404,7 +3516,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4043,
@@ -3435,7 +3548,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4050,
@@ -3466,7 +3580,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4051,
@@ -3497,7 +3612,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4052,
@@ -3528,7 +3644,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4053,
@@ -3559,7 +3676,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4060,
@@ -3590,7 +3708,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4061,
@@ -3621,7 +3740,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4062,
@@ -3652,7 +3772,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4063,
@@ -3683,7 +3804,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4070,
@@ -3714,7 +3836,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4071,
@@ -3745,7 +3868,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4072,
@@ -3776,7 +3900,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4073,
@@ -3807,7 +3932,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4080,
@@ -3838,7 +3964,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4081,
@@ -3869,7 +3996,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4082,
@@ -3900,7 +4028,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 4083,
@@ -3931,7 +4060,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 10
     },
     {
       "Id": 5000,
@@ -3962,7 +4092,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5001,
@@ -3994,7 +4125,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5002,
@@ -4025,7 +4157,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5003,
@@ -4052,11 +4185,13 @@
         "FavorItem",
         "Books",
         "LoveStory",
-        "F_Tsurugi"
+        "F_Tsurugi",
+        "F_Koharu"
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5004,
@@ -4088,7 +4223,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5005,
@@ -4119,7 +4255,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5006,
@@ -4150,7 +4287,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5007,
@@ -4181,7 +4319,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5008,
@@ -4213,7 +4352,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5009,
@@ -4244,7 +4384,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5010,
@@ -4276,7 +4417,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5011,
@@ -4307,7 +4449,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5012,
@@ -4337,7 +4480,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5013,
@@ -4367,7 +4511,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5014,
@@ -4399,7 +4544,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5015,
@@ -4426,11 +4572,13 @@
         "FavorItem",
         "Books",
         "Detective",
-        "F_Shimiko"
+        "F_Shimiko",
+        "F_Koharu"
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5016,
@@ -4461,7 +4609,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5017,
@@ -4492,7 +4641,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5018,
@@ -4524,7 +4674,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5019,
@@ -4551,11 +4702,13 @@
         "FavorItem",
         "Curios",
         "Mystery",
-        "F_Hina"
+        "F_Hina",
+        "F_Hanako"
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5020,
@@ -4582,11 +4735,13 @@
         "FavorItem",
         "Toy",
         "Doll",
-        "F_Suzumi"
+        "F_Suzumi",
+        "F_Azusa"
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5021,
@@ -4617,7 +4772,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5022,
@@ -4648,7 +4804,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5023,
@@ -4678,7 +4835,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5024,
@@ -4709,7 +4867,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5025,
@@ -4741,7 +4900,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5026,
@@ -4772,7 +4932,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5027,
@@ -4803,7 +4964,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5028,
@@ -4833,7 +4995,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5029,
@@ -4864,7 +5027,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5030,
@@ -4894,7 +5058,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5031,
@@ -4926,7 +5091,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5032,
@@ -4956,7 +5122,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5033,
@@ -4987,7 +5154,8 @@
       ],
       "CraftQuality": 20,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5999,
@@ -5016,7 +5184,8 @@
       ],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 9999,
@@ -5044,7 +5213,8 @@
       "ShopCategory": [
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 10000,
@@ -5074,7 +5244,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 10001,
@@ -5104,7 +5275,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 10002,
@@ -5134,7 +5306,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 10003,
@@ -5164,7 +5337,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 10004,
@@ -5194,7 +5368,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 10005,
@@ -5224,7 +5399,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 10006,
@@ -5254,7 +5430,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 10007,
@@ -5285,7 +5462,8 @@
         "SecretStone",
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 10008,
@@ -5315,7 +5493,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 10009,
@@ -5345,7 +5524,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 10010,
@@ -5375,7 +5555,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 10011,
@@ -5405,7 +5586,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 10012,
@@ -5435,7 +5617,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 10013,
@@ -5465,7 +5648,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 10014,
@@ -5495,7 +5679,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 10015,
@@ -5525,7 +5710,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 10016,
@@ -5555,7 +5741,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 10017,
@@ -5585,7 +5772,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 10018,
@@ -5615,7 +5803,70 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
+    },
+    {
+      "Id": 10019,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 3414437793,
+      "ItemCategory": "SecretStone",
+      "Quality": 9,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Azusa",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [
+        "SecretStone"
+      ],
+      "CraftQuality": 0,
+      "ShopCategory": [
+        "SecretStone"
+      ],
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
+    },
+    {
+      "Id": 10020,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 524413104,
+      "ItemCategory": "SecretStone",
+      "Quality": 9,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Koharu",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [
+        "SecretStone"
+      ],
+      "CraftQuality": 0,
+      "ShopCategory": [
+        "SecretStone"
+      ],
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 13000,
@@ -5646,7 +5897,8 @@
         "SecretStone",
         "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 13001,
@@ -5676,7 +5928,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 13002,
@@ -5706,7 +5959,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 13003,
@@ -5736,7 +5990,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 13004,
@@ -5766,7 +6021,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 13005,
@@ -5796,7 +6052,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 13006,
@@ -5826,7 +6083,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 13007,
@@ -5856,7 +6114,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 13008,
@@ -5886,7 +6145,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 13009,
@@ -5916,7 +6176,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 13010,
@@ -5946,7 +6207,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 13011,
@@ -5976,7 +6238,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 16000,
@@ -6006,7 +6269,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 16001,
@@ -6036,7 +6300,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 16002,
@@ -6066,7 +6331,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 16003,
@@ -6096,7 +6362,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 16004,
@@ -6126,7 +6393,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 20000,
@@ -6156,7 +6424,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 20001,
@@ -6186,7 +6455,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 20002,
@@ -6217,7 +6487,8 @@
         "SecretStone",
         "Arena"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 20003,
@@ -6247,7 +6518,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 23000,
@@ -6277,7 +6549,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 23001,
@@ -6308,7 +6581,8 @@
         "SecretStone",
         "Arena"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 23002,
@@ -6336,9 +6610,11 @@
       ],
       "CraftQuality": 0,
       "ShopCategory": [
-        "SecretStone"
+        "SecretStone",
+        "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 23003,
@@ -6368,7 +6644,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 23004,
@@ -6396,9 +6673,11 @@
       ],
       "CraftQuality": 0,
       "ShopCategory": [
-        "SecretStone"
+        "SecretStone",
+        "Arena"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 23005,
@@ -6428,7 +6707,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 23006,
@@ -6458,7 +6738,39 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
+    },
+    {
+      "Id": 23007,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 1090730931,
+      "ItemCategory": "SecretStone",
+      "Quality": 9,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Hanako",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "None",
+      "UsingResultId": 0,
+      "UsingResultAmount": 0,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [
+        "SecretStone"
+      ],
+      "CraftQuality": 0,
+      "ShopCategory": [
+        "SecretStone"
+      ],
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 26000,
@@ -6486,9 +6798,11 @@
       ],
       "CraftQuality": 0,
       "ShopCategory": [
-        "SecretStone"
+        "SecretStone",
+        "Raid"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 26001,
@@ -6518,7 +6832,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 26002,
@@ -6548,7 +6863,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 26003,
@@ -6578,7 +6894,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 26004,
@@ -6608,7 +6925,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 26005,
@@ -6638,7 +6956,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 26006,
@@ -6668,7 +6987,8 @@
       "ShopCategory": [
         "SecretStone"
       ],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 30000,
@@ -6694,7 +7014,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 30001,
@@ -6720,7 +7041,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 30002,
@@ -6746,7 +7068,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 30003,
@@ -6772,7 +7095,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 40000,
@@ -6798,7 +7122,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 40001,
@@ -6824,7 +7149,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 40002,
@@ -6850,7 +7176,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 40003,
@@ -6876,7 +7203,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 50000,
@@ -6902,7 +7230,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 50001,
@@ -6928,7 +7257,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 50002,
@@ -6954,7 +7284,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 50003,
@@ -6980,7 +7311,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 50004,
@@ -7006,7 +7338,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 50005,
@@ -7032,7 +7365,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 50006,
@@ -7058,7 +7392,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 50007,
@@ -7084,7 +7419,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 60000,
@@ -7110,7 +7446,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 60001,
@@ -7136,7 +7473,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 60002,
@@ -7162,7 +7500,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 60003,
@@ -7188,7 +7527,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 60004,
@@ -7214,7 +7554,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 60005,
@@ -7240,7 +7581,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 60006,
@@ -7266,7 +7608,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 60007,
@@ -7292,7 +7635,170 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
+    },
+    {
+      "Id": 60008,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 3462709848,
+      "ItemCategory": "Consumable",
+      "Quality": 1,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Gehenna_0",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": true,
+      "UsingResultParcelType": "GachaGroup",
+      "UsingResultId": 60000,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
+    },
+    {
+      "Id": 60009,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 3462709848,
+      "ItemCategory": "Consumable",
+      "Quality": 1,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Gehenna_0",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": true,
+      "UsingResultParcelType": "GachaGroup",
+      "UsingResultId": 60001,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
+    },
+    {
+      "Id": 60010,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 1291944740,
+      "ItemCategory": "Consumable",
+      "Quality": 1,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Abydos_0",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": true,
+      "UsingResultParcelType": "GachaGroup",
+      "UsingResultId": 60010,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
+    },
+    {
+      "Id": 60011,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 1291944740,
+      "ItemCategory": "Consumable",
+      "Quality": 1,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Abydos_0",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": true,
+      "UsingResultParcelType": "GachaGroup",
+      "UsingResultId": 60011,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
+    },
+    {
+      "Id": 60012,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 151494972,
+      "ItemCategory": "Consumable",
+      "Quality": 1,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Millennium_0",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": true,
+      "UsingResultParcelType": "GachaGroup",
+      "UsingResultId": 60020,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
+    },
+    {
+      "Id": 60013,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 151494972,
+      "ItemCategory": "Consumable",
+      "Quality": 1,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Millennium_0",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": true,
+      "UsingResultParcelType": "GachaGroup",
+      "UsingResultId": 60021,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70000,
@@ -7318,7 +7824,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2021-02-11 14:01:00"
+      "ExpirationDateTime": "2021-02-11 14:01:00",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70001,
@@ -7344,7 +7851,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2021-02-25 14:01:00"
+      "ExpirationDateTime": "2021-02-25 14:01:00",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70002,
@@ -7370,7 +7878,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2021-03-11 14:00:00"
+      "ExpirationDateTime": "2021-03-11 14:00:00",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70003,
@@ -7396,7 +7905,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2021-03-18 14:00:00"
+      "ExpirationDateTime": "2021-03-18 14:00:00",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70004,
@@ -7422,7 +7932,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2021-03-25 14:00:00"
+      "ExpirationDateTime": "2021-03-25 14:00:00",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70005,
@@ -7448,7 +7959,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2021-04-08 12:00:00"
+      "ExpirationDateTime": "2021-04-08 12:00:00",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70006,
@@ -7474,7 +7986,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2021-04-22 12:00:00"
+      "ExpirationDateTime": "2021-04-22 12:00:00",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70007,
@@ -7500,7 +8013,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2021-04-29 12:00:00"
+      "ExpirationDateTime": "2021-04-29 12:00:00",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70008,
@@ -7526,7 +8040,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2021-05-13 12:00:00"
+      "ExpirationDateTime": "2021-05-13 12:00:00",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70009,
@@ -7552,7 +8067,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2021-05-27 12:00:00"
+      "ExpirationDateTime": "2021-05-27 12:00:00",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70010,
@@ -7578,7 +8094,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59"
+      "ExpirationDateTime": "2021-06-10 12:00:00",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70011,
@@ -7604,7 +8121,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59"
+      "ExpirationDateTime": "2021-06-24 12:00:00",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70012,
@@ -7630,7 +8148,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59"
+      "ExpirationDateTime": "2021-06-30 12:00:00",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70013,
@@ -7656,7 +8175,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59"
+      "ExpirationDateTime": "2099-12-31 23:59:59",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70014,
@@ -7682,7 +8202,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59"
+      "ExpirationDateTime": "2099-12-31 23:59:59",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70015,
@@ -7708,7 +8229,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59"
+      "ExpirationDateTime": "2099-12-31 23:59:59",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70016,
@@ -7734,7 +8256,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59"
+      "ExpirationDateTime": "2099-12-31 23:59:59",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70017,
@@ -7760,7 +8283,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59"
+      "ExpirationDateTime": "2099-12-31 23:59:59",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70018,
@@ -7786,7 +8310,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59"
+      "ExpirationDateTime": "2099-12-31 23:59:59",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70019,
@@ -7812,7 +8337,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59"
+      "ExpirationDateTime": "2099-12-31 23:59:59",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70020,
@@ -7838,7 +8364,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59"
+      "ExpirationDateTime": "2099-12-31 23:59:59",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70021,
@@ -7864,7 +8391,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59"
+      "ExpirationDateTime": "2099-12-31 23:59:59",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70022,
@@ -7890,7 +8418,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59"
+      "ExpirationDateTime": "2099-12-31 23:59:59",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70023,
@@ -7916,7 +8445,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59"
+      "ExpirationDateTime": "2099-12-31 23:59:59",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70024,
@@ -7942,7 +8472,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59"
+      "ExpirationDateTime": "2099-12-31 23:59:59",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70025,
@@ -7968,7 +8499,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59"
+      "ExpirationDateTime": "2099-12-31 23:59:59",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70026,
@@ -7994,7 +8526,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59"
+      "ExpirationDateTime": "2099-12-31 23:59:59",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70027,
@@ -8020,7 +8553,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59"
+      "ExpirationDateTime": "2099-12-31 23:59:59",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70028,
@@ -8046,7 +8580,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59"
+      "ExpirationDateTime": "2099-12-31 23:59:59",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 70029,
@@ -8072,7 +8607,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59"
+      "ExpirationDateTime": "2099-12-31 23:59:59",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 79999,
@@ -8098,7 +8634,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2099-12-31 23:59:59"
+      "ExpirationDateTime": "2099-12-31 23:59:59",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 80000,
@@ -8124,7 +8661,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 80001,
@@ -8150,7 +8688,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 80002,
@@ -8176,7 +8715,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 80003,
@@ -8202,7 +8742,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 80010,
@@ -8228,7 +8769,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 80011,
@@ -8254,7 +8796,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 80012,
@@ -8280,7 +8823,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 80013,
@@ -8306,7 +8850,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 90000,
@@ -8332,7 +8877,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 100000,
@@ -8358,7 +8904,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 100001,
@@ -8384,7 +8931,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 100002,
@@ -8410,7 +8958,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 150000,
@@ -8436,7 +8985,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 150001,
@@ -8462,7 +9012,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 150002,
@@ -8488,7 +9039,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 150003,
@@ -8514,7 +9066,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 150004,
@@ -8540,7 +9093,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 150005,
@@ -8566,7 +9120,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 150006,
@@ -8592,7 +9147,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 150007,
@@ -8618,7 +9174,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 150008,
@@ -8644,7 +9201,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 150009,
@@ -8670,7 +9228,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 150010,
@@ -8696,7 +9255,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 150011,
@@ -8722,7 +9282,440 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
+    },
+    {
+      "Id": 150012,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 2717999847,
+      "ItemCategory": "Consumable",
+      "Quality": 1,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Selection_0",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "Recipe",
+      "UsingResultId": 1000030,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
+    },
+    {
+      "Id": 150013,
+      "Rarity": "R",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 1109131869,
+      "ItemCategory": "Consumable",
+      "Quality": 2,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Selection_1",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "Recipe",
+      "UsingResultId": 1000031,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
+    },
+    {
+      "Id": 150014,
+      "Rarity": "SR",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 1029298183,
+      "ItemCategory": "Consumable",
+      "Quality": 3,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Selection_2",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "Recipe",
+      "UsingResultId": 1000032,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
+    },
+    {
+      "Id": 150015,
+      "Rarity": "SSR",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 2629874010,
+      "ItemCategory": "Consumable",
+      "Quality": 4,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Selection_3",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "Recipe",
+      "UsingResultId": 1000033,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
+    },
+    {
+      "Id": 150016,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 1982288146,
+      "ItemCategory": "Consumable",
+      "Quality": 1,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Selection_0",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "Recipe",
+      "UsingResultId": 1000040,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
+    },
+    {
+      "Id": 150017,
+      "Rarity": "R",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 4249608694,
+      "ItemCategory": "Consumable",
+      "Quality": 2,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Selection_1",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "Recipe",
+      "UsingResultId": 1000041,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
+    },
+    {
+      "Id": 150018,
+      "Rarity": "SR",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 3777491835,
+      "ItemCategory": "Consumable",
+      "Quality": 3,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Selection_2",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "Recipe",
+      "UsingResultId": 1000042,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
+    },
+    {
+      "Id": 150019,
+      "Rarity": "SSR",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 2841668728,
+      "ItemCategory": "Consumable",
+      "Quality": 4,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Selection_3",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "Recipe",
+      "UsingResultId": 1000043,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
+    },
+    {
+      "Id": 150020,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 4171484449,
+      "ItemCategory": "Consumable",
+      "Quality": 1,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_ExSkillCD_Selection_0",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "Recipe",
+      "UsingResultId": 1000050,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
+    },
+    {
+      "Id": 150021,
+      "Rarity": "R",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 111988088,
+      "ItemCategory": "Consumable",
+      "Quality": 2,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_ExSkillCD_Selection_1",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "Recipe",
+      "UsingResultId": 1000051,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
+    },
+    {
+      "Id": 150022,
+      "Rarity": "SR",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 1246653568,
+      "ItemCategory": "Consumable",
+      "Quality": 3,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_ExSkillCD_Selection_2",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "Recipe",
+      "UsingResultId": 1000052,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
+    },
+    {
+      "Id": 150023,
+      "Rarity": "SSR",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 3315014441,
+      "ItemCategory": "Consumable",
+      "Quality": 4,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_ExSkillCD_Selection_3",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "Recipe",
+      "UsingResultId": 1000053,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
+    },
+    {
+      "Id": 150024,
+      "Rarity": "N",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 3454957429,
+      "ItemCategory": "Consumable",
+      "Quality": 1,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_ExSkillCD_Selection_0",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "Recipe",
+      "UsingResultId": 1000060,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
+    },
+    {
+      "Id": 150025,
+      "Rarity": "R",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 1319162083,
+      "ItemCategory": "Consumable",
+      "Quality": 2,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_ExSkillCD_Selection_1",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "Recipe",
+      "UsingResultId": 1000061,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
+    },
+    {
+      "Id": 150026,
+      "Rarity": "SR",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 1405621788,
+      "ItemCategory": "Consumable",
+      "Quality": 3,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_ExSkillCD_Selection_2",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "Recipe",
+      "UsingResultId": 1000062,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
+    },
+    {
+      "Id": 150027,
+      "Rarity": "SSR",
+      "ProductionStep": "Release",
+      "LocalizeEtcId": 573251652,
+      "ItemCategory": "Consumable",
+      "Quality": 4,
+      "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_ExSkillCD_Selection_3",
+      "SpriteName": null,
+      "StackableMax": 99999,
+      "StackableFunction": 0,
+      "ImmediateUse": false,
+      "UsingResultParcelType": "Recipe",
+      "UsingResultId": 1000063,
+      "UsingResultAmount": 1,
+      "MailType": "System",
+      "ExpiryChangeParcelType": "None",
+      "ExpiryChangeId": 0,
+      "ExpiryChangeAmount": 0,
+      "CanTierUpgrade": false,
+      "TierUpgradeRecipeCraftId": 0,
+      "Tags": [],
+      "CraftQuality": 0,
+      "ShopCategory": [],
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 10000000,
@@ -8748,7 +9741,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 10000001,
@@ -8774,7 +9768,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 10000002,
@@ -8800,7 +9795,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 10000003,
@@ -8826,7 +9822,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 20000000,
@@ -8852,7 +9849,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 20000001,
@@ -8878,7 +9876,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": null
+      "ExpirationDateTime": null,
+      "ShortcutTypeId": 0
     },
     {
       "Id": 29999998,
@@ -8904,7 +9903,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2030-08-20 18:00:00"
+      "ExpirationDateTime": "2030-08-20 18:00:00",
+      "ShortcutTypeId": 0
     },
     {
       "Id": 29999999,
@@ -8930,7 +9930,8 @@
       "Tags": [],
       "CraftQuality": 0,
       "ShopCategory": [],
-      "ExpirationDateTime": "2030-08-11 12:00:00"
+      "ExpirationDateTime": "2030-08-11 12:00:00",
+      "ShortcutTypeId": 0
     }
   ]
 }

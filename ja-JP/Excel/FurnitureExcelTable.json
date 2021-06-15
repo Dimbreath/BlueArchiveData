@@ -30,7 +30,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 2,
@@ -62,7 +65,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 3,
@@ -94,7 +100,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 4,
@@ -126,7 +135,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 5,
@@ -158,7 +170,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 6,
@@ -190,7 +205,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 7,
@@ -222,7 +240,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 8,
@@ -254,7 +275,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 9,
@@ -286,7 +310,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 10,
@@ -318,7 +345,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 11,
@@ -350,7 +380,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 1100,
@@ -383,7 +416,10 @@
         "Furniture",
         "Cafe"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 1101,
@@ -416,7 +452,10 @@
         "Furniture",
         "Cafe"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 1102,
@@ -449,7 +488,10 @@
         "Furniture",
         "Cafe"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 1300,
@@ -482,7 +524,10 @@
         "Furniture",
         "Cafe"
       ],
-      "CraftQuality": 4
+      "CraftQuality": 4,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 1200,
@@ -515,7 +560,10 @@
         "Furniture",
         "Cafe"
       ],
-      "CraftQuality": 3
+      "CraftQuality": 3,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 1103,
@@ -548,7 +596,10 @@
         "Furniture",
         "Cafe"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 1104,
@@ -581,7 +632,10 @@
         "Furniture",
         "Cafe"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 1105,
@@ -614,7 +668,10 @@
         "Furniture",
         "Cafe"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 1106,
@@ -647,7 +704,10 @@
         "Furniture",
         "Cafe"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 1107,
@@ -680,7 +740,10 @@
         "Furniture",
         "Cafe"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 1108,
@@ -713,7 +776,10 @@
         "Furniture",
         "Cafe"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 1109,
@@ -746,7 +812,10 @@
         "Furniture",
         "Cafe"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 1201,
@@ -779,7 +848,10 @@
         "Furniture",
         "Cafe"
       ],
-      "CraftQuality": 3
+      "CraftQuality": 3,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 1202,
@@ -812,7 +884,10 @@
         "Furniture",
         "Cafe"
       ],
-      "CraftQuality": 3
+      "CraftQuality": 3,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 1203,
@@ -845,7 +920,10 @@
         "Furniture",
         "Cafe"
       ],
-      "CraftQuality": 3
+      "CraftQuality": 3,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 1204,
@@ -878,7 +956,10 @@
         "Furniture",
         "Cafe"
       ],
-      "CraftQuality": 3
+      "CraftQuality": 3,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 1301,
@@ -911,7 +992,10 @@
         "Furniture",
         "Cafe"
       ],
-      "CraftQuality": 4
+      "CraftQuality": 4,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 1302,
@@ -944,7 +1028,10 @@
         "Furniture",
         "Cafe"
       ],
-      "CraftQuality": 4
+      "CraftQuality": 4,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 1303,
@@ -977,7 +1064,10 @@
         "Furniture",
         "Cafe"
       ],
-      "CraftQuality": 4
+      "CraftQuality": 4,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 2100,
@@ -1010,7 +1100,10 @@
         "Furniture",
         "GameCenter"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 2101,
@@ -1043,7 +1136,10 @@
         "Furniture",
         "GameCenter"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 2102,
@@ -1076,7 +1172,10 @@
         "Furniture",
         "GameCenter"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 2300,
@@ -1109,7 +1208,10 @@
         "Furniture",
         "GameCenter"
       ],
-      "CraftQuality": 4
+      "CraftQuality": 4,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 2200,
@@ -1142,7 +1244,10 @@
         "Furniture",
         "GameCenter"
       ],
-      "CraftQuality": 3
+      "CraftQuality": 3,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 2103,
@@ -1175,7 +1280,10 @@
         "Furniture",
         "GameCenter"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 2104,
@@ -1208,7 +1316,10 @@
         "Furniture",
         "GameCenter"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 2105,
@@ -1241,7 +1352,10 @@
         "Furniture",
         "GameCenter"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 2106,
@@ -1274,7 +1388,10 @@
         "Furniture",
         "GameCenter"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 2107,
@@ -1307,7 +1424,10 @@
         "Furniture",
         "GameCenter"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 2108,
@@ -1340,7 +1460,10 @@
         "Furniture",
         "GameCenter"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 2109,
@@ -1373,7 +1496,10 @@
         "Furniture",
         "GameCenter"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 2201,
@@ -1406,7 +1532,10 @@
         "Furniture",
         "GameCenter"
       ],
-      "CraftQuality": 3
+      "CraftQuality": 3,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 2202,
@@ -1439,7 +1568,10 @@
         "Furniture",
         "GameCenter"
       ],
-      "CraftQuality": 3
+      "CraftQuality": 3,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 2203,
@@ -1472,7 +1604,10 @@
         "Furniture",
         "GameCenter"
       ],
-      "CraftQuality": 3
+      "CraftQuality": 3,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 2204,
@@ -1505,7 +1640,10 @@
         "Furniture",
         "GameCenter"
       ],
-      "CraftQuality": 3
+      "CraftQuality": 3,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 2301,
@@ -1538,7 +1676,10 @@
         "Furniture",
         "GameCenter"
       ],
-      "CraftQuality": 4
+      "CraftQuality": 4,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 2302,
@@ -1571,7 +1712,10 @@
         "Furniture",
         "GameCenter"
       ],
-      "CraftQuality": 4
+      "CraftQuality": 4,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 2303,
@@ -1604,7 +1748,10 @@
         "Furniture",
         "GameCenter"
       ],
-      "CraftQuality": 4
+      "CraftQuality": 4,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 3100,
@@ -1637,7 +1784,10 @@
         "Furniture",
         "ChocolateCafe"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 3101,
@@ -1670,7 +1820,10 @@
         "Furniture",
         "ChocolateCafe"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 3102,
@@ -1703,7 +1856,10 @@
         "Furniture",
         "ChocolateCafe"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 3103,
@@ -1736,7 +1892,10 @@
         "Furniture",
         "ChocolateCafe"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 3104,
@@ -1769,7 +1928,10 @@
         "Furniture",
         "ChocolateCafe"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 3105,
@@ -1802,7 +1964,10 @@
         "Furniture",
         "ChocolateCafe"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 3106,
@@ -1835,7 +2000,10 @@
         "Furniture",
         "ChocolateCafe"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 3107,
@@ -1868,7 +2036,10 @@
         "Furniture",
         "ChocolateCafe"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 3108,
@@ -1901,7 +2072,10 @@
         "Furniture",
         "ChocolateCafe"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 3109,
@@ -1934,7 +2108,10 @@
         "Furniture",
         "ChocolateCafe"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 3110,
@@ -1967,7 +2144,10 @@
         "Furniture",
         "ChocolateCafe"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 3111,
@@ -2000,7 +2180,10 @@
         "Furniture",
         "ChocolateCafe"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 3112,
@@ -2033,7 +2216,10 @@
         "Furniture",
         "ChocolateCafe"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 3113,
@@ -2066,7 +2252,10 @@
         "Furniture",
         "ChocolateCafe"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 3200,
@@ -2099,7 +2288,10 @@
         "Furniture",
         "ChocolateCafe"
       ],
-      "CraftQuality": 3
+      "CraftQuality": 3,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 3201,
@@ -2132,7 +2324,10 @@
         "Furniture",
         "ChocolateCafe"
       ],
-      "CraftQuality": 3
+      "CraftQuality": 3,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 3202,
@@ -2165,7 +2360,10 @@
         "Furniture",
         "ChocolateCafe"
       ],
-      "CraftQuality": 3
+      "CraftQuality": 3,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 3203,
@@ -2198,7 +2396,10 @@
         "Furniture",
         "ChocolateCafe"
       ],
-      "CraftQuality": 3
+      "CraftQuality": 3,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 3204,
@@ -2231,7 +2432,10 @@
         "Furniture",
         "ChocolateCafe"
       ],
-      "CraftQuality": 3
+      "CraftQuality": 3,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 3300,
@@ -2264,7 +2468,10 @@
         "Furniture",
         "ChocolateCafe"
       ],
-      "CraftQuality": 4
+      "CraftQuality": 4,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 3301,
@@ -2297,7 +2504,10 @@
         "Furniture",
         "ChocolateCafe"
       ],
-      "CraftQuality": 4
+      "CraftQuality": 4,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 3302,
@@ -2330,7 +2540,10 @@
         "Furniture",
         "ChocolateCafe"
       ],
-      "CraftQuality": 4
+      "CraftQuality": 4,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 3303,
@@ -2362,11 +2575,14 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 4
+      "CraftQuality": 4,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100000,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "Rarity": "N",
       "Category": "Furnitures",
       "SubCategory": "FurnitureEtc",
@@ -2394,11 +2610,14 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100001,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "Rarity": "R",
       "Category": "Furnitures",
       "SubCategory": "FurnitureEtc",
@@ -2426,11 +2645,14 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100002,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "Rarity": "SR",
       "Category": "Furnitures",
       "SubCategory": "FurnitureEtc",
@@ -2458,11 +2680,14 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 3
+      "CraftQuality": 3,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100003,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "Rarity": "SSR",
       "Category": "Furnitures",
       "SubCategory": "FurnitureEtc",
@@ -2490,7 +2715,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 4
+      "CraftQuality": 4,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100010,
@@ -2522,7 +2750,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100011,
@@ -2554,7 +2785,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100012,
@@ -2586,7 +2820,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 3
+      "CraftQuality": 3,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100013,
@@ -2618,7 +2855,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 4
+      "CraftQuality": 4,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100020,
@@ -2650,7 +2890,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100021,
@@ -2682,7 +2925,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100022,
@@ -2714,7 +2960,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 3
+      "CraftQuality": 3,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100023,
@@ -2746,7 +2995,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 4
+      "CraftQuality": 4,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100100,
@@ -2778,7 +3030,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100101,
@@ -2810,7 +3065,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100102,
@@ -2842,7 +3100,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 3
+      "CraftQuality": 3,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100103,
@@ -2874,7 +3135,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 4
+      "CraftQuality": 4,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100110,
@@ -2906,7 +3170,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100111,
@@ -2938,7 +3205,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100112,
@@ -2970,7 +3240,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 3
+      "CraftQuality": 3,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100113,
@@ -3002,7 +3275,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 4
+      "CraftQuality": 4,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100120,
@@ -3034,7 +3310,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100121,
@@ -3066,7 +3345,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100122,
@@ -3098,7 +3380,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 3
+      "CraftQuality": 3,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100123,
@@ -3130,7 +3415,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 4
+      "CraftQuality": 4,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100200,
@@ -3162,7 +3450,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100201,
@@ -3194,7 +3485,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100202,
@@ -3226,7 +3520,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 3
+      "CraftQuality": 3,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100203,
@@ -3258,11 +3555,14 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 4
+      "CraftQuality": 4,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100210,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "Rarity": "N",
       "Category": "Furnitures",
       "SubCategory": "FurnitureEtc",
@@ -3290,11 +3590,14 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100211,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "Rarity": "R",
       "Category": "Furnitures",
       "SubCategory": "FurnitureEtc",
@@ -3322,11 +3625,14 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100212,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "Rarity": "SR",
       "Category": "Furnitures",
       "SubCategory": "FurnitureEtc",
@@ -3354,11 +3660,14 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 3
+      "CraftQuality": 3,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100213,
-      "ProductionStep": "Complete",
+      "ProductionStep": "Release",
       "Rarity": "SSR",
       "Category": "Furnitures",
       "SubCategory": "FurnitureEtc",
@@ -3386,7 +3695,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 4
+      "CraftQuality": 4,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100220,
@@ -3418,7 +3730,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 1
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100221,
@@ -3450,7 +3765,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 2
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100222,
@@ -3482,7 +3800,10 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 3
+      "CraftQuality": 3,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     },
     {
       "Id": 100223,
@@ -3514,7 +3835,220 @@
       "Tags": [
         "Furniture"
       ],
-      "CraftQuality": 4
+      "CraftQuality": 4,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
+    },
+    {
+      "Id": 100310,
+      "ProductionStep": "Release",
+      "Rarity": "N",
+      "Category": "Furnitures",
+      "SubCategory": "FurnitureEtc",
+      "LocalizeEtcId": 4159444598,
+      "StarGradeInit": 1,
+      "Tier": 1,
+      "Icon": "UIs/01_Common/16_CafeItem/My_Trophy_Hieronymus_Indoor_Bronze",
+      "SizeWidth": 1,
+      "SizeHeight": 1,
+      "OtherSize": 3,
+      "ExpandWidth": 0,
+      "Enable": true,
+      "ReverseRotation": false,
+      "Prefab": "Cafe/my_trophy_hieronymus_indoor_bronze",
+      "PrefabExpand": null,
+      "SubPrefab": null,
+      "SubExpandPrefab": null,
+      "CornerPrefab": null,
+      "StackableMax": 9999,
+      "RecipeCraftId": 0,
+      "SetGroudpId": 0,
+      "ComfortBonus": 50,
+      "VisitOperationType": 0,
+      "VisitBonusOperationType": 0,
+      "Tags": [
+        "Furniture"
+      ],
+      "CraftQuality": 1,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
+    },
+    {
+      "Id": 100311,
+      "ProductionStep": "Release",
+      "Rarity": "R",
+      "Category": "Furnitures",
+      "SubCategory": "FurnitureEtc",
+      "LocalizeEtcId": 2863358207,
+      "StarGradeInit": 1,
+      "Tier": 1,
+      "Icon": "UIs/01_Common/16_CafeItem/My_Trophy_Hieronymus_Indoor_Silver",
+      "SizeWidth": 1,
+      "SizeHeight": 1,
+      "OtherSize": 3,
+      "ExpandWidth": 0,
+      "Enable": true,
+      "ReverseRotation": false,
+      "Prefab": "Cafe/my_trophy_hieronymus_indoor_silver",
+      "PrefabExpand": null,
+      "SubPrefab": null,
+      "SubExpandPrefab": null,
+      "CornerPrefab": null,
+      "StackableMax": 9999,
+      "RecipeCraftId": 0,
+      "SetGroudpId": 0,
+      "ComfortBonus": 50,
+      "VisitOperationType": 0,
+      "VisitBonusOperationType": 0,
+      "Tags": [
+        "Furniture"
+      ],
+      "CraftQuality": 2,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
+    },
+    {
+      "Id": 100312,
+      "ProductionStep": "Release",
+      "Rarity": "SR",
+      "Category": "Furnitures",
+      "SubCategory": "FurnitureEtc",
+      "LocalizeEtcId": 3855204253,
+      "StarGradeInit": 2,
+      "Tier": 1,
+      "Icon": "UIs/01_Common/16_CafeItem/My_Trophy_Hieronymus_Indoor_Gold",
+      "SizeWidth": 1,
+      "SizeHeight": 1,
+      "OtherSize": 3,
+      "ExpandWidth": 0,
+      "Enable": true,
+      "ReverseRotation": false,
+      "Prefab": "Cafe/my_trophy_hieronymus_indoor_gold",
+      "PrefabExpand": null,
+      "SubPrefab": null,
+      "SubExpandPrefab": null,
+      "CornerPrefab": null,
+      "StackableMax": 9999,
+      "RecipeCraftId": 0,
+      "SetGroudpId": 0,
+      "ComfortBonus": 50,
+      "VisitOperationType": 0,
+      "VisitBonusOperationType": 0,
+      "Tags": [
+        "Furniture"
+      ],
+      "CraftQuality": 3,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
+    },
+    {
+      "Id": 100313,
+      "ProductionStep": "Release",
+      "Rarity": "SSR",
+      "Category": "Furnitures",
+      "SubCategory": "FurnitureEtc",
+      "LocalizeEtcId": 3780736330,
+      "StarGradeInit": 3,
+      "Tier": 1,
+      "Icon": "UIs/01_Common/16_CafeItem/My_Trophy_Hieronymus_Indoor_Platinum",
+      "SizeWidth": 1,
+      "SizeHeight": 1,
+      "OtherSize": 3,
+      "ExpandWidth": 0,
+      "Enable": true,
+      "ReverseRotation": false,
+      "Prefab": "Cafe/my_trophy_hieronymus_indoor_platinum",
+      "PrefabExpand": null,
+      "SubPrefab": null,
+      "SubExpandPrefab": null,
+      "CornerPrefab": null,
+      "StackableMax": 9999,
+      "RecipeCraftId": 0,
+      "SetGroudpId": 0,
+      "ComfortBonus": 50,
+      "VisitOperationType": 0,
+      "VisitBonusOperationType": 0,
+      "Tags": [
+        "Furniture"
+      ],
+      "CraftQuality": 4,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
+    },
+    {
+      "Id": 200301,
+      "ProductionStep": "Release",
+      "Rarity": "SSR",
+      "Category": "Decorations",
+      "SubCategory": "Prop",
+      "LocalizeEtcId": 2789783968,
+      "StarGradeInit": 3,
+      "Tier": 1,
+      "Icon": "UIs/01_Common/16_CafeItem/My_Event02_Trinityfountain",
+      "SizeWidth": 3,
+      "SizeHeight": 3,
+      "OtherSize": 3,
+      "ExpandWidth": 0,
+      "Enable": true,
+      "ReverseRotation": false,
+      "Prefab": "Cafe/my_event02_trinityfountain",
+      "PrefabExpand": null,
+      "SubPrefab": null,
+      "SubExpandPrefab": null,
+      "CornerPrefab": null,
+      "StackableMax": 9999,
+      "RecipeCraftId": 0,
+      "SetGroudpId": 0,
+      "ComfortBonus": 50,
+      "VisitOperationType": 0,
+      "VisitBonusOperationType": 0,
+      "Tags": [
+        "Furniture"
+      ],
+      "CraftQuality": 4,
+      "EventCollectionId": 0,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
+    },
+    {
+      "Id": 201301,
+      "ProductionStep": "Complete",
+      "Rarity": "SSR",
+      "Category": "Decorations",
+      "SubCategory": "WallDecoration",
+      "LocalizeEtcId": 1441268350,
+      "StarGradeInit": 3,
+      "Tier": 1,
+      "Icon": "UIs/01_Common/16_CafeItem/My_Defaultroom_Board",
+      "SizeWidth": 1,
+      "SizeHeight": 1,
+      "OtherSize": 3,
+      "ExpandWidth": 0,
+      "Enable": true,
+      "ReverseRotation": false,
+      "Prefab": "Cafe/my_defaultroom_board",
+      "PrefabExpand": null,
+      "SubPrefab": null,
+      "SubExpandPrefab": null,
+      "CornerPrefab": null,
+      "StackableMax": 9999,
+      "RecipeCraftId": 0,
+      "SetGroudpId": 0,
+      "ComfortBonus": 50,
+      "VisitOperationType": 0,
+      "VisitBonusOperationType": 0,
+      "Tags": [
+        "Furniture"
+      ],
+      "CraftQuality": 4,
+      "EventCollectionId": 803,
+      "EventCollectionBubbleOffsetX": 0,
+      "EventCollectionBubbleOffsetY": 0
     }
   ]
 }

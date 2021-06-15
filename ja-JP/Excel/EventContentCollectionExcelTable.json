@@ -7,6 +7,8 @@
       "UnlockConditionType": "ClearSpecificEventScenario",
       "UnlockConditionParameter": 9002,
       "UnlockConditionCount": 1,
+      "IsObject": false,
+      "IsHorizon": false,
       "ThumbResource": null,
       "FullResource": null
     },
@@ -17,6 +19,8 @@
       "UnlockConditionType": "ClearSpecificEventMission",
       "UnlockConditionParameter": 8,
       "UnlockConditionCount": 1,
+      "IsObject": false,
+      "IsHorizon": false,
       "ThumbResource": null,
       "FullResource": null
     },
@@ -27,6 +31,8 @@
       "UnlockConditionType": "ClearSpecificEventStage",
       "UnlockConditionParameter": 3011101,
       "UnlockConditionCount": 1,
+      "IsObject": false,
+      "IsHorizon": false,
       "ThumbResource": null,
       "FullResource": null
     },
@@ -37,6 +43,8 @@
       "UnlockConditionType": "PurchaseSpecificItemCount",
       "UnlockConditionParameter": 80000,
       "UnlockConditionCount": 100,
+      "IsObject": true,
+      "IsHorizon": false,
       "ThumbResource": null,
       "FullResource": null
     },
@@ -44,41 +52,49 @@
       "Id": 5,
       "EventContentId": 803,
       "GroupId": 1000,
-      "UnlockConditionType": "PurchaseSpecificItemCount",
-      "UnlockConditionParameter": 80000,
+      "UnlockConditionType": "ClearSpecificEventStage",
+      "UnlockConditionParameter": 8031101,
       "UnlockConditionCount": 1,
-      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01",
-      "FullResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01"
+      "IsObject": false,
+      "IsHorizon": true,
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_01",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_01_Full"
     },
     {
       "Id": 6,
       "EventContentId": 803,
       "GroupId": 1000,
-      "UnlockConditionType": "PurchaseSpecificItemCount",
-      "UnlockConditionParameter": 80000,
-      "UnlockConditionCount": 2,
-      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01",
-      "FullResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01"
+      "UnlockConditionType": "ClearSpecificEventStage",
+      "UnlockConditionParameter": 8031101,
+      "UnlockConditionCount": 1,
+      "IsObject": false,
+      "IsHorizon": true,
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_02",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_02_Full"
     },
     {
       "Id": 7,
       "EventContentId": 803,
       "GroupId": 1000,
-      "UnlockConditionType": "PurchaseSpecificItemCount",
-      "UnlockConditionParameter": 80000,
-      "UnlockConditionCount": 3,
-      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01",
-      "FullResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01"
+      "UnlockConditionType": "ClearSpecificEventStage",
+      "UnlockConditionParameter": 8031102,
+      "UnlockConditionCount": 1,
+      "IsObject": false,
+      "IsHorizon": true,
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_03",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_03_Full"
     },
     {
       "Id": 8,
       "EventContentId": 803,
       "GroupId": 1000,
-      "UnlockConditionType": "PurchaseSpecificItemCount",
-      "UnlockConditionParameter": 80000,
-      "UnlockConditionCount": 4,
-      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01",
-      "FullResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01"
+      "UnlockConditionType": "ClearSpecificEventStage",
+      "UnlockConditionParameter": 8031102,
+      "UnlockConditionCount": 1,
+      "IsObject": false,
+      "IsHorizon": true,
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_04",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_04_Full"
     },
     {
       "Id": 9,
@@ -86,9 +102,11 @@
       "GroupId": 1000,
       "UnlockConditionType": "PurchaseSpecificItemCount",
       "UnlockConditionParameter": 80000,
-      "UnlockConditionCount": 5,
-      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01",
-      "FullResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01"
+      "UnlockConditionCount": 10,
+      "IsObject": false,
+      "IsHorizon": true,
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_05",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_05_Full"
     },
     {
       "Id": 10,
@@ -96,9 +114,11 @@
       "GroupId": 1000,
       "UnlockConditionType": "PurchaseSpecificItemCount",
       "UnlockConditionParameter": 80000,
-      "UnlockConditionCount": 6,
-      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01",
-      "FullResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01"
+      "UnlockConditionCount": 20,
+      "IsObject": false,
+      "IsHorizon": true,
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_06",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_06_Full"
     },
     {
       "Id": 11,
@@ -106,9 +126,11 @@
       "GroupId": 1000,
       "UnlockConditionType": "PurchaseSpecificItemCount",
       "UnlockConditionParameter": 80000,
-      "UnlockConditionCount": 7,
-      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy02",
-      "FullResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy02"
+      "UnlockConditionCount": 30,
+      "IsObject": false,
+      "IsHorizon": false,
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_07",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_07_Full"
     },
     {
       "Id": 12,
@@ -116,9 +138,11 @@
       "GroupId": 1000,
       "UnlockConditionType": "PurchaseSpecificItemCount",
       "UnlockConditionParameter": 80000,
-      "UnlockConditionCount": 8,
-      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy02",
-      "FullResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy02"
+      "UnlockConditionCount": 40,
+      "IsObject": false,
+      "IsHorizon": false,
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_08",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_08_Full"
     },
     {
       "Id": 13,
@@ -126,9 +150,11 @@
       "GroupId": 1000,
       "UnlockConditionType": "PurchaseSpecificItemCount",
       "UnlockConditionParameter": 80000,
-      "UnlockConditionCount": 9,
-      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01",
-      "FullResource": "uis/01_common/27_eventcontent/collectioncg/event_photo_collectioncg_dummy01"
+      "UnlockConditionCount": 50,
+      "IsObject": false,
+      "IsHorizon": true,
+      "ThumbResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_09",
+      "FullResource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_803_09_Full"
     },
     {
       "Id": 14,
@@ -137,6 +163,8 @@
       "UnlockConditionType": "PurchaseSpecificItemCount",
       "UnlockConditionParameter": 80000,
       "UnlockConditionCount": 1,
+      "IsObject": true,
+      "IsHorizon": false,
       "ThumbResource": null,
       "FullResource": null
     },
@@ -147,6 +175,8 @@
       "UnlockConditionType": "PurchaseSpecificItemCount",
       "UnlockConditionParameter": 80000,
       "UnlockConditionCount": 2,
+      "IsObject": true,
+      "IsHorizon": false,
       "ThumbResource": null,
       "FullResource": null
     },
@@ -157,6 +187,8 @@
       "UnlockConditionType": "PurchaseSpecificItemCount",
       "UnlockConditionParameter": 80000,
       "UnlockConditionCount": 3,
+      "IsObject": true,
+      "IsHorizon": false,
       "ThumbResource": null,
       "FullResource": null
     },
@@ -167,6 +199,8 @@
       "UnlockConditionType": "PurchaseSpecificItemCount",
       "UnlockConditionParameter": 80000,
       "UnlockConditionCount": 4,
+      "IsObject": true,
+      "IsHorizon": false,
       "ThumbResource": null,
       "FullResource": null
     },
@@ -177,6 +211,8 @@
       "UnlockConditionType": "PurchaseSpecificItemCount",
       "UnlockConditionParameter": 80000,
       "UnlockConditionCount": 5,
+      "IsObject": true,
+      "IsHorizon": false,
       "ThumbResource": null,
       "FullResource": null
     },
@@ -187,6 +223,8 @@
       "UnlockConditionType": "PurchaseSpecificItemCount",
       "UnlockConditionParameter": 80000,
       "UnlockConditionCount": 6,
+      "IsObject": true,
+      "IsHorizon": false,
       "ThumbResource": null,
       "FullResource": null
     }

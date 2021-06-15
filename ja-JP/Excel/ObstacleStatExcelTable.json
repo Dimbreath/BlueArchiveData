@@ -507,8 +507,8 @@
     {
       "StringID": 1099121378,
       "Name": null,
-      "MaxHP1": 700,
-      "MaxHP100": 15000,
+      "MaxHP1": 21000,
+      "MaxHP100": 450000,
       "BlockRate": 3000,
       "Dodge": 0,
       "HighlightFloaterHeight": 0.0
@@ -516,8 +516,8 @@
     {
       "StringID": 20952221,
       "Name": null,
-      "MaxHP1": 700,
-      "MaxHP100": 15000,
+      "MaxHP1": 21000,
+      "MaxHP100": 450000,
       "BlockRate": 3000,
       "Dodge": 0,
       "HighlightFloaterHeight": 0.0
@@ -525,8 +525,8 @@
     {
       "StringID": 1523723098,
       "Name": null,
-      "MaxHP1": 700,
-      "MaxHP100": 15000,
+      "MaxHP1": 21000,
+      "MaxHP100": 450000,
       "BlockRate": 3000,
       "Dodge": 0,
       "HighlightFloaterHeight": 0.0
@@ -534,8 +534,8 @@
     {
       "StringID": 3945027307,
       "Name": null,
-      "MaxHP1": 700,
-      "MaxHP100": 15000,
+      "MaxHP1": 21000,
+      "MaxHP100": 450000,
       "BlockRate": 3000,
       "Dodge": 0,
       "HighlightFloaterHeight": 0.0
@@ -543,8 +543,8 @@
     {
       "StringID": 4020222580,
       "Name": null,
-      "MaxHP1": 700,
-      "MaxHP100": 15000,
+      "MaxHP1": 21000,
+      "MaxHP100": 450000,
       "BlockRate": 3000,
       "Dodge": 0,
       "HighlightFloaterHeight": 0.0

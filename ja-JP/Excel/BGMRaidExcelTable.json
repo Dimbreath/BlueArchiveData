@@ -249,6 +249,56 @@
       "StageId": 202200005,
       "PhaseIndex": 1,
       "BGMId": 203
+    },
+    {
+      "StageId": 204300001,
+      "PhaseIndex": 0,
+      "BGMId": 301
+    },
+    {
+      "StageId": 204300001,
+      "PhaseIndex": 1,
+      "BGMId": 302
+    },
+    {
+      "StageId": 204300002,
+      "PhaseIndex": 0,
+      "BGMId": 301
+    },
+    {
+      "StageId": 204300002,
+      "PhaseIndex": 1,
+      "BGMId": 302
+    },
+    {
+      "StageId": 204300003,
+      "PhaseIndex": 0,
+      "BGMId": 301
+    },
+    {
+      "StageId": 204300003,
+      "PhaseIndex": 1,
+      "BGMId": 302
+    },
+    {
+      "StageId": 204300004,
+      "PhaseIndex": 0,
+      "BGMId": 301
+    },
+    {
+      "StageId": 204300004,
+      "PhaseIndex": 1,
+      "BGMId": 302
+    },
+    {
+      "StageId": 204300005,
+      "PhaseIndex": 0,
+      "BGMId": 301
+    },
+    {
+      "StageId": 204300005,
+      "PhaseIndex": 1,
+      "BGMId": 302
     }
   ]
 }

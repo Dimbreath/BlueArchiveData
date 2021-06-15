@@ -11,7 +11,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -51,7 +51,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -91,7 +91,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -131,24 +131,128 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
+        "Item",
+        "Item",
         "Item",
         "Item"
       ],
       "ExtraRewardParcelId": [
         50000,
-        60000
+        60000,
+        150020,
+        150012
       ],
       "ExtraRewardAmount": [
+        1,
+        1,
         1,
         1
       ],
       "ExtraRewardProb": [
-        2500,
-        10000
+        1675,
+        6700,
+        825,
+        3300
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ScheduleGroupId": 1001,
+      "OrderInGroup": 5,
+      "Id": 10015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 1907901108,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50000,
+        60000,
+        150020,
+        150012
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1745,
+        6979,
+        859,
+        3438
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ScheduleGroupId": 1001,
+      "OrderInGroup": 6,
+      "Id": 10016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 1907901108,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50000,
+        60000,
+        150020,
+        150012
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1815,
+        7258,
+        894,
+        3575
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -171,7 +275,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -211,7 +315,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -251,7 +355,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -291,24 +395,128 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
+        "Item",
+        "Item",
         "Item",
         "Item"
       ],
       "ExtraRewardParcelId": [
         50000,
-        60000
+        60000,
+        150020,
+        150012
       ],
       "ExtraRewardAmount": [
+        1,
+        1,
         1,
         1
       ],
       "ExtraRewardProb": [
-        2500,
-        10000
+        1675,
+        6700,
+        825,
+        3300
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ScheduleGroupId": 1101,
+      "OrderInGroup": 5,
+      "Id": 11015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 358080736,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50000,
+        60000,
+        150020,
+        150012
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1745,
+        6979,
+        859,
+        3438
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ScheduleGroupId": 1101,
+      "OrderInGroup": 6,
+      "Id": 11016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 358080736,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50000,
+        60000,
+        150020,
+        150012
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1815,
+        7258,
+        894,
+        3575
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -331,7 +539,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -371,7 +579,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -411,7 +619,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -451,24 +659,128 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
+        "Item",
+        "Item",
         "Item",
         "Item"
       ],
       "ExtraRewardParcelId": [
         50001,
-        60001
+        60001,
+        150021,
+        150013
       ],
       "ExtraRewardAmount": [
+        1,
+        1,
         1,
         1
       ],
       "ExtraRewardProb": [
-        2000,
-        8000
+        1340,
+        5360,
+        660,
+        2640
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ScheduleGroupId": 1201,
+      "OrderInGroup": 5,
+      "Id": 12015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 261901867,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50001,
+        60001,
+        150021,
+        150013
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1396,
+        5583,
+        688,
+        2750
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ScheduleGroupId": 1201,
+      "OrderInGroup": 6,
+      "Id": 12016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 261901867,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50001,
+        60001,
+        150021,
+        150013
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1452,
+        5807,
+        715,
+        2860
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -491,7 +803,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -531,7 +843,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -571,7 +883,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -611,24 +923,128 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
+        "Item",
+        "Item",
         "Item",
         "Item"
       ],
       "ExtraRewardParcelId": [
         50001,
-        60001
+        60001,
+        150021,
+        150013
       ],
       "ExtraRewardAmount": [
+        1,
+        1,
         1,
         1
       ],
       "ExtraRewardProb": [
-        2000,
-        8000
+        1340,
+        5360,
+        660,
+        2640
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ScheduleGroupId": 1301,
+      "OrderInGroup": 5,
+      "Id": 13015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 774508018,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50001,
+        60001,
+        150021,
+        150013
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1396,
+        5583,
+        688,
+        2750
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ScheduleGroupId": 1301,
+      "OrderInGroup": 6,
+      "Id": 13016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 774508018,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50001,
+        60001,
+        150021,
+        150013
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1452,
+        5807,
+        715,
+        2860
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -651,7 +1067,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -691,7 +1107,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -731,7 +1147,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -771,24 +1187,128 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
+        "Item",
+        "Item",
         "Item",
         "Item"
       ],
       "ExtraRewardParcelId": [
         50002,
-        60002
+        60002,
+        150022,
+        150014
       ],
       "ExtraRewardAmount": [
+        1,
+        1,
         1,
         1
       ],
       "ExtraRewardProb": [
-        1500,
-        6000
+        1005,
+        4020,
+        495,
+        1980
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ScheduleGroupId": 1401,
+      "OrderInGroup": 5,
+      "Id": 14015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 3140661513,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50002,
+        60002,
+        150022,
+        150014
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1047,
+        4188,
+        516,
+        2063
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ScheduleGroupId": 1401,
+      "OrderInGroup": 6,
+      "Id": 14016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 3140661513,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50002,
+        60002,
+        150022,
+        150014
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1089,
+        4355,
+        536,
+        2145
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -811,7 +1331,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -851,7 +1371,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -891,7 +1411,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -931,24 +1451,128 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
+        "Item",
+        "Item",
         "Item",
         "Item"
       ],
       "ExtraRewardParcelId": [
         50002,
-        60002
+        60002,
+        150022,
+        150014
       ],
       "ExtraRewardAmount": [
+        1,
+        1,
         1,
         1
       ],
       "ExtraRewardProb": [
-        1500,
-        6000
+        1005,
+        4020,
+        495,
+        1980
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ScheduleGroupId": 1501,
+      "OrderInGroup": 5,
+      "Id": 15015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_1",
+      "LocalizeEtcId": 1107627875,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50002,
+        60002,
+        150022,
+        150014
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1047,
+        4188,
+        516,
+        2063
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ScheduleGroupId": 1501,
+      "OrderInGroup": 6,
+      "Id": 15016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_1",
+      "LocalizeEtcId": 1107627875,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50002,
+        60002,
+        150022,
+        150014
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1089,
+        4355,
+        536,
+        2145
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -971,7 +1595,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -1011,7 +1635,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -1051,7 +1675,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -1091,24 +1715,128 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
+        "Item",
+        "Item",
         "Item",
         "Item"
       ],
       "ExtraRewardParcelId": [
         50003,
-        60003
+        60003,
+        150023,
+        150015
       ],
       "ExtraRewardAmount": [
+        1,
+        1,
         1,
         1
       ],
       "ExtraRewardProb": [
-        1000,
-        4000
+        670,
+        2680,
+        330,
+        1320
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ScheduleGroupId": 1601,
+      "OrderInGroup": 5,
+      "Id": 16015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 3657567135,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50003,
+        60003,
+        150023,
+        150015
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        698,
+        2792,
+        344,
+        1375
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        1
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 업무관",
+      "ScheduleGroupId": 1601,
+      "OrderInGroup": 6,
+      "Id": 16016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 3657567135,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50003,
+        60003,
+        150023,
+        150015
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        726,
+        2903,
+        359,
+        1430
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -1131,7 +1859,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -1171,7 +1899,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -1211,7 +1939,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -1251,24 +1979,128 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
+        "Item",
+        "Item",
         "Item",
         "Item"
       ],
       "ExtraRewardParcelId": [
         50004,
-        60004
+        60004,
+        150024,
+        150016
       ],
       "ExtraRewardAmount": [
+        1,
+        1,
         1,
         1
       ],
       "ExtraRewardProb": [
         2500,
-        10000
+        6700,
+        825,
+        3300
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ScheduleGroupId": 7001,
+      "OrderInGroup": 5,
+      "Id": 70015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1833374923,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50004,
+        60004,
+        150024,
+        150016
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1745,
+        6979,
+        859,
+        3438
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ScheduleGroupId": 7001,
+      "OrderInGroup": 6,
+      "Id": 70016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1833374923,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50004,
+        60004,
+        150024,
+        150016
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1815,
+        7258,
+        894,
+        3575
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -1291,7 +2123,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -1331,7 +2163,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -1371,7 +2203,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -1411,24 +2243,128 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
+        "Item",
+        "Item",
         "Item",
         "Item"
       ],
       "ExtraRewardParcelId": [
         50004,
-        60004
+        60004,
+        150024,
+        150016
       ],
       "ExtraRewardAmount": [
+        1,
+        1,
         1,
         1
       ],
       "ExtraRewardProb": [
         2500,
-        10000
+        6700,
+        825,
+        3300
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ScheduleGroupId": 7101,
+      "OrderInGroup": 5,
+      "Id": 71015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 3691365347,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50004,
+        60004,
+        150024,
+        150016
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1745,
+        6979,
+        859,
+        3438
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ScheduleGroupId": 7101,
+      "OrderInGroup": 6,
+      "Id": 71016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 3691365347,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50004,
+        60004,
+        150024,
+        150016
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1815,
+        7258,
+        894,
+        3575
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -1451,7 +2387,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -1491,7 +2427,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -1531,7 +2467,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -1571,24 +2507,128 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
+        "Item",
+        "Item",
         "Item",
         "Item"
       ],
       "ExtraRewardParcelId": [
         50005,
-        60005
+        60005,
+        150025,
+        150017
       ],
       "ExtraRewardAmount": [
+        1,
+        1,
         1,
         1
       ],
       "ExtraRewardProb": [
         2000,
-        8000
+        5360,
+        660,
+        2640
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ScheduleGroupId": 7201,
+      "OrderInGroup": 5,
+      "Id": 72015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 2987442229,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50005,
+        60005,
+        150025,
+        150017
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1396,
+        5583,
+        688,
+        2750
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ScheduleGroupId": 7201,
+      "OrderInGroup": 6,
+      "Id": 72016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 2987442229,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50005,
+        60005,
+        150025,
+        150017
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1452,
+        5807,
+        715,
+        2860
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -1611,7 +2651,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -1651,7 +2691,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -1691,7 +2731,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -1731,24 +2771,128 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
+        "Item",
+        "Item",
         "Item",
         "Item"
       ],
       "ExtraRewardParcelId": [
         50005,
-        60005
+        60005,
+        150025,
+        150017
       ],
       "ExtraRewardAmount": [
+        1,
+        1,
         1,
         1
       ],
       "ExtraRewardProb": [
         2000,
-        8000
+        5360,
+        660,
+        2640
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ScheduleGroupId": 7301,
+      "OrderInGroup": 5,
+      "Id": 73015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 174166180,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50005,
+        60005,
+        150025,
+        150017
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1396,
+        5583,
+        688,
+        2750
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ScheduleGroupId": 7301,
+      "OrderInGroup": 6,
+      "Id": 73016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 174166180,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50005,
+        60005,
+        150025,
+        150017
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1452,
+        5807,
+        715,
+        2860
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -1771,7 +2915,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -1811,7 +2955,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -1851,7 +2995,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -1891,24 +3035,128 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
+        "Item",
+        "Item",
         "Item",
         "Item"
       ],
       "ExtraRewardParcelId": [
         50006,
-        60006
+        60006,
+        150026,
+        150018
       ],
       "ExtraRewardAmount": [
+        1,
+        1,
         1,
         1
       ],
       "ExtraRewardProb": [
         1500,
-        6000
+        4020,
+        495,
+        1980
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ScheduleGroupId": 7401,
+      "OrderInGroup": 5,
+      "Id": 74015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 3217933897,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50006,
+        60006,
+        150026,
+        150018
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1047,
+        4188,
+        516,
+        2063
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ScheduleGroupId": 7401,
+      "OrderInGroup": 6,
+      "Id": 74016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 3217933897,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50006,
+        60006,
+        150026,
+        150018
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1089,
+        4355,
+        536,
+        2145
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -1931,7 +3179,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -1971,7 +3219,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -2011,7 +3259,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -2051,24 +3299,128 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
+        "Item",
+        "Item",
         "Item",
         "Item"
       ],
       "ExtraRewardParcelId": [
         50006,
-        60006
+        60006,
+        150026,
+        150018
       ],
       "ExtraRewardAmount": [
+        1,
+        1,
         1,
         1
       ],
       "ExtraRewardProb": [
         1500,
-        6000
+        4020,
+        495,
+        1980
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ScheduleGroupId": 7501,
+      "OrderInGroup": 5,
+      "Id": 75015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 1142275086,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50006,
+        60006,
+        150026,
+        150018
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1047,
+        4188,
+        516,
+        2063
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ScheduleGroupId": 7501,
+      "OrderInGroup": 6,
+      "Id": 75016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 1142275086,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50006,
+        60006,
+        150026,
+        150018
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1089,
+        4355,
+        536,
+        2145
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -2091,7 +3443,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -2131,7 +3483,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -2171,7 +3523,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -2211,24 +3563,128 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
+        "Item",
+        "Item",
         "Item",
         "Item"
       ],
       "ExtraRewardParcelId": [
         50007,
-        60007
+        60007,
+        150027,
+        150019
       ],
       "ExtraRewardAmount": [
+        1,
+        1,
         1,
         1
       ],
       "ExtraRewardProb": [
         1000,
-        4000
+        2680,
+        330,
+        1320
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ScheduleGroupId": 7601,
+      "OrderInGroup": 5,
+      "Id": 76015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 2776103305,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50007,
+        60007,
+        150027,
+        150019
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        698,
+        2792,
+        344,
+        1375
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        7
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "샬레 레지던스",
+      "ScheduleGroupId": 7601,
+      "OrderInGroup": 6,
+      "Id": 76016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 2776103305,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item",
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        50007,
+        60007,
+        150027,
+        150019
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        726,
+        2903,
+        359,
+        1430
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -2251,7 +3707,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -2291,7 +3747,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -2331,7 +3787,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -2371,7 +3827,7 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
@@ -2402,6 +3858,86 @@
     },
     {
       "Location": "게헨나 학원",
+      "ScheduleGroupId": 11001,
+      "OrderInGroup": 5,
+      "Id": 110015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 4294611526,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3030,
+        60008
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2604,
+        10000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ScheduleGroupId": 11001,
+      "OrderInGroup": 6,
+      "Id": 110016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 4294611526,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3030,
+        60009
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2708,
+        10000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
       "ScheduleGroupId": 11101,
       "OrderInGroup": 1,
       "Id": 111011,
@@ -2411,7 +3947,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -2451,7 +3987,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -2491,7 +4027,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -2531,7 +4067,7 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
@@ -2562,6 +4098,86 @@
     },
     {
       "Location": "게헨나 학원",
+      "ScheduleGroupId": 11101,
+      "OrderInGroup": 5,
+      "Id": 111015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 1274324253,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3030,
+        60008
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2604,
+        10000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ScheduleGroupId": 11101,
+      "OrderInGroup": 6,
+      "Id": 111016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 1274324253,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3030,
+        60009
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2708,
+        10000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
       "ScheduleGroupId": 11201,
       "OrderInGroup": 1,
       "Id": 112011,
@@ -2571,7 +4187,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -2611,7 +4227,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -2651,7 +4267,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -2691,7 +4307,7 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
@@ -2722,6 +4338,86 @@
     },
     {
       "Location": "게헨나 학원",
+      "ScheduleGroupId": 11201,
+      "OrderInGroup": 5,
+      "Id": 112015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 358653965,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3031,
+        4031
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2083,
+        8333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ScheduleGroupId": 11201,
+      "OrderInGroup": 6,
+      "Id": 112016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 358653965,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3031,
+        4031
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2167,
+        8667
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
       "ScheduleGroupId": 11301,
       "OrderInGroup": 1,
       "Id": 113011,
@@ -2731,7 +4427,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -2771,7 +4467,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -2811,7 +4507,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -2851,7 +4547,7 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
@@ -2882,6 +4578,86 @@
     },
     {
       "Location": "게헨나 학원",
+      "ScheduleGroupId": 11301,
+      "OrderInGroup": 5,
+      "Id": 113015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 2196189972,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3031,
+        4031
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2083,
+        8333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ScheduleGroupId": 11301,
+      "OrderInGroup": 6,
+      "Id": 113016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 2196189972,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3031,
+        4031
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2167,
+        8667
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
       "ScheduleGroupId": 11401,
       "OrderInGroup": 1,
       "Id": 114011,
@@ -2891,7 +4667,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -2931,7 +4707,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -2971,7 +4747,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -3011,7 +4787,7 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
@@ -3042,6 +4818,86 @@
     },
     {
       "Location": "게헨나 학원",
+      "ScheduleGroupId": 11401,
+      "OrderInGroup": 5,
+      "Id": 114015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1866984703,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3032,
+        4032
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1563,
+        6250
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ScheduleGroupId": 11401,
+      "OrderInGroup": 6,
+      "Id": 114016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1866984703,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3032,
+        4032
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1625,
+        6500
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
       "ScheduleGroupId": 11501,
       "OrderInGroup": 1,
       "Id": 115011,
@@ -3051,7 +4907,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -3091,7 +4947,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -3131,7 +4987,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -3171,7 +5027,7 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
@@ -3202,6 +5058,86 @@
     },
     {
       "Location": "게헨나 학원",
+      "ScheduleGroupId": 11501,
+      "OrderInGroup": 5,
+      "Id": 115015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 3032755222,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3032,
+        4032
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1563,
+        6250
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ScheduleGroupId": 11501,
+      "OrderInGroup": 6,
+      "Id": 115016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 3032755222,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3032,
+        4032
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1625,
+        6500
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
       "ScheduleGroupId": 11601,
       "OrderInGroup": 1,
       "Id": 116011,
@@ -3211,7 +5147,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -3251,7 +5187,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -3291,7 +5227,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -3331,7 +5267,7 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
@@ -3362,6 +5298,86 @@
     },
     {
       "Location": "게헨나 학원",
+      "ScheduleGroupId": 11601,
+      "OrderInGroup": 5,
+      "Id": 116015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_1",
+      "LocalizeEtcId": 970571410,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3033,
+        4033
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1042,
+        4167
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ScheduleGroupId": 11601,
+      "OrderInGroup": 6,
+      "Id": 116016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_1",
+      "LocalizeEtcId": 970571410,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3033,
+        4033
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1083,
+        4333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
       "ScheduleGroupId": 11701,
       "OrderInGroup": 1,
       "Id": 117011,
@@ -3371,7 +5387,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -3411,7 +5427,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -3451,7 +5467,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -3491,7 +5507,7 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
@@ -3521,6 +5537,86 @@
       ]
     },
     {
+      "Location": "게헨나 학원",
+      "ScheduleGroupId": 11701,
+      "OrderInGroup": 5,
+      "Id": 117015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 1533671597,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3033,
+        4033
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1042,
+        4167
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "게헨나 학원",
+      "ScheduleGroupId": 11701,
+      "OrderInGroup": 6,
+      "Id": 117016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 1533671597,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3033,
+        4033
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1083,
+        4333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        11
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
       "Location": "아비도스 학원",
       "ScheduleGroupId": 12001,
       "OrderInGroup": 1,
@@ -3531,7 +5627,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -3548,7 +5644,7 @@
       ],
       "ExtraRewardProb": [
         1250,
-        2500
+        5000
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -3571,7 +5667,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -3588,7 +5684,7 @@
       ],
       "ExtraRewardProb": [
         1667,
-        5000
+        6666
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -3611,7 +5707,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -3628,7 +5724,7 @@
       ],
       "ExtraRewardProb": [
         2083,
-        7500
+        8333
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -3651,7 +5747,7 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
@@ -3668,6 +5764,86 @@
       ],
       "ExtraRewardProb": [
         2500,
+        10000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ScheduleGroupId": 12001,
+      "OrderInGroup": 5,
+      "Id": 120015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1983840990,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3040,
+        60010
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2604,
+        10000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ScheduleGroupId": 12001,
+      "OrderInGroup": 6,
+      "Id": 120016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1983840990,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3040,
+        60011
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2708,
         10000
       ],
       "RewardParcelType": [
@@ -3691,7 +5867,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -3708,7 +5884,7 @@
       ],
       "ExtraRewardProb": [
         1250,
-        2500
+        5000
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -3731,7 +5907,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -3748,7 +5924,7 @@
       ],
       "ExtraRewardProb": [
         1667,
-        5000
+        6666
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -3771,7 +5947,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -3788,7 +5964,7 @@
       ],
       "ExtraRewardProb": [
         2083,
-        7500
+        8333
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -3811,7 +5987,7 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
@@ -3842,6 +6018,86 @@
     },
     {
       "Location": "아비도스 학원",
+      "ScheduleGroupId": 12101,
+      "OrderInGroup": 5,
+      "Id": 121015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 3073680445,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3040,
+        60010
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2604,
+        10000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ScheduleGroupId": 12101,
+      "OrderInGroup": 6,
+      "Id": 121016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 3073680445,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3040,
+        60011
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2708,
+        10000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
       "ScheduleGroupId": 12201,
       "OrderInGroup": 1,
       "Id": 122011,
@@ -3851,7 +6107,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -3868,7 +6124,7 @@
       ],
       "ExtraRewardProb": [
         1000,
-        2000
+        4000
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -3891,7 +6147,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -3908,7 +6164,7 @@
       ],
       "ExtraRewardProb": [
         1333,
-        4000
+        5333
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -3931,7 +6187,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -3948,7 +6204,7 @@
       ],
       "ExtraRewardProb": [
         1667,
-        6000
+        6666
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -3971,7 +6227,7 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
@@ -3989,6 +6245,86 @@
       "ExtraRewardProb": [
         2000,
         8000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ScheduleGroupId": 12201,
+      "OrderInGroup": 5,
+      "Id": 122015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 3030528899,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3041,
+        4041
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2083,
+        8333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ScheduleGroupId": 12201,
+      "OrderInGroup": 6,
+      "Id": 122016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 3030528899,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3041,
+        4041
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2167,
+        8667
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -4011,7 +6347,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -4028,7 +6364,7 @@
       ],
       "ExtraRewardProb": [
         1000,
-        2000
+        4000
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -4051,7 +6387,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -4068,7 +6404,7 @@
       ],
       "ExtraRewardProb": [
         1333,
-        4000
+        5333
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -4091,7 +6427,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -4108,7 +6444,7 @@
       ],
       "ExtraRewardProb": [
         1667,
-        6000
+        6666
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -4131,7 +6467,7 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
@@ -4162,6 +6498,86 @@
     },
     {
       "Location": "아비도스 학원",
+      "ScheduleGroupId": 12301,
+      "OrderInGroup": 5,
+      "Id": 123015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 4060200853,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3041,
+        4041
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2083,
+        8333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ScheduleGroupId": 12301,
+      "OrderInGroup": 6,
+      "Id": 123016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 4060200853,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3041,
+        4041
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2167,
+        8667
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
       "ScheduleGroupId": 12401,
       "OrderInGroup": 1,
       "Id": 124011,
@@ -4171,7 +6587,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -4188,7 +6604,7 @@
       ],
       "ExtraRewardProb": [
         750,
-        1500
+        3000
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -4211,7 +6627,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -4228,7 +6644,7 @@
       ],
       "ExtraRewardProb": [
         1000,
-        3000
+        4000
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -4251,7 +6667,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -4268,7 +6684,7 @@
       ],
       "ExtraRewardProb": [
         1250,
-        4500
+        5000
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -4291,7 +6707,7 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
@@ -4309,6 +6725,86 @@
       "ExtraRewardProb": [
         1500,
         6000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ScheduleGroupId": 12401,
+      "OrderInGroup": 5,
+      "Id": 124015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 4149434655,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3042,
+        4042
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1563,
+        6250
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ScheduleGroupId": 12401,
+      "OrderInGroup": 6,
+      "Id": 124016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 4149434655,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3042,
+        4042
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1625,
+        6500
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -4331,7 +6827,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -4348,7 +6844,7 @@
       ],
       "ExtraRewardProb": [
         750,
-        1500
+        3000
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -4371,7 +6867,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -4388,7 +6884,7 @@
       ],
       "ExtraRewardProb": [
         1000,
-        3000
+        4000
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -4411,7 +6907,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -4428,7 +6924,7 @@
       ],
       "ExtraRewardProb": [
         1250,
-        4500
+        5000
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -4451,7 +6947,7 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
@@ -4482,6 +6978,86 @@
     },
     {
       "Location": "아비도스 학원",
+      "ScheduleGroupId": 12501,
+      "OrderInGroup": 5,
+      "Id": 125015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 2812564490,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3042,
+        4042
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1563,
+        6250
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ScheduleGroupId": 12501,
+      "OrderInGroup": 6,
+      "Id": 125016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 2812564490,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3042,
+        4042
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1625,
+        6500
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
       "ScheduleGroupId": 12601,
       "OrderInGroup": 1,
       "Id": 126011,
@@ -4491,7 +7067,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -4508,7 +7084,7 @@
       ],
       "ExtraRewardProb": [
         500,
-        1000
+        2000
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -4531,7 +7107,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -4548,7 +7124,7 @@
       ],
       "ExtraRewardProb": [
         667,
-        2000
+        2666
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -4571,7 +7147,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -4588,7 +7164,7 @@
       ],
       "ExtraRewardProb": [
         833,
-        3000
+        3333
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -4611,7 +7187,7 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
@@ -4629,6 +7205,86 @@
       "ExtraRewardProb": [
         1000,
         4000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ScheduleGroupId": 12601,
+      "OrderInGroup": 5,
+      "Id": 126015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 3019364332,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3043,
+        4043
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1042,
+        4167
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ScheduleGroupId": 12601,
+      "OrderInGroup": 6,
+      "Id": 126016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 3019364332,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3043,
+        4043
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1083,
+        4333
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -4651,7 +7307,7 @@
       "LocationRank": 1,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 200,
+      "SecretStoneProb": 400,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1000,
       "ExtraRewardParcelType": [
@@ -4668,7 +7324,7 @@
       ],
       "ExtraRewardProb": [
         500,
-        1000
+        2000
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -4691,7 +7347,7 @@
       "LocationRank": 4,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 300,
+      "SecretStoneProb": 600,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 1500,
       "ExtraRewardParcelType": [
@@ -4708,7 +7364,7 @@
       ],
       "ExtraRewardProb": [
         667,
-        2000
+        2666
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -4731,7 +7387,7 @@
       "LocationRank": 7,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 400,
+      "SecretStoneProb": 800,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2000,
       "ExtraRewardParcelType": [
@@ -4748,7 +7404,7 @@
       ],
       "ExtraRewardProb": [
         833,
-        3000
+        3333
       ],
       "RewardParcelType": [
         "LocationExp"
@@ -4771,7 +7427,7 @@
       "LocationRank": 10,
       "FavorExp": 15,
       "SecretStoneAmount": 1,
-      "SecretStoneProb": 500,
+      "SecretStoneProb": 1000,
       "ExtraFavorExp": 15,
       "ExtraFavorExpProb": 2500,
       "ExtraRewardParcelType": [
@@ -4795,6 +7451,2006 @@
       ],
       "RewardParcelId": [
         12
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ScheduleGroupId": 12701,
+      "OrderInGroup": 5,
+      "Id": 127015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 2602511445,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3043,
+        4043
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1042,
+        4167
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "아비도스 학원",
+      "ScheduleGroupId": 12701,
+      "OrderInGroup": 6,
+      "Id": 127016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 2602511445,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3043,
+        4043
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1083,
+        4333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        12
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 130001,
+      "OrderInGroup": 1,
+      "Id": 1300011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1925286931,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3050,
+        4050
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1250,
+        5000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 130001,
+      "OrderInGroup": 2,
+      "Id": 1300012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1925286931,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 600,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3050,
+        4050
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1667,
+        6666
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 130001,
+      "OrderInGroup": 3,
+      "Id": 1300013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1925286931,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 800,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3050,
+        4050
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2083,
+        8333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 130001,
+      "OrderInGroup": 4,
+      "Id": 1300014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1925286931,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1000,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3050,
+        4050
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2500,
+        10000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 130001,
+      "OrderInGroup": 5,
+      "Id": 1300015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1925286931,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3050,
+        60012
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2604,
+        10000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 130001,
+      "OrderInGroup": 6,
+      "Id": 1300016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1925286931,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3050,
+        60013
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2708,
+        10000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 131001,
+      "OrderInGroup": 1,
+      "Id": 1310011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 698860447,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3050,
+        4050
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1250,
+        5000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 131001,
+      "OrderInGroup": 2,
+      "Id": 1310012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 698860447,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 600,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3050,
+        4050
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1667,
+        6666
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 131001,
+      "OrderInGroup": 3,
+      "Id": 1310013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 698860447,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 800,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3050,
+        4050
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2083,
+        8333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 131001,
+      "OrderInGroup": 4,
+      "Id": 1310014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 698860447,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1000,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3050,
+        4050
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2500,
+        10000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 131001,
+      "OrderInGroup": 5,
+      "Id": 1310015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 698860447,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3050,
+        60012
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2604,
+        10000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 131001,
+      "OrderInGroup": 6,
+      "Id": 1310016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_3",
+      "LocalizeEtcId": 698860447,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3050,
+        60013
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2708,
+        10000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 132001,
+      "OrderInGroup": 1,
+      "Id": 1320011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 2688045816,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3051,
+        4051
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        4000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 132001,
+      "OrderInGroup": 2,
+      "Id": 1320012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 2688045816,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 600,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3051,
+        4051
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1333,
+        5333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 132001,
+      "OrderInGroup": 3,
+      "Id": 1320013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 2688045816,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 800,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3051,
+        4051
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1667,
+        6666
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 132001,
+      "OrderInGroup": 4,
+      "Id": 1320014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 2688045816,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1000,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3051,
+        4051
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2000,
+        8000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 132001,
+      "OrderInGroup": 5,
+      "Id": 1320015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 2688045816,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3051,
+        4051
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2083,
+        8333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 132001,
+      "OrderInGroup": 6,
+      "Id": 1320016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 2688045816,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3051,
+        4051
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2167,
+        8667
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 133001,
+      "OrderInGroup": 1,
+      "Id": 1330011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 1022652590,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3051,
+        4051
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        4000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 133001,
+      "OrderInGroup": 2,
+      "Id": 1330012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 1022652590,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 600,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3051,
+        4051
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1333,
+        5333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 133001,
+      "OrderInGroup": 3,
+      "Id": 1330013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 1022652590,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 800,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3051,
+        4051
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1667,
+        6666
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 133001,
+      "OrderInGroup": 4,
+      "Id": 1330014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 1022652590,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1000,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3051,
+        4051
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2000,
+        8000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 133001,
+      "OrderInGroup": 5,
+      "Id": 1330015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 1022652590,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3051,
+        4051
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2083,
+        8333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 133001,
+      "OrderInGroup": 6,
+      "Id": 1330016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_5",
+      "LocalizeEtcId": 1022652590,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3051,
+        4051
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        2167,
+        8667
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 134001,
+      "OrderInGroup": 1,
+      "Id": 1340011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 2885237148,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3052,
+        4052
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        750,
+        3000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 134001,
+      "OrderInGroup": 2,
+      "Id": 1340012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 2885237148,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 600,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3052,
+        4052
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        4000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 134001,
+      "OrderInGroup": 3,
+      "Id": 1340013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 2885237148,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 800,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3052,
+        4052
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1250,
+        5000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 134001,
+      "OrderInGroup": 4,
+      "Id": 1340014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 2885237148,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1000,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3052,
+        4052
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1500,
+        6000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 134001,
+      "OrderInGroup": 5,
+      "Id": 1340015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 2885237148,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3052,
+        4052
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1563,
+        6250
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 134001,
+      "OrderInGroup": 6,
+      "Id": 1340016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 2885237148,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3052,
+        4052
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1625,
+        6500
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 135001,
+      "OrderInGroup": 1,
+      "Id": 1350011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 3070757653,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3052,
+        4052
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        750,
+        3000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 135001,
+      "OrderInGroup": 2,
+      "Id": 1350012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 3070757653,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 600,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3052,
+        4052
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        4000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 135001,
+      "OrderInGroup": 3,
+      "Id": 1350013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 3070757653,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 800,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3052,
+        4052
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1250,
+        5000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 135001,
+      "OrderInGroup": 4,
+      "Id": 1350014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 3070757653,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1000,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3052,
+        4052
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1500,
+        6000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 135001,
+      "OrderInGroup": 5,
+      "Id": 1350015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 3070757653,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3052,
+        4052
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1563,
+        6250
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 135001,
+      "OrderInGroup": 6,
+      "Id": 1350016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 3070757653,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3052,
+        4052
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1625,
+        6500
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 136001,
+      "OrderInGroup": 1,
+      "Id": 1360011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1295016811,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3053,
+        4053
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        500,
+        2000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 136001,
+      "OrderInGroup": 2,
+      "Id": 1360012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1295016811,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 600,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3053,
+        4053
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        667,
+        2666
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 136001,
+      "OrderInGroup": 3,
+      "Id": 1360013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1295016811,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 800,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3053,
+        4053
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        833,
+        3333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 136001,
+      "OrderInGroup": 4,
+      "Id": 1360014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1295016811,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1000,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3053,
+        4053
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        4000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 136001,
+      "OrderInGroup": 5,
+      "Id": 1360015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1295016811,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3053,
+        4053
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1042,
+        4167
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 136001,
+      "OrderInGroup": 6,
+      "Id": 1360016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_4",
+      "LocalizeEtcId": 1295016811,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3053,
+        4053
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1083,
+        4333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 137001,
+      "OrderInGroup": 1,
+      "Id": 1370011,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 895510277,
+      "LocationRank": 1,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 400,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3053,
+        4053
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        500,
+        2000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 137001,
+      "OrderInGroup": 2,
+      "Id": 1370012,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 895510277,
+      "LocationRank": 4,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 600,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 1500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3053,
+        4053
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        667,
+        2666
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 137001,
+      "OrderInGroup": 3,
+      "Id": 1370013,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 895510277,
+      "LocationRank": 7,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 800,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2000,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3053,
+        4053
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        833,
+        3333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 137001,
+      "OrderInGroup": 4,
+      "Id": 1370014,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 895510277,
+      "LocationRank": 10,
+      "FavorExp": 15,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1000,
+      "ExtraFavorExp": 15,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3053,
+        4053
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1000,
+        4000
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 137001,
+      "OrderInGroup": 5,
+      "Id": 1370015,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 895510277,
+      "LocationRank": 11,
+      "FavorExp": 20,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1100,
+      "ExtraFavorExp": 20,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3053,
+        4053
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1042,
+        4167
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
+      ],
+      "RewardAmount": [
+        100
+      ]
+    },
+    {
+      "Location": "밀레니엄 학원",
+      "ScheduleGroupId": 137001,
+      "OrderInGroup": 6,
+      "Id": 1370016,
+      "AcademyOperationType": "Lesson",
+      "ProgressTexture": "UIs/01_Common/24_AcademySchedule/AcademyScheduleImage_2",
+      "LocalizeEtcId": 895510277,
+      "LocationRank": 12,
+      "FavorExp": 25,
+      "SecretStoneAmount": 1,
+      "SecretStoneProb": 1200,
+      "ExtraFavorExp": 25,
+      "ExtraFavorExpProb": 2500,
+      "ExtraRewardParcelType": [
+        "Item",
+        "Item"
+      ],
+      "ExtraRewardParcelId": [
+        3053,
+        4053
+      ],
+      "ExtraRewardAmount": [
+        1,
+        1
+      ],
+      "ExtraRewardProb": [
+        1083,
+        4333
+      ],
+      "RewardParcelType": [
+        "LocationExp"
+      ],
+      "RewardParcelId": [
+        13
       ],
       "RewardAmount": [
         100

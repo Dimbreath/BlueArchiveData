@@ -305,6 +305,38 @@
       "FavorEmoticonRewardAmount": 15
     },
     {
+      "CharacterId": 10019,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
+    },
+    {
+      "CharacterId": 10020,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
+    },
+    {
       "CharacterId": 13000,
       "BubbleType": [
         "EmoticonFavorite",
@@ -738,6 +770,22 @@
     },
     {
       "CharacterId": 23006,
+      "BubbleType": [
+        "EmoticonFavorite",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15
+    },
+    {
+      "CharacterId": 23007,
       "BubbleType": [
         "EmoticonFavorite",
         "EmoticonFavorite",

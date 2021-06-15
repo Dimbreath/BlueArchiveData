@@ -2,53 +2,103 @@
   "DataList": [
     {
       "Id": 1,
-      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy01",
-      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy01"
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_01_Kr",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_01_Jp"
     },
     {
       "Id": 2,
-      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy02",
-      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy02"
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_02_Kr",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_02_Jp"
     },
     {
       "Id": 3,
-      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy03",
-      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy03"
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_03_Kr",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_03_Jp"
     },
     {
       "Id": 4,
-      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy04",
-      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy04"
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_04_Kr",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_04_Jp"
     },
     {
       "Id": 5,
-      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy01",
-      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy01"
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_05_Kr",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_05_Jp"
     },
     {
       "Id": 6,
-      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy02",
-      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy02"
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_06_Kr",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_06_Jp"
     },
     {
       "Id": 7,
-      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy03",
-      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy03"
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_07_Kr",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_07_Jp"
     },
     {
       "Id": 8,
-      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy04",
-      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy04"
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_08_Kr",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_08_Jp"
     },
     {
       "Id": 9,
-      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy01",
-      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy01"
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_09_Kr",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_09_Jp"
     },
     {
       "Id": 10,
-      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy02",
-      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_Dummy02"
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_10_Kr",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_10_Jp"
+    },
+    {
+      "Id": 11,
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_11_Kr",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_11_Jp"
+    },
+    {
+      "Id": 12,
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_12_Kr",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_12_Jp"
+    },
+    {
+      "Id": 13,
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_13_Kr",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_13_Jp"
+    },
+    {
+      "Id": 14,
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_14_Kr",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_14_Jp"
+    },
+    {
+      "Id": 15,
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_15_Kr",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_15_Jp"
+    },
+    {
+      "Id": 16,
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_16_Kr",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_16_Jp"
+    },
+    {
+      "Id": 17,
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_17_Kr",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_17_Jp"
+    },
+    {
+      "Id": 18,
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_18_Kr",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_18_Jp"
+    },
+    {
+      "Id": 19,
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_19_Kr",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_19_Jp"
+    },
+    {
+      "Id": 20,
+      "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_20_Kr",
+      "ImagePathJp": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_20_Jp"
     }
   ]
 }

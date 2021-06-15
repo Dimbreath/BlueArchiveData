@@ -730,6 +730,15 @@
       "LoopTranstionTime": 1.033963E-13
     },
     {
+      "Id": 85,
+      "ProductionStep": "Release",
+      "Path": "Audio/BGM/Theme_85_KARUT_32_Library_of_Omen(All)_(-1dB)",
+      "Volume": 1.03390346E-13,
+      "LoopStartTime": 0.0,
+      "LoopEndTime": 0.0,
+      "LoopTranstionTime": 1.033963E-13
+    },
+    {
       "Id": 101,
       "ProductionStep": "Release",
       "Path": "Audio/BGM/Theme_24_Mitsukiyo_13_Endless_Carnival_01_(intro)_(-1dB)",
@@ -804,11 +813,29 @@
     {
       "Id": 301,
       "ProductionStep": "Release",
-      "Path": "Audio/BGM/Theme_34_Nor_06_Aoharu_(-1dB)",
+      "Path": "Audio/BGM/Theme_85_KARUT_32_Library_of_Omen_01_(verse)_(-1dB)",
+      "Volume": 1.03390346E-13,
+      "LoopStartTime": 1.03402685E-13,
+      "LoopEndTime": 1.0313315E-13,
+      "LoopTranstionTime": 1.033963E-13
+    },
+    {
+      "Id": 302,
+      "ProductionStep": "Release",
+      "Path": "Audio/BGM/Theme_85_KARUT_32_Library_of_Omen_02_(chorus)_(-1dB)",
+      "Volume": 1.03390346E-13,
+      "LoopStartTime": 0.0,
+      "LoopEndTime": 1.031661E-13,
+      "LoopTranstionTime": 1.033963E-13
+    },
+    {
+      "Id": 303,
+      "ProductionStep": "Release",
+      "Path": "Audio/BGM/Theme_85_KARUT_32_Library_of_Omen(All)_(-1dB)",
       "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,
-      "LoopTranstionTime": 0.0
+      "LoopTranstionTime": 1.033963E-13
     },
     {
       "Id": 10082,
@@ -832,6 +859,24 @@
       "Id": 10000,
       "ProductionStep": "Release",
       "Path": "Audio/BGM/ClearMorning_Short",
+      "Volume": 1.03390346E-13,
+      "LoopStartTime": 0.0,
+      "LoopEndTime": 0.0,
+      "LoopTranstionTime": 1.033963E-13
+    },
+    {
+      "Id": 10001,
+      "ProductionStep": "Release",
+      "Path": "Audio/BGM/Theme_21_Nor_01_Midnight_Trip_(-1dB)",
+      "Volume": 1.03390346E-13,
+      "LoopStartTime": 1.0336508E-13,
+      "LoopEndTime": 1.03353375E-13,
+      "LoopTranstionTime": 1.0339463E-13
+    },
+    {
+      "Id": 10002,
+      "ProductionStep": "Release",
+      "Path": "Audio/BGM/Theme_21_Nor_01_Midnight_Trip_10s_blank_02",
       "Volume": 1.03390346E-13,
       "LoopStartTime": 0.0,
       "LoopEndTime": 0.0,

@@ -39,6 +39,26 @@
       "DialogCategory": "UIAttendanceEvent01",
       "TitleImagePath": "Uis/01_Common/33_Attendance/ImageFont_Attend_Event_1000",
       "DecorationImagePath": "Uis/01_Common/33_Attendance/Image_Attend_Event_1000"
+    },
+    {
+      "Id": 3,
+      "Type": "Event",
+      "DisplayOrder": 1,
+      "AccountType": "Normal",
+      "AccountLevelLimit": 0,
+      "Title": null,
+      "InfomationLocalizeCode": "AttendanceEvent_Info_Text_01",
+      "CountRule": "Accumulation",
+      "CountReset": "User",
+      "BookSize": 10,
+      "StartDate": "2021-05-27 04:00:00",
+      "StartableEndDate": "2021-07-02 04:00:00",
+      "EndDate": "2021-07-02 04:00:00",
+      "ExpiryDate": 0,
+      "MailType": "Event",
+      "DialogCategory": "UIAttendanceEvent02",
+      "TitleImagePath": "Uis/01_Common/33_Attendance/ImageFont_Attend_Event_2000",
+      "DecorationImagePath": null
     }
   ]
 }

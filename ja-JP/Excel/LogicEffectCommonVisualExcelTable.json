@@ -15,7 +15,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2901313264,
@@ -32,7 +34,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 1879638,
@@ -49,7 +53,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 1063124417,
@@ -66,7 +72,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2918162076,
@@ -83,7 +91,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 3729856231,
@@ -100,7 +110,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 893752000,
@@ -117,7 +129,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2878943974,
@@ -134,7 +148,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 219420186,
@@ -151,7 +167,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2240433966,
@@ -168,7 +186,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2744704006,
@@ -185,7 +205,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2730804290,
@@ -202,7 +224,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2017606013,
@@ -219,7 +243,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 1654039521,
@@ -236,7 +262,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 1120194450,
@@ -253,7 +281,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2614070894,
@@ -270,7 +300,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 466971287,
@@ -287,7 +319,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 1945596997,
@@ -304,7 +338,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 984747699,
@@ -321,7 +357,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2226940592,
@@ -338,7 +376,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 641877810,
@@ -355,7 +395,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 3236345739,
@@ -372,7 +414,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2464144566,
@@ -389,7 +433,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 3975398267,
@@ -406,7 +452,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2908221647,
@@ -423,7 +471,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 3626979433,
@@ -440,7 +490,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2329998669,
@@ -457,7 +509,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2690784199,
@@ -474,7 +528,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 3368561749,
@@ -491,7 +547,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2795767498,
@@ -508,7 +566,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2914769656,
@@ -525,7 +585,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2527665448,
@@ -542,7 +604,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 3097404873,
@@ -559,7 +623,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 3553727518,
@@ -576,7 +642,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2504974704,
@@ -593,7 +661,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 3632978795,
@@ -610,7 +680,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 703601786,
@@ -627,7 +699,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 842791874,
@@ -644,7 +718,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 1433939538,
@@ -661,7 +737,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 500357266,
@@ -678,7 +756,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2156571916,
@@ -695,7 +775,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 3612220451,
@@ -712,7 +794,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 3340931356,
@@ -729,7 +813,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 450845847,
@@ -746,7 +832,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2074384028,
@@ -763,7 +851,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2439885638,
@@ -780,7 +870,9 @@
       "ParticleEndPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 3802407019,
@@ -797,7 +889,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2075725760,
@@ -814,7 +908,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 1082604580,
@@ -831,7 +927,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 1204053160,
@@ -848,7 +946,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2598604334,
@@ -865,7 +965,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": "Effect/Common_Variant/FX_Common_Effect_Poison_Apply_Variant",
-      "ParticleApplySocket": "Head"
+      "ParticleApplySocket": "Head",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 3501082059,
@@ -882,7 +984,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": "Effect/Common_Variant/FX_Common_Effect_Poison_Apply_Variant",
-      "ParticleApplySocket": "Head"
+      "ParticleApplySocket": "Head",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 576268658,
@@ -899,7 +1003,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": "Effect/Common_Variant/FX_Common_Burnning_Variant",
-      "ParticleApplySocket": "Head"
+      "ParticleApplySocket": "Head",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 1747413669,
@@ -916,7 +1022,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 1081101121,
@@ -933,7 +1041,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": "Effect/Common_Variant/FX_Common_Effect_DotHeal_Variant",
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 1176542071,
@@ -950,7 +1060,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2841571640,
@@ -967,7 +1079,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 1886856702,
@@ -984,7 +1098,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2305213079,
@@ -1001,7 +1117,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2592645500,
@@ -1018,7 +1136,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2849390100,
@@ -1035,7 +1155,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 720513377,
@@ -1052,7 +1174,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 4102806804,
@@ -1069,7 +1193,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2018822638,
@@ -1086,7 +1212,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 484744461,
@@ -1103,7 +1231,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2543710472,
@@ -1120,7 +1250,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 1096377425,
@@ -1137,7 +1269,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 3727671672,
@@ -1154,7 +1288,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 3913311100,
@@ -1167,7 +1303,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 1417371326,
@@ -1180,7 +1318,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2362021517,
@@ -1193,7 +1333,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 2835237177,
@@ -1210,7 +1352,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 1543393246,
@@ -1227,7 +1371,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 3165523278,
@@ -1244,7 +1390,9 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     },
     {
       "StringID": 3176826282,
@@ -1261,7 +1409,28 @@
       "ParticleEndPath": null,
       "ParticleEndSocket": "None",
       "ParticleApplyPath": null,
-      "ParticleApplySocket": "None"
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
+    },
+    {
+      "StringID": 4246034849,
+      "IconSpriteName": "Combat_Icon_Debuff_Hieronymus",
+      "IconDispelColor": [
+        6.0837773E-21,
+        6.0838666E-21,
+        6.0835745E-21
+      ],
+      "ParticleEnterPath": null,
+      "ParticleEnterSocket": "None",
+      "ParticleLoopPath": null,
+      "ParticleLoopSocket": "None",
+      "ParticleEndPath": null,
+      "ParticleEndSocket": "None",
+      "ParticleApplyPath": null,
+      "ParticleApplySocket": "None",
+      "ParticleRemovedPath": null,
+      "ParticleRemovedSocket": "None"
     }
   ]
 }

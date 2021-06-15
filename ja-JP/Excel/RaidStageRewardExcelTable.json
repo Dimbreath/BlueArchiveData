@@ -37,6 +37,15 @@
       "ClearStageRewardAmount": 100
     },
     {
+      "GroupId": 104,
+      "IsClearStageRewardHideInfo": false,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "레이드 코인",
+      "ClearStageRewardAmount": 120
+    },
+    {
       "GroupId": 200,
       "IsClearStageRewardHideInfo": false,
       "ClearStageRewardProb": 10000,
@@ -71,6 +80,15 @@
       "ClearStageRewardParcelUniqueID": 7,
       "ClearStageRewardParcelUniqueName": "레이드 코인",
       "ClearStageRewardAmount": 100
+    },
+    {
+      "GroupId": 204,
+      "IsClearStageRewardHideInfo": false,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "레이드 코인",
+      "ClearStageRewardAmount": 120
     },
     {
       "GroupId": 300,
@@ -109,6 +127,15 @@
       "ClearStageRewardAmount": 100
     },
     {
+      "GroupId": 304,
+      "IsClearStageRewardHideInfo": false,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "레이드 코인",
+      "ClearStageRewardAmount": 120
+    },
+    {
       "GroupId": 400,
       "IsClearStageRewardHideInfo": false,
       "ClearStageRewardProb": 10000,
@@ -143,6 +170,15 @@
       "ClearStageRewardParcelUniqueID": 7,
       "ClearStageRewardParcelUniqueName": "레이드 코인",
       "ClearStageRewardAmount": 100
+    },
+    {
+      "GroupId": 404,
+      "IsClearStageRewardHideInfo": false,
+      "ClearStageRewardProb": 10000,
+      "ClearStageRewardParcelType": "Item",
+      "ClearStageRewardParcelUniqueID": 7,
+      "ClearStageRewardParcelUniqueName": "레이드 코인",
+      "ClearStageRewardAmount": 120
     }
   ]
 }

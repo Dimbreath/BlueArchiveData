@@ -447,6 +447,13 @@
       "MissionId": 0,
       "TextId": 2502128915,
       "LifeTime": 3000
+    },
+    {
+      "Id": 3143022727,
+      "ToastType": "Tactic_Left",
+      "MissionId": 0,
+      "TextId": 517755126,
+      "LifeTime": 3000
     }
   ]
 }

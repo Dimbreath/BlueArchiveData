@@ -555,6 +555,152 @@
         "ClosedBuilding",
         "TreasureHunter"
       ]
+    },
+    {
+      "Id": 50,
+      "LocationId": 13,
+      "LocationRankForUnlock": 1,
+      "LocalizeEtcId": 1925286931,
+      "StudentVisitProb": [
+        10000,
+        10000,
+        7500
+      ],
+      "RewardGroupId": [
+        130001
+      ],
+      "Tags": [
+        "Millennium",
+        "SchoolBuilding",
+        "Officer"
+      ]
+    },
+    {
+      "Id": 51,
+      "LocationId": 13,
+      "LocationRankForUnlock": 1,
+      "LocalizeEtcId": 698860447,
+      "StudentVisitProb": [
+        10000,
+        7500
+      ],
+      "RewardGroupId": [
+        131001
+      ],
+      "Tags": [
+        "Millennium",
+        "Transport",
+        "Sociable"
+      ]
+    },
+    {
+      "Id": 52,
+      "LocationId": 13,
+      "LocationRankForUnlock": 2,
+      "LocalizeEtcId": 2688045816,
+      "StudentVisitProb": [
+        10000,
+        7500
+      ],
+      "RewardGroupId": [
+        132001
+      ],
+      "Tags": [
+        "Millennium",
+        "Library",
+        "Intellectual"
+      ]
+    },
+    {
+      "Id": 53,
+      "LocationId": 13,
+      "LocationRankForUnlock": 3,
+      "LocalizeEtcId": 1022652590,
+      "StudentVisitProb": [
+        10000,
+        7500
+      ],
+      "RewardGroupId": [
+        133001
+      ],
+      "Tags": [
+        "Millennium",
+        "Convenience",
+        "Gourmet"
+      ]
+    },
+    {
+      "Id": 54,
+      "LocationId": 13,
+      "LocationRankForUnlock": 5,
+      "LocalizeEtcId": 2885237148,
+      "StudentVisitProb": [
+        10000,
+        7500
+      ],
+      "RewardGroupId": [
+        134001
+      ],
+      "Tags": [
+        "Millennium",
+        "Laboratory",
+        "Scientific"
+      ]
+    },
+    {
+      "Id": 55,
+      "LocationId": 13,
+      "LocationRankForUnlock": 6,
+      "LocalizeEtcId": 3070757653,
+      "StudentVisitProb": [
+        10000,
+        7500
+      ],
+      "RewardGroupId": [
+        135001
+      ],
+      "Tags": [
+        "Millennium",
+        "Itcenter",
+        "Scientific"
+      ]
+    },
+    {
+      "Id": 56,
+      "LocationId": 13,
+      "LocationRankForUnlock": 8,
+      "LocalizeEtcId": 1295016811,
+      "StudentVisitProb": [
+        10000,
+        10000,
+        7500
+      ],
+      "RewardGroupId": [
+        136001
+      ],
+      "Tags": [
+        "Millennium",
+        "Powerplant",
+        "Machine"
+      ]
+    },
+    {
+      "Id": 57,
+      "LocationId": 13,
+      "LocationRankForUnlock": 9,
+      "LocalizeEtcId": 895510277,
+      "StudentVisitProb": [
+        10000,
+        7500
+      ],
+      "RewardGroupId": [
+        137001
+      ],
+      "Tags": [
+        "Millennium",
+        "Gym",
+        "Healthy"
+      ]
     }
   ]
 }

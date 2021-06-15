@@ -11,6 +11,10 @@
     {
       "LocationRankSum": 25,
       "ScheduleTicktetMax": 5
+    },
+    {
+      "LocationRankSum": 50,
+      "ScheduleTicktetMax": 6
     }
   ]
 }

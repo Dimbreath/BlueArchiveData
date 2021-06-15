@@ -87,7 +87,8 @@
       "DefenseVictoryRewardMaxCount": 5,
       "TopRankerCountLimit": 100,
       "AutoRefreshIntervalMilliSeconds": 120000,
-      "EchelonSettingIntervalMilliSeconds": 120000
+      "EchelonSettingIntervalMilliSeconds": 120000,
+      "SkipAllowedTimeMilliSeconds": 120000
     }
   ]
 }

@@ -883,15 +883,18 @@
       "StatLevelUpType": "Standard",
       "StatType": [
         "CriticalChanceResistPoint_Base",
-        "CriticalDamageResistRate_Base"
+        "CriticalDamageResistRate_Base",
+        "CriticalPoint_Base"
       ],
       "MinStat": [
         260,
-        1100
+        1100,
+        60
       ],
       "MaxStat": [
         280,
-        1600
+        1500,
+        120
       ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
@@ -999,15 +1002,18 @@
       "StatLevelUpType": "Standard",
       "StatType": [
         "CriticalPoint_Base",
-        "CriticalDamageRate_Base"
+        "CriticalDamageRate_Base",
+        "MaxHP_Coefficient"
       ],
       "MinStat": [
         260,
-        1100
+        1100,
+        250
       ],
       "MaxStat": [
         280,
-        1600
+        1500,
+        500
       ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,
@@ -1125,17 +1131,17 @@
       "StatType": [
         "HealPower_Coefficient",
         "OppressionPower_Coefficient",
-        "MaxHP_Coefficient"
+        "AttackPower_Coefficient"
       ],
       "MinStat": [
         2600,
         2600,
-        500
+        250
       ],
       "MaxStat": [
         2800,
         2800,
-        1000
+        400
       ],
       "LevelUpInsertLimit": 20,
       "LevelUpFeedExp": 10,

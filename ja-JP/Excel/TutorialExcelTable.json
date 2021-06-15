@@ -344,6 +344,23 @@
       ]
     },
     {
+      "ID": 22,
+      "CompletionReportEventName": null,
+      "CompulsoryTutorial": false,
+      "DescriptionTutorial": false,
+      "TutorialStageId": 0,
+      "UIName": [
+        "UILobby",
+        "UIPopup_MenuCollection",
+        "UIPopup_AccountSettings"
+      ],
+      "TutorialParentName": [
+        "Tutorial_06",
+        "Tutorial_01",
+        "Tutorial_01"
+      ]
+    },
+    {
       "ID": 1011301,
       "CompletionReportEventName": null,
       "CompulsoryTutorial": false,

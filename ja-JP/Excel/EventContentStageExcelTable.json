@@ -1579,12 +1579,12 @@
       "StarConditionTacticRankSCount": 2,
       "StarConditionTurnCount": 2,
       "EnterScenarioGroupId": [
-        10000010
+        10000005
       ],
       "ClearScenarioGroupId": [],
       "StrategyMap": "StrategyMap_1011101",
       "StrategyMapBG": "hexa_back_01",
-      "EventContentStageRewardId": 8011301,
+      "EventContentStageRewardId": 8031101,
       "MaxTurn": 100,
       "StageTopography": "Street",
       "RecommandLevel": 14,
@@ -1619,7 +1619,7 @@
       ],
       "StrategyMap": "StrategyMap_1011101",
       "StrategyMapBG": "hexa_back_01",
-      "EventContentStageRewardId": 8011302,
+      "EventContentStageRewardId": 8031102,
       "MaxTurn": 100,
       "StageTopography": "Street",
       "RecommandLevel": 15,

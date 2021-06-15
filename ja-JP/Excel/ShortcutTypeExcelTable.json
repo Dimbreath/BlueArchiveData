@@ -1,0 +1,30 @@
+{
+  "DataList": [
+    {
+      "Id": 1,
+      "IsAscending": false,
+      "ContentType": [
+        "CampaignStage",
+        "EventStage",
+        "Blood",
+        "WeekDungeon",
+        "Arena",
+        "Raid",
+        "Shop"
+      ]
+    },
+    {
+      "Id": 10,
+      "IsAscending": false,
+      "ContentType": [
+        "Shop",
+        "EventStage",
+        "Blood",
+        "WeekDungeon",
+        "CampaignStage",
+        "Arena",
+        "Raid"
+      ]
+    }
+  ]
+}

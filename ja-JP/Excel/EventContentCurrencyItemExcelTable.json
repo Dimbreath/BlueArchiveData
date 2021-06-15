@@ -36,6 +36,11 @@
       "ItemUniqueId": 80012
     },
     {
+      "EventContentId": 803,
+      "EventContentItemType": "EventPoint",
+      "ItemUniqueId": 80000
+    },
+    {
       "EventContentId": 10001,
       "EventContentItemType": "EventPoint",
       "ItemUniqueId": 23

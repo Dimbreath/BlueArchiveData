@@ -706,7 +706,7 @@
       "LocalizeEtcId": 0
     },
     {
-      "Id": "TagName0002",
+      "Id": "F_Azusa",
       "IsOpen": true,
       "LocalizeEtcId": 0
     },
@@ -726,7 +726,7 @@
       "LocalizeEtcId": 0
     },
     {
-      "Id": "TagName0006",
+      "Id": "F_Koharu",
       "IsOpen": true,
       "LocalizeEtcId": 0
     },
@@ -842,6 +842,11 @@
     },
     {
       "Id": "F_Yuzu",
+      "IsOpen": true,
+      "LocalizeEtcId": 0
+    },
+    {
+      "Id": "F_Hanako",
       "IsOpen": true,
       "LocalizeEtcId": 0
     },
@@ -1226,22 +1231,17 @@
       "LocalizeEtcId": 0
     },
     {
-      "Id": "TagName0243",
+      "Id": "Transport",
       "IsOpen": false,
       "LocalizeEtcId": 0
     },
     {
-      "Id": "TagName0244",
+      "Id": "Itcenter",
       "IsOpen": false,
       "LocalizeEtcId": 0
     },
     {
-      "Id": "TagName0245",
-      "IsOpen": false,
-      "LocalizeEtcId": 0
-    },
-    {
-      "Id": "TagName0246",
+      "Id": "Powerplant",
       "IsOpen": false,
       "LocalizeEtcId": 0
     },

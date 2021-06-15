@@ -154,7 +154,7 @@
       "CurrencyOverChargeType": "CanNotCharge",
       "CurrencyAdditionalChargeType": "DisableAutoChargeOverLimit",
       "ChargeLimit": 2,
-      "OverChargeLimit": 5,
+      "OverChargeLimit": 9,
       "SpriteName": "Currency_Icon_ChaserATicket",
       "DailyRefillAmount": 2,
       "DailyRefillTime": [
@@ -207,7 +207,7 @@
       "CurrencyOverChargeType": "CanNotCharge",
       "CurrencyAdditionalChargeType": "DisableAutoChargeOverLimit",
       "ChargeLimit": 2,
-      "OverChargeLimit": 5,
+      "OverChargeLimit": 9,
       "SpriteName": "Currency_Icon_ChaserBTicket",
       "DailyRefillAmount": 2,
       "DailyRefillTime": [
@@ -226,7 +226,7 @@
       "CurrencyOverChargeType": "CanNotCharge",
       "CurrencyAdditionalChargeType": "DisableAutoChargeOverLimit",
       "ChargeLimit": 2,
-      "OverChargeLimit": 5,
+      "OverChargeLimit": 9,
       "SpriteName": "Currency_Icon_ChaserCTicket",
       "DailyRefillAmount": 2,
       "DailyRefillTime": [

@@ -20,7 +20,8 @@
       "CraftQuality": 5,
       "ShopCategory": [
         "General"
-      ]
+      ],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 2,
@@ -42,7 +43,8 @@
       "CraftQuality": 10,
       "ShopCategory": [
         "General"
-      ]
+      ],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 3,
@@ -64,7 +66,8 @@
       "CraftQuality": 20,
       "ShopCategory": [
         "General"
-      ]
+      ],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 4,
@@ -84,7 +87,8 @@
         "Equipment"
       ],
       "CraftQuality": 50,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 1000,
@@ -104,7 +108,8 @@
         "Hat"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 1001,
@@ -121,7 +126,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 1002,
@@ -138,7 +144,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 1003,
@@ -155,7 +162,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 1004,
@@ -172,7 +180,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 2000,
@@ -192,7 +201,8 @@
         "Gloves"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 2001,
@@ -209,7 +219,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 2002,
@@ -226,7 +237,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 2003,
@@ -243,7 +255,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 2004,
@@ -260,7 +273,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 3000,
@@ -280,7 +294,8 @@
         "Shoes"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 3001,
@@ -297,7 +312,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 3002,
@@ -314,7 +330,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 3003,
@@ -331,7 +348,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 3004,
@@ -348,7 +366,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 4000,
@@ -368,7 +387,8 @@
         "Bag"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 4001,
@@ -385,7 +405,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 4002,
@@ -402,7 +423,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 4003,
@@ -419,7 +441,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 4004,
@@ -436,7 +459,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5000,
@@ -456,7 +480,8 @@
         "Badge"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5001,
@@ -473,7 +498,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5002,
@@ -490,7 +516,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5003,
@@ -507,7 +534,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 5004,
@@ -524,7 +552,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 6000,
@@ -544,7 +573,8 @@
         "Hairpin"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 6001,
@@ -561,7 +591,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 6002,
@@ -578,7 +609,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 6003,
@@ -595,7 +627,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 6004,
@@ -612,7 +645,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 7000,
@@ -632,7 +666,8 @@
         "Charm"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 7001,
@@ -649,7 +684,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 7002,
@@ -666,7 +702,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 7003,
@@ -675,15 +712,16 @@
       "LocalizeEtcId": 3129277640,
       "Wear": false,
       "MaxLevel": 40,
-      "RecipeId": 0,
+      "RecipeId": 703,
       "TierInit": 4,
-      "NextTierEquipment": 0,
+      "NextTierEquipment": 7004,
       "StackableMax": 99999,
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Charm_Tier4",
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 7004,
@@ -700,7 +738,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 8000,
@@ -720,7 +759,8 @@
         "Watch"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 8001,
@@ -737,7 +777,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 8002,
@@ -754,7 +795,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 8003,
@@ -763,15 +805,16 @@
       "LocalizeEtcId": 1058159756,
       "Wear": false,
       "MaxLevel": 40,
-      "RecipeId": 0,
+      "RecipeId": 803,
       "TierInit": 4,
-      "NextTierEquipment": 0,
+      "NextTierEquipment": 8004,
       "StackableMax": 99999,
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Watch_Tier4",
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 8004,
@@ -788,7 +831,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 9000,
@@ -808,7 +852,8 @@
         "Necklace"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 9001,
@@ -825,7 +870,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 9002,
@@ -842,7 +888,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 9003,
@@ -851,15 +898,16 @@
       "LocalizeEtcId": 2508370757,
       "Wear": false,
       "MaxLevel": 40,
-      "RecipeId": 0,
+      "RecipeId": 903,
       "TierInit": 4,
-      "NextTierEquipment": 0,
+      "NextTierEquipment": 9004,
       "StackableMax": 99999,
       "Icon": "UIs/01_Common/02_Equipment/Equipment_Icon_Necklace_Tier4",
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 9004,
@@ -876,7 +924,8 @@
       "ImageName": null,
       "Tags": [],
       "CraftQuality": 0,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 101001,
@@ -896,7 +945,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 101002,
@@ -916,7 +966,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 101003,
@@ -936,7 +987,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 101004,
@@ -956,7 +1008,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 102001,
@@ -976,7 +1029,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 102002,
@@ -996,7 +1050,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 102003,
@@ -1016,7 +1071,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 102004,
@@ -1036,7 +1092,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 103001,
@@ -1056,7 +1113,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 103002,
@@ -1076,7 +1134,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 103003,
@@ -1096,7 +1155,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 103004,
@@ -1116,7 +1176,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 104001,
@@ -1136,7 +1197,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 104002,
@@ -1156,7 +1218,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 104003,
@@ -1176,7 +1239,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 104004,
@@ -1196,7 +1260,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 105001,
@@ -1216,7 +1281,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 105002,
@@ -1236,7 +1302,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 105003,
@@ -1256,7 +1323,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 105004,
@@ -1276,7 +1344,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 106001,
@@ -1296,7 +1365,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 106002,
@@ -1316,7 +1386,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 106003,
@@ -1336,7 +1407,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 106004,
@@ -1356,7 +1428,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 107001,
@@ -1376,7 +1449,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 107002,
@@ -1396,7 +1470,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 107003,
@@ -1416,7 +1491,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 107004,
@@ -1436,7 +1512,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 108001,
@@ -1456,7 +1533,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 108002,
@@ -1476,7 +1554,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 108003,
@@ -1496,7 +1575,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 108004,
@@ -1516,7 +1596,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 109001,
@@ -1536,7 +1617,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 109002,
@@ -1556,7 +1638,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 109003,
@@ -1576,7 +1659,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     },
     {
       "Id": 109004,
@@ -1596,7 +1680,8 @@
         "Piece"
       ],
       "CraftQuality": 5,
-      "ShopCategory": []
+      "ShopCategory": [],
+      "ShortcutTypeId": 0
     }
   ]
 }

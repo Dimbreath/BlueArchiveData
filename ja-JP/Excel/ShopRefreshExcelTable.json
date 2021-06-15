@@ -335,7 +335,7 @@
       "LocalizeEtcId": 2385765972,
       "IsLegacy": false,
       "GoodsId": 3100,
-      "DisplayOrder": 30,
+      "DisplayOrder": 40,
       "CategoryType": "Arena",
       "RefreshGroup": 1,
       "Prob": 50
@@ -345,7 +345,7 @@
       "LocalizeEtcId": 2075834651,
       "IsLegacy": false,
       "GoodsId": 3101,
-      "DisplayOrder": 40,
+      "DisplayOrder": 50,
       "CategoryType": "Arena",
       "RefreshGroup": 2,
       "Prob": 50
@@ -355,7 +355,7 @@
       "LocalizeEtcId": 525535910,
       "IsLegacy": false,
       "GoodsId": 3110,
-      "DisplayOrder": 130,
+      "DisplayOrder": 140,
       "CategoryType": "Arena",
       "RefreshGroup": 3,
       "Prob": 50
@@ -365,7 +365,7 @@
       "LocalizeEtcId": 4037036202,
       "IsLegacy": false,
       "GoodsId": 3111,
-      "DisplayOrder": 140,
+      "DisplayOrder": 150,
       "CategoryType": "Arena",
       "RefreshGroup": 4,
       "Prob": 50
@@ -375,7 +375,7 @@
       "LocalizeEtcId": 2928756764,
       "IsLegacy": false,
       "GoodsId": 3112,
-      "DisplayOrder": 150,
+      "DisplayOrder": 160,
       "CategoryType": "Arena",
       "RefreshGroup": 5,
       "Prob": 50
@@ -385,7 +385,7 @@
       "LocalizeEtcId": 2950679405,
       "IsLegacy": false,
       "GoodsId": 3113,
-      "DisplayOrder": 160,
+      "DisplayOrder": 170,
       "CategoryType": "Arena",
       "RefreshGroup": 6,
       "Prob": 50
@@ -395,7 +395,7 @@
       "LocalizeEtcId": 1688668283,
       "IsLegacy": false,
       "GoodsId": 3120,
-      "DisplayOrder": 50,
+      "DisplayOrder": 60,
       "CategoryType": "Arena",
       "RefreshGroup": 7,
       "Prob": 50
@@ -405,7 +405,7 @@
       "LocalizeEtcId": 2952503379,
       "IsLegacy": false,
       "GoodsId": 3121,
-      "DisplayOrder": 60,
+      "DisplayOrder": 70,
       "CategoryType": "Arena",
       "RefreshGroup": 8,
       "Prob": 50
@@ -415,7 +415,7 @@
       "LocalizeEtcId": 2949797158,
       "IsLegacy": false,
       "GoodsId": 3122,
-      "DisplayOrder": 70,
+      "DisplayOrder": 80,
       "CategoryType": "Arena",
       "RefreshGroup": 9,
       "Prob": 50
@@ -425,7 +425,7 @@
       "LocalizeEtcId": 2795379965,
       "IsLegacy": false,
       "GoodsId": 3123,
-      "DisplayOrder": 80,
+      "DisplayOrder": 90,
       "CategoryType": "Arena",
       "RefreshGroup": 10,
       "Prob": 50
@@ -448,6 +448,16 @@
       "DisplayOrder": 20,
       "CategoryType": "Arena",
       "RefreshGroup": 16,
+      "Prob": 50
+    },
+    {
+      "Id": 3012,
+      "LocalizeEtcId": 3864028658,
+      "IsLegacy": false,
+      "GoodsId": 3002,
+      "DisplayOrder": 30,
+      "CategoryType": "Arena",
+      "RefreshGroup": 17,
       "Prob": 50
     }
   ]

@@ -1561,6 +1561,54 @@
       "SoundPathJP": "Audio/VOC_JP/JP_Tutorial/Tutorial_210005_03"
     },
     {
+      "TalkId": 220001,
+      "AnimationName": "01",
+      "LocalizeKR": "이번에는 계정 연동에 대해 알아보겠습니다.",
+      "LocalizeJP": "これから、アカウント連携についてご紹介しますね。",
+      "SoundPathKR": "Audio/VOC_JP/JP_Tutorial/Tutorial_220001_01",
+      "SoundPathJP": "Audio/VOC_JP/JP_Tutorial/Tutorial_220001_01"
+    },
+    {
+      "TalkId": 220001,
+      "AnimationName": "02",
+      "LocalizeKR": "그럼 계정을 연동하러 가볼까요?",
+      "LocalizeJP": "では、早速行ってみましょうか？",
+      "SoundPathKR": "Audio/VOC_JP/JP_Tutorial/Tutorial_220001_02",
+      "SoundPathJP": "Audio/VOC_JP/JP_Tutorial/Tutorial_220001_02"
+    },
+    {
+      "TalkId": 220002,
+      "AnimationName": "01",
+      "LocalizeKR": "여기서 선생님의 계정을 다양한 사이트와 연동할 수 있습니다.",
+      "LocalizeJP": "ここで、先生のアカウント情報を、他の様々なアカウントと連携することができます。",
+      "SoundPathKR": "Audio/VOC_JP/JP_Tutorial/Tutorial_220002_01",
+      "SoundPathJP": "Audio/VOC_JP/JP_Tutorial/Tutorial_220002_01"
+    },
+    {
+      "TalkId": 220003,
+      "AnimationName": "02",
+      "LocalizeKR": "계정을 연동해 두면 다른 기기로 로그인하거나, 게임을 새로 다운받을 때, ",
+      "LocalizeJP": "アカウントを連携しておくことで、他の端末でログインしたり、ゲームを新たにダウンロードする際など",
+      "SoundPathKR": "Audio/VOC_JP/JP_Tutorial/Tutorial_220003_01",
+      "SoundPathJP": "Audio/VOC_JP/JP_Tutorial/Tutorial_220003_01"
+    },
+    {
+      "TalkId": 220003,
+      "AnimationName": "01",
+      "LocalizeKR": "그 외 다양한 상황에서 편리하게 활용할 수 있습니다.",
+      "LocalizeJP": "様々な場面で便利になりますので、ぜひ連携しておくことをおススメします！",
+      "SoundPathKR": "Audio/VOC_JP/JP_Tutorial/Tutorial_220003_02",
+      "SoundPathJP": "Audio/VOC_JP/JP_Tutorial/Tutorial_220003_02"
+    },
+    {
+      "TalkId": 220003,
+      "AnimationName": "03",
+      "LocalizeKR": "그럼 잘 부탁드립니다. 선생님.",
+      "LocalizeJP": "それではよろしくお願いしますね、先生！",
+      "SoundPathKR": "Audio/VOC_JP/JP_Tutorial/Tutorial_220003_03",
+      "SoundPathJP": "Audio/VOC_JP/JP_Tutorial/Tutorial_220003_03"
+    },
+    {
       "TalkId": 101130101,
       "AnimationName": "01",
       "LocalizeKR": "선생님이 앞으로 수행할 임무들을 위해, 특별 훈련을 준비했습니다",

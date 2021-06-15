@@ -55,6 +55,21 @@
       "RewardParcelType": "Item",
       "RewardParcelId": 4040,
       "OpenTeacherRank": 1
+    },
+    {
+      "Id": 13,
+      "LocalizeEtcId": 1111616358,
+      "PrefabPath": "Academy/Location_Millennium",
+      "IconImagePath": "UIs/00_Images/BigBtn/Location_Image_13",
+      "OpenCondition": [
+        "Millennium"
+      ],
+      "OpenConditionCount": [
+        10
+      ],
+      "RewardParcelType": "Item",
+      "RewardParcelId": 4050,
+      "OpenTeacherRank": 1
     }
   ]
 }

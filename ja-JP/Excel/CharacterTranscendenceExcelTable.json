@@ -1103,6 +1103,122 @@
       ]
     },
     {
+      "CharacterId": 10019,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10019000,
+        10019001,
+        10019002,
+        10019003
+      ],
+      "SkillGroupIdA": [
+        "CH0056Ex01",
+        "CH0056Passive01",
+        "CH0056ExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "CH0056Public01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 10020,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        10020000,
+        10020001,
+        10020002,
+        10020003
+      ],
+      "SkillGroupIdA": [
+        "CH0057Ex01",
+        "CH0057Passive01",
+        "CH0057ExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "CH0057Public01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
       "CharacterId": 13000,
       "MaxFavorLevel": [
         10,
@@ -2544,14 +2660,14 @@
       ],
       "RecipeId": [],
       "SkillGroupIdA": [
-        "None",
-        "None",
-        "None",
+        "CH0062Ex01",
+        "CH0062Passive01",
+        "CH0062ExtraPassive01",
         "None",
         "None"
       ],
       "SkillGroupIdB": [
-        "None",
+        "CH0062Public01",
         "None",
         "None",
         "None",
@@ -3097,6 +3213,59 @@
     },
     {
       "CharacterId": 19019,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [],
+      "SkillGroupIdA": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 19020,
       "MaxFavorLevel": [
         10,
         10,
@@ -3773,6 +3942,64 @@
       ],
       "SkillGroupIdB": [
         "ShizukoPublic01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "MaxlevelStar": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "CharacterId": 23007,
+      "MaxFavorLevel": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "StatBonusRateAttack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "StatBonusRateHP": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "StatBonusRateHeal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "RecipeId": [
+        23007000,
+        23007001,
+        23007002,
+        23007003
+      ],
+      "SkillGroupIdA": [
+        "CH0055Ex01",
+        "CH0055Passive01",
+        "CH0055ExtraPassive01",
+        "None",
+        "None"
+      ],
+      "SkillGroupIdB": [
+        "CH0055Public01",
         "None",
         "None",
         "None",

@@ -985,6 +985,57 @@
       "SwithId": 0,
       "BuffId": 0,
       "Disposable": true
+    },
+    {
+      "Id": 1142101,
+      "Key": 3417393760,
+      "Name": "14-1 (H) 1회성 보상",
+      "PrefabName": "RewardObject_OneTime_01_Mesh",
+      "StrategyObjectType": "ParcelOneTimePerAccount",
+      "StrategyRewardParcelType": "Currency",
+      "StrategyRewardID": 3,
+      "StrategyRewardName": "GEM_BONUS",
+      "StrategyRewardAmount": 50,
+      "StrategySightRange": 0,
+      "PortalId": 0,
+      "HealValue": 0,
+      "SwithId": 0,
+      "BuffId": 0,
+      "Disposable": true
+    },
+    {
+      "Id": 1142102,
+      "Key": 3417393760,
+      "Name": "14-2 (H) 1회성 보상",
+      "PrefabName": "RewardObject_OneTime_01_Mesh",
+      "StrategyObjectType": "ParcelOneTimePerAccount",
+      "StrategyRewardParcelType": "Currency",
+      "StrategyRewardID": 3,
+      "StrategyRewardName": "GEM_BONUS",
+      "StrategyRewardAmount": 50,
+      "StrategySightRange": 0,
+      "PortalId": 0,
+      "HealValue": 0,
+      "SwithId": 0,
+      "BuffId": 0,
+      "Disposable": true
+    },
+    {
+      "Id": 1142103,
+      "Key": 3417393760,
+      "Name": "14-3 (H) 1회성 보상",
+      "PrefabName": "RewardObject_OneTime_01_Mesh",
+      "StrategyObjectType": "ParcelOneTimePerAccount",
+      "StrategyRewardParcelType": "Currency",
+      "StrategyRewardID": 3,
+      "StrategyRewardName": "GEM_BONUS",
+      "StrategyRewardAmount": 50,
+      "StrategySightRange": 0,
+      "PortalId": 0,
+      "HealValue": 0,
+      "SwithId": 0,
+      "BuffId": 0,
+      "Disposable": true
     }
   ]
 }

@@ -97,7 +97,7 @@
     {
       "Id": 50002,
       "CategoryType": "NormalGacha",
-      "IsLegacy": true,
+      "IsLegacy": false,
       "GoodsId": [
         30000,
         30001
@@ -120,7 +120,7 @@
     {
       "Id": 50003,
       "CategoryType": "NormalGacha",
-      "IsLegacy": true,
+      "IsLegacy": false,
       "GoodsId": [
         30002,
         30003
@@ -143,7 +143,7 @@
     {
       "Id": 50004,
       "CategoryType": "PickupGacha",
-      "IsLegacy": true,
+      "IsLegacy": false,
       "GoodsId": [
         35000,
         35001
@@ -170,7 +170,7 @@
     {
       "Id": 50005,
       "CategoryType": "PickupGacha",
-      "IsLegacy": true,
+      "IsLegacy": false,
       "GoodsId": [
         35002,
         35003
@@ -195,7 +195,7 @@
     {
       "Id": 50010,
       "CategoryType": "NormalGacha",
-      "IsLegacy": true,
+      "IsLegacy": false,
       "GoodsId": [
         30010,
         30011
@@ -218,7 +218,7 @@
     {
       "Id": 50011,
       "CategoryType": "PickupGacha",
-      "IsLegacy": true,
+      "IsLegacy": false,
       "GoodsId": [
         35010,
         35011
@@ -245,7 +245,7 @@
     {
       "Id": 50012,
       "CategoryType": "NormalGacha",
-      "IsLegacy": true,
+      "IsLegacy": false,
       "GoodsId": [
         30012,
         30013
@@ -268,7 +268,7 @@
     {
       "Id": 50013,
       "CategoryType": "PickupGacha",
-      "IsLegacy": true,
+      "IsLegacy": false,
       "GoodsId": [
         35012,
         35013
@@ -293,7 +293,7 @@
     {
       "Id": 50014,
       "CategoryType": "NormalGacha",
-      "IsLegacy": true,
+      "IsLegacy": false,
       "GoodsId": [
         30014,
         30015
@@ -316,7 +316,7 @@
     {
       "Id": 50015,
       "CategoryType": "PickupGacha",
-      "IsLegacy": true,
+      "IsLegacy": false,
       "GoodsId": [
         35014,
         35015
@@ -341,7 +341,7 @@
     {
       "Id": 50020,
       "CategoryType": "NormalGacha",
-      "IsLegacy": true,
+      "IsLegacy": false,
       "GoodsId": [
         30020,
         30021
@@ -364,7 +364,7 @@
     {
       "Id": 50021,
       "CategoryType": "PickupGacha",
-      "IsLegacy": true,
+      "IsLegacy": false,
       "GoodsId": [
         35020,
         35021
@@ -389,7 +389,7 @@
     {
       "Id": 50022,
       "CategoryType": "NormalGacha",
-      "IsLegacy": true,
+      "IsLegacy": false,
       "GoodsId": [
         30022,
         30023
@@ -412,7 +412,7 @@
     {
       "Id": 50023,
       "CategoryType": "PickupGacha",
-      "IsLegacy": true,
+      "IsLegacy": false,
       "GoodsId": [
         35022,
         35023
@@ -439,7 +439,7 @@
     {
       "Id": 50024,
       "CategoryType": "NormalGacha",
-      "IsLegacy": true,
+      "IsLegacy": false,
       "GoodsId": [
         30024,
         30025
@@ -462,7 +462,7 @@
     {
       "Id": 50025,
       "CategoryType": "PickupGacha",
-      "IsLegacy": true,
+      "IsLegacy": false,
       "GoodsId": [
         35024,
         35025
@@ -487,7 +487,7 @@
     {
       "Id": 50030,
       "CategoryType": "NormalGacha",
-      "IsLegacy": true,
+      "IsLegacy": false,
       "GoodsId": [
         30030,
         30031
@@ -510,7 +510,7 @@
     {
       "Id": 50031,
       "CategoryType": "PickupGacha",
-      "IsLegacy": true,
+      "IsLegacy": false,
       "GoodsId": [
         35030,
         35031
@@ -576,6 +576,104 @@
       "SalePeriodTo": "05/27/2021 12:00:00",
       "RecruitCoinId": 70009,
       "RecruitSellectionShopId": 10031,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 50040,
+      "CategoryType": "NormalGacha",
+      "IsLegacy": false,
+      "GoodsId": [
+        30040,
+        30041
+      ],
+      "GoodsDevName": null,
+      "DisplayOrder": 30,
+      "MovieBannerPath": [
+        "Gacha_Banner_Normal.mp4"
+      ],
+      "LinkedRobbyBannerId": 40,
+      "InfoCharacterId": [],
+      "SalePeriodFrom": "05/27/2021 12:30:00",
+      "SalePeriodTo": "06/10/2021 12:00:00",
+      "RecruitCoinId": 70010,
+      "RecruitSellectionShopId": 10040,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 50041,
+      "CategoryType": "PickupGacha",
+      "IsLegacy": false,
+      "GoodsId": [
+        35040,
+        35041
+      ],
+      "GoodsDevName": null,
+      "DisplayOrder": 10,
+      "MovieBannerPath": [
+        "Gacha_Banner_210527_1.mp4",
+        "Gacha_Banner_210527_2.mp4"
+      ],
+      "LinkedRobbyBannerId": 41,
+      "InfoCharacterId": [
+        10019,
+        23007
+      ],
+      "SalePeriodFrom": "05/27/2021 12:30:00",
+      "SalePeriodTo": "06/10/2021 12:00:00",
+      "RecruitCoinId": 70010,
+      "RecruitSellectionShopId": 10040,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 50042,
+      "CategoryType": "NormalGacha",
+      "IsLegacy": false,
+      "GoodsId": [
+        30042,
+        30043
+      ],
+      "GoodsDevName": null,
+      "DisplayOrder": 30,
+      "MovieBannerPath": [
+        "Gacha_Banner_Normal.mp4"
+      ],
+      "LinkedRobbyBannerId": 42,
+      "InfoCharacterId": [],
+      "SalePeriodFrom": "06/10/2021 12:30:00",
+      "SalePeriodTo": "06/24/2021 12:00:00",
+      "RecruitCoinId": 70011,
+      "RecruitSellectionShopId": 10041,
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None"
+    },
+    {
+      "Id": 50043,
+      "CategoryType": "PickupGacha",
+      "IsLegacy": false,
+      "GoodsId": [
+        35042,
+        35043
+      ],
+      "GoodsDevName": null,
+      "DisplayOrder": 10,
+      "MovieBannerPath": [
+        "Gacha_Banner_210610_1.mp4"
+      ],
+      "LinkedRobbyBannerId": 43,
+      "InfoCharacterId": [
+        10020
+      ],
+      "SalePeriodFrom": "06/10/2021 12:30:00",
+      "SalePeriodTo": "06/24/2021 12:00:00",
+      "RecruitCoinId": 70011,
+      "RecruitSellectionShopId": 10041,
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 0,
       "PurchaseCountResetType": "None"

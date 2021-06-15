@@ -97,6 +97,22 @@
       "Mail": false
     },
     {
+      "Protocol": "Account_Auth2",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Account_LinkReward",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
       "Protocol": "Character_List",
       "ContentLockType": "None",
       "OpenConditionContent": "None",
@@ -449,6 +465,22 @@
       "Mail": true
     },
     {
+      "Protocol": "Mission_GuideReward",
+      "ContentLockType": "NotUseControlledByOtherSetting",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": true
+    },
+    {
+      "Protocol": "Mission_MultipleGuideReward",
+      "ContentLockType": "NotUseControlledByOtherSetting",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": true
+    },
+    {
       "Protocol": "Attendance_List",
       "ContentLockType": "None",
       "OpenConditionContent": "None",
@@ -511,6 +543,22 @@
       "Currency": false,
       "Inventory": false,
       "Mail": true
+    },
+    {
+      "Protocol": "Shop_BuyGacha2",
+      "ContentLockType": "Gacha",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Shop_GachaRecruitList",
+      "ContentLockType": "Gacha",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
     },
     {
       "Protocol": "Recipe_Craft",
@@ -703,6 +751,14 @@
       "Currency": false,
       "Inventory": false,
       "Mail": false
+    },
+    {
+      "Protocol": "Raid_Sweep",
+      "ContentLockType": "Raid",
+      "OpenConditionContent": "Raid",
+      "Currency": true,
+      "Inventory": true,
+      "Mail": true
     },
     {
       "Protocol": "SkipHistory_List",
@@ -1161,6 +1217,30 @@
       "Mail": true
     },
     {
+      "Protocol": "Academy_AttendFavorSchedule",
+      "ContentLockType": "NotUseControlledByOtherSetting",
+      "OpenConditionContent": "Academy",
+      "Currency": false,
+      "Inventory": true,
+      "Mail": true
+    },
+    {
+      "Protocol": "Event_GetList",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "Event_GetImage",
+      "ContentLockType": "None",
+      "OpenConditionContent": "None",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
       "Protocol": "Event_UseCoupon",
       "ContentLockType": "None",
       "OpenConditionContent": "None",
@@ -1570,6 +1650,22 @@
     },
     {
       "Protocol": "EventContent_BoxGachaShopRefresh",
+      "ContentLockType": "EventContent",
+      "OpenConditionContent": "EventContent",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "EventContent_CollectionList",
+      "ContentLockType": "EventContent",
+      "OpenConditionContent": "EventContent",
+      "Currency": false,
+      "Inventory": false,
+      "Mail": false
+    },
+    {
+      "Protocol": "EventContent_CollectionForMission",
       "ContentLockType": "EventContent",
       "OpenConditionContent": "EventContent",
       "Currency": false,

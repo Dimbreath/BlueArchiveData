@@ -59,6 +59,12 @@
       "ExpiredDay": 7,
       "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
       "Comment": "UI_MAILBOX_CLAN_ATTENDANCE_REWARD_MESSAGE_NORMAL"
+    },
+    {
+      "MailType": "AccountLink",
+      "ExpiredDay": 7,
+      "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+      "Comment": "UI_MAILBOX_ACCOUNT_LINK_REWARD_MESSAGE_NORMAL"
     }
   ]
 }

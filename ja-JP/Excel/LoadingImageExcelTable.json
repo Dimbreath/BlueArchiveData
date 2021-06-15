@@ -2,114 +2,126 @@
   "DataList": [
     {
       "ID": 1,
+      "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_01_kr",
+      "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_01_jp",
+      "DisplayWeight": 10
+    },
+    {
+      "ID": 2,
       "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_02_kr",
       "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_02_jp",
       "DisplayWeight": 10
     },
     {
-      "ID": 2,
+      "ID": 3,
       "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_03_kr",
       "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_03_jp",
       "DisplayWeight": 10
     },
     {
-      "ID": 3,
+      "ID": 4,
       "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_04_kr",
       "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_04_jp",
       "DisplayWeight": 10
     },
     {
-      "ID": 4,
+      "ID": 5,
       "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_05_kr",
       "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_05_jp",
       "DisplayWeight": 10
     },
     {
-      "ID": 5,
+      "ID": 6,
       "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_06_kr",
       "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_06_jp",
       "DisplayWeight": 10
     },
     {
-      "ID": 6,
+      "ID": 7,
       "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_07_kr",
       "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_07_jp",
       "DisplayWeight": 10
     },
     {
-      "ID": 7,
+      "ID": 8,
+      "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_08_kr",
+      "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_08_jp",
+      "DisplayWeight": 10
+    },
+    {
+      "ID": 9,
       "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_09_kr",
       "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_09_jp",
       "DisplayWeight": 10
     },
     {
-      "ID": 8,
+      "ID": 10,
       "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_10_kr",
       "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_10_jp",
       "DisplayWeight": 10
     },
     {
-      "ID": 9,
+      "ID": 11,
       "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_11_kr",
       "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_11_jp",
       "DisplayWeight": 10
     },
     {
-      "ID": 10,
+      "ID": 12,
       "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_12_kr",
       "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_12_jp",
       "DisplayWeight": 10
     },
     {
-      "ID": 11,
+      "ID": 13,
       "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_13_kr",
       "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_13_jp",
       "DisplayWeight": 10
     },
     {
-      "ID": 12,
+      "ID": 14,
       "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_14_kr",
       "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_14_jp",
       "DisplayWeight": 10
     },
     {
-      "ID": 13,
+      "ID": 15,
       "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_15_kr",
       "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_15_jp",
       "DisplayWeight": 10
     },
     {
-      "ID": 14,
+      "ID": 16,
       "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_16_kr",
       "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_16_jp",
       "DisplayWeight": 10
     },
     {
-      "ID": 15,
+      "ID": 17,
       "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_17_kr",
       "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_17_jp",
       "DisplayWeight": 10
     },
     {
-      "ID": 16,
+      "ID": 18,
       "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_18_kr",
       "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_18_jp",
       "DisplayWeight": 10
     },
     {
-      "ID": 17,
+      "ID": 19,
       "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_19_kr",
       "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_19_jp",
       "DisplayWeight": 10
     },
     {
-      "ID": 18,
+      "ID": 20,
       "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_20_kr",
       "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_20_jp",
       "DisplayWeight": 10
     },
     {
-      "ID": 19,
+      "ID": 21,
       "ImagePathKr": "UIs/01_Common/12_Loading/LoadingImage_21_kr",
       "ImagePathJp": "UIs/01_Common/12_Loading/LoadingImage_21_jp",
       "DisplayWeight": 10
