@@ -1,6 +1,15 @@
 {
   "DataList": [
     {
+      "Key": 682782732,
+      "NameKr": "글자길이제어용텍스트",
+      "DescriptionKr": "TestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTest",
+      "SkillInvokeLocalizeKr": null,
+      "NameJp": "文字の長さ制御用テキスト",
+      "DescriptionJp": "TestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTest",
+      "SkillInvokeLocalizeJp": null
+    },
+    {
       "Key": 4212677786,
       "NameKr": "연사 모드!",
       "DescriptionKr": "공격력 [c][007eff]29.1%[-][/c] 증가 ,일반공격 딜레이 [c][007eff]3회[-][/c] 무시 ([c][007eff]30초[-][/c]간)/\n즉시 재장전",
@@ -23862,10 +23871,10 @@
     {
       "Key": 654060030,
       "NameKr": "성스러운 빛 (성유물)",
-      "DescriptionKr": "성유물 체력 [c][007eff]100%[-][/c] 치유 시 각각의 스킬 발동\n이후 받는 치유률 [c][007eff]50%[-][/c] 감소 ([c][007eff]20초[-][/c]간)\n녹색 성유물: 예로니무스가 받는 피해 [c][007eff]55%[-][/c]만큼 증가 (최대 5중첩)\n적색 성유물: 예로니무스의 스킬을 방해한다. 성공 시 아군 학생의\n코스트 회복력 [c][007eff]2500[-][/c] 증가 (1초간)(최대 4인)",
+      "DescriptionKr": "성유물 체력 [c][007eff]100%[-][/c] 치유 시 각각의 스킬 발동\n이후 받는 치유률 [c][007eff]50%[-][/c] 감소 ([c][007eff]20초[-][/c]간)\n녹색 성유물: 예로니무스가 받는 피해 [c][007eff]55%[-][/c]만큼 증가 (최대 5중첩)\n적색 성유물: 예로니무스의 스킬을 방해한다. 성공 시 아군 학생의\n코스트 회복력 [c][007eff]2500[-][/c] 증가 ([c][007eff]1초[-][/c]간)(최대 4인)",
       "SkillInvokeLocalizeKr": null,
       "NameJp": "聖なる光（聖遺物）",
-      "DescriptionJp": "聖遺物のHPが[c][007eff]100%[-][/c]まで回復した時に発動。\n発動後、被回復率を[c][007eff]50%[-][/c]減少（[c][007eff]20秒[-][/c]間）\n緑色の聖遺物の場合、ヒエロニムスの被ダメージ量が[c][007eff]55%[-][/c]増加（最大で5回分まで効果が重複）\n赤色の聖遺物の場合、ヒエロニムスのスキル発動を妨害。妨害に成功した時、味方生徒のコスト回復力を[c][007eff]2500[-][/c]増加（1秒間）（最大で4人分まで）",
+      "DescriptionJp": "聖遺物のHPが[c][007eff]100%[-][/c]まで回復した時に発動。\n発動後、被回復率を[c][007eff]50%[-][/c]減少（[c][007eff]20秒[-][/c]間）\n緑色の聖遺物の場合、ヒエロニムスの被ダメージ量が[c][007eff]55%[-][/c]増加（最大で5回分まで効果が重複）\n赤色の聖遺物の場合、ヒエロニムスのスキル発動を妨害。妨害に成功した時、味方生徒のコスト回復力を[c][007eff]2500[-][/c]増加（[c][007eff]1秒[-][/c]間）（最大で4人分まで）",
       "SkillInvokeLocalizeJp": null
     }
   ]

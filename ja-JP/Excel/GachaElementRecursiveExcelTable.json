@@ -661,6 +661,56 @@
       "State": 1
     },
     {
+      "ID": 1013,
+      "GachaGroupID": 70,
+      "ParcelType": "GachaGroup",
+      "ParcelID": 71,
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 0,
+      "State": 1
+    },
+    {
+      "ID": 1014,
+      "GachaGroupID": 70,
+      "ParcelType": "GachaGroup",
+      "ParcelID": 72,
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 0,
+      "State": 1
+    },
+    {
+      "ID": 1015,
+      "GachaGroupID": 70,
+      "ParcelType": "GachaGroup",
+      "ParcelID": 73,
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 0,
+      "State": 1
+    },
+    {
+      "ID": 1016,
+      "GachaGroupID": 79,
+      "ParcelType": "GachaGroup",
+      "ParcelID": 72,
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 0,
+      "State": 1
+    },
+    {
+      "ID": 1017,
+      "GachaGroupID": 79,
+      "ParcelType": "GachaGroup",
+      "ParcelID": 73,
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 0,
+      "State": 1
+    },
+    {
       "ID": 1018,
       "GachaGroupID": 100010,
       "ParcelType": "GachaGroup",
@@ -835,6 +885,96 @@
       "GachaGroupID": 100039,
       "ParcelType": "GachaGroup",
       "ParcelID": 100043,
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 0,
+      "State": 1
+    },
+    {
+      "ID": 1036,
+      "GachaGroupID": 100050,
+      "ParcelType": "GachaGroup",
+      "ParcelID": 100051,
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 0,
+      "State": 1
+    },
+    {
+      "ID": 1037,
+      "GachaGroupID": 100050,
+      "ParcelType": "GachaGroup",
+      "ParcelID": 100052,
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 0,
+      "State": 1
+    },
+    {
+      "ID": 1038,
+      "GachaGroupID": 100050,
+      "ParcelType": "GachaGroup",
+      "ParcelID": 100053,
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 0,
+      "State": 1
+    },
+    {
+      "ID": 1039,
+      "GachaGroupID": 100050,
+      "ParcelType": "GachaGroup",
+      "ParcelID": 100062,
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 0,
+      "State": 1
+    },
+    {
+      "ID": 1040,
+      "GachaGroupID": 100050,
+      "ParcelType": "GachaGroup",
+      "ParcelID": 100063,
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 0,
+      "State": 1
+    },
+    {
+      "ID": 1041,
+      "GachaGroupID": 100059,
+      "ParcelType": "GachaGroup",
+      "ParcelID": 100052,
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 0,
+      "State": 1
+    },
+    {
+      "ID": 1042,
+      "GachaGroupID": 100059,
+      "ParcelType": "GachaGroup",
+      "ParcelID": 100053,
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 0,
+      "State": 1
+    },
+    {
+      "ID": 1043,
+      "GachaGroupID": 100059,
+      "ParcelType": "GachaGroup",
+      "ParcelID": 100062,
+      "ParcelAmountMin": 1,
+      "ParcelAmountMax": 1,
+      "Prob": 0,
+      "State": 1
+    },
+    {
+      "ID": 1044,
+      "GachaGroupID": 100059,
+      "ParcelType": "GachaGroup",
+      "ParcelID": 100063,
       "ParcelAmountMin": 1,
       "ParcelAmountMax": 1,
       "Prob": 0,

@@ -4451,6 +4451,35 @@
       ]
     },
     {
+      "Id": 10120,
+      "Type": 1,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Item"
+      ],
+      "ConsumeParcelId": [
+        70012
+      ],
+      "ConsumeParcelAmount": [
+        200
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Character"
+      ],
+      "ParcelId": [
+        10003
+      ],
+      "ParcelAmount": [
+        1
+      ]
+    },
+    {
       "Id": 20000,
       "Type": 1,
       "IconPath": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Aru",
@@ -7502,6 +7531,73 @@
       ]
     },
     {
+      "Id": 30044,
+      "Type": 2,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        120
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item",
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        70012,
+        70
+      ],
+      "ParcelAmount": [
+        1,
+        1
+      ]
+    },
+    {
+      "Id": 30045,
+      "Type": 2,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        1200
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item",
+        "GachaGroup",
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        70012,
+        70,
+        79
+      ],
+      "ParcelAmount": [
+        10,
+        9,
+        1
+      ]
+    },
+    {
       "Id": 35000,
       "Type": 2,
       "IconPath": null,
@@ -8208,6 +8304,73 @@
         70011,
         100030,
         100039
+      ],
+      "ParcelAmount": [
+        10,
+        9,
+        1
+      ]
+    },
+    {
+      "Id": 35044,
+      "Type": 2,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        120
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item",
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        70012,
+        100050
+      ],
+      "ParcelAmount": [
+        1,
+        1
+      ]
+    },
+    {
+      "Id": 35045,
+      "Type": 2,
+      "IconPath": null,
+      "ConsumeParcelType": [
+        "Currency"
+      ],
+      "ConsumeParcelId": [
+        4
+      ],
+      "ConsumeParcelAmount": [
+        1200
+      ],
+      "ConsumeCondition": [
+        "And"
+      ],
+      "ConsumeExtraStep": [],
+      "ConsumeExtraAmount": [],
+      "State": 1,
+      "ParcelType": [
+        "Item",
+        "GachaGroup",
+        "GachaGroup"
+      ],
+      "ParcelId": [
+        70012,
+        100050,
+        100059
       ],
       "ParcelAmount": [
         10,

@@ -97,6 +97,36 @@
       "GroupType": "Reward_General"
     },
     {
+      "ID": 70,
+      "NameKr": "3차 일반 가챠",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 71,
+      "NameKr": "3차 일반 가챠 R",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 72,
+      "NameKr": "3차 일반 가챠 SR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 73,
+      "NameKr": "3차 일반 가챠 SSR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 79,
+      "NameKr": "3차 일반 가챠 SSR + SSR (10번째)",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
       "ID": 100,
       "NameKr": "N 활동 보고서",
       "IsRecursive": false,
@@ -753,6 +783,48 @@
     {
       "ID": 100043,
       "NameKr": "2차 픽업 코하루",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 100050,
+      "NameKr": "3차 픽업",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 100051,
+      "NameKr": "3차 픽업 R",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 100052,
+      "NameKr": "3차 픽업 SR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 100053,
+      "NameKr": "3차 픽업 SSR",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 100059,
+      "NameKr": "3차 픽업 SR + SSR (10번째)",
+      "IsRecursive": true,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 100062,
+      "NameKr": "3차 픽업 SR 더미",
+      "IsRecursive": false,
+      "GroupType": "Reward_General"
+    },
+    {
+      "ID": 100063,
+      "NameKr": "3차 픽업 히후미",
       "IsRecursive": false,
       "GroupType": "Reward_General"
     },
